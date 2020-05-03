@@ -157,6 +157,10 @@ n="15"/><gap reason="lost" unit="character" quantity="2"/><gap reason="illegible
 <lb n="18"/><unclear>bhāvyā</unclear></lem>
                      <note>It seems the engraver has written <foreign>ccit</foreign> rather than expected <foreign>cit</foreign>. For similar phraseology, from the Licchavi corpus, closely related to Śaśāṅka in time and place, we may cite the <!-- argr: value of target to be filled in when the Licchavi inscriptions will have been encoded for DHARMA. --><ref target="...">Ādi-Nārāyaṇa Temple Inscription of Thankot</ref><!--Regmi 1983, vol. I, no. 20--> (lines 20–21, 25–27): <foreign>na kena cid asmat-pādopajīvinā svalpāpy ābādhā kartavyā <gap reason="ellipsis"/> ye ’py āgāmino rājāno ’smad-vaṁśyā bhaviṣyanti te ’py enām asmad-dattām bhūmim anumoditum arhanti yatkāraṇaṁ bahubhir vvasudhā <gap reason="ellipsis"/></foreign>; and the <!-- argr: value of target to be filled in when the Licchavi inscriptions will have been encoded for DHARMA. --><ref target="...">Luñjhya (Patan Palace) Inscription</ref> <!--(Regmi 1983, vol. I, no. 116,--> lines 12–13): <foreign>alpāpi bādhā na kāryā</foreign>.  Cf. also <foreign>na kena cid vādhā kāraṇīyā</foreign> in the <!-- argr: value of target to be filled in when these northern Orissa inscriptions will have been encoded for DHARMA. --><ref target="...">Soro plate of Bhānu, year 5</ref> <!--(Majumdar 1935–36: 203)--> (line 12).  In view of these and numerous other parallels, the gerundive <foreign>bhāvyā</foreign> is surprising in our context. But it is impossible to read either <foreign>kāry(y)ā</foreign> or <foreign>kart(t)avyā</foreign>, whereas <foreign>bhāvyā</foreign> seems a permissible reading.</note>
                   </app>
+<app loc="20">
+	<lem><orig>vāpi</orig></lem>
+	<note>The syllable <foreign>pi</foreign> is not grammatically incorrect but needs to be deleted to obtain regular meter.</note>
+	</app>
                </listApp>
 </div>
          </div>
