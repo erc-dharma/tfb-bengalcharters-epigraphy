@@ -93,11 +93,11 @@ n="14"/><supplied reason="lost">ya</supplied>śasvāmi<supplied reason="omitted"
 n="15"/><gap reason="lost" unit="character" quantity="2"/><gap reason="illegible" unit="character" quantity="1"/>nasagotro bhogayaśasvāmi-vidagdhasvāmi-budhasvāmi<supplied reason="omitted">na</supplied>ś cety ebh<unclear>y</unclear>as tāmraśāsanīkr̥<unclear>tya</unclear> datt<unclear>o</unclear></p><p>sīmā tas<unclear>y</unclear>a
 <pb n="1v"/>
 <lb n="16"/><supplied reason="lost">pūrvve</supplied><unclear>ṇa suktra</unclear>varddhārṣaka dakṣiṇena <gap reason="illegible" unit="character" quantity="7"/> paścimena <unclear>gomayakha</unclear>ṇḍaḥ Uttareṇa <unclear>śākrārṣā</unclear>vakratāyā
-<lb n="17"/><supplied reason="lost">tāś</supplied> <unclear>ca</unclear> pāñcavarṣ<choice><sic>aI</sic><corr>i</corr></choice>kā
+<lb n="17"/><supplied reason="lost">tāś</supplied> <unclear>ca</unclear> pāñca<choice><orig>varṣ<choice><sic>aI</sic><corr>ayi</corr></choice>kā</orig><reg>varṣikā</reg></choice>
 <!-- four encoding choices:
 1. pāñcavarṣ<choice><orig>aI</orig><reg>ayi</reg></choice>kā (plus a note)
 2. pāñcavarṣ<choice><orig>aI</orig><reg>i</reg></choice>kā (plus a note explaining that aI is probably a non-standard way of writing the non-standard form with ayi)
-3. pāñca<choice><orig>varṣ<choice><sic>aI</sic><corr>ayi</corr>kā</orig><reg>varṣikā</reg></choice> INVALID
+3. pāñca<choice><orig>varṣ<choice><sic>aI</sic><corr>ayi</corr></choice>kā</orig><reg>varṣikā</reg></choice>
 4. pāñcavarṣ<choice><sic>aI</sic><corr>i</corr></choice>kā
  --> Ity ābhis sīmābhir viṅśatik<unclear>ā</unclear>rṣāpaṇyabh<unclear>o</unclear>gādā<unclear>na</unclear>m upa<unclear>lavdha</unclear>n tattra na kena <choice><orig><unclear>cc</unclear></orig><reg>c</reg></choice>it svalp<unclear>āpy ā</unclear>vādhā 
 <lb n="18"/><unclear>bhāvyā</unclear></p><p>kāraṇaṁ</p> 
@@ -158,9 +158,8 @@ n="15"/><gap reason="lost" unit="character" quantity="2"/><gap reason="illegible
 <note>The redundant compound <foreign>sa-karaṇa-upeta</foreign> is synonymous with <foreign>sa-adhikaraṇa-upeta</foreign> seen above. The use of <foreign>karaṇa</foreign> for <foreign>adhikaraṇa</foreign> is also found in the <ref target="tfbBengalCharters00067.xml">Antla plate of the time of Śaśāṅka, year 8</ref> (seal and line 7) and the <ref target="tfbBengalCharters00068.xml">Antla plate of the time of Śaśāṅka, year 19</ref> (seal and line 9).</note>
 </app>
  	<app loc="17">
-		<lem>pāñcavarṣ<choice><sic>aI</sic><corr>i</corr></choice>kā</lem>                 
-		<note>The scribed intended to write the word <foreign>pāñcavarṣayikā</foreign>, but <foreign>pāñcavarṣikā</foreign> is the correct form.</note><!-- rejected encoding options: 	(1) pāñca<choice><orig>varṣa<choice><orig>I</orig><reg>yi</reg></choice>kā</orig><reg>varṣikā</reg></choice> 
-	(2) lem>pāñcavarṣa<choice><orig>I</orig><reg>yi</reg></choice>kā</lem> -->
+		<lem>pāñca<choice><orig>varṣ<choice><sic>aI</sic><corr>ayi</corr></choice>kā</orig><reg>varṣikā</reg></choice></lem>                 
+		<note>The scribed intended to write the word <foreign>pāñcavarṣayikā</foreign>, but <foreign>pāñcavarṣikā</foreign> is the correct form.</note>
                   </app>
 	<app loc="18">
                      <lem>na kena <choice><orig><unclear>cc</unclear></orig><reg>c</reg></choice>it svalp<unclear>āpy ā</unclear>vādhā 
