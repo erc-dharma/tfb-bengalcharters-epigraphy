@@ -64,26 +64,27 @@ The script, hardly anywhere nicely preserved in this inscription, is the form of
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:argr" when="2020-05-01" status="draft">initial encoding of the edition and translation</change>
+			<change who="part:argr" when="2020-05-03" status="draft">finished initial encoding of the edition and translation</change>
+			<change who="part:argr" when="2020-05-01" status="draft">started initial encoding of the edition and translation</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
 <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-  <ab>ku<unclear>mā</unclear>rāmātyādhikaraṇasya</ab>
+  	<ab><lb n="1"/>ku<unclear>mā</unclear>rāmātyādhikaraṇasya</ab>
 </div>
 <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
   <pb n="1r"/><p>
   <lb n="1"/><unclear>sva</unclear>st<supplied reason="lost">i</supplied> <gap reason="illegible" unit="character" quantity="1"/> va <gap reason="illegible" unit="character" quantity="10"/> ra <gap reason="illegible" unit="character" quantity="1"/> kra <gap reason="illegible" unit="character" quantity="1"/> vi <gap reason="illegible" unit="character" quantity="2"/> <unclear>bhāvibhi</unclear><supplied reason="omitted">ḥ</supplied> śaṅkha-cintāmaṇi-muktakā<choice><sic>g</sic><corr>bh</corr></choice>ara<unclear>ṇai</unclear><lb break="no" 
-n="2"/><unclear>ś ca</unclear>turbhir mmahodadhibhi<supplied reason="omitted">ḥ</supplied> mekhalayā Ivāvr̥tāyā<unclear>ṁ</unclear> himavan-vindhya-kailās<unclear>ai</unclear><supplied reason="omitted">ḥ</supplied> t<choice><orig>r̥</orig><reg>ri</reg></choice>bhir mmahā-śikharai<supplied reason="omitted">ḥ</supplied> śobhi<supplied reason="omitted">tāyāṁ</supplied> janma-jarā<lb break="no" 
-n="3"/>maraṇa-bhaya-śoka-saṁsārārtt<unclear>i</unclear>-harāyā bhāgīra<choice><sic>thīyā</sic><corr>thyā</corr></choice>ḫ prāk-paścānusarppi<supplied reason="omitted">ṇī</supplied>bhi<supplied reason="omitted">ḥ</supplied> sarvvato nimn<orig><unclear>e</unclear></orig>-gābhiś copa-śobhi<lb break="no" 
+n="2"/><unclear>ś ca</unclear>turbhir mmahodadhibhi<supplied reason="omitted">ḥ</supplied> mekhalayā Ivāvr̥tāyā<unclear>ṁ</unclear> himavad-vindhya-kailās<unclear>ai</unclear><supplied reason="omitted">ḥ</supplied> t<choice><orig>r̥</orig><reg>ri</reg></choice>bhir mmahā-śikharai<supplied reason="omitted">ḥ</supplied> śobhi<supplied reason="omitted">tāyāṁ</supplied> janma-jarā<lb break="no" 
+n="3"/>maraṇa-bhaya-śoka-saṁsārārtt<unclear>i</unclear>-harāyā bhāgīra<choice><sic>thīyā</sic><corr>thyā</corr></choice>ḫ prāk-paścānusarppi<supplied reason="omitted">ṇī</supplied>bhi<supplied reason="omitted">ḥ</supplied> sarvvato nimn<orig><unclear>e</unclear></orig>-gābhiś copaśobhi<lb break="no" 
 n="4"/>tāyāṁ vasundharāyā<unclear>ṁ</unclear> sāgra-varṣa-śata-pravarddhamāna-kalyāṇa-maṅgalāyuṣmatas samara-śata-sahasra-vija<lb break="no" 
-n="5"/>y<unclear>i</unclear>no brāhmaṇa-kṣatra-viṭ-śūdrādīnāṁ pañcānāṁ varṇṇāśramāṇā<surplus>ṁ</surplus>n niyamana-hetor amarapatir iva svayaṁ-pratiṣṭhi<lb break="no" 
-n="6"/>tasya mahārājādhirāja-śrī-śaśāṅkadeva-rājasyāṣṭam<choice><orig>ai</orig><reg>e</reg></choice> ’bde jyaiṣṭhe pūrṇṇamāsyāṁ puṇye tithau muhūrtte cāsmi<lb 
-n="7"/>n divasa-<choice><sic>p</sic><corr>m</corr></choice>āsa-s<choice><orig>ā</orig><reg>a</reg></choice>m<choice><orig>b</orig><reg>v</reg></choice>atsare rādhāputrāntaraṅga-nāgabhaṭagominā sādhikaraṇ<choice><sic><unclear>o</unclear></sic><corr>āḫ</corr></choice> petāme<unclear>ḍḍa</unclear>khātādhivāsina<lb break="no" 
+n="5"/>y<unclear>i</unclear>no brāhmaṇa-kṣatra-viṭ-śūdrādīnāṁ pañcānāṁ varṇṇāśramāṇā<surplus>ṁ</surplus>n niyamana-hetor amara-patir iva svayaṁ-pratiṣṭhi<lb break="no" 
+n="6"/>tasya mahārājādhirāja-śrī-śaśāṅka-deva-rājasyāṣṭam<choice><orig>ai</orig><reg>e</reg></choice> ’bde jyaiṣṭhe pūrṇṇamāsyāṁ puṇye tithau muhūrtte cāsmi<lb 
+n="7"/>n divasa-<choice><sic>p</sic><corr>m</corr></choice>āsa-s<choice><orig>ā</orig><reg>a</reg></choice>m<choice><orig>b</orig><reg>v</reg></choice>atsare rādhāputrāntaraṅga-nāgabhaṭagominā sādhikaraṇopetā me<unclear>ḍḍa</unclear>khātādhivāsina<lb break="no" 
 n="8"/>ẖ kuṭumbino mahāpradhāna-rāmaprabh<unclear>u</unclear>-mahāmahattara-virahadeva-kaẖkuka-yaj<unclear reason="eccentric_ductus">ñ</unclear>uka-vappuka-vicittra-Udaya<lb break="no" 
-n="9"/>dag<unclear>dha</unclear>-guṇadāsa-varggapālo<unclear>ṣṭh</unclear>itādy<choice><sic>ā</sic><corr>ā A</corr></choice>bhihitā bhavatāṁ prītyā kiñ cic chrey<choice><sic>am a</sic><corr>o ’</corr></choice>nuṣṭhātum icchāmīty ebhir abhihita <lb 
+n="9"/>da<unclear>mbha</unclear>-guṇadāsa-varggapālo<unclear>ṣṭh</unclear>itādy<choice><sic>ā</sic><corr>ā A</corr></choice>bhihitā bhavatāṁ prītyā kiñ cic chrey<choice><sic>am a</sic><corr>o ’</corr></choice>nuṣṭhātum icchāmīty ebhir abhihita <lb 
 n="10"/>Evaṁ kriyatām iti</p><p>tato ’nena nau-mahattara-bhogapatika-vidagdhānumodanāya Eṣā<surplus>ṁ</surplus>m ādhivāsināṁ sa-karaṇo<lb break="no" 
 n="11"/>petānā<unclear>ṁ</unclear> sakāśāt khilāvadhāra<choice><sic>ṇy</sic><corr>ṇīy</corr></choice>aẖ kum<choice><sic>a</sic><corr>u</corr></choice>davillikā nāma grāmo ’śītibhi<supplied reason="omitted">ḥ</supplied> kārṣāpaṇai<supplied reason="omitted">ḥ</supplied> krītvā yathār<surplus>a</surplus>hena vastrānna<lb break="no" 
 n="12"/>pānaiś cāpyāyitvā yogeśvara-pramukha-kāṇvika-śākha-nānā-gotra-tapa-svādhyāyopetebhyo vrāhmaṇāryyebhya<supplied reason="omitted">ḥ</supplied> yattra śrī<lb break="no" 
@@ -92,7 +93,13 @@ n="14"/><supplied reason="lost">ya</supplied>śasvāmi<supplied reason="omitted"
 n="15"/><gap reason="lost" unit="character" quantity="2"/><gap reason="illegible" unit="character" quantity="1"/>nasagotro bhogayaśasvāmi-vidagdhasvāmi-budhasvāmi<supplied reason="omitted">na</supplied>ś cety ebh<unclear>y</unclear>as tāmraśāsanīkr̥<unclear>tya</unclear> datt<unclear>o</unclear></p><p>sīmā tas<unclear>y</unclear>a
 <pb n="1v"/>
 <lb n="16"/><supplied reason="lost">pūrvve</supplied><unclear>ṇa suktra</unclear>varddhārṣaka dakṣiṇena <gap reason="illegible" unit="character" quantity="7"/> paścimena <unclear>gomayakha</unclear>ṇḍaḥ Uttareṇa <unclear>śākrārṣā</unclear>vakratāyā
-<lb n="17"/><supplied reason="lost">tāś</supplied> <unclear>ca</unclear> pāñcavarṣa<choice><orig>I</orig><reg>yi</reg></choice>kā Ity ābhis sīmābhir viṅśatik<unclear>ā</unclear>rṣāpaṇyabh<unclear>o</unclear>gādā<unclear>na</unclear>m upa<unclear>lavdha</unclear>n tattra na kena <choice><orig><unclear>cc</unclear></orig><reg>c</reg></choice>it svalp<unclear>āpy ā</unclear>vādhā 
+<lb n="17"/><supplied reason="lost">tāś</supplied> <unclear>ca</unclear> pāñca<choice><orig>varṣ<choice><sic>aI</sic><corr>ayi</corr></choice>kā</orig><reg>varṣikā</reg></choice>
+<!-- four encoding choices:
+1. pāñcavarṣ<choice><orig>aI</orig><reg>ayi</reg></choice>kā (plus a note)
+2. pāñcavarṣ<choice><orig>aI</orig><reg>i</reg></choice>kā (plus a note explaining that aI is probably a non-standard way of writing the non-standard form with ayi)
+3. pāñca<choice><orig>varṣ<choice><sic>aI</sic><corr>ayi</corr></choice>kā</orig><reg>varṣikā</reg></choice>
+4. pāñcavarṣ<choice><sic>aI</sic><corr>i</corr></choice>kā
+ --> Ity ābhis sīmābhir viṅśatik<unclear>ā</unclear>rṣāpaṇyabh<unclear>o</unclear>gādā<unclear>na</unclear>m upa<unclear>lavdha</unclear>n tattra na kena <choice><orig><unclear>cc</unclear></orig><reg>c</reg></choice>it svalp<unclear>āpy ā</unclear>vādhā 
 <lb n="18"/><unclear>bhāvyā</unclear></p><p>kāraṇaṁ</p> 
 
 <lg n="1" met="anuṣṭubh">
@@ -102,27 +109,36 @@ n="15"/><gap reason="lost" unit="character" quantity="2"/><gap reason="illegible
 	<l n="d">tasya tasya tadā phalaṁ</l>
 </lg>
 <lg n="2" met="anuṣṭubh">
-	<l n="a"><lb n="19"/>ṣaṣṭ<unclear>i</unclear>varṣasahasrāṇi</l> 
-	<l n="b">svargge modati bhūmida<supplied reason="omitted">ḥ</supplied></l>
+	<l n="a"><lb n="19"/>ṣaṣṭ<unclear>i</unclear>-varṣa-sahasrāṇi</l> 
+	<l n="b">svargge modati bhūmi-da<supplied reason="omitted">ḥ</supplied></l>
 	<l n="c">Ākṣeptā cānumantā ca</l> 
 	<l n="d">tāny eva narake vaseT</l>
 </lg>
 <lg n="3" met="anuṣṭubh">
-	<l n="a" real="-++--+++-">svadattāṁ para<lb break="no" n="20"/>dattām <orig>vāpi</orig></l> 
+	<l n="a" real="-++--+++-">sva-dattāṁ para<lb break="no" n="20"/>dattām <orig>vāpi</orig></l> 
 	<l n="b">yo hareta vasundharāṁ</l>
-	<l n="c">sva<choice><sic>p</sic><corr>v</corr></choice>iṣṭhāyā<supplied reason="omitted">ṁ</supplied> kr̥mir bhūtvā</l> 
+	<l n="c">sva-<choice><sic>p</sic><corr>v</corr></choice>iṣṭhāyā<supplied reason="omitted">ṁ</supplied> kr̥mir bhūtvā</l> 
 	<l n="d">pitr̥bhiḥ saha pacyate</l>
 </lg>
          </div>
          </div>
          <div type="apparatus">
-               <listApp>
+<div type="textpart" n="A"><head xml:lang="eng">Seal</head>
+	<listApp>
+                  <app loc="1">
+                     <lem>ku<unclear>mā</unclear>rāmātyādhikaraṇasya</lem>
+                     <note>Our restitution of the almost entirely illegible akṣara <foreign>mā</foreign> implies that this akṣara would have occupied an unusual amount of space. If our reading is correct, then it may be noteworthy that precisely the same combination of device and legend is also observed in the clay sealing from Basarh at the Los Angeles County Museum of Art (AC1993.239.7), referenced in <bibl><ptr target="bib:Griffiths2015_02"></ptr><citedRange unit="page">35</citedRange><citedRange unit="note">24</citedRange></bibl> and on the seal of  the <ref target="tfbBengalCharters00069.xml">Tipperah plate of Lokanātha</ref><!-- (Basak 1919–20: 302)-->.</note>
+                  </app>
+	</listApp>
+</div>             
+<div type="textpart" n="B"><head xml:lang="eng">Plate</head>
+	<listApp>
                   <app loc="2">
                      <lem>°bhi<supplied reason="omitted">ḥ</supplied> mekhalayā</lem>
                      <note>Absence of doubling of the <foreign>m</foreign> in <foreign>me</foreign> (as opposed to the doubling of <foreign>m</foreign> in <foreign>mma</foreign>) leads us to supply <foreign>ḥ</foreign> rather than <foreign>r</foreign>.</note>
                   </app>
  	<app loc="3">
-                     <lem>bhāgīra<choice><sic>thīyā</sic><corr>thyā</corr></choice>ḫ prāk°</lem>
+                     <lem>bhāgīra<choice><sic>thīyā</sic><corr>thyā</corr></choice>ḫ prāk-</lem>
                      <note>The assumption of an akṣara <foreign>ḫprā</foreign>, with the <foreign>upadhmānīya</foreign> sign which is not otherwise attested in the epigraphy of Bengal, admittedly lends a tentative character to our choice of reading and interpretation. However, there are two cases of <foreign>ḫpā</foreign> in the <!-- argr: value of target to be filled in when the Śailodbhava inscriptions will have been encoded. --><ref target="...">Ganjam plates</ref> dated to the reign of Śaśāṅka, from Southern Orissa, lines 5 and 17.</note>
                   </app>
  	<app loc="3">
@@ -130,28 +146,37 @@ n="15"/><gap reason="lost" unit="character" quantity="2"/><gap reason="illegible
                      <note>The unexpected <foreign>e-mātrā</foreign> is faint but apparently undeniable. One must either accept <foreign>nimne-ga</foreign> as an otherwise unattested <foreign>aluk-samāsa</foreign>, or treat the locative case ending as a mere error and emend <foreign>nimna-gābhiś</foreign>.</note>
                   </app>
  	<app loc="8">
-                     <lem>°yaj<unclear reason="eccentric_ductus">ñ</unclear>uka°</lem>
+                     <lem>-yaj<unclear reason="eccentric_ductus">ñ</unclear>uka-</lem>
                      <note>Compared, on the one hand, with the <foreign>jña</foreign> at the end of line 13 (as well as with cases of <foreign>jña</foreign> in other inscriptions of this period) and, on the other hand, with the <foreign>rṇṇā</foreign> in line 5, the subscript consonant here can easily be read as <foreign>ṇ</foreign>, although the shape of the right loop is more compatible with <foreign>ñ</foreign>. Since <foreign>ñ</foreign> must have been intended, we assume that we are merely dealing with a <foreign>ñ</foreign> of slightly imperfect execution.</note>
                   </app>
  	<app loc="9">
-                     <lem>°pālo<unclear>ṣṭh</unclear>itādy<choice><sic>ā</sic><corr>ā A</corr></choice>bhihitā</lem>
+                     <lem>-pālo<unclear>ṣṭh</unclear>itādy<choice><sic>ā</sic><corr>ā A</corr></choice>bhihitā</lem>
                      <note>The reading <foreign>ṣṭh</foreign> is quite uncertain, and Uṣṭhita does not seem to be a plausible name, but we are unable to propose any more satisfactory reading.</note>
                   </app>
+<app loc="10">
+<lem>sa-karaṇo<lb break="no" n="11"/>petānā<unclear>ṁ</unclear></lem>
+<note>The redundant compound <foreign>sa-karaṇa-upeta</foreign> is synonymous with <foreign>sa-adhikaraṇa-upeta</foreign> seen above. The use of <foreign>karaṇa</foreign> for <foreign>adhikaraṇa</foreign> is also found in the <ref target="tfbBengalCharters00067.xml">Antla plate of the time of Śaśāṅka, year 8</ref> (seal and line 7) and the <ref target="tfbBengalCharters00068.xml">Antla plate of the time of Śaśāṅka, year 19</ref> (seal and line 9).</note>
+</app>
  	<app loc="17">
-                     <lem>pāñcavarṣa<choice><orig>I</orig><reg>yi</reg></choice>kā</lem>
-                     <note>The intended word is <foreign>pāñcavarṣayikā</foreign>, but <foreign>pāñcavarṣikā</foreign> would have been better.</note><!-- argr to daba: do you find the first part of this <note> redundant with the encoded <choice>? Do you think the whole note could be made redundant with this kind of encoding: pāñca<choice><orig>varṣa<choice><orig>I</orig><reg>yi</reg></choice>kā</orig><reg>varṣikā</reg></choice>? -->
+		<lem>pāñca<choice><orig>varṣ<choice><sic>aI</sic><corr>ayi</corr></choice>kā</orig><reg>varṣikā</reg></choice></lem>                 
+		<note>The scribed intended to write the word <foreign>pāñcavarṣayikā</foreign>, but <foreign>pāñcavarṣikā</foreign> is the correct form.</note>
                   </app>
 	<app loc="18">
                      <lem>na kena <choice><orig><unclear>cc</unclear></orig><reg>c</reg></choice>it svalp<unclear>āpy ā</unclear>vādhā 
 <lb n="18"/><unclear>bhāvyā</unclear></lem>
                      <note>It seems the engraver has written <foreign>ccit</foreign> rather than expected <foreign>cit</foreign>. For similar phraseology, from the Licchavi corpus, closely related to Śaśāṅka in time and place, we may cite the <!-- argr: value of target to be filled in when the Licchavi inscriptions will have been encoded for DHARMA. --><ref target="...">Ādi-Nārāyaṇa Temple Inscription of Thankot</ref><!--Regmi 1983, vol. I, no. 20--> (lines 20–21, 25–27): <foreign>na kena cid asmat-pādopajīvinā svalpāpy ābādhā kartavyā <gap reason="ellipsis"/> ye ’py āgāmino rājāno ’smad-vaṁśyā bhaviṣyanti te ’py enām asmad-dattām bhūmim anumoditum arhanti yatkāraṇaṁ bahubhir vvasudhā <gap reason="ellipsis"/></foreign>; and the <!-- argr: value of target to be filled in when the Licchavi inscriptions will have been encoded for DHARMA. --><ref target="...">Luñjhya (Patan Palace) Inscription</ref> <!--(Regmi 1983, vol. I, no. 116,--> lines 12–13): <foreign>alpāpi bādhā na kāryā</foreign>.  Cf. also <foreign>na kena cid vādhā kāraṇīyā</foreign> in the <!-- argr: value of target to be filled in when these northern Orissa inscriptions will have been encoded for DHARMA. --><ref target="...">Soro plate of Bhānu, year 5</ref> <!--(Majumdar 1935–36: 203)--> (line 12).  In view of these and numerous other parallels, the gerundive <foreign>bhāvyā</foreign> is surprising in our context. But it is impossible to read either <foreign>kāry(y)ā</foreign> or <foreign>kart(t)avyā</foreign>, whereas <foreign>bhāvyā</foreign> seems a permissible reading.</note>
                   </app>
+<app loc="20">
+	<lem><orig>vāpi</orig></lem>
+	<note>The syllable <foreign>pi</foreign> is not grammatically incorrect but needs to be deleted to obtain regular meter.</note>
+	</app>
                </listApp>
+</div>
          </div>
          <div type="translation" xml:lang="eng">
  	<p n="1-6">Hail! On the full-moon-day in the month of Jyaiṣṭha, during an auspicious <foreign>tithi</foreign> and <foreign>muhūrta</foreign>, in the eight year of the king Śrī Śaśāṅkadeva, overlord of great kings <supplied reason="explanation"><foreign>mahārājādhirāja</foreign></supplied>, victor in a hundred thousand battles, endowed with beauty <supplied reason="explanation"><foreign>kalyāṇa</foreign></supplied>, auspiciousness <supplied reason="explanation"><foreign>maṅgala</foreign></supplied> and longevity <supplied reason="explanation"><foreign>āyus</foreign></supplied> that prosper during a full hundred years, who was, like the king of the gods <supplied reason="explanation">i.e., Indra</supplied>, self-installed as cause of the taming of the five classes and life-stages of the Brahmins, Kṣatriyas, Vaiśyas, Śūdras, and so on, on the earth that is surrounded, as it were, by a girdle <supplied reason="subaudible">formed</supplied> by the four great oceans, whose decorations are conches, wish-jewels and pearls, that are <gap reason="lost"/><!-- argr: "illegible" would correspond better to our edition -->; <supplied reason="subaudible">on the earth</supplied> that is beautified by the three great peaks, <supplied reason="subaudible">namely</supplied> the Himavant, the Vindhya and Kailāsa, and additionally beautified by the rivers spreading out everywhere to the East and West of the Bhāgīrathī <supplied reason="explanation">i.e., the Ganges</supplied>, which removes the suffering of reincarnation <supplied reason="subaudible">that consists in</supplied> birth, aging, death, fear and sorrow.</p>
-	<p n="6-10">On this day, in this month and year, the <foreign>antaraṅga</foreign> <supplied reason="subaudible">called</supplied> Nāgabhaṭagomin, son of Rādhā, addressed the <foreign>kuṭumbin</foreign>s residing in Petāmeḍḍakhāta, together with the office (of the princely advisor), <supplied reason="subaudible">namely</supplied> the <foreign>mahāpradhāna</foreign> Rāmaprabhu, the <foreign>mahāmahattara</foreign>s Virahadeva, Kaṣkuka, Yajñuka, Vappuka, Vicitra, Udayadagdha, Guṇadāsa, Vargapāla, Uṣṭhita, etc.: <q>By your kindness, I wish to carry out some meritorious work <supplied reason="explanation"><foreign>śreyas</foreign></supplied></q>. He was addressed by them: <q>Please do as said!</q></p>
-	<p n="10-15">Therefore, with a view to the assent from the <foreign>nau-mahattara</foreign> <supplied reason="subaudible">and</supplied> <foreign>bhogapatika</foreign> <supplied reason="subaudible">named</supplied> Vidagdha, he purchased from these residents, together with the council, the village, which needed to be ascertained as waste <supplied reason="subaudible">land</supplied>, called Kumudavillikā, for eighty <foreign>kārṣāpaṇa</foreign>s, and, after duly gratifying them with garments, food and beverages, gave it to the noble Brahmins of the Kāṇva School, of various <foreign>gotra</foreign>s, steeped in ascetic practice and study, led by Yogeśvara, that is: Śrī Yogeśvara, of the Bharadvājagotra; Surabhisvāmin, of the Kātyāyanagotra; Dāmayaśasvāmin, Gotrayaśasvāmin, and Rājñayaśyasvāmin of the Maudgalyagotra; Mādhavasvāmin of the Dhanañjayagotra; Līlasvāmin of the Bharadvājagotra; Rudrasvāmin of the <gap reason="lost"/> <foreign>gotra</foreign>; Bhogayaśasvāmin, Vidagdhasvāmin and Budhasvāmin — <supplied reason="subaudible">he gave it</supplied> to them by way of edict in copper.</p>
+	<p n="6-10">On this day, in this month and year, the <foreign>antaraṅga</foreign> <supplied reason="subaudible">called</supplied> Nāgabhaṭagomin, son of Rādhā, addressed the <foreign>kuṭumbin</foreign>s residing in Meḍḍakhāta, together with the office <supplied reason="explanation">of the princely advisor</supplied>, <supplied reason="subaudible">namely</supplied> the <foreign>mahāpradhāna</foreign> Rāmaprabhu, the <foreign>mahāmahattara</foreign>s Virahadeva, Kaṣkuka, Yajñuka, Vappuka, Vicitra, Udayadagdha, Guṇadāsa, Vargapāla, Uṣṭhita, etc.: <q>By your kindness, I wish to carry out some meritorious work <supplied reason="explanation"><foreign>śreyas</foreign></supplied></q>. He was addressed by them: <q>Please do as said!</q></p>
+	<p n="10-15">Therefore, with a view to the assent from the <foreign>nau-mahattara</foreign> <supplied reason="subaudible">and</supplied> <foreign>bhogapatika</foreign> <supplied reason="subaudible">named</supplied> Vidagdha, he purchased from these residents, together with the office, the village, which needed to be ascertained as waste <supplied reason="subaudible">land</supplied>, called Kumudavillikā, for eighty <foreign>kārṣāpaṇa</foreign>s, and, after duly gratifying them with garments, food and beverages, gave it to the noble Brahmins of the Kāṇva School, of various <foreign>gotra</foreign>s, steeped in ascetic practice and study, led by Yogeśvara, that is: Śrī Yogeśvara, of the Bharadvājagotra; Surabhisvāmin, of the Kātyāyanagotra; Dāmayaśasvāmin, Gotrayaśasvāmin, and Rājñayaśyasvāmin of the Maudgalyagotra; Mādhavasvāmin of the Dhanañjayagotra; Līlasvāmin of the Bharadvājagotra; Rudrasvāmin of the <gap reason="lost"/> <foreign>gotra</foreign>; Bhogayaśasvāmin, Vidagdhasvāmin and Budhasvāmin — <supplied reason="subaudible">he gave it</supplied> to them by way of edict in copper.</p>
 	<p n="15-18">It boundary to the east is Suktravarddhārṣaka, to the south <gap reason="lost"/><!-- argr: "illegible" would correspond better to our edition -->, to the west Gomayakhaṇḍa, to the north Śākrārṣāvakratāyā. And <supplied reason="subaudible">based on the finding</supplied> that they are quinquennial, with these boundaries a revenue entitlement worth twenty <foreign>kārṣāpaṇa</foreign>s was obtained. No one should make even a small encroachment upon it.</p> 
 	<p n="18">The reason is:</p>
 <p rend="stanza" n="1">By numerous <supplied reason="subaudible">kings</supplied>, land has been given; and by many it has been protected. Whoever holds land at a given moment, to him does the fruit then belong.</p>
