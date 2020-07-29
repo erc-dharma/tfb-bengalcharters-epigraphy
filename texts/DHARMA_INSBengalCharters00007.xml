@@ -42,7 +42,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                        	<p>The seal is engraved in relief. The scribe uses T and M but also n·. The regular form of ā-mātrā is used in <foreign>ṇā</foreign>. An ornamental form of <foreign>sti</foreign> is used in <foreign>svasti</foreign> (line 1).
+                        	<p>The seal is engraved in relief. The scribe does not distinguish b/v and we find v throughout. The scribe uses T and M but also n·. The regular form of ā-mātrā is used in <foreign>ṇā</foreign>. The scribe does not seem to be entirely consistent on distinguishing e/ai. An ornamental form of <foreign>sti</foreign> is used in <foreign>svasti</foreign> (line 1).
 <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
                             <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
@@ -76,42 +76,43 @@
       <body>
          <div type="edition" xml:lang="san-Latn">
  <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-<ab>śrīkāntidevaḥ</ab>
+<ab><lb n="1"/>śrī-kāntidevaḥ</ab>
  </div>
  <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
- <p><lb n="1"/> <g type="spiral"/><!-- siddham --> <space quantity="3" unit="character"/> svasti śrīmaj-jaya-skandhāvārāT varddhamāna-pura-vāsakāT</p>
+ <p><lb n="1"/><g type="spiral"/><!-- siddham --> <space quantity="3" unit="character"/> svasti śrīmaj-jaya-skandhāvārāT varddhamāna-pura-vāsakāT</p>
 <lg n="1" met="vasantatilakā">
-	<lb n="2"/><l n="a">yo dharma-ratna-kiraṇair apavidhya sāndra</l>
-	<l n="b">mohāndha-kāra-paṭalaṁ sakalaṁ tri<lb n="3" break="no"/>-lokaM |</l> 
-	<l n="c">Āloka-lokam anayat su jayaty udāra</l>
-	<l n="d">dur-vāra-māra-visara<lb n="4" break="no"/>sya jayī jinendraḥ ||</l>
+	<lb n="2"/><l n="a">yo dharma-ratna-kiraṇair apavidhya sāndra<supplied reason="omitted">ṁ</supplied></l>
+	<l n="b">mohāndha-kāra-paṭalaṁ sakalaṁ tri<lb n="3" break="no"/>-lokaM| </l> 
+	<l n="c">Āloka-lokam anayat s<choice><sic>u</sic><corr>a</corr></choice> jayaty udār<choice><sic>a</sic><corr>o</corr></choice></l>
+	<l n="d">dur-vāra-māra-visara<lb n="4" break="no"/>sya jayī jinendraḥ|| </l>
 </lg>
 <lg n="2" met="āryā">
-<l n="ab">tad-bhakti-valita-śaktir bhuja-dvayaurjitya-vijita-ripu<lb n="5" break="no"/>-darpaḥ | </l>
-<l n="cd">sa jayati dharmaika-rataḥ khyātaḥ śrī-bhadradato yaḥ ||</l>
+<l n="ab">tad-bhakti-valita-śaktir bhuja-dvayaurjitya-vijita-ripu<lb n="5" break="no"/>-darpaḥ| </l>
+<l n="cd">sa jayati dharmaika-rataḥ khyātaḥ śrī-bhadradat<supplied reason="omitted">t</supplied>o yaḥ|| </l>
 </lg>
 <lg n="3" met="āryā">
-<l n="ab">tasya su<lb n="6" break="no"/>bhāṣita-bhārata-purāṇa-rāmāyoṇārthavit tanayaḥ</l>
-<l n="cd">nāmnā śrī-dhanadattaḥ <lb n="7"/> prakaṭita-mahimānvayo yo bhūT ||</l>
+<l n="ab">tasya su<lb n="6" break="no"/>-bhāṣita-bhārata-purāṇa-rāmāy<choice><sic>o</sic><corr>a</corr></choice>ṇārthavit tanayaḥ</l>
+<l n="cd">nāmnā śrī-dhanadattaḥ <lb n="7"/>prakaṭita-mahimānvayo yo 'bhūT|| </l>
 </lg>
 <lg n="4" met="anuṣṭubh">
 <l enjamb="yes" n="a">tasya gaurī mahā-bhūbhr̥t</l>
 <l n="b">-sutā vudha<lb n="8" break="no"/>-guru-stutā</l>
 <l n="c">patnī vindu-ratir nāma</l>
-<l n="d">yā vabhūva śiva-priyā ||</l>  
+<l n="d">yā vabhūva śiva-priyā|| </l>  
 </lg>
 <lg n="5" met="śārdūlavikrīḍita">
-<l enjamb="yes" n="a">tasyā bhoga<lb n="9" break="no"/>-nidāna-dāna-salilair ārdrī-kr̥torjad-bhuja-</l>
-<l n="b">sphūrjad-vajra-valārjitāji-vija<lb n="10" break="no"/>ya-prājya-pratāpo mahān· |</l> 
+<l enjamb="yes" n="a">tasyā bhoga<!-- or understand or tasya+ābhoga-? --><lb n="9" break="no"/>-nidāna-dāna-salil<choice><orig>e</orig><reg>ai</reg></choice>r<!-- argr2ryfu: do you agree on reading le? --> ārdrī-kr̥torjad-bhuja-</l>
+<l n="b">sphūrjad-vajra-valārjitāji-vija<lb n="10" break="no"/>ya-prājya-pratāpo mahān·| </l> 
 <l n="c">saumyaḥ sūnr̥ta-vāg arāti-bhaya-kr̥d vikhyāta<lb n="11" break="no"/>-kīrttir yaśo</l> 
-<l n="d">jyotsnāhāra-tuṣāra-kunda-dhavalaṁ yo yātavān ātmajaḥ ||</l> 
+<l n="d">jyotsnāhāra-tuṣāra-kunda-dhavalaṁ yo yātavān ātmajaḥ|| </l> 
 </lg>
 <lg n="6" met="anuṣṭubh">
 <l n="a"><lb n="12"/>yaś ca kurvañ jagat-tuṣṭyai</l> 
-<l n="b">hiraṇya-kaśiṣu-kṣayaM |</l> 
+<l n="b">hiraṇya-kaśi<unclear>p</unclear>u-kṣayaM| </l> 
 <l n="c">nāvalamvitavān mā<lb n="13" break="no"/>yān</l> 
-<l n="d">dāna-vārir api prabhuḥ ||</l>
+<l n="d">dāna-vārir api prabhuḥ|| </l>
 </lg>
+<!-- Arlo has reached here -->
 <p>sa khalv akhila-jana-manobhirāmābhigāmi<lb n="14" break="no"/>kāneka-guṇa-ratna-bhūṣaṇaḥ | 
 paramasau<space type="defect" quantity="2" unit="character"/>gato mātā-pitr̥-pā<lb n="15" break="no"/>dānudhyātaḥ parameśvaro mahārājādhi<space type="defect" quantity="2" unit="character"/>rājaḥ śrīmāna kā<lb n="16" break="no"/>ntidevaḥ kuśalī | harikelā-maṇḍale bhāvi-<space type="defect" quantity="2" unit="character"/>bhūpatīṁs tad-ātmahi<lb n="17" break="no"/>tam idaṁ vodhayati viditam astu vaḥ |</p>
  </div>
@@ -127,12 +128,18 @@ paramasau<space type="defect" quantity="2" unit="character"/>gato mātā-pitr̥-
 	</div>
 	<div type="textpart" n="B"><head xml:lang="eng">Plate</head>
  		<listApp><!-- one <app> for each apparatus entry -->
-                  		<app loc="line"><!-- update the value of @loc.-->
-                     			<lem><!-- fill in a lemma here --></lem>
-                     			<rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
-                  		</app>
+                  		<app loc="3">
+                     			<lem>anayat s<choice><sic>u</sic><corr>a</corr></choice></lem>
+				<rdg source="bib:Majumdar1941-1942_01">anayat sa</rdg>
+	<note>It is almost impossible not to read <foreign>tsu</foreign> (cf. <foreign>tsu</foreign> in l. 7) or <foreign>tsva</foreign> (cf. <foreign>lva</foreign> in l. 13). Majumdar simply reads <foreign>anayat sa</foreign> but that reading has to be obtained by emendation.</note>
+	</app>
+	<app loc="9">
+                     			<lem>-salil<choice><orig>e</orig><reg>ai</reg></choice>r</lem>
+				<rdg source="bib:Majumdar1941-1942_01">-salilair</rdg>
+	<note>We do no see here the bipartite vowel marker that is used elsewhere to make <foreign>-ai</foreign>, but only the top stroke that is used to make <foreign>-e</foreign> in <foreign>aneka</foreign> in l. 14.</note>
+	</app>
                </listApp>
- 	</div>
+ 	</div> 
          </div>
          <div type="translation" xml:lang="eng" resp="part:argr">
  	<!--translation encoded as per EGD §9.2 -->
