@@ -103,8 +103,8 @@
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp>
                   <app loc="12">
-                     <lem>-valaja-ma<lb/>laṅga-</lem>
-                     <rdg source="bib:Bhattacharya1983-84_01">-vana-kuma<lb/>laṅga-</rdg>
+                     <lem>-valaja-ma<lb n="13"/>laṅga-</lem>
+                     <rdg source="bib:Bhattacharya1983-84_01">-vana-kuma<lb n="13"/>laṅga-</rdg>
                   </app>
                   <app loc="21">
                       <lem>ḍā</lem>
