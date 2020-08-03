@@ -69,6 +69,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+        	<change who="part:argr" when="2020-08-03" status="draft">first revision based on comments from part:daba</change>
         	<change who="part:argr" when="2020-08-03" status="draft">finished initial encoding of the file</change>
               <change who="part:argr" when="2020-07-24" status="draft">started initial encoding of the file</change>
         </revisionDesc>
@@ -83,7 +84,7 @@
  <p><lb n="1"/><g type="spiral"/><!-- siddham --> <space quantity="3" unit="character"/> svasti śrīmaj-jaya-skandhāvārāT varddhamāna-pura-vāsakāT</p>
 <lg n="1" met="vasantatilakā">
 	<lb n="2"/><l n="a">yo dharma-ratna-kiraṇair apavidhya sāndra<supplied reason="omitted">ṁ</supplied></l>
-	<l n="b">mohāndha-kāra-paṭalaṁ sakalaṁ tri<lb n="3" break="no"/>-lokaM| </l> 
+	<l n="b">mohāndhakāra-paṭalaṁ sakalaṁ tri<lb n="3" break="no"/>-lokaM| </l> 
 	<l n="c">Āloka-lokam anayat s<choice><sic>u</sic><corr>a</corr></choice> jayaty udār<choice><sic>a</sic><corr>o</corr></choice></l>
 	<l n="d">dur-vāra-māra-visara<lb n="4" break="no"/>sya jayī jinendraḥ|| </l>
 </lg>
@@ -113,7 +114,6 @@
 <l n="c">nāvalamvitavān mā<lb n="13" break="no"/>yān</l> 
 <l n="d">dāna-vārir api prabhuḥ|| </l>
 </lg>
-<!-- Arlo has reached here -->
 <p>sa khalv akhila-jana-mano-'bhirāmābhigāmi<lb n="14" break="no"/>kā<space type="defect"/>neka-guṇa-ratna-bhūṣaṇaḥ| 
 parama-sau<space type="defect" quantity="2" unit="character"/>gato mātā-pitr̥-pā<lb n="15" break="no"/>dānudhyātaḥ parameśvaro mahārājādhi<space type="defect" quantity="3" unit="character"/>rājaḥ śrīmān<surplus>a</surplus> kā<lb n="16" break="no"/>ntidevaḥ kuśalī| harikelā-maṇḍale bhāvi<space type="defect" quantity="2" unit="character"/>-bhūpatīṁs tad-ātma-hi<lb n="17" break="no"/>tam idaṁ vodhayati viditam astu vaḥ|</p>
  </div>
@@ -156,10 +156,9 @@ parama-sau<space type="defect" quantity="2" unit="character"/>gato mātā-pitr̥
 <p rend="stanza" n="2">Victorious is the one called Śrī Bhadradatta, endowed with the power of devotion to that <supplied reason="subaudible">same King of Jinas</supplied>, solely devoted to Dharma, who has subdued the arrogance of enemies with the force of his two arms!</p>
 <p rend="stanza" n="3">His son, versed in the meaning of maxims, of the Bhārata, of the Purāṇas and of the Rāmāyaṇa, whose family was of manifest glory, was named Śrī Dhanadatta.</p>
 <p rend="stanza" n="4">His fair wife, daughter of a great king, praised by wise masters, devoted to Śiva <seg rend="pun"><supplied reason="subaudible">like</supplied>Śiva's dear <supplied reason="subaudible">wife</supplied> Gaurī, daughter of the great mountain, praised by the gods' preceptor </seg>, was named Bindurati.</p>
-<p rend="stanza" n="5-6">Her son too is a great king <supplied reason="explanation">mahān prabhuḥ</supplied>, gentle, soft-spoken, terrifying to enemies; of renowned fame, because he has obtained glory as white as moonlight, pearl garland, snow or jasmine, being of immense dignity due to his battle victories gained through the power of the cracking thunderbolts that are his strong arms, moistened by the oceans of <supplied reason="explanation">water libated on the occasion of so numerous</supplied> gifts that cause enjoyment <supplied reason="explanation">of merit</supplied>,  and because to please the world, he
-<supplied reason="subaudible">like the</supplied> victor of demons <supplied reason="explanation">dānava-ari, i.e. Viṣṇu</supplied>, brought about the death of Hiraṇyakaśipu without taking recourse to deception
-<seg rend="pun">he, <supplied reason="subaudible">like unto</supplied> gift water <supplied reason="explanation">dāna-vāri</supplied>,<note>In order to lend a second meaning to <foreign>dāna-vārir</foreign>, I am forced to assume poet licence in the form of masculine gender for normally neuter <foreign>vāri</foreign>, which seems plausible if the king himself is asyndetically compared to water.</note> caused loss of gold <supplied reason="explanation">hiraṇya</supplied> and food <supplied reason="explanation">kaśipu</supplied> without depending on falsehood</seg>!</p>
-<p n="14-17">That one, agreeable to everyone's minds and adorned with the numerous qualities of a <supplied reason="subaudible">king</supplied> who is approachable <supplied reason="explanation"><foreign>ābhigāmika</foreign></supplied>, as is well known, is the devout Buddhist <supplied reason="explanation">parama-saugata</supplied>, blessed by the feet of his parents, the supreme lord <supplied reason="explanation">parameśvara</supplied>, the overlord of great kings <supplied reason="explanation">mahārāja-adhirāja</supplied>, the prosperous Kāntideva. He admonishes future kings in the Harikelā country <supplied reason="explanation"><foreign>harikelā-maṇḍala</foreign></supplied> of this, which is beneficial to themselves: <q>May it be known to you</q></p>
+<p rend="stanza" n="5-6">Her son too <supplied reason="explanation"><foreign>api</foreign></supplied> is a great king <supplied reason="explanation">mahān prabhuḥ</supplied>, gentle, soft-spoken, terrifying to enemies; of renowned fame, because he has obtained glory as white as moonlight, pearl garland, snow and jasmine, being of immense dignity due to his battle victories gained through the power of the cracking thunderbolts that are his strong arms, moistened by the oceans of <supplied reason="explanation">water libated on the occasion of so numerous</supplied> gifts that cause enjoyment <supplied reason="explanation">of merit</supplied>,  and because to please the world, he
+<supplied reason="subaudible">like the</supplied> victor of demons <supplied reason="explanation"><foreign>dānava-ari</foreign>, i.e. Viṣṇu</supplied>, brought about the death of Hiraṇyakaśipu <seg rend="pun">he, <supplied reason="subaudible">like unto</supplied> gift water <supplied reason="explanation">dāna-vāri</supplied>,<note>In order to lend a second meaning to <foreign>dāna-vārir</foreign>, I am forced to assume poet licence in the form of masculine gender for normally neuter <foreign>vāri</foreign>, which seems plausible if the king himself is asyndetically compared to water.</note> caused <supplied reason="explanation">his own supplies of</supplied> gold <supplied reason="explanation">hiraṇya</supplied> and food <supplied reason="explanation">kaśipu</supplied> to diminish</seg> <supplied reason="subaudible">but</supplied> without taking recourse to deception!</p><!-- Daniel Balogh comments: Interpreting dāna-vārir as bahuvrīhi would dispose of the gender problem. "he who possesses donation water" is not very nice, but it works, and I think it is more likely than a comparison of the king to that water. -->
+<p n="14-17">That one, agreeable to everyone's minds and adorned with the numerous qualities of a <supplied reason="subaudible">king</supplied> who is approachable <supplied reason="explanation"><foreign>ābhigāmika</foreign></supplied>, as is well known, is the devout Buddhist <supplied reason="explanation">parama-saugata</supplied>, blessed by the feet of his parents, the supreme lord <supplied reason="explanation">parameśvara</supplied>, the overlord of great kings <supplied reason="explanation">mahārāja-adhirāja</supplied> prosperous Kāntideva, being in good health <supplied reason="explanation"><foreign>kuśalin</foreign></supplied>, admonishes future kings in the Harikelā country <supplied reason="explanation"><foreign>harikelā-maṇḍala</foreign></supplied> of this, which is beneficial to themselves: <q>May it be known to you</q></p>
 </div><!-- end of textpart B -->
  </div>
          <div type="commentary">
