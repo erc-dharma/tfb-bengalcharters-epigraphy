@@ -32,8 +32,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Ryosuke
-                            Furui.</p>
+                        <p>Copyright (c) 2019-2025 by Ryosuke Furui.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -75,6 +74,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>            
+        	<change who="part:argr" when="2020-08-05" status="draft">started inserting suggestions for revision</change>
             <change who="part:ryfu" when="2020-08-05" status="draft">The first encoding</change>
         </revisionDesc>
     </teiHeader>
@@ -83,19 +83,19 @@
          <div type="edition" xml:lang="san-Latn">
              <p><lb n="1"/><g type="spiral"/><!-- siddham -->namo vuddhāya|| </p>
              <lg n="1" met="śārdūlavikrīḍita">
-                 <l n="a">bhāvābhāva-vicāra-cāra-dha<unclear>va</unclear>laṁ loka-traya-trāyaka<unclear>ḥ</unclear>| </l>
-                 <l n="b">durvvāra-smara-vikramākṣata-tapaḥ prauḍhi-pravr̥ddho<lb n="2" break="no"/>dayaḥ| </l>
+                 <l n="a">bhāvābhāva-vicāra-cāra-dha<unclear>va</unclear>laṁ lo<!-- argr2ryfu: for me, the laṁ and the lo would also deserve <unclear> -->ka-traya-trāyaka<unclear>ḥ</unclear>| </l>
+                 <l n="b">du<!-- argr2ryfu: isn't this dū? -->r-vvāra-smara-vikramākṣata-tapaḥ prauḍhi-pravr̥ddho<lb n="2" break="no"/>dayaḥ| </l>
                  <l n="c">jñānālo<unclear>ka</unclear>-nira<surplus>ṁ</surplus>s<unclear>t</unclear>a-moha-timiraḥ sarvvāpadām viplavaḥ| </l>
-                 <l n="d">nairātmaika-samā<unclear>dhi</unclear>-sādhita-vapuḥ śauddhodaniḥ pātu<lb n="3"/> vaḥ||</l>
+                 <l n="d">nairātmaika-samā<unclear>dhi</unclear><!-- argr2ryfu: the -i quite clear, so I'd put only the dh in <unclear>, or perhaps even no <unclear> at alll, because dh is easy to recognize on Adeline photo 15/19 -->-sādhita-vapuḥ śauddhodaniḥ pātu <lb n="3"/> vaḥ||<!-- argr2ryfu: according to TG, we need a space after || here --></l>
              </lg>
              <lg n="2" met="vasantatilakā">
-                 <l n="a">śa<supplied reason="omitted">ṁ</supplied>sā<gap reason="illegible" quantity="1" unit="character"/>i-dhī-śasa-śarā<unclear>va-pavi</unclear>tra-janmā| </l>
-                 <l n="b">ra<unclear>tna-tra</unclear>ya-p<unclear>r</unclear>aṇati-sañcita-puṇya-kośaḥ| </l>
-                 <l n="c">dānārttha-rakta-hr̥d a<unclear>bh</unclear>ijita-śa<pb n="4" break="no"/>tru-cakra<unclear>ḥ|</unclear> </l>
-                 <l n="d">kalyā<unclear>ṇa</unclear>varddhana Iti pra<unclear>th</unclear>itaḥ pr̥th<choice><orig>r̥</orig><corr>i</corr></choice>vyāṁ|| </l>
+                 <l n="a">śa<supplied reason="omitted">ṁ</supplied>sā<gap reason="illegible" quantity="1" unit="character"/><!-- argr2ryfu: this illegible consonant component is not correctly encoded: see EGD 5.4.5 (Lacunae below the akṣara level); maybe other readings could be considered, but I will return to it when I go though your translation — provisional list Esām itīśa -->i-dhī-śasa-śarā<unclear>va-pavi</unclear>tra-janmā| </l>
+                 <l n="b">ra<unclear>tna-tra</unclear>ya-p<unclear>r</unclear>aṇa<!-- argr2ryfu: do you find the ṇa clear? -->ti-sañcita-puṇya-kośaḥ| </l>
+                 <l n="c">dānārttha-rakta-hr̥d <!-- argr2ryfu: hyphen instead of space? -->a<unclear>bh</unclear><!-- argr2ryfu: maybe <supplied reason="lost"> instead of <unclear>? -->ijita-śa<pb n="4" break="no"/>tru-cakra<unclear>ḥ|</unclear> </l>
+                 <l n="d">kalyā<unclear>ṇa</unclear>var<!-- argr2ryfu: is the repha visible in any photo? -->ddhana Iti pra<unclear>th</unclear>itaḥ pr̥th<choice><orig>r̥</orig><corr>i</corr></choice>vyāṁ|| </l>
              </lg>
              <lg n="3" met="vasantatilakā">
-                 <l n="a">teneha sādhu-caritena kuṭumvaville| </l>
+                 <l n="a">teneha sādhu-caritena kuṭumva<!-- argr2ryfu: hyphen here? -->ville| </l>
                  <l n="b">sa<choice><orig>n</orig><corr>ṁ</corr></choice>sāra-sāgara-sa<lb n="5" break="no"/>muttaraṇocchukena|</l>
                  <l n="c">samvāñchatā surucirā<unclear>m pa</unclear>davīṁ jinasya| </l>
                  <l n="d">śrīmān ayaṁ śūcir akāri mahāvihāraḥ|| </l>
@@ -125,16 +125,22 @@
          <div type="apparatus">
                <listApp>
                   <app loc="1">
-                     <lem>dha<unclear>va</unclear>laṁ</lem><rdg source="bib:Furui2013_04">va<unclear>ṭa</unclear>re</rdg>
+                     	<lem>dha<unclear>va</unclear>laṁ</lem>
+		<rdg source="bib:Furui2013_04">va<unclear>ṭa</unclear>re</rdg>
                   </app>
                    <app loc="2">
-                       <lem>jñānālo<unclear>ka</unclear></lem><rdg source="bib:Furui2013_04"> jñāny-ārā<unclear>dha</unclear></rdg>
+                     	  <lem>jñānālo<unclear>ka</unclear></lem>
+		<rdg source="bib:Furui2013_04">jñāny-ārā<unclear>dha</unclear></rdg>
                    </app>
                    <app loc="3">
                        <lem>śa<supplied reason="omitted">ṁ</supplied>sā<gap reason="illegible" quantity="1" unit="character"/>i</lem>
                        <rdg source="bib:Furui2013_04">grāsā<unclear>sth</unclear>e</rdg>
-                       <lem>śarā<unclear>va-pavi</unclear>tra</lem>
-                       <rdg source="bib:Furui2013_04">śarā<unclear>laya-pi</unclear>tra</rdg>
+                   </app>
+                 <app loc="3">
+      		<lem>śarā<unclear>va-pavi</unclear>tra</lem>
+                       	<rdg source="bib:Furui2013_04">śarā<unclear>laya-pi</unclear>tra</rdg>
+                 </app>
+	<app loc="3">
                        <lem>kośaḥ</lem>
                        <rdg source="bib:Furui2013_04">koṣaḥ</rdg>
                    </app>
@@ -159,7 +165,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First edited unsatisfactorily by S. C. Mukherji<bibl rend="omitname"><ptr target="bib:Mukherji2001_01"/></bibl>, then edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2013_04"/></bibl> with translation and study. Re-edited from the photographs taken by Ryosuke Furui on 22/07/2017 and Adeline Levivier on 11/11/2019.</p>
+           <p>First edited unsatisfactorily by S. C. Mukherji <bibl rend="omitname"><ptr target="bib:Mukherji2001_01"/></bibl>, then edited by Ryosuke Furui <bibl rend="omitname"><ptr target="bib:Furui2013_04"/></bibl> with translation and study. Re-edited here<!-- argr2ryfu: insert here "by Ryosuke Furui" -->from the photographs taken by Ryosuke Furui<!-- argr2ryfu: this could then be replaced by "by himself" --> on 22/07/2017 and Adeline Levivier on 11/11/2019.</p>
         	<listBibl type="primary">
 		<bibl n="RF"><ptr target="bib:Furui2013_04"/></bibl>
 	       </listBibl>
