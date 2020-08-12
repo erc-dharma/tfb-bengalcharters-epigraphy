@@ -5,8 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Nandapur Charter of GE 169</title>
-			  <!-- argr2daba: shall we make this "Nandapur Plate of GE 169" (or "Nandapur Plate of 169 GE" — I myself would place the era aftrer the date)? --><!--daba: I don't mind. For background: I use "200 CE" and so on, but "GE 200" for some reason. I've just checked to see how consistent that is, and all the Siddham titles that have a GE date in them have GE before the year. I also prefer "ME 200" (for Mālava Era). I have no conscious explanation why, but it I'm pretty sure that's what many scholars do, at least in the older literature. After some checking, I think the reason my be that for those people, abbreviations like GE were analogous to AD (consistently written before the date in older convention), but since the abbreviation CE (consistently after the date) has become widespread, GE etc. are more analogous to that. So anyway, I'm OK with the switch. -->
+				<title>Nandapur Plate of 169 GE</title>
 				<respStmt>
 					<resp>Original EpiDoc Encoding for Siddham</resp>
 					<persName ref="part:daba">
@@ -16,7 +15,13 @@
 				</respStmt>
 				<respStmt>
 					<resp>Conversion of encoding for DHARMA</resp>
-					<!-- argr2daba: shall I add my name for this <resp>? --><!--daba: I think not, but if you're doing something conversion-wise, then that's OK by me. -->
+					<persName ref="part:daba">
+						<forename>Dániel</forename>
+						<surname>Balogh</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>EpiDoc encoding for DHARMA of parts not yet encoded for Siddham</resp>
 					<persName ref="part:daba">
 						<forename>Dániel</forename>
 						<surname>Balogh</surname>
@@ -24,7 +29,10 @@
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
-					<!-- argr2daba: shall I add my name for this <resp>? --><!--daba: absolutely. Also, depending on how you perceive the extent of my contribution, I don't mind if you put yours instead of, not in addition to, mine. -->
+					<persName ref="part:argr">
+						<forename>Arlo</forename>
+						<surname>Griffiths</surname>
+					</persName>
 					<persName ref="part:daba">
 						<forename>Dániel</forename>
 						<surname>Balogh</surname>
@@ -40,7 +48,7 @@
 				<!--argr2daba: I have used I have moved the <altIdentifier type="Siddham">, but in order to get a validating file, I had to move it into <msIdentifier>. We need to get approval of this representation from axja and if she approves need her to revise both schema and template --><!--daba: I agree fully, and will be happy to go ahead with whatever Axelle suggests. I think the altIdentifier will have to go in the MS section regardless of what she does to the schema: here, we're giving the ID of this publication, of which there is only one; there, we give other IDs associated with the original text. Hand in hand with providing instructions for altIdentifier, we also need to provide for alternative titles (those in literature or Siddham) by which a user will be able find a text.-->
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
-					  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit thttps://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p><!-- argr2daba: I was wondering if the Siddham licence needs to be reproduced here. --><!--daba: I think we need consultation on that. What I know is this: we never did put licence info inside the Siddham files. I've just checked and the siddham.network website offers its content under a CC BY-NC-ND 4.0 licence, which may be a problem (ND = no derivatives). I wonder if that was done because Michael anticipated DHARMA wanting to reuse those files. However, the original XML files I uploaded to Zenodo (which are in fact what I imported now) are still there under a BY-SA licence, nothing about ND or even NC. (By the way, is there any reason why our files are only BY, without SA? That would mean that any derivatives made later will not have to credit us for the work, wouldn't it?) Should I try to discuss this with Michael? I'd like to avoid fuelling the bad blood between you two, and I would also like to remain on good terms with him, so I'm not very eager to do that, but all in all, it may be best if I initiate it. Also, as you say in your email, we should probably include a reference to the Siddham files. To simplify our lives (and to conform to fact), this could simply be the zip file containing all my XML files on Zenodo, rather than individual siddham.network URLs for each file. -->
+					  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p><!-- argr2daba: I was wondering if the Siddham licence needs to be reproduced here. --><!--daba: I think we need consultation on that. What I know is this: we never did put licence info inside the Siddham files. I've just checked and the siddham.network website offers its content under a CC BY-NC-ND 4.0 licence, which may be a problem (ND = no derivatives). I wonder if that was done because Michael anticipated DHARMA wanting to reuse those files. However, the original XML files I uploaded to Zenodo (which are in fact what I imported now) are still there under a BY-SA licence, nothing about ND or even NC. (By the way, is there any reason why our files are only BY, without SA? That would mean that any derivatives made later will not have to credit us for the work, wouldn't it?) Should I try to discuss this with Michael? I'd like to avoid fuelling the bad blood between you two, and I would also like to remain on good terms with him, so I'm not very eager to do that, but all in all, it may be best if I initiate it. Also, as you say in your email, we should probably include a reference to the Siddham files. To simplify our lives (and to conform to fact), this could simply be the zip file containing all my XML files on Zenodo, rather than individual siddham.network URLs for each file. -->
 						<p>Copyright (c) 2019-2025 by Dániel Balogh<!-- argr2daba: preseumably we want to make this DB & AG --><!--daba: of course. See also above under resp. -->.</p>
 					</licence>
 				</availability>
@@ -164,7 +172,7 @@ Note daba modified by argr: "There is a space of about one character after bhūm
 	</listApp>
 </div>
 <div type="translation" xml:lang="eng" resp="part:argr">
-<p n="1-2">Hail! From the <foreign>agrahāra</foreign> of the village Amvila, the <supplied reason="subaudible">members of the</supplied> council which enjoys <supplied reason="subaudible">the king’s</supplied> confidence, having offered greetings to the administrator(s) and other tenants at the village Jaṅgoyikā, brahmins being foremost among them, inform and write:</p>
+<p n="1-2">Hail! From the <foreign>agrahāra</foreign> of the village Amvila, the <supplied reason="subaudible">members of the</supplied> council which enjoys <supplied reason="subaudible">the king’s</supplied> confidence, having offered greetings to the administrator(s) and other landholders <supplied reason="explanation"><foreign>kuṭumbin</foreign></supplied><!-- argr2ryfu: or "peasant householders", if we follow your preference --> at the village Jaṅgoyikā, brahmins being foremost among them, inform and write:</p>
 
 <p n="2-7">The district chief Chattramaha respectfully requests from us: 
 <q>In order to increase my own merit, I wish to buy four <foreign>kulyavāpa</foreign>s of uncultivated land and give <supplied reason="subaudible">them</supplied> to the Chandoga (i.e., Sāmavedic) Brahmin <gap reason="illegible"/>svāmin of the Kāśyapa gotra and <supplied reason="explanation">resident</supplied> of the Khaṭāpūraṇa <foreign>agrahāra</foreign> in the Nanda territory <supplied reason="explanation"><foreign>vīthi</foreign></supplied>, for the purpose of the regular performance of the five great sacrifices. And in your district, it is customary to sell for two <foreign>dīnāra</foreign>s a <foreign>kulyavāpa</foreign> of uncultivated land that is without revenue charges and covered with original shrubs,  as permanent endowment to be enjoyed in perpetuity as long as the moon, the sun and the stars <supplied reason="subaudible">will last</supplied>. Therefore, be so kind as to accept from me eight <foreign>dīnāra</foreign>s and to give four kulyavāpas of uncultivated land in the village Jaṅgoyikā with a copper-plate of permanent endowment.</q></p>
@@ -173,7 +181,7 @@ Note daba modified by argr: "There is a space of about one character after bhūm
 
 <p n="11-13">After eight <foreign>dīnāra</foreign>s had been accepted from this district chief Chattramaha, four <foreign>kulyavāpa</foreign>s of uncultivated land have been given in the village Jaṅgoyikā, to the south of Gorakṣita’s gift land <supplied reason="explanation"><foreign>tāmrapaṭṭa</foreign></supplied>, to the west of Gopālibhogā <supplied reason="explanation">Gopālī’s property</supplied>. 4 <foreign>ku[lyavāpa]</foreign>.</p>
 
-<p n="13-16">You there <supplied reason="explanation">mentioned at the start of the grant</supplied>, having understood <supplied reason="subaudible">this</supplied>, shall separate them off using two reeds, eight by ninefold with the ladle-work <supplied reason="explanation"><foreign>darvīkarma</foreign></supplied> cubit in a place that does not conflict with the cultivation of the landholders<!-- argr2ryfu: or "peasant householders", if we follow your preference -->; shall make a boundary delimited in the four directions with long-lasting markers such as <supplied reason="subaudible">pots filled with</supplied> chaff or charcoal; shall make the donation and shall protect it in perpetuity according to the rule of a permanent endowment. And out of deference to this rule it is to be protected by present and future administrators.</p>
+<p n="13-16">You there <supplied reason="explanation">mentioned at the start of the grant</supplied>, having understood <supplied reason="subaudible">this</supplied>, shall separate them off using two reeds, eight by ninefold with the ladle-work <supplied reason="explanation"><foreign>darvīkarma</foreign></supplied> cubit in a place that does not conflict with the cultivation of the landholders; shall make a boundary delimited in the four directions with long-lasting markers such as <supplied reason="subaudible">pots filled with</supplied> chaff or charcoal; shall make the donation and shall protect it in perpetuity according to the rule of a permanent endowment. And out of deference to this rule it is to be protected by present and future administrators.</p>
 <p n="16-19">And it has been said by the Lord Vyāsa:</p> 
 <p rend="stanza" n="1">The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors.</p>
 <p rend="stanza" n="2">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="explanation">years</supplied> in hell.</p>
