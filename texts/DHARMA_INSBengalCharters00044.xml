@@ -6,31 +6,26 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Encoding template for inscription</title>
-                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-                <!-- Add your name in the respStmt matching your involvement -->
+                <title>Nimgachi Stone Slab OF Pāhila</title>                
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <!-- Work done in the file, e.g. editor ...-->
-                    <persName ref="part:jodo"><!-- Update the id -->
-                        <forename>John</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
-                        <surname>Doe</surname>
+                    <resp>EpiDoc Encoding</resp>                    
+                    <persName ref="part:ryfu">
+                        <forename>Ryosuke</forename>
+                        <surname>Furui</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <!-- This may be the same as the creator of the file -->
-                    <persName ref="part:jodo"><!-- Update the id -->
-                        <forename>John</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
-                        <surname>Doe</surname>
+                    <resp>Ryosuke Furui</resp>
+                    <persName ref="part:ryfu">
+                        <forename>Ryosuke</forename>
+                        <surname>Furui</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
-                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
-                <idno type="filename">DHARMA_EncodingTemplateInscription</idno>
-                <!-- Replace by filename, e.g. Pallava00001 -->
+                <pubPlace>Tokyo</pubPlace>
+                <idno type="filename">DHARMA_INSBengalCharter00044</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -38,8 +33,8 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by John
-                            Doe.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                        <p>Copyright (c) 2019-2025 by Ryosuke
+                            Furui.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -81,29 +76,131 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:axja" when="2020-07-02">Version 3: adding the encodingDesc and linking the template with the DHARMA Schema</change>
-            <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
-            <change who="part:axja" when="2019-12-18" status="draft">Creation of the
-                template</change>
-            <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+            <change who="part:ryfu" when="2020-09-04">Initial encoding.</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
-            <!--edition encoded as per EGD §§2−7-->
+         <div type="edition" xml:lang="san-Latn">
+             <p><lb n="1"/><g type="spiral"/><!-- siddham -->Oṁ namo bhagavate vāsud<supplied reason="lost">e</supplied>vāya|| </p>
+             <lg n="1" met="śārdūlavikrīḍita">
+                 <l n="a">bhakti-prahva-viriñci-śaṅkara-surādhīśādi-nākaukasāṁ| </l>
+                 <l n="b">cūḍā-ratna-marīci-cumvi-caraṇāmbho-jas tri-lokī<pb n="2"/>śvaraḥ| </l>
+                 <l n="c">gandharvvāpsarasāṁ gaṇaiḥ kṛta-nutiḥ saṁravdha-saṁgītakaiḥ| </l>
+                 <l n="d">śaśvad yacchatu maṅgalāni bhavate lakṣmī-sanātho hariḥ|| </l>                 
+             </lg>
+             <lg n="2" met="śārdūlavikrīḍita">
+                 <l n="a">cakraṁ kvāsya gadā kva cāsir ama<pb n="3"/>laḥ śārṅgaṁ kva carmmeṣavo </l>
+                 <l n="b">hantā kena raṇe hiraṇyakaśipor astreṇa cittraṁ mahaT| </l>
+                 <l n="c">Itthaṁ vyākula-cetasāṁ na marutām udyanti yāvad giras </l>
+                 <l n="d">tāvat tīkṣṇa-nakhāgra-bhinna-da<pb n="4"/>nujaḥ kaṁsārir anyotsavaḥ|| </l>
+             </lg>
+             <lg n="3" met="vasantatilakā">
+                 <l n="a">yasyāḥ surāsura-naroraga-rājya-lābhāt·| </l>
+                 <l n="b">saṁpattayo vahu-vidhā jagati prasādāT| </l>
+                 <l n="c">sā kaiṭabhāri-hṛdaya-sthala-vāsinī śrīḥ </l>
+                 <l n="d">ka<pb n="5"/>lyāṇam āvahatu vo jagad-eka-vandyā| </l>
+             </lg>
+             <lg n="4" met="vaṁśasthā">
+                 <l n="a">sarasvatī-saṁbhava-pāvanīkṛte </l>
+                 <l n="b">śriyānvite bhaṭṭalanāmni maṇḍale| </l>
+                 <l n="c">dvijāti-veda-dhvani-yajña-karmmabhir </l>
+                 <l n="d">nnirasta-sa<pb n="6"/>rppat-kali-kāla-kalmaṣe|| </l>
+             </lg>
+             <lg n="5" met="vasantatilakā">
+                 <l n="a">tattrādhipaḥ samabhavaj jagad-ekavīraḥ </l>
+                 <l n="b">śrī-pañcabhūtir iti viśruta-nāma-dheyaḥ| </l>
+                 <l n="c">Adyāpi saṅgara-kathāsu sadaiva yasya </l>
+                 <l n="d">rekhāḥ pṛthor i<pb n="7"/>va vudhāḥ prathamaṁ likhanti|| </l>
+             </lg>
+             <lg n="6" met="indravaṁśā">
+                 <l n="a">tasyānvaye bhaṭṭaladeśa-nāyakaḥ </l>
+                 <l n="b">śrī-karkkarājaḥ prathito mahāvalaḥ| </l>
+                 <l n="c">Āsīd yaśovarmma-nṛpaika-vallabho </l>
+                 <l n="d">mittra-dvija-jñāti-suhṛt-sa<pb n="8"/>māśrayaḥ|| </l>
+             </lg>
+             <lg n="7" met="anuṣṭubh">
+                 <l n="a">karppūrasyātibhogena </l> 
+                 <l n="b">pradānenātiyogataḥ| </l>
+                 <l n="c">yasya cakre janair nnāma </l>
+                 <l n="d">karppūra Iti cāparaṁ|| </l>
+             </lg>
+             <lg n="8" met="vasantatilakā">
+                 <l n="a">tasmād ajāyata jagat-spṛhaṇīya-karmmā </l>
+                 <l n="b">śrīmān u<pb n="9"/>dāra-caritaḥ śivarudra-nāmā| </l>
+                 <l n="c">śliṣṭaṁ śriyā yam abhivī<unclear>kṣya</unclear> śaśāṅk<choice><sic>ā</sic><corr>a</corr></choice>-śubhrā </l>
+                 <l n="d">pāra<supplied reason="omitted">ṅga</supplied>tā jalanidheḥ kupiteva kīrttiḥ|| </l>
+             </lg>
+             <lg n="9" met="sragdharā">
+                 <l n="a"><unclear>bh</unclear>ottebhaṭṭārikāyām asadṛśa-mahimā <pb n="10"/>tasya p<choice><sic>la</sic><corr>u</corr></choice>tro vabhūva </l>
+                 <l n="b">śūraḥ śrī-pāhilākhyaḥ sakala-guṇa-gaṇa-khyāta-kīrttir mmanasvī| </l>
+                 <l n="c">yasmin rājyaṁ nidhāyākhila-viṣaya-sukhaṁ sevate tyakta-cinto </l>
+                 <l n="d">devaḥ śrī<pb n="11"/>-devapālaḥ sa-mada-ripu-vala-strī-vilāsāpanodaḥ|| </l>
+             </lg>
+             <lg n="10" met="śārdūlavikrīḍita">
+                 <l n="a">bhakto deva-guru-dvijātiṣu sadā snigdhaḥ suhṛn-mitrayor </l>
+                 <l n="b">bhogī sarvva-janopabhogya-vibhavo namraḥ <pb n="12"/>pratāpotkaṭaḥ| </l>
+                 <l n="c">gāmbhīryasya nidhānam apratihataṁ dhairyasya cāmbho-nidhir </l>
+                 <l n="d">yasyoddāma-yaśo-vitāna-pihitaṁ jātaṁ nabhaḥ pāṇḍaraṁ*|| </l>
+             </lg>
+             <lg n="11" met="śārdūlavikrīḍita">
+                 <l n="a">tenāsmin kalikā<pb n="13"/>la-kalmaṣa-m<choice><sic>u</sic><corr>ṛ</corr></choice>ṣā kīrttiṁ sthirāṁ ta<choice><sic>t</sic><corr>n</corr></choice>vatā </l>
+                 <l n="b">lakṣmī-nātha-samarppitācala-dhiyā tad-bhaktimadbhyaḥ sadā| </l>
+                 <l n="c">sampaj-jīvita-yauvanāni capalāny ālocya dharmmaṁ <pb n="14"/>sthiraṁ </l>
+                 <l n="d">dattaḥ pravrajitebhya Eṣa vivudha-sthānānukārī maṭhaḥ|| </l>
+             </lg>
+             <lg n="12" met="śārdūlavikrīḍita">
+                 <l n="a">yāvac candra-kalā vibhāti giriśe yāvat prabhā bhāskare </l>
+                 <l n="b">lakṣmīr yāvad adhokṣajasya va<pb n="15"/>sati premālasā vakṣasi| </l>
+                 <l n="c">nakṣatra-graha-cakravāla-vimalaṁ* yāvan nabho rājate </l>
+                 <l n="d">tāvat kīrttir ihātano<surplus>n</surplus>tu vipulā śrī-pāhilasya sthirā|| </l>
+             </lg>
+             <pb n="16"/><p>Utkīrṇṇaṁ khānikara-dakkadāsena ḥ </p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
-                  </app>
+               <listApp>
+                  <app loc="1"><lem>prahva</lem><rdg source="bib:Bhattacharya1999_01">prajña</rdg></app>
+                  <app loc="3"><lem>cittraṁ</lem><rdg source="bib:Bhattacharya1999_01">vittaṁ</rdg></app>
+                  <app loc="3"><lem>da<pb n="4"/>nujaḥ</lem><rdg source="bib:Bhattacharya1999_01">danūjaḥ</rdg><note>The same of nu does seem a bit unusual. Cf. the shapes at the end of l. 8, and in l. 14.</note></app>
+                  <app loc="4"><lem>sthala</lem><rdg source="bib:Bhattacharya1999_01">sathala</rdg></app>
+                  <app loc="5"><lem>vo</lem><rdg source="bib:Bhattacharya1999_01">yo</rdg></app>
+                  <app loc="5"><lem>saṁbhava</lem><rdg source="bib:Bhattacharya1999_01">sambhava</rdg></app>
+                  <app loc="6"><lem>tattrādhipaḥ</lem><rdg source="bib:Bhattacharya1999_01">tatrādhipaḥ</rdg></app>
+                  <app loc="6"><lem>pañcabhūtir</lem><rdg source="bib:Bhattacharya1999_01">pañcahūtir</rdg><note>In a note to his 1997 edition, the previous editor confidently rejects the possibility of reading pañcabhūtir. However, the akṣara in question looks more like bhū than like hū.</note></app>
+                  <app loc="7"><lem>mittra</lem><rdg source="bib:Bhattacharya1999_01">mitra</rdg></app>
+                  <app loc="8"><lem>spṛhaṇīya</lem><rdg source="bib:Bhattacharya1999_01">spṛhanīya</rdg></app>
+                  <app loc="9"><lem>abhivī<unclear>kṣya</unclear></lem><note>The intended reading is certainly abhivīkṣya, but the last akṣara has not been properly executed. </note></app>
+                  <app loc="9"><lem>śaśāṅk<choice><sic>ā</sic><corr>a</corr></choice>-śubhrā</lem><rdg source="bib:Bhattacharya1999_01">śaśāṅka</rdg></app>
+                  <app loc="9"><lem>pāra<supplied reason="omitted">ṅga</supplied>tā</lem><rdg source="bib:Bhattacharya1999_01"> pāram tā</rdg></app>
+                  <app loc="9"><lem><unclear>bh</unclear>otte</lem><rdg source="bib:Bhattacharya1999_01">dotte</rdg><rdg source="bib:Bhattacharya1997_01">dyotte</rdg></app>
+                  <app loc="10"><lem>p<choice><sic>la</sic><corr>u</corr></choice>tro</lem><rdg source="bib:Bhattacharya1999_01">putro</rdg></app>
+                  <app loc="10"><lem>mmanasvī</lem><rdg source="bib:Bhattacharya1999_01">mahaśvi</rdg></app>
+                  <app loc="10"><lem>nidhāyākhila</lem><rdg source="bib:Bhattacharya1999_01">bhidhayākhila</rdg></app>
+                  <app loc="12"><lem>pāṇḍaraṁ*</lem><rdg source="bib:Bhattacharya1999_01">pāṇḍāraṁ</rdg></app>
+                  <app loc="13"><lem>m<choice><sic>u</sic><corr>ṛ</corr></choice>ṣā</lem><rdg source="bib:Bhattacharya1999_01">mṛṣā</rdg></app>
+                  <app loc="13"><lem>ta<choice><sic>t</sic><corr>n</corr></choice>vatā</lem><rdg source="bib:Bhattacharya1999_01">vatvatā</rdg></app>
+                  <app loc="13"><lem>bhaktimadbhyaḥ</lem><rdg source="bib:Bhattacharya1999_01">bhaktimarghaḥ</rdg></app>
+                  <app loc="13"><lem>ālocya</lem><rdg source="bib:Bhattacharya1999_01">ālokya</rdg></app>
+                  <app loc="14"><lem>kārī</lem><rdg source="bib:Bhattacharya1999_01">karī</rdg></app>
+                  <app loc="15"><lem>yāvan</lem><rdg source="bib:Bhattacharya1999_01">yāvn</rdg></app>
+                  <app loc="15"><lem>ihātano<surplus>n</surplus>tu</lem><rdg source="bib:Bhattacharya1999_01">ihātanotu</rdg></app>
                </listApp>
          </div>
-         <div type="translation" xml:lang="eng">
- 	<!--translation encoded as per EGD §9.2 -->
+         <div type="translation" xml:lang="eng" resp="part:ryfu">
+ 	<p n="1">Success! Oṁ, salutation to Bhagavat Vāsudeva!</p>
+             <p rend="stanza" n="1">The master of the three world, whose lotus-like feet are kissed by rays of light from crown jewels of residents of sky (gods) beginning with Viriñci (=Brahmā), Śaṅkara and the Lord of Gods (=Indra), bowing with devotion, may Hari, who is endowed with Lakṣmī and praised by the group of gandharvas and apsarases singing with excitement, always go to the luck for you!</p>
+             <p rend="stanza" n="2">“By which weapon, his disk, mace, spotless sword, bow or shield and arrow, did the slayer of Hiraṇyakaśipu at the battle (made) a great wonder?” As long as such a song of Maruts with agitated mind does not rise, the enemy of Kaṁsa (=Kṛṣṇa, Viṣṇu), who tore the son of Danu by sharp tips of his claw, would have another celebration.</p>
+             <p rend="stanza" n="3">Because of whose favour, the acquisition of kingship of gods, demons, humans and snakes, there are prosperities in manifold ways in this world, may this Śrī, the resident of the chest of the enemy of Kaiṭabha (=Viṣṇu) and only one respectable in the world, catch you, the handsome!</p>
+             <p rend="stanza" n="4">In the maṇḍala named Bhaṭṭala, which was cleansed by the union with Sarasvatī, accompanied by Śrī, where the stain of creeping Kali period was expelled by brahmins, sound of vedas and rituals.</p>
+             <p rend="stanza" n="5">There, the sole hero of the world with the well-known name as illustrious Pañcabhūti became the lord. Even now, in the narratives of battles, sages always write his delineations first as if these were Pṛthu’s (delineations).</p>
+             <p rend="stanza" n="6">In his lineage was known the leader of Bhaṭṭala deśa illustrious Karkarāja, with great strength. He was the sole friend of king Yaśovarman and the shelter of friends, brahmins, kinsmen and allies.</p>
+             <p rend="stanza" n="7">Because of the strong connection with excessive enjoyment and donation of camphor, his another name, Karpūra, was made by people.</p>
+             <p rend="stanza" n="8">From him was born the one with actions desirable in the world and noble deeds named Śivarudra, the illustrious. Seeing him embraced by Śrī, the fame bright as the moon, which reached the other shore of the ocean was as if provoked.</p>
+             <p rend="stanza" n="9">To Bhottebhaṭṭārikā was born his son with unlike greatness, the hero named illustrious Pāhila, having the fame known by the collection of all the virtues and wise. After depositing the kingdom to him, the king illustrious Devapāla, abandoning anxiety, enjoys pleasure of all the territories / objects of senses, removing beauty of the wives of the excited enemy troops.</p>
+             <p rend="stanza" n="10">He is devoted to gods, gurus and brahmins, always affectionate to both ally and friend, enjoying the wealth to be enjoyed by all the people, humble and endowed with valour. He is the indestructible storehouse of generosity, and also the ocean of intelligence. Covered by the heap of his unbound fame, the sky became white.</p>
+             <p rend="stanza" n="11">Here, by him, who extend firm fame destroying stain of Kali age, and whose unshaken thought is placed on the master of Lakṣmī (=Viṣṇu), after reflecting upon that success, life and youth are inconstant and that dharma is stable, this maṭha, which imitates the abode of gods, was given to ascetics who always had devotion to him.</p>
+             <p rend="stanza" n="12">As long as the ray of the moon shines at the master of mountain (=Śiva), as long as splendor is in the sun, as long as Lakṣmī, idle in love, dwells on the chest of the one born under the axle (=Viṣṇu), as long as clean multitude of constellations and planets shine in the sky, may abundant and stable fame of illustrious Pāhila here expand!</p>
+             <p n="16">(This is) engraved by engraver Dakkadāsa.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
