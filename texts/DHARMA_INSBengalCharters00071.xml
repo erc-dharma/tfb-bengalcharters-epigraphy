@@ -64,6 +64,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
+			<change who="part:ryfu" when="2020-09-08">Text and Apparatus encoded</change>
 			<change who="part:ryfu" when="2020-09-07">Initial encoding</change>
 		</revisionDesc>
 	</teiHeader>
@@ -206,11 +207,11 @@
 	n="42"/>ka-gauḍa-mālava-coḍa-hūṇa-hūṇika-karṇṇāṭa-lāṭa-cāṭa-bhaṭa-sevakādīn·| Anyāṁś cākīrttitān·| rājapādopajīvinaḥ <lb 
 	n="43"/>prativāsino vrāhmaṇottarān· mahattarottama-kuṭ<choice><sic>ū</sic><corr>u</corr></choice>mvi-purogama-caṇḍāla-paryantān·| yathārham mānayati vodhayati <lb 
 	n="44"samādiśati ca <supplied reason="omitted">|</supplied> </p> 
-	<p>viditam astu bhavatāṁ* yathoparilikhito !‘yaṁ grāmaḥ sva-sīmā-nṛṇa-pūti-paryantaḥ sa-kalaḥ soddeśaḥ <lb 
-	n="45"/>sāmra-madhūkaḥ sa-jala-sthalaḥ sa-garttoṣaraḥ sa-jhāṭa-viṭapaḥ sa-daśāpacāraḥ sa-cauroddharaṇika parihṛta-sarvva-pīḍaḥ A<lb 
-	n="46"/>-caṭa-bhaṭa-praleśaḥ AkiñciT-kara-pragrāhyaḥ bhāga-bhoga-kara-pratyāya-sametaḥ bhūmi-cchidra-nyāyenā-candrārkka-kṣiti-sama-kā<lb 
-	n="47"/>laṁ mātā-pitror ātmanaś ca puṇya-yaśobhivṛddhaye vāsye-sagotrāya Aurvvya-cyavana-bhārggava-yāmadagnya-āpnuvat·-pravarāya dinaka<lb 
-	n="48"/>ra-savrahmacāriṇe Ṛgveda-vide Āśvalāyana-śākhādhyāyine tattra-ṭīkā-tarkka-vyākaraṇa-vide sammārjjanī-vinirggatāya <lb 
+	<p>viditam astu bhavatāṁ* yathoparilikhito !‘yaṁ grāmaḥ sva-sīmā-<choice><sic>n</sic><corr>t</corr></choice>ṛṇa-pūti-paryantaḥ sa-<choice><sic>k</sic><corr>t</corr></choice>alaḥ soddeśaḥ <lb 
+	n="45"/>sāmra-madhūkaḥ sa-jala-sthalaḥ sa-garttoṣaraḥ sa-jhāṭa-viṭapaḥ sa-daśāpacāraḥ sa-cauroddharaṇ<choice><sic>ika</sic><corr>aḥ</corr></choice> parihṛta-sarvva-pīḍaḥ A<lb 
+	n="46"/>-c<choice><sic>a</sic><corr>ā</corr></choice>ṭa-bhaṭa-pra<choice><sic>l</sic><corr>v</corr></choice>eśaḥ AkiñciT-kara-pragrāhyaḥ bhāga-bhoga-kara-pratyāya-sametaḥ bhūmi-cchidra-nyāyenā-candrārkka-kṣiti-sama-kā<lb 
+	n="47"/>laṁ mātā-pitror ātmanaś ca puṇya-yaśobhivṛddhaye vā<choice><sic>sye</sic><corr>tsya</corr></choice>-sagotrāya Aurvvya-cyavana-bhārggava-yāmadagnya-āpnuvat·-pravarāya dinaka<lb 
+	n="48"/>ra-savrahmacāriṇe Ṛgveda-vide Āśvalāyana-śākhādhyāyine ta<choice><sic>t</sic><corr>n</corr></choice>tra-ṭīkā-tarkka-vyākaraṇa-vide sammārjjanī-vinirggatāya <lb 
 	n="49"/>devīkoṭa-vāstavyāya dhātrīdhararāta-prapautrāya mahādevarāta-pautrāya medhātithirāta-puttrāya paṇḍita-bhaṭṭaputra-śrī<lb 
 	n="50"/>-muraripurātadevaśarmmaṇe māghe māsi paurṇṇamāsyā<supplied reason="omitted">m</supplied> manvantarādau gaṅgāyām vidhivat<supplied reason="omitted">·</supplied> snātvā vṛhad-rāja-śrī-kumāra<lb 
 	n="51"/>pāla-deva-pādair ddatta-hemāśva-mahādānādāya-dakṣiṇā-samvandhena bhagavantaṁ vuddha-bhaṭṭārakam uddiśya triśatikotpattyā śā<lb 
@@ -219,7 +220,7 @@
 	n="54"/>ya<surplus>ḥ</surplus> yathā-kālaṁ* samucita-bhāga-bhoga-hiraṇyādi-pratyāyopanayaḥ kārya Iti|| </p>
 	<p>samvat<supplied reason="omitted">·</supplied> 2 kārttika-dine 20<supplied reason="omitted">|</supplied> </p>
 	<p>bhavanti cātra dharmmānu<lb 
-	n="55"/>saṅśinaḥ ślokāḥ| </p>
+	n="55"/><choice><sic>s</sic><corr>ś</corr></choice>a<choice><sic>ṅś</sic><corr>ṁs</corr></choice>inaḥ ślokāḥ| </p>
 	<lg n="20" met="anuṣṭubh">
 		<l n="ab">vahubhir vasudhā dattā rājabhiḥ sagarādibhiḥ<supplied reason="omitted">|</supplied> </l>
 		<l n="cd">yasya yasya yadā bhūmis tasya tasya tadā phalaṁ*|| </l>
@@ -228,16 +229,74 @@
 		<l n="ab">bhūmiṁ yaḥ prati<lb n="56"/>gṛhnāti yaś ca bhūmiṁ prayacchati<supplied reason="omitted">|</supplied> </l>
 		<l n="cd">Ubhau tau puṇya-karmmāṇau niyataṁ svargga-gāminau|| </l>
 	</lg>
+	<lg n="22" met="anuṣṭubh">
+		<l n="ab">gām ekāṁ sva<choice><sic>nṇ</sic><corr>rṇ</corr></choice>am ekañ ca bhūmer apy arddham aṅgulaṁ<supplied reason="omitted">|</supplied> </l>
+		<l n="cd">haran na<lb n="57"/>rakam āyāti yāvad āhūti sa<unclear>ṁ</unclear>plavaṁ*|| </l>		
+	</lg>
+	<lg n="23" met="anuṣṭubh">
+		<l n="an">ṣaṣṭiṁ varṣasahasrāṇi svargge tiṣṭhati bhūmidaḥ<supplied reason="omitted">|</supplied> </l>
+		<l n="cd">Ākṣeptā cānumantā ca tāny eva narake vaset<supplied reason="omitted">·</supplied>|| </l>
+	</lg>
+	<lg n="24" met="anuṣṭubh">
+		<l n="ab">sva-da<lb n="58"/>ttāṁ para-dattām vā yo hare<choice><sic>T</sic><corr>ta</corr></choice> vasundharāṁ*| </l>
+		<l n="cd">sa viṣṭhāyāṁ kṛmir bhūtvā pitṛbhiḥ saha pacyate|| </l>
+	</lg>
+	<lg n="25" met="anuṣṭubh">
+		<l n="ab">Āsphoṭayanti pitaro valgayanti pitāmahāḥ<supplied reason="omitted">|</supplied> </l>
+		<l n="cd">bhū<lb n="59"/>mido !‘smaT-kule jātaḥ sa na<supplied reason="omitted">s</supplied> trātā bhaviṣyati|| </l>
+	</lg>
+	<lg n="26" met="śālinī">
+		<l n="a">sarvvān etān· bhāvinaḥ pā<supplied reason="omitted">r</supplied>thivendrān </l>
+		<l n="b"><supplied reason="omitted">bhūyo</supplied> bhūyaḥ prā<supplied reason="omitted">r</supplied>thayaty eṣa rāmaḥ| </l>
+		<l n="c">sāmānyoyaṁ dharmma-se<lb n="60"/>tur nnarāṇā<unclear>ṁ</unclear> </l>
+		<l n="d">kāle kāle pālanīyaḥ krameṇa<unclear>||</unclear> </l>
+	</lg>
+	<lg n="27" met="puṣpitāgrā">
+		<l n="a"><unclear>I</unclear>ti kamala-dalāmvu-vindu-lolāṁ </l>
+		<l n="b">śriyam anucintya manuṣya-jīvitañ ca| </l>
+		<l n="c">sakalam idam udāhṛtañ ca vu<lb n="61"/>ddhvā </l>
+		<l n="d">na hi puruṣaiḥ para-kīrttayo vilo<choice><sic>v</sic><corr>p</corr></choice>yāḥ|| </l>
+	</lg>
+	<lg n="28" met="mālinī">
+		<l n="a">jayati madanapālaḥ pālavaṅśāvatuṅgaḥ </l>
+		<l n="b">sva-bhuja-vijita-vairi-vrāta-gītoru-kīrttiḥ<supplied reason="omitted">|</supplied> </l>
+		<l n="c">kṣitipati<lb n="62"/>r amitaujās tāmra-paṭṭa-pradātā </l>
+		<l n="d">hara-śirasi śaśāṅko niṣkalaṅkosti yāvat·|| </l>
+	</lg>
+	<lg n="29" met="anuṣṭubh">
+		<l n="ab">yena bhūbhṛd-amātyena magna-prāyā mahīdhṛtā| </l>
+		<l n="cd">sāndhivigrahika<lb n="63"/>ḥ sa śrī-bhīmadevotra dūtakaḥ|| </l>
+	</lg> 
+	<lg n="30" met="anuṣṭubh">
+		<l n="ab">śrīman-madanapālasya dvitīye parivatsare<supplied reason="omitted">|</supplied> </l>
+		<l n="cd">tāmra-paṭṭam idaṁ śilpī tathāgatasaro !‘likhat·|| </l>
+	</lg>
 	</div>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+         <div typ="textpart" n="B">
+               <listApp>
+                  <app loc="1-3">
+                     <note> The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the left margin of the obverse of the plate, beside the lines 1, 2, and 3 and 4 respectively.</note>
                   </app>
                </listApp>
+         </div>
+         <div type="textpart" n="C">
+               <listApp>
+               	<app loc="2"><lem>śrīmāl</lem><rdg source="bib:Furui2015_012">śrīmal</rdg></app>
+               	<app loc="16"><lem>bh<choice><sic>ū</sic><corr>u</corr></choice>vanasya</lem><rdg source="bib:Furui2015_02">bhuvanasya</rdg></app>
+               	<app loc="17"><lem>bh<choice><sic>u</sic><corr>ū</corr></choice>bhṛtāṁ</lem><rdg source="bib:Furui2015_02">bhūbhṛtāṁ</rdg></app>
+               	<app loc="20"><lem>cā<surplus>r</surplus>t<choice><sic>ū</sic><corr>u</corr></choice>r-vvar<surplus>n</surplus>ṇya</lem><rdg source="bib:Furui2015_02">cārtturvvarnṇya</rdg></app>
+               	<app loc="26"><lem>virbhūta</lem><note>The correct form is vibhūta but the metre requires this form.</note></app>
+               	<app loc="26"><lem>manaḥs<choice><sic>a</sic><corr>u</corr></choice></lem><rdg source="bib:Furui2015_02">manaḥsu</rdg></app>
+               	<app loc="30"><lem><choice><sic>śūśū</sic><corr>suṣu</corr></choice>ve</lem><rdg source="bib:Furui2015_02">śuśuve</rdg></app>
+               	<app loc="30"><lem>bh<choice><sic>ū</sic><corr>u</corr></choice>jaṁ</lem><rdg source="bib:Furui2015_02">bhujaṁ</rdg></app>
+               	<app loc="34"><lem>jamv<choice><sic>ū</sic><corr>u</corr></choice></lem><rdg source="bib:Furui2015_02">jamvu</rdg></app>
+               	<app loc="43"><lem>kuṭ<choice><sic>ū</sic><corr>u</corr></choice>mvi</lem><rdg source="bib:Furui2015_02">kuṭumvi</rdg></app>
+               	<app loc="52"><lem>ānumantavyaṁ*</lem><rdg source="bib:Furui2015_02">ānumantavyaḥ</rdg></app>
+               	<app loc="52"><lem>phala</lem><rdg source="bib:Furui2015_02">hala</rdg><note>Pha and ha are similar but differentiated.</note></app>
+               </listApp> 
+         </div>
          </div>
          <div type="translation" xml:lang="eng">
  	<!--translation encoded as per EGD §9.2 -->
