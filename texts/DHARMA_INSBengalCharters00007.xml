@@ -69,6 +69,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+        	<change who="part:argr" when="2020-09-15" status="draft">changed encoding of correction to śrīmānakāntidevaḥ</change>
         	<change who="part:argr" when="2020-08-03" status="draft">first revision based on comments from part:daba</change>
         	<change who="part:argr" when="2020-08-03" status="draft">finished initial encoding of the file</change>
               <change who="part:argr" when="2020-07-24" status="draft">started initial encoding of the file</change>
@@ -115,7 +116,7 @@
 <l n="d">dāna-vārir api prabhuḥ|| </l>
 </lg>
 <p>sa khalv akhila-jana-mano-'bhirāmābhigāmi<lb n="14" break="no"/>kā<space type="defect"/>neka-guṇa-ratna-bhūṣaṇaḥ| 
-parama-sau<space type="defect" quantity="2" unit="character"/>gato mātā-pitr̥-pā<lb n="15" break="no"/>dānudhyātaḥ parameśvaro mahārājādhi<space type="defect" quantity="3" unit="character"/>rājaḥ śrīmān<surplus>a</surplus> kā<lb n="16" break="no"/>ntidevaḥ kuśalī| harikelā-maṇḍale bhāvi<space type="defect" quantity="2" unit="character"/>-bhūpatīṁs tad-ātma-hi<lb n="17" break="no"/>tam idaṁ vodhayati viditam astu vaḥ|</p>
+parama-sau<space type="defect" quantity="2" unit="character"/>gato mātā-pitr̥-pā<lb n="15" break="no"/>dānudhyātaḥ parameśvaro mahārājādhi<space type="defect" quantity="3" unit="character"/>rājaḥ śrīmān<choice><sic>a</sic><corr>·</corr></choice> kā<lb n="16" break="no"/>ntidevaḥ kuśalī| harikelā-maṇḍale bhāvi<space type="defect" quantity="2" unit="character"/>-bhūpatīṁs tad-ātma-hi<lb n="17" break="no"/>tam idaṁ vodhayati viditam astu vaḥ|</p>
  </div>
         </div>
          <div type="apparatus">
@@ -140,7 +141,7 @@ parama-sau<space type="defect" quantity="2" unit="character"/>gato mātā-pitr̥
 	<note>We do no see here the bipartite vowel marker that is used elsewhere to make <foreign>-ai</foreign>, but only the top stroke that is used to make <foreign>-e</foreign> in <foreign>aneka</foreign> in l. 14.</note>
 	</app>
 	<app loc="15">
-                     			<lem>śrīmān<surplus>a</surplus> kā<lb n="16" break="no"/>ntidevaḥ</lem>
+                     			<lem>śrīmān<choice><sic>a</sic><corr>·</corr></choice> kā<lb n="16" break="no"/>ntidevaḥ</lem>
 	<note>The name Kāntideva is confirmed by the legend of the seal, so a parsing Śrī Mānakāntideva cannot be entertained.</note>
 	</app>
                </listApp>
