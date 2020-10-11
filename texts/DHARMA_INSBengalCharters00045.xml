@@ -64,7 +64,8 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part;ryfu" when="2020-09-07">conversion to template v02 and some revisions in Bibliography.</change>
+		             <change who="part:ryfu" when="2020-10-11">addition of markups to translation.</change>
+			<change who="part:ryfu" when="2020-09-07">conversion to template v02 and some revisions in Bibliography.</change>
 			<change who="part:ryfu" when="2020-08-23" status="draft">revision based on suggestions</change>
 			<change who="part:argr" when="2020-08-12" status="draft">inserted further suggestions for revision</change>
 			<change who="part:ryfu part:argr" when="2020-08-11" status="draft">joint round of revisions</change>
@@ -176,14 +177,14 @@
          </div>
          <div type="translation" xml:lang="eng" resp="part:ryfu">
  	<p n="1">Success! Adoration to the Buddha!</p>
-            <p rend="stanza" n="1">The protector of the three beautiful views in the dispute over existence, non-existence and fetter, who has asceticism unbroken by the irresistible valour of Smara (= Kāma) and rising with increased greatness, may Śuddhodana’s son (= the Buddha), with darkness of ignorance expelled by the lustre of wisdom, who is the destruction of all distresses, with essence accomplished by contemplation only on the voidness, protect you!</p>
+            <p rend="stanza" n="1">The protector of the three beautiful views in the dispute over existence, non-existence and fetter, who has asceticism unbroken by the irresistible valour of Smara <supplied reason="explanation">Kāma</supplied> and rising with increased greatness, may Śuddhodana’s son <supplied reason="explanation">the Buddha</supplied>, with darkness of ignorance expelled by the lustre of wisdom, who is the destruction of all distresses, with essence accomplished by contemplation only on the voidness, protect you!</p>
             <p rend="stanza" n="2">The one born in the lineage of arrow-holding king of these(?), who is the storehouse of merit accumulated by salutation to the three jewels, who has mind devoted to the profit of donation, and who has his enemy circle totally conquered, is known as Kalyāṇavardhana on the earth.</p>
-            <p rend="stanza" n="3">Here at Kuṭumvavilla, this illustrious radiant mahāvihāra was made by this man of good conduct, who is desirous of crossing the ocean of worldly existence, wishing the beautiful path of the Victor (= the Buddha).</p>
-            <p rend="stanza" n="4">His son was Śrīdharavardhana with expanding wealth. Also the son of this virtuous one was praiseworthy Pāhilavardhana. To him also was born the son occupied with law, discipline and donation, the illustrious Vikramavardhana, having a beautiful body, who was the Pitcher-born (= Agastya) for the ocean of battles.</p>
-            <p rend="stanza" n="5">The heap of (his) fame, clean like moon and very large, (rose to) whole the sky by going (around) the world. … then by the fortunate donor who has the mind fixed upon the action of vow and favour.</p>
-            <p rend="stanza" n="6">He (=Mañjuśrījñāna) is religious-minded, the only vessel of all the truth and faith. He has this poor world nourished, as suitable for (such) a vessel. He is disposed to the devotion to the lotus that is feet of the lord of the world (= the Buddha). He is the ascetic accompanied by discipline and extremely compassionate.</p>
+            <p rend="stanza" n="3">Here at Kuṭumvavilla, this illustrious radiant mahāvihāra was made by this man of good conduct, who is desirous of crossing the ocean of worldly existence, wishing the beautiful path of the Victor <supplied reason="explanation">the Buddha</supplied>.</p>
+            <p rend="stanza" n="4">His son was Śrīdharavardhana with expanding wealth. Also the son of this virtuous one was praiseworthy Pāhilavardhana. To him also was born the son occupied with law, discipline and donation, illustrious Vikramavardhana, having a beautiful body, who was the Pitcher-born <supplied reason="explanation">Agastya</supplied> for the ocean of battles.</p>
+            <p rend="stanza" n="5">The heap of <supplied reason="subaudible">his</supplied> fame, clean like moon and very large, <supplied reason="subaudible">rose to</supplied> whole the sky by going <supplied reason="subaudible">around</supplied> the world. … then by the fortunate donor who has the mind fixed upon the action of vow and favour.</p>
+            <p rend="stanza" n="6">He <supplied reason="explanation">Mañjuśrījñāna</supplied> is religious-minded, the only vessel of all the truth and faith. He has this poor world nourished, as suitable for <supplied reason="subaudible">such</supplied> a vessel. He is disposed to the devotion to the lotus that is feet of the lord of the world <supplied reason="explanation">the Buddha</supplied>. He is the ascetic accompanied by discipline and extremely compassionate.</p>
             <p n="10-11">Mañjuśrījñāna, the elder, the abode of benevolence and having the way of tranquility prepared by the power of wisdom, made this radiant great gate.</p>
-            <p n= "11-12">In the ninth year of the king Gopāla, this (inscription?) was accomplished by Maṇḍanaśara, the son of Vanaśara, having wisdom and holding the heaven.</p>
+            <p n= "11-12">In the ninth year of the king Gopāla, this <supplied reason="subaudible">inscription</supplied> was accomplished by Maṇḍanaśara, the son of Vanaśara, having wisdom and holding the heaven.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->

@@ -64,8 +64,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:ryfu" when="2020-09-08">Text and Apparatus encoded</change>
-			<change who="part:ryfu" when="2020-09-07">Initial encoding</change>
+			<change who="part:ryfu" when="2020-10-11">Translation and Bibliography encoded.</change>
+			<change who="part:ryfu" when="2020-09-08">Text and Apparatus encoded.</change>
+			<change who="part:ryfu" when="2020-09-07">Initial encoding.</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -261,11 +262,11 @@
 		<l n="a">jayati madanapālaḥ pālavaṅśāvatuṅgaḥ </l>
 		<l n="b">sva-bhuja-vijita-vairi-vrāta-gītoru-kīrttiḥ<supplied reason="omitted">|</supplied> </l>
 		<l n="c">kṣitipati<lb n="62"/>r amitaujās tāmra-paṭṭa-pradātā </l>
-		<l n="d">hara-śirasi śaśāṅko niṣkalaṅkosti yāvat·|| </l>
+		<l n="d">hara-śirasi śaśāṅko niṣkalaṅko 'sti yāvat·|| </l>
 	</lg>
 	<lg n="29" met="anuṣṭubh">
 		<l n="ab">yena bhūbhṛd-amātyena magna-prāyā mahīdhṛtā| </l>
-		<l n="cd">sāndhivigrahika<lb n="63"/>ḥ sa śrī-bhīmadevotra dūtakaḥ|| </l>
+		<l n="cd">sāndhivigrahika<lb n="63"/>ḥ sa śrī-bhīmadevo 'tra dūtakaḥ|| </l>
 	</lg> 
 	<lg n="30" met="anuṣṭubh">
 		<l n="ab">śrīman-madanapālasya dvitīye parivatsare<supplied reason="omitted">|</supplied> </l>
@@ -298,21 +299,65 @@
                </listApp> 
          </div>
          </div>
-         <div type="translation" xml:lang="eng">
- 	<!--translation encoded as per EGD §9.2 -->
-         </div>
+         <div type="translation" xml:lang="eng" resp="part:ryfu">
+ 	<div type="textpart" n="A"><head xml:lang="eng">Seal</head>
+ 		<ab><lb n="1"/>Of illustrious Gopāladeva</ab>
+ 	</div>
+	 <div type="textpart" n="B"><head xml:lang="eng">Lefr margin of obverse of the plate</head>
+	 	<ab><lb n="1"/>Confirmed. <lb n="2"/>Confirmed. <lb n="3"/>Confirmed.</ab>
+	 </div>
+	<div type="textpart" n="C"><head xml:lang="eng">Plate</head>
+		<p n="1"/>Success! Oṃ, salutation to the Buddha! Welfare!</p>
+		<p rend="stanza" n="1">The one with mind delighted by the jewel of compassion, who is united with beloved goddess Benevolence, whose dirt of ignorance is cleansed by pure water of the stream of knowledge of perfect enlightenment, who, after conquering the powerful cause of existence producing desire, acquired eternal tranquility, may he, the illustrious Lord of the World <supplied reason="explanation"> the Buddha</supplied> possessing ten powers be victorious, otherwise also the king Gopāla <supplied reason="explanation">I</supplied>!</p>
+		<p rend="stanza" n="2">From him was born illustrious king Dharmapāla, who is the birth place of Lakṣmī <supplied reason="explanation">ocean</supplied> with makaras<seg rend="pun">is levying fair tax on the origin of wealth</seg>, able to carry the burden of the earth, a sole refuge for mountains <seg rend="pun">kings</seg> approaching him in fear of cutting of their wings <seg rend="pun">destruction of their troops</seg>, devoted to the protection of custom, an abode of heroism and a dwelling of smile with beauty of milk ocean.</p>
+		<p rend="stanza" n="3">Of him, who gained genuine asceticism like Rāma, there was the brother named Vākpāla, similar <supplied reason="subaudible">to him</supplied> and born with virtues of the son of Sumitrā <supplied reason="explanation">Lakṣmaṇa</supplied>, having equal greatness. He was an illustrious sole abode of conduct and valour, adhered to the order of his brother and made quarters under one umbrella without enemy armies.</p>
+		<p rend="stanza" n="4">From him was born the son, the victor named Jayapāla, who cleansed the world by his deeds of Upendra <supplied reason="explanation">Viṣṇu</supplied>. He, the tranquiliser of enemies of Dharma in battle, brought comforts of world kingship to Devapāla, his elder.</p>
+		<p rend="stanza" n="5">Illustrious Vigrahapāla <supplied reason="explanation">I</supplied>, his son like Ajātaśatru, was born. He was the stream of water that was the clean sword destroying decorations of wives of his enemies.</p>
+		<p rend="stanza" n="6">He procreated his illustrious son Nārāyaṇa<supplied reason="subaudible">pāla</supplied>, the master, who held in his body virtues parted by the guardians of quarters for the protection of the earth. He, the stone of whose foot stool was attached by lustre of crest jewels by kings, decorated by his own deeds the seat of dharma gained properly.</p>
+		<p rend="stanza" n="7">And his son, the protector of central world named illustrious Rājyapāla was born, with the fame known by the bed of water inside the deep bottom of the ocean and by the abodes of deities which equaled to the rooms of kings of the lineage.</p>
+		<p rend="stanza" n="8">From him in Bhāgyadevī, the daughter of Tuṅga, the moon of the Rāṣṭrakūṭa lineage with raised crown, was born the son like the treasury of greatness of previous kings. <supplied reason="subaudible">He,</supplied> illustrious Gopāladeva <supplied reason="explanation">III</supplied> was for a long time like the only one husband of the earth, the devoted wife who had manifold garments of four oceans studded with lustre of many gems.</p>
+		<p rend="stanza" n="9">Beloved Lakṣmī, who was energy of will, consultation and lordship, served with loveliness this master filled with royal virtues, as if exceeding the earth, her co-wife.</p>
+		<p rend="stanza" n="10">From him, as if the moon raining ten million of rays was born from the sun at proper time, was born Vigrahapāladeva <supplied reason="explanation">III</supplied>. By him who is dear to eyes, spotless, having rays <seg rend="pun">branches of arts</seg> and elevated, the heat of the world was dispersed.</p>
+		<p rend="stanza" n="11">From him was born illustrious king Mahīpāladeva <supplied reason="explanation">I</supplied>, who had all the enemies destroyed in battle because of the pride of his arms after stabilising the ancestral kingdom unruled and lost, and had his lotus-like feet laid on the heads of kings.</p>
+		<p rend="stanza" n="12">King Nayapāla, abandoning association with vices, putting his feet on heads of kings, forcibly filling all the spaces, to be gained by virtues, having affectionate subjects, the sole abode of affection and rich with virtues, was born from him, as if the Sun <supplied reason="subaudible">was born</supplied> from the Udaya Mountain.</p>
+		<p rend="stanza" n="13">King Vigrahapāladeva <supplied reason="explanation">III</supplied>, who was drunk by the eyes of good people, always pleased with worship of the enemy of love <supplied reason="explanation">Śiva</supplied>, beautiful in battle, the death for enemies in the family who made excellent grabbing, the shelter of those belonging to four varṇas, bestowing the world with his swelling white fame, was born from him with virtues.</p>
+		<p rend="stanza" n="14">After drinking clean water in the eastern country abundant with water, then wandering freely in candana forests at the foot of Malaya Mountain, after making coolness in the Desert by dense mist, his cloud-like best war elephants divided the ridge of Snow Mountain.</p>
+		<p rend="stanza" n="15">His son, the king named Mahīpāla <supplied reason="explanation">II</supplied>, the illustrious, who was sung by the all delighted by the splendour of his fame surpassing candana water, the foremost among masters of twice-born <seg rend="pun">having moon on his crest</seg>, was born having auspiciousness <seg rend="pun">like Śiva</seg>.</p>
+		<p rend="stanza" n="16">There was his younger brother king Śūrapāla <supplied reason="explanation">II</supplied>, having greatness of Mahendra, Skanda in fortune of valour, the sole bold charioteer and possessing virtues. He, by his proficiency in all the weapons arisen from the excess of restlessness due to his own will and nature, spread immediately wonder and fear in the minds of his enemies.</p>
+		<p rend="stanza" n="17">There was also his uterine brother, king, illustrious Rāmapāla, whose firmness of Vāsava <supplied reason="explanation">Indra</supplied> was invoked and shaken by vehement disturbance of people of heaven <seg rend="pun">Divya</seg>. When his father was ruling for long time and leaving <supplied reason="subaudible">this world</supplied>, even in his childhood, he made lasting astonishment in the heart of enemy circle by his glittering splendour.</p>
+		<p rend="stanza" n="18">From him was born Kumārapāla, who had the ocean of thick fame of enemies drunk up by valour of his own long arm, having robust fame on female makaras which were marks of camphor on the cheek of wife of the king of deities.</p>
+		<p rend="stanza" n="19">He, whose hand was pale red due to sport of serial robbing of vermilion on the heads of group of women of his opponents, procreated king Gopāla <supplied reason="explanation">IV</supplied>. This king, whose greatness is expanding for the protection of the earth, extends his own fame by raining a heap of dust of camphor playfully in his childhood.</p>
+		<p n="31-35">From the illustrious military camp of victory pitched in the neighbourhood of illustrious Rāmāvatīnagara, where the group of mountain peaks laid by the bridge produced by various kinds of large ships going around the path of river Bhāgīrathī are rolling, where the news of the time of lasting cloud occurred because of daylight darkened by the assembly of unsurpassed rutting elephants, where the intermediate space of directions is made gray by dust dug up by the hard hooves of innumerable horse troops gifted by many northern kings and where the earth bows to the weight of innumerable foot soldiers of all the kings of Jambudvīpa coming <supplied reason="omitted">for the service</supplied> to the supreme lord.</p>
+		<p n="35-44">Parameśvara paramabhaṭṭāraka mahārājādhirāja illustrious Gopāladeva, healthy, the devout worshipper of Sugata <supplied reason="explanation">the Buddha</supplied>, who was accepted by his majesty mahārājādhirāja illustrious Kumārapāladeva, honours, announces and orders according to order all the approached royal officials beginning with rāja, rājanyaka, rājaputra, rājāmātya, mahāsāndhivigrahika, mahākṣapaṭalika, mahāsāmanta, mahāsenāpati, mahāpratīhāra, dauḥsādhasādhanika, mahākumārāmātya, rājasthānīya, uparika, cauroddharaṇika, daṇḍapāśika, śaunakika, kṣetrapa, prāntapāla, koṭapāla, aṅgarakṣa, their āyuktakas and viniyuktakas, hastyaśvanaubalavyāptaka, kiśoravaḍavāgomahiṣyajāvikādhyakṣa, dūta, preṣaṇika, gamāgamika, abhitvaramāṇa, viṣayapati, grāmapati, tarika, śaulkika, gaulmika, Gauḍa, Mālava, Coḍa, Hūṇa, Hūṇika, Karṇāta, Lāṭa, cāṭa, bhaṭa and sevaka, and the other unnamed dependants on the royal feet, and the residents accompanied by brāhmaṇas, headed by mahattaras, uttamas and kuṭumbins reaching to caṇḍālas, at Vudhavadhākhāma, which is production of three hundred by the standard of ploughed land and household, in Halāvarta maṇḍala of Koṭīvarṣa viṣaya in illustrious Puṇḍravardhana bhukti <supplied reason="subaudible">as follows</supplied>:</p>
+		<p n="44-54">“It should be known to you. This village as written above, as far as its own border and grass field, was given by us in the name of the venerable Lord Buddha, with production of three hundred, after making royal grant, with flat land, with raised ground, with mango and mahua trees, with watering place, with ditch and saline land, with forest and shrub, with fine of ten offences, with the right to catch thieves, exempted from all the burdens, without entrance of cāṭas and bhaṭas, without any kara taken away, accompanied by contribution of bhāga, bhoga and kara, by the rule of land reclamation, as long as the moon, the sun and the earth exists, for the increase of merit and fame of parents and myself, to paṇḍita bhaṭṭaputra illustrious Muraripurātaśarman, belonging to Vātsya gotra, Aurvya, Cyavana, Bhārgava, Jāmadagnya and Āpnuvat pravara, co-disciple of Dinakara, knowing the Ṛgveda, learning Āśvalāyana śākhā, knowing the Tantraṭīkā, logic and grammar, originating from Sammārjanī and residing in Devīkoṭa, the great-grandson of Dhātrīdhararāta, the grandson of Mahādevarāta and the son of Medhātithirāta, in relation to the reward to be taken for the great gift of golden horse given by his majesty great king illustrious Kumārapāla after bathing in Gaṅgā according to rule at the beginning of Manvantara on the full-moon day in the month of Māgha. Hence it should be consented to by you all. This donation should also be approved by future kings after approving it out of respect for merit of donation of land and from fear of falling to the great hell in case of its violation. And the practice of appropriate contribution of bhāga, bhoga, kara, hiraṇya and so on should be made at proper time by residing cultivators after becoming subject to hearing the order <supplied reason="subaudible">of donee</supplied>.”</p>
+		<p n="54">Year 2 month Kārttika day 20.</p>
+		<p n="54-55">Here are verses instructing dharma <supplied reason="subaudible">as follows</supplied>: </p>
+		<p rend="stanza" n="20">The earth was given by many kings beginning with Sagara. To the one to whom the land belongs, belongs then the merit.</p>
+		<p rend="stanza" n="21">The one who gains land and the one who gives land, both of them with meritorious deeds are surely going to heaven.</p>
+		<p rend="stanza" n="22">The one stealing a cow, one piece of gold and a half aṅgula of land comes to hell as long as he invokes deluge.</p>
+		<p rend="stanza" n="23">For sixty thousand years, a giver of land stays in heaven. The one who denies it and the one who agrees with him live in hell for the same period.</p>
+		<p rend="stanza" n="24">Either given by himself or given by the others, the one who stole land, he would be boiled with his ancestors after becoming an insect in excreta.</p>
+		<p rend="stanza" n="25">Fathers tremble and paternal grandfathers jump, he, the land giver born in our family, will be the saviour of us.</p>
+		<p rend="stanza" n="26">To all these future kings, this Rāma demands repeatedly. “This common bridge of dharma for men should be always protected with effort.”</p>
+		<p rend="stanza" n="27">After thus considering wealth and human life fragile as a drop of water on lotus petal, also after knowing all that is said, the meritorious deeds of others should not be destroyed by human beings.</p>
+		<p rend="stanza" n="28">May Madanapāla, prominent in the Pāla lineage, whose great fame is sung by enemy troops defeated by his own arms, the king with infinite vigour, the giver of copper plates, be victorious, as long as the stainless moon is on the head of Hara!</p>
+		<p rend="stanza" n="29">Here that sāndhivigrahika illustrious Bhīmadeva, immersed in delight by this royal minister and king <supplied reason="subaudible">Madanapāla</supplied>, was a messenger.</p>
+		<p rend="stanza" n="30">In the second year of illustrious Madanapāla, artisan Tathāgatasara engraved this copper plate.</p>
+	</div>
+          </div>
+         	
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
-        	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
-			</listBibl>
+	<p>First notified by S. C. Mukherji<bibl rend="omitname"><ptr target="bib:Mukherji1992_01"/></bibl>, then by Gouriswar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1994_01"/></bibl> with correction of Mukherji's mistakes. First edited by Ryosuke Furui<bibl rend="omitname"><ptr target="Furui2015_02"/></bibl>. Now re-edited by Ryosuke Furui.</p>
+           <listBibl type="primary">
+		<bibl n="RF"/><ptr target="bib:Furui2015_02"/><citedRange unit="page">40-48</citedRange>
+           </listBibl>
            <listBibl type="secondary">
-              <bibl n="siglum"/><!-- one <bibl/> per item of secondary bibliography . Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+              <bibl/><ptr target="bib:Bhattacharya1994_01"/><citedRange unit="page">206-208</citedRange>
+              <bibl/><ptr target="bib:Mukherji1992_01"/>
+              <bibl/><ptr target="bib:Mukherji1999_01"/>
            </listBibl>
         </div>
       </body>
