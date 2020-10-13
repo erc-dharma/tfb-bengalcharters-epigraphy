@@ -7,20 +7,12 @@
          <titleStmt>
             <title>Nimgachi Stone Slab OF Pāhila</title>
             <respStmt>
-               <resp>EpiDoc Encoding</resp>
-               <!-- Work done in the file, e.g. editor ...-->
+               <resp>EpiDoc Encoding</resp>               
                <persName ref="part:ryfu">
                   <forename>Ryosuke</forename>
                   <surname>Furui</surname>
                </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:ryfu"><!-- Update the id -->
-                  <forename>Ryosuke</forename>
-                  <surname>Furui</surname>
-               </persName>
-            </respStmt>
+            </respStmt>            
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA <note>This project has received funding from the European Research
@@ -61,32 +53,18 @@
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
-<<<<<<< HEAD
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<revisionDesc>
-		             <change who="part:ryfu" when="2020-10-13">Markups added to translation.</change>
-			<change who="part:ryfu" when="2020-09-07">File changed to the one based on template v02, bibliography added.</change>
-			<change who="part:ryfu" when="2020-09-04">Initial encoding.</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-=======
                   </handDesc>
                </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2020-10-13">Markups added to translation.</change>
          <change who="part:ryfu" when="2020-09-07">File changed to the one based on template v02, bibliography added.</change>
          <change who="part:ryfu" when="2020-09-04">Initial encoding.</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
->>>>>>> 9dd4282b16d39a68411ec7ce86b84b69fe6f2357
       <body>
          <div type="edition" xml:lang="san-Latn">
              <p><lb n="1"/><g type="spiral"/><!-- siddham -->Oṁ namo bhagavate vāsud<supplied reason="lost">e</supplied>vāya|| </p>
