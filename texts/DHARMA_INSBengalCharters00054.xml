@@ -1,117 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:lang="eng">
-		<fileDesc>
-			<titleStmt>
-				<title>Nandapur Plate of 169 GE</title>
-				<respStmt>
-					<resp>Original EpiDoc Encoding for Siddham</resp>
-					<persName ref="part:daba">
-						<forename>Dániel</forename>
-						<surname>Balogh</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>Conversion of encoding for DHARMA</resp>
-					<persName ref="part:daba">
-						<forename>Dániel</forename>
-						<surname>Balogh</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc encoding for DHARMA of parts not yet encoded for Siddham</resp>
-					<persName ref="part:daba">
-						<forename>Dániel</forename>
-						<surname>Balogh</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:argr">
-						<forename>Arlo</forename>
-						<surname>Griffiths</surname>
-					</persName>
-					<persName ref="part:daba">
-						<forename>Dániel</forename>
-						<surname>Balogh</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
-				</authority>
-				<pubPlace>Berlin</pubPlace>
-				<idno type="filename">DHARMA_INSBengalCharters00054</idno>
-				<!-- The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHARMA filename is assigned. -->
-				<!--argr2daba: I have used I have moved the <altIdentifier type="Siddham">, but in order to get a validating file, I had to move it into <msIdentifier>. We need to get approval of this representation from axja and if she approves need her to revise both schema and template --><!--daba: I agree fully, and will be happy to go ahead with whatever Axelle suggests. I think the altIdentifier will have to go in the MS section regardless of what she does to the schema: here, we're giving the ID of this publication, of which there is only one; there, we give other IDs associated with the original text. Hand in hand with providing instructions for altIdentifier, we also need to provide for alternative titles (those in literature or Siddham) by which a user will be able find a text.-->
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-					  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p><!-- argr2daba: I was wondering if the Siddham licence needs to be reproduced here. --><!--daba: I think we need consultation on that. What I know is this: we never did put licence info inside the Siddham files. I've just checked and the siddham.network website offers its content under a CC BY-NC-ND 4.0 licence, which may be a problem (ND = no derivatives). I wonder if that was done because Michael anticipated DHARMA wanting to reuse those files. However, the original XML files I uploaded to Zenodo (which are in fact what I imported now) are still there under a BY-SA licence, nothing about ND or even NC. (By the way, is there any reason why our files are only BY, without SA? That would mean that any derivatives made later will not have to credit us for the work, wouldn't it?) Should I try to discuss this with Michael? I'd like to avoid fuelling the bad blood between you two, and I would also like to remain on good terms with him, so I'm not very eager to do that, but all in all, it may be best if I initiate it. Also, as you say in your email, we should probably include a reference to the Siddham files. To simplify our lives (and to conform to fact), this could simply be the zip file containing all my XML files on Zenodo, rather than individual siddham.network URLs for each file. -->
-						<p>Copyright (c) 2019-2025 by Dániel Balogh &amp; Arlo Griffiths.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-						<altIdentifier type="Siddham">
-							<!-- argr2daba: this inserted here for the reason stated above -->
-							<idno type="filename">IN00133</idno>
-						</altIdentifier>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nandapur Plate of 169 GE</title>
+            <respStmt>
+               <resp>Original EpiDoc Encoding for Siddham</resp>
+               <persName ref="part:daba">
+                  <forename>Dániel</forename>
+                  <surname>Balogh</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Conversion of encoding for DHARMA</resp>
+               <persName ref="part:daba">
+                  <forename>Dániel</forename>
+                  <surname>Balogh</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>EpiDoc encoding for DHARMA of parts not yet encoded for Siddham</resp>
+               <persName ref="part:daba">
+                  <forename>Dániel</forename>
+                  <surname>Balogh</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+               <persName ref="part:daba">
+                  <forename>Dániel</forename>
+                  <surname>Balogh</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
+            </authority>
+            <pubPlace>Berlin</pubPlace>
+            <idno type="filename">DHARMA_INSBengalCharters00054</idno>
+            <!-- The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHARMA filename is assigned. -->
+            <!--argr2daba: I have used I have moved the <altIdentifier type="Siddham">, but in order to get a validating file, I had to move it into <msIdentifier>. We need to get approval of this representation from axja and if she approves need her to revise both schema and template -->
+            <!--daba: I agree fully, and will be happy to go ahead with whatever Axelle suggests. I think the altIdentifier will have to go in the MS section regardless of what she does to the schema: here, we're giving the ID of this publication, of which there is only one; there, we give other IDs associated with the original text. Hand in hand with providing instructions for altIdentifier, we also need to provide for alternative titles (those in literature or Siddham) by which a user will be able find a text.-->
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                  <!-- argr2daba: I was wondering if the Siddham licence needs to be reproduced here. -->
+                  <!--daba: I think we need consultation on that. What I know is this: we never did put licence info inside the Siddham files. I've just checked and the siddham.network website offers its content under a CC BY-NC-ND 4.0 licence, which may be a problem (ND = no derivatives). I wonder if that was done because Michael anticipated DHARMA wanting to reuse those files. However, the original XML files I uploaded to Zenodo (which are in fact what I imported now) are still there under a BY-SA licence, nothing about ND or even NC. (By the way, is there any reason why our files are only BY, without SA? That would mean that any derivatives made later will not have to credit us for the work, wouldn't it?) Should I try to discuss this with Michael? I'd like to avoid fuelling the bad blood between you two, and I would also like to remain on good terms with him, so I'm not very eager to do that, but all in all, it may be best if I initiate it. Also, as you say in your email, we should probably include a reference to the Siddham files. To simplify our lives (and to conform to fact), this could simply be the zip file containing all my XML files on Zenodo, rather than individual siddham.network URLs for each file. -->
+                  <p>Copyright (c) 2019-2025 by Dániel Balogh &amp; Arlo Griffiths.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <altIdentifier type="Siddham"><!-- argr2daba: this inserted here for the reason stated above -->
+                     <idno type="filename">IN00133</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>
 Noteworthy shapes of M, ṅha.
 Line 4: -svāmine: the ne has a special shape, apparely meant to reinforce the fact that the akṣara marks the end of a clause, a fact also indicated by following space.<!--daba: indeed. It actually looks rather like what I'd expect a halanta N to look like. Could this be one? Or perhaps a halanta N to which an e marker was added subsequently to change it to ne? Or, as you say, a halanta-ish shape used to indicate the pause (virāma) at this point. -->
-Line 18: shape of gg in svargge.<!-- argr2daba: it rather looks like we have svargge, doesn't it? --><!--daba: probably, but this looks weird. I'd expect the second g to be more prominent, and attached to the right leg of the primary one - but this must be another cursive/unusual implementation of a subscript g. In line 8, ndhu is formed similarly, with the dh attached through a vertical line at the right, so here too, the vertical is probably for attachment, and the little thingy at its bottom is the second g. -->
-</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<revisionDesc>
-			<change who="part:argr" when="2020-08-12" status="draft">further revisions after discussion with part:daba</change>
-			<change who="part:argr" when="2020-08-08" status="draft">started manual revision of file imported by part:daba; removed editorial punctuation, inserted space elements, inserted abbr elements, inserted avagrahas, revised readings on the basis of RTI</change>
-			<change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment). Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
+Line 18: shape of gg in svargge.<!-- argr2daba: it rather looks like we have svargge, doesn't it? --><!--daba: probably, but this looks weird. I'd expect the second g to be more prominent, and attached to the right leg of the primary one - but this must be another cursive/unusual implementation of a subscript g. In line 8, ndhu is formed similarly, with the dh attached through a vertical line at the right, so here too, the vertical is probably for attachment, and the little thingy at its bottom is the second g. --></p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:argr" when="2020-08-12" status="draft">further revisions after discussion with part:daba</change>
+         <change who="part:argr" when="2020-08-08" status="draft">started manual revision of file imported by part:daba; removed editorial punctuation, inserted space elements, inserted abbr elements, inserted avagrahas, revised readings on the basis of RTI</change>
+         <change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment). Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
 		<body>
 			<div type="edition" xml:lang="san-Latn">
-<p><pb n="1r"/><lb 
-n="1"/>svasty amvila-grāmāgrahārāt sa-viśvāsam adhikaraṇaM <space/> jaṅgoyikā-grāme brāhmaṇottarān saṁvyavahā<lb 
-n="2" break="no"/>ryy-ādi-kuṭumvinaḥ kuśalam anuvarṇṇya bodhayanti likhanti ca <space/></p>
-<p>vijnāpayati naḥ viṣaya-pati-chattramahaḥ<lb 
-n="3"/>I<unclear>cch</unclear>āmy ahaṁ sva-puṇyābhivr̥ddhaye <space/> nanda-vaitheya-khaṭāpūraṇāgrahārika-cchāndoga-kāśyapa-sagottra-brāhmaṇa<!-- daba had a comment on the end of this line:
+<p><pb n="1r"/><lb n="1"/>svasty amvila-grāmāgrahārāt sa-viśvāsam adhikaraṇaM <space/> jaṅgoyikā-grāme brāhmaṇottarān saṁvyavahā<lb n="2" break="no"/>ryy-ādi-kuṭumvinaḥ kuśalam anuvarṇṇya bodhayanti likhanti ca <space/></p>
+<p>vijnāpayati naḥ viṣaya-pati-chattramahaḥ<lb n="3"/>I<unclear>cch</unclear>āmy ahaṁ sva-puṇyābhivr̥ddhaye <space/> nanda-vaitheya-khaṭāpūraṇāgrahārika-cchāndoga-kāśyapa-sagottra-brāhmaṇa<!-- daba had a comment on the end of this line:
 "The ā mātrā at the end of l3 is far from clear. If it's ṇā, then we expect brāhmaṇāya, so the name of the donee is probably just one akṣara plus svāmin. Perhaps more probably, we have just brāhmaṇa, and then a two-syllable name." 
 argr adds: On inspection of the RTI, and presuming that my new reading adhikaraṇaM is the correct reading in line 1, then I find that there can be no serious doubt about the reading ṇa here, even if the akṣara as a whole is not as clear as it could be. That said, I don't find daba's argument about a hypothetical reading with -ṇā incontrovertible. In the Gaya plate there is vrāhmaṇagopadevasvāmine. If the reading is -ṇā, we could very well have a brahmin whose name started with A or Ā. --><!--daba: you are of course right that the name could have started with a or ā, so the brāhmaṇā does not necessarily imply brāhmaṇāya. But I think I disagree about reading ṇā here and in l1. I've just spent a short time looking at the RTI, so I don't want to contradict your judgement right out, but here's how it seems to me. 1. we have a clear ṇa in line 8 (°dhāraṇayā), in which the hook at the top right only extends downward for a short length (I haven't looked for other instances of ṇa, so this may be atypical, but it conforms to my expectations). 2. Clear specimens of ṇā (l3 °ṇāgrahārika; l9 kṣettrāṇām) have a second hook attached to the lower right of the body, bending down and back under the body. 3. The problematic characters (l1 and l3) have the upper right hook extended down below the baseline, then bending back under the body. My conclusion: the problematic characters are a cursive form of ṇā, in which the upper right hook of the body is extended to represent the hook that is the vowel marker. That stroke even has a curve toward the body in l1, and a definite cusp toward the body in l3, which to me indicates that the part of the stroke above that cusp/curve belongs to the body, and the part below it represents the vowel marker. In the RTI, the only thing unclear about the one in l3 is the centre of the body, but the stroke on the right is quite clear. Thus, I suggest reverting to adhikaraṇāM in l1 (could the composer have had adhikaraṇāḥ in mind, to go with the plural verbs?), and brāhmaṇā in l3. -->
 <!-- response argr: I am still convinced we are dealing with ṇa in both cases. -->
-<lb n="4" break="no"/>-<gap reason="illegible" quantity="2" unit="character"/>-svāmine <space/> pañca-mahā-yajña-pravarttanāya khila-kṣettra-kulya-vā<unclear>pa</unclear>-<subst><del>tu</del><add place="overstrike">ca</add></subst>tuṣṭayaṁ kkrītvātisraṣṭuM<lb 
-n="5"/>yuṣmad-viṣaye ca <space/> samudaya-vāhyādya-stamva-khila-kṣettrāṇāṁ <space/> śaśvad-ācandrārka-tāraka-bhojyā<supplied reason="omitted">nā</supplied><lb 
-n="6" break="no"/>m akṣaya-nīvyā<surplus>ḥ</surplus> dvi-dīnārikya-kulya-vāpa-vikkrayo 'nuvr̥ttas tad arhatha <space/> matto 'ṣṭau dīnārān upa<lb 
-n="7" break="no"/>saṁgr̥hya jaṅgoyikā-grāme khila-kṣettra-kulya-vāpa-catuṣṭayam akṣaya-nīvyās tāmra-paṭṭena dātum iti</p>
-<p><lb 
-n="8"/>yataḥ pustapāla-pradyotasiṅha-vandhudāsayor a<add place="below" rend="mark">va</add><!-- argr: the mark takes the form of two vertical strokes above the line -->dhāraṇayāvadhr̥tam astīha viṣaye <space/> samudaya<lb 
-n="9" break="no"/>-vāhyādya-stamva-khila-kṣettrāṇām akiñcit-pratika<space type="descender"/>rāṇāṁ dvi-dīnārikya-kulya-vāpa-vikkrayo 'nuvr̥ttaḥ<lb 
-n="10"/>Evam-vi<unclear>dho</unclear>tpratikara-khila-kṣettra-vikraye ca na kaś cid rājārttha-virodhaḥ dīyamāne tu parama-bhaṭṭāraka<lb 
-n="11" break="no"/>-pādānāṁ dharmma-ṣaḍ-bhāgāvāptis tad dīyatām ity etasmād viṣaya-pati-chattramahād aṣṭau dīnārān upa<lb 
-n="12" break="no"/>saṁgr̥hya <space/> jaṅgoyikā-grāme <space type="descender"/> gorakṣita-tāmra-paṭṭa-dakṣiṇena <space/> gopāli-bhogāyā<supplied reason="omitted">ḥ</supplied> paścimena khila<lb 
-n="13" break="no"/>-kṣettra-kulya-vāpa-catuṣṭayaṁ dattaM <space/> <abbr>ku</abbr> <num value="4">4</num> <space/></p>
-<p>te yūyam evaṁ viditvā kuṭumvināṁ karṣaṇāvirodhi-sthāne <lb 
-n="14"/>darvvī-karmma-hastenāṣṭaka-navaka-nalābhyām apaviñchya <space/> cira-kāla-sthāyi-tuṣāṅgārādi-cihnaiś catur-ddi<lb 
-n="15" break="no"/>ṅ-niyamita-s<unclear>ī</unclear>mānaṁ kr̥tvā dāsyatha <space/> datvā cākṣaya-nīvī-dharmmeṇa śaśvat-kālam anupālayiṣyatha<!-- argr2daba: the line is not fully engraved with text —should we note this?  --><!--daba: we decided not to do so in markup. You can say it in the layout description once we get to having one. EGD §4.3.4 gives you the option of encoding such a line as aligned to the left. --><pb n="1v"/><lb 
-n="16"/>varttamāna-bhaviṣyaiś ca saṁvyavahāribhir etad dharmmāpekṣayānupālayitavyam iti <space/> Uktañ ca bhaga<lb 
-n="17" break="no"/><unclear>vatā vyā</unclear>se<supplied reason="lost">na</supplied> <space/></p>
+<lb n="4" break="no"/>-<gap reason="illegible" quantity="2" unit="character"/>-svāmine <space/> pañca-mahā-yajña-pravarttanāya khila-kṣettra-kulya-vā<unclear>pa</unclear>-<subst><del>tu</del><add place="overstrike">ca</add></subst>tuṣṭayaṁ kkrītvātisraṣṭuM<lb n="5"/>yuṣmad-viṣaye ca <space/> samudaya-vāhyādya-stamva-khila-kṣettrāṇāṁ <space/> śaśvad-ācandrārka-tāraka-bhojyā<supplied reason="omitted">nā</supplied><lb n="6" break="no"/>m akṣaya-nīvyā<surplus>ḥ</surplus> dvi-dīnārikya-kulya-vāpa-vikkrayo 'nuvr̥ttas tad arhatha <space/> matto 'ṣṭau dīnārān upa<lb n="7" break="no"/>saṁgr̥hya jaṅgoyikā-grāme khila-kṣettra-kulya-vāpa-catuṣṭayam akṣaya-nīvyās tāmra-paṭṭena dātum iti</p>
+<p><lb n="8"/>yataḥ pustapāla-pradyotasiṅha-vandhudāsayor a<add place="below" rend="mark">va</add><!-- argr: the mark takes the form of two vertical strokes above the line -->dhāraṇayāvadhr̥tam astīha viṣaye <space/> samudaya<lb n="9" break="no"/>-vāhyādya-stamva-khila-kṣettrāṇām akiñcit-pratika<space type="descender"/>rāṇāṁ dvi-dīnārikya-kulya-vāpa-vikkrayo 'nuvr̥ttaḥ<lb n="10"/>Evam-vi<unclear>dho</unclear>tpratikara-khila-kṣettra-vikraye ca na kaś cid rājārttha-virodhaḥ dīyamāne tu parama-bhaṭṭāraka<lb n="11" break="no"/>-pādānāṁ dharmma-ṣaḍ-bhāgāvāptis tad dīyatām ity etasmād viṣaya-pati-chattramahād aṣṭau dīnārān upa<lb n="12" break="no"/>saṁgr̥hya <space/> jaṅgoyikā-grāme <space type="descender"/> gorakṣita-tāmra-paṭṭa-dakṣiṇena <space/> gopāli-bhogāyā<supplied reason="omitted">ḥ</supplied> paścimena khila<lb n="13" break="no"/>-kṣettra-kulya-vāpa-catuṣṭayaṁ dattaM <space/> <abbr>ku</abbr> <num value="4">4</num> <space/></p>
+<p>te yūyam evaṁ viditvā kuṭumvināṁ karṣaṇāvirodhi-sthāne <lb n="14"/>darvvī-karmma-hastenāṣṭaka-navaka-nalābhyām apaviñchya <space/> cira-kāla-sthāyi-tuṣāṅgārādi-cihnaiś catur-ddi<lb n="15" break="no"/>ṅ-niyamita-s<unclear>ī</unclear>mānaṁ kr̥tvā dāsyatha <space/> datvā cākṣaya-nīvī-dharmmeṇa śaśvat-kālam anupālayiṣyatha<!-- argr2daba: the line is not fully engraved with text —should we note this?  --><!--daba: we decided not to do so in markup. You can say it in the layout description once we get to having one. EGD §4.3.4 gives you the option of encoding such a line as aligned to the left. --><pb n="1v"/><lb n="16"/>varttamāna-bhaviṣyaiś ca saṁvyavahāribhir etad dharmmāpekṣayānupālayitavyam iti <space/> Uktañ ca bhaga<lb n="17" break="no"/><unclear>vatā vyā</unclear>se<supplied reason="lost">na</supplied> <space/></p>
 <lg n="1" met="anuṣṭubh">
 <l n="a"><supplied reason="lost">sva-da</supplied>ttāṁ para-dattāṁ vā</l>
 <l n="b">yo hareta vasundharāṁ</l><!-- 
@@ -180,7 +165,7 @@ Comment daba modified by argr: "There is a space of about one character after bh
 		</app>
 	</listApp>
 </div>
-<div type="translation" xml:lang="eng" resp="part:argr">
+<div type="translation" resp="part:argr">
 <p n="1-2">Hail! From the <foreign>agrahāra</foreign> of the village Amvila, the <supplied reason="subaudible">members of the</supplied> council which enjoys <supplied reason="subaudible">the king’s</supplied> confidence, having offered greetings to the administrator(s) and other landholders <supplied reason="explanation"><foreign>kuṭumbin</foreign></supplied><!-- argr2ryfu: or "peasant householders", if we follow your preference --> at the village Jaṅgoyikā, brahmins being foremost among them, inform and write:</p>
 
 <p n="2-7">The district chief Chattramaha respectfully requests from us: 
