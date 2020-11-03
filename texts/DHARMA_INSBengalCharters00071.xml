@@ -2,74 +2,98 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Rajibpur Plate of Gopāla IV, year 2 and Madanapāla, year 2</title>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:ryfu">
-						<forename>Ryosuke</forename>
-						<surname>Furui</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:ryfu">
-						<forename>Ryosuke</forename>
-						<surname>Furui</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA <note>This project has received funding from the European Research
-						Council (ERC) under the European Union's Horizon 2020 research and
-						innovation programme (grant agreement no 809994).</note>
-				</authority>
-				<pubPlace>Tokyo</pubPlace>
-				<idno type="filename">DHARMA_INSBengalCharters00071</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rajibpur Plate of Gopāla IV, year 2 and Madanapāla, year 2</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <persName ref="part:ryfu">
+                  <forename>Ryosuke</forename>
+                  <surname>Furui</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:ryfu">
+                  <forename>Ryosuke</forename>
+                  <surname>Furui</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Tokyo</pubPlace>
+            <idno type="filename">DHARMA_INSBengalCharters00071</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
 							Licence. To view a copy of the licence, visit
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Ryosuke
+                  <p>Copyright (c) 2019-2025 by Ryosuke
 							Furui.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc><!-- only the handDesc can be filled in at this stage -->
-				<msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/><!-- don't modify this -->
-					</msIdentifier>
-					<msContents><!-- describe the intellectual content of an inscription -->
-						<summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-							<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<revisionDesc>
-			<change who="part:ryfu" when="2020-10-11">Translation and Bibliography encoded.</change>
-			<change who="part:ryfu" when="2020-09-08">Text and Apparatus encoded.</change>
-			<change who="part:ryfu" when="2020-09-07">Initial encoding.</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This project DHARMA has received funding from the European Research Council (ERC)
+                        under the European Union's Horizon 2020 research and innovation programme (grant
+                        agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                            ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
+         <change who="part:ryfu" when="2020-10-11">Translation and Bibliography encoded.</change>
+         <change who="part:ryfu" when="2020-09-08">Text and Apparatus encoded.</change>
+         <change who="part:ryfu" when="2020-09-07">Initial encoding.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
 	<div type="textpart" n="A"><head xml:lang="eng">Seal</head>
@@ -190,38 +214,14 @@
 	</lg>
 	<lg n="19" met="śārdūlavikrīḍita">
 		<l n="a"><lb n="30"/>pratyarthi-pramadā-kadamvakaśiraḥ-sindūra-lopa-krama</l>
-		<l n="b">-krīḍā-pāṭala-pāṇir eṣa <choice><sic>śūśū</sic><corr>suṣu</corr></choice>ve gopālam urvvī-bh<choice><sic>ū</sic><corr>u</corr></choice>jaṁ| </l
-		<l n="c">dhā<pb n="1v"/><lb n="31"/>trī-pālana-jṛmbhamāṇa-mahimā karpūra-pāṅ<choice><sic>śūke</sic><corr>sūtka</corr></choice>rair </l>
-		<l n="d">ddevaḥ kīrttim ayaṁ nijaṁ vitanute yaḥ śaiśave krīḍitaṁ|| </l>
+		<l n="b">-krīḍā-pāṭala-pāṇir eṣa <choice><sic>śūśū</sic><corr>suṣu</corr></choice>ve gopālam urvvī-bh<choice><sic>ū</sic><corr>u</corr></choice>jaṁ|</l>
+		<l n="c">dhā<pb n="1v"/><lb n="31"/>trī-pālana-jṛmbhamāṇa-mahimā karpūra-pāṅ<choice><sic>śūke</sic><corr>sūtka</corr></choice>rair</l>
+		<l n="d">ddevaḥ kīrttim ayaṁ nijaṁ vitanute yaḥ śaiśave krīḍitaṁ||</l>
 	</lg>
-	<p>sa khalu bhā<lb 
-	n="32"/>gīrathī-patha-pravarttamāna-nānā-vidha-nau-vāṭaka-sampādita-se<choice><sic>tta</sic><corr>tu</corr></choice>-vandha-nihita-śaila-śikhara-śreṇī-vibhramān nira<lb 
-	n="33"/>tiśaya-ghanāghana-ghaṭā-śyāmāyamāna-vāsara-lakṣmī-samāravdha-santata-jalada-samaya-sandeśād udīcīnāneka-narapati-prābhṛ<lb 
-	n="34"/>tī-kṛtāprameya-haya-vāhinī-khara-khurotkhāta-dhūlī-dhū<choice><sic>ṣ</sic><corr>s</corr></choice>arita-dig-antarālāt· parameśvara-samāgatāśeṣa-jamv<choice><sic>ū</sic><corr>u</corr></choice>-dvīpa-bhū-pālā<supplied reason="omitted">na</supplied><lb 
-	n="35"/>nta-pāda-bhara-namad-avaneḥ śrī-rāmāvatī-nagara-parisara-samāvāsita-śrīmaj-jaya-skandhāvārāt·| parama-saugato mahārājā¦<lb 
-	n="36"/>dhirāja<surplus>ḥ</surplus>-śrī-kumārapāla-deva-pādānudhyātaḥ parameśvaraḥ parama-bhaṭṭārako mahārājādhirājaḥ śrīmān<unclear>·</unclear> gopāla-devaḥ <lb 
-	n="37"/>kuśalī| śrī-puṇḍravarddhana-bhuktau koṭīvarṣa-viṣaye halāvartta-maṇḍale kṛta-hala-kula-pramāṇena triśatiko<choice><sic>pe</sic><corr>tpa</corr></choice>ttau vudhavaḍā-khā¦<lb 
-	n="38"/>me sam<choice><sic>ū</sic><corr>u</corr></choice>pāgatāśeṣa-rājapuruṣān<unclear>·</unclear> r<choice><sic>a</sic><corr>ā</corr></choice>ja-rājanyaka-rājaputra-rājāmātya-mahāsāndhivigrahika-mahākṣapaṭalika-mahā<lb 
-	n="39"/>sāmanta-mahāsenāpati-mahāpratīhāra-dauḥsādhasādhanika-mahākumārāmātya-rājasthānīyoparika-cauroddharaṇika-da<lb 
-	n="40"/>ṇḍapāśika-śaunakika-kṣetrapa-prāntapāla-koṭapāla-Aṅgarakṣa-tad-āyuktaka-viniyuktaka-hastyaśvanau<supplied reason="omitted">vala</supplied>v<choice><sic>ṛ</sic><corr>yā</corr></choice>pṛtaka-kiśoravaḍa<lb 
-	n="41"/>vāgomahiṣyajāvikādhyakṣa-dūta-preṣaṇika-gamāgamika-A<choice><sic>t</sic><corr>bh</corr></choice>itvaramāṇa-viṣayapati-grāmapati-tarika-śaulkika-gaulmi<lb 
-	n="42"/>ka-gauḍa-mālava-coḍa-hūṇa-hūṇika-karṇṇāṭa-lāṭa-cāṭa-bhaṭa-sevakādīn·| Anyāṁś cākīrttitān·| rājapādopajīvinaḥ <lb 
-	n="43"/>prativāsino vrāhmaṇottarān· mahattarottama-kuṭ<choice><sic>ū</sic><corr>u</corr></choice>mvi-purogama-caṇḍāla-paryantān·| yathārham mānayati vodhayati <lb 
-	n="44"samādiśati ca <supplied reason="omitted">|</supplied> </p> 
-	<p>viditam astu bhavatāṁ* yathoparilikhito !‘yaṁ grāmaḥ sva-sīmā-<choice><sic>n</sic><corr>t</corr></choice>ṛṇa-pūti-paryantaḥ sa-<choice><sic>k</sic><corr>t</corr></choice>alaḥ soddeśaḥ <lb 
-	n="45"/>sāmra-madhūkaḥ sa-jala-sthalaḥ sa-garttoṣaraḥ sa-jhāṭa-viṭapaḥ sa-daśāpacāraḥ sa-cauroddharaṇ<choice><sic>ika</sic><corr>aḥ</corr></choice> parihṛta-sarvva-pīḍaḥ A<lb 
-	n="46"/>-c<choice><sic>a</sic><corr>ā</corr></choice>ṭa-bhaṭa-pra<choice><sic>l</sic><corr>v</corr></choice>eśaḥ AkiñciT-kara-pragrāhyaḥ bhāga-bhoga-kara-pratyāya-sametaḥ bhūmi-cchidra-nyāyenā-candrārkka-kṣiti-sama-kā<lb 
-	n="47"/>laṁ mātā-pitror ātmanaś ca puṇya-yaśobhivṛddhaye vā<choice><sic>sye</sic><corr>tsya</corr></choice>-sagotrāya Aurvvya-cyavana-bhārggava-yāmadagnya-āpnuvat·-pravarāya dinaka<lb 
-	n="48"/>ra-savrahmacāriṇe Ṛgveda-vide Āśvalāyana-śākhādhyāyine ta<choice><sic>t</sic><corr>n</corr></choice>tra-ṭīkā-tarkka-vyākaraṇa-vide sammārjjanī-vinirggatāya <lb 
-	n="49"/>devīkoṭa-vāstavyāya dhātrīdhararāta-prapautrāya mahādevarāta-pautrāya medhātithirāta-puttrāya paṇḍita-bhaṭṭaputra-śrī<lb 
-	n="50"/>-muraripurātadevaśarmmaṇe māghe māsi paurṇṇamāsyā<supplied reason="omitted">m</supplied> manvantarādau gaṅgāyām vidhivat<supplied reason="omitted">·</supplied> snātvā vṛhad-rāja-śrī-kumāra<lb 
-	n="51"/>pāla-deva-pādair ddatta-hemāśva-mahādānādāya-dakṣiṇā-samvandhena bhagavantaṁ vuddha-bhaṭṭārakam uddiśya triśatikotpattyā śā<lb 
-	n="52"/>sanī-kṛtya pradatto smābhiḥ| Ato bhavadbhiḥ sarvvair evānumantavyaṁ*| bhāvibhir api bhūpatibhiḥ bhūmer dāna-phala-gauravāT Apahara<lb 
-	n="53"/>ṇe mahā-naraka-pāta-bhayāc ca dānam idam anumodyānumodyānumodanīyaṁ*| prativāsibhiś ca kṣetra-karair ājñā-śravana-vidheyī-bhū<lb 
-	n="54"/>ya<surplus>ḥ</surplus> yathā-kālaṁ* samucita-bhāga-bhoga-hiraṇyādi-pratyāyopanayaḥ kārya Iti|| </p>
+	<p>sa khalu bhā<lb n="32"/>gīrathī-patha-pravarttamāna-nānā-vidha-nau-vāṭaka-sampādita-se<choice><sic>tta</sic><corr>tu</corr></choice>-vandha-nihita-śaila-śikhara-śreṇī-vibhramān nira<lb n="33"/>tiśaya-ghanāghana-ghaṭā-śyāmāyamāna-vāsara-lakṣmī-samāravdha-santata-jalada-samaya-sandeśād udīcīnāneka-narapati-prābhṛ<lb n="34"/>tī-kṛtāprameya-haya-vāhinī-khara-khurotkhāta-dhūlī-dhū<choice><sic>ṣ</sic><corr>s</corr></choice>arita-dig-antarālāt· parameśvara-samāgatāśeṣa-jamv<choice><sic>ū</sic><corr>u</corr></choice>-dvīpa-bhū-pālā<supplied reason="omitted">na</supplied><lb n="35"/>nta-pāda-bhara-namad-avaneḥ śrī-rāmāvatī-nagara-parisara-samāvāsita-śrīmaj-jaya-skandhāvārāt·| parama-saugato mahārājā¦<lb n="36"/>dhirāja<surplus>ḥ</surplus>-śrī-kumārapāla-deva-pādānudhyātaḥ parameśvaraḥ parama-bhaṭṭārako mahārājādhirājaḥ śrīmān<unclear>·</unclear> gopāla-devaḥ <lb n="37"/>kuśalī| śrī-puṇḍravarddhana-bhuktau koṭīvarṣa-viṣaye halāvartta-maṇḍale kṛta-hala-kula-pramāṇena triśatiko<choice><sic>pe</sic><corr>tpa</corr></choice>ttau vudhavaḍā-khā¦<lb n="38"/>me sam<choice><sic>ū</sic><corr>u</corr></choice>pāgatāśeṣa-rājapuruṣān<unclear>·</unclear> r<choice><sic>a</sic><corr>ā</corr></choice>ja-rājanyaka-rājaputra-rājāmātya-mahāsāndhivigrahika-mahākṣapaṭalika-mahā<lb n="39"/>sāmanta-mahāsenāpati-mahāpratīhāra-dauḥsādhasādhanika-mahākumārāmātya-rājasthānīyoparika-cauroddharaṇika-da<lb n="40"/>ṇḍapāśika-śaunakika-kṣetrapa-prāntapāla-koṭapāla-Aṅgarakṣa-tad-āyuktaka-viniyuktaka-hastyaśvanau<supplied reason="omitted">vala</supplied>v<choice><sic>ṛ</sic><corr>yā</corr></choice>pṛtaka-kiśoravaḍa<lb n="41"/>vāgomahiṣyajāvikādhyakṣa-dūta-preṣaṇika-gamāgamika-A<choice><sic>t</sic><corr>bh</corr></choice>itvaramāṇa-viṣayapati-grāmapati-tarika-śaulkika-gaulmi<lb n="42"/>ka-gauḍa-mālava-coḍa-hūṇa-hūṇika-karṇṇāṭa-lāṭa-cāṭa-bhaṭa-sevakādīn·| Anyāṁś cākīrttitān·| rājapādopajīvinaḥ <lb n="43"/>prativāsino vrāhmaṇottarān· mahattarottama-kuṭ<choice><sic>ū</sic><corr>u</corr></choice>mvi-purogama-caṇḍāla-paryantān·| yathārham mānayati vodhayati <lb n="44"/>samādiśati ca <supplied reason="omitted">|</supplied> </p> 
+	<p>viditam astu bhavatāṁ* yathoparilikhito !‘yaṁ grāmaḥ sva-sīmā-<choice><sic>n</sic><corr>t</corr></choice>ṛṇa-pūti-paryantaḥ sa-<choice><sic>k</sic><corr>t</corr></choice>alaḥ soddeśaḥ <lb n="45"/>sāmra-madhūkaḥ sa-jala-sthalaḥ sa-garttoṣaraḥ sa-jhāṭa-viṭapaḥ sa-daśāpacāraḥ sa-cauroddharaṇ<choice><sic>ika</sic><corr>aḥ</corr></choice> parihṛta-sarvva-pīḍaḥ A<lb n="46"/>-c<choice><sic>a</sic><corr>ā</corr></choice>ṭa-bhaṭa-pra<choice><sic>l</sic><corr>v</corr></choice>eśaḥ AkiñciT-kara-pragrāhyaḥ bhāga-bhoga-kara-pratyāya-sametaḥ bhūmi-cchidra-nyāyenā-candrārkka-kṣiti-sama-kā<lb n="47"/>laṁ mātā-pitror ātmanaś ca puṇya-yaśobhivṛddhaye vā<choice><sic>sye</sic><corr>tsya</corr></choice>-sagotrāya Aurvvya-cyavana-bhārggava-yāmadagnya-āpnuvat·-pravarāya dinaka<lb n="48"/>ra-savrahmacāriṇe Ṛgveda-vide Āśvalāyana-śākhādhyāyine ta<choice><sic>t</sic><corr>n</corr></choice>tra-ṭīkā-tarkka-vyākaraṇa-vide sammārjjanī-vinirggatāya <lb n="49"/>devīkoṭa-vāstavyāya dhātrīdhararāta-prapautrāya mahādevarāta-pautrāya medhātithirāta-puttrāya paṇḍita-bhaṭṭaputra-śrī<lb n="50"/>-muraripurātadevaśarmmaṇe māghe māsi paurṇṇamāsyā<supplied reason="omitted">m</supplied> manvantarādau gaṅgāyām vidhivat<supplied reason="omitted">·</supplied> snātvā vṛhad-rāja-śrī-kumāra<lb n="51"/>pāla-deva-pādair ddatta-hemāśva-mahādānādāya-dakṣiṇā-samvandhena bhagavantaṁ vuddha-bhaṭṭārakam uddiśya triśatikotpattyā śā<lb n="52"/>sanī-kṛtya pradatto smābhiḥ| Ato bhavadbhiḥ sarvvair evānumantavyaṁ*| bhāvibhir api bhūpatibhiḥ bhūmer dāna-phala-gauravāT Apahara<lb n="53"/>ṇe mahā-naraka-pāta-bhayāc ca dānam idam anumodyānumodyānumodanīyaṁ*| prativāsibhiś ca kṣetra-karair ājñā-śravana-vidheyī-bhū<lb n="54"/>ya<surplus>ḥ</surplus> yathā-kālaṁ* samucita-bhāga-bhoga-hiraṇyādi-pratyāyopanayaḥ kārya Iti|| </p>
 	<p>samvat<supplied reason="omitted">·</supplied> 2 kārttika-dine 20<supplied reason="omitted">|</supplied> </p>
-	<p>bhavanti cātra dharmmānu<lb 
-	n="55"/><choice><sic>s</sic><corr>ś</corr></choice>a<choice><sic>ṅś</sic><corr>ṁs</corr></choice>inaḥ ślokāḥ| </p>
+	<p>bhavanti cātra dharmmānu<lb n="55"/><choice><sic>s</sic><corr>ś</corr></choice>a<choice><sic>ṅś</sic><corr>ṁs</corr></choice>inaḥ ślokāḥ| </p>
 	<lg n="20" met="anuṣṭubh">
 		<l n="ab">vahubhir vasudhā dattā rājabhiḥ sagarādibhiḥ<supplied reason="omitted">|</supplied> </l>
 		<l n="cd">yasya yasya yadā bhūmis tasya tasya tadā phalaṁ*|| </l>
@@ -275,7 +275,7 @@
 	</div>
          </div>
          <div type="apparatus">
-         <div typ="textpart" n="B">
+         <div type="textpart" n="B">
                <listApp>
                   <app loc="1-3">
                      <note> The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the left margin of the obverse of the plate, beside the lines 1, 2, and 3 and 4 respectively.</note>
@@ -307,7 +307,7 @@
 	 	<ab><lb n="1"/>Confirmed. <lb n="2"/>Confirmed. <lb n="3"/>Confirmed.</ab>
 	 </div>
 	<div type="textpart" n="C"><head xml:lang="eng">Plate</head>
-		<p n="1"/>Success! Oṃ, salutation to the Buddha! Welfare!</p>
+		<p n="1">Success! Oṃ, salutation to the Buddha! Welfare!</p>
 		<p rend="stanza" n="1">The one with mind delighted by the jewel of compassion, who is united with beloved goddess Benevolence, whose dirt of ignorance is cleansed by pure water of the stream of knowledge of perfect enlightenment, who, after conquering the powerful cause of existence producing desire, acquired eternal tranquility, may he, the illustrious Lord of the World <supplied reason="explanation"> the Buddha</supplied> possessing ten powers be victorious, otherwise also the king Gopāla <supplied reason="explanation">I</supplied>!</p>
 		<p rend="stanza" n="2">From him was born illustrious king Dharmapāla, who is the birth place of Lakṣmī <supplied reason="explanation">ocean</supplied> with makaras<seg rend="pun">is levying fair tax on the origin of wealth</seg>, able to carry the burden of the earth, a sole refuge for mountains <seg rend="pun">kings</seg> approaching him in fear of cutting of their wings <seg rend="pun">destruction of their troops</seg>, devoted to the protection of custom, an abode of heroism and a dwelling of smile with beauty of milk ocean.</p>
 		<p rend="stanza" n="3">Of him, who gained genuine asceticism like Rāma, there was the brother named Vākpāla, similar <supplied reason="subaudible">to him</supplied> and born with virtues of the son of Sumitrā <supplied reason="explanation">Lakṣmaṇa</supplied>, having equal greatness. He was an illustrious sole abode of conduct and valour, adhered to the order of his brother and made quarters under one umbrella without enemy armies.</p>
@@ -352,12 +352,12 @@
         <div type="bibliography">
 	<p>First notified by S. C. Mukherji<bibl rend="omitname"><ptr target="bib:Mukherji1992_01"/></bibl>, then by Gouriswar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1994_01"/></bibl> with correction of Mukherji's mistakes. First edited by Ryosuke Furui<bibl rend="omitname"><ptr target="Furui2015_02"/></bibl>. Now re-edited by Ryosuke Furui.</p>
            <listBibl type="primary">
-		<bibl n="RF"/><ptr target="bib:Furui2015_02"/><citedRange unit="page">40-48</citedRange>
+		<bibl n="RF"><ptr target="bib:Furui2015_02"/><citedRange unit="page">40-48</citedRange></bibl>
            </listBibl>
            <listBibl type="secondary">
-              <bibl/><ptr target="bib:Bhattacharya1994_01"/><citedRange unit="page">206-208</citedRange>
-              <bibl/><ptr target="bib:Mukherji1992_01"/>
-              <bibl/><ptr target="bib:Mukherji1999_01"/>
+              <bibl><ptr target="bib:Bhattacharya1994_01"/><citedRange unit="page">206-208</citedRange></bibl>
+              <bibl><ptr target="bib:Mukherji1992_01"/></bibl>
+              <bibl><ptr target="bib:Mukherji1999_01"/></bibl>
            </listBibl>
         </div>
       </body>
