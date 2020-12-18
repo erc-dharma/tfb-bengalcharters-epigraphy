@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -57,25 +57,18 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <projectDesc>
-            <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-         </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-         <!-- UPDATE the link once the release is made official -->
-         <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-               <p>Public URIs with the prefix <code>bib</code> to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-            </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-               <p>Internal URIs using the <code>part</code> prefix to point to <gi>person</gi> elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
-            </prefixDef>
-         </listPrefixDef>
+          <projectDesc>
+              <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+          </projectDesc>
+          <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+          <listPrefixDef>
+              <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                  <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+              </prefixDef>
+              <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                  <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+              </prefixDef>
+          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
@@ -95,7 +88,7 @@
  <p><lb n="1"/><g type="spiral"/><!-- siddham --> <space quantity="3" unit="character"/> svasti śrīmaj-jaya-skandhāvārāT varddhamāna-pura-vāsakāT</p>
 <lg n="1" met="vasantatilakā">
 	<lb n="2"/><l n="a">yo dharma-ratna-kiraṇair apavidhya sāndra<supplied reason="omitted">ṁ</supplied></l>
-	<l n="b">mohāndhakāra-paṭalaṁ sakalaṁ tri<lb n="3" break="no"/>-lokaM| </l> 
+	<l n="b">mohāndhakāra-paṭalaṁ sakalaṁ tri<lb n="3" break="no"/>-lokaM| </l>
 	<l n="c">Āloka-lokam anayat s<choice><sic>u</sic><corr>a</corr></choice> jayaty udār<choice><sic>a</sic><corr>o</corr></choice></l>
 	<l n="d">dur-vāra-māra-visara<lb n="4" break="no"/>sya jayī jinendraḥ|| </l>
 </lg>
@@ -111,21 +104,21 @@
 <l enjamb="yes" n="a">tasya gaurī mahā-bhūbhr̥t</l>
 <l n="b">-sutā vudha<lb n="8" break="no"/>-guru-stutā</l>
 <l n="c">patnī vindu-ratir nāma</l>
-<l n="d">yā vabhūva śiva-priyā|| </l>  
+<l n="d">yā vabhūva śiva-priyā|| </l>
 </lg>
 <lg n="5" met="śārdūlavikrīḍita">
 <l enjamb="yes" n="a">tasyā bhoga<!-- or understand or tasya+ābhoga-? --><lb n="9" break="no"/>-nidāna-dāna-salil<choice><orig>e</orig><reg>ai</reg></choice>r<!-- argr2ryfu: do you agree on reading le? --> ārdrī-kr̥torjad-bhuja-</l>
-<l n="b">sphūrjad-vajra-valārjitāji-vija<lb n="10" break="no"/>ya-prājya-pratāpo mahān·| </l> 
-<l n="c">saumyaḥ sūnr̥ta-vāg arāti-bhaya-kr̥d vikhyāta<lb n="11" break="no"/>-kīrttir yaśo</l> 
-<l n="d">jyotsnāhāra-tuṣāra-kunda-dhavalaṁ yo yātavān ātmajaḥ|| </l> 
+<l n="b">sphūrjad-vajra-valārjitāji-vija<lb n="10" break="no"/>ya-prājya-pratāpo mahān·| </l>
+<l n="c">saumyaḥ sūnr̥ta-vāg arāti-bhaya-kr̥d vikhyāta<lb n="11" break="no"/>-kīrttir yaśo</l>
+<l n="d">jyotsnāhāra-tuṣāra-kunda-dhavalaṁ yo yātavān ātmajaḥ|| </l>
 </lg>
 <lg n="6" met="anuṣṭubh">
-<l n="a"><lb n="12"/>yaś ca kurvañ jagat-tuṣṭyai</l> 
-<l n="b">hiraṇya-kaśi<unclear>p</unclear>u-kṣayaM| </l> 
-<l n="c">nāvalamvitavān mā<lb n="13" break="no"/>yān</l> 
+<l n="a"><lb n="12"/>yaś ca kurvañ jagat-tuṣṭyai</l>
+<l n="b">hiraṇya-kaśi<unclear>p</unclear>u-kṣayaM| </l>
+<l n="c">nāvalamvitavān mā<lb n="13" break="no"/>yān</l>
 <l n="d">dāna-vārir api prabhuḥ|| </l>
 </lg>
-<p>sa khalv akhila-jana-mano-'bhirāmābhigāmi<lb n="14" break="no"/>kā<space type="defect"/>neka-guṇa-ratna-bhūṣaṇaḥ| 
+<p>sa khalv akhila-jana-mano-'bhirāmābhigāmi<lb n="14" break="no"/>kā<space type="defect"/>neka-guṇa-ratna-bhūṣaṇaḥ|
 parama-sau<space type="defect" quantity="2" unit="character"/>gato mātā-pitr̥-pā<lb n="15" break="no"/>dānudhyātaḥ parameśvaro mahārājādhi<space type="defect" quantity="3" unit="character"/>rājaḥ śrīmān<choice><sic>a</sic><corr>·</corr></choice> kā<lb n="16" break="no"/>ntidevaḥ kuśalī| harikelā-maṇḍale bhāvi<space type="defect" quantity="2" unit="character"/>-bhūpatīṁs tad-ātma-hi<lb n="17" break="no"/>tam idaṁ vodhayati viditam astu vaḥ|</p>
  </div>
         </div>
@@ -155,7 +148,7 @@ parama-sau<space type="defect" quantity="2" unit="character"/>gato mātā-pitr̥
 	<note>The name Kāntideva is confirmed by the legend of the seal, so a parsing Śrī Mānakāntideva cannot be entertained.</note>
 	</app>
                </listApp>
- 	</div><!-- end of textpart B --> 
+ 	</div><!-- end of textpart B -->
 </div>
          <div type="translation" resp="part:argr">
  <div type="textpart" n="A"><head xml:lang="eng">Seal</head>

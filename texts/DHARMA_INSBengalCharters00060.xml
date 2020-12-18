@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -53,12 +53,12 @@
                   <objectDesc>
                      <supportDesc>
                         <support>
-                           <p>A <objectType>slab</objectType> of <material>gray schist</material>: 
+                           <p>A <objectType>slab</objectType> of <material>gray schist</material>:
                                         <dimensions>
                                  <width unit="cm">66</width>
                                  <height unit="cm">31</height>
                                  <depth unit="cm">7</depth>
-                              </dimensions>. 
+                              </dimensions>.
                                     </p>
                         </support>
                      </supportDesc>
@@ -99,25 +99,18 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <projectDesc>
-            <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-         </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-         <!-- UPDATE the link once the release is made official -->
-         <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-               <p>Public URIs with the prefix <code>bib</code> to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-            </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-               <p>Internal URIs using the <code>part</code> prefix to point to <gi>person</gi> elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
-            </prefixDef>
-         </listPrefixDef>
+          <projectDesc>
+              <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+          </projectDesc>
+          <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+          <listPrefixDef>
+              <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                  <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+              </prefixDef>
+              <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                  <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+              </prefixDef>
+          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
@@ -128,7 +121,7 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-                    <lb n="1"/><ab><g type="spiral"/><!-- siddham --></ab><p> śrīman-mahīpāladevapādīya-pravarddhamāna-vijaya-rājye samvat· <num value="33">33</num> Āśvina-dine| śrī-deśihaṭṭa| śrī-jayahaṭṭa| śrī-gauḍahaṭṭīya-samasta<lb n="2" break="no"/>vaṇig-grāmeṇa| śrī-sonnakādevīmādhava-śāsana Āgaccakāvacch<choice><orig>u</orig><corr>i</corr></choice>nna-grāma| dhātrīpura| saptakhātaka| khanitrapallī| lakkhunna-grāmeṣu| ye ke ’!pi|| 
+                    <lb n="1"/><ab><g type="spiral"/><!-- siddham --></ab><p> śrīman-mahīpāladevapādīya-pravarddhamāna-vijaya-rājye samvat· <num value="33">33</num> Āśvina-dine| śrī-deśihaṭṭa| śrī-jayahaṭṭa| śrī-gauḍahaṭṭīya-samasta<lb n="2" break="no"/>vaṇig-grāmeṇa| śrī-sonnakādevīmādhava-śāsana Āgaccakāvacch<choice><orig>u</orig><corr>i</corr></choice>nna-grāma| dhātrīpura| saptakhātaka| khanitrapallī| lakkhunna-grāmeṣu| ye ke ’!pi||
                     <lb n="3"/>svasyāṁ svasyāṁ| vāṭikāyāṁ| vājya-bhūmau ca| <g type="fleuron"/> guvāka-nālikera-vṛkṣān·| <choice><orig>Ā</orig><corr>A</corr></choice>rjayanti| teṣāṁ vāg dattā| </p><p>yathā-phalan nālikera-vr̥kṣam prati paṇa trayam·| phala<lb n="4" break="no"/>vad-guvāka-vṛkṣam prati paṇa Ekaḥ| <!--a part of bold image of a camel disturbs the line here -->śrī-sonnakāmādhavasya pūjārtham| prati-samvatsaran tair ddātavyam·| </p><p>yatra| prati nālikera-vṛkṣaṁ <abbr>hi</abbr> <abbr>pa</abbr> <num value="3">3</num> prati guvāka-vr̥<lb n="5" break="no"/>kṣaṁ <abbr>hi</abbr> <abbr>pa</abbr> <num value="1">1</num> Etan niyamitā<supplied reason="omitted">r</supplied>thāt·| </p><!--a part of bold image of a camel disturbs the line here --><p>yaḥ kaś cid anyathā kurute| tasya dr̥ṣṭena| śrīmad-devapādāḥ| Antarādattāḥ| garddabhaḥ pitā| garttaṣūkarī mātā| U<lb n="6" break="no"/>ṣṭraḥ pitr̥vyo bhavet·| <choice><orig>ṣ</orig><corr>ś</corr></choice>apatha Iti| </p>
          </div>
          <div type="apparatus">
@@ -136,7 +129,7 @@
                   <app loc="1">
                         <lem>rājye</lem>
                         <rdg source="bib:Hok+Kuddus2006_01">rājñe</rdg>
-                        <rdg source="bib:Ray2009_01">rāje</rdg> 
+                        <rdg source="bib:Ray2009_01">rāje</rdg>
                     </app>
                     <app loc="1">
                         <lem>haṭṭīya</lem>
@@ -254,7 +247,7 @@
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
-        <div type="bibliography">	
+        <div type="bibliography">
            <p>First edited by Md. Monirul Hok and Md. Abdul Kuddus<bibl rend="omitname"><ptr target="bib:Hok+Kuddus2006_01"/></bibl>from the original with a photographic reproduction; Krishnendu Ray<bibl rend="omitname"><ptr target="bib:Ray2009_01"/> </bibl> reproduced witout a proper permission an edition by Gouriswar Bhattacharya which had been presented at a seminar; re-edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2013_02"/> based on the photographs taken by himself; re-edited by Ryosuke Furui with revision based on the comments by Arlo Griffiths./&gt;</bibl></p>
         	<listBibl type="primary">
 	   <bibl n="HK"><ptr target="bib:Hok+Kuddus2006_01"/></bibl>
