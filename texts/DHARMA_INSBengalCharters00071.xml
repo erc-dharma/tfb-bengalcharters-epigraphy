@@ -87,7 +87,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:ryfu" when="2020-12-17">Text part B encoding modified</change>
+         <change who="part:ryfu" when="2020-12-17" status="draft">Text part B encoding modified</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:ryfu" when="2020-10-11">Translation and Bibliography encoded.</change>
          <change who="part:ryfu" when="2020-09-08">Text and Apparatus encoded.</change>
@@ -285,7 +285,7 @@
          </div>
          <div type="textpart" n="C">
                <listApp>
-               	<app loc="2"><lem>śrīmāl</lem><rdg source="bib:Furui2015_012">śrīmal</rdg></app>
+               	<app loc="2"><lem>śrīmāl</lem><rdg source="bib:Furui2015_02">śrīmal</rdg></app>
                	<app loc="16"><lem>bh<choice><sic>ū</sic><corr>u</corr></choice>vanasya</lem><rdg source="bib:Furui2015_02">bhuvanasya</rdg></app>
                	<app loc="17"><lem>bh<choice><sic>u</sic><corr>ū</corr></choice>bhṛtāṁ</lem><rdg source="bib:Furui2015_02">bhūbhṛtāṁ</rdg></app>
                	<app loc="20"><lem>cā<surplus>r</surplus>t<choice><sic>ū</sic><corr>u</corr></choice>r-vvar<surplus>n</surplus>ṇya</lem><rdg source="bib:Furui2015_02">cārtturvvarnṇya</rdg></app>
