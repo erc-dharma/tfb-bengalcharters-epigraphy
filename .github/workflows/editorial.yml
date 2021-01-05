@@ -32,7 +32,7 @@ jobs:
          uses: actions/upload-artifact@v2
          with:
            name: DHARMA_HTMLCollection
-           path: workflow-output/htmloutput
+           path: workflow-output/html
 
        - name: Updating the edited texts in the repository
          run: |
