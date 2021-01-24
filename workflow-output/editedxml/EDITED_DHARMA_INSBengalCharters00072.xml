@@ -24,7 +24,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Tokyo</pubPlace>
-            <idno type="filename">EDITED_DHARMA_INSBengalCharters00072</idno>
+            <idno type="filename">DHARMA_INSBengalCharters00072</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -92,7 +92,7 @@
       <body>
          <div type="edition" xml:lang="san-Latn">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-	   <ab><unclear>śrī</unclear>-madanapāla<unclear>ḥ</unclear></ab>                 
+	   <ab>(śrī)-madanapāla(ḥ)</ab>                 
 	</div>
 	<div type="textpart" n="B"><head xml:lang="eng">Lefr margin of obverse of the plate</head>
          	<lb n="2"/><ab>ni</ab>
@@ -332,7 +332,7 @@
                  <p rend="stanza" n="3">Of him, who gained genuine asceticism like Rāma, there was the brother named Vākpāla, similar <supplied reason="subaudible">to him</supplied> and born with virtues of the son of Sumitrā <supplied reason="explanation">Lakṣmaṇa</supplied>, having equal greatness. He was an illustrious sole abode of conduct and valour, adhered to the order of his brother and made quarters under one umbrella without enemy armies.</p>
                  <p rend="stanza" n="4">From him was born the son, the victor named Jayapāla, who cleansed the world by his deeds of Upendra <supplied reason="explanation">Viṣṇu</supplied>. He, the tranquiliser of enemies of Dharma in battle, brought comforts of world kingship to Devapāla, his elder</p>
                  <p rend="stanza" n="5">Illustrious Vigrahapāla <supplied reason="explanation">I</supplied>, his son like Ajātaśatru, was born. He was the stream of water that was the clean sword destroying decorations of wives of his enemies.</p>
-                 <p rend="stanza" n="6">He procreated his illustrious son Nārāyaṇa<supplied reason="subaudible">pāla</supplied>, the master, who held in his body virtues parted by the guardians of quarters for the protection of the earth. He, the stone of whose footstool was attached by lustre of crest jewels by kings, decorated by his own deeds the seat of dharma gained properly.</p>
+                 <p rend="stanza" n="6">He procreated his illustrious son Nārāyaṇa<supplied reason="subaudible">pāla</supplied>, the master, who held in his body virtues parted by the guardians of quarters for the protection of the earth. He, the stone of whose foot stool was attached by lustre of crest jewels by kings, decorated by his own deeds the seat of dharma gained properly.</p>
                  <p rend="stanza" n="7">And his son, the protector of central world named illustrious Rājyapāla was born, with the fame known by the bed of water inside the deep bottom of the ocean and by the abodes of deities which equaled to the rooms of kings of the lineage.</p>
                  <p rend="stanza" n="8">From him in Bhāgyadevī, the daughter of Tuṅga, the moon of the Rāṣṭrakūṭa lineage with raised crown, was born the son like the treasury of greatness of previous kings. <supplied reason="subaudible">He,</supplied> illustrious Gopāladeva <supplied reason="explanation">III</supplied> was for a long time like the only one husband of the earth, the devoted wife who had manifold garments of four oceans studded with lustre of many gems.</p>
                  <p rend="stanza" n="9">From him, as if the moon raining ten million of rays was born from the sun at proper time, was born Vigrahapāladeva <supplied reason="explanation">II</supplied>. By him who is dear to eyes, spotless, having rays <seg rend="pun">branches of arts</seg> and elevated, the heat of the world was dispersed.</p>
