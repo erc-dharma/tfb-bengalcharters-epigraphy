@@ -84,6 +84,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2021-01-27">Apparatus on the way</change>
          <change who="part:ryfu" when="2021-01-24">Initial encoding</change>
       </revisionDesc>
    </teiHeader>
@@ -100,21 +101,21 @@
                 <pb n="1r"/><lb n="1"/><p><g type="spiral"/><!-- siddham -->Oṁ namo vuddhāya|| svasti||</p>
                 <lg n="1" met="sragdharā">
                     <l n="a">maitrīṁ* kāruṇya-ratna-pramudita-hr̥dayaḥ preyasīṁ* sandadhānaḥ</l>
-                    <l n="b">samyak-samvodhi-vidyā-sarid-amala-jalaḥ kṣāli¦<lb n="2"/>tājñāna-paṅkaḥ|</l>
-                    <l n="c">jitvā yaḥ kāma-kāri-prabhavam abhibhavaṁ śāśvatīṁ prāpa śāntī</l>
-                    <l n="d">sa śrīmān· lokanātho jayati daśa-valo!’nyaś ca gopāla-deva<lb n="3"/>ḥ||</l>
+                    <l n="b">samyak-samvodhi-vidyā-sarid-amala-jala<surplus>ḥ</surplus>-kṣāli¦<lb n="2"/>tājñāna-paṅkaḥ|</l>
+                    <l n="c">jitvā yaḥ kāma-kāri-prabhavam abhibhavaṁ śāśvatīṁ prāpa śānt<choice><sic>ī</sic><corr>iṁ</corr></choice></l>
+                    <l n="d">sa śrīmān· lokanātho jayati daśa-valo !’nyaś ca gopāla-deva<lb n="3"/>ḥ||</l>
                 </lg>
                 <lg n="2" met="śārdūlavikrīḍita">
                     <l n="a">lakṣmī-janma-niketanaṁ sama-karo voḍhu<supplied reason="lost">ṁ</supplied> kṣamaḥ kṣmā-bharaṁ</l>
                     <l n="b">pakṣa-ccheda-bhayād upasthitavatām ekāśrayo bhū-bhr̥tāṁ*|</l>
-                    <l n="c">maryādā-paripālanaika-ni<lb n="4"/>rataḥ śauryālayo!’smād abhūt·</l>
+                    <l n="c">maryādā-paripālanaika-ni<lb n="4"/>rataḥ śauryālayo !’smād abhūt·</l>
                     <l n="d">dugdhāmbhodhi-vilāsa-hāsa-vasatiḥ śrī-dharmmapālo nr̥paḥ||</l>
                 </lg>
                 <lg n="3" met="sragdharā">
                     <l n="a">rāmasyeva gr̥hīta-satya-tapasas tasyānurūpo guṇaiḥ</l>
                     <l n="b"><lb n="5"/>saumitrer udapādi tulya-mahimā vākpāla nāmānujaḥ<supplied reason="omitted">|</supplied>|</l>
                     <l n="c">yaḥ śrīmān· naya-vikramaika-vasati<unclear>r</unclear> bhrātuḥ sthitaḥ śāsane</l>
-                    <l n="d">śūnyāḥ śatru-patā<unclear>k</unclear>kinībhir a¦<lb n="6"/>karod ekātpatrā diṣaḥ||</l>
+                    <l n="d">śūnyāḥ śatru-patā<unclear>k</unclear>inībhir a¦<lb n="6"/>karod ekāt<supplied reason="omitted">a</supplied>patrā di<choice><sic>ṣ</sic><corr>ś</corr></choice>aḥ||</l>
                 </lg>
                 <lg n="4" met="vasantatilakā">
                     <l n="a">tasmād upendra-caritair jagatīṁ punānaḥ</l>
@@ -128,8 +129,8 @@
                 </lg>
                 <lg n="6" met="sragdharā">
                     <l n="a"><lb n="8"/>dikpālaiḥ kṣiti-pālanāya dadhataṁ dehe vibhaktān· guṇān·</l>
-                    <l n="b">śrīmantaṁ janayām vabhūva tanayaṁ nārāyaṇaṁ snatābhūṁ|</l>
-                    <l n="c">yaḥ kṣoṇī-patibhiḥ siro-maṇi-rucā<lb n="9"/>-śliṣṭā<unclear>ṁ</unclear>ghri-pīṭhopalaṁ</l>
+                    <l n="b">śrīmantaṁ janayām vabhūva tanayaṁ nārāyaṇaṁ s<surplus>n</surplus>a <choice><sic>tā</sic><corr>pra</corr></choice>bh<choice><sic>ū</sic><corr>u</corr></choice>ṁ|</l>
+                    <l n="c">yaḥ kṣoṇī-patibhiḥ <choice><sic>s</sic><corr>ś</corr></choice>iro-maṇi-rucā<lb n="9"/>-śliṣṭā<unclear>ṁ</unclear>ghri-pīṭhopalaṁ</l>
                     <l n="d">nyāyopāttam alañ-cakāra caritaiḥ svair eva dharmmāsanaṁ||</l>
                 </lg>
                 <lg n="7" met="vasantatilakā">
@@ -140,7 +141,7 @@
                 </lg>
                 <lg n="8" met="sragdharā">
                     <l n="a">tasmāt pūrvva-kṣiti-dhrān nidhir iva mahasāṁ rāṣ<unclear>ṭra</unclear><lb n="11"/>kūṭānvayendos</l>
-                    <l n="b">tuṅgasyottuṅgamaul<supplied reason="omitted">e</supplied>er duhitari tanayo bhāgyadevyāṁ prasūtaḥ|</l>
+                    <l n="b">tuṅgasyottuṅga-maul<supplied reason="omitted">e</supplied>er duhitari tanayo bhāgyadevyāṁ prasūtaḥ|</l>
                     <l n="c">śrīmān· gopāladevaś cirataram avaner eka-patnyā Ivai<lb n="12"/>ko</l>
                     <l n="d">bharttābhūn naika-ratna-dyuti-khacita-catuḥ-sindhu-citrāṅśukāyāḥ||</l>
                 </lg>
@@ -151,21 +152,21 @@
                     <l n="d">yenoditena dalito bhuvanasya tāpaḥ||</l>
                 </lg>
                 <lg n="10" met="mālinī">
-                    <l n="a">hata-sakala-vipakṣaḥ saṅgare vāhuda<unclear>r</unclear>pā<supplied reason="omitted">d</supplied></l>
-                    <l n="b"><supplied reason="omitted">a</supplied>nadhi<lb n="14"/>kr̥ta-viluptaṁ rājyam āsādya pitryaṁ|</l>
+                    <l n="a">hata-sakala-vipakṣaḥ saṅgare vāhu-da<unclear>r</unclear>pā<unclear>d</unclear></l>
+                    <l n="b"><unclear>a</unclear>nadhi<lb n="14"/>kr̥ta-viluptaṁ rājyam āsādya pitryaṁ|</l>
                     <l n="c">nihita-caraṇa-padmo bhū-bhr̥tāṁ mū<unclear>r</unclear>ddhni tasmād</l>
                     <l n="d">abhavad avani-pālaḥ śrī-mahīpāla-devaḥ||</l>
                 </lg>
                 <lg n="11" met="śikhariṇī">
-                    <l n="a">ttajan<unclear>·</unclear> yo¦<lb n="15"/>ṣāsaṅgaṁ śirasi kr̥ta-pādaḥ kṣiti-bhr̥tāṁ</l>
+                    <l n="a">t<choice><sic>t</sic><corr>y</corr></choice>ajan<unclear>·</unclear> <choice><sic>y</sic><corr>d</corr></choice>o¦<lb n="15"/>ṣāsaṅgaṁ śirasi kr̥ta-pādaḥ kṣiti-bhr̥tāṁ</l>
                     <l n="b">vitanvan· sarvvāśaḥ prasabham udayādrer iva raviḥ|</l>
-                    <l n="c">guṇa-grāmmā snigdha-prakr̥tir anurāgai<lb n="16"/>ka-vasatis</l>
+                    <l n="c">guṇa-grā<choice><sic>mm</sic><corr>hy</corr></choice>ā snigdha-prakr̥tir anurāgai<lb n="16"/>ka-vasatis</l>
                     <l n="d">tato dhanyaḥ puṇ<unclear>y</unclear>air ajani nayapālo narapatiḥ||</l>
                 </lg>
                 <lg n="12" met="śārdūlavikrīḍita">
                     <l n="a">pītaḥ saj-jana-locanaiḥ smara-ripoḥ pūjānuraktaḥ sadā</l>
                     <l n="b">saṁg<unclear>r</unclear>āme dha¦<lb n="17"/>valo dhika-graha-kr̥tāṁ kālaḥ kule vidviṣāṁ|</l>
-                    <l n="c">cātur-vvanṇya-samāśrayaḥ sita-yaśaḥ-pūrair jjagal-lambhayan<unclear>·</unclear></l>
+                    <l n="c">cātur-vva<choice><sic>n</sic><corr>r</corr></choice>ṇya-samāśrayaḥ sita-yaśaḥ-pūrair jjagal-lambhayan<unclear>·</unclear></l>
                     <l n="d">tasmād vigrahapāla-deva-nr̥¦<lb n="18"/>patiḥ puṇyair jjanānām abhūt·||</l>
                 </lg>
                 <lg n="13" met="upajāti">
@@ -277,10 +278,22 @@
                 </lg>
             </div>
          </div>
-         <div type="apparatus">
-           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
+         <div type="apparatus">           
+               <listApp>
+                  <app loc="2"><lem>śāśvatīṁ</lem><rdg source="bib:Vasu_1900">śāśvatāṁ</rdg></app>
+                  <app loc="6"><lem>ekāt<supplied reason="omitted">a</supplied>patrā</lem><rdg source="bib:Vasu_1900">ekātpatro</rdg></app>
+                  <app loc="6"><lem>di<choice><sic>ṣ</sic><corr>ś</corr></choice>aḥ</lem><rdg source="bib:Vasu_1900">diśaḥ</rdg></app>
+                  <app loc="8"><lem>s<surplus>n</surplus>a <choice><sic>tā</sic><corr>pra</corr></choice>bh<choice><sic>ū</sic><corr>u</corr></choice>ṁ</lem><rdg source="bib:Vasu_1900">sa tābhūṁ</rdg></app>
+                  <app loc="9"><lem>ā<unclear>ṁ</unclear>ghri</lem><rdg source="bib:Vasu_1900">āṅghri</rdg></app>
+                  <app loc="10"><lem>kakṣ<surplus>y</surplus>aiḥ</lem><rdg source="bib:Vasu_1900">kakṣaiḥ</rdg></app>
+                  <app loc="10"><lem>tasmāt</lem><rdg source="bib:Vasu_1900">tasmā<supplied reason="lost">t</supplied></rdg></app>
+                  <app loc="11"><lem>endos</lem><rdg source="bib:Vasu_1900">e<supplied reason="lost">n</supplied>dos</rdg></app>
+                  <app loc="11"><lem>maul<supplied reason="omitted">e</supplied>er</lem><rdg source="bib:Vasu_1900">mauler</rdg></app>
+                  <app loc="12"><lem>varṣī</lem><rdg source="bib:Vasu_1900">vardhī</rdg></app>
+                  <app loc="12-13"><lem>da<unclear>r</unclear>pā<unclear>d</unclear> <unclear>a</unclear>nadhi</lem><note>As NV notes, the akṣara (d)(a) seems to be added later and looks like avagraha sign</note></app>
+                  <app loc="14"><lem>mū<unclear>r</unclear>ddhni</lem><rdg source="bib:Vasu_1900">mūrdhni</rdg></app>
+                  <app loc="15"><lem>grā<choice><sic>mm</sic><corr>hy</corr></choice>ā</lem><rdg source="bib:Vasu_1900">grāmyā</rdg></app>
+                  <app loc="17"><lem>vva<choice><sic>n</sic><corr>r</corr></choice>ṇya</lem><rdg source="bib:Vasu_1900">vvarṇya</rdg></app>
                      <lem><!-- fill in a lemma here --></lem>
                      <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
