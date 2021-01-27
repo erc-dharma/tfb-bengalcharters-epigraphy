@@ -83,7 +83,7 @@
       <body>
          <div type="edition" xml:lang="san-Latn">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-	   <ab>(śrī)-madanapāla(ḥ)</ab>                 
+	   <ab><unclear>śrī</unclear>-madanapāla<unclear>ḥ</unclear></ab>                 
 	</div>
 	<div type="textpart" n="B"><head xml:lang="eng">Lefr margin of obverse of the plate</head>
          	<lb n="2"/><ab>ni</ab>
@@ -234,7 +234,7 @@
                 <l n="cd">yasya yasya yadā <choice><sic>p</sic><corr>bh</corr></choice>ūmi<supplied reason="omitted">s</supplied> tasya tasya tadā phalaṁ*||</l>
             </lg>
             <lg n="20" met="anuṣṭubh">
-                <l n="ab">bhūmi<supplied reason="omitted">ṁ</supplied> yaḥ pratigṛhnāti yaś ca bhūmim pra<lb n="53"/>yacchati|</l>
+                <l n="ab">bhūmi<supplied reason="omitted">ṁ</supplied> yaḥ pratigṛh<choice><sic>n</sic><corr>ṇ</corr></choice>āti yaś ca bhūmim pra<lb n="53"/>yacchati|</l>
                 <l n="cd">U<choice><sic>t</sic><corr>bh</corr></choice>au tau puṇya-karmmāṇau niyataṁ svargga-gāminau||</l>
             </lg>
             <lg n="21" met="anuṣṭubh">
