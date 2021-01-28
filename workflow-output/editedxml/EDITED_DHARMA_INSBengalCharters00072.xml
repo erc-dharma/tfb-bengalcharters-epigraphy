@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -318,7 +321,7 @@
                </listApp>  
              </div>
          </div>
-         <div type="translation" xml:lang="eng" resp="part:ryfu">
+         <div type="translation" resp="part:ryfu">
  	<div type="textpart" n="A"><head xml:lang="eng">Seal</head>
  	    <ab>Illustrious Madanapāla</ab>
  	</div>
@@ -339,7 +342,7 @@
                  <p rend="stanza" n="10">From him was born illustrious king Mahīpāladeva <supplied reason="explanation">I</supplied>, who had all the enemies destroyed in battle because of the pride of his arms after stabilising the ancestral kingdom unruled and lost, and had his lotus-like feet laid on the heads of kings.</p>
                  <p rend="stanza" n="11">King Nayapāla, abandoning association with vices, putting his feet on heads of kings, forcibly filling all the spaces, to be gained by virtues, having affectionate subjects, the sole abode of affection and rich with virtues, was born from him, as if the Sun <supplied reason="subaudible">was born</supplied> from the Udaya Mountain.</p>
                  <p rend="stanza" n="12">King Vigrahapāladeva <supplied reason="explanation">III</supplied>, who was drunk by the eyes of good people, always pleased with worship of the enemy of love <supplied reason="explanation">Śiva</supplied>, beautiful in battle, the death for enemies in the family who made excellent grabbing, the shelter of those belonging to four varṇas, bestowing the world with his swelling white fame, was born from him with virtues.</p>
-                 <p rend="stanza" n="13">His son, the king named Mahīpāla <supplied reason="explanation">II</supplied>, the illustrious, who was sung by the all delighted by the splendour of his fame surpassing candana water, the foremost among masters of twice-born <seg rend="pun">having moon on his crest</seg>, was born having auspiciousness <seg rend="rend">like Śiva</seg>.</p>
+                 <p rend="stanza" n="13">His son, the king named Mahīpāla <supplied reason="explanation">II</supplied>, the illustrious, who was sung by the all delighted by the splendour of his fame surpassing candana water, the foremost among masters of twice-born <seg rend="pun">having moon on his crest</seg>, was born having auspiciousness <seg rend="pun">like Śiva</seg>.</p>
                  <p rend="stanza" n="14">There was his younger brother king Śūrapāla <supplied reason="explanation">II</supplied>, having greatness of Mahendra, Skanda in fortune of valour, the sole bold charioteer and possessing virtues. He, by his proficiency in all the weapons arisen from the excess of restlessness due to his own will and nature, spread immediately wonder and fear in the minds of his enemies.</p>
                  <p rend="stanza" n="15">There was also his uterine brother, king, illustrious Rāmapāla, whose firmness of Vāsava <supplied reason="explanation">Indra</supplied> was invoked and shaken by vehement disturbance of people of heaven <seg rend="pun">Divya</seg>. When his father was ruling for long time and leaving <supplied reason="explanation">this world</supplied>, even in his childhood, he made lasting astonishment in the heart of enemy circle by his glittering splendour.</p>
                  <p rend="stanza" n="16">From him was born Kumārapāla, who had the ocean of thick fame of enemies drunk up by valour of his own long arm, having robust fame on female makaras which were marks of camphor on the cheek of wife of the king of deities.</p>
