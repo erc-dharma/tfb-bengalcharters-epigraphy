@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -62,7 +65,7 @@
                   <repository>DHARMAbase</repository>
                   <idno/>
                   <altIdentifier type="Siddham"><!-- argr2daba: this inserted here for the reason stated above -->
-                     <idno type="filename">IN00133</idno>
+                     <idno type="filename">DHARMA_INSBengalCharters00054</idno>
                   </altIdentifier>
                </msIdentifier>
                <msContents>
@@ -143,7 +146,7 @@ Comment daba modified by argr: "There is a space of about one character after bh
 		<rdg source="bib:Majumdar1935-1936_01 bib:Sircar1965_02">adhikaraṇ<choice><sic>ā</sic><corr>a</corr></choice>M</rdg>
 <note>Reading <foreign>ṇā</foreign> here would imply that the akṣara has a different shape from all other cases of <foreign>ṇā</foreign> in this inscription, which show a clockwise stroke at the bottom to make the <foreign>ā</foreign> (e.g. in line 9 <foreign>pratikarāṇāṁ</foreign>). By contrast, we can avoid the need to make any emendation by simply reading the expected <foreign>ṇa</foreign>, which does not seem problematic if we compare the forms of <foreign>ṇa</foreign> and M observed, e.g., in line 8 <foreign>avadhāraṇayā</foreign>, line 4 <foreign>atisraṣṭuM</foreign>, line 13 <foreign>dattaM</foreign>.<!--daba2argr: I concur that the M need not be involved, but I've now fully convinced myself that the stroke on the right is an alternative implementation of the ā marker. Incidentally, the way it is executed may be related to the way rgge is formed in l18 and ndhu in l8. --><!-- argr: I am still rather convinced that -ṇaM is the correct reading. --></note>
 		</app>
-		<app>
+		<app loc="1">
 		<lem>saṁvyavahā<lb n="2" break="no"/>ryy-</lem>
 		<rdg source="bib:Majumdar1935-1936_01 bib:Sircar1965_02">saṁvyavahā<lb n="2" break="no"/>ry-</rdg>
 		</app>

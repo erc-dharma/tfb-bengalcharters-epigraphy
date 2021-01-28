@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -351,7 +354,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-	<p>First notified by S. C. Mukherji<bibl rend="omitname"><ptr target="bib:Mukherji1992_01"/></bibl>, then by Gouriswar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1994_01"/></bibl> with correction of Mukherji's mistakes. First edited by Ryosuke Furui<bibl rend="omitname"><ptr target="Furui2015_02"/></bibl>. Now re-edited by Ryosuke Furui.</p>
+	<p>First notified by S. C. Mukherji<bibl rend="omitname"><ptr target="bib:Mukherji1992_01"/></bibl>, then by Gouriswar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1994_01"/></bibl> with correction of Mukherji's mistakes. First edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2015_02"/></bibl>. Now re-edited by Ryosuke Furui.</p>
            <listBibl type="primary">
 		<bibl n="RF"><ptr target="bib:Furui2015_02"/><citedRange unit="page">40-48</citedRange></bibl>
            </listBibl>
