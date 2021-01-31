@@ -102,7 +102,7 @@
                <ab> ni ni<space quantity="2" unit="character"/>ni ni</ab>
             </div>
             <div type="textpart" n="C"><head xml:lang="eng">Plate</head>
-                <pb n="1r"/><lb n="1"/><p><g type="spiral"/><!-- siddham -->Oṁ namo vuddhāya|| svasti||</p>
+                <pb n="1r"/><lb n="1"/><p><g type="spiral"/><!-- siddham -->Om̐ namo vuddhāya|| svasti||</p>
                 <lg n="1" met="sragdharā">
                     <l n="a">maitrīṁ* kāruṇya-ratna-pramudita-hr̥dayaḥ preyasīṁ* sandadhānaḥ</l>
                     <l n="b">samyak-samvodhi-vidyā-sarid-amala-jala<surplus>ḥ</surplus>-kṣāli¦<lb n="2"/>tājñāna-paṅkaḥ|</l>
@@ -147,7 +147,7 @@
                     <l n="a">tasmāt pūrvva-kṣiti-dhrān nidhir iva mahasāṁ rāṣ<unclear>ṭra</unclear><lb n="11"/>kūṭānvayendos</l>
                     <l n="b">tuṅgasyottuṅga-maul<supplied reason="omitted">e</supplied>r duhitari tanayo bhāgyadevyāṁ prasūtaḥ|</l>
                     <l n="c">śrīmān· gopāla-devaś cirataram avaner eka-patnyā Ivai<lb n="12"/>ko</l>
-                    <l n="d">bharttābhūn naika-ratna-dyuti-khacita-catuḥ-sindhu-citrāṅśukāyāḥ||</l>
+                    <l n="d">bharttā 'bhūn naika-ratna-dyuti-khacita-catuḥ-sindhu-citrāṅśukāyāḥ||</l>
                 </lg>
                 <lg n="9" met="vasantatilakā">
                     <l n="a">tasmād vabhūva savitur vvasu-koṭi-varṣī</l>
@@ -188,7 +188,7 @@
                 <lg n="15" met="śārdūlavikrīḍita">
                     <l n="a">E¦<lb n="21"/>tasyāpi sahodaro nara-patir ddivya-prajā-nirvbhara</l>
                     <l n="b">-kṣobhāhūta-vidhūta-vāsava-dhr̥tiḥ śrī-rāmapālo !’bhavat<unclear>·</unclear>|</l>
-                    <l n="c">śāsaty eva <lb n="22"/>ciraṁ jaganti janake yaḥ śaiśave <choice><sic>p</sic><corr>v</corr></choice>isphurat</l>
+                    <l n="c">śāsaty eva <lb n="22"/>ciraṁ jaganti janake yaḥ śaiśave 'pi sphurat</l>
                     <l n="d">tejobhiḥ para-cakra-cetasi camat-kāraṁ cakāra sthiraṁ||</l>
                 </lg>
                 <lg n="16" met="vasantatilakā">
@@ -234,7 +234,7 @@
                     <lb n="47"/>bhir bhūmer ddāna-phala-gauravāt<unclear>·</unclear> Apaharaṇe mahā<surplus>n·</surplus>-naraka-pāta-bhayāc ca dānam idam anumodyānumodya pālanīyaṁ* prativāsi
                     <lb n="48"/>bhiś ca kṣetra-karair ājñā-vidheyī-bhūya<surplus>ḥ</surplus> yathā-kālaṁ samucita-bhāga-bhoga-kara-hiraṇyādi-pratyāyopanayaḥ kārya Iti||
                 </p>
-                <p><lb n="49"/>samvaT 8 candra-gatyā caitra-karmma-dine 15<supplied reason="omitted">||</supplied></p>
+                <p><lb n="49"/>samvaT <num value="8">8</num> candra-gatyā caitra-karmma-dine <num value="15">15</num><supplied reason="omitted">||</supplied></p>
                 <p>bhavanti cātra dharmmānu<choice><sic>s</sic><corr>ś</corr></choice>aṁsinaḥ ślokāḥ||</p>
                 <lg n="19" met="anuṣṭubh">
                     <l n="ab">vahubhir vvasudhā dattā rājabhiḥ¦ <lb n="50"/>sagrādibhiḥ<supplied reason="omitted">|</supplied></l>
@@ -283,6 +283,12 @@
             </div>
          </div>
          <div type="apparatus">
+           <div type="textpart" n="B">
+               <listApp>
+                   <app><note>The four characters of ni, which seems to be an abbreviation for nibaddha "confirmed", are engraved on the margin above the line 1 of the obverse.</note></app>
+               </listApp>
+           </div>
+           <div type="textpart" n="C">
                <listApp>
                   <app loc="2"><lem>śāśvatīṁ</lem><rdg source="bib:Vasu1900_01">śāśvatāṁ</rdg></app>
                   <app loc="6"><lem>ekāt<supplied reason="omitted">a</supplied>patrā</lem><rdg source="bib:Vasu1900_01">ekātpatro</rdg></app>
@@ -303,7 +309,7 @@
                   <app loc="20"><lem>-bharā-</lem><rdg source="bib:Vasu1900_01">-bharā<supplied reason="lost">n</supplied></rdg></app>
                   <app loc="20"><lem>-virvbhūta-</lem><note>The correct form is vibhūta but the metre requires this form. </note><rdg source="bib:Vasu1900_01">vivbhrat</rdg></app>
                   <app loc="20"><lem><choice><sic>dr</sic><corr>v</corr></choice>ismaya-</lem><rdg source="bib:Vasu1900_01">vismaya-</rdg></app>
-                  <app loc="22"><lem><choice><sic>p</sic><corr>v</corr></choice>isphurat-</lem><rdg source="bib:Vasu1900_01">visphurat-</rdg></app>
+                  <app loc="22"><lem>'pi sphurat-</lem><rdg source="bib:Vasu1900_01">visphurat-</rdg></app>
                   <app loc="23"><lem>-makarīṣu</lem><rdg source="bib:Vasu1900_01">-makarī sa</rdg></app>
                   <app loc="24"><lem>su<choice><sic>s</sic><corr>ṣ</corr></choice>uve</lem><rdg source="bib:Vasu1900_01">suṣuve</rdg></app>
                   <app loc="24"><lem>urvvī-</lem><rdg source="bib:Vasu1900_01">ūrvī-</rdg></app>
@@ -331,6 +337,7 @@
                   <app loc="51"><lem>āhūti</lem><rdg source="bib:Vasu1900_01">āhūta-</rdg></app>
                   <app loc="54"><lem>prārthay<choice><sic>e</sic><corr>a</corr></choice>ty</lem><rdg source="bib:Vasu1900_01">prārthayaty</rdg></app>                   
                </listApp>
+             </div>
          </div>
          <div type="translation" resp="part:ryfu">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
@@ -349,19 +356,19 @@
                  <p rend="stanza" n="6">He procreated his illustrious son Nārāyaṇa<supplied reason="subaudible">pāla</supplied>, the master, who held in his body virtues parted by the guardians of quarters for the protection of the earth. He, the stone of whose footstool was attached by lustre of crest jewels by kings, decorated by his own deeds the seat of dharma gained properly.</p>
                  <p rend="stanza" n="7">And his son, the protector of central world named illustrious Rājyapāla was born, with the fame known by the bed of water inside the deep bottom of the ocean and by the abodes of deities which equaled the rooms of kings of the lineage.</p>
                  <p rend="stanza" n="8">From him in Bhāgyadevī, the daughter of Tuṅga, the moon of the Rāṣṭrakūṭa lineage with raised crown, was born the son like the treasury of greatness of previous kings. <supplied reason="subaudible">He,</supplied> illustrious Gopāladeva <supplied reason="explanation">III</supplied> was for a long time like the only one husband of the earth, the devoted wife who had manifold garments of four oceans studded with lustre of many gems.</p>
-                 <p rend="stanza" n="9">Beloved Lakṣmī, who was energy <supplied reason="explanation">śakti</supplied> of will <supplied reason="explanation">utsāha</supplied>, consultation <supplied reason="explanation">mantra</supplied> and lordship <supplied reason="explanation">prabhu</supplied>, served with loveliness this master filled with royal virtues, as if exceeding the earth, her co-wife.</p>
-                 <p rend="stanza" n="10">From him, as if the moon raining ten million of rays was born from the sun at proper time, was born Vigrahapāladeva <supplied reason="explanation">II</supplied>. By him who is dear to eyes, spotless, having rays <seg rend="pun">branches of arts</seg> and elevated, the heat of the world was dispersed.</p>
-                 <p rend="stanza" n="11">From him was born illustrious king Mahīpāladeva <supplied reason="explanation">I</supplied>, who had all the enemies destroyed in battle because of the pride of his arms after stabilising the ancestral kingdom unruled and lost, and had his lotus-like feet laid on the heads of kings.</p>
-                 <p rend="stanza" n="12">King Nayapāla, abandoning association with vices, putting his feet on heads of kings, forcibly filling all the spaces, to be gained by virtues, having affectionate subjects, the sole abode of affection and rich with virtues, was born from him, as if the Sun <supplied reason="subaudible">was born</supplied> from the Udaya Mountain.</p>
+                 <p rend="stanza" n="9">From him, as if the moon raining ten million of rays was born from the sun at proper time, was born Vigrahapāladeva <supplied reason="explanation">II</supplied>. By him who is dear to eyes, spotless, having rays <seg rend="pun">branches of arts</seg> and elevated, the heat of the world was dispersed.</p>
+                 <p rend="stanza" n="10">From him was born illustrious king Mahīpāladeva <supplied reason="explanation">I</supplied>, who had all the enemies destroyed in battle because of the pride of his arms after stabilising the ancestral kingdom unruled and lost, and had his lotus-like feet laid on the heads of kings.</p>
+                 <p rend="stanza" n="11">King Nayapāla, abandoning association with vices, putting his feet on heads of kings, forcibly filling all the spaces, to be gained by virtues, having affectionate subjects, the sole abode of affection and rich with virtues, was born from him, as if the Sun <supplied reason="subaudible">was born</supplied> from the Udaya Mountain.</p>
+                 <p rend="stanza" n="12">King Vigrahapāladeva <supplied reason="explanation">III</supplied>, who was drunk by the eyes of good people, always pleased with worship of the enemy of love <supplied reason="explanation">Śiva</supplied>, beautiful in battle, the death for enemies in the family who made excellent grabbing, the shelter of those belonging to four varṇas, bestowing the world with his swelling white fame, was born from him with virtues.</p>
                  <p rend="stanza" n="13">His son, the king named Mahīpāla <supplied reason="explanation">II</supplied>, the illustrious, who was sung by the all delighted by the splendour of his fame surpassing candana water, the foremost among masters of twice-born <seg rend="pun">having moon on his crest</seg>, was born having auspiciousness <seg rend="pun">like Śiva</seg>.</p>
                  <p rend="stanza" n="14">There was his younger brother king Śūrapāla <supplied reason="explanation">II</supplied>, having greatness of Mahendra, Skanda in fortune of valour, the sole bold charioteer and possessing virtues. He, by his proficiency in all the weapons arisen from the excess of restlessness due to his own will and nature, spread immediately wonder and fear in the minds of his enemies.</p>
                  <p rend="stanza" n="15">There was also his uterine brother, king, illustrious Rāmapāla, whose firmness of Vāsava <supplied reason="explanation">Indra</supplied> was invoked and shaken by vehement disturbance of people of heaven <seg rend="pun">Divya</seg>. When his father was ruling for long time and leaving <supplied reason="subaudible">this world</supplied>, even in his childhood, he made lasting astonishment in the heart of enemy circle by his glittering splendour.</p>
                  <p rend="stanza" n="16">From him was born Kumārapāla, who had the ocean of thick fame of enemies drunk up by valour of his own long arm, having robust fame on female makaras which were marks of camphor on the cheek of wife of the king of deities.</p>
                  <p rend="stanza" n="17">He, whose hand was pale red due to sport of serial robbing of vermilion on the heads of group of women of his opponents, procreated king Gopāla <supplied reason="explanation">IV</supplied>. This king, whose greatness is expanding for the protection of the earth, extends his own fame by raining a heap of dust of camphor playfully in his childhood.</p>
                  <p rend="stanza" n="18">Afterwards there was the son of Madanadevī, who had the inside of the earth purified by strong streams of his fame white like moon. Because of his not being the last, Madanapāla, the son of Rāmapāla, supported the earth with girdle of seven oceans.</p>
-                 <p n="27-31">From the illustrious military camp of victory pitched in the neighbourhood of illustrious Rāmāvatīnagara, where the group of mountain peaks laid by the bridge produced by various kinds of large ships going around the path of river Bhāgīrathī are rolling, where the news of the time of lasting cloud occurred because of daylight darkened by the assembly of unsurpassed rutting elephants, where the intermediate space of directions is made gray by dust dug up by the hard hooves of innumerable horse troops gifted by many northern kings and where the earth bows to the weight of innumerable foot soldiers of all the kings of Jambudvīpa coming for the service to the supreme lord. </p>
+                 <p n="27-31">From the illustrious military camp of victory pitched in the neighbourhood of illustrious Rāmāvatīnagara, where the group of mountain peaks laid by the bridge produced by various kinds of large ships going around the path of river Bhāgīrathī are rolling, where the doubt of the time of lasting cloud occurred because of daylight darkened by the assembly of unsurpassed rutting elephants, where the intermediate space of directions is made gray by dust dug up by the hard hooves of innumerable horse troops gifted by many northern kings and where the earth bows to the weight of innumerable foot soldiers of all the kings of Jambudvīpa coming for the service to the supreme lord. </p>
                  <p n="32-39">Parameśvara paramabhaṭṭāraka mahārājādhirāja illustrious Madanapāladeva, healthy, the devout worshipper of Sugata, who was accepted by his majesty mahārājādhirāja illustrious Rāmapāladeva, honours, announces and orders according to order all the approached royal officials beginning with rāja, rājanyaka, rājaputra, rājāmātya, mahāsāndhivigrahika, mahākṣapaṭalika, mahāsāmanta, mahāsenāpati, mahāpratīhāra, dauḥsādhasādhanika, mahākumārāmātya, rājasthānīya, uparika, cauroddharaṇika, dāṇḍika, dāṇḍapāśika, śaunika, kṣetrapa, prāntapāla, koṭṭapāla, aṅgarakṣa, their āyuktakas and viniyuktakas, hastyaśvoṣṭranaubalavyāpr̥taka, kiśoravaḍavāgomahiṣyajāvikādhyakṣa, dūta, preṣaṇika, gamāgamika, abhitvaramāṇa, viṣayapati, grāmapati, tarika, śaulkika, gaulmika, Gauḍa, Mālava, Coḍa, Khasa, Hūṇa, Karṇāta, Lāṭa, cāṭa, bhaṭṭa and sevaka, and the other unnamed dependants on the royal feet, and the residents accompanied by brāhmaṇas, headed by mahattamas, uttamas and kuṭumbins reaching to cāṇḍālas, at the land of three hundred in Āraṭṭaka acquired by and tied to Sukaivada and accompanied by twenty stalls <supplied reason="explanation">āvārikā</supplied>, belonging to granary in Halāvarta maṇḍala of Koṭīvarṣa viṣaya in illustrious Pauṇḍravardhana bhukti <supplied reason="subaudible">as follows</supplied>: </p>
-                 <p n="39-48">‘It should be known to you. This village as written above, as far as its own border, grass field and pasture ground, was given by us in the name of the venerable Lord Buddha after making royal grant, with flat land, with raised ground, with mango and mahua trees, with watering place, with ditch and saline land, with forest and shrub, with fine of ten offences, with the right to catch thieves, exempted from all the burdens, without entrance of cāṭas and bhaṭṭas, without anything taken away, accompanied by contribution of bhāga, bhoga, kara, hiraṇya and so on, excluding royal estate <supplied reason="explanation">rājasambhoga</supplied> of the three jwels <supplied reason="explanation">Buddhist establishment</supplied>, by the rule of land reclamation, as long as the moon, the sun and the earth exists, for the increase of merit and fame of parents and myself, to paṇḍita bhaṭṭaputra illustrious Vaṭeśvarasvāmiśarman, belonging to Śaṇḍila gotra, Śāṇḍilya, Āsita and Devala pravara, co-disciple of paṇḍita Śrībhūṣaṇa, learning Kauthuma śākhā belonging to the Sāmaveda, of Campāhiṭṭī and residing in Campāhiṭṭī, the great-grandson of Vatsasvāmin, the grandson of Prajāpatisvāmin and the son of Śaunakasvāmin, because of being a gift for the recitation of the Mahābhārata spoken and taught by Vedavyāsa, by the chief queen <supplied reason="explanation">paṭṭamahādevī</supplied> illustrious Citramatikā. Hence it should be consented to by you all. This donation should also be protected by future kings after repeatedly approving it out of respect for merit of donation of land and from fear of falling to the great hell in case of its violation. And the practice of appropriate contribution of bhāga, bhoga, kara, hiraṇya and so on should be made at proper time by residing cultivators after becoming subject to hearing the order <supplied reason="subaudible">of donee</supplied>.’</p>
+                 <p n="39-48">“It should be known to you. This village as written above, as far as its own border, grass field and pasture ground, was given by us in the name of the venerable Lord Buddha after making royal grant, with flat land, with raised ground, with mango and mahua trees, with watering place, with ditch and saline land, with forest and shrub, with fine of ten offences, with the right to catch thieves, exempted from all the burdens, without entrance of cāṭas and bhaṭṭas, without anything taken away, accompanied by contribution of bhāga, bhoga, kara, hiraṇya and so on, excluding royal estate <supplied reason="explanation">rājasambhoga</supplied> of the three jwels <supplied reason="explanation">Buddhist establishment</supplied>, by the rule of land reclamation, as long as the moon, the sun and the earth exists, for the increase of merit and fame of parents and myself, to paṇḍita bhaṭṭaputra illustrious Vaṭeśvarasvāmiśarman, belonging to Śaṇḍila gotra, Śāṇḍilya, Āsita and Devala pravara, co-disciple of paṇḍita Śrībhūṣaṇa, learning Kauthuma śākhā belonging to the Sāmaveda, of Campāhiṭṭī and residing in Campāhiṭṭī, the great-grandson of Vatsasvāmin, the grandson of Prajāpatisvāmin and the son of Śaunakasvāmin, because of being a gift for the recitation of the Mahābhārata spoken and taught by Vedavyāsa, by the chief queen <supplied reason="explanation">paṭṭamahādevī</supplied> illustrious Citramatikā. Hence it should be consented to by you all. This donation should also be protected by future kings after repeatedly approving it out of respect for merit of donation of land and from fear of falling to the great hell in case of its violation. And the practice of appropriate contribution of bhāga, bhoga, kara, hiraṇya and so on should be made at proper time by residing cultivators after becoming subject to hearing the order <supplied reason="subaudible">of donee</supplied>.” </p>
                  <p n="49">Year 8 month Caitra day of karman 15 by the movement of the moon.</p>
                  <p n="49">Here are verses instructing dharma <supplied reason="subaudible">as follows</supplied>: </p>
                  <p rend="stanza" n="19">The earth was given by many kings beginning with Sagara. To the one to whom the land belongs, belongs then the merit.</p>
@@ -370,7 +377,7 @@
                  <p rend="stanza" n="22">For sixty thousand years, a giver of land stays in heaven. The one who denies it and the one who agrees with him live in hell for the same period.</p>
                  <p rend="stanza" n="23">Either given by himself or given by the others, the one who stole land, he would be boiled with his ancestors after becoming an insect in excreta.</p>
                  <p rend="stanza" n="24">Fathers tremble and paternal grandfathers jump, he, the land giver born in our family, will be the saviour of us.</p>
-                 <p rend="stanza" n="25">To all these future kings, this Rāma demands repeatedly. ‘This common bridge of dharma for men should be always protected with effort.’</p>
+                 <p rend="stanza" n="25">To all these future kings, this Rāma demands repeatedly. “This common bridge of dharma for men should be always protected with effort.”</p>
                  <p rend="stanza" n="26">After thus considering wealth and human life fragile as a drop of water on lotus petal, also after knowing all that is said, the meritorious deeds of others should not be destroyed by human beings.</p>
                  <p rend="stanza" n="27">Sāndhivigrahika illustrious Bhīmadeva, the great ocean of intelligence and firmness, was here made the messenger.</p>
                  <p rend="stanza" n="28">In the reign of Madanapāla, in the eighth year, the artisan Tathāgatasara engraved this copper plate.</p>
@@ -385,11 +392,12 @@
            <p>First edited by Nagendra Nath Vasu<bibl rend="omitname"><ptr target="bib:Vasu1900_01"/></bibl>, then republished with impressions by as a part of an artidle in the Bengali encyclopedia compiled by the same author <bibl rend="omitname"><ptr target="bib:Vasu1900_02"/></bibl>. Later incorporated in the corpuses by Akshay Kumar Maitreya<bibl rend="omitname"><ptr target="bib:Maitreya1912_01"/></bibl> and Ramaranjan Mukherji and Sachindra Kumar Maity<bibl rend="omitname"><ptr target="bib:Mukherji+Maity1967_01"/></bibl> without re-edition. Now re-edited by Ryosuke Furui based on the digital photographs obtained from the Asiatic Society. </p>
         	<listBibl type="primary">
 	   <bibl n="NV"><ptr target="bib:Vasu1900_01"/></bibl>
-           <listBibl type="secondary">
-              <bibl><ptr target="bib:Vasu1900_02"/><citedRange unit="page">316-317</citedRange></bibl>
+        	</listBibl>
+            <listBibl type="secondary">
+               <bibl><ptr target="bib:Vasu1900_02"/><citedRange unit="page">316-317</citedRange></bibl>
                <bibl><ptr target="bib:Maitreya1912_01"/><citedRange unit="page">147-158</citedRange></bibl>
                <bibl><ptr target="bib:Mukherji+Maity1967_01"/><citedRange unit="page">209-219</citedRange></bibl>
-           </listBibl>
+            </listBibl>
         </div>
       </body>
   </text>
