@@ -283,7 +283,7 @@
          <div type="textpart" n="B">
                <listApp>
                   <app loc="1-3">
-                     <note> The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the left margin of the obverse of the plate, beside the lines 1, 2, and 3 and 4 respectively.</note>
+                     <lem>ni ni ni</lem><note> The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the left margin of the obverse of the plate, beside the lines 1, 2, and 3 and 4 respectively.</note>
                   </app>
                </listApp>
          </div>
@@ -303,7 +303,7 @@
                	<app loc="52"><lem>˚ānumantavyaṁ*</lem><rdg source="bib:Furui2015_02">˚ānumantavyaḥ</rdg></app>
                	<app loc="52"><lem>-phala-</lem><rdg source="bib:Furui2015_02">-hala-</rdg><note>Pha and ha are similar but differentiated.</note></app>
                	<app loc="55"><lem>phalaṁ*</lem><rdg source="bib:Furui2015_02">halaṁ*</rdg></app>
-               	<app loc="58"><lem>āsphoṭayanti</lem>><rdg source="bib:Furui2015_02">āshoṭayanti</rdg></app>
+               	<app loc="58"><lem>āsphoṭayanti</lem><rdg source="bib:Furui2015_02">āshoṭayanti</rdg></app>
                </listApp> 
          </div>
          </div>
