@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2021-02-11" status="draft">Text and markups on abverse confirmed and corrected on fresh reading.</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:ryfu" when="2020-09-07" status="draft">converted to template v02 version</change>
          <change who="part:ryfu" when="2020-07-29" status="draft">revision</change>
@@ -102,87 +103,105 @@
          	<div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                  <ab>śrī-mahīpāladevasya</ab>
             </div>
-            <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
+            <div type="textpart" n="B"><head xml:lang="eng">Left end of line 1</head>
+                <ab>ni</ab>            
+            </div>
+            <div type="textpart" n="C"><head xml:lang="eng">Right end of line 1</head>
+                <ab>ni</ab>            
+            </div>
+            <div type="textpart" n="D"><head xml:lang="eng">Plate</head>
                 <pb n="1r"/><lb n="1"/><p><g type="spiral"/><!-- siddham -->svasti</p>
                 <lg n="1" met="sragdharā">
-                    <l n="a">maitrīṅ kūruṇya-ratna-pramudita-hr̥dayaḥ pre<lb n="2" break="no"/>yasīṁ saṁdadh<supplied reason="omitted">ā</supplied>naḥ</l>
+                    <l n="a">maitrīṅ kūruṇya-ratna-pramudita-hr̥dayaḥ pre<lb n="2" break="no"/>yasīṁ saṁdadh<choice><sic>a</sic><corr>ā</corr></choice>naḥ</l>
                     <l n="b">samyak-samvodhi-vidyā-sarid-amala-jala-kṣā<lb n="3" break="no"/>litājñāna-paṅkaḥ| </l>
                     <l n="c">jitvā yaḥ kāma-kāri-prabhavam abhibha<lb n="4" break="no"/>vaṁ śāśvatīm prāpa śāntiṁ</l>
-                    <l n="d">sa śrīmal-lokanātho jayati <lb n="5"/>daśavalo ‘nyaś ca gopāladevaḥ|| </l>
+                    <l n="d">sa śrīmāl lokanātho jayati <lb n="5"/>daśa-valo!‘nyaś ca gopāla-devaḥ|| </l>
                 </lg> 
                 <lg n="2" met="śārdūlavikrīḍita">
                     <l n="a">lakṣmī-janma-niketanaṁ <lb n="6"/>samakaro voḍhuṁ kṣamaḥ kṣmā-bharam</l>
-                    <l n="b">pakśa-c<unclear>ch</unclear>eda-bhayād upasthitavatām ekāśrayo bhūbhr̥tām·| </l>
+                    <l n="b">pakśa-c<unclear>ch</unclear>eda-bhayād upasthitavatām ekāśrayo bhū-bhr̥tām·| </l>
                     <l n="c">maryādā-paripālanaika-nira<lb n="7" break="no"/>taḥ śauryālayo ’smād abhūd</l>
                     <l n="d">dugdhāmbhodhi-vilāsa-hāsi-mahimā śrī-dharmmapālo nr̥paḥ|| </l>                    
                 </lg>
                 <lg n="3" met="śārdūlavikrīḍita">
                     <l n="a">rāmasye<unclear>va</unclear> gr̥hīta-satya-tapasas tasyā<lb n="8" break="no"/>nurūpo guṇaiḥ </l>
                     <l n="b">saumittrer udapādi tulya-mahimā vākpāla-nāmānu<unclear>ja</unclear>ḥ| </l>
-                    <l n="c">yaḥ śrīmān naya-vikramaika-vasati<supplied reason="omitted">r</supplied> bhrātuḥ sthitaḥ <lb n="9"/>śāsane</l>
+                    <l n="c">yaḥ śrīmān naya-vikramaika-vasatir bhrātuḥ sthitaḥ <lb n="9"/>śāsane</l>
                     <l n="d">śūnyāḥ śatru-patāki<supplied reason="omitted">nī</supplied>bhir aka<unclear>ro</unclear>d ekātapattrā diśaḥ<supplied reason="omitted">||</supplied> </l>
                 </lg>
                 <lg n="4" met="vasantatilakā">
-                    <l n="a">tasmād upendra-caritair <unclear>ja</unclear>gatīṁ punānaḥ</l>
+                    <l n="a">tasmād upendra-caritair jagatīṁ punānaḥ</l>
                     <l n="b">putro vabhūva vijayī ja<lb n="10" break="no"/>yapāla-nāmā| </l>
                     <l n="c">dharmma-dviṣāṁ śamayitā yudhi devapāle</l>
-                    <l n="d">yaḥ pūrvvaje bhuvana-rājya-sukhāny anaiṣīt·|| </l>
+                    <l n="d">yaḥ pūrvva-je bhuvana-rājya-sukhāny anaiṣīt·|| </l>
                 </lg>
                 <lg n="5" met="āryā">
                     <l n="ab">śrīmān vigrahapālas tat-sūnur a<lb n="11" break="no"/>jātaśatrur iva jātaḥ| </l>
                     <l n="cd">śatru-vanitā-prasādhana-vilopi-vimalāsi-jala-dhāraḥ|| </l>
                 </lg>
                 <lg n="6" met="śārdūlavikrīḍita">
-                    <l n="a">dikpālaiḥ kṣiti-<unclear>pāla</unclear>nāya dadhataṁ dehe vibha<lb n="12" break="no"/>ktāṅ guṇān·</l>
+                    <l n="a">dik-pālaiḥ kṣiti-<unclear>pāla</unclear>nāya dadhataṁ dehe vibha<lb n="12" break="no"/>ktāṅ guṇān·</l>
                     <l n="b">śrīmataṁ janayām vabūva tanayaṁ nārāyaṇaṁ sa prabhum·| </l>
-                    <l n="c">yaḥ kṣoṇīpatibhiḥ śiro-maṇi-rucā-śliṣṭāṅghri-pīṭhopalaṁ</l>
-                    <l n="d">nyāyopā<lb n="13" break="no"/>ttam alañcakāra caritaiḥ svair eva dharmmāsanam·|| </l>
+                    <l n="c">yaḥ kṣoṇī-patibhiḥ śiro-maṇi-rucā-śliṣṭāṅghri-pīṭhopalaṁ</l>
+                    <l n="d">nyāyopā<lb n="13" break="no"/>ttam alañ-cakāra caritaiḥ svair eva dharmmāsanam·|| </l>
                 </lg>
                 <lg n="7" met="vasantatilakā">
-                    <l n="a">toyāśayair jaladhimūla-gabhīra-garvbhair</l>
-                    <l n="b">ddevālayaiś ca kula-bhūdhara-tulya-kakṣaiḥ| </l>
+                    <l n="a">toyāśayair jaladhi-mūla-gabhīra-garvbhair</l>
+                    <l n="b">ddevālayaiś ca kula-bhū-dhara-tulya-kakṣaiḥ| </l>
                     <l n="c"><lb n="14"/>vikhyāta-kīrttir abhavat tanayaś ca tasya</l>
                     <l n="d">śrī-rājyapāla Iti madhyama-loka-pālaḥ|| </l>
                 </lg>
                 <lg n="8" met="sragdharā">
                     <l n="a">tasmāt pūrvva-kṣiti-dhrān nidhir iva mahasāṁ <lb n="15"/>rāṣṭrakūṭānvayendos</l>
                     <l n="b">tuṅgasyottuṅga-mauler dduhitari tanayo bhāgyadevyāṁ prasūtaḥ| </l>
-                    <l n="c">śrīmān gopāladevaś cirataram avaner eka-pa<lb n="16" break="no"/>tnyā Ivaiko</l>
+                    <l n="c">śrīmān gopāla-devaś cirataram avaner eka-pa<lb n="16" break="no"/>tnyā Ivaiko</l>
                     <l n="d">bharttā ’bhūn naika-ratna-dyuti-khacita-catuḥ-sindhu-citrāṁśukāyāḥ|| </l>
                 </lg>
                 <lg n="9" met="indravajrā">
-                    <l n="a">yaṁ svāminaṁ rāja-guṇair a<unclear>n</unclear>ūnam</l>
+                    <l n="a">yaṁ svāminaṁ rāja-guṇair anūnam</l>
                     <l n="b">āsevate cārutayā<lb n="17" break="no"/>nuraktā| </l>
                     <l n="c">Utsāha-mantra-prabhu-śakti-lakṣmīḥ</l>
-                    <l n="d">pṛthvīṁ sapatnīm iva śīlayantī|| </l>
+                    <l n="d">pr̥thvīṁ sa-patnīm iva śīlayantī|| </l>
                 </lg>
                 <lg n="10" met="vasantatilakā">
                     <l n="a">tasmād vabhūva savitur vvasu-koṭi-varṣī</l>
-                    <l n="b"><unclear>kālena</unclear> candra I<lb n="18" break="no"/>va vigrahapāladevaḥ| </l>
+                    <l n="b"><unclear>kālena</unclear> candra I<lb n="18" break="no"/>va vigrahapāla-devaḥ| </l>
                     <l n="c">netra-priyeṇa vimalena kalāmayena</l>
                     <l n="d">yenoditena dalito bhuvanasya tāpaḥ|| </l>
                 </lg>
                 <lg n="11" met="mālinī">
                     <l n="a">hata-sakala-vipakṣaḥ <lb n="19"/>saṅgare vāhu-darppād</l>
                     <l n="b">anadhikr̥ta-viluptaṁ rājyam āsādya pitryaṁ<supplied reason="omitted">|</supplied> </l>
-                    <l n="c">nihita-caraṇa-padmo bhūbhujāṁ mūrddhni tasmād</l>
-                    <l n="d">abhavad avanipālaḥ śrī-ma<lb n="20" break="no"/>hīpāladevaḥ|| </l>
+                    <l n="c">nihita-caraṇa-padmo bhū-bhujāṁ mūrddhni tasmād</l>
+                    <l n="d">abhavad avani-pālaḥ śrī-ma<lb n="20" break="no"/>hīpāla-devaḥ|| </l>
                 </lg>
                 <lg n="12" met="mandākrāntā">
                     <l n="a">deśe prāci p<supplied reason="omitted">r</supplied>acura-payasi svaccham āpīya toyaṁ</l>
                     <l n="b">svairaṁ bhrāntvā tad-anu malayopatyakā-candaneṣu<supplied reason="omitted">|</supplied> </l>
                     <l n="c">kr̥tvā sāndrair mmaru<lb n="21" break="no"/>ṣu jaḍatāṁ śīkarair avbhra-tulyāḥ</l>
-                    <l n="d">prāleyādreḥ kaṭakam abhajan yasya senā-gajendr<supplied reason="omitted">ā</supplied>ḥ<supplied reason="omitted">|| </supplied></l>
+                    <l n="d">prāleyādreḥ kaṭakam abhajan yasya senā-gajendrāḥ<supplied reason="omitted">||</supplied></l>
                 </lg>
-                <p>sa khalu bhāgīrathī-patha-pravarttamāna-nānā-vidha-nau-vā<lb n="22" break="no"/>ṭaka-sampādita-setuvandha-nihita-śaila-śikhara-śreṇī-vibhramāt·| niratiśaya-ghana-ghanāghana-ghaṭā-śyāmāyamāna-vāsara-la<lb n="23" break="no"/>kṣmī-samāravdha-santata-jalada-samaya-sandehāt·| Udīcīnāneka-narapati-prābhr̥tīkṛtāprameya-haya-vāhinī-khara-khuro<lb n="24" break="no"/>tkhāta-dhūlī-dhūsarita-digantarālāt·| parameśvara-sevā-samāyātāśeṣa-jamvudvīpa-bhūpālānanta-pādāta-bhara-namad-avaneḥ<gap reason="omitted" quantity="1" unit="character"/>
-                <lb n="25"/><gap reason="omitted" quantity="5" unit="character"/>samāvāsita-śrīmaj-jaya-skandhāvārāt·| paramasaugato mahārājādhirāja-śrī-vigrahapāladeva-pādānu<lb n="26" break="no"/>dhyātaḥ parameśvaraḥ paramabhaṭṭārako mahārājādhirājaḥ śrīmān mahīpāladevaḥ kuśalī|| śrī-pu<surplus>r</surplus>ṇḍravarddhana-bhuktau |
-                <lb n="27"/>koṭīvarṣa-viṣaye | Ama<gap reason="omitted" quantity="1" unit="character"/>lakī-maṇḍalāntaḥpāti-sva-samvaddhāvicchinna-talopeta<gap reason="omitted" quantity="2" unit="character"/>
-                <lb n="28"/>palāśavr̥nde| sahasra-purāṇa-pramāṇe<gap reason="omitted" extent="unknown"/>
-                <pb n="1v"/>
-                <lb n="29"/><gap reason="omitted" quantity="6" unit="character"/>samu<supplied reason="omitted">pa</supplied>gatāśeṣa-rāja-puruṣān·| raja| rā<lb n="30" break="no"/>janyaka<unclear>| rā</unclear>japutra| rājāmātya| mahāsāndhivigrahika| ma<lb n="31" break="no"/>hākṣapaṭalika| mahāsāmanta| mahāsenāpati| mahāpra<lb n="32" break="no"/>tihāra| daussādhasādha<unclear>n</unclear>i<unclear>ka</unclear>| mahādaṇḍanāyaka| mahāku<lb n="33" break="no"/>mārā<unclear>mā</unclear>tya| rājasthānīyoparika| daśāparādhika| cauroddharaṇika| dāṇḍika| dāṇḍap<supplied reason="omitted">ā</supplied>śika| śaulkika| gaulmika| kṣetra<lb n="34" break="no"/>pa| prāntapāla| koṭṭapāla| Aṅgarakṣa| tad-āyukta| viniyuktaka| hasty-aśvoṣṭra-nau-vala-vyāpr̥taka| kiśora-vaḍavā-mahiṣy-a<lb n="35" break="no"/>jāvikādhyakṣa| <unclear>dū</unclear>ta-preṣaṇika| gamāgamika| Abhitvaramāṇa| viṣayapati| grāmapati| tarika| gauḍa| mālava| khaśa| hū<lb n="36" break="no"/>ṇa| kulika| karṇṇāṭa| lāṭa| cāṭa| bhaṭa| sevakādīn anyāṁś cākīrttitān·| rāja-pādopajīvinaḥ| prativāsino vrāhmaṇottarā<lb n="37" break="no"/>n· maha<unclear>tta</unclear>mottama-kuṭumvi-puroga-medāndhra-caṇḍāla-paryantān·| yathārhaṁ mānayati vodhayati| samādiśati ca| 
+                <p>
+                    sa khalu bhāgīrathī-patha-pravarttamāna-nānā-vidha-nau-vā
+                    <lb n="22" break="no"/>ṭaka-sampādita-setu-vandha-nihita-śaila-śikhara-śreṇī-vibhramāt·| niratiśaya-ghana-ghanāghana-ghaṭā-śyāmāyamāna-vāsara-la<lb n="23" break="no"/>kṣmī-samāravdha-santata-jalada-samaya-sandehāt·| Udīcīnāneka-nara-pati-prābhr̥tī-kr̥tāprameya-haya-vāhinī-khara-khuro<lb n="24" break="no"/>tkhāta-dhūlī-dhūsarita-digantarālāt·| parameśvara-sevā-samāyātāśeṣa-jamvudvīpa-bhū-pālānanta-pādāta-bhara-namad-avaneḥ<gap reason="omitted" quantity="1" unit="character"/>
+                    <lb n="25"/><gap reason="omitted" quantity="5" unit="character"/>-samāvāsita-śrīmaj-jaya-skandhāvārāt·| paramasaugato mahārājādhirāja-śrī-vigrahapāla-deva-pādānu
+                    <lb n="26" break="no"/>dhyātaḥ| parameśvaraḥ paramabhaṭṭ<choice><sic>a</sic><corr>ā</corr></choice>rako mahārāj<choice><sic>a</sic><corr>ā</corr></choice>dhirājaḥ śrīmān mahīpāla-devaḥ kuśalī|| śrī-pu<surplus>r</surplus>ṇḍravarddhana-bhuktau|
+                    <lb n="27"/>koṭīvarṣa-viṣaye| Ama<gap reason="omitted" quantity="1" unit="character"/>lakī-maṇḍalāntaḥpāti-sva-samvaddhāvicchinna-talopeta<gap reason="omitted" quantity="2" unit="character"/>
+                    <lb n="28"/>-palāśavr̥nde| sahasra-purāṇa-pramāṇe|<gap reason="omitted" extent="unknown"/>
+                    <pb n="1v"/><lb n="29"/><gap reason="omitted" quantity="6" unit="character"/>samu<supplied reason="omitted">pa</supplied>gatāśeṣa-rāja-puruṣān·| rāja| rā
+                    <lb n="30" break="no"/>janyaka<unclear>| rā</unclear>japutra| rājāmātya| mahāsāndhivigrahika| ma
+                    <lb n="31" break="no"/>hākṣapaṭalika| mahāsāmanta| mahāsenāpati| mahāpra
+                    <lb n="32" break="no"/>tihāra| daussādhasādha<unclear>n</unclear>i<unclear>ka</unclear>| mahādaṇḍanāyaka| mahāku
+                    <lb n="33" break="no"/>mārā<unclear>mā</unclear>tya| rājasthānīyoparika| daśāparādhika| cauroddharaṇika| dāṇḍika| dāṇḍap<supplied reason="omitted">ā</supplied>śika| śaulkika| gaulmika| kṣetra
+                    <lb n="34" break="no"/>pa| prāntapāla| koṭṭapāla| Aṅgarakṣa| tad-āyukta| viniyuktaka| hasty-aśvoṣṭra-nau-vala-vyāpr̥taka| kiśora-vaḍavā-mahiṣy-a
+                    <lb n="35" break="no"/>jāvikādhyakṣa| <unclear>dū</unclear>ta-preṣaṇika| gamāgamika| Abhitvaramāṇa| viṣayapati| grāmapati| tarika| gauḍa| mālava| khaśa| hū
+                    <lb n="36" break="no"/>ṇa| kulika| karṇṇāṭa| lāṭa| cāṭa| bhaṭa| sevakādīn anyāṁś cākīrttitān·| rāja-pādopajīvinaḥ| prativāsino vrāhmaṇottarā
+                    <lb n="37" break="no"/>n· maha<unclear>tta</unclear>mottama-kuṭumvi-puroga-medāndhra-caṇḍāla-paryantān·| yathārhaṁ mānayati vodhayati| samādiśati ca| 
                 </p>
                 <p>
-                vidita<lb n="38" break="no"/>m astu bhavatām·| yathopari-likhito’! yaṁ grāmaḥ | sva-sīmā-tr̥ṇa-p<choice><sic>u</sic><corr>ū</corr></choice>ti-gocara-paryantaḥ| sa-talaḥ| soddeśaḥ| sā<unclear>mra</unclear>-madhū<lb n="39" break="no"/>k<surplus>ā</surplus>ḥ| <unclear>sa-ja</unclear>lasthalaḥ| sa-garttoṣaraḥ| sa-daśāpacāraḥ| sa-cauroddharaṇaḥ| pari<choice><sic>d</sic><corr>h</corr></choice>r̥ta<surplus>|</surplus>-sarvva-pīḍaḥ| A-cāṭa-bhaṭa-praveśaḥ
+                    vidita
+                    <lb n="38" break="no"/>m astu bhavatām·| yathopari-likhito!’yaṁ grāmaḥ | sva-sīmā-tr̥ṇa-p<choice><sic>u</sic><corr>ū</corr></choice>ti-gocara-paryantaḥ| sa-talaḥ| soddeśaḥ| sā<unclear>mra</unclear>-madhū
+                    <lb n="39" break="no"/>k<surplus>ā</surplus>ḥ| <unclear>sa-ja</unclear>lasthalaḥ| sa-garttoṣaraḥ| sa-daśāpacāraḥ| sa-cauroddharaṇaḥ| pari<choice><sic>d</sic><corr>h</corr></choice>r̥ta<surplus>|</surplus>-sarvva-pīḍaḥ| A-cāṭa-bhaṭa-praveśaḥ
                 <lb n="40"/>A<unclear>kiñcit</unclear>-pragrāhyaḥ| samasta-bhāga-bhoga-kara-hiraṇyādi-pratyāya-sametaḥ| bhūmicchidra-nyāyena| Ā-candrārkka-kṣiti-sama<lb n="41" break="no"/>-kāla<unclear>ṁ| mā</unclear>tā-pitror ātmanaś ca puṇya-yaśo’! bhivr̥ddhaye| bhagavantaṁ vuddha-bha<unclear>ṭṭāraka</unclear>m uddiśya| <gap reason="illegible" quantity="2" unit="character"/><unclear>sa</unclear>gotrāya| Aṅgira<supplied reason="lost">sa</supplied><lb n="42" break="no"/>-Āmahīyavaurukṣaya-pravarāya| manoratha-savrahmacāriṇe| paippalāda-śākhādhyāyine| mīmāṁsā-vyākaraṇa-tarkka-vi<lb n="43" break="no"/>dyā-vide<unclear>|</unclear> <gap reason="illegible" quantity="1" unit="character"/>smintā-maṇḍala-vinirggatāya| kamanāhāra-vāstavy<unclear>āya</unclear>| <gap reason="illegible" quantity="6" unit="chaarcter"/><unclear>da-pau</unclear><gap reason="illegible" quantity="3" unit="character"/><unclear>bhaṭṭa-la</unclear>kṣmīdhara-putrā<lb n="44" break="no"/>ya| bhaṭṭap<supplied reason="lost">u</supplied>tra-<unclear>śrī-g</unclear>ra<unclear>ha</unclear>devaśarmmaṇe| viśuvat-saṁkrāntau vidhivat·| gaṅgāyāṁ <unclear>snātvā śāsanī-kr̥</unclear>tya pradatto Asmābhiḥ| 
                 </p>
                 <p>A<lb n="45" break="no"/>to bhavadbhiḥ <unclear>sa</unclear>rvv<unclear>ai</unclear>r evānumantavyam·| 
@@ -236,12 +255,9 @@
             </div>
          </div>
          <div type="apparatus">
-             <div type="textpart" n="B">
+             <div type="textpart" n="D">
                <listApp>                   
-                  <app loc="24">
-                     <lem>samā</lem>
-                     <note>Written in smaller characters.</note>
-                  </app>
+                  <app loc="24"><lem>-sevā-samā˚</lem><note>Written in smaller characters.</note></app>
                </listApp>
              </div>
          </div>
