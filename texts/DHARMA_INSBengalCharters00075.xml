@@ -96,10 +96,10 @@
       <body>
          <div type="edition" xml:lang="san-Latn">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-	   <ab>śrī-madanapāla<unclear>ḥ</unclear></ab>                 
+	   <ab><lb n="1"/>śrī-madanapāla<unclear>ḥ</unclear></ab>                 
 	</div>
             <div type="textpart" n="B"><head xml:lang="eng">Upper left margin above line 1</head>
-               <ab> ni ni<space quantity="2" unit="character"/>ni ni</ab>
+               <ab><lb n="1"/> ni ni<space quantity="2" unit="character"/>ni ni</ab>
             </div>
             <div type="textpart" n="C"><head xml:lang="eng">Plate</head>
                 <pb n="1r"/><lb n="1"/><p><g type="spiral"/><!-- siddham -->Om̐ namo vuddhāya|| svasti||</p>
@@ -219,7 +219,7 @@
                     <lb n="34" break="no"/>grahika-mahākṣapaṭalika-mahāsāmanta-mahāse<choice><sic>p</sic><corr>n</corr></choice>āpati-mahāpratīhāra-dauḥsādhasādhanika-mahākumārāmātya-rājasthānī¦
                     <lb n="35" break="no"/>yoparika-cauroddharaṇika-dāṇḍika-dāṇḍapā<choice><sic>s</sic><corr>ś</corr></choice>ika-śaunika-kṣetrapa-prāntapāla-koṭṭapāla-Aṅgarakṣa-tad-āyuktaka-viniyuktaka
                     <pb n="1v" break="no"/><lb n="36" break="no"/>-hastya<choice><sic>st</sic><corr>śv</corr></choice>oṣṭranauvalavyāpr̥taka-kiśoravaḍavāgomahiṣy<choice><sic>ā</sic><corr>a</corr></choice>jāvikādhyakṣa-dūta-preṣaṇika-gamāgamika-A<choice><sic>t</sic><corr>bh</corr></choice>itvaramāṇa-vi
-                    <lb n="37" break="no"/>-ṣayapati-grāmapati-tarika-śaulkika-gaulmika-gauḍa-mālava-coḍa-khasa-hūṇa-kulika-karṇṇāṭa-lāṭa-cāṭa-bhaṭa-sevakādī
+                    <lb n="37" break="no"/>ṣayapati-grāmapati-tarika-śaulkika-gaulmika-gauḍa-mālava-coḍa-khasa-hūṇa-kulika-karṇṇāṭa-lāṭa-cāṭa-bhaṭa-sevakādī
                     <lb n="38" break="no"/>)n<unclear>·</unclear> Anyām̐ś cākīrttitān·| rāja-pādopajīvina<supplied reason="omitted">ḥ</supplied> prativāsino vrāhmaṇottarān<unclear>·</unclear> mahattamottama-kuṭumv<choice><sic>īḥ</sic><corr>i</corr></choice>-purogama-caṇḍāla-paryantān<unclear>·</unclear> ya
                     <lb n="39" break="no"/>thārha<unclear>ṁ</unclear> mānayati vodhayati samādi<choice><sic>s</sic><corr>ś</corr></choice>ati ca<supplied reason="omitted">|</supplied>                    
                 </p>
