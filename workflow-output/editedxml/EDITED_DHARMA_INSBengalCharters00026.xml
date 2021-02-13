@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2021-02-14" status="draft">Text and Apparatus conpleted.</change>
          <change who="part:ryfu" when="2021-02-11" status="draft">Text and markups on obverse confirmed and corrected on fresh reading.</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:ryfu" when="2020-09-07" status="draft">converted to template v02 version</change>
@@ -203,12 +204,12 @@
                     <lb n="38" break="no"/>m astu bhavatām·| yathopari-likhito!’yaṁ grāmaḥ| sva-sīmā-tr̥ṇa-p<choice><sic>u</sic><corr>ū</corr></choice>ti-gocara-paryantaḥ| sa-talaḥ| soddeśaḥ| sā<unclear>mra</unclear>-madhū
                     <lb n="39" break="no"/>k<choice><sic>ā</sic><corr>a</corr></choice>ḥ| <unclear>sa-ja</unclear>lasthalaḥ| sa-garttoṣaraḥ| sa-daśāpacāraḥ| sa-cauroddharaṇaḥ| pari<choice><sic>d</sic><corr>h</corr></choice>r̥ta-sarvva-pīḍaḥ| A-cāṭa-bhaṭa-praveśaḥ
                     <lb n="40"/>A<unclear>kiñcit</unclear>-pragrāhyaḥ| samasta-bhāga-bhoga-kara-hiraṇyādi-pratyāya-sametaḥ| bhūmi-cchidra-nyāyena| Ā-candrārkka-kṣiti-sama
-                    <lb n="41" break="no"/>-kāla<unclear>ṁ| mā</unclear>tā-pitror ātmanaś ca puṇya-yaśo!’bhi<unclear>vr̥</unclear>ddhaye| bhagavantaṁ vuddha-bha<unclear>ṭṭāraka</unclear>m uddiśya| <gap reason="illegible" quantity="2" unit="character"/><unclear>sa</unclear>gotrāya| Aṅgira<supplied reason="lost">sa</supplied>
-                    <lb n="42" break="no"/>-Āmahīyavaurukṣaya-pravarāya| manoratha-savrahmacāriṇe| paippalāda-śākhādhyāyine| mīmāṁsā-vyākaraṇa-tarkka-vi
+                    <lb n="41" break="no"/>-kāla<unclear>ṁ| mā</unclear>tā-pitror ātmanaś ca puṇya-yaśo!’bhi<unclear>vr̥</unclear>ddhaye| bhagavantaṁ vuddha-bha<unclear>ṭṭāraka</unclear>m uddiśya| <gap reason="illegible" quantity="2" unit="character"/><unclear>sa</unclear>gotrāya| Aṅgira<supplied reason="omitted">sa</supplied>
+                    <lb n="42" break="no"/>-Āmah<unclear>īyavau</unclear>rukṣaya-pravarāya| manoratha-savrahmacāriṇe| paippalāda-śākhādhyāyine| mīmāṁsā-vyākaraṇa-tarkka-vi
                     <lb n="43" break="no"/>dyā-vide<unclear>|</unclear> <gap reason="illegible" quantity="1" unit="character"/>smintā-maṇḍala-vinirggatāya| kamanāhāra-vāstavy<unclear>āya</unclear>| <gap reason="illegible" quantity="6" unit="chaarcter"/><unclear>da-pau</unclear><gap reason="illegible" quantity="3" unit="character"/><unclear>bhaṭṭa-la</unclear>kṣmīdhara-putrā
-                    <lb n="44" break="no"/>ya| bhaṭṭap<supplied reason="lost">u</supplied>tra-<unclear>śrī-g</unclear>ra<unclear>ha</unclear>devaśarmmaṇe| viśuvat-saṁkrāntau vidhivat·| gaṅgāyāṁ <unclear>snātvā śāsanī-kr̥</unclear>tya pradatto Asmābhiḥ| A
-                    <lb n="45" break="no"/>to bhavadbhiḥ <unclear>sa</unclear>rvv<unclear>ai</unclear>r evānumantavyam·| bhāvibhir api bhūpatibhiḥ| bhūmer  ddā<unclear>na-pha</unclear>la-<unclear>gau</unclear>ra<unclear>vā</unclear>t·| Apaharaṇe ca mahānara
-                    <lb n="46" break="no"/>ka-pāta-bhayā<unclear>t· dā</unclear>nam idam anumodyānupālanīyam·| prativāsibhiś ca kṣetra<unclear>karai</unclear>ḥ Ājñā-śravaṇa-vidheyī bhūya yathā
+                    <lb n="44" break="no"/>ya| bhaṭṭap<supplied reason="lost">u</supplied>tra-<unclear>ś</unclear>rī-<unclear>g</unclear>ra<unclear>ha</unclear>devaśarmma<unclear>ṇe</unclear>| viśuvat·-saṁkrāntau vidhivat·| gaṅgāyāṁ <unclear>snātvā śāsanī-kr̥</unclear>tya pradatto Asmābhiḥ| A
+                    <lb n="45" break="no"/>to bhavadbhiḥ <unclear>sa</unclear>rvv<unclear>ai</unclear>r evānumantavyam·| bhāvibhir api bhūpatibhiḥ<surplus>|</surplus> bhūmer  ddā<unclear>na-pha</unclear>la-<unclear>gau</unclear>ra<unclear>vā</unclear>t·<surplus>|</surplus> Apaharaṇe ca mahā-nara
+                    <lb n="46" break="no"/>ka-pāta-bhayā<unclear>t· dā</unclear>nam idam anumodyānupālanīyam·| prativāsibhiś ca kṣetra<unclear>karai</unclear>ḥ Ājñā-śravaṇa-vidheyī-bhūya yathā
                     <lb n="47" break="no"/>-kālaṁ samucita-bhāga-bhoga-kara-hiraṇyādi-pratyāyopanayaḥ<surplus>|</surplus> kārya Iti|| 
                 </p>
                 <p>
@@ -218,23 +219,23 @@
                     bhavanti cā<lb n="48" break="no"/>tra dha<unclear>rmmānuśa</unclear>nsinaḥ ślokāḥ|| 
                 </p>
                 <lg n="13" met="anuṣṭubh">
-                    <l n="ab">vahubhir vasudhā dattā rājabhis sagarādibhiḥ| </l>
-                    <l n="cd">yasya yasya yadā bhūmis tasya tasya tadā phala<lb n="49" break="no"/>m·|| </l>
+                    <l n="ab">vahubhir vvasudhā dattā rājabhis sagarādibhiḥ| </l>
+                    <l n="cd">yasya yasya yadā bhūmis tasya tasya tadā phala<surplus>ṁ</surplus><lb n="49" break="no"/>m·|| </l>
                 </lg>
                 <lg n="14" met="anuṣṭubh">
-                    <l n="ab"><unclear>bhūmiṁ yaḥ</unclear> pratigr̥hnāti yaś ca bhūmiṁ pra<supplied reason="omitted">ya</supplied>cchati| </l>
+                    <l n="ab">bhū<unclear>miṁ yaḥ</unclear> pratigr̥hṇāti yaś ca bhūmiṁ pra<supplied reason="omitted">ya</supplied>cchati| </l>
                     <l n="cd">Ubhau tau puṇya-karmmāṇau niyataṁ svargga-gāminau|| </l>
                 </lg>
                 <lg n="15" met="anuṣṭubh">
                     <l n="ab">gām ekāṁ svarṇṇam eka<lb n="50" break="no"/>ñ ca bhū<unclear>mer apy arddha</unclear>m aṅgulam·| </l>
-                    <l n="cd">haran narakam <supplied reason="omitted">ā</supplied>yāti yāvad āhūta-saṁplavam·|<supplied reason="omitted">|</supplied> </l>
+                    <l n="cd">haran narakam <choice><sic>a</sic><corr>ā</corr></choice>yāti yāvad āhūta-saṁpla<unclear>va</unclear>m·|<supplied reason="omitted">|</supplied> </l>
                 </lg>
                 <lg n="16" met="anuṣṭubh">
                     <l n="ab">ṣa<unclear>ṣṭ</unclear>im varṣa-sahasrāṇi svargge modati bhūmidaḥ|</l>
                     <l n="cd">Ā<lb n="51" break="no"/>kṣeptā <unclear>cānuman</unclear>tā ca tāny eva narake vaset·|| </l>
                 </lg>
                 <lg n="17" met="anuṣṭubh">
-                    <l n="ab">svadattām paradattām vā yo hareta vasundha<unclear>rām·| </unclear></l>
+                    <l n="ab">sva-dattām para-dattām vā yo hareta vasundharā<unclear>m·|</unclear> </l>
                     <l n="cd"><unclear>sa</unclear> viṣṭhāyāṁ krimir bhūtvā pitr̥<lb n="52" break="no"/>bhiḥ <unclear>saha pacyate</unclear>|| </l>
                 </lg>
                 <lg n="18" met="śālinī">
@@ -247,7 +248,7 @@
                     <l n="a">Iti kamala-dalām<unclear>vu</unclear>-v<unclear>i</unclear>ndu-lolāṁ</l>
                     <l n="b">śriyam anucintya manuṣya-jīvitañ ca| </l>
                     <l n="c">sakalam idam u<lb n="54" break="no"/>dā<unclear>hr̥tañ ca</unclear> vuddhvā</l>
-                    <l n="d">na hi puruṣaiḥ parakīrttayo vilopyāḥ|| </l>                    
+                    <l n="d">na hi puruṣaiḥ para-kīrttayo vilopyāḥ|| </l>                    
                 </lg>
                 <lg n="20" met="anuṣṭubh">
                     <l n="ab">śrī-mahīpāladevena dvija-śreṣṭhopapādite|</l>
@@ -263,10 +264,25 @@
              <div type="textpart" n="D">
                <listApp>                   
                   <app loc="24"><lem>-sevā-samā˚</lem><note>Written in smaller characters.</note></app>
+                  <app loc="28"><lem>-pramāṇe|</lem><note>After this, akṣaras in the remaining portion of this line and the following three lines are erased by hammering.</note></app>
+                  <app loc="40"><lem>-kṣiti-sama</lem><note>the last akṣara ma is squeezed to a small space.</note></app>
+                  <app loc="41"><lem><gap reason="illegible" quantity="2" unit="character"/><unclear>sa</unclear>gotrāya</lem><note>The first two illegible characters, indicating the name of gotra, are possibly kapi, in view of pravara.</note></app>
                </listApp>
              </div>
          </div>
          <div type="translation" resp="part:ryfu">
+             <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
+ 	      <ab>Of illustrious Mahīpāladeva.</ab>
+ 	</div>
+            <div type="textpart" n="B"><head xml:lang="eng">Left end of line 1</head>
+                  <ab>Confirmed.</ab>
+            </div>
+            <div type="textpart" n="C"><head xml:lang="eng">Right end of line 1</head>
+                  <ab>Confirmed.</ab>
+            </div>
+            <div type="textpart" n="D"><head xml:lang="eng">Plate</head>
+                <p n="1">Success! Welfare!</p>                
+            </div>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
