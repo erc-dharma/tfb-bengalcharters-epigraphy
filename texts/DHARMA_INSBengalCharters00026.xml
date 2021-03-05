@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -90,7 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:ryfu" when="2021-02-14" status="draft">Apparatus and Translation conpleted.</change> 
+         <change who="part:ryfu" when="2021-02-14" status="draft">Apparatus and Translation conpleted.</change>
          <change who="part:ryfu" when="2021-02-14" status="draft">Text and Apparatus conpleted.</change>
          <change who="part:ryfu" when="2021-02-11" status="draft">Text and markups on obverse confirmed and corrected on fresh reading.</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
@@ -264,35 +264,35 @@
          <div type="apparatus">
              <div type="textpart" n="D">
                <listApp>
-                  <app loc="4"><lem>śrīmāl</lem><rdg  source="bib:Furui2010_01">śrīmal-</rdg></app>
-                  <app loc="8"><lem>-vasatir</lem><rdg  source="bib:Furui2010_01">vasati<supplied reason="omitted">r</supplied></rdg></app>
-                  <app loc="9"><lem>jagatīṁ</lem><rdg  source="bib:Furui2010_01"><unclear>ja</unclear>gatīṁ</rdg></app>
-                  <app loc="10"><lem>anaiṣīt·</lem><rdg  source="bib:Furui2010_01">anaisīt</rdg></app>
-                  <app loc="16"><lem>anūnam</lem><rdg  source="bib:Furui2010_01">a<unclear>n</unclear>ūnam</rdg></app>                   
+                  <app loc="4"><lem>śrīmāl</lem><rdg source="bib:Furui2010_01">śrīmal-</rdg></app>
+                  <app loc="8"><lem>-vasatir</lem><rdg source="bib:Furui2010_01">vasati<supplied reason="omitted">r</supplied></rdg></app>
+                  <app loc="9"><lem>jagatīṁ</lem><rdg source="bib:Furui2010_01"><unclear>ja</unclear>gatīṁ</rdg></app>
+                  <app loc="10"><lem>anaiṣīt·</lem><rdg source="bib:Furui2010_01">anaisīt</rdg></app>
+                  <app loc="16"><lem>anūnam</lem><rdg source="bib:Furui2010_01">a<unclear>n</unclear>ūnam</rdg></app>                   
                   <app loc="24"><lem>-sevā-samā˚</lem><note>Written in smaller characters.</note></app>
-                  <app loc="26"><lem>˚dhyātaḥ|</lem><rdg  source="bib:Furui2010_01">˚dhyātaḥ</rdg></app>
-                  <app loc="26"><lem>paramabhaṭṭ<choice><sic>a</sic><corr>ā</corr></choice>rako</lem><rdg  source="bib:Furui2010_01">paramabhaṭṭārako</rdg></app>
-                  <app loc="26"><lem>mahārāj<choice><sic>a</sic><corr>ā</corr></choice>dhirājaḥ</lem><rdg  source="bib:Furui2010_01">mahārājādhirājaḥ</rdg></app>
+                  <app loc="26"><lem>˚dhyātaḥ|</lem><rdg source="bib:Furui2010_01">˚dhyātaḥ</rdg></app>
+                  <app loc="26"><lem>paramabhaṭṭ<choice><sic>a</sic><corr>ā</corr></choice>rako</lem><rdg source="bib:Furui2010_01">paramabhaṭṭārako</rdg></app>
+                  <app loc="26"><lem>mahārāj<choice><sic>a</sic><corr>ā</corr></choice>dhirājaḥ</lem><rdg source="bib:Furui2010_01">mahārājādhirājaḥ</rdg></app>
                   <app loc="28"><lem>-pramāṇe|</lem><note>After this, akṣaras in the remaining portion of this line and the following three lines are erased by hammering.</note></app>
-                  <app loc="32"><lem>daussādhasādhanika<unclear>|</unclear></lem><rdg  source="bib:Furui2010_01">daussādhasādha<unclear>n</unclear>i<unclear>ka</unclear>|</rdg></app>
-                  <app loc="33"><lem>rājas<unclear>thān</unclear>īyoparika</lem><rdg  source="bib:Furui2010_01">rājasthānīyoparika</rdg></app>
-                  <app loc="33"><lem>g<choice><sic>o</sic><corr>au</corr></choice>lmika</lem><rdg  source="bib:Furui2010_01">gaulmika</rdg></app>
-                  <app loc="34"><lem>˚mah<choice><sic>ī</sic><corr>i</corr></choice>ṣy˚</lem><rdg  source="bib:Furui2010_01">˚mahiṣy˚</rdg></app>
-                  <app loc="36"><lem>anyām̐ś</lem><rdg  source="bib:Furui2010_01">anyāṁś</rdg></app>
-                  <app loc="36"><lem>rāja-pādo˚</lem><rdg  source="bib:Furui2010_01">raja-pādo˚</rdg></app>
-                  <app loc="37"><lem>mahattamo˚</lem><rdg  source="bib:Furui2010_01"><unclear>mahatta</unclear>mo˚</rdg></app>
-                  <app loc="39"><lem>sa-daśāpacāraḥ</lem><rdg  source="bib:Furui2010_01">sa-daśāpacārāḥ</rdg></app>
-                  <app loc="39"><lem>pari<choice><sic>d</sic><corr>h</corr></choice>r̥ta-</lem><rdg  source="bib:Furui2010_01">parihr̥ta-</rdg></app>
-                  <app loc="39"><lem>-praveśaḥ</lem><rdg  source="bib:Furui2010_01">-prave<unclear>śa</unclear>ḥ</rdg></app>
-                  <app loc="40"><lem>A<unclear>kiñcit</unclear>-pragrāhyaḥ</lem><rdg  source="bib:Furui2010_01">A<unclear>kiñcit-pra</unclear>grāhyaḥ</rdg></app>
+                  <app loc="32"><lem>daussādhasādhanika<unclear>|</unclear></lem><rdg source="bib:Furui2010_01">daussādhasādha<unclear>n</unclear>i<unclear>ka</unclear>|</rdg></app>
+                  <app loc="33"><lem>rājas<unclear>thān</unclear>īyoparika</lem><rdg source="bib:Furui2010_01">rājasthānīyoparika</rdg></app>
+                  <app loc="33"><lem>g<choice><sic>o</sic><corr>au</corr></choice>lmika</lem><rdg source="bib:Furui2010_01">gaulmika</rdg></app>
+                  <app loc="34"><lem>˚mah<choice><sic>ī</sic><corr>i</corr></choice>ṣy˚</lem><rdg source="bib:Furui2010_01">˚mahiṣy˚</rdg></app>
+                  <app loc="36"><lem>anyām̐ś</lem><rdg source="bib:Furui2010_01">anyāṁś</rdg></app>
+                  <app loc="36"><lem>rāja-pādo˚</lem><rdg source="bib:Furui2010_01">raja-pādo˚</rdg></app>
+                  <app loc="37"><lem>mahattamo˚</lem><rdg source="bib:Furui2010_01"><unclear>mahatta</unclear>mo˚</rdg></app>
+                  <app loc="39"><lem>sa-daśāpacāraḥ</lem><rdg source="bib:Furui2010_01">sa-daśāpacārāḥ</rdg></app>
+                  <app loc="39"><lem>pari<choice><sic>d</sic><corr>h</corr></choice>r̥ta-</lem><rdg source="bib:Furui2010_01">parihr̥ta-</rdg></app>
+                  <app loc="39"><lem>-praveśaḥ</lem><rdg source="bib:Furui2010_01">-prave<unclear>śa</unclear>ḥ</rdg></app>
+                  <app loc="40"><lem>A<unclear>kiñcit</unclear>-pragrāhyaḥ</lem><rdg source="bib:Furui2010_01">A<unclear>kiñcit-pra</unclear>grāhyaḥ</rdg></app>
                   <app loc="40"><lem>-kṣiti-sama</lem><note>the last akṣara ma is squeezed to a small space.</note></app>
-                  <app loc="41"><lem>-kāla<unclear>ṁ| mā</unclear>tā-</lem><rdg  source="bib:Furui2010_01">-kālaṁ <unclear>mā</unclear>tā-</rdg></app>
-                  <app loc="41"><lem>!’bhi<unclear>vr̥</unclear>ddhaye</lem><rdg  source="bib:Furui2010_01"><unclear>!’bhivr̥</unclear>ddhaye</rdg></app>
-                  <app loc="41"><lem><gap reason="illegible" quantity="2" unit="character"/><unclear>sa</unclear>gotrāya</lem><rdg  source="bib:Furui2010_01"><supplied reason="lost">pu</supplied>-<unclear>sa</unclear>gotrāya</rdg><note>The first two illegible characters, indicating the name of gotra, are possibly kapi, in view of pravara.</note></app>
-                  <app loc="42"><lem>-Āmah<unclear>īyavau</unclear>rukṣaya-</lem><rdg  source="bib:Furui2010_01">-Āma<unclear>hīyavaurukṣaya</unclear>-</rdg></app>
-                  <app loc="43"><lem><gap reason="illegible" quantity="1" unit="character"/>smintā-maṇḍala</lem><rdg  source="bib:Furui2010_01"><gap reason="illegible" quantity="1" unit="character"/><unclear>dgallyama</unclear>-</rdg></app>
-                  <app loc="43"><lem>kamanāhāra-</lem><rdg  source="bib:Furui2010_01">vāmānāhāra-</rdg></app>
-                  <app loc="43"><lem><gap reason="illegible" quantity="6" unit="chaarcter"/><unclear>da-pau</unclear><gap reason="illegible" quantity="3" unit="character"/></lem><rdg  source="bib:Furui2010_01">khaṣadeva-<supplied reason="lost">pautrāya</supplied></rdg></app>
+                  <app loc="41"><lem>-kāla<unclear>ṁ| mā</unclear>tā-</lem><rdg source="bib:Furui2010_01">-kālaṁ <unclear>mā</unclear>tā-</rdg></app>
+                  <app loc="41"><lem>!’bhi<unclear>vr̥</unclear>ddhaye</lem><rdg source="bib:Furui2010_01"><unclear>!’bhivr̥</unclear>ddhaye</rdg></app>
+                  <app loc="41"><lem><gap reason="illegible" quantity="2" unit="character"/><unclear>sa</unclear>gotrāya</lem><rdg source="bib:Furui2010_01"><supplied reason="lost">pu</supplied>-<unclear>sa</unclear>gotrāya</rdg><note>The first two illegible characters, indicating the name of gotra, are possibly kapi, in view of pravara.</note></app>
+                  <app loc="42"><lem>-Āmah<unclear>īyavau</unclear>rukṣaya-</lem><rdg source="bib:Furui2010_01">-Āma<unclear>hīyavaurukṣaya</unclear>-</rdg></app>
+                  <app loc="43"><lem><gap reason="illegible" quantity="1" unit="character"/>smintā-maṇḍala</lem><rdg source="bib:Furui2010_01"><gap reason="illegible" quantity="1" unit="character"/><unclear>dgallyama</unclear>-</rdg></app>
+                  <app loc="43"><lem>kamanāhāra-</lem><rdg source="bib:Furui2010_01">vāmānāhāra-</rdg></app>
+                  <app loc="43"><lem><gap reason="illegible" quantity="6" unit="chaarcter"/><unclear>da-pau</unclear><gap reason="illegible" quantity="3" unit="character"/></lem><rdg source="bib:Furui2010_01">khaṣadeva-<supplied reason="lost">pautrāya</supplied></rdg></app>
                   <app loc="43"><lem><unclear>bhaṭṭa-la</unclear>kṣmīdhara-</lem><rdg source="bib:Furui2010_01">bhaṭṭa-lakṣmīdhara-</rdg></app>
                   <app loc="44"><lem>bhaṭṭap<supplied reason="lost">u</supplied>tra-<unclear>ś</unclear>rī-<unclear>g</unclear>ra<unclear>ha</unclear>devaśarmma<unclear>ṇe</unclear></lem><rdg source="bib:Furui2010_01">bhaṭṭa<unclear>putra</unclear>-didevaśarmmaṇe</rdg></app>
                   <app loc="44"><lem>viśuvat·-saṁkrāntau</lem><rdg source="bib:Furui2010_01">viśuvat-saṅkrāntau</rdg></app>
