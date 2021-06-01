@@ -77,9 +77,8 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
-            <!--edition encoded as per EGD §§2−7-->
-             <p><lb n="1"/>@ svasti ma(hā)rājādhirājaśrīpradyumnavandhor vvijayādhirājyasamvatsar(e) pañcama Āśvayujamāsasya dvāviṁśatime divase tadviniyuktoparikacellake śrī<lb 
+         <div type="edition" xml:lang="san-Latn">
+             <p><pb n="1r"/><lb n="1"/>@ svasti ma(hā)rājādhirājaśrīpradyumnavandhor vvijayādhirājyasamvatsar(e) pañcama Āśvayujamāsasya dvāviṁśatime divase tadviniyuktoparikacellake śrī<lb 
     n="2" break="no"/>puṇḍravarddhanabhuktau vyavaharati tatsamvaddhaghoṇādvīpakaviṣaye mahāpratīhārāvadhūtena bhogalavdhe janmāntaropāttadharmmaprotsāhitamatinaitadviṣayanivāsimahā<lb
     n="3" break="no"/>mahattaramahattarādayo v(ai)ṣayikās sādhikaraṇā Abhyarthitā Icche haṁ bhavatsakāśād viṣayamaryyādayopakrīya mātāpittror ātmanaś ca puṇy(ā)bh(i)vṛddhaye mastaka<lb
     n="4" break="no"/>(śvabhra)grāma(ṁ) saha vījapūrakavṛndena tāmrapaṭṭīkṛtya vrāhmaṇāya dātum evamabhyarthitāḥ pratyuktavantas samavadya vijñāpayāma Iti yattra mahāmahattarādityadeva-jayadeva<lb 
@@ -99,24 +98,25 @@
 <lb n="18"/>srotikā yāvad iti ◊ l(i)khitaṁ kāraṇikaśam(bhudatte)na tāpitaṁ pustapālakṛṣṇadattena samvat· 5 ◊ Aśva di 20 2 ◊ Asminn evārthe manvādayaḥ ślokān udāha
 <lb n="19" break="no"/>ranti sma</p>
 <lg n="1" met="anuṣṭubh">
-<l n="a">svadattāṁ para(da)ttām vā</l> <l n="b">yo hareta vasundharāṁ</l> 
-<l n="c">sa viṣṭhāyāṁ kṛmir bhūtvā</l> <l n="d">pitṛbhis saha pac<choice><sic>c</sic><corr>y</corr></choice>ate ||</l></lg>
+<l n="a">svadattāṁ para(da)ttām vā</l><l n="b">yo hareta vasundharāṁ</l> 
+<l n="c">sa viṣṭhāyāṁ kṛmir bhūtvā</l><l n="d">pitṛbhis saha pac<choice><sic>c</sic><corr>y</corr></choice>ate ||</l>
+</lg>
 <lg n="2" met="anuṣṭubh">
-<l n="a">ṣaṣṭivarṣasahasrāṇi</l> <l n="b">svargge modati bhūmi<lb n="20"/>daḥ</l>
-<l n="c">Ākṣeptā cānumantā ca</l> <l n="d">tāny eva narake vaset· || </l></lg>
+<l n="a">ṣaṣṭivarṣasahasrāṇi</l><l n="b">svargge modati bhūmi<lb n="20"/>daḥ</l>
+<l n="c">Ākṣeptā cānumantā ca</l><l n="d">tāny eva narake vaset· || </l></lg>
 <lg n="3" met="anuṣṭubh">
-<l n="a">vahubhir vasudhā dattā</l> <l n="b">rājabhis sagarādibhiḥ</l> 
-<l n="c">yasya yasya yadā bhūmis</l> <l n="d">tasya tasya <lb n="21"/>tadā phalaṁ ||</l> </lg>
+<l n="a">vahubhir vasudhā dattā</l><l n="b">rājabhis sagarādibhiḥ</l> 
+<l n="c">yasya yasya yadā bhūmis</l><l n="d">tasya tasya <lb n="21"/>tadā phalaṁ ||</l></lg>
 <lg n="4" met="anuṣṭubh">
-<l n="a">yānaśayyāprado bhāryyām*</l> <l n="b">sukham akṣayyam annadaḥ</l>
-<l n="c">bhūmidas sarvvam āpnoti</l> <l n="d">godo vradhnasya viṣ<choice><sic>ṭh</sic><corr>ṭ</corr></choice>apa(ṁ) || Ø ||</l></lg>
+<l n="a">yānaśayyāprado bhāryyām*</l><l n="b">sukham akṣayyam annadaḥ</l>
+<l n="c">bhūmidas sarvvam āpnoti</l><l n="d">godo vradhnasya viṣ<choice><sic>ṭh</sic><corr>ṭ</corr></choice>apa(ṁ) || Ø ||</l></lg><pb n="1v"/>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                     <rdg source="bib:Griffiths2015_02"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
                </listApp>
          </div>
@@ -128,9 +128,9 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>First edited by Arlo Griffiths. Re-edited here with small improvements based on direct inspection of the plate.</p>
         	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="G"><ptr target="bib:Griffiths2015_02"/><citedRange unit="item">II</citedRange><citedRange unit="page">27-33</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
