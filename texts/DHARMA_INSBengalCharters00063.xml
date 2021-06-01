@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mastakaśvabhra Grant of the time of Pradyumnabandhu, year 5</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:amwb">
+                        <forename>Amandine</forename>
+                        <surname>Wattelier-Bricout</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Cambrai</pubPlace>
+                <idno type="filename">DHARMA_INSBengalCharters00063</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno type="filename">DHARMA_INSBengalCharters00063</idno>
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:amwb" when="2021-06-01">started initial encoding of the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
+            <!--edition encoded as per EGD §§2−7-->
+             <p><lb n="1"/>@ svasti ma(hā)rājādhirājaśrīpradyumnavandhor vvijayādhirājyasamvatsar(e) pañcama Āśvayujamāsasya dvāviṁśatime divase tadviniyuktoparikacellake śrī<lb 
+    n="2" break="no"/>puṇḍravarddhanabhuktau vyavaharati tatsamvaddhaghoṇādvīpakaviṣaye mahāpratīhārāvadhūtena bhogalavdhe janmāntaropāttadharmmaprotsāhitamatinaitadviṣayanivāsimahā<lb
+    n="3" break="no"/>mahattaramahattarādayo v(ai)ṣayikās sādhikaraṇā Abhyarthitā Icche haṁ bhavatsakāśād viṣayamaryyādayopakrīya mātāpittror ātmanaś ca puṇy(ā)bh(i)vṛddhaye mastaka<lb
+    n="4" break="no"/>(śvabhra)grāma(ṁ) saha vījapūrakavṛndena tāmrapaṭṭīkṛtya vrāhmaṇāya dātum evamabhyarthitāḥ pratyuktavantas samavadya vijñāpayāma Iti yattra mahāmahattarādityadeva-jayadeva<lb 
+    n="5" break="no"/>-[śi](vabhad[r]o) (ma)hāmahattara◊śarvvadeva◊pāṭakamahattarayaśodeva◊praśastarudramittradeva◊bhiloṭanivāsimahattara◊nātharudra◊pāṭakamahattara◊śāntirudra-dharmmarudra<lb 
+        n="6" break="no"/>-(vārṣagrime)yamahattara-pavittrasoma-kṣemadeva◊ṣaṇḍadvīpavāsimahattara-gorakakiraṇasvāmi◊rudrasvāmi◊pravaradvīpanivāsi-vrāhmaṇa-guyaśa◊navadevakulanivāsi<lb 
+        n="7" break="no"/>mahattara-śambhusvāmi◊pippalivanikāvāstavyamahattara-bhākideva◊pāttravāṭeyamahattara-gopasoma◊śāṅkarapallikeya-bhaṭṭadharmmasvāmi◊śivanagaravāstavya<lb
+    n="8" break="no"/>bhadrasvāmi-śrīcandra-kṣemaśarmma-dvīpakīyamahattarāmṛtaśāntanu-varāhakoṭṭakavāstavyamahattara-dharmmakuṇḍa◊śivagupta-khātakanivāsimahattara-jalla◊Ārdraleya<lb 
+    n="9" break="no"/>-mahattara-jālacandra-śyāmadeva◊Audumvarikeyamahattarābhinandana◊malayarudra◊karaṇikanaradatta-Eḍita◊devasena-viṣayādhikaraṇika-śambhudatta-kṛṣṇadatta<lb 
+     n="10" break="no"/>-porudattā/da\yaḥ ◊ sanmantrayantī smāstīyaṁ maryyādā pūrvvasādhubhir apy u/pa\krīya nānāvaiṣaiyikajanapadād devakulavihārabrāhmaṇaviśeṣebhyo tisṛṣṭāni viṣayagrāmamaṇḍa<lb
+      n="11" break="no"/>lakṣettrāṇi pūrvvarājabhiś cānumoditāni śūnyā ca bhūmir avatiṣṭhamānā na kaṁ cid apy upakāraṁ rājñaḥ karoty evaṁprakāreṇa punar ddīyamānā dṛṣṭādṛṣṭaphalapradā bhava<lb 
+      n="12" break="no"/>ty asya ca grāmasyoparikarā bhāvyaṁvarṣiṇa pañcacatvāriṁśat kārṣāpaṇā yad anyad v[i]ṣayābhāvyaṁ tad asmābhir avacūrṇya voḍhavyaṁ kutaḥ yato vayaṁ viṣayanimittaṁ hira<lb
+          n="13" break="no"/>ṇy(e)nārthino yaṁ ca mahāpratīhārāvadhūtaḥ prahvo bhyarthayati yuktam asya saphalaṁ vijñāpyakarmmam ity avadhṛtavanto vadhṛtya ca viṣayavārikai grāmamūlyaṁ cūrṇikā-
+<lb n="14" break="no"/>sahasra(ṁ) grāhayitvā śravaṇanimittaṁ ca gandhapuṣpavastrāṇi saha (v)ījapūrakavṛndena mastakaśvabhragrāma(ṁ) mahāpratīhārāvadhūtahaste vikrītavantas tenāpy upakr(ī)ya k(ā)-
+<lb n="15" break="no"/>ty(ā)yanasagottrāya vājasaneyasa(v)rahmacāriṇe bhogadevaputtrā(ya) vrāhmaṇajayadevāya puttrapauttrādibhogyakrameṇācandrārkkakālīnaḥ pañcamah(ā)yajñapravarttan(ā)ya
+<lb n="16" break="no"/>ya pratipādito sya ca mastakaśvabhragrāmasya sīmāliṅgāni bhavanti yattra pūrvvasyāṁ diśi srotikā ◊ Uttarasyām iyam (e)va tṛghaṭṭikāṁ praviśya śmaśānena paści-
+<lb n="17" break="no"/>masyāṁ diśy āmrakh(ā)taḥ ◊ dakṣiṇasyāṁm apy (e)tadanulagnena śṛṅgāṭakavillikānusāreṇa vṛhacchaṅkajoṭā tadan(u)sāreṇa kāṇālatīyaśālmalīsamīpena punaḥ
+<lb n="18"/>srotikā yāvad iti ◊ l(i)khitaṁ kāraṇikaśam(bhudatte)na tāpitaṁ pustapālakṛṣṇadattena samvat· 5 ◊ Aśva di 20 2 ◊ Asminn evārthe manvādayaḥ ślokān udāha
+<lb n="19" break="no"/>ranti sma</p>
+<lg n="1" met="anuṣṭubh">
+<l n="a">svadattāṁ para(da)ttām vā</l> <l n="b">yo hareta vasundharāṁ</l> 
+<l n="c">sa viṣṭhāyāṁ kṛmir bhūtvā</l> <l n="d">pitṛbhis saha pac<choice><sic>c</sic><corr>y</corr></choice>ate ||</l></lg>
+<lg n="2" met="anuṣṭubh">
+<l n="a">ṣaṣṭivarṣasahasrāṇi</l> <l n="b">svargge modati bhūmi<lb n="20"/>daḥ</l>
+<l n="c">Ākṣeptā cānumantā ca</l> <l n="d">tāny eva narake vaset· || </l></lg>
+<lg n="3" met="anuṣṭubh">
+<l n="a">vahubhir vasudhā dattā</l> <l n="b">rājabhis sagarādibhiḥ</l> 
+<l n="c">yasya yasya yadā bhūmis</l> <l n="d">tasya tasya <lb n="21"/>tadā phalaṁ ||</l> </lg>
+<lg n="4" met="anuṣṭubh">
+<l n="a">yānaśayyāprado bhāryyām*</l> <l n="b">sukham akṣayyam annadaḥ</l>
+<l n="c">bhūmidas sarvvam āpnoti</l> <l n="d">godo vradhnasya viṣ<choice><sic>ṭh</sic><corr>ṭ</corr></choice>apa(ṁ) || Ø ||</l></lg>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation" resp="part:argr">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
