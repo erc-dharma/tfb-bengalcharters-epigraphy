@@ -35,20 +35,23 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo
-                            Griffiths.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+            <sourceDesc>
+                <!-- only the handDesc can be filled in at this stage -->
+                <msDesc>
+                    <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
                     <msIdentifier>
                         <repository>DHARMAbase</repository>
                         <idno type="filename">DHARMA_INSBengalCharters00039</idno>
                     </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    <msContents>
+                        <!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary>
+                        <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -65,33 +68,42 @@
         </fileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:amwb" when="2021-06-02">started initial encoding of the inscription</change>
+            <change who="part:amwb" when="2021-06-02">started initial encoding of the
+                inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-             <div type="edition" xml:lang="san-Latn">
-             <div type="textpart" n="A"><head xml:lang="san-Latn">Seal</head>
+             <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                 <ab><lb n="1"/>maddhyamaṣaṇḍikavīthyāyuktakādhi
                  <lb n="2" break="no"/>karaṇasya</ab>
              </div>
-                 <div type="textpart" n="B"><head xml:lang="san-Latn">Plate</head>
-                     <p><pb n="1r"/><lb n="1"/>svasti mahat<unclear>ī</unclear>raktamālāgrahārāt paramabhaṭṭārakapādānuddhyātaḥ kumārāmātyayūthapatir adhikaraṇañ ca<lb 
-                         n="2"/>khuḍḍīraktamālikāyāṁ brāhmaṇottarān sakṣudrapradhānādikuṭumbino bodhayanti kuddālakhātādhivāsābhyantara<lb
+                 <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
+                     <p><pb n="1r"/><lb 
+                         n="1"/>svasti mahat<unclear>ī</unclear>raktamālāgrahārāt paramabhaṭṭārakapādānuddhyātaḥ kumārāmātyayūthapatir adhikaraṇañ ca<lb 
+                         n="2"/>khuḍḍīraktamālikāyāṁ brāhmaṇottarān sakṣudrapradhānādikuṭumbino bodhayanti kuddālakhātādhivāsābhyantara<lb 
                          n="3" break="no"/>mahatīraktamālāgrahāracāturvvidyābhyantarakotsasagotravājasaneyabrāhmaṇanandabhūtir vvijñāpayati ya<lb 
                          n="4" break="no"/>t pūjyair mmamātītasaptapañcāśaduttarśatasāmbatsare govarddhanakagrāme yathānurvṛttavikrayakrameṇa puṇḍra<lb 
                          n="5"/><!-- dois je mettre un espace après puisque les 2 mots sont espacés ou est ce que l'absence d'attribut break no suffit? -->varddhaneyamahāmātrasuvarccasadattod d<unclear>ī</unclear>nārān upasaṁgṛhya ◊ samudayavāhyāpratikarakhilakṣetrakulyavā<lb 
@@ -102,15 +114,17 @@
                          n="10" break="no"/>karakhilakṣetrakulyavāpadvayam akṣayanīvīdharmmeṇa dattaka ◊ sa ca govarddhanakagrāma paramadevaiḥ sva<lb 
                          n="11" break="no"/>puṇyābhivṛddhaye dugdhotik<unclear>ā</unclear>v<unclear>ā</unclear>stavyabrāhmaṇānāṁ garuṭṭāpaśāsanenātisṛṣṭaḥ tan ma[ma] _ _ _ _ _ [tāmra]paṭṭā<lb 
                          n="12" break="no"/>kṣetra _ _ (dattaka) ◊ na vinaśyeta tathā (pra)sādaḥ kriyatām iti yataḥ °evaṁ vijñāpato _ _ _ _ _ _ _ _ _ _ _</p>
-                     <p><pb n="1v"/>(13) ādeśo dakam atra yuktam iti ◊ tadadhikaranena jñāpita ◊ °etatkṣetrapariva(r)ttena nānyagrāmo dīyatām iti yata _ _ _ _ _ _ _ _ _ _ _
-(14) deśoparikasvāmicandrasyādeśo dattaḥ tava maddhyamaṣaṇḍikānān dhana prati pratipālana prativāsana pratyāya sādhunā yasa _ _ _ _ _ _ _ _ _
-(15) kautsasagotravājasaneyabrāhmaṇanandabhūtiṣyaitat tāmrapaṭṭaparivarttanānyatra grāme viṣayādhikaraṇa ◊ ◊ ◊ ◊ kṣetraṁ dāpayi(ṣya)[sīti] (ya)ta(ḥ)
-(16) °etadādeśād asmāka pūjyasvāmicandrasyādeśo dattaḥ mama paramadaivatoparikapādebhyo jñā dattaḥ mahatīraktamālāgrahārikabrāhmaṇanandabhūti-
-(17) r vvijñāpayati sādhunā govarddhanakagrāmeyasamudayavāhyāpratikarakhilakṣetra krītvā yan mama dattakaṁ tad adhunā paramadevai °ādeśādatt(ṁ)
-(18) °eṣāṁ dugdhotikeyabrāhmaṇānā govarddhanakagrāme mayānisṛṣṭas tatparivarttena yathānyatra tāmrapaṭṭakṣetraṁ bhavet ta(tha) prasādaḥ kriyatām iti (19) yataḥ °evaṁvijñāpitopalabdhāt (s)air anyatra grāme dāpayiṣyasīti yataḥ °edhardādeśād asmā govarddhanakagrāmeya°akṣayanīvīparivarttena
-(20) khuḍḍīraktamālikāyā samudayavāhyāpratikarakhilakṣetrasya kulyavāpadvayaṁ dattaha ku 2 te yūyam evopalabhyetona preṣitakenāsma-
-(21) tsaviśvāsenādhikanena viṣayakulakuṭumbibhi saha °ito naitikakuddālakhātikaratnyāṣṭakanavakanalābhyām apaviñchya (pa)riniyamya ca dā-
-(22) syatha ◊ datvā ca śaśvatkālam akṣanīvīdharmmeṇānupālayiṣyasīti ◊ °uktañ ca bhagavatā vyāsena</p>
+                     <p><pb n="1v"/><lb 
+                         n="13"/>ādeśo dakam atra yuktam iti ◊ tadadhikaranena jñāpita ◊ °etatkṣetrapariva(r)ttena nānyagrāmo dīyatām iti yata _ _ _ _ _ _ _ _ _ _ _<lb 
+                         n="14"/>deśoparikasvāmicandrasyādeśo dattaḥ tava maddhyamaṣaṇḍikānān dhana prati pratipālana prativāsana pratyāya sādhunā yasa _ _ _ _ _ _ _ _ _<lb 
+                         n="15"/>kautsasagotravājasaneyabrāhmaṇanandabhūtiṣyaitat tāmrapaṭṭaparivarttanānyatra grāme viṣayādhikaraṇa ◊ ◊ ◊ ◊ kṣetraṁ dāpayi(ṣya)[sīti] (ya)ta(ḥ)<lb
+                         n="16"/>Etadādeśād asmāka pūjyasvāmicandrasyādeśo dattaḥ mama paramadaivatoparikapādebhyo jñā dattaḥ mahatīraktamālāgrahārikabrāhmaṇanandabhūti<lb 
+                         n="17" break="no"/>r vvijñāpayati sādhunā govarddhanakagrāmeyasamudayavāhyāpratikarakhilakṣetra krītvā yan mama dattakaṁ tad adhunā paramadevai °ādeśādatt(ṁ)<lb 
+                         n="18"/>Eṣāṁ dugdhotikeyabrāhmaṇānā govarddhanakagrāme mayānisṛṣṭas tatparivarttena yathānyatra tāmrapaṭṭakṣetraṁ bhavet ta(tha) prasādaḥ kriyatām iti<lb 
+                         n="19"/> yataḥ °evaṁvijñāpitopalabdhāt (s)air anyatra grāme dāpayiṣyasīti yataḥ °edhardādeśād asmā govarddhanakagrāmeya°akṣayanīvīparivarttena<lb 
+                         n="20"/>khuḍḍīraktamālikāyā samudayavāhyāpratikarakhilakṣetrasya kulyavāpadvayaṁ dattaha ku 2 te yūyam evopalabhyetona preṣitakenāsma<lb 
+                         n="21" break="no"/>tsaviśvāsenādhikanena viṣayakulakuṭumbibhi saha °ito naitikakuddālakhātikaratnyāṣṭakanavakanalābhyām apaviñchya (pa)riniyamya ca dā<lb
+                         n="22" break="no"/>syatha ◊ datvā ca śaśvatkālam akṣanīvīdharmmeṇānupālayiṣyasīti ◊ °uktañ ca bhagavatā vyāsena</p>
                  </div>
          </div>
          <div type="apparatus">
@@ -128,7 +142,7 @@
              <ab>Of the council of appointees of the territory of Madhyamaṣaṇḍika</ab>
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
-             <p></p>
+             <p/>
              </div>
          </div>
          <div type="commentary">
@@ -136,9 +150,9 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>First edited by Arlo Griffiths. Re-edited here with small improvements based on direct inspection of the plate.</p><!-- est ce bien cela que je devais noter -->
         	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="G"><ptr target="bib:Griffiths2015_02"/><citedRange unit="item">I</citedRange><citedRange unit="page">16-27</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
