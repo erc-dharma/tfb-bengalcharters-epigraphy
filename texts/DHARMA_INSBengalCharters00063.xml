@@ -77,30 +77,39 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
-             <p><pb n="1r"/><lb n="1"/>@ svasti ma(hā)rājādhirājaśrīpradyumnavandhor vvijayādhirājyasamvatsar(e) pañcama Āśvayujamāsasya dvāviṁśatime divase tadviniyuktoparikacellake śrī<lb 
+         <div type="edition" xml:lang="san-Latn"><!-- d'ici -->
+             <div type="textpart" n="A"><head xml:lang="san-Latn">Seal primary</head>
+                <ab><lb n="1"/>ghoṇādvīpakaviṣaye
+                 <lb n="2"/>Adhikaraṇasya</ab>
+             </div>
+              <div type="textpart" n="B"><head xml:lang="san-Latn">Seal secondary</head>
+                 <ab><lb n="1"/><gap reason="illegible" quantity="4" unit="character"/>
+                 </ab>
+             </div>
+             <div type="textpart" n="C"><head xml:lang="san-Latn">Plate</head><!-- jusqu'à cet endroit -->
+             <p><pb n="1r"/><lb n="1"/><g type="spiral"/><!-- ici ajout --> svasti ma<unclear>hā</unclear>rājādhirājaśrīpradyumnavandhor vvijayādhirājyasamvatsar<unclear>e</unclear> pañcama Āśvayujamāsasya dvāviṁśatime divase tadviniyuktoparikacellake śrī<lb 
     n="2" break="no"/>puṇḍravarddhanabhuktau vyavaharati tatsamvaddhaghoṇādvīpakaviṣaye mahāpratīhārāvadhūtena bhogalavdhe janmāntaropāttadharmmaprotsāhitamatinaitadviṣayanivāsimahā<lb
-    n="3" break="no"/>mahattaramahattarādayo v(ai)ṣayikās sādhikaraṇā Abhyarthitā Icche haṁ bhavatsakāśād viṣayamaryyādayopakrīya mātāpittror ātmanaś ca puṇy(ā)bh(i)vṛddhaye mastaka<lb
-    n="4" break="no"/>(śvabhra)grāma(ṁ) saha vījapūrakavṛndena tāmrapaṭṭīkṛtya vrāhmaṇāya dātum evamabhyarthitāḥ pratyuktavantas samavadya vijñāpayāma Iti yattra mahāmahattarādityadeva-jayadeva<lb 
-    n="5" break="no"/>-[śi](vabhad[r]o) (ma)hāmahattara◊śarvvadeva◊pāṭakamahattarayaśodeva◊praśastarudramittradeva◊bhiloṭanivāsimahattara◊nātharudra◊pāṭakamahattara◊śāntirudra-dharmmarudra<lb 
-        n="6" break="no"/>-(vārṣagrime)yamahattara-pavittrasoma-kṣemadeva◊ṣaṇḍadvīpavāsimahattara-gorakakiraṇasvāmi◊rudrasvāmi◊pravaradvīpanivāsi-vrāhmaṇa-guyaśa◊navadevakulanivāsi<lb 
+    n="3" break="no"/>mahattaramahattarādayo v<unclear>ai</unclear>ṣayikās sādhikaraṇā Abhyarthitā Icche haṁ bhavatsakāśād viṣayamaryyādayopakrīya mātāpittror ātmanaś ca puṇy<unclear>ā</unclear>bh<unclear>i</unclear>vṛddhaye mastaka<lb
+    n="4" break="no"/><unclear>śvabhra</unclear>grāma<unclear>ṁ</unclear> saha vījapūrakavṛndena tāmrapaṭṭīkṛtya vrāhmaṇāya dātum evamabhyarthitāḥ pratyuktavantas samavadya vijñāpayāma Iti yattra mahāmahattarādityadeva-jayadeva<lb 
+    n="5" break="no"/>-[śi]<unclear>vabhad[r]o</unclear> <unclear>ma</unclear>hāmahattara◊śarvvadeva◊pāṭakamahattarayaśodeva◊praśastarudramittradeva◊bhiloṭanivāsimahattara◊nātharudra◊pāṭakamahattara◊śāntirudra-dharmmarudra<lb 
+        n="6" break="no"/>-<unclear>vārṣagrime</unclear>yamahattara-pavittrasoma-kṣemadeva◊ṣaṇḍadvīpavāsimahattara-gorakakiraṇasvāmi◊rudrasvāmi◊pravaradvīpanivāsi-vrāhmaṇa-guyaśa◊navadevakulanivāsi<lb 
         n="7" break="no"/>mahattara-śambhusvāmi◊pippalivanikāvāstavyamahattara-bhākideva◊pāttravāṭeyamahattara-gopasoma◊śāṅkarapallikeya-bhaṭṭadharmmasvāmi◊śivanagaravāstavya<lb
     n="8" break="no"/>bhadrasvāmi-śrīcandra-kṣemaśarmma-dvīpakīyamahattarāmṛtaśāntanu-varāhakoṭṭakavāstavyamahattara-dharmmakuṇḍa◊śivagupta-khātakanivāsimahattara-jalla◊Ārdraleya<lb 
     n="9" break="no"/>-mahattara-jālacandra-śyāmadeva◊Audumvarikeyamahattarābhinandana◊malayarudra◊karaṇikanaradatta-Eḍita◊devasena-viṣayādhikaraṇika-śambhudatta-kṛṣṇadatta<lb 
-     n="10" break="no"/>-porudattā/da\yaḥ ◊ sanmantrayantī smāstīyaṁ maryyādā pūrvvasādhubhir apy u/pa\krīya nānāvaiṣaiyikajanapadād devakulavihārabrāhmaṇaviśeṣebhyo tisṛṣṭāni viṣayagrāmamaṇḍa<lb
+     n="10" break="no"/>-porudattā<add place="inline">da</add><!-- A verifier lors de l acces aux photos -->yaḥ ◊ sanmantrayantī smāstīyaṁ maryyādā pūrvvasādhubhir apy u<add place="inline">pa</add><!-- A verifier lors de l acces aux photos -->krīya nānāvaiṣaiyikajanapadād devakulavihārabrāhmaṇavi
+                 śeṣebhyo tisṛṣṭāni viṣayagrāmamaṇḍa<lb
       n="11" break="no"/>lakṣettrāṇi pūrvvarājabhiś cānumoditāni śūnyā ca bhūmir avatiṣṭhamānā na kaṁ cid apy upakāraṁ rājñaḥ karoty evaṁprakāreṇa punar ddīyamānā dṛṣṭādṛṣṭaphalapradā bhava<lb 
       n="12" break="no"/>ty asya ca grāmasyoparikarā bhāvyaṁvarṣiṇa pañcacatvāriṁśat kārṣāpaṇā yad anyad v[i]ṣayābhāvyaṁ tad asmābhir avacūrṇya voḍhavyaṁ kutaḥ yato vayaṁ viṣayanimittaṁ hira<lb
-          n="13" break="no"/>ṇy(e)nārthino yaṁ ca mahāpratīhārāvadhūtaḥ prahvo bhyarthayati yuktam asya saphalaṁ vijñāpyakarmmam ity avadhṛtavanto vadhṛtya ca viṣayavārikai grāmamūlyaṁ cūrṇikā-
-<lb n="14" break="no"/>sahasra(ṁ) grāhayitvā śravaṇanimittaṁ ca gandhapuṣpavastrāṇi saha (v)ījapūrakavṛndena mastakaśvabhragrāma(ṁ) mahāpratīhārāvadhūtahaste vikrītavantas tenāpy upakr(ī)ya k(ā)-
-<lb n="15" break="no"/>ty(ā)yanasagottrāya vājasaneyasa(v)rahmacāriṇe bhogadevaputtrā(ya) vrāhmaṇajayadevāya puttrapauttrādibhogyakrameṇācandrārkkakālīnaḥ pañcamah(ā)yajñapravarttan(ā)ya
-<lb n="16" break="no"/>ya pratipādito sya ca mastakaśvabhragrāmasya sīmāliṅgāni bhavanti yattra pūrvvasyāṁ diśi srotikā ◊ Uttarasyām iyam (e)va tṛghaṭṭikāṁ praviśya śmaśānena paści-
-<lb n="17" break="no"/>masyāṁ diśy āmrakh(ā)taḥ ◊ dakṣiṇasyāṁm apy (e)tadanulagnena śṛṅgāṭakavillikānusāreṇa vṛhacchaṅkajoṭā tadan(u)sāreṇa kāṇālatīyaśālmalīsamīpena punaḥ
-<lb n="18"/>srotikā yāvad iti ◊ l(i)khitaṁ kāraṇikaśam(bhudatte)na tāpitaṁ pustapālakṛṣṇadattena samvat· 5 ◊ Aśva di 20 2 ◊ Asminn evārthe manvādayaḥ ślokān udāha
+          n="13" break="no"/>ṇy<unclear>e</unclear>nārthino yaṁ ca mahāpratīhārāvadhūtaḥ prahvo bhyarthayati yuktam asya saphalaṁ vijñāpyakarmmam ity avadhṛtavanto vadhṛtya ca viṣayavārikai grāmamūlyaṁ cūrṇikā-
+<lb n="14" break="no"/>sahasra<unclear>ṁ</unclear> grāhayitvā śravaṇanimittaṁ ca gandhapuṣpavastrāṇi saha <unclear>v</unclear>ījapūrakavṛndena mastakaśvabhragrāma<unclear>ṁ</unclear> mahāpratīhārāvadhūtahaste vikrītavantas tenāpy upakr<unclear>ī</unclear>ya k<unclear>ā</unclear>-
+<lb n="15" break="no"/>ty<unclear>ā</unclear>yanasagottrāya vājasaneyasa<unclear>v</unclear>rahmacāriṇe bhogadevaputtrā<unclear>ya</unclear> vrāhmaṇajayadevāya puttrapauttrādibhogyakrameṇācandrārkkakālīnaḥ pañcamah<unclear>ā</unclear>yajñapravarttan<unclear>ā</unclear>ya
+<lb n="16" break="no"/>ya pratipādito sya ca mastakaśvabhragrāmasya sīmāliṅgāni bhavanti yattra pūrvvasyāṁ diśi srotikā ◊ Uttarasyām iyam <unclear>e</unclear>va tṛghaṭṭikāṁ praviśya śmaśānena paści-
+<lb n="17" break="no"/>masyāṁ diśy āmrakh<unclear>ā</unclear>taḥ ◊ dakṣiṇasyāṁm apy <unclear>e</unclear>tadanulagnena śṛṅgāṭakavillikānusāreṇa vṛhacchaṅkajoṭā tadan<unclear>u</unclear>sāreṇa kāṇālatīyaśālmalīsamīpena punaḥ
+<lb n="18"/>srotikā yāvad iti ◊ l<unclear>i</unclear>khitaṁ kāraṇikaśam<unclear>bhudatte</unclear>na tāpitaṁ pustapālakṛṣṇadattena samvat· 5 ◊ Aśva di 20 2 ◊ Asminn evārthe manvādayaḥ ślokān udāha
 <lb n="19" break="no"/>ranti sma</p>
-<lg n="1" met="anuṣṭubh">
-<l n="a">svadattāṁ para(da)ttām vā</l><l n="b">yo hareta vasundharāṁ</l> 
-<l n="c">sa viṣṭhāyāṁ kṛmir bhūtvā</l><l n="d">pitṛbhis saha pac<choice><sic>c</sic><corr>y</corr></choice>ate ||</l>
-</lg>
+<lg n="1" met="anuṣṭubh"><l n="a">svadattāṁ para<unclear>da</unclear>ttām vā</l><l n="b">yo hareta vasundharāṁ</l> 
+<l n="c">sa viṣṭhāyāṁ kṛmir bhūtvā</l><l n="d">pitṛbhis saha pac<choice><sic>c</sic><corr>y</corr></choice>ate ||</l></lg>
+
 <lg n="2" met="anuṣṭubh">
 <l n="a">ṣaṣṭivarṣasahasrāṇi</l><l n="b">svargge modati bhūmi<lb n="20"/>daḥ</l>
 <l n="c">Ākṣeptā cānumantā ca</l><l n="d">tāny eva narake vaset· || </l></lg>
@@ -109,7 +118,7 @@
 <l n="c">yasya yasya yadā bhūmis</l><l n="d">tasya tasya <lb n="21"/>tadā phalaṁ ||</l></lg>
 <lg n="4" met="anuṣṭubh">
 <l n="a">yānaśayyāprado bhāryyām*</l><l n="b">sukham akṣayyam annadaḥ</l>
-<l n="c">bhūmidas sarvvam āpnoti</l><l n="d">godo vradhnasya viṣ<choice><sic>ṭh</sic><corr>ṭ</corr></choice>apa(ṁ) || Ø ||</l></lg><pb n="1v"/>
+<l n="c">bhūmidas sarvvam āpnoti</l><l n="d">godo vradhnasya viṣ<choice><sic>ṭh</sic><corr>ṭ</corr></choice>apa<unclear>ṁ</unclear> || Ø ||</l></lg><pb n="1v"/>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
@@ -122,6 +131,27 @@
          </div>
          <div type="translation" resp="part:argr">
  	<!--translation encoded as per EGD §9.2 -->
+             <div type="textpart" n="A"><head xml:lang="eng">Seal primary</head><!-- d'ici -->
+             <ab><supplied reason="explanation">Seal</supplied> of the council in Ghoṇādvīpaka district</ab>
+             </div>
+             <div type="textpart" n="C"><head xml:lang="eng">Seal secondary</head>
+             <ab>Illegible. Given that only four <foreign>akṣaras</foreign> seem to be engraved, an hypothetical reading <foreign>pradyumnabandhoḥ</foreign> must be excluded.</ab> 
+             </div>
+             <div type="textpart" n="C"><head xml:lang="eng">Plate</head>
+            <p n="1-3"> Hail! In the fifth year of the victorious suzerainty of the suzerain of great kings Śrī Pradyumnabandhu, on the twenty-second day of the month Āśvayuja, when his appointee as governor, <supplied reason="explanation">named</supplied> Cellaka, was managing affairs in Śrī Puṇḍravardhana province,26 when the Ghoṇā-island district falling under it had been obtained as fief by the great chamberlain Avadhūta, <supplied reason="explanation">at that time</supplied> the people of the district, beginning with the great notables and the notables, together with the council, were requested by him <supplied reason="explanation">i.e. Avadhūta</supplied> whose mind was inspired by merits acquired in a previous life:27</p>
+<p n="3-4">I wish to make donation of the village Mastakaśvabhra along with its citron-grove to a Brahmin, after purchasing <supplied reason="subaudible">it</supplied> from you, in accordance with the custom of the district, for the sake of increasing the merit of my parents and myself, and after making it a tract of land with copperplate <supplied reason="explanation">deed of purchase</supplied><!-- est ce bien explanation? -->.</p>
+<p n="4-10">'They answered: ‘We inform <supplied reason="explanation">as follows</supplied> after having spoken together.28 In this matter <supplied reason="explanation"><foreign>yatra</foreign></supplied><!-- est ce bien la bonne balise pour faire comprendre que yattra est compris comme yatra dans la trad -->, the great notables Ādityadeva, Jayadeva and Śivabhadra; the great notable Śarvadeva; the hamlet notables Yaśodeva, Praśastarudra and Mitradeva; residing in Bhiloṭa, the notable Nātharudra; the hamlet notables Śāntirudra and Dharmarudra; from <supplied reason="explanation" cert="low">Varṣagrima</supplied><!-- est ce le bon moyen pour reproduire  Varṣagrima (?) présent dans la trad?-->, the notables Pavitrasoma and Kṣemadeva; residing on Ṣaṇḍa-island, the notables Gaurakakiraṇasvāmin <!--faut il mentionner la normalisation de Gora en Gaura?  --> and Rudrasvāmin; residing on Pravara-island, the Brahmin Guhayaśas; residing in Navadevakula, the notable Śambhusvāmin; residing in Pippalivanikā, the notable Bhākideva; from Patravāṭa, the notable Gopasoma; from Śaṅkarapallika, Bhaṭṭadharmasvāmin; residing in Śivanagara, Bhadrasvāmin, Śrīcandra and Kṣemaśarman; from the island, the notable Amr̥taśāntanu; residing in Varāhakoṭṭaka, the notables Dharmakuṇḍa and Śivagupta; residing in Khātaka, the notable Jalla; from Ardrala, the notables Jālacandra and Śyāmadeva; from Audumvarika, the notables Abhinandana and Malayarudra <supplied reason="subaudible">as well as</supplied> the scribes <supplied reason="explanation"><foreign>karaṇika</foreign></supplied> Naradatta, Eḍitanu and Devasena; the district councilors Śambhudatta, Kr̥ṣṇadatta, Paurudatta, and others, have deliberated.’29</p> 
+<p n="10-13">They have confirmed <supplied reason="explanation"><foreign>avadhr̥tavantas</foreign></supplied>: ‘There is this custom — also by good people in the past, fields in the surroundings of district villages have been purchased from various people of the district, and donated to temples, monasteries and excellent Brahmins; and kings in the past have given their consent. And the land renders no benefit whatsoever to the king as long as it is lying fallow; if <supplied reason="explanation">on the other hand</supplied>, it is once again, in the stated fashion, made the object of donation, it will yield fruit in this world and the next. 30 And this village’s additional taxes <supplied reason="explanation"><foreign>uparikara</foreign></supplied> for the coming years are forty-five <foreign>kārṣāpaṇas</foreign>. What other income of the district there will be, that must be divided and borne by us.31 From what source? <supplied reason="explanation">We do not have any source from which to pay these taxes.</supplied> Therefore, on account of the district, we are in need of cash. And this great chamberlain Avadhūta humbly requests an act that is proper and fruitful for this <supplied reason="explanation">village</supplied>, object of <supplied reason="explanation">the present</supplied> report.’32</p>
+<p n="13-14"> ‘And after having confirmed <supplied reason="explanation">this</supplied>, we have let the district arbitrators33 receive a thousand <foreign>cūrṇikās</foreign>34 as price of the village as well as incense, flowers and garments on the occasion of hearing <supplied reason="explanation" cert="low">of the king’s assent</supplied>,35 and we have sold the village Mastakaśvabhra, along with its citron grove, into the hand of the great chamberlain Avadhūta.’</p>
+<p n="14-16">And after he had bought it, by him it has been made over to the Brahmin Jayadeva, belonging to the Kātyāyana <foreign>gotra</foreign>, student of the Vājasaneya <supplied reason="explanation">school of the Yajurveda</supplied>, son of Bhogadeva, to be enjoyed in sequence by his sons, grandsons, and so on, as long as moon and sun shall last, for purpose of the regular performance of the five great sacrifices.</p>
+<p n="16-18">And the boundary markers of this village Mastakaśvabhra are, in this connection <supplied reason="explanation"><foreign>yatra</foreign></supplied><!-- est ce bien la bonne balise pour faire comprendre que yattra est compris comme yatra dans la trad -->: in the East, the stream; in the North, the same, after it has entered the Trighaṭṭikā <supplied reason="explanation">river</supplied> by the cremation ground; in the West, the <supplied reason="explanation" cert="low">Optra</supplied><!-- est ce le bon moyen pour reproduire  Optra (?) présent dans la trad?--> canal; in the South, too, along the latter, after the Śr̥ṅgāṭaka <supplied reason="explanation">‘Crossroad’</supplied> pond, the Br̥hacchaṅkajoṭā <supplied reason="explanation">‘Great-Conch-Joṭā’</supplied>; after the latter, down again to the stream near the silk cotton tree of Kāṇālatī. (18) Engraved by the scribe Śambhudatta,36 heated by the record-keeper Kr̥ṣṇadatta. Year 5, day 22.</p>
+<p n="18-19">And Manu and so on used to cite stanzas in this same sense:</p>
+<lg n="1" met="anuṣṭubh">The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.</lg>
+<lg n="2" met="anuṣṭubh">The giver of land revels sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</lg>
+<lg n="3" met="anuṣṭubh">Numerous kings, starting with Sagara, have given land. Whoever holds land at a given moment, to him does the fruit belong.</lg>
+<lg n="4" met="anuṣṭubh">One who gives a carriage or bed obtains a wife; one who gives food <supplied reason="subaudible">obtains</supplied> permanent bliss; one who gives land <supplied reason="subaudible">obtains</supplied> everything <supplied reason="explanation">at once</supplied>; one who gives cattle <supplied reason="subaudible">obtains</supplied> the summit of the sun.
+</lg>
+</div>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
