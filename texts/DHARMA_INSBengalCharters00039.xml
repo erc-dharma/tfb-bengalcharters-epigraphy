@@ -115,7 +115,7 @@
                          n="11" break="no"/>-puṇyābhivṛddhaye dugdhotik<unclear>ā</unclear>-v<unclear>ā</unclear>stavya-brāhmaṇānāṁ g<choice><sic>a</sic><corr>u</corr></choice>ruṭṭāpa-śāsanenātisṛṣṭaḥ tan ma<supplied reason="lost">ma</supplied> <gap reason="lost" quantity="5" unit="character"/><!-- verifier illegible ou lost avec la photo --> <supplied reason="lost">tāmra</supplied>-paṭṭā<lb 
                          n="12" break="no"/>-kṣetra <gap reason="lost" quantity="2" unit="character"/><!-- verifier illegible ou lost avec la photo --><unclear>dattaka</unclear> ◊ na vinaśyeta tathā <unclear>pra</unclear>sādaḥ kriyatām iti yataḥ Evaṁ<!-- dans ton edition 2015 °evaṁvijñāpato collé, faut il le signaler dans l'apparat + lecture différente puisqu'on a °evaṁvijñāpatopala(b) suivi de 7 tirets?--> vijñāp<choice><sic>a</sic><corr>i</corr></choice>to <gap reason="lost" quantity="11" unit="character"/><!-- verifier illegible ou lost avec la photo --></p>
                      <p><pb n="1v"/><lb 
-                         n="13"/>Ādeśo<!-- j'ai remplace ā par Ā en supposant que c'était une voyelle initiale à vérifier avec la photo --> 'dakam<!-- j'ajoute l'avagraha --> atra yuktam iti <space/> tadadhikara<choice><orig>n</orig><reg></reg>ṇ</choice>ena<!-- dans l'apparat tu indiques karan[e]na --> jñāpita <space/> Etat-kṣetra-pariva<unclear>r</unclear>ttena nānya-grāmo dīyatām iti<!-- attention en 2015 lecture (i)t(i)à ajouter dans l'apparat --> yata <gap reason="lost" quantity="11" unit="character"/><!-- verifier illegible ou lost avec la photo --><lb 
+                         n="13"/>Ādeśo<!-- j'ai remplace ā par Ā en supposant que c'était une voyelle initiale à vérifier avec la photo --> 'dakam<!-- j'ajoute l'avagraha --> atra yuktam iti <space/> tadadhikara<choice><orig>n</orig><reg></reg>ṇ</choice>ena<!-- dans l'apparat tu indiques karan[e]na --> jñāpita <space/> Etat-kṣetra-pariva<unclear>r</unclear>ttena nānya-grāmo dīyatām iti yata <gap reason="lost" quantity="11" unit="character"/><!-- verifier illegible ou lost avec la photo --><lb 
                          n="14"/>deśoparika-svāmicandrasyādeśo dattaḥ tava maddhyamaṣaṇḍikānān dhana prati pratipālana prativāsana pratyāya sādhunā yasa <gap reason="lost" quantity="9" unit="character"/><!-- verifier illegible ou lost avec la photo --><lb 
                          n="15"/>kautsa-sa-gotra-vājasaneya-brāhmaṇa-nandabhūtiṣyaitat tāmra-paṭṭa-parivarttanānyatra grāme viṣayādhikaraṇa <space/> <space/> <space/> <space/> kṣetraṁ dāpayi<unclear>ṣya</unclear><supplied reason="lost">sīti</supplied> <unclear>ya</unclear>ta<unclear>ḥ</unclear><lb
                          n="16"/>Etad-ādeśād asmāka pūjya-svāmicandrasyādeśo dattaḥ mama paramadaivatoparikapādebhyo jñā dattaḥ mahatī-rakta-mālā-grahārika-brāhmaṇa-nandabhūti<lb 
@@ -308,14 +308,16 @@
                    </app>
                    <app loc="13">
                        <lem>-pariva<unclear>r</unclear>ttena</lem>
-                       <rdg source="bib:Griffiths2015_02">parivartt<unclear>e</unclear>na </rdg>
-                       <note><foreign>-parivartt<unclear>e</unclear>na nanya-</foreign>: emend <foreign>-parivarttenanya-</foreign>? Alas, too much of the context here is damaged to be sure what meaning was intended.</note>
+                       <rdg source="bib:Griffiths2015_02">parivartt<unclear>e</unclear>na</rdg><rdg source="bib:DubeyAcharya2014_01">vartana<supplied reason="lost">ṁ*</supplied></rdg>
+                       <note><foreign>-parivartt<unclear>e</unclear>na nanya-</foreign>: emend <foreign>-parivarttenanya-</foreign>? Alas, too much of the context here is damaged to be sure what meaning was intended.</note><!-- Attention la note reprend l'ancienne lecture, peut-être reporter la nouvelle lecture -->
                    </app>
-                   <app loc="1">
-                       <lem></lem>
+                   <app loc="13">
+                       <lem>nānya-grāmo dīyatām iti</lem>
+                       <rdg source="bib:DubeyAcharya2014_01">nānya<supplied reason="lost">ṁ*</supplied> grāmodāyakam ata</rdg><rdg source="bib:Griffiths2015_02">nānya-grāmo dīyatām <unclear>i</unclear>t<unclear>i</unclear></rdg>
                    </app>
-                   <app loc="1">
-                       <lem></lem>
+                   <app loc="14">
+                       <lem>candrasyādeśo</lem>
+                       <rdg source="bib:DubeyAcharya2014_01">candr<choice><sic>a</sic><corr>ā</corr></choice>ryy-ādeśo</rdg>
                    </app>
                    <app loc="1">
                        <lem></lem>
