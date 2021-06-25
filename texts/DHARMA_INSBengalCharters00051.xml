@@ -132,7 +132,7 @@
                  <l n="c"><unclear>A</unclear>vagacchati <unclear>me</unclear> <lb n="22"/> ta<unclear>v</unclear>āntarā<unclear>tmā</unclear></l>
                  <l n="d">niyataṁ te 'pi janā<unclear>s ta</unclear>d-anśa-bhāja Iti <space/></l>
              </lg>
-             <p><abbr>saṁ</abbr> <num value="159"><g type="numeral">100</g> <unclear><g type="numeral">50</g></unclear> 9</num> <space/> j<unclear>e</unclear>ṣ<unclear>ṭha</unclear>di <unclear><num value="1">1</num></unclear> <space/> li(khitaṁ) teṇa <surplus>to</surplus> sumatinā</p>
+             <p><abbr>saṁ</abbr> <num value="159"><g type="numeral">100</g> <unclear><g type="numeral">50</g></unclear> 9</num> <space/> j<unclear>e</unclear>ṣ<unclear>ṭha</unclear>di <unclear><g type="numeral">1</g></unclear> <space/> li(khitaṁ) teṇa <surplus>to</surplus> sumatinā</p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -142,11 +142,11 @@
                   </app>
                    <app loc="9">
                        <lem>-vājisaneya<unclear>j</unclear>āmātya-</lem>
-                       <note>Emend -<foreign>vājasaneyirājāmātya</foreign>-. Cf. my note on <ref target="DHARMA_INSBengalCharters00056.xml">Raktamālā #2</ref>, line 6.</note>
+                       <note>Emend -<foreign>vājasaneyirājāmātya</foreign>-. Cf. my note on <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>, line 6.</note>
                    </app>
                    <app loc="12">
                        <lem>-kālopabhogyo</lem>
-                       <note>Emend -<foreign>tkālopabhogyo</foreign>. The same misspelling occurs in <ref target="DHARMA_INSBengalCharters00056.xml">Raktamālā #2</ref>, line 11.</note>
+                       <note>Emend -<foreign>tkālopabhogyo</foreign>. The same misspelling occurs in <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>, line 11.</note>
                    </app>
                    <app loc="13">
                        <lem>kebal<choice><sic>a</sic><corr>aṁ</corr></choice> bhaṭṭāraka-pādānā<unclear>n dha</unclear>rmma-ṣaḍ-bhāg<unclear>o</unclear></lem>
