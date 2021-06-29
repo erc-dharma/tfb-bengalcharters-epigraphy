@@ -178,6 +178,10 @@
                        <note>In the light of what precedes one initially expects -<foreign>niyamitāḥ</foreign>, but see the <ref target="DHARMA_INSBengalCharters00034.xml">Jagadishpur plate</ref>, line 22 <foreign>catus-sīmā-niyamita-kṣetraṁ</foreign>.
 </note>
                    </app>
+                   <app loc="21">
+                       <lem>dharmma-<unclear>sañcaye</unclear><gap reason="lost" unit="character" quantity="1"/></lem>
+                       <note>Emend <foreign>dharmma-sañcaye vā</foreign>.</note>
+                   </app>
                    <app loc="22">
                        <lem>ta<unclear>v</unclear>āntarā<unclear>tmā</unclear></lem>
                        <note>Emend <foreign>yathāntarātmā</foreign>.</note>
@@ -202,7 +206,7 @@
                  Balapāla, Guṇadeva, Guṇaśarman, Bhavadeva, Kuṇḍakr̥ṣṇa, Ā..cirātaviṣṇu (?),
                  <note>Cf. the name of the <foreign>uparika</foreign> Cirātadatta in <ref target="DHARMA_INSBengalCharters00047.xml">Damodarpur #1</ref>.</note>
 Śambhukīrtti, Bhaktidāman (?), Manaḥkr̥ṣṇa, Kṣemarudra,
-Bhavadāman, Lakṣmaṇa, Mitrasoma, Baladāsa, Jayadāsa,
+Bhavadāman, Lakṣmaṇa<!-- c'est le seul nom non composé?! -->, Mitrasoma, Baladāsa, Jayadāsa,
 Śuṅgadāman, Vyāghraśarman, Sthāvaradāman, Yaśodāman, 
 Dāmodaradāman, Kumāradāman, Ga..dāman (?),
                  <note>I initially thought that gu<supplied reason="lost">ha</supplied>- could be read at the end of line 4, in which case we would have had here the same name as that of the Brahmin beneficiary Guhadāman of this grant — and a possible case of beneficiary’s membership of council. But it now seems unlikely to me that the last legible <foreign>akṣara</foreign> on line 4 is <foreign>gu</foreign>.</note> 
@@ -235,7 +239,9 @@ Dāmodaradāman, Kumāradāman, Ga..dāman (?),
              <p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.</p>
               <p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who condones <supplied reason="explanation">the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
               <p n="3" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.</p>
-              <p n="4" rend="stanza">My inner spririt understands that those companions a man has in dirty work or for collecting merit inevitably also get a share of it.</p>
+              <p n="4" rend="stanza">My inner spirit understands that those companions a man has in action that brings defilement or for collecting merit inevitably also get a share of it .</p><!-- pour moi My inner spirit understands ne colle pas avec l'esprit de la phrase. Selon moi avagacchati désigne vraiment le fait d'obtenir qqch c'est typique des phrases de ce genre Celui dont les compagnons s'adonnent aux actes impurs ou à l'acccumulation de mérite, cet homme dont l'ātman intérieur est (metava???) obtient inévitablement une part de ces actes, et ces gens là aussi  pour les possibles restaurations: tadāntarātmā celui dont l'esprit est toujours à l'intérieur obtient inévitablement (dans Muktabodha on a tadāntarātmā mais tadā est en corrélation avec yadā
+                  itarāntarātmā ? celui dont l'atman est vil MW low/vile pour itara- voir dans Gopalabhatta: Haribhaktivilasa, 1-11, 4.3 akuṭilādretarāntarātmā et dans Kesava Kasmiri: Kramadipika 4.3
+                  racitāntarātmā sarvāntarātmā BndP2.33.27 cāntarātmā BrP2.243.71 et BhGP10.14.43-->
              <p n="22">Year 159, <supplied reason="explanation">month of</supplied> Jyeṣṭha, day 1. Written by that Sumati.
 </p>
          </div>
