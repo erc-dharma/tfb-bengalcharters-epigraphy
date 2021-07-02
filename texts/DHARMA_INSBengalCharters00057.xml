@@ -197,13 +197,14 @@ samva <num value="100">100</num> <num><gap reason="lost" quantity="2" unit="char
              <p n="1-2">Hail! From the <gap reason="illegible"/>lavilintī
                  <note>There may have been one <foreign>akṣara</foreign> before <foreign>lavi</foreign>. If so, the <foreign>akṣara</foreign>s <foreign>lavi</foreign> would be the second and third of the <foreign>agrahāra</foreign>’s name.</note>
                  <foreign>agrahāra</foreign>, the princely advisor Gopāla, 
-                 favored by the feet of the Lord,
+                 favoured by the feet of the Lord,
                  <note>The <foreign>paramabhaṭṭāraka</foreign> in the plate <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref> is identifiable as Budhagupta (<bibl><ptr target="bib:Griffiths2015_02"/><citedRange unit="page">25</citedRange></bibl>). Note the absence of <foreign>parama</foreign>- here. Since Budhagupta’s predecessors were also referred to as <foreign>bhaṭṭārakapādāḥ</foreign>, no definitive conclusion can be drawn from the usage of this title here with regard to the reign in which this inscription was issued.</note> 
-                 and the council, greet the landholders <supplied reason="explanation"><foreign>kuṭumbin</foreign></supplied>
+                 and the council, 
+                 greet the landholders <supplied reason="explanation"><foreign>kuṭumbin</foreign></supplied>
                  <note><bibl><ptr target="bib:Yamazaki1982_01"/><citedRange unit="page">25</citedRange></bibl>, <bibl><ptr target="bib:Aounshuman1996_01"/><citedRange unit="page">190</citedRange></bibl> and other scholars have cited a stanza from the <title>Nāradasmr̥ti</title> (11.37) in the context of interpretations of the important word <foreign>kuṭumbin</foreign> as ‘peasant <supplied reason="subaudible">householder</supplied>’: <foreign>gr̥haṁ kṣetraṁ ca vijñeyaṁ vāsahetuḥ kuṭumbinām</foreign> | <foreign>tasmāt tan nākṣiped rājā tad dhi mūlaṁ kuṭumbinām</foreign> || <cit><quote>The house and the field are what the family lives on; therefore the king should not disturb them since they are the foundation of the family</quote></cit> (ed. and transl. <bibl><ptr target="bib:Lariviere1989_01"/></bibl>). But the textual material assembled by <bibl><ptr target="bib:Ritschl+Schetelich1976_01"/></bibl>, which shows that the word is often used in connection with ownership and supports the translation as ‘landholder’ favored here, has unfortunately been ignored in most English-language scholarship.</note>
                  both prominent and modest, <!-- pour brāhmaṇottarān sakṣudra-pradhāna-<unclear>kuṭu</unclear>mbinaḥ  même doute que dans BengalCharters39. Le -ādi est omis ici dans le composé mais sa- n'apparaît pas dans la traduction. Il me semble qu'ici on pourrait voir le sens donné dans Renou §136 qui renvoie au §83 : il indique comme sens de sa- sam- "complet total" ici on pourrait comprendre "avec la totalité des propriétaires (aussi bien) pauvres et riches"  -->
                  Brahmins being foremost among them, <!-- ici peut-être considérer le sens ifc "followed by " donné par MW p.178 col1 et Apte p.408 n°8...voir consisting chiefly of Brahmins Apte p.1174 . On retrouve l'expression dans BC51 aussi -->
-                 in the <supplied reason="subaudible">village called</supplied> ‘Minor Red Garland’ <supplied reason="explanation"><foreign>khuḍḍī raktamālikā</foreign></supplied>
+                 in the <supplied reason="subaudible">village called</supplied> ‘Minor Red Garland’ <supplied reason="explanation"><foreign>khuḍḍīraktamālikā</foreign></supplied>
                  and they inform <supplied reason="subaudible">as follows</supplied>:</p>
                  <p n="3-10">Gaṇadatta, son of a good<!-- noble? --> family residing in the <foreign>agrahāra</foreign> ‘Major Red Garland’ <supplied reason="explanation"><foreign>mahatī raktamālā</foreign></supplied>, 
                      petitions us <supplied reason="subaudible">as follows</supplied>: 
@@ -230,7 +231,7 @@ samva <num value="100">100</num> <num><gap reason="lost" quantity="2" unit="char
                      in the village ‘Minor Red Garland’.</q></p>
                  <p n="10-16"><!-- peut être modifier en 10-6? ou on n'applique cette notation qu'au-dessus de 20? -->In that regard <supplied reason="explanation"><foreign>tatra</foreign></supplied>, 
                      it has been confirmed through investigation 
-                     by the record-keeper Keśavadatta: <q>Indeed (<supplied reason="explanation"><foreign>asti</foreign></supplied>),
+                     by the record-keeper Keśavadatta: <q>Indeed <supplied reason="explanation"><foreign>asti</foreign></supplied>,
                      with respect to vendible properties in this division, 
                      the sale of <supplied reason="subaudible">a <foreign>kulyavāpa</foreign> of</supplied> waste land 
                      that is without revenue charges and yields no tax, 
@@ -238,7 +239,7 @@ samva <num value="100">100</num> <num><gap reason="lost" quantity="2" unit="char
                      is customary for one hundred <foreign>kārṣāpaṇa</foreign>s. 
                      And no conflict of interest <supplied reason="explanation"><foreign>virodha</foreign></supplied> 
                      whatsoever <supplied reason="subaudible">will result</supplied> through its sale: 
-                     <supplied reason="subaudible">on the contrary,</supplied><!-- je ne comprends pas cet ajout...s'il y a conflit? --> for His Majesty<supplied reason="subaudible"> 
+                     <supplied reason="subaudible">on the contrary,</supplied><!-- je ne comprends pas cet ajout...s'il y a conflit ou si la terre est à nouveau cultivée? Que se passe-t-il une fois la terre donnée pour une donation permanente? Si elle est à nouveau cultivée, le roi doit certainement récupérer le sixième des cultures en taxe? Dans ce cas, ce serait une simple affirmation --> for His Majesty<supplied reason="subaudible"> 
                      there will be</supplied> increase of wealth and attainment of one sixth of the merit. 
                      Hence <supplied reason="explanation">tad</supplied>, 
                      after receipt of two hundred <foreign>rūpaka</foreign>s, 
@@ -249,9 +250,9 @@ samva <num value="100">100</num> <num><gap reason="lost" quantity="2" unit="char
                      is to be given to the Brahmin Yaśobhūti, 
                      to be enjoyed by his sons, grandsons, great-grandsons, 
                      and so on, in accordance with the law on permanent endowments.</q></p>
-                 <p n="17-22">Wherefore we inform you: 
-                    <q> that one <foreign>kulyavāpa</foreign> of waste land without revenue charges and yielding no tax, 
-                     as per the above-written procedure of request and confirmation,<!-- je me demande s'il ne faudrait pas déplacer ici ou répéter ce qui est mis dans l'apparat pour signaler dans la traduction l'émendation faite; dans tous les cas cette procédure addressée au pustapaala est très intéressante et mériterait d'être plus documentée, notamment par la comparaison avec les textes juridiques, traités de dharmasastra--> 
+                 <p n="17-22">Wherefore we inform you: that <!-- ici il y a un pb soit de ponctuation soit de syntaxe, we inform you : "one blablabala" ou we inform you that one blabla -->
+                     one <foreign>kulyavāpa</foreign> of waste land without revenue charges and yielding no tax, 
+                     as per the above-written procedure of request and confirmation,<!-- je me demande s'il ne faudrait pas déplacer ici ou répéter ce qui est mis dans l'apparat pour signaler dans la traduction l'émendation faite; dans tous les cas cette procédure adressée au pustapaala est très intéressante et mériterait d'être plus documentée, notamment par la comparaison avec les textes juridiques, traités de dharmasastra--> 
                      has been given by him in that village. 
                      Regarding the <foreign>kulyavāpa</foreign> of waste land 
                      that is without revenue charges and yields no tax 
@@ -259,12 +260,13 @@ samva <num value="100">100</num> <num><gap reason="lost" quantity="2" unit="char
                      in a place which poses no obstacle to the agricultural activities of the landholders, 
                      in the company of council that enjoys our confidence and the landholders of good families of the district, 
                      you shall give <supplied reason="subaudible">this land</supplied> after dividing and demarcating <supplied reason="subaudible">it</supplied> 
-                     from this<note>In the parallel passage in <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā grant #1</ref> (line 21), I have interpreted <foreign>ito</foreign> as meaning <cit><quote>for this reason</quote></cit> (<bibl><ptr target="bib:Griffiths2015_02"/><citedRange unit="page">23</citedRange></bibl>), but I now doubt whether this was correct. It may refer instead to one of the places fixed in the preceding clauses, in which case the meaning could be that the division and demarcation are to be carried out from that place, whether as starting point of a measurement process that proceeds step by step, or in the sense of demarcating X from Y. Another possibility is that <foreign>ito</foreign> refers to the village as a whole.</note> 
-                     with eight by nine of the governmental (<supplied reason="explanation">nītika</supplied>)
-                     <note>When editing the <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā grant #1</ref> (line 21), I tentatively read <foreign>naitika</foreign>, but noted that <foreign>nītika</foreign> was also a possible reading (<bibl><ptr target="bib:Griffiths2015_02"/><citedRange unit="page">22, 23, 35</citedRange><citedRange unit="note">18</citedRange> </bibl><!--verifier que encodage juste pour n18 p.35 22, 23, and 35 n. 18-->). Based on better photographs that I was able to make in 2017, I now consider that the reading is indeed nītika there, and this also seems to be the reading in the present grant, although its poor state of conservation makes it hard to be sure. I retain the tentative translation ‘governmental’ proposed in 2015. </note>
+                     from this
+                        <note>In the parallel passage in <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā grant #1</ref> (line 21), I have interpreted <foreign>ito</foreign> as meaning <cit><quote>for this reason</quote></cit> (<bibl><ptr target="bib:Griffiths2015_02"/><citedRange unit="page">23</citedRange></bibl>), but I now doubt whether this was correct. It may refer instead to one of the places fixed in the preceding clauses, in which case the meaning could be that the division and demarcation are to be carried out from that place, whether as starting point of a measurement process that proceeds step by step, or in the sense of demarcating X from Y. Another possibility is that <foreign>ito</foreign> refers to the village as a whole.</note> 
+                     with eight by nine of the governmental <supplied reason="explanation">nītika</supplied>
+                     <note>When editing the <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā grant #1</ref> (line 21), I tentatively read <foreign>naitika</foreign>, but noted that <foreign>nītika</foreign> was also a possible reading (<bibl><ptr target="bib:Griffiths2015_02"/><citedRange unit="page">22, 23, and 35</citedRange><citedRange unit="note">18</citedRange> </bibl><!--verifier que encodage juste pour n18 p.35 22, 23, and 35 n. 18-->). Based on better photographs that I was able to make in 2017, I now consider that the reading is indeed nītika there, and this also seems to be the reading in the present grant, although its poor state of conservation makes it hard to be sure. I retain the tentative translation ‘governmental’ proposed in 2015. </note>
                      cubits. 
                      And having given it, you shall protect it 
-                     to be enjoyed in perpetuity in accordance with the law on permanent endowments.</q><!-- Il m'a semblé qu'il fallait mettre des guillemets? -->
+                     to be enjoyed in perpetuity in accordance with the law on permanent endowments.
                  </p>
                  <p n="22-6">And it has been said:</p>
                      <p  n="1" rend="stanza">The giver of land resides sixty thousand years in heaven;
