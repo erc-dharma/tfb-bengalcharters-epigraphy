@@ -159,8 +159,7 @@
              </div>
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>First edited by Arlo Griffiths. Re-edited here with small improvements based on direct inspection of the plate.</p><!-- vérifier si cela convient -->
         	<listBibl type="primary">
 				<bibl n="G"><ptr target="bib:Griffiths2018_02"/><citedRange unit="item">II.4</citedRange><citedRange unit="page">39-40</citedRange></bibl>
 			</listBibl>
