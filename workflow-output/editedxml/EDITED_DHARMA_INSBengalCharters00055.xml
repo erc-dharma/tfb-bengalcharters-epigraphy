@@ -9,23 +9,17 @@
       <fileDesc>
          <titleStmt>
             <title>A grant of land to monasteries at Śiṣīpuñja, Madhyamasṛgālikā and Grāmakūṭagohālī</title>
-            <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-            <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
                <resp>EpiDoc Encoding</resp>
-               <!-- Work done in the file, e.g. editor ...-->
-               <persName ref="part:amwb"><!-- Update the id -->
+               <persName ref="part:amwb">
                   <forename>Amandine</forename>
-                  <!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
                   <surname>Wattelier-Bricout</surname>
                </persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
-               <!-- This may be the same as the creator of the file -->
-               <persName ref="part:argr"><!-- Update the id -->
+               <persName ref="part:argr">
                   <forename>Arlo</forename>
-                  <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
                   <surname>Griffiths</surname>
                </persName>
             </respStmt>
@@ -264,7 +258,7 @@
    </p>
              <p n="13-16">
                  <q>Wherefore, after confirmation through an investigation by the first <supplied reason="explanation"><foreign>prathama</foreign></supplied> record-keeper Śarva 
-                     and the primary <supplied reason="explanation">ādya</supplied> record-keepers Prīti, Viṣṇudhara, Jayadatta, Rāmadatta, Sudarśanaśrīdāsa and Bhavadāsa, 
+                     and the primary <supplied reason="explanation">ādya</supplied> record-keepers Prīti, Viṣṇudhara,<!-- pourquoi pas Prītiviṣṇudhara ? Cela me semble étrange un nom composé d'un seul mot?  --> Jayadatta, Rāmadatta, Sudarśanaśrīdāsa and Bhavadāsa, 
                      and after having taken in cash four <foreign>dīnāra</foreign>s from the side of Nāgavasu, 
                      <supplied reason="explanation">the two <foreign>kulyavāpa</foreign>s</supplied> must be given.</q>
                  <note>I tentatively presume that this second quotation terminated by <foreign>iti</foreign> still forms part of the petition that began in line 3.</note>
@@ -277,7 +271,7 @@
                  for the regular performance of <supplied reason="explanation">offerings of</supplied> perfume, incense, flowers, 
                  lamps, grain oblation, rice oblation, food oblation, etc., 
                  to the venerable Arhants at the three monasteries at Śiṣīpuñja, Śrīgohālī
-                 <note>Note that this toponym, also found in the <ref target="DHARMA_INSBengalCharters00049.xml">Baigram plate</ref><!-- peut être faut il aussi noter la BC50 ? Je ne peux pas mettre deux target dans ref...  -->, here takes the place of Madhyamasr̥gālikā.</note> 
+                 <note>Note that this toponym, also found in the <ref target="DHARMA_INSBengalCharters00050.xml">fragment from Baigram</ref> and the <ref target="DHARMA_INSBengalCharters00049.xml">Baigram plate</ref>, here takes the place of Madhyamasr̥gālikā.</note> 
                  and Grāmakūṭagohālī, superintended by the ascetic masters Jinadāsa and Karṇaka, 
                  and for the sake of food for those who use their <supplied reason="explanation">cupped</supplied> hands as bowl 
                  for morsels which were intended to be eaten by others,
@@ -300,46 +294,81 @@
                  the one who challenges <supplied reason="explanation">a donation</supplied> 
                  as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.
              </p>
-             <p>Year 198, Śrāvaṇa, day <gap reason="lost"/> .</p></div>
+             <p>Year 198, Śrāvaṇa, day <gap reason="lost"/> .
+             </p>
+             </div>
              <div type="textpart" n="B"><head xml:lang="eng">New translation 3-13</head>
-             <!-- Ici je propose une nouvelle trad de 3-13. 
-                     Nāgavasu petitions us: 
+             <!-- Ici je propose une nouvelle trad de 3-13 parce que je n'ai pas compris comment tu interprétais le génitif vihaaratrayasya et l'accusatif vihaaradvayam -->
+                    <p n="3-5">Nāgavasu petitions us: 
                  <q>The sale, in your council, of waste land that is without revenue charges and yields no tax, 
                      to be enjoyed in perpetuity in accordance with the law on permanent endowments, 
                      is customary <supplied reason="explanation"><foreign>anuvr̥tta</foreign></supplied> with a <foreign>kulyavāpa</foreign> 
-                     for <supplied reason="explanation">the price of</supplied> two <foreign>dīnāra</foreign>s.
-                     au sujet du génitif ici, on pourrait y voir un génitif d'intention décrit par Renou §222, D, petit b pa. 307 "génitif de la personne intéressée et qui apparaît préférablement dans les pronoms : que vous daignez arhatha pour ma personne aussi (user/utiliser/respecter) précisément cette procédure. Je propose de transformer l'idée contenue dans l'instrumental par le verbe "utiliser" + COD, puis de suppléer une coordination pour relier arhata et daatum. Sinon la phrase devient illisible...
-                     l5- Thus <supplied reason="explanation">tad</supplied>, be so kind to use, for me too, this very procedure
-                     <note>Here the instrumental <foreign>anenaiva krameṇa</foreign> is rendered by the expression "use this very procedure".</note>
-                     so that there is a regular performance of (traduction du datif de destination pravarttanāya ) 
+                     for <supplied reason="explanation">the price of</supplied> two <foreign>dīnāra</foreign>s.</q>
+                    </p><!-- ici aucun changement hormis un découpage pour aider le lecteur à comparer texte skt et trad  -->        
+                     <p n="5-13"><q>Thus <supplied reason="explanation">tad</supplied>, be so kind to use, <!-- l5 : tad arhatha anenaiva krameṇa -->
+                     for me too,<!-- mamāpy : au sujet du génitif ici, on pourrait y voir un génitif d'intention décrit par Renou §222, D, petit b pa. 307 "génitif de la personne intéressée et qui apparaît préférablement dans les pronoms : que vous daignez arhatha pour ma personne aussi (user/utiliser/respecter) précisément cette procédure. Je propose de transformer l'idée contenue dans l'instrumental par le verbe "utiliser" + COD, puis de suppléer une coordination pour relier arhata et daatum. Sinon la phrase devient illisible... -->
+                     this very procedure
+                     <note>Here the instrumental <foreign>anenaiva krameṇa</foreign> is rendered by the expression “use this very procedure”.</note>
+                      between the monasteries of Śiṣīpuñja <supplied reason="subaudible">and of Śrīgohālī</supplied> <!--śiṣīpuñja<gap reason="lost" unit="character" quantity="9"/>vihāra-dvayaṁ : sinon je ne comprends pas l'accusatif ici je le prends en adv cf MW  ) je remplace ici Madhyamasr̥gālikā par Śrīgohālī pour suivre la logique de l'autre partie d'inscription -->
+                     [and] for the triple monasterie <!-- <gap reason="lost" unit="character" quantity="4"/>vihāra-trayasya: genitif adverbal Renou 222, D,b  p307 pour? -->
+                     <supplied reason="subaudible">called...?</supplied> whose ornament <!--emendation maṇḍana? --> is made by a brāhmaṇa (?) (<!--brāhmaṇā <gap reason="lost" unit="character" quantity="2"/>ṇḍanakār<unclear>i</unclear>taka-vihāra : j'avoue qu'ici le texte lacunaire pose pb on traya- et deux fois vihaara ce qui n'est pas très logique... -->)
+                     at Grāmakūṭagohālī
+                         <supplied reason="subaudible">which is</supplied> superintended <!--adhiṣṭhitāyāṁ : se rapporte à Grāmakūṭagohālī-->
+                     by a couple of ascetics <supplied reason="explanation"><foreign>kṣamaṇa</foreign></supplied> masters, Jinadāsa and Karṇaka, <!--kṣamaṇācāryya-jinadāsa-karṇṇakābhyām : j'ajoute "a couple of" pour rendre le duel-->
+                     so that there is a regular performance of <!-- traduction du datif de destination pravarttanāya par une subordonnée introduite par so that --> 
                      <supplied reason="explanation">offerings of</supplied> perfume, incense, flowers,
                      lamps, grain oblation <supplied reason="explanation"><foreign>bali</foreign></supplied>, 
                      rice oblation <supplied reason="explanation"><foreign>caru</foreign></supplied>, 
-                     food oblation <supplied reason="explanation"><foreign>nivedya</foreign></supplied>, etc., (gandha-dhūpa-sumano-dīpa-bali-caru-nivedyādi-pravarttanāya)
-                     to the venerable Arhants (bhagavatām arhatāṁ) 
-                     at Grāmakūṭagohālī (grāma-kūṭagohālyāṁ)
-                     [which is located] between the monasteries of Śiṣīpuñja <supplied reason="subaudible">and Madhyamasr̥gālikā</supplied> (śiṣīpuñja<gap reason="lost" unit="character" quantity="9"/>vihāra-dvayaṁ) (sinon je ne comprends pas l'accusatif ici je le prends en adv cf MW )
-                     (and which is) superintended (adhiṣṭhitāyāṁ)
-                     by a couple of ascetics <supplied reason="explanation"><foreign>kṣamaṇa</foreign></supplied> masters, Jinadāsa and Karṇaka, (kṣamaṇācāryya-jinadāsa-karṇṇakābhyām)
-                     
-                     coming from the triple monasterie ....[called...?] (<gap reason="lost" unit="character" quantity="4"/>vihāra-trayasya) (genitif adverbal Renou 222, B,d  p305 provenant de )
-                     whose ornament is made by a braahma.na ? (brāhmaṇā <gap reason="lost" unit="character" quantity="2"/>ṇḍanakār<unclear>i</unclear>taka-vihāra) 
-                     [and in order there is] an enjoyment (emend . upayogāya)
+                     food oblation <supplied reason="explanation"><foreign>nivedya</foreign></supplied>, etc., <!--gandha-dhūpa-sumano-dīpa-bali-caru-nivedyādi-pravarttanāya-->
+                     to the venerable Arhants <!--bhagavatām arhatāṁ -->
+                     [and so that there is] an enjoyment <!--selon emend . =upayogāya, traduction du datif par so that there is -->
                      for those  those who use their <supplied reason="explanation">cupped</supplied> hands as bowl 
-                 for morsels which were intended to be eaten by others, and others, (cany<unclear>ā</unclear>dyapiṇḍa-pānipātr̥kād<unclear>i</unclear>-bhojya-khaṇḍa-phuṭṭa-pratisaṁskārādy=)
-                     among the Nigranthaputras who have defeated past and future <supplied reason="explanation"><foreign>karman</foreign></supplied>  (nigrantha-putra-jitānāgatābhyāgatānān)
-                     resident there, (tanivāsināñ)
-                       
-                     
-                     [and be so kind ]
-                     to give (dātum l13) two <foreign>kulyavāpa</foreign>s of waste land yielding no tax (Apratikarakhilakṣettrasya kuvāpadvayaṃ)
-                     (divided) as follows (evam l12),
-                     a half <foreign>kulyavāpa</foreign> of waste land at Śiṣīpuñja, (śiṣīpuñja-khila-kṣettras<unclear>y</unclear>ār<unclear>ddha</unclear>-kulyavāpaṁ)
-                     a <foreign>kulyavāpa</foreign> of waste land at Madhyamasr̥gālikā, (maddhyamasr̥gālikāya khila-kṣattresya kulyavāpaṁ)
-                     a half <foreign>kulyavāpa</foreign> of waste land at Grāmakūṭagohālī (grāmakūṭa<unclear>go</unclear>hālyāṁ <unclear>khila</unclear>-<supplied reason="lost">kṣe</supplied>ttrasyārddha-kulyavāpaṁ), 
-                     after taking from me four <foreign>dīnāra</foreign>s (matto dīnāra catuṣṭayaṁ gr̥hītvā)
-                     
-                     -->
+                     for morsels which were intended to be eaten by others, and others, <!--cany<unclear>ā</unclear>dyapiṇḍa-pānipātr̥kād<unclear>i</unclear>-bhojya-khaṇḍa-phuṭṭa-pratisaṁskārādy=-->
+                     among the Nigranthaputras who have defeated past and future <supplied reason="explanation"><foreign>karman</foreign></supplied> <!---->
+                     resident there, <!--tanivāsināñ-->
+                     [and be so kind] <supplied reason="explanation">arhatha l.5</supplied> <!-- répétition qui me semble nécessaire pour structurer la phrase et la rendre compréhensible -->
+                     to give <supplied reason="explanation">dātum l.13</supplied>
+                     two <foreign>kulyavāpa</foreign>s of waste land yielding no tax <!--Apratikarakhilakṣettrasya kuvāpadvayaṃ-->
+                     <supplied reason="explanation">divided</supplied> as follows <supplied reason="explanation">evam l.12</supplied>,
+                     a half <foreign>kulyavāpa</foreign> of waste land at Śiṣīpuñja,<!--śiṣīpuñja-khila-kṣettras<unclear>y</unclear>ār<unclear>ddha</unclear>-kulyavāpaṁ-->
+                     a <foreign>kulyavāpa</foreign> of waste land at Madhyamasr̥gālikā,<!--maddhyamasr̥gālikāya khila-kṣattresya kulyavāpaṁ-->
+                     a half <foreign>kulyavāpa</foreign> of waste land at Grāmakūṭagohālī, <!--grāmakūṭa<unclear>go</unclear>hālyāṁ <unclear>khila</unclear>-<supplied reason="lost">kṣe</supplied>ttrasyārddha-kulyavāpaṁ--> 
+                     after taking from me four <foreign>dīnāra</foreign>s.<!--matto dīnāra catuṣṭayaṁ gr̥hītvā-->
+                     </q>
+                     </p>
+                 <p n="13-16">
+                     <q>Wherefore, <!-- (ya)taḥ -->
+                         after confirmation through an investigation <!-- [°ava]dhā(ra)ṇa(y)[ā](vadhr̥tya) -->
+                          by the first <supplied reason="explanation"><foreign>prathama</foreign></supplied> record-keeper Śarva 
+                     and the primary <supplied reason="explanation">ādya</supplied> record-keepers Prīti, Viṣṇudhara,<!-- pourquoi pas Prītiviṣṇudhara ? Cela me semble étrange un nom composé d'un seul mot?  --> Jayadatta, Rāmadatta, Sudarśanaśrīdāsa and Bhavadāsa, <!-- (p)rathamapustapālaśarvvādyapu(s)[ta](14)pāla(prī)tiviṣṇ(u)dharajayadattarāmadattasudarśaṇaśrīdāsabhavadāsānāṁ -->
+                     and after having taken in cash four <foreign>dīnāra</foreign>s from the side of Nāgavasu, <!-- nāgavaso(ḥ) sakāśād dīnāracatuṣṭayam āy(ī)(16)kr̥tya -->
+                     <supplied reason="explanation">the two <foreign>kulyavāpa</foreign>s</supplied> must be given.</q> <!-- dīyatām iti  -->
+                 <note>I tentatively presume that this second quotation terminated by <foreign>iti</foreign> still forms part of the petition that began in line 3.</note>
+                 </p>
+                 <p n="16-24">
+                      And <supplied reason="subaudible">they inform that</supplied> <supplied reason="explanation"><foreign>bodhayanti</foreign> l.3</supplied> <!-- pour moi le ca est à contruire avec le bodhayanti l.3 : ils informent que Nagavasu blablabla, ce qui a amené à une confirmation des record-keeper et que les 2 kulyavapa doivent être donnés  --> 
+                     the two <foreign>kulyavāpa</foreign>s of waste land without revenue charges and yielding no tax — precisely <supplied reason="explanation">evam</supplied> <supplied reason="explanation">made of</supplied> <!-- °evaṁ samudayabāhyāpratikarakhilakṣettrasya kulyavāpadvayaṁ da-->
+                 a half <foreign>kulyavāpa</foreign> of waste land at Śiṣīpuñja, <!-- śiṣīpuñjakhilakṣettrasyārddhakulyavāpa -->
+                 a <foreign>kulyavāpa</foreign> of waste land at Madhyamasr̥gālikā <!-- maddhyamasr̥(21)gālikāyāṁ khila(kṣ)ettrasya kulyavāpaṁ -->
+                 <supplied reason="explanation">and</supplied> a half <foreign>kulyavāpa</foreign> of waste land at Grāmakūṭagohālī — <!-- grāmakūpagohālyāṁ khilakṣettrasyārddhakulya(22)vāpaṁ -->
+                 for the regular performance of <supplied reason="explanation">offerings of</supplied> perfume, incense, flowers, 
+                 lamps, grain oblation, rice oblation, food oblation, etc.,  <!-- gandha(18)dhūpasumanodīpabalicarunivedyādipravarttanāya  -->
+                 to the venerable Arhants <!-- bhaga(va)tām arhatāṁ  -->
+                 at the three monasteries at Śiṣīpuñja, Śrīgohālī
+                 <note>Note that this toponym, also found in the <ref target="DHARMA_INSBengalCharters00050.xml">fragment from Baigram</ref> and the <ref target="DHARMA_INSBengalCharters00049.xml">Baigram plate</ref>, here takes the place of Madhyamasr̥gālikā.</note> 
+                 and Grāmakūṭagohālī, <!-- śiṣīpuñjaśrīgohālīgrāmakūṭagohālyāñ ca vihāratrayy[āṁ] -->
+                 superintended by the ascetic masters Jinadāsa and Karṇaka, <!-- kṣamanācāryyajinadāsaka(r)ṇṇakābhyāṁm adhiṣṭhit(ayo) -->
+                 and for the sake of food for those who use their <supplied reason="explanation">cupped</supplied> hands as bowl 
+                 for morsels which were intended to be eaten by others, <!-- cā[n]y(ā)dyapiṇḍapānipāt(r̥)kādibhojyakhaṇḍa(20)phuṭṭapratisaṁskārādyarttha  -->
+                 and others, among the Nigranthaputras 
+                 who have defeated past and future <supplied reason="explanation"><foreign>karman</foreign></supplied> resident there, <!-- nigranthaputrajitānā(19)gatabhyāgatānān tanivāsināñ  -->
+                 as well as repairs, etc., of what is broken into pieces, 
+                 are to be given <!-- dātavyām -->
+                 by you to the three monasteries, <!-- yuṣmābhiḥ + vihāratra(ya) (vihāratrayyāṁ?) -->
+                 after you have separated them off with sixfold reeds <supplied reason="explanation"><foreign>ṣaṭkanala</foreign></supplied> <!-- ṣaṭkanalair apavi(24)ñ(cch)ya -->
+                 in a place that does not conflict with your own cultivation, <!-- svakarṣaṇāvirodhisthāne -->
+                 and are to be protected in perpetuity in accordance with the law on permanent endowments.<!-- akṣayanīvīdharmmeṇa ca śaśvatkālam anupālyam iti -->
+                 </p>
              </div>
          </div>
          <div type="commentary">           

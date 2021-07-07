@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baigram Charter of the Time of Kumāragupta I</title>
+            <respStmt>
+               <resp>Original EpiDoc Encoding for Siddham</resp>
+               <persName ref="part:daba">
+                  <forename>Dániel</forename>
+                  <surname>Balogh</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Conversion of encoding for DHARMA</resp>
+               <persName ref="part:daba">
+                  <forename>Dániel</forename>
+                  <surname>Balogh</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>EpiDoc encoding for DHARMA of parts not yet encoded for Siddham</resp>
+               <persName ref="part:amwb">
+                  <forename>Amandine</forename>
+                  <surname>Wattelier-Bricout</surname>
+               </persName>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:daba">
+                  <forename>Dániel</forename>
+                  <surname>Balogh</surname>
+               </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Cambrai</pubPlace>
+            <idno type="filename">DHARMA_INSBengalCharters00049</idno>
+            <!-- <idno type="filename">IN00061</idno> : The Siddham ID is repoduced in <altIdentifier> -->
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Dániel Balogh &amp; Arlo Griffiths.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <altIdentifier type="Siddham"><!--<idno type="filename">IN00061</idno> : The Siddham ID -->
+                     <idno type="filename">DHARMA_INSBengalCharters00049</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:amwb" when="2021-07-06" status="draft">Import of Siddham file IN00061 and started initial encoding with Arlo’s remarks</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+		<body>
+			<div type="edition" xml:lang="san-Latn">
+<p><pb n="1r"/><lb n="1"/>svasti<!-- daba : <supplied reason="subaudible">.</supplied> amwb: I deleted this punctuation mark which seems to come from an earlier edition and not from the plate --> pañcanagaryyā bhaṭṭāraka-pādānuddhyātaḥ kumārāmātya-kulavr̥ddhir etad-viṣayādhikaraṇañ ca<!-- 
+daba : Edition based on Basak (B), Sircar (SI) and Agrawala, revised on the basis of the photo at http://museumsofindia.gov.in/repository/record/nat_del-66-1-551, in which many details are much clearer than in the early rubbings. 
+--><!-- daba-siddham: 
+L1. Agrawala prints °dhyātaḥ, a typo; B correctly has °ddhyātaḥ. 
+--><lb n="2"/>vāyigrāmika-trivr̥t<choice><sic>a</sic><corr>ā</corr></choice>-śrīgohālyoḥ brāhmaṇottarān samvyavahāri-pramukhān grāma-kuṭumbinaḥ <space/> kuśalam anu<lb n="3" break="no"/>varṇya bodhayanti<!--daba-siddham: <supplied reason="subaudible">.</supplied> amwb : deleted because I understand that we don't restaure punctuation mark, but I am not sure because here Arlo notes a space not encoding by Daniel--> <space/> <choice><sic>vijñāpayator atraiva</sic><corr>vijñāpayato ’traiva</corr></choice>-vāstavya-kuṭumbi-bhoyila-bhāskarāv<!--daba : <supplied reason="subaudible">.</supplied> amwb: I deleted this because according to my understanding of EGD4.2.4, we have to only encode punctuation mark readible on plates and we don't restaure punctuation for a better understanding of the text. Is it correct? --> āvayoḥ pitrā śivanandi<lb n="4" break="no"/>nā kāritaka-bhagavato govindasvāminaḥ deva-kulas tad asāv alpa-vr̥ttikaḥ<!--daba : <supplied reason="subaudible">.</supplied> amwb : deleted as before--> Iha viṣaye samudaya-<!-- 
+daba-siddham: Not sure about kāritaka. B and Agrawala print the ta as unclear and the ka as clear (Agrawala then emends to kāritakaḥ). Both are quite indistinct in my facsimiles, but other solutions seem equally plausible: 1. read kāritaḥ, with a scratch on the plate between the dots of the visarga; 2. read kārito, followed by a malformed character; 3. combine these two and assume first-hand correction from kāritaḥ to kārito: the indistinctness of the o mātrā of the t would then be explained by its being a later addition, and the scratch across the visarga could be a deletion mark. Note though that -svāminaḥ devakulas is not corrected later on in the same line. 
+--><!-- 
+daba : B and Agrawala both correct devakulas to devakulam and all adjectives and the pronoun to neuter. This seems like over-correction to me. 
+--><lb n="5"/>bāhyādy-astamva<!-- amwb : here I corrected astamba by Arlo's reading -->-khila-kṣ<choice><sic>a</sic><corr>e</corr></choice>ttr<choice><sic>a</sic><corr>ā</corr></choice>ṇām akiñcit-pratikarāṇāṁ śaśvad-<!-- amwb : here I removed the space and replaced it by an hyphen-->ācandrārkka-tāraka-bhojyānā<sic>ṁm</sic> akṣaya-nīvyā<!-- daba-siddham:
+L5. SI says ādyastamba means "covered with original shrub, i.e. fallow". I don't find this very convincing and I'm inclined to think astamba means not planted with grain, or perhaps without grass (for grazing), but the whole expression seems rather uncertain; in my interpretation, the ādi is a bit unexpected. 
+--><!-- 
+daba : L5. B and SI both read kṣettrāṇām, but I see no trace of e and ā mātrā in the very clear photograph. 
+--><!-- 
+daba : L5. The anusvāra in bhojyānāṁm may have been deleted. 
+--><lb n="6"/>dvi-dīnārikkya-kulya-vāpa-vikkrayo ’nuvr̥ttas<!--daba : <supplied reason="subaudible">.</supplied> amwb : removed as before--> tad arhathāvayos sakāśāt ṣ<choice><sic>ī</sic><corr>a</corr></choice>ḍ dīnārān aṣṭa ca rūpakān āyī<!-- 
+daba : L6. B and SI read ṣaḍ; the plate clearly has ṣīḍ. Must be a sort of eyeskip with ḍdī. 
+--><lb n="7" break="no"/>kr̥tya bhagavato govindasvāmino deva-kule khaṇḍa-phuṭṭa-pratisaṁsk<choice><sic>a</sic><corr>ā</corr></choice>ra-karaṇāya <space type="descender"/> gandha-dhūpa-dīpa-<!-- 
+daba : L7. The word phuṭṭa seems to be a Prakritism for sphuṭita (Basak). See also the same word in IN00056 and IN00062. 
+--><lb n="8"/>sumanasā<supplied reason="omitted">ṁ</supplied> pravarttanāya ca trivr̥tāyām bhogilasya khila-kṣettra-kulyavāpa-trayaṁ <space type="descender"/> śrīgohālyā<choice><sic><unclear>ś</unclear></sic><corr>m</corr></choice> Api<!-- 
+daba : L8. The spelling of the name is bhogila here, but bhoyila in lines 3 and 14. 
+--><!-- 
+daba : L8. B and SI read °gohālyāścāpi, emending to gohālyāñ cāpi. But the photo shows the character clearly: there is neither a subscript v, nor an ā mātrā here, only a śa, with the top stroke extended on the left toward the ā of lyā. This may have been meant as correction from śa to ma, transforming the top stroke into a headmark. The right descender does not seem to have been deleted or corrected. 
+--><!-- 
+amwb : I changed api in Api according to Arlo's reading	-->
+	<lb n="9"/>tala-vāṭakār<unclear>t</unclear>tha<supplied reason="omitted">ṁ</supplied> sthala-vāstuno droṇa-vāpa<choice><sic>p</sic><corr>m</corr></choice><!--daba :<unclear>m</unclear>--> ekaṁ <space/> bhāskarasyāpi sthala-vāstuno droṇa-vāpañ ca dātu<!-- 
+daba : L9. The t of rttha (read as rtha by B and SI) is malformed, missing the side stroke. Still, the long stem was definitely meant to be t, and th is subscript. 
+--><!-- 
+daba : L9. me is also malformed, with a body shaped much like p, but a headmark on the right vertical. 
+--><lb n="10" break="no"/>m iti<!--daba : <supplied reason="subaudible">.</supplied> amwb :removed as before--><space/>
+<!--daba-siddham: </p> amwb: removed for dharma edition-->
+<!--daba-siddham: <p> amwb: removed for dharma edition-->yato yuṣmān bodhayāma<supplied reason="omitted">ḥ</supplied><!--daba : <supplied reason="subaudible">.</supplied> amwb: removed as before--><space/> pustapāla-durgg<unclear>ā</unclear><!-- 
+amwb : added unclear -->
+dattārkkadāsayor avadhāraṇayā Avadhr̥ta<lb n="11" break="no"/>m astīha-<!-- 
+amwb: replace a space by an hyphen-->viṣaye<!-- amwb: removed the <unclear>e</unclear> --> samudaya-bāhyādy-astamba-khila-kṣettrāṇā<supplied reason="omitted">ṁ</supplied> śaśvad-ācandrārkka-tāraka-bhojyānāṁ dvi-dī<lb n="12" break="no"/>nārikya-kulyavāpa-vikkrayo ’nuvr̥ttaḥ<!--daba : <supplied reason="subaudible">.</supplied> amwb : removed as before--> Evaṁ-vidhāpratikara-khila-kṣettra-vikkraye ca na kaścid rājārttha-
+<lb n="13"/>virodha Upacaya Eva <space/> bhaṭṭāraka-pādānāṁ dharmma-phala-ṣaḍ-bhāgāvāptiś ca<!--daba-siddham: <supplied reason="subaudible">.</supplied> amwb : removed as before and added a <space/>--><space/> tad dīyatām iti Etayoḥ <lb n="14"/>bhoyila-bhāskarayos sakā<supplied reason="omitted">śā</supplied>t ṣaḍ dīnārān aṣṭa ca rūpakān āyīkr̥tya bhagavato govindasvāmino
+<lb n="15"/>deva-kulasyārtthe bhoyilasya trivr̥tāyāṁ <space/> khila-kṣettra-kulyavāpa-trayaṁ tala-vāṭakādy-artthaM<!-- 
+daba : L15. The halanta M (obscured by a logo in the photo but clear in the rubbing) is a peculiar cursive form, looking like a la without a headmark. See also note to l17. 
+--></p>
+<p><pb n="1v"/><lb n="16"/>śrīgohālyā<supplied reason="omitted">ṁ</supplied> sthala-vāstuno droṇa-vāpaṁ <space/><!-- amwb: space added --> bhāskarasyāpy atrai<!--daba : <choice><sic>ī</sic><corr>ai</corr></choice> removed -->va sthal<choice><sic>i</sic><corr>a</corr></choice>-v<choice><sic>a</sic><corr>ā</corr></choice>stuno droṇa-vāpa<!-- 
+daba : L16. B, SI: atraiva; sthale 
+--><!-- 
+daba : On the facsimile, the text °syāpyatraivasthaleva° seems to be a different hand: the lines are thinner, and the characters are more widely spaced. Note also that this bit contains two spelling mistakes. Is this ancient correction/forgery/filling up of a space left empty? It could be just a random difference in spacing and state of preservation. 
+--><lb n="17" break="no"/>m<!--daba-siddham: </p> amwb: removed for dharma edition-->
+<!--daba-siddham: <p> amwb: removed for dharma edition-->eva<supplied reason="omitted">ṁ</supplied> kulyavāpa-trayaṁ sthala-droṇa-vāpa-dvayañ ca <space/> Akṣaya-nīvyās<!--daba : <choice><sic>nīvyās</sic><corr>nīvyā</corr></choice> amwb : not specified in Arlo's apparat--> tāmra-paṭṭena dattaM<!--daba : <supplied reason="subaudible">.</supplied> amwb: removed as before--> ninna<!-- 
+daba : L17. The halanta M has the same strange form as in l15 above. 
+--><!-- 
+daba : L17. B, SI note that that ninna is either a Prakritism (compare phuṭṭa in l7 above) or a spelling mistake for nimna, perhaps meaning low-lying land as opposed to sthala. 
+--><lb n="18"/>ku <num value="3">3</num> sthala-dro <num value="2">2</num>
+<!--daba-siddham: </p> amwb: removed for dharma edition-->
+<!--daba-siddham: <p> amwb: removed for dharma edition-->te yūyaṁ sva-karṣaṇāvirodhi-sthāne darvvīkarmma-hastenāṣṭaka-navaka-naḷābhyā<!-- 
+daba : Basak notes that instead of te yūyaṁ the Paharpur plate (%IN00065) has tad yūyaṁ, which he deems better. 
+--><lb n="19" break="no"/>m apaviñcchya <space type="descender"/> cira-kāla-sthāyi-tuṣāṅgār-ādinā cihnaiś cāturddiśo niyamya dāsyathākṣaya-<!-- 
+daba : L19. Basak and Agrawala correct ādinā to ādīnāṁ, but a genitive would look strange to me; I'd expect ādibhiś and assume the single instrumental is a mistake for that. Cf. also l14 of the Nandapur plate (%IN00133), where °ādi is compounded to cihnaiś. 
+--><lb n="20"/>nīvī-dharmme<choice><sic>n</sic><corr>ṇ</corr></choice>a ca śaśvat-kālam anupālayiṣyatha <space/><!-- amwb : added space --> varttamāna-bhaviṣyaiś ca saṁvyavahāryy-ādibhir eta<lb n="21" break="no"/>d dharmmāpekṣayānupālayitavyam iti<supplied reason="subaudible">.</supplied> <!--daba : <space/> amwb : removed because not specified by Arlo--> Uktañ ca bhagava<supplied reason="omitted">tā</supplied> veda-vyāsa-mahātmanā<supplied reason="subaudible">.</supplied><space/><!-- 
+daba : Basak corrects bhagava to bhagavad (in comp with vedavyāsa). I follow Agrawala (Sircar?) and emend to bhagavatā, which seems more in line with other versions of this phrase. 
+--><!--daba-siddham: </p> amwb: removed for dharma edition-->
+<lg n="1" met="anuṣṭubh">
+<l n="a">sva-dattāṁ para-dattāṁ <lb n="22"/>v<surplus>v</surplus>ā</l>
+<l n="b">yo hareta vasundharāṁ<unclear>|</unclear><!-- 
+daba : L22. The punctuation character (if it is one) is a curved line slanting from top left to bottom right and bulging to top right. Its top is at the bottom of the ā mātrā; its bottom is a bit above the bottom of the r's descender. There is no punctuation in the subsequent verses. Still, this doesn't seem to be a halanta M. 
+--></l>
+<l n="c">sa viṣṭhāyāṁ k<sic>ri</sic>mir bhūtvā</l>
+<l n="d">pitr̥bhis saha pacyate<space/></l>
+</lg>
+<lg n="2" met="anuṣṭubh">
+<l n="a">ṣaṣṭiṁ varṣa-saha<lb n="23" break="no"/>srāṇi</l>
+<l n="b">svargge modati bhūmidaḥ<space/></l>
+<l n="c">Ākṣeptā cānumantā ca</l>
+<l n="d">tāny eva narake vaseT<!-- 
+daba : L23. The halanta T is a cursive subscript character resembling a ga. 
+--></l>
+</lg>
+<lg n="3" met="anuṣṭubh">
+<l n="a">pūrvva<lb n="24" break="no"/>-dattāṁ dvijātibhy<choice><sic>ā</sic><corr>o</corr></choice></l>
+<l n="b">yatnād rakṣa yudhiṣṭhira<space/></l>
+<l n="c">mahī<supplied reason="omitted">ṁ</supplied> mah<sic>i</sic>matāṁ śreṣṭha</l>
+<l n="d">dānāc chreyo nupāla<lb n="25" break="no"/>nam</l>
+</lg>
+iti<supplied reason="subaudible">.</supplied> saṁ <num value="128"><g type="numeral">100</g> <g type="numeral">20</g> 8</num> māgha di <num value="19"><g type="numeral">10</g> 9</num>
+</p>
+			</div>
+				<div type="apparatus">
+			<listApp>
+				<app loc="line">
+				<lem/>
+				<rdg source="bib:AuthorYear_01"/>
+				</app>
+			</listApp>
+		</div>
+		<div type="translation" xml:lang="eng">
+		</div>
+		<div type="commentary">
+		</div>
+		<div type="bibliography">
+			 <p>Re-edited by Arlo Griffiths, using photos furnished by Ryosuke Furui.</p>
+        	<listBibl type="primary">
+				<bibl n="B"><ptr target="bib:Basak1931-1932_01"/></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+               <bibl><ptr target="bib:ARASI1937_01"/><citedRange unit="page">42</citedRange></bibl>
+        	    <bibl><ptr target="bib:ARIE1956-1957"/><citedRange unit="entry">A.15</citedRange><citedRange unit="page">27</citedRange></bibl>
+        	    <bibl><ptr target="bib:ARIE1961-1962"/><citedRange unit="entry">A.22</citedRange><citedRange unit="page">38</citedRange></bibl>
+               <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="page">296</citedRange><citedRange unit="item">no. 2114</citedRange></bibl>
+               <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="item">III</citedRange><citedRange unit="entry">no. 41</citedRange><citedRange unit="page">355-9</citedRange><citedRange unit="figure">pl. L–LI</citedRange></bibl> 
+        	    <bibl><ptr target="bib:Agrawala1983_01"/><citedRange unit="entry">29</citedRange></bibl>
+        	    <bibl><ptr target="bib:Goyal1993_01"/><citedRange unit="page">183-8</citedRange></bibl>
+			</listBibl>
+		</div>
+		</body>
+	</text>
+</TEI>
