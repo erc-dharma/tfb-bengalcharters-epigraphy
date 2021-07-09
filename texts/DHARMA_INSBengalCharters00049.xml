@@ -156,7 +156,7 @@ n="18"/>ku <num value="3">3</num> sthala-dro <num value="2">2</num>
 <p>te yūyaṁ sva-karṣaṇāvirodhi-sthāne darvvīkarmma-hastenāṣṭaka-navaka-naḷābhyā<!-- 
 daba : Basak notes that instead of te yūyaṁ the Paharpur plate (%IN00065) has tad yūyaṁ, which he deems better. 
 --><lb 
-n="19" break="no"/>m apaviñcchya <space type="descender"/> cira-kāla-sthāyi-tuṣāṅgār-ādinā cihnaiś cāturddiśo niyamya dāsyathākṣaya-<!-- 
+n="19" break="no"/>m apaviñcchya <space type="descender"/> cira-kāla-sthāyi-tuṣāṅgārādinā cihnaiś cāturddiśo niyamya dāsyathākṣaya-<!-- 
 daba : L19. Basak and Agrawala correct ādinā to ādīnāṁ, but a genitive would look strange to me; I'd expect ādibhiś and assume the single instrumental is a mistake for that. Cf. also l14 of the Nandapur plate (%IN00133), where °ādi is compounded to cihnaiś. 
 --><lb 
 n="20"/>nīvī-dharmme<choice><sic>n</sic><corr>ṇ</corr></choice>a ca śaśvat-kālam anupālayiṣyatha <space/><!-- amwb : added space --> varttamāna-bhaviṣyaiś ca saṁvyavahāryy-ādibhir eta<lb 
@@ -325,12 +325,12 @@ amwb: replace a space by an hyphen-->viṣaye<!-- amwb: removed the <unclear>e</
 				</app>
 				<app loc="18">
 					<lem></lem>
-					<note>In EI<!-- amwb: EI=? -->, one reads this note: <q>The Paharpur plate gives tad- instead te (l. 19) which is a much better reading.—Ed.</q>. But the precise collocation <foreign>te yūyaṁ</foreign> is also found in the <ref target="DHARMA_INSBengalCharters00039.xml">Mahatī-Raktamālā</ref> (line 20) and <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur</ref> (line 13) plates. <!-- amwb: I added the lines -->
+					<note>In <bibl><ptr target="bib:Basak1931-1932_01"/></bibl><!-- amwb : check that EI is really this bibl ref -->, one reads this note: <q>The Paharpur plate gives <foreign>tad</foreign>- instead <foreign>te</foreign> (l. 19) which is a much better reading.—Ed.</q>. But the precise collocation <foreign>te yūyaṁ</foreign> is also found in the <ref target="DHARMA_INSBengalCharters00039.xml">Mahatī-Raktamālā</ref> (line 20) and <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur</ref> (line 13) plates. <!-- amwb: I added the lines -->
 </note>
 				</app>
 				<app loc="19">
 					<lem>-sthāyi-tuṣāṅgār-ādinā</lem>
-					<note>Correct -<foreign>sthāyituṣāṅgārādināṁ</foreign> or -<foreign>sthāyituṣāṅgārādi</foreign>- (thus <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur</ref>, line 14)? The latter option is reflected in the translation. <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads -<foreign>sthāyi</foreign>-</note>
+					<note>Correct -<foreign>sthāyituṣāṅgārādināṁ</foreign> or -<foreign>sthāyituṣāṅgārādi</foreign>- (thus <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur</ref>, line 14)? The latter option is reflected in the translation. <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads -<foreign>sthāyi</foreign>-.</note>
 				</app>
 				<app loc="19">
 					<lem>cāturddiśo</lem>
@@ -371,13 +371,17 @@ amwb : I added in Bogrā district, detail specified in Sircar's note
 Panchanagar, substrict Kushmundi, dt. Dakshin Dinajpur, West Bengal, India, which seems a safe identification for Pañcanagarī.
 </note> 
 	the princely advisor Kulavr̥ddhi, 
-	favored by the feet of His Majesty the <supplied reason="explanation">Gupta</supplied> Sovereign,<note>
+	favored by the feet<!-- 
+amwb : it is interesting to note that one can find this expression in <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref> line 1 : <foreign>paramabhaṭṭāraka-pādānuddhyātaḥ kumārāmātya-yūthapatir</foreign> 
+	--> of His Majesty the <supplied reason="explanation">Gupta</supplied> Sovereign,<note>
 According to the table in <bibl><ptr target="bib:Willis2005_01"/><citedRange unit="page">135</citedRange></bibl>, Kumāragupta’s reign lasted till 477, after which date we enter Skandagupta’s reign.
 </note> 
 	and the council of this district, 
 	greet the village tenants of <supplied reason="subaudible">the hamlets</supplied> Trivr̥tā and Śrī-Gohālī of <supplied reason="subaudible">the village</supplied> Vāyigrāma<!-- 
 amwb: it would be interesting to indicate in note that Vāyigrāma is mentioned in <ref target="DHARMA_INSBengalCharters00032.xml">Damodarpur #3</ref>, line 9 (see <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">342</citedRange><citedRange unit="note">6</citedRange></bibl>).  --> 
-	— the most eminent among them being the Brahmins, 
+	— the most eminent among them being the Brahmins,<!-- 
+amwb: here as in BC 39, BC57 and BC51, uttara ifc means "followed by" or "consisting of" MW p.178 col1 and Apte p.408 n°8...see "consisting chiefly of Brahmins" Apte p.1174) in this case, this means that landholders are brahmins?
+	--> 
 	led by the administrator <supplied reason="explanation"><foreign>saṁvyavahārin</foreign></supplied> — 
 	and inform them:
 </p>
@@ -387,14 +391,18 @@ Presumably in Vāyigrāma.
 </note> 
 respectfully request:</p>
 <p>This temple of Lord Govindasvāmin, 
-founded by our father Śivanandin, 
-has limited means. 
+founded by our father Śivanandin,<!-- 
+amwb : I am wondering if "father" is a honorific denomination or not. If not, it is interesting to note that the request is made by two brothers and raises the question of inheritance of a temple --> 
+has limited means. <!-- 
+amwb : here it seems that the "tad" is not translated: "this temple" = devakulas + asāv. Considering Daniel's remark (daba : B and Agrawala both correct devakulas to devakulam and all adjectives and the pronoun to neuter. This seems like over-correction to me.), it would be necessary to add a note about this textual problem "devakulas tad asāv alpavr̥ttikaḥ" or understand "tad" as a logical connector and translate by two sentences "this temple has been founded by our father, thus (tad) it has limited means". In this way, I understand that the temple has limited means because his founder had a limited wealth or because this foundation results from an individual initiative ? 
+-->
 In this district, 
 the custom is sale for two <foreign>dīnāra</foreign>s of one <foreign>kulyavāpa</foreign> 
 of uncultivated land that is without revenue charges, 
 covered with original shrubs,<note>
 See <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">343</citedRange><citedRange unit="note">4</citedRange></bibl> for this interpretation of <foreign>ādya-stamba</foreign>.<!-- 
-amwb : I am wondering if ādya-stamba is not used to explain why the land is waste or uncultivated. It could be translated by " uncultivated land, because originally covered by shrubs, that is without revenue charges". Maybe this particular state odof the land explains why the expression <foreign>samudaya-bāhyādyastamba-khila-kṣettra</foreign> (l.4-5 and l.11) is quite unique in the corpus of inscriptions (the expressions <foreign>samudaya-bāhyāpratikara-khila-kṣetra</foreign> (BC39l.5,17,20; BC57 l.18, 19) or <foreign>samudaya-bāhyāprada-khila-kṣetra</foreign> (BC32 l.5) seem to be more usual)-->
+amwb : I am wondering if ādya-stamba is not used to explain why the land is waste or uncultivated. It could be translated by " uncultivated land, because originally covered by shrubs, that is without revenue charges". Maybe this particular state of the land explains why the expression <foreign>samudaya-bāhyādyastamba-khila-kṣettra</foreign> (l.4-5 and l.11) seems less common in the corpus of inscriptions than the expressions <foreign>samudaya-bāhyāpratikara-khila-kṣetra</foreign> (BC39l.5,17,20; BC57 l.18, 19) or <foreign>samudaya-bāhyāprada-khila-kṣetra</foreign> (BC32 l.5). Note we can also read the expression <foreign>samudaya-bāhyādyastamba-khila-kṣettra</foreign> in BC54 Nandapur l.5 and 8-9 
+-->
 </note>
 and yields no tax, 
 as permanent endowment to be enjoyed in perpetuity 
@@ -402,54 +410,86 @@ as long as the moon, the sun and the stars <supplied reason="subaudible">will la
 Thus <supplied reason="explanation">tad</supplied>, 
 be so kind as to take from us in cash <supplied reason="explanation"><foreign>āyīkr̥tya</foreign></supplied><note>
 <foreign>āyīkr̥tya</foreign> is derived from <foreign>āya</foreign> in the sense of ‘income’, so ‘having made income from …’.
-</note> 
+</note><!-- amwb:  can be found in Kalaikuri Copper-plate of Kumāragupta I line 20 + Paharpur plate line 18 + Damodapur Plate #3 
+-->
 six <foreign>dīnāra</foreign>s and eight <foreign>rūpaka</foreign>s 
 and — for the purpose of carrying out the repairs of breaches <supplied reason="explanation"><foreign>khaṇḍa</foreign></supplied> and cracks <supplied reason="explanation"><foreign>phuṭṭa</foreign></supplied><note>
 Article <bibl><ptr target="bib:"/></bibl>von Hinüber<!-- 
-amwb : To be completed with the good reference-->. Originally Buddhist terms used in Vaiṣṇava context! See also other trace of Prakrit as administrative language in <foreign>ninna</foreign> = <foreign>diṇṇa</foreign> l. 17.
-</note> in the temple of Lord Govindasvāmin, 
+amwb : To be completed with the good reference
+-->. Originally Buddhist terms used in Vaiṣṇava context! See also other trace of Prakrit as administrative language in <foreign>ninna</foreign> = <foreign>diṇṇa</foreign> l. 17.
+</note><!-- 
+amwb : Maybe also quote Sircar's note 6 p.343 "phu.t.ta as prakrit form for sphu.tita" which is in the same vein of argumentation ?  
+-->
+in the temple of Lord Govindasvāmin, 
 and for offerings of perfume, incense, lamps and flowers — give</p>
-			<list>
-				<item>in <supplied reason="subaudible">the hamlet</supplied> Trivr̥tā, to Bhogila, three kulyavāpas of uncultivated land;</item>
-				<item>and in <supplied reason="subaudible">the hamlet</supplied> Śrī-Gohālī, to serve as parcel adjacent <supplied reason="subaudible">to the temple</supplied>:<note>
-				Note on <foreign>talavāṭaka</foreign>: see IEG.<!-- amwb : To be completed with reference to IEG? -->
-				</note> one <foreign>droṇavāpa</foreign> of inhabitable terrain;
+			<list><!-- amwb: here each item of the list represent a part of gift, it could be also possible to follow another logic and put only two items one for bhogila and another for Bhāskara -->
+				<item>in <supplied reason="subaudible">the hamlet</supplied> Trivr̥tā, to Bhogila, three <foreign>kulyavāpa</foreign>s of uncultivated land;</item>
+				<item>and<!-- 
+amwb: maybe "as well as" / "and also", it seems to me that "and" is too flat and that "api" expresses something more; indeed they ask more than kulyavāpa, they want kulyavāpa and two droṇavāpa introduced both by "api" and not "ca" 
+				--> in <supplied reason="subaudible">the hamlet</supplied> Śrī-Gohālī, to serve as parcel adjacent<!-- 
+amwb : I am wondering if vāṭaka could be translated by a "garden" or "park" because plant trees or give a garden or a park planted by trees is a meritorious deed and such parks seem to be create alongside temples cf. Dharmanibandha compilation about trees. For exemple :
+- Brick 2009 The Dānakāṇḍa (“Book on Gifting”) of the Kṛtyakalpataru: 21.1 Deviipuraa.na " a man that is wise should establish a park in accordance with the rite seen in the prescribed rules"  + 21.21  wells, parks, tanks, pools, ponds, refuges, etc. yield endless reward
+- Brick 21.24 : Nandipuraa.na When a man builds a pleasure-park, a garden filled with flowers, that is equipped with a body of water, protected, and endowed with an abundance of fruits, he goes to the city of iva and dwells there for three Yugas.
+- Brick from 21.33 Matsyapuraa.na : a long description of rules "for establishing grounds for gardens"--> 
+					<supplied reason="subaudible">to the temple</supplied>, <!-- amwb: I replace ":" punctuation mark by a ","comma  --><note>
+				Note on <foreign>talavāṭaka</foreign>: see IEG.<!-- amwb : To be completed with reference to IEG? Is it Sircar's note 9p.343? In this note, he also suggests that talavāṭaka could design a class of persons serving in temples with ref to CIII, III, p.216-217   -->
+				</note> 
+one <foreign>droṇavāpa</foreign> of inhabitable terrain;<!-- 
+amwb: here it could be necessary to mention the different possibilities of translation of the compound sthalavāstuno. Indeed, this compound is quite unique (I didn't find any other occurrence). On siddham, it has been translated by "homestead land". 
+sthala : Apte give more meanings than MW : Apte p.1718 1. firm or dry ground, dry land 2.ground, land soil (in general) 4. place, spot 5. field, tract, district 6. station 7. a piece of raised ground, mound
+vaastu : Apte p.1421 : 1. the site of a house, building ground, site 2. a house an abode, an dwelling-place 3. a chamber
+As vaastu seems to connect with architecture when it is included in a compound, I suggest "building land" "building plot" "buildable area" ? in french "terre constructible"? 
+-->
 </item>
-				<item>and <supplied reason="subaudible">in the same hamlet</supplied> to Bhāskara: one droṇavāpa of inhabitable terrain.</item>
+				<item>and <supplied reason="subaudible">in the same hamlet</supplied> to Bhāskara,<!-- amwb : I replace ":" by "," --> one <foreign>droṇavāpa</foreign> of inhabitable terrain.<!-- 
+amwb : idem as before--></item>
 			</list>
-<p n="10-13">Wherefore we (Kulavr̥ddhi and the council) inform you:
+<p n="10-13">Wherefore we <supplied reason="explanation">Kulavr̥ddhi and the council</supplied> inform you:
 <q>It has been ascertained 
 	through the investigation of the record-keepers Durgādatta and Arkadāsa 
 	that the custom in this district is sale for two <foreign>dīnāra</foreign>s 
 	of one <foreign>kulyavāpa</foreign> of 
 	uncultivated land that is without revenue charges,covered with original shrubs,<!-- 
-	amwb: here make changes if we have changed something in l.5 about ādya-stamba-->
+	amwb: here make changes if we have changed something in l.5 about ādya-stamba
+	-->
 	to be enjoyed in perpetuity as long as the moon, the sun and the stars <supplied reason="subaudible">will last</supplied>. 
 	And in the sale of such uncultivated land that yields no tax 
 	there is no conflict with the interest of the king; 
 	there is only benefit, 
 	and obtainment by His Majesty the Sovereign of a sixth part of the merit <supplied reason="explanation">accruing from the donation</supplied>;<!-- 
-	amwb : perhaps add the reference to Yājñavalkya I.331 (Olivelle 2019, p.107) to explain why the king obtain this sixth part:
-	he (the king) takes a sixth portion of the merits by providing protection justly, because providing protection justly greater than all gifts 
-puṇyātṣaḍbhāgamādatte nyāyena paripālayan | sarvadānādhikaṁ yasmānnyāyena paripālanam ||331 . -->
+	amwb : to be more precise the sixth part of the ling accruing from his act of protection : 
+Usually the king takes a sixth of each transaction : cf Manusmrti 7.131-132 : olivelle's translation "He (ie. the King) shak also take a sixth share of trees, meat, honey, ghee, perfumes, herbs, condiments, flowers, roots, fruits, leaves, vegetables, grass, skins, cane, earthen vessels, and everything made of stone." But here as the land yields no tax, the benefit for the king is only meritorious and due to his act of protection. This understanding is also confirmed by the final stanzas which emphasises the act of protection. 
+So perhaps add in a note the reference to Yājñavalkya I.331 (Olivelle 2019, p.107) to explain why the king obtain this sixth part : 
+puṇyātṣaḍbhāgamādatte nyāyena paripālayan | 
+sarvadānādhikaṁ yasmānnyāyena paripālanam ||331
+he (the king) takes a sixth portion of the merits by providing protection justly, because providing protection justly greater than all gifts.  
+-->
 	so that it ought to be given</q>
 </p>
 <p n="13-18">After six <foreign>dīnāra</foreign>s and eight <foreign>rūpaka</foreign>s 
 	had been taken in cash 
-	from these two, Boyila and Bhāskara, 
+	from these two, Bhoyila and Bhāskara, 
 	for the purpose of the temple of Lord Govindasvāmin,
 </p>
 			<list>
-				<item>to Bhoyila, in <supplied reason="subaudible">the hamlet</supplied> Trivr̥tā, three <foreign>kulyavāpa</foreign>s of uncultivated land to serve as parcel adjacent <supplied reason="subaudible">to the temple</supplied> etc.;
+				<item>to Bhoyila, in <supplied reason="subaudible">the hamlet</supplied> Trivr̥tā, three <foreign>kulyavāpa</foreign>s of uncultivated land to serve as parcel adjacent <supplied reason="subaudible">to the temple</supplied> etc.<!-- 
+amwb : change parcel here if we change it by garden before 
+amwb : for the compound talavaṭakādyarttham and the meaning of ādi, here it seems to me that translate ādi by etc. does not fit very well because the text never mention another use of this land; maybe " to serve chiefly/mostly/mainly as garden adjacent (to the temple)" -->;
 </item>
 				<item>in <supplied reason="subaudible">the hamlet</supplied> Śrī-Gohālī,<!-- 
 amwb : maybe mention in a note the fact that this name is also present in BC50 Baigram fragment et BC55 Nāgavasu ? --> 
-					one <foreign>droṇavāpa</foreign> of inhabitable terrain;
+					one <foreign>droṇavāpa</foreign> of inhabitable terrain;<!-- amwb: change "inhabitable terrain" if we change it before -->
 </item>
-				<item>and in this very place to Bhāskara: one <foreign>droṇavāpa</foreign> of inhabitable terrain;
+				<item>and in this very place to Bhāskara, one <foreign>droṇavāpa</foreign> of inhabitable terrain;<!-- amwb: change "inhabitable terrain" if we change it before -->
+</item>
 </item>
 			</list>
-<p>in this way three <foreign>kulyavāpa</foreign>s and two droṇavāpas have been given with a copper plate for a permanent endowment. Low: 3 <foreign>ku<supplied reason="subaudible">lyavāpa</supplied></foreign>; inhabitable: 2 <foreign>dro<supplied reason="subaudible">ṇavāpa</supplied></foreign>.
+<p>in this way three <foreign>kulyavāpa</foreign>s and two <foreign>droṇavāpa</foreign>s have been given with a copper plate for a permanent endowment. Low:<!-- 
+amwb : I deduce that "low" translates "ninna", but here a note could be welcome and could mention that one could find explanations in the commmentary part; I understand that Arlo follows Sircar who follows Shastri's suggestion in his note 5 p.344 which understands ninna as a mistake for nimna. 
+Apte p. 903 nimna 1. plunged, dipped into, immersed, submerged 2. gone down, set (as the sun) 3. overhelmed, covered 4. depressed, not proeminent
+For my part, i have the feeling that nimna could here have the third meaning in order to refer to the qualification "ādyastamva = originally covered" rather than to "khilakṣettra" and I will translate by "covered <supplied reason="explanation">land</supplied> : 3 ku" or "bush(land) : 3 ku" , "buildable <supplied reason="explanation">land</supplied> 2 dro"
+--> 
+3 <foreign>ku<supplied reason="subaudible">lyavāpa</supplied></foreign>; inhabitable: 2 <foreign>dro<supplied reason="subaudible">ṇavāpa</supplied></foreign>.
 </p>
 <p n="18-21">You there <supplied reason="explanation">mentioned at the start of the grant</supplied> 
 shall separate them off using two reeds, 
@@ -459,7 +499,23 @@ A note is necessary on this translation. Predecessors have assumed Darvīkarma w
 in a place that does not conflict with your own cultivation; 
 shall limit them in the four directions 
 with long-lasting markers such as <supplied reason="explanation">pots filled with</supplied><note>
-This interpretation is based on the Smr̥ti passages cited in the commentary.
+This interpretation is based on the Smr̥ti passages cited in the commentary.<!-- 
+amwb : I am not sure that it is necessary to supply "pots filled with".
+See two references without pots 
+1. Manusmṛti here (Olivelle's translation):
+8.249 "Seeing that in the world controversies constantly arise due to people's ignorance of boundaries, he should also have other concealed boundary markers ensconced -8.250 stones, bones, cow's hair, chaff, ashes, potsherds, dried cow dung, bricks, coal (aṅgāra), pebbles, and sand. 
+upachannāni cānyāni sīmāliṅgāni kārayet |
+sīmājñāne nṛṇāṁ vīkṣya nityaṁ loke viparyayam || MDh 8.249 ||
+aśmano 'sthīni govālāṁs tuṣān bhasma kapālikāḥ |
+karīṣam iṣṭakāṅgārāṁś śarkarā vālukās tathā || MDh 8.250[M248] || 
+
+2. We can also quote Yājñavalkya 2.154-5 who uses nimna 
+sīmno vivāde kṣetrasya sāmantāḥ sthavirā gaṇāḥ |
+gopāḥ sīmnaḥ kṛśāno'nye sarve ca vanagocarāḥ || 154
+nayeyur ete sīmāntaṃ sthalāṅgāratuṣadrumaiḥ |
+setuvalmīkanimnāsthicaityādyair upalakṣitam || 155
+When there is a dispute regarding a boundary of a field, neighbors, elderly people, persons fro, an association, herdmen, others famers near the boundary, and all men roaming in the forest should ascertain the boundary revealed by mounds (sthala), charcoal (aṅgāra), chaff (tuṣa), and trees (druma), and by dikes (setu), anthills (valmīka), trenches (nimna), bones (asthan), shrines (caitya), and the like. 
+After writting this note, I realize that Sircar1965_02 (note 1p.345) had already quoted these passages (Manu + Yajna + Brhaspati quoted in the commentary)... so my contribution is only the addition of Olivelle's translation.-->
 </note> 
 chaff or charcoal; shall make the donation and shall protect it in perpetuity according to the rule of a permanent endowment. And out of deference to this rule it is to be protected by present and future administrators, etc.
 </p>
@@ -478,6 +534,35 @@ You, excellent Yudhiṣṭhira, must strenuously protect land previously given t
 <p n="25">Year 128, <supplied reason="explanation">month of</supplied> Māgha, day 19.</p>
 		</div>
 		<div type="commentary">
+			<p>Regarding the indication <foreign>ninna ku 3 sthala dro 2 </foreign>(line 17), in <bibl><ptr target="bib:Basak1931-1932_01"/></bibl><!-- amwb: I am not sure that EI = Basak1931-1932_01--> one reads the following note: <cit><quote>This word (<foreign>ninna</foreign>) put before the abbreviated totalisation of the amount of land purchased does not appear to me explicable. [<foreign>Phuṭṭa</foreign> (= Skt. <foreign>sphuṭṭa</foreign>) in line 7 would suggest that it might stand for Skt. <foreign>nimna</foreign> meaning low land.—Ed.]</quote></cit>. The editor’s hypothesis is confirmed by the fact that <foreign>nimna</foreign> and <foreign>sthala</foreign> form a fixed pair. See <title>Rāmāyaṇa</title> 6.93.19 <foreign>sthalanimnāni bhūmeś ca</foreign>, but particularly these stanzas from the <title>Nāradasmr̥ti</title> (11.3–5):
+			</p>
+			<p><cit><quote><foreign>grāmasīmāsu ca bahir ye syus tatkṛṣijīvinaḥ |
+gopaśākunikavyādhā ye cānye vanagocarāḥ ||
+samunnayeyus te sīmāṃ lakṣaṇair upalakṣitām |
+<hi rend="bold">tuṣāṅgāra</hi>kapālaiś ca kumbhair āyatanair drumaiḥ ||
+abhijñātaiś ca valmīka<hi rend="bold">sthalanimno</hi>nnatādibhiḥ |
+kedārārāmamārgaiś ca purāṇaiḥ setubhis tathā ||</foreign></quote></cit>
+</p>
+			<p><cit><quote>In the case of the village boundaries, those who make their living by farming outside it, cowherds, bord catchers, hunters and others who inhabit the forest should delineate the boundary which is marked by such things as pots–of chaff, charcoal or crockery–shrines, trees, and by familiar markers such as ant hills, <hi rend="bold">mounds, depressions</hi>, elevations, etc., and paddies, groves, roads, or old dikes</quote></cit> (ed. and transl. <bibl><ptr target="bib:Lariviere1989_01"/></bibl>)</p>
+			<p>In the context, the word <foreign>ninna</foreign> serves as an equivalent to <foreign>(khila)kṣetra</foreign>.
+</p>
+			<p>The <title>Nāradasmr̥ti</title> passage just cited also clarifies another word figuring immediately after this indication in the inscription, viz. <foreign>tuṣāṅgāra</foreign>. The somewhat cryptic statement of the <title>Nāradasmr̥ti</title> passage is in turn clarified by the following passage translated from fragments of the <title>Br̥haspatismr̥ti</title> (<bibl><ptr target="bib:Jolly1889_01"/><citedRange unit="page">351</citedRange></bibl>):
+</p>
+			<p n="1" rend="stanza">This rule regarding rescission of purchase and sale has been declared. Hear the laws concerning boundaries of villages, fields, houses, and so forth.</p>
+<p n="2" rend="stanza">The determination of boundaries should be settled at the time of foundation, and it should be marked by visible and invisible signs, so as to dispel doubt.</p>
+<p n="3" rend="stanza">Wells, tanks, pools, large trees, gardens, temples, mounds, channels, the course of a river, reeds, shrubs, or piles of stones:</p>
+<p n="4" rend="stanza">By such visible signs as these a boundary line should always be caused to be marked; also, by other <supplied reason="explanation">marks</supplied> deposited underground which the earth is not likely to destroy.</p>
+<p n="5" rend="stanza"> Dry cowdung, bones, chaff, charcoal, stones, potsherds, sand, bricks, cows’ tails, cotton seeds, and ashes:</p>
+<p n="6" rend="stanza">After having placed these substances in vessels, one should deposit them underground at the extremities of the boundary.<note>
+These translated stanzas seem to correspond to the following in the <title>Br̥haspatismṛti</title> as reconstructed by <bibl><ptr target="bib:Aiyangar1941_01"/></bibl>, <title>Vyavahārakāṇḍa</title>, chapter 19, pp. 159–162:
+krayavikrayānuśaye vidhir eṣa pradarśitaḥ | grāmakṣetragr̥hādīnāṃ sīmāvādaṁ nibodhata || 1 ||
+niveśakāle kartavyaḥ sīmābandhaviniścayaḥ | prakāśopāṁśucihnaiś ca lakṣitaḥ saṁśayāpahaḥ || 7 ||
+vāpīkūpataḍāgāni caityārāmasurālayāḥ || 8cd ||
+sthalanimnanadīsrotaḥ śaragulmanagādayaḥ | prakāśacihnāny etāni sīmāyāṁ kārayet sadā || 9 ||
+nihitāni tathānyāni yāni bhūmir na bhakṣayet | 17ab | karīṣāsthituṣāṅgāraśarkarāśmakapālikāḥ || 20ab ||
+sikateṣṭakagobālakārpāsāsthīni bhasma ca || 20cd || prakṣipya kumbheṣv etāni sīmānteṣu nidhāpayet | 21ab |
+On these stanzas, see Renou 1962–63: 99–100.	
+</note></p>
 		</div>
 		<div type="bibliography">
 			 <p>Re-edited by Arlo Griffiths, using photos furnished by Ryosuke Furui.</p>
