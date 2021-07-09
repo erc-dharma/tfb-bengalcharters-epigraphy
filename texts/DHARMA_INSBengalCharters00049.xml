@@ -15,7 +15,8 @@
 						<forename>Dániel</forename>
 						<surname>Balogh</surname>
 					</persName>
-				</respStmt><respStmt>
+				</respStmt>
+				<respStmt>
 					<resp>Conversion of encoding for DHARMA</resp>
 					<persName ref="part:daba">
 						<forename>Dániel</forename>
@@ -28,6 +29,9 @@
 						<forename>Amandine</forename>
 						<surname>Wattelier-Bricout</surname>
 					</persName>
+
+				</respStmt>
+				<respStmt>				
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:daba">
 						<forename>Dániel</forename>
@@ -196,7 +200,7 @@ amwb: I removed the choice-sic-corr --></l>
 amwb : add ' 
 --><lb  n="25" break="no"/>nam</l>
 </lg>
-iti<supplied reason="subaudible">.</supplied> saṁ <num value="128"><g type="numeral">100</g> <g type="numeral">20</g> 8</num> māgha <abbr>di</abbr><!-- 
+<p>iti<supplied reason="subaudible">.</supplied> saṁ <num value="128"><g type="numeral">100</g> <g type="numeral">20</g> 8</num> māgha <abbr>di</abbr><!-- 
 amwb : add abbr 
 --> <num value="19"><g type="numeral">10</g> 9</num>
 </p>
