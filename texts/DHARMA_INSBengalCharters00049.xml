@@ -15,8 +15,7 @@
 						<forename>Dániel</forename>
 						<surname>Balogh</surname>
 					</persName>
-				</respStmt>
-				<respStmt>
+				</respStmt><respStmt>
 					<resp>Conversion of encoding for DHARMA</resp>
 					<persName ref="part:daba">
 						<forename>Dániel</forename>
@@ -29,9 +28,8 @@
 						<forename>Amandine</forename>
 						<surname>Wattelier-Bricout</surname>
 					</persName>
-
 				</respStmt>
-				<respStmt>				
+				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:daba">
 						<forename>Dániel</forename>
@@ -77,7 +75,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:amwb" when="2021-07-06" status="draft">Import of Siddham file IN00061 and started initial encoding with Arlo's remarks</change>
+			<change who="part:amwb" when="2021-07-06" status="draft">Import of Siddham file IN00061 and started initial encoding with Arlo's remarks </change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -200,7 +198,7 @@ amwb: I removed the choice-sic-corr --></l>
 amwb : add ' 
 --><lb  n="25" break="no"/>nam</l>
 </lg>
-<p>iti<supplied reason="subaudible">.</supplied> saṁ <num value="128"><g type="numeral">100</g> <g type="numeral">20</g> 8</num> māgha <abbr>di</abbr><!-- 
+iti<supplied reason="subaudible">.</supplied> saṁ <num value="128"><g type="numeral">100</g> <g type="numeral">20</g> 8</num> māgha <abbr>di</abbr><!-- 
 amwb : add abbr 
 --> <num value="19"><g type="numeral">10</g> 9</num>
 </p>
@@ -559,13 +557,18 @@ kedārārāmamārgaiś ca purāṇaiḥ setubhis tathā ||</foreign></quote></ci
 <p n="5" rend="stanza"> Dry cowdung, bones, chaff, charcoal, stones, potsherds, sand, bricks, cows’ tails, cotton seeds, and ashes:</p>
 <p n="6" rend="stanza">After having placed these substances in vessels, one should deposit them underground at the extremities of the boundary.<note>
 These translated stanzas seem to correspond to the following in the <title>Br̥haspatismṛti</title> as reconstructed by <bibl><ptr target="bib:Aiyangar1941_01"/></bibl>, <title>Vyavahārakāṇḍa</title>, chapter 19, pp. 159–162:
-krayavikrayānuśaye vidhir eṣa pradarśitaḥ | grāmakṣetragr̥hādīnāṃ sīmāvādaṁ nibodhata || 1 ||
-niveśakāle kartavyaḥ sīmābandhaviniścayaḥ | prakāśopāṁśucihnaiś ca lakṣitaḥ saṁśayāpahaḥ || 7 ||
-vāpīkūpataḍāgāni caityārāmasurālayāḥ || 8cd ||
-sthalanimnanadīsrotaḥ śaragulmanagādayaḥ | prakāśacihnāny etāni sīmāyāṁ kārayet sadā || 9 ||
-nihitāni tathānyāni yāni bhūmir na bhakṣayet | 17ab | karīṣāsthituṣāṅgāraśarkarāśmakapālikāḥ || 20ab ||
-sikateṣṭakagobālakārpāsāsthīni bhasma ca || 20cd || prakṣipya kumbheṣv etāni sīmānteṣu nidhāpayet | 21ab |
-On these stanzas, see Renou 1962–63: 99–100.	
+<p n="1" rend="stanza"><foreign>krayavikrayānuśaye vidhir eṣa pradarśitaḥ</foreign> | 
+<foreign>grāmakṣetragr̥hādīnāṃ sīmāvādaṁ nibodhata</foreign> || 1 ||</p>
+<p n="7" rend="stanza"><foreign>niveśakāle kartavyaḥ sīmābandhaviniścayaḥ</foreign> | 
+<foreign>prakāśopāṁśucihnaiś ca lakṣitaḥ saṁśayāpahaḥ</foreign> || 7 ||</p>
+<p n="8" rend="stanza"><foreign>vāpīkūpataḍāgāni caityārāmasurālayāḥ</foreign> || 8cd ||</p>
+<p n="9" rend="stanza"><foreign>sthalanimnanadīsrotaḥ śaragulmanagādayaḥ</foreign> | 
+<foreign>prakāśacihnāny etāni sīmāyāṁ kārayet sadā</foreign> || 9 ||</p>
+<p n="17" rend="stanza"><foreign>nihitāni tathānyāni yāni bhūmir na bhakṣayet</foreign> | 17ab |</p> 
+<p n="20" rend="stanza"><foreign>karīṣāsthituṣāṅgāraśarkarāśmakapālikāḥ</foreign> || 20ab ||
+<foreign>sikateṣṭakagobālakārpāsāsthīni bhasma ca </foreign>|| 20cd ||</p> 
+<p n="21" rend="stanza"><foreign>prakṣipya kumbheṣv etāni sīmānteṣu nidhāpayet</foreign> | 21ab |</p>
+On these stanzas, see <bibl><ptr target="bib:Renou1963_01"/><citedRange unit="page">99-100</citedRange></bibl>.	
 </note></p>
 		</div>
 		<div type="bibliography">

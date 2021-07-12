@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Jagadispur Charter of the Time of Kumāragupta I</title>
+			<respStmt>
+					<resp>Original EpiDoc Encoding for Siddham</resp>
+					<persName ref="part:daba">
+						<forename>Dániel</forename>
+						<surname>Balogh</surname>
+					</persName>
+				</respStmt><respStmt>
+					<resp>Conversion of encoding for DHARMA</resp>
+					<persName ref="part:daba">
+						<forename>Dániel</forename>
+						<surname>Balogh</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>EpiDoc encoding for DHARMA of parts not yet encoded for Siddham</resp>
+					<persName ref="part:amwb">
+						<forename>Amandine</forename>
+						<surname>Wattelier-Bricout</surname>
+					</persName></respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:daba">
+						<forename>Dániel</forename>
+						<surname>Balogh</surname>
+					</persName>
+					<persName ref="part:argr">
+						<forename>Arlo</forename>
+						<surname>Griffiths</surname>
+					</persName>
+				</respStmt>
+				</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note><!-- 
+amwb : this note was not present in Baigram file (siddham IN00061= Dharma_INSBengalCharters00049); should it be removed here or should it be added in BC49? -->
+				</authority>
+				<pubPlace>Cambrai</pubPlace>
+				<idno type="filename">DHARMA_INSBengalCharters00034</idno><!-- 
+daba : The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHARMA filename is assigned. amwb : IN00062
+--><availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit thttps://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Dániel Balogh.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary></summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p></p>
+						</handDesc>
+					</physDesc>
+				</msDesc>			
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<!--<change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment).. Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>-->
+			<change who="part:amwb" when="2021-07-12" status="draft">Import of Siddham file IN00061 and started initial encoding with Arlo's edtion and remarks. </change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+			<div type="edition" xml:lang="san-Latn">
+<p><pb 
+
+n="1r"/><lb 
+n="1"/>svasti<supplied reason="subaudible">.</supplied> śr̥ṅgavera-vaitheya-pūrṇṇakauśikāyāḥ<!--
+amwb: caution here ! because Arlo notes a different reading from Sircar's one : kośikāyāḥ. Need to check the plate --> bhaṭṭāraka-pādānuddhyātaḥ Āyuktakācyuto
+<lb 
+n="2"/>'dhikaraṇañ<!-- 
+amwb: added '--> ca gulmagandhike sagohālike<!-- 
+amwb : a single g instead of a double and <supplied reason="omitted">ṁ</supplied> removed according to Arlo's apparatus and arguments--> brāhmaṇādīn<!-- 
+amwb : replaced vrāhmaṇādīn by brāhmaṇādīn according to Arlo's reading--> pradhāna-kuṭumbinaḥ<!-- 
+amwb : removed <unclear>b</unclear> and reported it in the app--> kuśala<!-- 
+daba siddham : Sircar (1971) and Agrawala supply +ca after saṁggohālike. Sircar (1971:248) also notes that Gulmagandhika and a plural of Saṁgohāli are also mentioned in the Kalaikuri-Sultanpur plate (IN00074). Is there any good reason for assuming that saṁgohālika is a proper name, not a local term for village or something? Compare also the toponym Śrīgohālī in the Baigram plate (IN00061), Vaṭagohālī and Nitvagohālī in the Paharpur charter (IN00065), and particularly the phrase (upari-)nirddiṣṭa-grāma-gohālikeṣu also in the Paharpur charter. The most likely solution is that gohālī means some sort of hamlet (maybe related to gośāla?), and a saṁgohālī may be a group of hamlets. (And I think I have seen someone propose that, but I don't know where.)  
+--><lb 
+n="3"/>m āśāsya bodhayanti<supplied reason="subaudible">.</supplied> viditam <choice><sic>b</sic><corr>v</corr></choice>o<!-- 
+amwb : added choice according to Arlo's apparatus--> 'stu yathā puṇḍravarddhaneya-mūlakav<choice><sic>a</sic><corr>ā</corr></choice>stukā<!-- 
+amwb : replaced puṇḍravarddhane ya mūlakavastukā by Arlo's reading
+amwb : added choice according to Arlo's apparatus-->-vāstavya-kuṭu<!-- 
+amwb : removed <supplied reason="lost">ṭu</supplied> and reported this change in app--><lb 
+n="4" break="no"/>mbi-kṣemāka<supplied reason="omitted">ḥ</supplied><!-- 
+amwb : added the visarga according to Arlo's apparatus--> gulmagandhikā-vāstavya-bhoyilaḥ tatraiva-vāstavya-mahīdāsāv iha-vīthī-mahatta<!-- 
+daba siddham :I include no emendations in this edition. Sircar's (1971 and 1973) emendations are plausible but far from certain. He suggests reading ye for ya in l3, kṣemākaḥ for kṣemāka in l4, and then mahīdāsas tair iha. Siddhanta (as quoted by Sircar 1971) emends to puṇḍravarddhaneyo, presumably also emends to kṣemākaḥ, and then mahīdāso iha. 
+--><!-- 
+daba siddham :Sircar (1971:250n4) notes that Siddhanta interpreted kṣemāka as an adjective of bhoyila, meaning Śaiva. He disagrees and adds (1971:250n5) that the dual is probably used because Bhoyila and Mahīdāsa are both from the same place. He also (Sircar_1973:13) stresses that kṣemāka is not attested in lexicons as meaning Śaiva. Note, however, the persistent dual recurring in line 16 below - is it possible that there are just 2 applicants after all? 
+--><!-- 
+amwb : removed  iha vīthī-maha<supplied reason="lost">tta</supplied> and replaced by Arlo's reading--><lb 
+n="5" break="no"/>ra-kumāradeva-gaṇḍa-prajāpati-jeṣṭhadāmā-kuṭumbi-yaśoviṣṇu-Umayaśa-hariśa<unclear>r</unclear>mma<!-- 
+amwb : replaced hariśa<unclear>rmma</unclear> by Arlo's reading-->-
+<lb 
+n="6"/>sarp<unclear>pa</unclear>pālita-hiraṇyagupta-kumārayaśa<supplied reason="omitted">ḥ</supplied><!-- 
+amwb : added supplied according to Arlo's apparatus-->-kumārabhūti-śivakuṇḍa-śivāpara-śiva-somaviṣṇu<!-- 
+amwb : removed somavi<unclear>ṣṇu</unclear>-->-
+<lb 
+n="7"/>satyaviṣṇu-kaṅkuṭi-nandadāma-vīranāga-nā<add place="below">rā</add>yaṇadāsa<!-- 
+amwb : replaced nā<add place="below">ra</add>yaṇadāsa by Arlo's reading: ie rā-->-rudra-bhava-guha-Acyuta-kuvera-śarvvanāga-bhava<!-- 
+amwb : removed the unclear -<unclear>bhava</unclear> according Arlo's reading--><lb 
+n="8" break="no"/>nāga-śrīdatta-bhavadatta-dhanaviṣṇu-guṇaratha-naradeva-purogāḥ vayañ ca vijñāpitāḥ<!-- 
+daba siddham :This list of names is reproduced as segmented by Sircar, but without his emendations (which, apart from jyeṣṭhadāma, only concern the proper in-compound forms of names ending in yaśas). Other segmentations may be possible. Sircar (1971:248) also points out that the first four names are vīthīmahattaras, while the rest are kuṭumbins. 
+--><!-- 
+daba siddham :Note the hiatus before the names Umayaśa and Acyuta. 
+--><!-- 
+Kuvera is printed as Kuvāra in Sircar_1969-70 (without emendation), but the e mātrā is clear. The consonant could be b as well as v from the facsimile. Agrawala prints ku(ve)ra, while Sircar_1973 has kuvera. 
+--><!-- 
+daba siddham :The ra of nārayaṇadāsa (which could be emended to nārāyaṇadāsa but I'm not sure if we can do a correction within an addition) is below the line, between nā and ya. 
+--></p>
+<p>Icch<supplied reason="lost">ā</supplied>maḥ<!-- 
+amwb : I replaced <unclear>ā</unclear> by <supplied reason="lost">ā</supplied> because it is noted in brackets [ ] in Arlo's edition--> dakṣi<!-- 
+amwb: I removed <supplied reason="lost">kṣi</supplied> from Arlo's edition-->-<lb 
+n="9" break="no"/>ṇā<unclear>ṅ</unclear>śaka-vīthyāṁ pecikāmra<!-- 
+amwb : replaced -vī<unclear>th</unclear>yā mecikāmra- by Arlo's reading-->-siddhāyatane <choice><sic>bhagavatānn arha<unclear>tā</unclear>n</sic><corr>bhagavatām arhatāṅ</corr></choice> kāritaka-vih<unclear>ā</unclear>re gulmagandhike cārhatā<choice><sic>n</sic><corr>m</corr></choice> pūjā<!-- 
+amwb : I replaced cārhatām <unclear>pū</unclear><supplied reason="lost">jā</supplied> by Arlo's reading--><lb 
+n="10" break="no"/>rtthaṁ kāritaka-prānta-vihārik<choice><sic>a</sic><corr>e</corr></choice><!-- 
+amwb : I replaced <choice><sic>vihārika</sic><corr>vihārikāyāṁ</corr></choice> by Arlo's reading--> tatraiva gulmagandhike bhagavatas sahasraraśmeḥ kāritaka-deva-kule ca bali<!-- 
+amwb : I replaced <sic>v</sic>ali by Arlo's reading-->-caru-sa<supplied reason="lost">ttra</supplied>-<!-- 
+daba siddham :Sircar_1969-70 omits prānta from this line; his editor notes that the reading seems to be kāritakopātta. Sircar_1973 and Agrawala print kāritaka-prānta. Agrawala emends to vihārake instead of vihārikāyāṁ. 
+--><lb 
+n="11" break="no"/>pravartta<choice><sic>ṇ</sic><corr>n</corr></choice>āya<!-- 
+amwb: added choice + corr from Arlo's apparatus--> khaṇḍa-phuṭṭa-pratisaṁskāra-karaṇāya gandha-dh<choice><sic>u</sic><corr>ū</corr></choice>pa<!-- 
+amwb : added choice + corr from Arlo's apparatus-->-tailopayog<choice><sic>o</sic><corr>ā</corr></choice>ya śaśvat-kālopabhogyākṣaya-<supplied reason="lost">nī</supplied>-<!-- 
+daba siddham :For phuṭṭa see also IN00056 and IN00061. Like Basak, Sircar also notes that it is sometimes found in the Skt form sphuṭita. 
+--><lb 
+n="12" break="no"/>vyām apratikara-khila-kṣetrasya kulya-vāpam ekaṁ krītvā dātuṁ<supplied reason="subaudible">.</supplied> yuṣmākañ ca vīthyām anuvr̥tta<supplied reason="omitted">ḥ</supplied> dvi-dīnārikyāpratikara<!-- 
+amwb : removed <supplied reason="lost">ra</supplied> according to Arlo's reading -->-
+<lb 
+n="13"/>khila-kṣetrasya kulya-vāpa-vikraya<supplied reason="omitted">ḥ</supplied><supplied reason="subaudible">.</supplied> tad arhathāsmābhir hastād dīnāra-dvayaṁ gr̥hītvā kṣetrasya kulya-vāpam ekaṁ<!-- 
+amwb : removed <unclear>kaṁ</unclear> according to Arlo's reading-->
+<lb 
+n="14"/>dātum<!-- 
+amwb : removed the surplus in dā<surplus>ṁ</surplus>tum according to Arlo's reading, cf apparatus--> iti</p>
+<p>yat<choice><sic>o</sic><corr>a</corr></choice><!-- 
+amwb : added choice sic corr for yato--> Etad vijñāpyam<!-- 
+amwb : removed an hyphen : Etad-vijñāpyam becomes Etad vijñāpyam--> u<supplied reason="omitted">pa</supplied>la<supplied reason="lost">bhya</supplied><!-- 
+amwb : replaced vijñāpyam u<unclear reason="illegible">pa</unclear>la<unclear reason="illegible">bhya</unclear> by Arlo's reading --> pustapāla-si<sic>ṅ</sic>hanandi-yaśodāmayor avadhāraṇayā<!-- 
+amwb : removed the unclear avadh<unclear reason="illegible">ā</unclear>raṇayā and inserted Arlo's reading --><pb 
+
+n="1v" break="no"/><lb 
+n="15" break="no"/>sty ayam asma<unclear>d</unclear><!-- 
+amwb: removed one unclear and another in a<unclear>yam a</unclear>smad according to Arlo's reading -->-vīthy-anuvr̥tta<!-- 
+amwb: removed <supplied reason="omitted">ḥ</supplied> at the end of the word because Arlo suggests another emendation, see apparatus--> dvi-dīnāriky-ā<unclear>pra</unclear>tikara-khila-kṣetrasya kulya-vāpa-vikkrayas<!-- 
+amwb : add a -k- in vikkrayas, see apparatus--> tad dīyatān na
+<lb 
+n="16"/>virodhaḥ kaścid ity avas<unclear>th</unclear>āpya<!-- 
+amwb : added an unclear according to Arlo's reading --> kṣemāka-bho<unclear>yi</unclear>la<!-- 
+amwb : added an unclear according to Arlo's reading -->-mahidāsayor hastā<unclear>t ku</unclear>lika-<!-- 
+amwb : added two unclear, see apparatus -->bhīmenopasaṁgr̥<unclear>h</unclear>ī<add place="below">ta</add><!-- 
+amwb : added add, change below with the good position when I will observe the plate-->ka-dīnāra-
+<lb 
+n="17"/>dvayam etat krītvā kṣemāka-bhoyila-mahīdāsayo ṣaḍ-droṇa-vāpāḥ śra<choice><sic>va</sic><corr>ma</corr></choice>ṇakācārya<!-- 
+amwb : added choice and corr according to Arlo's apparatus --> balakuṇḍasya samā<!-- 
+daba siddham :L14. I follow Sircar (and other editors) with upalabhya. Unfortunately none of these make clear if the asterisked akṣaras are restorations of lost text or editorial additions to make up for scribal omissions. To me the facsimile seems to read vi(jñāpya) #1# pa _1_ I certainly can't make out "mu" but my illegible character could be their clear mu. Then I see a pretty clear pa, which could be the right-hand edge of their mu plus their la. But in this case their "pa" must be an editorial addition for an omitted character. The empty space could be restored as bhya, and is probably a character lost to damage rather than a scribal omission. 
+--><!-- 
+daba siddham :Sircar wants to emend to dvayena kṣetram etat krītvā, but the local legalese is clearly different. 
+--><!-- 
+daba siddham :Note also mahidāsayo, which Sircar emends to mahidāsānāṁ, but the original intent must have been mahidāsayoḥ. 
+--><lb 
+n="18" break="no"/>v<choice><sic>i</sic><corr>e</corr></choice>śitāḥ<supplied reason="subaudible">.</supplied> bhoyilenāpi<!-- 
+amwb : replaced bhoyilen āpi by bhoyilenāpi (maybe a typing error)--> sāmbapurasyārttha droṇa-vāpa-dvayaṁ tatrai<unclear>kava</unclear>ta-kula-samīpe<!-- 
+amwb : replaced tatra <unclear>ca de</unclear>vata-kula-samīpe by Arlo's reading, see apparatus --> puṣpa-vāṭikā-tala-vā-<!-- 
+daba siddham :Sircar emends °arttha to °artthe, but again, the intent was probably °artthaṁ. 
+--><lb 
+n="19" break="no"/>ṭaka-nimitta<choice><sic>ṁñ</sic><corr>ṁ</corr></choice><!-- 
+amwb : added choice + corr--> ca droṇa-vāpam ekaṁ kāritam<supplied reason="omitted"/><!-- 
+daba siddham :Sircar emends kāritam to krītam. Not sure; see my note to line 20. 
+--></p>
+<p>ity eta<supplied reason="omitted">t</supplied> kṣetraṁ gulmagandhikāyā<supplied reason="omitted">ṁ</supplied> <choice><sic>pūrvvottattarāṁyā</sic><corr>pūrvvottarāsyāṁ</corr></choice> diśi sapta-droṇa-vā<!-- 
+daba siddham :Perhaps better gulmagandhikāyāḥ ablative instead of -yāṁ? 
+--><lb 
+n="20" break="no"/>pāḥ<!-- 
+amwb : removed the unclear <unclear reason="illegible">pāḥ</unclear> + added DCS reading in apparatus--> <unclear>dai</unclear>va-kula-samīpe<!-- 
+amwb : replaced rddeva-kula-samīpe by Arlo's reading--> ca droṇa-vāpan ekaṁ <!-- 
+daba siddham :Sircar emends rddevakula to devakula, but wouldn't it be more plausible (though strange) to assume the original reading was °pair ddevakula? 
+--><!-- 
+daba siddham :I am far from sure that this is the correct boundary of the semantic paragraph, it's just my hunch. I also can't quite follow how the droṇa-vāpas add up - six plus two plus one seem to be mentioned above, while here we have seven and then something ambiguous. Can the intent be, "7 droṇa-vāpas to the NE of Gulmagandhikā, plus [one] near the temple [and] one that needn't be recorded here [since it is not purchased now, but had been the property of Bhoyila to begin with, cf. kāritam in l19]"? Need to devote more time to this and compare its structure to the other similar charters. 
+-->
+	 likhyama ttra<!-- 
+amwb : replaced "ekaṁ na likhyam</p><p>atra" by Arlo's reading; check the division in <p> from Arlo's translation + check "ekaṁ likhyama" in display and not "ekaṁlikhyama"  --> sīmā pūrvveṇa puṣk<choice><sic>i</sic><corr>a</corr></choice>riṇyā<supplied reason="omitted">ḥ</supplied> kandara<supplied reason="omitted">ḥ</supplied> sīmā<!-- 
+amwb : replace "puṣk<choice><sic>i</sic><corr>a</corr></choice>riṇyā kandara-sīmā" by "puṣk<choice><sic>i</sic><corr>a</corr></choice>riṇyā kandara<supplied reason="omiteed">ḥ</supplied> sīmā--> ca dakṣiṇe<!-- 
+daba siddham :Sircar emends to puṣkariṇyāḥ; again, not sure. He does not emend the same in the next line. 
+--><lb 
+n="21" break="no"/>na dhanaviṣṇu-puṣk<choice><sic>i</sic><corr>a</corr></choice>riṇyā deva-kanda<choice><sic>ra-sī</sic><corr>ra<supplied reason="omitted">ḥ</supplied> sī</corr></choice>mā ca paścimenāpi nābhraka-sataka-sīmā Uttareṇāpi yāvaddāpteta-ku<!-- 
+daba siddham :Sircar notes that Siddhanta read nāguka instead of nābhraka; Sircar points out that gu in gulma and guha looks different. I might note that the character does not look like bhra either. Perhaps ttra? 
+--><!-- 
+daba siddham :Sircar also observes that sataka may be Sanskrit svatvaka, "proprietary right" so the phrase would mean "Nābhraka's property". Is this the etymology of satka used in later CPs? Check Sircar's glossary or somewhere. 
+--><!-- 
+daba siddham :Sircar cites Siddhanta as reading nagokarṣaṇaka at the end of l21; the locus is not identified clearly, but probably covers the lacuna plus Sircar's ta-ku 
+-->
+<!-- 
+amwb : replaced "mā <gap reason="illegible" precision="low" quantity="3" unit="character"/> ta-ku" by Arlo's reading, see apparatus--><lb 
+n="22" break="no"/>ṇḍa-sīmā<supplied reason="subaudible">.</supplied> Ity eta<supplied reason="omitted">c</supplied> catus-sīmā-niyamita-kṣetraṁ<supplied reason="subaudible">.</supplied> samu<supplied reason="omitted">pa</supplied>sthita-kālaṁ ye py anye <add place="below">vi</add>ṣaya-pataya<surplus>ya</surplus>ḥ Āyu<!-- 
+daba siddham :Sircar and Agrawala both read samupasthitaṁ; Sircar even supplies a daṇḍa after it, while Agrawala notes that it should be emended to samupasthita-kālīyāḥ. (Sircar observes that the term yathākālabhāvinaḥ often occurs in this context, but he seems to take just kālam as representing such a phrase.) I see no clear anusvāra, only a faint dot above and to the right of ta, so I prefer to read samupasthita in compound with kālam, as clearly found in IN00074 (Kalaikuri plate) l28. 
+--><lb 
+n="23" break="no"/>ktakā<supplied reason="omitted">ḥ</supplied> kuṭumbino dhikaraṇikā vā sa<sic>m</sic>vyavahāriṇo bhaviṣyanti <unclear>tai</unclear>r api bhūmi-dāna-phalam a<unclear>ve</unclear><lb 
+n="24" break="no"/>kṣyākṣaya-<choice><sic>nīvyānupālanīyā</sic><corr>nīvy anupālanīyā</corr></choice><supplied reason="subaudible">.</supplied> Uktañ ca bhagavatā vyāsena</p>
+<lg n="1" met="anuṣṭubh">
+<l n="a">sva-<supplied reason="omitted">da</supplied><sic>t</sic>āṁ para-da<sic>t</sic>āṁ vā</l>
+<l n="b">yo hareta vasundha<lb  n="25" break="no"/>rāṁ</l>
+<l n="c">sa viṣṭhāyā<supplied reason="omitted">ṁ</supplied> kr̥mir bhūtvā</l>
+<l n="d">pitr̥bhis saha pacyate</l>
+</lg>
+<lg n="2" met="anuṣṭubh">
+<l n="a">ṣaṣṭiṁ varṣa-sahasrāṇi</l>
+<l n="b">svargge vasati bhūmi<lb n="26" break="no"/>-daḥ</l>
+<l n="c">Ākṣeptā cānumantā ca</l>
+<l n="d">tāny e<unclear>va</unclear> na<supplied reason="omitted">ra</supplied>ke vaseT<!-- 
+daba siddham :The facsimile is too unclear to make out the halanta form, but since the following i is a full vowel, this must be a halanta t. What is visible looks like a regular ta. 
+--></l>
+</lg>
+<lg n="3" met="anuṣṭubh">
+<l n="a">Iyaṁ rāja-śatair ddatt<surplus>v</surplus>ā</l>
+<l n="b"><choice><sic>rddi</sic><corr>dī</corr></choice>ya<supplied reason="omitted">te</supplied> ca punaḥ punaḥ</l>
+<l n="c">ya<unclear>sya</unclear> <lb n="27"/>yasya yad<choice><sic>a</sic><corr>ā</corr></choice> bhūmi<supplied reason="omitted">s</supplied></l>
+<l n="d">tasya tasya tadā phalaṁ</l>
+</lg>
+<lg n="4" met="anuṣṭubh">
+<l n="a">vindhyāṭavīṣv anaṁbhassu</l>
+<l n="b">śuṣka-koṭara-vāsinaḥ</l>
+<l n="c">kr̥ṣṇāha<lb  n="28" break="no"/>yo bhijāyant<sic>i</sic></l>
+<l n="d">bhūmi-dāyā<supplied reason="omitted">n</supplied> haranti <unclear>ye</unclear><surplus>d</surplus></l><!-- 
+daba siddham :At the end of the verse, yed iti is Sircar's reading, which he emends to ye|| iti. I see nothing recognisable between nti and the next ti of iti. Inscribing yediti for ye iti seems like an unlikely mistake to me, so I wonder if it could instead be ced iti or ya Iti. 
+--></lg>
+<p>iti<supplied reason="subaudible">.</supplied> saṁ <num value="128"><g type="numeral">100</g> <g type="numeral">20</g> 8</num> caittra di <num value="20"><g type="numeral">20</g></num> likhitaṁ rudradā<unclear>sena</unclear> tāpi<lb 
+n="29" break="no"/><unclear>ta</unclear>ṁ s<unclear>u</unclear>si<sic>ṅ</sic>hanamiti<!-- 
+daba siddham :Sircar emends the end to susiṁhena iti, which makes sense. The facsimile shows nothing recognisable to me, except si and then a superscript i of what must be Sircar's mi. 
+--></p>
+			</div>
+				<div type="apparatus">
+			<listApp>
+				<app loc="1">
+				<lem>°kośikāyāḥ</lem><!-- amwb: in apparatus, Arlo notes kośikāyāḥ and Sircar's reading kauśikāyāḥ, but in the edition one can read kauśikāyāḥ? Maybe correct the edition? -->
+				<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">°kauśikāyāḥ</rdg>
+				</app>
+				<app loc="2">
+					<lem>sagohālike</lem>
+					<rdg source="bib:Sircar1969-1970_01">sa<supplied reason="omitted">M</supplied>ggohālike <supplied reason="omitted">ca</supplied></rdg><rdg source="bib:Sircar1973_01"><unclear>saṁ</unclear>gohālike <unclear>ca</unclear></rdg><!-- 
+amwb : I am not sure if I use the good encoding for :(saṁ)gohālike (ca*) DCS 1973; sa[ṁ*]ggohālike [ca*] DCS 1969 -->
+					<note>There is definitely only a single <foreign>g</foreign>. If the reading <foreign>sago</foreign>- is accepted, then the need to insert <foreign>ca</foreign> disappears. The <foreign>anusvāra</foreign> seems to have been restored by DCS on the grounds that <foreign>saṁgohāliṣu</foreign> has been read in <ref target="DHARMA_INSBengalCharters00033.xml">Kalaikuri</ref>, line 1–2: <foreign>hastiśīrṣe <supplied reason="lost">vibhītak</supplied>yāṁ <supplied reason="lost">gu</supplied>lma<supplied reason="lost">gandhi</supplied>kāyāṁ dhānyapāṭalikāyāṁ saṁgohāliṣu</foreign>. But the presence of <foreign>anusvāra</foreign> there is doubtful, and there is no <foreign>ca</foreign>; <foreign>sagohāliṣu</foreign> seems to make better sense. On the meaning of the term <foreign>gohalī</foreign>, see <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="page">40-2</citedRange></bibl>. </note><!-- 
+amwb : I added a reference to Arlo's article 2018 on the term gohalī -->
+				</app>
+				<app loc="2">
+					<lem>brāhmaṇādīn</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">vrāhmaṇādīn</rdg>
+				</app>
+				<app loc="2">
+					<lem>kuṭumbinaḥ</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">kuṭum<unclear>b</unclear>inaḥ</rdg>
+				</app>
+				<app loc="3">
+					<lem>puṇḍravarddhaneya-mūlaka°</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">puṇḍravarddhane ya mūlaka°</rdg>
+					<note>DCS reads <foreign>puṇḍravarddhane ya</foreign> and emends <foreign>puṇḍravarddhane ye</foreign>. See his discussion <bibl><ptr source="bib:Sircar1973_01"/><citedRange unit="page">13</citedRange></bibl>. I reject this arguments and his emendation in the light of <ref target="DHARMA_INSBengalCharters00039.xml">Mahatī-Raktamālā I</ref>, lines 4–5. For my interpretation, see the translation below, and that of <foreign>dakṣiṇāṁśakavītheya</foreign>- in the parallel passage in the <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur plate</ref>. A similar -<foreign>eya</foreign> adjective without <foreign>vr̥ddhi</foreign> in the first syllable is <foreign>dugdhotikeya</foreign> in the <ref target="DHARMA_INSBengalCharters00039.xml">Mahatī-Raktamālā plate I</ref>, line 18.
+</note>
+				</app>
+				<app loc="3">
+					<lem>kuṭu<lb 
+n="4" break="no"/>mbi-kṣemāka<supplied reason="omitted">ḥ</supplied></lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">ku<supplied reason="lost">ṭu</supplied>mbi-kṣemāka<supplied reason="omitted">ḥ</supplied></rdg>
+					<note>Furui’s photo clearly shows the <foreign>akṣara</foreign> <foreign>ṭu</foreign> that DCS restored. Restoration of <foreign>visarga</foreign> is still necessary.
+</note>
+				</app>
+				<app loc="4">
+					<lem>tatraiva-</lem>
+					<rdg source="bib:Sircar1969-1970_01">tatraiva-</rdg>
+					<rdg source="Sircar1973_01">tatra va-</rdg>
+					<note>DCS 1973 seems to be a printing error.</note>
+				</app>
+				<app loc="4">
+					<lem>-mahīdāsāv iha-vīthī-mahatta°</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">-mahīdāsāv iha vīthī-maha<supplied reason="lost">tta</supplied>°</rdg>
+					<note>DCS emends -<foreign>dāsas tair iha</foreign>.DCS 1969 notes: <cit><quote>The author of the record thought of the dual number probably because Bhōyila and Mahīdāsa were residents of the same place while Kshemāka was the inhabitant of a different locality.</quote></cit>. Another possibility would be to emend -<foreign>kṣemāka-gulmagandhikāvāstavyabhoyila-tatraivavāstavyamahīdāsair</foreign>. But comparison with lists of witness containing the expression <foreign>atraivavāstavya</foreign> in the <ref target="DHARMA_INSBengalCharters00035.xml">plate of Vainyagupta of 184 GE</ref> (<bibl><ptr target="bib:Furui2016_01"/></bibl>) suggests the emendations -<foreign>kṣemāka<hi rend="bold">ḥ</hi> gulmagandhikā-vāstavya-bhoyila<hi rend="bold">s</hi> tatraiva-vāstavya-mahīdā<hi rend="bold">saś ca I</hi>ha</foreign>- (or ...<foreign>dā<hi rend="bold">saś ce</hi>ha</foreign>-).</note>
+				</app>
+				<app loc="5">
+					<lem>-jeṣṭhadāmā-</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">-jyeṣṭhadāma-</rdg>
+				</app>
+				<app loc="5">
+					<lem>-Umayaśa-</lem>
+					<note>DCS emends -<foreign>Umayaśo</foreign>-. One might expect a name like <foreign>Umāyaśas</foreign>, to be spelled <foreign>umāyaśo</foreign> in the context, but since the same name <foreign>Umayaśa</foreign> appears in the same spelling in the <ref target="DHARMA_INSBengalCharters00033.xml">Kalaikuri-Sultanpur plate</ref>, line 4, it seems better not to emend at all.
+</note>
+				</app>
+				<app loc="5">
+					<lem></lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">hariśa<unclear>rmma</unclear></rdg>
+					<note>For the last <foreign>akṣara</foreign>, Furui’s photo shows the <foreign>mma</foreign> but not the repha expected on top of it.</note>
+				</app>
+				<app loc="6">
+					<lem>-kumārayaśa<supplied reason="omitted">ḥ</supplied>-</lem>
+					<note>Already emended by DCS</note>
+				</app>
+				<app loc="6">
+					<lem>-somaviṣṇu-</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">-somavi<unclear>ṣṇu</unclear>-</rdg>
+					<note>Furui’s photo clearly shows the <foreign>akṣara</foreign> <foreign>ṣṇu</foreign> about which DCS hesitated.</note>
+				</app>
+				<app loc="7">
+					<lem>-kaṅkuṭi-</lem>
+					<rdg source="bib:Sircar1969-1970_01">-kaṅkuṭi-</rdg>
+					<rdg source="bib:Sircar1973_01">-kaṅkaṭi-</rdg>
+					<note>DCS 1973 seems to be a printing error.</note>
+				</app>
+				<app loc="7">
+					<lem>-nā<add place="below">rā</add>yaṇadāsa-</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">-nā<add place="below">ra</add>yaṇadāsa-</rdg>
+					<note>DCS reads the interlinear addition as <foreign>ra</foreign>; but <foreign>rā</foreign> seems possible on Furui’s photo.</note>
+				</app>
+				<app loc="7">
+					<lem>°nāga-bhava°</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">°nāga-<unclear>bhava</unclear>°</rdg>
+					<note>The last two <foreign>akṣara</foreign>s are clear on Furui’s photo.</note>
+				</app>
+				<app loc="8">
+					<lem>Icch<supplied reason="lost">ā</supplied>maḥ</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">I<supplied reason="lost">cchā</supplied>maḥ</rdg>
+				</app>
+				<app loc="8">
+					<lem>dakṣi-</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">da<supplied reason="lost">kṣi</supplied>-</rdg>
+					<note>The last <foreign>akṣara</foreign> is clear on Furui’s photo.
+</note>
+				</app>
+				<app loc="9">
+					<lem>-vīthyāṁ pecikāmra-</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">-vī<unclear>th</unclear>yā mecikāmra-</rdg>
+					<note>The word <foreign>pecikā</foreign> is found <foreign>inter alia</foreign> in <title>Br̥hatsaṁhitā</title> 87.4.</note>
+				</app>
+				<app loc="9">
+					<lem><choice><sic>bhagavatānn arha<unclear>tā</unclear>n</sic><corr>bhagavatām arhatāṅ</corr></choice></lem>
+					<note>Emend <foreign>bhagavatām arhatāṅ</foreign>; as already emended by DCS 1969 (the representation of these words in DCS 1973 is erroneous). Cf. <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur</ref>, line 7.</note>
+				</app>
+				<app loc="9">
+					<lem>cārhatā<choice><sic>n</sic><corr>m</corr></choice> pūjā°</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">cārhatām <unclear>pū</unclear><supplied reason="lost">jā</supplied>°</rdg>
+					<note>The <foreign>akṣara</foreign>s <foreign>npūjā</foreign> are clear on Furui’s photo; emend <foreign>cārhatām pūjā</foreign>°.</note>
+				</app>
+				<app loc="10">
+					<lem>-vihārik<choice><sic>a</sic><corr>e</corr></choice></lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">-<choice><sic>vihārika</sic><corr>vihārikāyāṁ</corr></choice></rdg>
+					<note>DCS proposes to emend -<foreign>vihārikāyāṁ</foreign>.  I propose -<foreign>vihārike</foreign>.</note>
+				</app>
+				<app loc="10">
+					<lem>bali-</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01"><choice><sic>v</sic><corr>b</corr></choice>ali-</rdg>
+					<note>It seems possible simply to read a <foreign>b</foreign> here, as in line 2 <foreign>brāhmaṇādīn</foreign>.</note>
+				</app>
+				<app loc="11">
+					<lem>°pravartta<choice><sic>ṇ</sic><corr>n</corr></choice>āya</lem>
+					<note>Already emended °<foreign>pravarttanāya</foreign> by DCS.</note>
+				</app>
+				<app loc="11">
+					<lem>-dh<choice><sic>u</sic><corr>ū</corr></choice>pa-</lem>
+					<note>Already emended <foreign>pravarttanāya</foreign> by DCS.</note>
+				</app>
+				<app loc="11">
+					<lem>°opayog<choice><sic>o</sic><corr>ā</corr></choice>ya</lem>
+					<note>Already emended by DCS.</note>
+				</app>
+				<app loc="11">
+					<lem>°kṣaya-<supplied reason="lost">nī</supplied>-<lb 
+n="12" break="no"/>vyām apratikara-</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01"></rdg>
+					<note>DCS suggests to emend -<foreign>kṣayanīvyā aprati</foreign>-. In other words, the -<foreign>m</foreign>- is a hiatus bridger.
+</note>
+				</app>
+				<app loc="12">
+					<lem>anuvr̥tta<supplied reason="omitted">ḥ</supplied></lem>
+					<note>Already emended by DCS.</note>
+				</app>
+				<app loc="12">
+					<lem>dvi-dīnārikyāpratikara-</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">dvi-dīnārikyāpratika<supplied reason="lost">ra</supplied>-</rdg>
+					<note>DCS suggests to correct <foreign>dvidīnārikyo pratikara</foreign>-, but it seems that the same spelling recurs in line 15</note>
+				</app>
+				<app loc="13">
+					<lem>-vikraya<supplied reason="omitted">ḥ</supplied></lem>
+					<note>Already emended by DCS.</note>
+				</app>
+				<app loc="13">
+					<lem>arhathāsmābhir</lem>
+					<note>Emend <foreign>arhathāsmākaṁ</foreign> (DCS).</note>
+				</app>
+				<app loc="13">
+					<lem>ekaṁ</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">e<unclear>kaṁ</unclear></rdg>
+					<note>The last <foreign>akṣara</foreign> is clear on Furui’s photo.</note>
+				</app>
+				<app loc="14">
+					<lem>dātum</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">dā<surplus>ṁ</surplus>tum</rdg>
+					<note>DCS reads <foreign>dāṁtum</foreign>, emending it to <foreign>dātum</foreign>; I assume the ostensible <foreign>anusvāra</foreign> is a mere deficiency of the plate.</note>
+				</app>
+				<app loc="14">
+					<lem>yat<choice><sic>o</sic><corr>a</corr></choice></lem>
+					<note>Already emended by DCS.</note>
+				</app>
+				<app loc="14">
+					<lem>vijñāpyam u<supplied reason="omitted">pa</supplied>la<supplied reason="lost">bhya</supplied></lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">-vijñāpyam u<unclear reason="illegible">pa</unclear>la<unclear reason="illegible">bhya</unclear></rdg>
+					<note>DCS’s representation vijñāpyam u<unclear reason="illegible">pa</unclear>la<unclear reason="illegible">bhya</unclear> confounds an omitted <foreign>akṣara</foreign> (<foreign>pa</foreign>) with one lost due to damage (<foreign>bhya</foreign>).</note>
+				</app>
+				<app loc="14">
+					<lem>-yaśodāmayor</lem>
+					<note>Emend -<foreign>yaśodāmnor</foreign> (DCS 1973).</note>
+				</app>
+				<app loc="14">
+					<lem>avadhāraṇayāsty</lem>
+					<rdg source="bib:Sircar1969-1970_01">avadh<unclear reason="illegible">ā</unclear>raṇayāsty</rdg>
+					<rdg source="bib:bib:Sircar1973_01">ava<unclear>dhā</unclear>raṇayāsty</rdg>
+					<note>Emend <foreign>avadhāraṇayāvadhr̥tyāsty</foreign> or <foreign>avadhāraṇayāvadhr̥tam asty</foreign>? In the light of <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur</ref>, lines 10–11, I presume the latter.
+</note>
+				</app>
+				<app loc="15">
+					<lem>ayam asma<unclear>d</unclear></lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">a<unclear>yam a</unclear>smad</rdg>
+				</app>
+				<app loc="15">
+					<lem>-vīthy-anuvr̥tta</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">°vīthy-anuvr̥tta<supplied reason="omitted">ḥ</supplied></rdg>
+					<note>Correct <foreign>asmadvīthyām anuvr̥ttaḥ</foreign>. Cf. line 12 above, and <ref target="DHARMA_INSBengalCharters00033.xml">Kalaikuri</ref>, line 18: <foreign>asty ayam iha-vīthyām apratikara-khila-kṣettrasya</foreign>.</note>
+				</app>
+				<app loc="15">
+					<lem>kulya-vāpa-vikkrayas</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">kulya-vāpa-vikrayas</rdg>
+				</app>
+				<app loc="16">
+					<lem>avas<unclear>th</unclear>āpya</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">avasthāpya</rdg>
+				</app>
+				<app loc="16">
+					<lem>-bho<unclear>yi</unclear>la-</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">-bhoyila-</rdg>
+				</app>
+				<app loc="16">
+					<lem>-mahidāsayor</lem>
+					<note>Emend -<foreign>mahīdāsānāṁ</foreign> (DCS).</note>
+				</app>
+				<app loc="16">
+					<lem>hastā<unclear>t ku</unclear>lika-</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">hastāt kulika-</rdg>
+				</app>
+				<app loc="16">
+					<lem>°saṁgr̥<unclear>h</unclear>ī<add place="below">ta</add>ka</lem>
+					<rdg source="bib:Sircar1973_01">°saṁgr̥hītaka-</rdg>
+					<rdg source="bib:Sircar1969-1970_01">°saṅgr̥hītaka-</rdg>
+				</app>
+				<app loc="17">
+					<lem>dvayam etat</lem>
+					<note>Emend -<foreign>dvayena kṣetram etat</foreign>- (DCS).</note>
+				</app>
+				<app loc="17">
+					<lem>-mahīdāsayo</lem>
+					<note>Emend -<foreign>mahīdāsānāṁ</foreign> (DCS).</note>
+				</app>
+				<app loc="17">
+					<lem>śra<choice><sic>va</sic><corr>ma</corr></choice>ṇakācārya</lem>
+					<note>Already emended by DCS.</note>
+				</app>
+				<app loc="17">
+					<lem>°kuṇḍasya samā-</lem>
+					<note>Emend °<foreign>kuṇḍasya vihāre samā</foreign>-?</note>
+				</app>
+				<app loc="18">
+					<lem>v<choice><sic>i</sic><corr>e</corr></choice>śitāḥ</lem>
+					<note>Already emended by DCS.</note>
+				</app>
+				<app loc="18">
+					<lem>°purasyārttha</lem>
+					<note>Emend °<foreign>purasyārtthe</foreign> (DCS) or °<foreign>purasyārtthaṁ</foreign>.</note>
+				</app>
+				<app loc="18">
+					<lem>tatrai<unclear>kava</unclear>ta-kula-samīpe</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">tatra <unclear>ca de</unclear>vata-kula-samīpe</rdg>
+					<note>For the shape of <foreign>trai</foreign>, see line 4. Emend <foreign>tatraiva <hi rend="bold">de</hi>va</foreign>- or <foreign>tatrai<hi rend="bold">vakārita</hi>ka<hi rend="bold">de</hi>va</foreign>-, after line 10?</note>
+				</app>
+				<app loc="19">
+					<lem>-nimitta<choice><sic>ṁñ</sic><corr>ṁ</corr></choice></lem>
+					<note>Already corrected by DCS.</note>
+				</app>
+				<app loc="19">
+					<lem>kāritam</lem>
+					<note>Emend <foreign>krītam</foreign> (DCS).</note>
+				</app>
+				<app loc="19">
+					<lem>eta<supplied reason="omitted">t</supplied> kṣetraṁ</lem>
+					<note>Already emended by DCS.</note>
+				</app>
+				<app loc="19">
+					<lem>°gandhikāyā<supplied reason="omitted">ṁ</supplied></lem>
+					<note>Already emended by DCS.</note>
+				</app>
+				<app loc="19">
+					<lem><choice><sic>pūrvvottattarāṁyā</sic><corr>pūrvvottarāsyāṁ</corr></choice></lem>
+					<note>Already emended by DCS.</note>
+				</app>
+				<app loc="19">
+					<lem>diśi sapta-</lem>
+					<note>Emend <foreign>diśi Aṣṭa</foreign>-. The <foreign>akṣara</foreign>s <foreign>sapta</foreign> and <foreign>Aṣṭa</foreign> are close enough to each other to make a scribal error plausible. The required total is <foreign>aṣṭa</foreign>.</note>
+				</app>
+				<app loc="20">
+					<lem>°pāḥ</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">°<unclear reason="illegible">pāḥ</unclear></rdg>
+				</app>
+				<app loc="20">
+					<lem><unclear>dai</unclear>va-kula-samīpe</lem>
+					<rdg source="bib:Sircar1973_01">-vāpāḥ rdde-<unclear>de</unclear>-kulasamīpe</rdg>
+					<rdg source="bib:Sircar1969-1970_01">-vāpāḥ rdde-devakula-samīpe</rdg>
+					<note>DCS 1969 suggests in note : . . . <foreign>vāpa ekaḥ</foreign>. Emend -<foreign>vāpā devakulasamīpe</foreign>.</note>
+				</app>
+				<app loc="20">
+					<lem>ekaṁ likhyama ttra</lem>
+					<rdg source="bib:Sircar1969-1970_01">ekaṁ na likhyamatra</rdg>
+					<note>DCS 1969 adds in note: read <foreign>likhyate 'tra</foreign>. <foreign>e<choice><sic>kaṁ</sic><corr>kam |</corr></choice></foreign> <foreign>likhya<choice><sic>ma</sic><corr>te</corr></choice>tra</foreign> DCS 1969<!-- Maybe is it 1973? -->. There certainly is no <foreign>akṣara</foreign> <foreign>na</foreign>. The emendation to <foreign>likhyate</foreign> seems to be supported by the parallel passage in the <ref target="DHARMA_INSBengalCharters00033.xml">Kalaikuri-Sultanpur plate</ref>, lines 28–29: <foreign>likhyate ca samupasthita-kā<supplied reason="lost">laṁ</supplied> <supplied reason="lost">ye 'py anye</supplied> viṣaya-patayaḥ āyuktakāḥ kuṭumbino 'dhikaraṇikā vā <choice><sic>sambya</sic><corr>saṁvya</corr></choice>vahāriṇo bhaviṣyanti tair api bhūmi-dāna-phalam avekṣya akṣaya-nīvy anupālanīyā</foreign>. </note>
+				</app>
+				<app loc="20">
+					<lem>puṣk<choice><sic>i</sic><corr>a</corr></choice>riṇyā<supplied reason="omitted">ḥ</supplied> kandara<supplied reason="omitted">ḥ</supplied></lem>
+					<note>Emend <foreign>puṣkariṇyāḥ kandaraḥ</foreign> (DCS 1973); DCS 1969 only emends <foreign>puṣkariṇyāḥ kandara</foreign>.
+</note>
+				</app>
+				<app loc="21">
+					<lem>-puṣk<choice><sic>i</sic><corr>a</corr></choice>riṇyā deva-kanda<choice><sic>ra-sī</sic><corr>ra<supplied reason="omitted">ḥ</supplied> sī</corr></choice>mā</lem>
+					<note>Emend -<foreign>puṣkariṇyā devakandaraḥ sīmā</foreign> (DCS 1973); DCS 1969 only emends <foreign>puṣkariṇyā devakandarasīmā</foreign>. The reading <foreign>deva</foreign> is uncertain and in my view rather unlikely to be correct.</note>
+				</app>
+				<app loc="21">
+					<lem>nābhraka-sataka-sīmā</lem>
+					<note>Or read <foreign>nāb<hi rend="bold">hokasanta</hi>kasīmā</foreign>? DCS notes that ‘<cit><quote>In this expression, sataka may be Sanskrit <foreign>svatvaka</foreign> (proprietary right), <foreign>Nābhrakasvatvaka</foreign> meaning ‘Nābhraka's property</quote></cit>’. If my alternative reading is correct, then -<foreign>santaka</foreign> would express the same meaning. </note>
+				</app>
+				<app loc="21">
+					<lem>yāvaddāpteta-ku<lb 
+n="22" break="no"/>ṇḍa-sīmā</lem>
+					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">mā <gap reason="illegible" precision="low" quantity="3" unit="character"/> ta-kuṇḍa-sīmā</rdg>
+					<note>The word <foreign>sīmā</foreign> is redundant here.
+</note>
+				</app>
+				<app loc="22">
+					<lem> Ity eta<supplied reason="omitted">c</supplied></lem>
+					<note>Already emended by DCS.</note>
+				</app>
+			</listApp>
+		</div>
+		<div type="translation" xml:lang="eng">
+		</div>
+		<div type="commentary">
+		</div>
+		<div type="bibliography">
+			<p></p>
+			<listBibl type="primary">
+				<bibl n="DSC 1969"><ptr target="bib:Sircar1969-1970_01"/><citedRange unit="page">247-252</citedRange></bibl>
+				<bibl n="DSC 1973"><ptr target="bib:Sircar1973_01"/><citedRange unit="page">8–14</citedRange><citedRange unit="entry">61–63, pl</citedRange></bibl><!-- 
+amwb: check page-numbers and pl -->
+			</listBibl>
+			<listBibl type="secondary">
+				<bibl><ptr target="bib:Siddhanta1963_01"/><citedRange unit="page">36ff</citedRange></bibl><!-- 
+amwb: caution there is no title in Zotero -->
+				<bibl><ptr target="bib:Siddhanta1972_01"/><citedRange unit="page">23-37</citedRange></bibl>
+				<bibl><ptr target="bib:Agrawala1983_02"/><citedRange unit="issue">30</citedRange></bibl>
+				<bibl><ptr target="bib:Goyal1993_01"/><citedRange unit="page">189</citedRange></bibl>
+			</listBibl>
+		</div>
+		</body>
+	</text>
+</TEI>
