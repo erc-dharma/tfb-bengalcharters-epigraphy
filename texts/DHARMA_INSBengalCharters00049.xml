@@ -452,14 +452,14 @@ amwb : idem as before--></item>
 	that the custom in this district is sale for two <foreign>dīnāra</foreign>s 
 	of one <foreign>kulyavāpa</foreign> of 
 	uncultivated land that is without revenue charges,covered with original shrubs,<!-- 
-	amwb: here make changes if we have changed something in l.5 about ādya-stamba
-	-->
+amwb: here make changes if we have changed something in l.5 about ādya-stamba
+-->
 	to be enjoyed in perpetuity as long as the moon, the sun and the stars <supplied reason="subaudible">will last</supplied>. 
 	And in the sale of such uncultivated land that yields no tax 
 	there is no conflict with the interest of the king; 
 	there is only benefit, 
 	and obtainment by His Majesty the Sovereign of a sixth part of the merit <supplied reason="explanation">accruing from the donation</supplied>;<!-- 
-	amwb : to be more precise the sixth part of the ling accruing from his act of protection : 
+amwb : to be more precise the sixth part of the ling accruing from his act of protection : 
 Usually the king takes a sixth of each transaction : cf Manusmrti 7.131-132 : olivelle's translation "He (ie. the King) shak also take a sixth share of trees, meat, honey, ghee, perfumes, herbs, condiments, flowers, roots, fruits, leaves, vegetables, grass, skins, cane, earthen vessels, and everything made of stone." But here as the land yields no tax, the benefit for the king is only meritorious and due to his act of protection. This understanding is also confirmed by the final stanzas which emphasises the act of protection. 
 So perhaps add in a note the reference to Yājñavalkya I.331 (Olivelle 2019, p.107) to explain why the king obtain this sixth part : 
 puṇyātṣaḍbhāgamādatte nyāyena paripālayan | 
@@ -468,7 +468,8 @@ he (the king) takes a sixth portion of the merits by providing protection justly
 -->
 	so that it ought to be given</q>
 </p>
-<p n="13-18">After six <foreign>dīnāra</foreign>s and eight <foreign>rūpaka</foreign>s 
+<p n="13-18">After six <foreign>dīnāra</foreign>s and eight <foreign>rūpaka</foreign>s<!-- 
+amwb : it could be interesting to note that this sum of money allows to deduce the following price : one kulyavāpa costs 2 dīnāra, one droṇavāpa costs four rūpakas. From this kind of informations, it could be possible to reconstruct the exchange rate and the evolution of the price per square metre... --> 
 	had been taken in cash 
 	from these two, Bhoyila and Bhāskara, 
 	for the purpose of the temple of Lord Govindasvāmin,
@@ -476,7 +477,7 @@ he (the king) takes a sixth portion of the merits by providing protection justly
 			<list>
 				<item>to Bhoyila, in <supplied reason="subaudible">the hamlet</supplied> Trivr̥tā, three <foreign>kulyavāpa</foreign>s of uncultivated land to serve as parcel adjacent <supplied reason="subaudible">to the temple</supplied> etc.<!-- 
 amwb : change parcel here if we change it by garden before 
-amwb : for the compound talavaṭakādyarttham and the meaning of ādi, here it seems to me that translate ādi by etc. does not fit very well because the text never mention another use of this land; maybe " to serve chiefly/mostly/mainly as garden adjacent (to the temple)" -->;
+amwb : for the compound talavaṭakādyarttham and the meaning of ādi, here it seems to me that translate ādi by etc. does not fit very well because the text never mentions another use of this land; maybe translate °ādi by mostly/mainly :  " to serve chiefly/mostly/mainly as garden adjacent (to the temple)" -->;
 </item>
 				<item>in <supplied reason="subaudible">the hamlet</supplied> Śrī-Gohālī,<!-- 
 amwb : maybe mention in a note the fact that this name is also present in BC50 Baigram fragment et BC55 Nāgavasu ? --> 
@@ -575,9 +576,7 @@ On these stanzas, see <bibl><ptr target="bib:Renou1963_01"/><citedRange unit="pa
 			 <p>Re-edited by Arlo Griffiths, using photos furnished by Ryosuke Furui.</p>
         	<listBibl type="primary">
 				<bibl n="RB"><ptr target="bib:Basak1931-1932_01"/><!-- amwb : add a ref for siddham's edition? because there are several different readings -->
-			</listBibl>
-           <listBibl type="secondary">
-               <bibl><ptr target="bib:ARASI1937_01"/><citedRange unit="page">42</citedRange></bibl>
+				<bibl><ptr target="bib:ARASI1937_01"/><citedRange unit="page">42</citedRange></bibl>
         	    <bibl><ptr target="bib:ARIE1956-1957"/><citedRange unit="entry">A.15</citedRange><citedRange unit="page">27</citedRange></bibl>
         	    <bibl><ptr target="bib:ARIE1961-1962"/><citedRange unit="entry">A.22</citedRange><citedRange unit="page">38</citedRange></bibl>
                <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="page">296</citedRange><citedRange unit="item">no. 2114</citedRange></bibl>
@@ -585,6 +584,9 @@ On these stanzas, see <bibl><ptr target="bib:Renou1963_01"/><citedRange unit="pa
 amwb : I corrected the numbers of pages because I found Baigram copperplate in Sircar 1965 vol 1 under the number 41, not pp.355-9 as noted in Arlo's rtf and Siddham's concordance, but pages 342-345 -->
         	    <bibl><ptr target="bib:Agrawala1983_01"/><citedRange unit="entry">29</citedRange></bibl>
         	    <bibl><ptr target="bib:Goyal1993_01"/><citedRange unit="page">183-8</citedRange></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+             
 			</listBibl>
 		</div>
 		</body>
