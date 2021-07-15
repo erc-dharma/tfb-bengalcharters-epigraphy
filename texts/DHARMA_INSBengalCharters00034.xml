@@ -180,18 +180,19 @@ n="19" break="no"/>ṭaka-nimitta<choice><sic>ṁñ</sic><corr>ṁ</corr></choic
 amwb : added choice + corr--> ca droṇa-vāpam ekaṁ kāritam<supplied reason="omitted"/><!-- 
 daba siddham :Sircar emends kāritam to krītam. Not sure; see my note to line 20. 
 --></p>
-<p>ity eta<supplied reason="omitted">t</supplied> kṣetraṁ gulmagandhikāyā<supplied reason="omitted">ṁ</supplied> <choice><sic>pūrvvottattarāṁyā</sic><corr>pūrvvottarāsyāṁ</corr></choice> diśi sapta-droṇa-vā<!-- 
+<p>ity eta<supplied reason="omitted">t</supplied> kṣetraṁ gulmagandhikāyā<supplied reason="omitted">ṁ</supplied> pūrvvo<surplus>tta</surplus>tta<choice><sic>rāṁyā</sic><corr>rasyāṁ</corr></choice><!-- 
+amwb : here I changed and corrected the encoding <choice><sic>pūrvvottattarāṁyā</sic><corr>pūrvvottarāsyāṁ</corr></choice> because the second a must be short in pūrvvottarāsyāṁ. --> diśi sapta-droṇa-vā<!-- 
 daba siddham :Perhaps better gulmagandhikāyāḥ ablative instead of -yāṁ? 
 --><lb 
 n="20" break="no"/>pāḥ<!-- 
 amwb : removed the unclear <unclear reason="illegible">pāḥ</unclear> + added DCS reading in apparatus--> <unclear>dai</unclear>va-kula-samīpe<!-- 
-amwb : replaced rddeva-kula-samīpe by Arlo's reading--> ca droṇa-vāpan ekaṁ <!-- 
+amwb : replaced rddeva-kula-samīpe by Arlo's reading--> ca droṇa-vāpan ekaṁ </p><!-- 
 daba siddham :Sircar emends rddevakula to devakula, but wouldn't it be more plausible (though strange) to assume the original reading was °pair ddevakula? 
 --><!-- 
 daba siddham :I am far from sure that this is the correct boundary of the semantic paragraph, it's just my hunch. I also can't quite follow how the droṇa-vāpas add up - six plus two plus one seem to be mentioned above, while here we have seven and then something ambiguous. Can the intent be, "7 droṇa-vāpas to the NE of Gulmagandhikā, plus [one] near the temple [and] one that needn't be recorded here [since it is not purchased now, but had been the property of Bhoyila to begin with, cf. kāritam in l19]"? Need to devote more time to this and compare its structure to the other similar charters. 
 -->
-	 likhyama ttra<!-- 
-amwb : replaced "ekaṁ na likhyam</p><p>atra" by Arlo's reading; check the division in <p> from Arlo's translation + check "ekaṁ likhyama" in display and not "ekaṁlikhyama"  --> sīmā pūrvveṇa puṣk<choice><sic>i</sic><corr>a</corr></choice>riṇyā<supplied reason="omitted">ḥ</supplied> kandara<supplied reason="omitted">ḥ</supplied> sīmā<!-- 
+	<p>likhyama ttra<!-- 
+amwb : replaced "ekaṁ na likhyam</p><p>atra" by Arlo's reading and reported <p> division from Arlo's translation + check the display to be sure that one can read "ekaṁ likhyama" and not "ekaṁlikhyama" because there are many comments inserted here--> sīmā pūrvveṇa puṣk<choice><sic>i</sic><corr>a</corr></choice>riṇyā<supplied reason="omitted">ḥ</supplied> kandara<supplied reason="omitted">ḥ</supplied> sīmā<!-- 
 amwb : replace "puṣk<choice><sic>i</sic><corr>a</corr></choice>riṇyā kandara-sīmā" by "puṣk<choice><sic>i</sic><corr>a</corr></choice>riṇyā kandara<supplied reason="omiteed">ḥ</supplied> sīmā--> ca dakṣiṇe<!-- 
 daba siddham :Sircar emends to puṣkariṇyāḥ; again, not sure. He does not emend the same in the next line. 
 --><lb 
@@ -495,7 +496,7 @@ n="12" break="no"/>vyām apratikara-</lem>
 					<note>Emend °<foreign>kuṇḍasya vihāre samā</foreign>-?</note>
 				</app>
 				<app loc="18">
-					<lem>v<choice><sic>i</sic><corr>e</corr></choice>śitāḥ</lem>
+					<lem>°v<choice><sic>i</sic><corr>e</corr></choice>śitāḥ</lem>
 					<note>Already emended by DCS.</note>
 				</app>
 				<app loc="18">
@@ -524,12 +525,13 @@ n="12" break="no"/>vyām apratikara-</lem>
 					<note>Already emended by DCS.</note>
 				</app>
 				<app loc="19">
-					<lem><choice><sic>pūrvvottattarāṁyā</sic><corr>pūrvvottarāsyāṁ</corr></choice></lem>
+					<lem>pūrvvo<surplus>tta</surplus>tta<choice><sic>rāṁyā</sic><corr>rasyāṁ</corr></choice></lem>
 					<note>Already emended by DCS.</note>
 				</app>
 				<app loc="19">
 					<lem>diśi sapta-</lem>
-					<note>Emend <foreign>diśi Aṣṭa</foreign>-. The <foreign>akṣara</foreign>s <foreign>sapta</foreign> and <foreign>Aṣṭa</foreign> are close enough to each other to make a scribal error plausible. The required total is <foreign>aṣṭa</foreign>.</note>
+					<note>Emend <foreign>diśi Aṣṭa</foreign>-. The <foreign>akṣara</foreign>s <foreign>sapta</foreign> and <foreign>Aṣṭa</foreign> are close enough to each other to make a scribal error plausible. The required total is <foreign>aṣṭa</foreign>.</note><!-- 
+amwb : I don't understand your count : six droṇa from kṣemāka-bhoyila-ahīdāsa (ṣaḍdroṇavāpāḥ) + from bhoyila 2 droṇa (droṇavāpadvayaṁ l.18 + 1 droṇa (droṇavāpam ekaṁ l.19)-->
 				</app>
 				<app loc="20">
 					<lem>°pāḥ</lem>
@@ -677,11 +679,27 @@ amwb : here the translation seems to me too much literal--> two <foreign>dīnār
 	<list>
 		<item>this sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land without revenue charges is customary in our territory, so that it ought to be given</item>
 		<item>there is no conflict <supplied reason="explanation">with the interest of the king</supplied></item>
-	</list>
-	and after having purchased this <supplied reason="explanation">land</supplied> with the two <foreign>dīnāra</foreign>s received by the artisan <supplied reason="explanation"><foreign>kulika</foreign></supplied> Bhīma from the hands of Kṣemāka, Bhoyila and Mahīdāsa, the six <foreign>droṇavāpa</foreign>s of Kṣemāka, Bhoyila and Mahīdāsa were entrusted <supplied reason="explanation">to the monastery</supplied> of the <foreign>śramaṇaka</foreign> master Balakuṇḍa. And by Bhoyila were bought, for the purpose of <supplied reason="explanation">the temple called</supplied> Sāmbapura two <foreign>droṇavāpa</foreign>s, and for the purpose of <supplied reason="explanation">use as</supplied> a flower garden and <supplied reason="explanation">as</supplied> adjoining land, in the vicinity of the temple in that very place, one <foreign>droṇavāpa</foreign>. So <supplied reason="explanation"><foreign>iti</foreign></supplied> this land is seven (recte: eight) <foreign>droṇavāpa</foreign>s to the Northeast of Gulmagandhikā, and one <foreign>droṇavāpa</foreign> near the temple.
+	</list><!-- 
+amwb : here I am not sure that this presentation of the text is allowed by english punctuation rules. I suggest a new presentation and segmentation of the text to render the intentions of your presentation. See below.-->
+	and after having purchased this <supplied reason="explanation">land</supplied> with the two <foreign>dīnāra</foreign>s received by the artisan <supplied reason="explanation"><foreign>kulika</foreign></supplied><!-- 
+amwb : I am wondering if it could be better to choose the meaning "chief of the guild", because it seems to me that one can not understand the high position of this man by the translation "artisan". If we consider the meaning of the unique compound with kulika- refered in MW and Apte 887, kulikavelā is related to business and means " certain portions of time on each day on which it is imporper to begin any good business. Consequently, in the present context, I have the impression that this Bhīma as an official role in transactions and it seems to me that "chief of the guild" fits better..  --> Bhīma from the hands of Kṣemāka, Bhoyila and Mahīdāsa,<!-- 
+amwb : as before, maybe "from the hands" is somewhat too literal, I suggest "in person" --> the six <foreign>droṇavāpa</foreign>s of<!-- 
+amwb : to improve the syntactic structure "absolutive + etad...., ṣaḍdroṇavāpāḥ + samāviśitāḥ", I suggest to add something in ( ) and delete "the" : six <foreign>droṇavāpa</foreign>s of (this land purchased by) Kṣemāka, Bhoyila and Mahīdāsa. See below in the translation suggested --> Kṣemāka, Bhoyila and Mahīdāsa were entrusted <supplied reason="explanation">to the monastery</supplied> of the <foreign>śramaṇaka</foreign> master Balakuṇḍa. And by Bhoyila were bought, for the purpose of <supplied reason="explanation">the temple called</supplied> Sāmbapura<!-- 
+amwb : it could be useful to indicate in a note that one can deduce from Bhoyila's place of residence mentionned at the beginning of the inscription that this temple Sāmbapura corresponds to "the little peripheral monastery built for the purpose of worshipping the Arhants at Gulmagandhika" and that the other dronaparvan is allocated to "the temple built for the Lord Sahasraraśmi <supplied reason="explanation">i.e., Sūrya</supplied> in the same Gulmagandhika" ?--> two <foreign>droṇavāpa</foreign>s, and for the purpose of <supplied reason="explanation">use as</supplied> a flower garden and <supplied reason="explanation">as</supplied> adjoining land<!-- 
+amwb : I suggest "adjacent park" see BC49 in the translation part for the word talavāṭaka : there are several mentions of the practice of dedication park or garden recorded in books of gifts -->, in the vicinity of the temple in that very place, one <foreign>droṇavāpa</foreign>. So <supplied reason="explanation"><foreign>iti</foreign></supplied> this land is seven (recte: eight) <foreign>droṇavāpa</foreign>s<!-- 
+amwb : here I suggest another understanding, see the translation below--> to the Northeast of Gulmagandhikā, and one <foreign>droṇavāpa</foreign> near the temple<!-- 
+amwb : maybe add in a note that this temple should be -->.
 			
 	</p>		
-	<p></p>
+	<p n="20-24">It is written in this regard that also by those other district chiefs, officers, peasant householders or councillors who in the near future will be administrating this land, delimited by four boundaries — the boundary in the East is the hollow <supplied reason="explanation">? <foreign>kandara</foreign></supplied> of the pond; and the boundary in the South is the hollow of Dhanaviṣṇu’s pond<!-- 
+amwb : I know that the reading of deva is not sure but shouldn't we translate it anyway ?-->; and the boundary in the West is Nābhrakasataka <supplied reason="explanation">?</supplied>; the boundary in the North is the ... pit — the permanent endowment is to be protected, with a view to the fruit of land donation.
+</p>
+			<p n="24-28">And it has been said by the Lord Vyāsa: </p>
+			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors.</p>
+			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
+			<p n="3" rend="stanza">This <supplied reason="subaudible">land</supplied> given by hundreds of kings is given again and again. Whoever holds land at a given time, to him does the fruit belong.</p>
+			<p n="4" rend="stanza">Those who steal a land donation are born <supplied reason="explanation">again</supplied> as black snakes living in dry caves in the waterless Vindhya forests.</p>
+			<p n="28-9">Year 128, <supplied reason="explanation">month of</supplied> Caitra, day 20. Written by Rudradāsa, heated by Susiṅha.</p>
 		</div>
 			<div type="textpart"><head>Amwb's suggestions</head>
 				<p n="3-14">Be the following request brought to your attention :<!-- 
@@ -712,16 +730,34 @@ amwb : "for the three achievements" translated what is included by the three dat
 						<item>- consuming of perfumes, incense, and oil.</item>
 					</list>
 					And as<!-- 
-amwb : "and as" tries to translate "ca" + "tad". Maybe add a note <note>We translate the intention of the syntactic structure <foreign>ca ... tad</foreign> (lines 12-3) by the expression "And as ...,...". </note>--> in your division the custom is sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land that is without revenue charges, be so kind as to accept from our behalf two <foreign>dīnāra</foreign>s and to give one <foreign>kulyavāpa</foreign> of land.
+amwb : "and as" tries to translate "ca" + "tad". Maybe add a note <note>We translate the intention of the syntactic structure <foreign>ca ... tad</foreign> (lines 12-3) by the expression "And as ...,...". </note>--> in your division the custom is sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land that is without revenue charges, be so kind as to accept from our behalf<!-- 
+amwb : or "be so kind as to accept 2 hand-delivered/hand-given dīnāra--> two <foreign>dīnāra</foreign>s and to give one <foreign>kulyavāpa</foreign> of land.
 				</p>
-				<p n="14-">Wherefore, after receiving this respectful request,it has been established through the investigation of the record-keepers Siṁhanandin and Yaśodāman that : </p>
+				<p n="14-16">Wherefore, after receiving this respectful request,it has been established through the investigation of the record-keepers Siṁhanandin and Yaśodāman that : </p>
 				<list>
-					<item>this sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land without revenue charges is customary in our territory, so that it ought to be given</item>
-					<item>there is no conflict <supplied reason="explanation">with the interest of the king</supplied>.</item><!-- 
+					<item>- this sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land without revenue charges is customary in our territory, so that it ought to be given</item>
+					<item>- there is no conflict <supplied reason="explanation">with the interest of the king</supplied>.</item><!-- 
 amwb : I suggest to cut the long sentence in several shortest sentences to respect the punctuation rules in english? -->
 				</list>
-				<p>And after having purchased this <supplied reason="explanation">land</supplied> with the two <foreign>dīnāra</foreign>s received by the artisan <supplied reason="explanation"><foreign>kulika</foreign></supplied> Bhīma from the hands of Kṣemāka, Bhoyila and Mahīdāsa,</p>
-			</div>
+				<p n="16-20">And after having purchased this <supplied reason="explanation">land</supplied> with the two <foreign>dīnāra</foreign>s received by the artisan <supplied reason="explanation"><foreign>kulika</foreign></supplied> Bhīma in person from Kṣemāka, Bhoyila and Mahīdāsa, six <foreign>droṇavāpa</foreign>s of <supplied reason="explanation">the land purchased by</supplied> Kṣemāka, Bhoyila and Mahīdāsa were entrusted <supplied reason="explanation">to the monasteries</supplied> of the <foreign>śramaṇaka</foreign> master Balakuṇḍa<!-- 
+amwb : according to the deduction made below about Bhoyila's place of residence and the count of drona, one could deduce that these monasteries managed by Balakuṇḍa correspond to "the monastery built for the venerable Arhants in the shrine of Pecikāmrasiddhi in the Dakṣiṇāṅśaka division" and "the little peripheral monastery built for the purpose of worshipping the Arhants at Gulmagandhika". These two places would be located in the Northeast of Gulmagandhikā -->, two <foreign>droṇavāpa</foreign>s were allocated (kāritam)<!-- 
+amwb : here I don't follow the emendation krītam and conserve kāritam, because this causative seems to indicate the transformation of the use of the land by the gift made by the Bhoyila. Among the drona bought by Bhoyila, he dedicates 2 drona to Sambapura and one to the temple of the Lord Sahasraraśmi-->by Bhoyila to <supplied reason="explanation">the temple situated at</supplied> Sāmbapura<!-- 
+amwb : Sāmbapura seems to me to be rather a name of place than a name of temple  --> - among these (two droṇavāpas) (tatra), one in the vicinity of the temple (e(kava)vakulasamīpe =ekam+devakulasamīpe) and one <foreign>droṇavāpa</foreign> was earkmarked (by Bhoyila) for <supplied reason="explanation">using as</supplied> flower-garden and adjacent park (<!--
+amwb : it could be useful to indicate in a note that one can deduce from Bhoyila's place of residence (l.4) that this temple Sāmbapura corresponds to "the little peripheral monastery built for the purpose of worshipping the Arhants at Gulmagandhika" and that the other dronaparvan is allocated to "the temple built for the Lord Sahasraraśmi <supplied reason="explanation">i.e., Sūrya</supplied> in the same Gulmagandhika" ?--> - so this land<!-- 
+amwb: I understand that the portion of text beginning by "kṣemākabhoyilamahīdāsayo ṣaḍdroṇavāpāḥ" and finishing by "kāritam" is what is included by iti--> <supplied reason="explanation">consists of</supplied> seven <foreign>droṇavāpa</foreign>s in the Northeast of Gulmagandhikā, and one <foreign>droṇavāpa</foreign> near the temple<note>
+						This temple may be the one built for the Lord Sahasraraśmi <supplied reason="explanation">i.e., Sūrya</supplied> mentioned as <foreign>devakula</foreign> in line 10.
+					</note>.<!-- 
+amwb : it seems rather unlikely to me that there is an error of account in an official document whose purpose is to ratify land transactions. Therefore I understand that the plate explains how the kulyavāpa purchased with 2 dīnāra is divided into droṇavāpas. As I don't know how many droṇavāpas are contained in one kulyavāpa, my hypothesis could be faulse. But I found in Dikshit 1929-1930 that in Paharpur Plate "five droṇavāpa =  2/3 of kulyavāpa approximately" (P.60) and "A kulya, according to various ancient authorities, was equivalent to 8 dr5nas=Z2 ddhakas=\29i prasthas" (p.61). According to this, one kulyavāpa is equal to 7,5 droṇavāpa at minima and regularly to 8 droṇavāpa. So by noting 7+1 the scribe certifies that the transaction is regular : 2 dinara = 1 kulyavapa = 7 drona +1 drona.  
+Then one can deduce that the  "droṇa-vāpan ekaṁ" near the temple (l.20) refered to the temple built for the lord Sahasraraśmi because this is the only place designated by the word "devakula" in the text. From these deductions, I suggest that this kulyavāpa purchased with 2 dīnāra consists of a sum of 7+1 :
+- seven droṇavāpas situated in the Northeast of Gulmagandhikā
+and one droṇavāpa near the temple built for the Lord Sahasraraśmi (which is not situated in the Northeast of Gulmagandhikā)
+The repartition of the droṇavāpas is not clear at all, and in order to obtain a sum of 7+1 droṇavāpas with numbers present in the plate (6, 2 and 1), we have to assume that among the three droṇavāpas which are allocated by Bhoyila, two droṇavāpas have been bought by him alone in addition to the six droṇavāpas acquired by the three Kṣemāka, Bhoyila and Mahīdāsa. In these two droṇavāpas, one could be the one allocated to the temple built for the Lord Sahasraraśmi
+					--> </p>
+			<p n="20-24">In this respect, it is written that the land delimited by these four boundaries — the boundary in the East is the valley (<supplied reason="explanation"><foreign>kandara</foreign></supplied>) of lotus ponds ; and the boundary in the South is the <supplied reason="explanation">divine</supplied>
+				<note>
+				The word "divine" tries to translate <foreign>deva</foreign>, even if its reading in line 21 is not sure. 
+				</note> 
+				valley of Dhanaviṣṇu’s pond; and the boundary in the West is Nābhrakasataka (?); the boundary in the North is the … pit — is acquired on this day (I emended samupasthitaṁ kālaṁ) : whether it is they or others, the district chiefs, officers, peasant householders or councillors who in the near future will be administrating this land, after considering the fruit of land donation, will have to protect (this land) as a permanent endowment. </p></div>
 		<div type="commentary">
 		</div>
 		<div type="bibliography">

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Paharpur Charter of the Time of Budhagupta</title>
+				<respStmt>
+					<resp>Original EpiDoc Encoding for Siddham</resp>
+					<persName ref="part:daba">
+						<forename>Dániel</forename>
+						<surname>Balogh</surname>
+					</persName>
+				</respStmt><respStmt>
+					<resp>Conversion of encoding for DHARMA</resp>
+					<persName ref="part:daba">
+						<forename>Dániel</forename>
+						<surname>Balogh</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>EpiDoc encoding for DHARMA of parts not yet encoded for Siddham</resp>
+					<persName ref="part:amwb">
+						<forename>Amandine</forename>
+						<surname>Wattelier-Bricout</surname>
+					</persName></respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:daba">
+						<forename>Dániel</forename>
+						<surname>Balogh</surname>
+					</persName>
+					<persName ref="part:argr">
+						<forename>Arlo</forename>
+						<surname>Griffiths</surname>
+					</persName>
+				</respStmt>
+				</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Cambrai</pubPlace>
+				<idno type="filename">DHARMA_INSBengalCharters00052</idno><!-- 
+The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHARMA filename is assigned. amwb : ID Siddham = IN00065
+--><availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit thttps://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Dániel Balogh.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary></summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p></p>
+						</handDesc>
+					</physDesc>
+				</msDesc>			
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<!--<change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment).. Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>-->
+			<change who="part:amwb" when="2012-07_15">Import of Siddham file IN00065 and started initial encoding with Arlo's edtion and remarks.</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+			<div type="edition" xml:lang="san-Latn">
+<p><pb 
+
+n="1r"/><lb 
+n="1"/>svasti<supplied reason="subaudible">.</supplied> puṇḍravarddhanād<!-- 
+amwb : removed the unclear puṇḍra<unclear>varddha</unclear>nād accroding to Arlo's reading and added this reading in the apparatus--> āyuktakā Āryya-nagara-śreśṭhi-purogañ cādhiṣṭhānādhikaraṇaM <space/><!-- 
+amwb : changed m in M and added space according to Arlo's reading--> dakṣiṇāṁśaka-vītheya-nāgiraṭṭa<!-- 
+daba siddham : This inscription has spaces (for punctuation) at least in the verses near the end. My facsimile is terrible, so I have not used it, but the spaces should be shown on the basis of a decent image. 
+--><!-- 
+daba siddham :Dikshit reads āyuktakaḥ. His editor (Dikshit_1929-30:65n5) notes that the plate "correctly" gives āyuktakā and thus there would have been several āyuktakas. Agrawala opts to read āyuktaka and cites (without specific reference) Sircar as reading āyuktakā and proposing several āyuktakas. I do not know if Sircar was the editor of EI in 1931 or if he says so in SI. I personally feel āyuktaka is not likely; there is certainly something after the ka, which may be an ā mātrā or the upper dot of a visarga (while the lower dot could be what looks like the thick end of the right arm of ka). The text has many superfluous visargas so the reading is not unlikely. 
+-->
+<!-- 
+amwb : Replaced āyuktak<choice><unclear>ā</unclear><unclear>aḥ</unclear></choice> Āryya by Arlo's reading--><lb 
+n="2" break="no"/>-māṇḍalika-palāśāṭṭa-pārśvika-vaṭa-gohālī-jambudeva-prāveśya-pr̥ṣṭhima-pottaka-goṣāṭapuñjaka-mūla-nāgiraṭṭa-prāveśya-
+<lb 
+n="3"/>vilva<!-- 
+amwb : removed nitva and replaced it by Arlo's reading-->-gohālīṣu brāhmaṇottarān mahattarādi-kuṭumbinaḥ kuśalam anuvarṇṇyānubodhayanti <space/><!-- 
+amwb : added space from Arlo's reading--><supplied reason="subaudible">.</supplied>vijñāpayaty asmān brāhmaṇa-nātha<lb 
+n="4" break="no"/>śarmmā Etad-bhāryyā rāmī ca <space/><!-- 
+amwb : added a space arccording to Arlo's reading--> <supplied reason="subaudible">.</supplied> yuṣmākam ihādhiṣṭhānādhikaraṇe dvi-dīnārikkya-kulya-vāpena śaśvat-kālopabhogyo 'kṣaya-<!-- 
+amwb : replaced kālopabhogyākṣaya by Arlo's reading-->-nīvī-samudaya-vāhyā<lb 
+n="5" break="no"/>pratikara-khila-kṣetra-vāstu-vikkrayo 'nuvr̥ttas tad arhathānenaiva kkrameṇāvayos sakāśād dīnāra-trayam upasaṁ<surplus>ṅ</surplus>gr̥hyāvayo<!-- 
+amwb : removed upasaṅgr̥hyāvayo<supplied reason="omitted">ḥ</supplied> and replaced by Arlo's reading--> sva-puṇyāpyā<lb 
+n="6" break="no"/>yanāya vaṭa-gohālyām avāsyāṅ kāśika-pañca-stūpa-nikāyika-nigrantha-śramaṇācāryya-guhanandi-śiṣya-praśiṣyādhiṣṭhita-vihāre<!-- 
+daba siddham :Dikshit emends avāsyāṅ to evāsyāṅ. Agrawala leaves it as is, but I do not know how he interprets that. I have no better idea than evāsyāṁ, though this sounds unnecessary. Dikshit's editor (p62n3) also notes, "Navy-Āvakāśikāyāṁ of the Faridpur grants 2 and 3. Ind. Ant., Vol. XXXIX, pp. 200 and 204." 
+--><lb 
+n="7"/>bhagavatām arhatāṁ gandha-dhūpa-sumano-dīpādy-artha<sic>n</sic> tala-vāṭaka-nimittañ ca A eva vaṭa-gohālīto vāstu-droṇa-vāpam adhyarddhañ ja<!-- 
+daba siddham :Dikshit and Agrawala both emend a eva to ata eva, which would be very out of place here. I have no better suggestion. There is a very conspicuous round dot over the va, so the reading may be evaṁ; no idea about the a or whatever it is. 
+--><lb 
+n="8" break="no"/>mbudeva-prāveśya-pr̥ṣṭhima-pottak<choice><sic>e</sic><corr>ā</corr></choice>t kṣetraṁ droṇa-vāpa-catuṣṭayaṁ goṣāṭapuñjād droṇa-vāpa-catuṣṭayam mūla-nāgiraṭṭa-<!-- 
+daba siddham :Dikshit emends pottaket to pottake; Agrawala leaves as is. Given that all other villages are in ablative or suffixed with -taḥ, the intended form must have been pottakāt. 
+--><lb 
+n="9"/>prāveśyā-nitva-gohālītaḥ Arddha-trika-droṇa-vāpān ity evam adhyarddhaṁ kṣetra-<subst><del rend="corrected">droṇa</del><add place="overstrike">kulya</add></subst>-vāpam akṣaya-nīvyā dātu<damage>m i<unclear reason="illegible">ti</unclear></damage> <!-- 
+daba siddham :Dikshit reads dātum i(ty atra) yataḥ. Agrawala has dātum i(ti)[+|] yataḥ. The plate is damaged here, but I think the subscript ya should be visible if the reading really were ity atra. Agrawala's simple iti, on the other hand, is far too short. My best guess is iti tatra. What I see as ta may have been what Dikshit read as tra. 
+--></p>
+<p><damage><unclear reason="illegible">tatra</unclear></damage> yataḥ prathama-
+<lb 
+n="10"/>pustapāla-divākaranandi-pustapāla-dhr̥tiviṣṇu-virocana-rāmadāsa-haridāsa-śaśinandi-<damage><unclear>su</unclear>prabha-<unclear>manu</unclear>da<supplied reason="lost">ttā</supplied><unclear>nā</unclear></damage>m avadhāraṇa<!-- 
+daba siddham :Dikshit reads the damaged locus as °nandiṣu prathamanu ### (nā)m. I follow Agrawala's reconstruction, but my markup is a bit more cautious than his. bha is quite clear and does not look like tha to me. 
+--><lb 
+n="11" break="no"/>yāvadhr̥tam asty asmad-adhiṣṭhānādhikaraṇe dvi-dīnārikkya-kulya-vāpena śaśvat-kālopabhogyākṣaya-nīvī-sa<damage>mu<unclear>daya-vā</unclear>h</damage>yāpratikara-
+<lb 
+n="12"/><supplied reason="lost">khila</supplied>-kṣetra-vāstu-vikkrayo nuvr̥ttas tad yad yuṣmā<sic>m</sic> brāhmaṇa-nātha-śarmmā Etad-bhāryyā rāmī ca palāśāṭṭa-pārśvika-vaṭa-gohālī-<unclear cert="low">sthaya</unclear><!-- 
+daba siddham :Dikshit and Sircar both emend yuṣmām to yuṣmān. My intuition would be yuṣmākam. 
+--><!-- 
+daba siddham :At the end, Agrawala (Sircar?) reads sth(āyi). The penultimate character does not look like stha to me, perhaps better sva? 
+--><pb 
+
+n="1v"/><lb 
+n="13"/><supplied reason="lost">kāśi</supplied>ka-pañca-stūpa-kula-nikāyika-Ācāryya-nigrantha-guhanandi-śiṣya-praśiṣyādhiṣṭhita-sad-vihāre Ar<sic>a</sic>hatāṁ gandha-<unclear>dhūp</unclear>ādy-upayogāya
+<lb 
+n="14"/><supplied reason="lost">tala-v</supplied>āṭaka-nimittañ ca tatraiva vaṭa-gohālyāṁ vāstu-droṇa-vāpam adhyarddhaṁ kṣetrañ jambudeva-prāveśya-pr̥ṣṭhima-pottake <damage>droṇa-vāpa</damage>-catuṣṭayaṁ
+<lb 
+n="15"/>goṣāṭapuñjād droṇa-vāpa-catuṣṭayaṁ mūla-nāgiraṭṭa-prāveśya-nitva-gohālīto droṇa-vāpa-dvayam āḍha<damage>vā<supplied reason="lost">pa-dva</supplied>y-ā</damage>dhikam ity evam a<!-- 
+daba siddham :Both Dikshit and Agrawala read the damaged section as āḍhavāpa-dvayādhikam, showing padva as unclear, not as a conjecture. In any case, Dikshit_1929-30:61 says (essentially) that an āḍhavāpa is 1/4 of a droṇavāpa "according to various ancient authorities", so this should be correct, since the area is said in l8 to be arddha-trika-droṇavāpa. 
+--><lb 
+n="16" break="no"/>dhyarddhaṁ kṣetra-kulya-vāpam prārtthayate tra na kaścid virodhaḥ guṇas tu yat parama-bhaṭṭāraka-pādānām artthopacayo dharmma-ṣaḍ-bhāg-āpyāya<!-- 
+daba siddham :Dikshit's editor emends prārtthayate to prārthayete; Agrawala actually reads prārttha(ye)te. My intuition says prārtthyate. 
+--><lb 
+n="17" break="no"/>nañ ca bhavati tad evaṅ kriyatām<supplied reason="subaudible">.</supplied> ity anenāvadhāraṇā-kkrameṇāsmād brāhmaṇa-nātha-śarmmata Etad-bhāryyā-rāmiyāś ca dīnāra-tra<lb 
+n="18" break="no"/>yam āyīkr̥tyaitābhyāṁ vijñāpitaka-kramopayogāyopari-nirddiṣṭa-grāma-gohālikeṣu tala-vāṭaka-vāstunā saha kṣetraṁ
+<lb 
+n="19"/>kulya-vāpa Adhyarddho <supplied reason="subaudible">’</supplied>kṣaya-nīvī-dharmmeṇa dattaḥ<supplied reason="subaudible">.</supplied> ku <num value="1">1</num> dro <num value="4">4</num></p>
+<p>tad yuṣmābhiḥ sva-karmmaṇāvirodhi-sthāne ṣaṭka-naḍair-apa<!-- 
+daba siddham :Compare svakarṣaṇāvirodhi in the Baigram plate (IN00061, l18), where Basak notes that this must be intended in the Paharpur plate as well. 
+--><lb 
+n="20" break="no"/>viñcchya dātavyo <supplied reason="subaudible">’</supplied>kṣaya-nīvī-dharmmeṇa ca śaśvad ācandrārkka-tāraka-kālam anu-pālayitavya Iti<!-- 
+daba siddham :Dikshit's editor (Dikshit_1929-30:63n3) notes that N. P. Chakravarti connects apaviñchya with the Bengali word bāchhā meaning to select or choose. Not very convincing but keep in mind. 
+--></p>
+<p>sa<sic>M</sic> <num value="159"><g type="numeral">100</g> <g type="numeral">50</g> 9</num>
+<lb 
+n="21"/>māgha di <num value="7">7</num></p>
+<p>Uktañ ca bhagavatā vyāsena</p>
+<lg n="1" met="anuṣṭubh">
+<l n="a">sva-dattāṁ para-dattāṁ vā</l>
+<l n="b">yo hareta vasundharāM</l>
+<l n="c"><lb n="22"/>sa viṣṭhāyāṁ k<sic>ri</sic>mir bhūtvā</l>
+<l n="d">pitr̥bhis saha pacyate</l>
+</lg>
+<lg n="2" met="anuṣṭubh">
+<l n="a">ṣaṣṭi-varṣa-sahasrāṇi</l>
+<l n="b">svargge vasati bhūmidaḥ</l>
+<l n="c"><lb n="23"/>Ākṣeptā cānumantā ca</l>
+<l n="d">tāny eva narake vaseT</l>
+</lg>
+<lg n="3" met="anuṣṭubh">
+<l n="a">rājabhir vvahubhir dattā</l>
+<l n="b">dīyate ca punaḥ punaḥ</l>
+<l n="c">yasya yasya <lb n="24"/>yadā <sic>bhūmi</sic></l>
+<l n="d">tasya tasya tadā phalaM</l>
+</lg>
+<lg n="4" met="anuṣṭubh">
+<l n="a">pūrvva-dattāṁ dvijātibhyo</l>
+<l n="b">yatnād rakṣa yudhiṣṭhira</l>
+<l n="c">mahīm mahimatāṁ śreṣṭha</l>
+<l n="d"><lb n="25"/>dānāc chreyo nupālanaṁ<!-- 
+daba siddham :Dikshit emends mahimatāṁ to matimatāṁ. His editor notes that mahimatāṁ is also correct. I Thought it ought to be mahīmatāṁ. 
+--></l>
+</lg>
+<lg n="5" met="anuṣṭubh">
+<l n="a">vindhyāṭavīṣv anambhasṣu</l>
+<l n="b">śuṣka-koṭara-vāsina<supplied reason="omitted">ḥ</supplied></l>
+<l n="c"><sic>kr̥ṣnāhino</sic> hi jāyante</l>
+<l n="d">deva-dāyaṁ haranti ye</l>
+</lg>
+			</div>
+				<div type="apparatus">
+			<listApp>
+				<app loc="1">
+				<lem>puṇḍravarddhanād</lem>
+				<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">puṇḍra<unclear>varddha</unclear>nād</rdg>
+				</app>
+				<app loc="1">
+					<lem>āyuktakā Āryya</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">āyuktak<choice><sic><unclear>ā</unclear> Ā</sic><corr><unclear>aḥ</unclear> Ā</corr></choice>ryya-</rdg>
+				</app>
+				<app loc="3">
+					<lem>vilva</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">nitva-</rdg>
+				</app>
+				<app loc="4">
+					<lem>ihādhiṣṭhānādhikaraṇe</lem>
+					<note>The expression is surprising, because in parallel passages for the certification by record-keepers one never sees an <foreign>adhikaraṇa</foreign>, but it is confirmed by line 11.
+</note>
+				</app>
+				<app loc="4">
+					<lem>°bhogyo 'kṣaya-</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">°bhogyākṣaya-</rdg>
+				</app>
+				<app loc="4">
+					<lem>-vāhyā-</lem>
+					<note>KND and DCS observe that this is to be read as -<foreign>bāhyā</foreign>-. The spelling of <foreign>v</foreign> for <foreign>b</foreign> is noteworthy.
+</note>
+				</app>
+				<app loc="5">
+					<lem>upasaṁ<surplus>ṅ</surplus>gr̥hyāvayo</lem>
+					<rdg source="bib:Dikshit1929-1930_01">upasaṅgr̥hyāvayo<supplied reason="omitted">s</supplied></rdg>
+					<rdg source="bib:Sircar1965_02">upasaṅgr̥hyāvayo<supplied reason="omitted">ḥ</supplied></rdg>
+					<note>The (superfluous) <foreign>anusvāra</foreign> seems rather clear on the facsimile.</note>
+				</app>
+				<app loc="6">
+					<lem>vaṭa-gohālyām avāsyāṅ</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">vaṭagohālyāmavāsyāṅ</rdg>
+					<note>KND DCS emended to <foreign>vaṭagohālyām evāsyāṅ</foreign>. But the <foreign>akṣara</foreign> they read <foreign>syā</foreign> really looks more like <foreign>śyā</foreign>. Cf. the problem at the end of line 12. I provisionally assume that one must indeed emend <foreign>vaṭagohālyām evāsyāṅ</foreign> here.</note>
+				</app>
+			</listApp>
+		</div>
+		<div type="translation" xml:lang="eng">
+		</div>
+		<div type="commentary">
+		</div>
+		<div type="bibliography">
+			<p></p>
+			<listBibl type="primary">
+				<bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="page">283</citedRange><citedRange unit="entry">2037</citedRange></bibl><!-- 
+				amwb: ref bib coming from siddham -->
+				<bibl n="KND"><ptr target="bib:Dikshit1929-1930_01"/><citedRange unit="page">59-64</citedRange></bibl>
+				<bibl><ptr target="bib:ARIE1956-1957"/><citedRange unit="issue">27</citedRange><citedRange unit="entry">14</citedRange><citedRange unit="chapter">App.A</citedRange></bibl>
+				<bibl n="DCS"><ptr target="bib:Sircar1965_02"/><citedRange unit="part">III</citedRange><citedRange unit="entry">42</citedRange><citedRange unit="page">346-349</citedRange></bibl><!-- 
+				amwb : ref coming from Siddham but I changed the ref of pages because  -->
+				<bibl><ptr target="bib:Agrawala1983_02"/><citedRange unit="entry">50</citedRange></bibl><!-- amwb : ref bib coming from siddham -->
+				<bibl><ptr target="bib:Goyal1993_01"/><citedRange unit="page">277-81</citedRange></bibl><!-- amwb : ref bib coming from siddham -->
+				<bibl n="siglum"/>
+			</listBibl>
+			<listBibl type="secondary">
+				<bibl n="siglum"/>
+			</listBibl>
+		</div>
+		</body>
+	</text>
+</TEI>
