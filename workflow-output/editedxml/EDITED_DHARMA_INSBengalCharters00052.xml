@@ -74,7 +74,7 @@ The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHA
       </fileDesc>
       <revisionDesc>
 			<!--<change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment).. Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>-->
-         <change who="part:amwb" when="2012-07_15">Import of Siddham file IN00065 and started initial encoding with Arlo’s edtion and remarks.</change>
+         <change who="part:amwb" when="2021-07-15">Import of Siddham file IN00065 and started initial encoding with Arlo’s edtion and remarks.</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -93,69 +93,133 @@ amwb : Replaced āyuktak<choice><unclear>ā</unclear><unclear>aḥ</unclear></ch
 amwb : removed nitva and replaced it by Arlo's reading-->-gohālīṣu brāhmaṇottarān mahattarādi-kuṭumbinaḥ kuśalam anuvarṇṇyānubodhayanti <space/><!-- 
 amwb : added space from Arlo's reading--><supplied reason="subaudible">.</supplied>vijñāpayaty asmān brāhmaṇa-nātha<lb n="4" break="no"/>śarmmā Etad-bhāryyā rāmī ca <space/><!-- 
 amwb : added a space arccording to Arlo's reading--> <supplied reason="subaudible">.</supplied> yuṣmākam ihādhiṣṭhānādhikaraṇe dvi-dīnārikkya-kulya-vāpena śaśvat-kālopabhogyo ’kṣaya-<!-- 
-amwb : replaced kālopabhogyākṣaya by Arlo's reading-->-nīvī-samudaya-vāhyā<lb n="5" break="no"/>pratikara-khila-kṣetra-vāstu-vikkrayo ’nuvr̥ttas tad arhathānenaiva kkrameṇāvayos sakāśād dīnāra-trayam upasaṁ<surplus>ṅ</surplus>gr̥hyāvayo<!-- 
-amwb : removed upasaṅgr̥hyāvayo<supplied reason="omitted">ḥ</supplied> and replaced by Arlo's reading--> sva-puṇyāpyā<lb n="6" break="no"/>yanāya vaṭa-gohālyām avāsyāṅ kāśika-pañca-stūpa-nikāyika-nigrantha-śramaṇācāryya-guhanandi-śiṣya-praśiṣyādhiṣṭhita-vihāre<!-- 
+amwb : replaced kālopabhogyākṣaya by Arlo's reading
+-->-nīvī-samudaya-vāhyā<lb n="5" break="no"/>pratikara-khila-kṣetra-vāstu-vikkrayo ’nuvr̥ttas tad arhathānenaiva kkrameṇāvayos sakāśād dīnāra-trayam upasaṁ<surplus>ṅ</surplus>gr̥hyāvayo<!-- 
+amwb : removed upasaṅgr̥hyāvayo<supplied reason="omitted">ḥ</supplied> and replaced by Arlo's reading
+--> sva-puṇyāpyā<lb n="6" break="no"/>yanāya vaṭa-gohālyām avāsyāṅ kāśika-pañca-stūpa-nikāyika-nigrantha-śramaṇācāryya-guhanandi-śiṣya-praśiṣyādhiṣṭhita-vihāre<!-- 
 daba siddham :Dikshit emends avāsyāṅ to evāsyāṅ. Agrawala leaves it as is, but I do not know how he interprets that. I have no better idea than evāsyāṁ, though this sounds unnecessary. Dikshit's editor (p62n3) also notes, "Navy-Āvakāśikāyāṁ of the Faridpur grants 2 and 3. Ind. Ant., Vol. XXXIX, pp. 200 and 204." 
---><lb n="7"/>bhagavatām arhatāṁ gandha-dhūpa-sumano-dīpādy-artha<sic>n</sic> tala-vāṭaka-nimittañ ca A eva vaṭa-gohālīto vāstu-droṇa-vāpam adhyarddhañ ja<!-- 
+--><lb n="7"/>bhagavatām arhatāṁ gandha-dhūpa-sumano-dīpādy-arttha<sic>n</sic><!-- 
+amwb : added a t in arttha
+--> tala-vāṭaka-nimittañ ca Atavaṁ<!-- 
+amwb : removed A eva and replaced by Arlo's reading
+--> vaṭa-gohālīto vāstu-droṇa-vāpam adhyarddhañ ja<!-- 
 daba siddham :Dikshit and Agrawala both emend a eva to ata eva, which would be very out of place here. I have no better suggestion. There is a very conspicuous round dot over the va, so the reading may be evaṁ; no idea about the a or whatever it is. 
---><lb n="8" break="no"/>mbudeva-prāveśya-pr̥ṣṭhima-pottak<choice><sic>e</sic><corr>ā</corr></choice>t kṣetraṁ droṇa-vāpa-catuṣṭayaṁ goṣāṭapuñjād droṇa-vāpa-catuṣṭayam mūla-nāgiraṭṭa-<!-- 
+--><lb n="8" break="no"/>mbudeva-prāveśya-pr̥ṣṭhima-pottak<choice><sic>e</sic><corr>ā</corr></choice>t kṣetra-droṇa-vāpa-catuṣṭayaṁ<!-- 
+amwb : replaced kṣetraṁ droṇa-vāpa-catuṣṭayaṁ by Arlo's reading
+--> goṣāṭapuñjād droṇa-vāpa-catuṣṭayaM<!-- 
+amwb : changed the final m in M
+--> mūla-nāgiraṭṭa-<!-- 
 daba siddham :Dikshit emends pottaket to pottake; Agrawala leaves as is. Given that all other villages are in ablative or suffixed with -taḥ, the intended form must have been pottakāt. 
---><lb n="9"/>prāveśyā-nitva-gohālītaḥ Arddha-trika-droṇa-vāpān ity evam adhyarddhaṁ kṣetra-<subst><del rend="corrected">droṇa</del><add place="overstrike">kulya</add></subst>-vāpam akṣaya-nīvyā dātu<damage>m i<unclear reason="illegible">ti</unclear></damage> <!-- 
+--><lb n="9"/>prāveśyā<!-- 
+amwb : replaced prāveśyā by Arlo's reading
+-->-vilva<!-- 
+amwb : replaced nitva by vilva according to Arlo's reading
+-->-gohālītaḥ Arddhatrikan droṇa-vāpān<!-- 
+amwb ;: replaced Arddha-trika-droṇa-vāpān by Arlo's reading
+--> ity evam adhyarddhaṁ kṣetra-kulya-vāpam<!-- 
+amwb : as Arlo does not give his opinion on KND's note, I removed kṣetra-<subst><del rend="corrected">droṇa</del><add place="overstrike">kulya</add></subst>-vāpam --> akṣaya-nīvyā dātu<unclear>m iti</unclear> <space/> <unclear>ya</unclear>taḥ <!-- 
 daba siddham :Dikshit reads dātum i(ty atra) yataḥ. Agrawala has dātum i(ti)[+|] yataḥ. The plate is damaged here, but I think the subscript ya should be visible if the reading really were ity atra. Agrawala's simple iti, on the other hand, is far too short. My best guess is iti tatra. What I see as ta may have been what Dikshit read as tra. 
+-->
+<!-- 
+amwb : removed dātu<damage>m i<unclear reason="illegible">ti</unclear></damage> and replaced it by Arlo's reading
 --></p>
 <p><damage><unclear reason="illegible">tatra</unclear></damage> yataḥ prathama-
-<lb n="10"/>pustapāla-divākaranandi-pustapāla-dhr̥tiviṣṇu-virocana-rāmadāsa-haridāsa-śaśinandi-<damage><unclear>su</unclear>prabha-<unclear>manu</unclear>da<supplied reason="lost">ttā</supplied><unclear>nā</unclear></damage>m avadhāraṇa<!-- 
+<lb n="10"/>pustapāla-divākaranandi-pustapāla-dhr̥tiviṣṇu-virocana-rāmadāsa-haridāsa-śaśinandi-suprabhamanu<unclear>da</unclear><supplied reason="lost">ttā</supplied>nām<!-- 
+amwb : removed <damage><unclear>su</unclear>prabha-<unclear>manu</unclear>da<supplied reason="lost">ttā</supplied><unclear>nā</unclear></damage>m and replaced by Arlo's reading 
+--> avadhāraṇa<!-- 
 daba siddham :Dikshit reads the damaged locus as °nandiṣu prathamanu ### (nā)m. I follow Agrawala's reconstruction, but my markup is a bit more cautious than his. bha is quite clear and does not look like tha to me. 
---><lb n="11" break="no"/>yāvadhr̥tam asty asmad-adhiṣṭhānādhikaraṇe dvi-dīnārikkya-kulya-vāpena śaśvat-kālopabhogyākṣaya-nīvī-sa<damage>mu<unclear>daya-vā</unclear>h</damage>yāpratikara-
-<lb n="12"/><supplied reason="lost">khila</supplied>-kṣetra-vāstu-vikkrayo nuvr̥ttas tad yad yuṣmā<sic>m</sic> brāhmaṇa-nātha-śarmmā Etad-bhāryyā rāmī ca palāśāṭṭa-pārśvika-vaṭa-gohālī-<unclear cert="low">sthaya</unclear><!-- 
+--><lb n="11" break="no"/>yāvadhr̥tam asty asmad-adhiṣṭhānādhikaraṇe dvi-dīnārikkya-kulya-vāpena śaśvat-kālopabhogyo ’kṣaya<!-- 
+amwb : removed bhogyākṣaya and replaced by Arlo' reading 
+-->-nīvī-sa<supplied reason="lost">mu</supplied>da<supplied reason="lost">ya-vā</supplied>hyāpratikara<!-- 
+amwb : removed sa<damage>mu<unclear>daya-vā</unclear>h</damage>yā and replaced by Arlo's reading + added in the apparatus 
+-->
+<lb n="12"/><unclear>khila</unclear><!-- 
+amwb : replaced a supplied by an unclear according to Arlo's reading and added in the apparatus 
+-->-kṣetra-vāstu-vikkrayo ’nuvr̥ttas tad yad yuṣmā<choice><sic>m</sic><corr>n</corr></choice> brāhmaṇa-nātha-śarmmā Etad-bhāryyā rāmī ca palāśāṭṭa-pārśvika-vaṭa--gohālī<unclear cert="high">sva</unclear> <gap reason="illegible" unit="character" quantity="1"/><!-- 
 daba siddham :Dikshit and Sircar both emend yuṣmām to yuṣmān. My intuition would be yuṣmākam. 
 --><!-- 
 daba siddham :At the end, Agrawala (Sircar?) reads sth(āyi). The penultimate character does not look like stha to me, perhaps better sva? 
---><pb n="1v"/><lb n="13"/><supplied reason="lost">kāśi</supplied>ka-pañca-stūpa-kula-nikāyika-Ācāryya-nigrantha-guhanandi-śiṣya-praśiṣyādhiṣṭhita-sad-vihāre Ar<sic>a</sic>hatāṁ gandha-<unclear>dhūp</unclear>ādy-upayogāya
-<lb n="14"/><supplied reason="lost">tala-v</supplied>āṭaka-nimittañ ca tatraiva vaṭa-gohālyāṁ vāstu-droṇa-vāpam adhyarddhaṁ kṣetrañ jambudeva-prāveśya-pr̥ṣṭhima-pottake <damage>droṇa-vāpa</damage>-catuṣṭayaṁ
-<lb n="15"/>goṣāṭapuñjād droṇa-vāpa-catuṣṭayaṁ mūla-nāgiraṭṭa-prāveśya-nitva-gohālīto droṇa-vāpa-dvayam āḍha<damage>vā<supplied reason="lost">pa-dva</supplied>y-ā</damage>dhikam ity evam a<!-- 
+--><!-- 
+amwb : replaced -gohālī-<unclear cert="low">sthaya</unclear> by Arlo's reading 
+--><pb n="1v"/><lb n="13"/><supplied reason="lost">kāśi</supplied>ka-pañca-stūpa-kula-nikāyika-Ācāryya-nigrantha-guhanandi-śiṣya-praśiṣyādhiṣṭhita-sad-vihāre Ar<sic>a</sic>hatāṁ gandha-<supplied reason="lost">dhūp</supplied>ādy-upayogāya<!-- 
+amwb : I replaced an unclear by a supplied according to Arlo's reading
+-->
+<lb n="14"/><supplied reason="lost">tala-v</supplied>āṭaka<!-- 
+amwb : Removed and replace it by Arlo's reading, checked DCS's and KND's readings and added them in apparatus 
+-->-nimittañ ca Atraiva<!-- 
+amwb : removed tatraiva and replaced it by Arlo's reading 
+--> vaṭa-gohālyāṁ vāstu-droṇa-vāpam adhyarddhañ<!-- 
+amwb : replaced adhyarddhaṁ by Arlo's reading, checked DCS's and KND's readings and added them in apparatus 
+--> kṣetrañ<!-- 
+amwb : here it is necessary to read the plate because in Arlo's document the word kṣetrañ is absent. In my opinion, it is only a mere oversight
+--> jambudeva-prāveśya-pr̥ṣṭhima-pottake droṇa-vāpa<!-- 
+amwb : removed the tag damage in <damage>droṇa-vāpa</damage> because Arlo does not mention it
+-->-catuṣṭayaṁ
+<lb n="15"/>goṣāṭapuñjād droṇa-vāpa-catuṣṭayaṁ mūla-nāgiraṭṭa-prāveśya-vilva-gohālīto<!-- 
+amwb : removed nitva and replaced it by vilva
+--> droṇa-vāpa-dvayam āḍhavā<supplied reason="lost">pa-dva</supplied>y-ādhikam<!-- 
+amwb : I removed a tag damage because Arlo does not mention it : āḍha<damage>vā<supplied reason="lost">pa-dva</supplied>y-ā</damage>dhikam
+--> ity evam a<!-- 
 daba siddham :Both Dikshit and Agrawala read the damaged section as āḍhavāpa-dvayādhikam, showing padva as unclear, not as a conjecture. In any case, Dikshit_1929-30:61 says (essentially) that an āḍhavāpa is 1/4 of a droṇavāpa "according to various ancient authorities", so this should be correct, since the area is said in l8 to be arddha-trika-droṇavāpa. 
---><lb n="16" break="no"/>dhyarddhaṁ kṣetra-kulya-vāpam prārtthayate tra na kaścid virodhaḥ guṇas tu yat parama-bhaṭṭāraka-pādānām artthopacayo dharmma-ṣaḍ-bhāg-āpyāya<!-- 
+--><lb n="16" break="no"/>dhyarddhaṁ kṣetra-kulya-vāpam prārtthayete<!-- 
+amwb : removed prārtthayate and replaced it by Arlo's reading
+--> ’tra na kaś cid virodhaḥ guṇas tu yat parama-bhaṭṭāraka-pādānām artthopacayo <supplied reason="lost">dharmma</supplied>-ṣaḍ-bhāg-āpyāya<!-- 
 daba siddham :Dikshit's editor emends prārtthayate to prārthayete; Agrawala actually reads prārttha(ye)te. My intuition says prārtthyate. 
---><lb n="17" break="no"/>nañ ca bhavati tad evaṅ kriyatām<supplied reason="subaudible">.</supplied> ity anenāvadhāraṇā-kkrameṇāsmād brāhmaṇa-nātha-śarmmata Etad-bhāryyā-rāmiyāś ca dīnāra-tra<lb n="18" break="no"/>yam āyīkr̥tyaitābhyāṁ vijñāpitaka-kramopayogāyopari-nirddiṣṭa-grāma-gohālikeṣu tala-vāṭaka-vāstunā saha kṣetraṁ
-<lb n="19"/>kulya-vāpa Adhyarddho <supplied reason="subaudible">’</supplied>kṣaya-nīvī-dharmmeṇa dattaḥ<supplied reason="subaudible">.</supplied> ku <num value="1">1</num> dro <num value="4">4</num></p>
-<p>tad yuṣmābhiḥ sva-karmmaṇāvirodhi-sthāne ṣaṭka-naḍair-apa<!-- 
+--><!-- 
+amwb : add supplied for dharmma according to Arlo's reading, checked DCS's and KND's readings and added them in apparatus
+--><lb n="17" break="no"/>nañ ca bhavati tad evaṅ kriyatām<supplied reason="subaudible">.</supplied> ity anenāvadhāraṇā-kkrameṇāsmād brāhmaṇa-nātha-śarmmata Etad-bhāryyā-rāmiyāś ca dīnāra-tra<lb n="18" break="no"/>yam āyīkr̥tyaitābhyāṁ vijñāpitaka-kkramopayogāyopari<!-- 
+amwb : added a k-
+-->-nirddiṣṭa-grāma-gohālikeṣu tala-vāṭaka-vāstunā saha kṣetra<!-- 
+amwb : removed kṣetraṁ and replaced by kṣetra- + added break no
+-->
+<lb n="19" break="no"/>kulya-vāpa Adhyarddho ’kṣaya-nīvī-dharmmeṇa dattaḥ <space/><supplied reason="subaudible">.</supplied> <abbr>ku</abbr><!-- 
+amwb : added the tag abbr
+--> <num value="1">1</num> <abbr>dro</abbr><!-- 
+amwb : added the tag abbr
+--> <num value="4">4</num></p>
+<p>tad yuṣmābhiḥ sva-karṣaṇāvirodhi-sthāne ṣaṭka-naḍair-apa<!-- 
 daba siddham :Compare svakarṣaṇāvirodhi in the Baigram plate (IN00061, l18), where Basak notes that this must be intended in the Paharpur plate as well. 
---><lb n="20" break="no"/>viñcchya dātavyo <supplied reason="subaudible">’</supplied>kṣaya-nīvī-dharmmeṇa ca śaśvad ācandrārkka-tāraka-kālam anu-pālayitavya Iti<!-- 
+--><!-- 
+amwb : replace sva-karmmaṇāvirodhi by sva-karṣaṇāvirodhi 
+--><lb n="20" break="no"/>viñcchya dātavyo ’kṣaya-nīvī-dharmmeṇa ca śaśvad ācandrārkka-tāraka-kālam anu-pālayitavya Iti<!-- 
 daba siddham :Dikshit's editor (Dikshit_1929-30:63n3) notes that N. P. Chakravarti connects apaviñchya with the Bengali word bāchhā meaning to select or choose. Not very convincing but keep in mind. 
 --></p>
-<p>sa<sic>M</sic> <num value="159"><g type="numeral">100</g> <g type="numeral">50</g> 9</num>
-<lb n="21"/>māgha di <num value="7">7</num></p>
-<p>Uktañ ca bhagavatā vyāsena</p>
+<p><abbr>sa<sic>M</sic></abbr><!-- 
+amwb : added tag abbr
+--> <num value="159"><g type="numeral">100</g> <g type="numeral">50</g> 9</num>
+<lb n="21"/><space/> māgha <abbr>di</abbr><!-- 
+amwb : added tag abbr
+--> <num value="7">7</num> <space/></p>
+<p>Uktañ ca bhagavatā vyāsena <space/></p>
 <lg n="1" met="anuṣṭubh">
 <l n="a">sva-dattāṁ para-dattāṁ vā</l>
-<l n="b">yo hareta vasundharāM</l>
+<l n="b">yo hareta vasundharāM <space/></l>
 <l n="c"><lb n="22"/>sa viṣṭhāyāṁ k<sic>ri</sic>mir bhūtvā</l>
-<l n="d">pitr̥bhis saha pacyate</l>
+<l n="d">pitr̥bhis saha pacyate <space/></l>
 </lg>
 <lg n="2" met="anuṣṭubh">
 <l n="a">ṣaṣṭi-varṣa-sahasrāṇi</l>
-<l n="b">svargge vasati bhūmidaḥ</l>
+<l n="b">svargge vasati bhūmidaḥ <space/></l>
 <l n="c"><lb n="23"/>Ākṣeptā cānumantā ca</l>
-<l n="d">tāny eva narake vaseT</l>
+<l n="d">tāny eva narake vaseT <space/></l>
 </lg>
 <lg n="3" met="anuṣṭubh">
 <l n="a">rājabhir vvahubhir dattā</l>
 <l n="b">dīyate ca punaḥ punaḥ</l>
 <l n="c">yasya yasya <lb n="24"/>yadā <sic>bhūmi</sic></l>
-<l n="d">tasya tasya tadā phalaM</l>
+<l n="d">tasya tasya tadā phalaM <space/></l>
 </lg>
 <lg n="4" met="anuṣṭubh">
 <l n="a">pūrvva-dattāṁ dvijātibhyo</l>
-<l n="b">yatnād rakṣa yudhiṣṭhira</l>
+<l n="b">yatnād rakṣa yudhiṣṭhira<surplus>ḥ</surplus></l>
 <l n="c">mahīm mahimatāṁ śreṣṭha</l>
-<l n="d"><lb n="25"/>dānāc chreyo nupālanaṁ<!-- 
+<l n="d"><lb n="25"/>dānāc chreyo ’nupālanaṁ<space/><!-- 
 daba siddham :Dikshit emends mahimatāṁ to matimatāṁ. His editor notes that mahimatāṁ is also correct. I Thought it ought to be mahīmatāṁ. 
 --></l>
 </lg>
 <lg n="5" met="anuṣṭubh">
 <l n="a">vindhyāṭavīṣv anambhasṣu</l>
-<l n="b">śuṣka-koṭara-vāsina<supplied reason="omitted">ḥ</supplied></l>
+<l n="b">śuṣka-koṭara-vāsina<supplied reason="omitted">ḥ</supplied><space/></l>
 <l n="c"><sic>kr̥ṣnāhino</sic> hi jāyante</l>
 <l n="d">deva-dāyaṁ haranti ye</l>
 </lg>
@@ -199,9 +263,181 @@ daba siddham :Dikshit emends mahimatāṁ to matimatāṁ. His editor notes that
 					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">vaṭagohālyāmavāsyāṅ</rdg>
 					<note>KND DCS emended to <foreign>vaṭagohālyām evāsyāṅ</foreign>. But the <foreign>akṣara</foreign> they read <foreign>syā</foreign> really looks more like <foreign>śyā</foreign>. Cf. the problem at the end of line 12. I provisionally assume that one must indeed emend <foreign>vaṭagohālyām evāsyāṅ</foreign> here.</note>
 				</app>
+				<app loc="7">
+					<lem>dīpādy-arttha<sic>n</sic></lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">dīpādy-artha<sic>n</sic></rdg>
+				</app>
+				<app loc="7">
+					<lem>Atavaṁ</lem>
+					<rdg source="bib:Dikshit1929-1930_01">A<supplied reason="omitted">ta</supplied> eva</rdg>
+					<rdg source="bib:Sircar1965_02">A<supplied reason="omitted">taḥ</supplied></rdg>
+					<note>Emend <foreign>Atraiva</foreign>, as in line 14 and <ref target="DHARMA_INSBengalCharters00049.xml">Baigram</ref>, line 16.</note>
+				</app>
+				<app loc="8">
+					<lem>pottak<choice><sic>e</sic><corr>ā</corr></choice>t</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">pottak<choice><sic>et</sic><corr>e</corr></choice></rdg>
+				</app>
+				<app loc="8">
+					<lem>kṣetra-droṇa-vāpa-catuṣṭayaṁ</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">kṣetraṁ droṇa-vāpa-catuṣṭayaṁ</rdg>
+					<note>Cf. <foreign>kṣetrakulyavāpam</foreign> in lines 9, 16 and 18–19.</note>
+				</app>
+				<app loc="9">
+					<lem source="bib:Sircar1965_02">-prāveśya-</lem>
+					<rdg source="bib:Dikshit1929-1930_01">-prāveśyā-</rdg>
+				</app>
+				<app loc="9">
+					<lem>-vilva-</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">-nitva-</rdg>
+				</app>
+				<app loc="9">
+					<lem>Arddhatrikan droṇa-</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">Arddhatrikadroṇa-</rdg>
+					<note>Is there a need to emend <foreign>Arddhatrikān droṇa</foreign>-?</note>
+				</app>
+				<app loc="9">
+					<lem>kṣetra-kulya-vāpam</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">kṣetra-<subst><del rend="corrected">droṇa</del><add place="overstrike">kulya</add></subst>-vāpam</rdg>
+					<note><bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> notes that ‘The engraver first wrote <foreign>droṇavāpam</foreign> but finding his mistake later, appears to have made an attempt at correction. The erased letters <foreign>droṇa</foreign> are clearly visible below <foreign>kulya</foreign>.’ <bibl><ptr target="bib:Sircar1965_02"/></bibl>DCS has an equivalent note.
+</note>
+				</app>
+				<app loc="9">
+					<lem>dātu<unclear>m iti</unclear> <space/> <unclear>ya</unclear>taḥ</lem>
+					<rdg source="bib:Dikshit1929-1930_01">dātum i<unclear>ti</unclear> <supplied reason="omitted">|</supplied> yataḥ</rdg>
+					<rdg source="bib:Sircar1965_02">dātum i<supplied reason="lost">ty atra</supplied> yataḥ</rdg>
+				</app>
+				<app loc="10">
+					<lem>-suprabhamanu<unclear>da</unclear><supplied reason="lost">ttā</supplied>nām</lem>
+					<rdg source="bib:Dikshit1929-1930_01">-ṣu prathamanu <gap reason="illegible" unit="character" n="2"/> <supplied reason="lost">nā</supplied>m</rdg>
+					<rdg source="bib:Sircar1965_02">-suprabhamanuda<supplied reason="lost">ttānā</supplied>m</rdg>
+					<note><bibl><ptr target="bib:Sircar1965_02"/></bibl> notes the alternative possibility -<foreign>manudāsānām</foreign>. The editor’s note 8 to <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl>’s text states: <cit><quote>The text of the Dāmodarpur plates would suggest that <foreign>avadhāraṇayā</foreign> was preceded by the names of the record-keepers which were put in the genitive plural.—Ed.</quote></cit>.</note>
+				</app>
+				<app loc="11">
+					<lem>°bhogyo ’kṣaya-</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">°bhogyākṣaya-</rdg>
+				</app>
+				<app loc="11">
+					<lem>-sa<supplied reason="lost">mu</supplied>da<supplied reason="lost">ya-vā</supplied>hyā-</lem>
+					<rdg source="bib:Dikshit1929-1930_01">-samu<supplied reason="lost">daya-vā</supplied>hyā-</rdg>
+					<rdg source="bib:Sircar1965_02">-samu<supplied reason="lost">daya</supplied>-vāhyā-</rdg>
+				</app>
+				<app loc="12">
+					<lem><unclear>khila</unclear></lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02"><supplied reason="lost">khila</supplied></rdg>
+				</app>
+				<app loc="12">
+					<lem>yuṣmā<choice><sic>m</sic><corr>n</corr></choice></lem>
+					<note>Already corrected by <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> and <bibl><ptr target="bib:Sircar1965_02"/></bibl>.</note>
+				</app>
+				<app loc="12">
+					<lem>-gohālī<unclear cert="high">sva</unclear> <gap reason="illegible" unit="character" quantity="1"/>-</lem>
+					<rdg source="bib:Dikshit1929-1930_01">-gohālī<unclear cert="low">stha</unclear>ya-</rdg>
+					<rdg source="bib:Sircar1965_02">-gohālīsth<supplied reason="lost">āyi</supplied>-</rdg>
+					<note>For the penultimate <foreign>akṣara</foreign>, <foreign>sva</foreign> (or <foreign>ṣva</foreign>) seems the most evident choice; see the shape of the same <foreign>akṣara</foreign> in line 25. Cf. the problem in line 6.
+</note>
+				</app>
+				<app loc="13">
+					<lem>-<supplied reason="lost">kāśi</supplied>ka-</lem>
+					<rdg source="bib:Dikshit1929-1930_01"><gap reason="illegible" unit="character" quantity="2"/>ka-</rdg>
+					<note>Thus restored by <bibl><ptr target="bib:Sircar1965_02"/></bibl>.</note>
+				</app>
+				<app loc="13">
+					<lem>Ar<sic>a</sic>hatāṁ</lem>
+					<note>Emend <foreign>Arhatāṁ</foreign> as noted by <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> and <bibl><ptr target="bib:Sircar1965_02"/></bibl>.</note>
+				</app>
+				<app loc="14">
+					<lem><supplied reason="lost">tala</supplied>-vāṭaka-</lem>
+					<rdg source="bib:Dikshit1929-1930_01"><supplied reason="lost">tala-v</supplied>āṭaka-</rdg>
+					<rdg source="bib:Sircar1965_02"><supplied reason="lost">tala-vā</supplied>ṭaka-</rdg>
+				</app>
+				<app loc="14">
+					<lem>Atraiva</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">tatraiva</rdg>
+				</app>
+				<app loc="14">
+					<lem>adhyarddhañ</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">adhyarddhaṁ</rdg>
+				</app>
+				<app loc="14">
+					<lem>-catuṣṭayaṁ
+<lb n="15"/>go°</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">-catuṣṭayaṁ go°</rdg>
+				</app>
+				<app loc="15">
+					<lem>-vilva-</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">-nitva-</rdg>
+				</app>
+				<app loc="16">
+					<lem>prārtthayete</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">prārtthayate</rdg>
+					<note><bibl><ptr target="bib:Sircar1965_02"/></bibl> emend to <foreign>prārtthayete</foreign>, but the <foreign>e</foreign>-mātra on the y seems clear enough.</note>
+				</app>
+				<app loc="16">
+					<lem><supplied reason="lost">dharmma</supplied>-ṣaḍ-</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">dharmma-ṣaḍ-</rdg>
+				</app>
+				<app loc="17">
+					<lem source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">kriyatām</lem>
+					<note>Emend <foreign>krīyatām</foreign>?</note>
+				</app>
+				<app loc="18">
+					<lem>vijñāpitaka-kkramopa°</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">vijñāpitaka-kramopa°-</rdg>
+				</app>
+				<app loc="18">
+					<lem>tala-vāṭaka-vāstunā</lem>
+					<note><bibl><ptr target="bib:Sircar1965_02"/></bibl> proposes to emend <foreign>talavāṭakaṁ vāstunā</foreign>, but this does not seem to me to yield a better sense.</note>
+				</app>
+				<app loc="18">
+					<lem>kṣetra
+<lb n="19"/>kulya-vāpa</lem>
+					<rdg source="bib:Dikshit1929-1930_01">kṣetraṁ kulyavāpa</rdg>
+					<rdg source="bib:Sircar1965_02">kṣetraṁ kulyavāpa<supplied reason="omitted">ḥ</supplied></rdg>
+				</app>
+				<app loc="19">
+					<lem source="bib:Sircar1965_02">sva-karṣaṇāvirodhi°</lem>
+					<rdg source="bib:Dikshit1929-1930_01">sva-karmmaṇāvirodhi°</rdg>
+				</app>
+				<app loc="24">
+					<lem>yudhiṣṭhira<surplus>ḥ</surplus></lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">yudhiṣṭhira</rdg>
+					<note><bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> and <bibl><ptr target="bib:Sircar1965_02"/></bibl>do not read the (unwanted) <foreign>visarga</foreign>.</note>
+				</app>
 			</listApp>
 		</div>
 		<div type="translation" xml:lang="eng">
+			<p n="1-3">Hail! From Puṇḍravardhana, the officers and the city council led by the city’s guild-president <supplied reason="explanation"><foreign>nagaraśreṣṭhin</foreign></supplied><note>
+				<bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> interpreted this word to mean ‘mayor’. <bibl><ptr target="bib:Basak1919-1920_01"/><citedRange unit="page">131</citedRange></bibl>, in his publication of the Damodarpur grants, had adopted the translation ‘guild-president of the town’, which was retained without discussion by <bibl><ptr target="bib:Chattopadhyaya1990_01"/><citedRange unit="page">39</citedRange></bibl><!-- 
+amwb : ask Arlo if it is the good reference for B.D. Chattopadhyaya (1990: 39) 
+-->. <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">209</citedRange></bibl><!-- 
+amwb : I deduced that Sircar IEG = this reference--> favors something like the former interpretation: <cit><quote>according to some, the city banker or guild president of the town; but actually, the chairman of a board of administration like the Panchāyat; same as the Nagarseṭh who was the chairman of the board called Cauthiyā in late medieval Rajasthan</quote></cit>. In view of the context in which the term occurs in two of the <ref target="DHARMA_INSBengalCharters00047.xml">Damodarpur#1</ref> <ref target="DHARMA_INSBengalCharters00048.xml">#2</ref> <ref target="DHARMA_INSBengalCharters00032.xml">#3</ref> <ref target="DHARMA_INSBengalCharters00053.xml">#4</ref> <ref target="DHARMA_INSBengalCharters00056.xml">#5</ref> plates, and in view of the fact that <foreign>śreṣṭhin</foreign> seems to designate a merchant or banker in the epigraphy of the Gupta period, as elsewhere, I tentatively decide against Sircar’s argument, although the matter is not clear-cut to my taste: the compound <foreign>nagaraśreṣṭhin</foreign> is too rare (none other than in this one and in two of the Damodarpur plates are known to me) to be sure whether the usual meaning of <foreign>śreṣṭhin</foreign> must be assumed to be pertinent in this compound too.. <!--amwb : I put this part of the note in commentary "Check what, if anything, Bakker, The World of the Skandapurāṇa, says about the term."-->
+			</note> Ārya greet the peasant householders, beginning with the notables — the most eminent among them being the Brahmins — in <supplied reason="subaudible">the hamlet of</supplied> Vaṭa-Gohālī by the side of Palāśāṭṭa, <supplied reason="subaudible">that of</supplied> Pr̥ṣṭhimapottaka under Jambudeva, <supplied reason="subaudible">that of</supplied> Goṣāṭapuñjaka, and <supplied reason="subaudible">that of</supplied> Bilva-Gohālī under Mūla-Nāgiraṭṭa, <supplied reason="explanation">all</supplied> in the Nāgiraṭṭa circle of the Dakṣiṇāṅśaka territory, and inform them:
+</p>
+			<p n="3-9">The brahmin Nāthaśarman and his wife Ramī respectfully request us:
+</p>
+			<p>In the council of your capital here, the custom is sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land <supplied reason="explanation"><foreign>khilakṣetra</foreign></supplied> or homestead land <supplied reason="explanation"><foreign>vāstu</foreign></supplied> that is without revenue charges and yields no tax, as permanent endowment to be enjoyed in perpetuity. Thus <supplied reason="explanation"><foreign>tad</foreign></supplied>, in this very manner, be so kind as to take from both of us three <foreign>dīnāra</foreign>s and — for the purpose of the merit of the both of us being increased — to give as permanent endowment, for the sake of perfume, incense, flowers and lamps, etc., for the venerable Arhants of the monastery in the same Vaṭa-Gohālī, overseen by the disciples and grand-disciples of the Jaina <foreign>śramaṇa</foreign> master Guhanandin of the Kāśika-Pañcastūpa school and for the purpose of <supplied reason="explanation">use as</supplied> adjoining parcel:
+			<list>
+				<item>from Vaṭa-Gohālī itself: one-and-a-half <foreign>droṇavāpa</foreign> of homestead land;</item>
+				<item>from Pr̥ṣṭhimapottaka under Jambudeva: four <foreign>droṇavāpa</foreign>s of land;</item>
+				<item>from Goṣāṭapuñja: four <foreign>droṇavāpa</foreign>s of land;</item>
+				<item>from Bilva-Gohālī under Mūla-Nāgiraṭṭa: a two-and-a-half <foreign>droṇavāpa</foreign>s;</item>
+			</list>
+			thus one-and-a-half <foreign>kulyavāpa</foreign> of land.</p>
+			<p n="9-19">Wherefore, it has been established through the investigation of the chief record-keeper Divākaranandin, and the record-keepers Dhr̥tiviṣṇu, Virocana, Rāmadāsa, Haridāsa, Śaśinandin, Suprabha and Manudatta:</p>
+			<p>That the custom in the council of our capital is sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land or homestead land that is without revenue charges and yields no tax, as permanent endowment to be enjoyed in perpetuity. So, with regard to the one-and-a-half <foreign>kulyavāpa</foreign> of land — to be used for perfume, incense, etc., and for the venerable Arhants of the good monastery in??? Vaṭa-Gohālī by the side of Palāśāṭṭa, overseen by the disciples and grand-disciples of the Jaina master Guhanandin of the Kāśika-Pañcastūpakula school, and for the purpose of <supplied reason="explanation">use as</supplied> adjoining parcel: in Vaṭa-Gohālī here itself, one-and-a-half <foreign>droṇavāpa</foreign> of homestead land; in Pr̥ṣṭhimapottaka under Jambudeva, four <foreign>droṇavāpa</foreign>s; from Goṣāṭapuñja, four <foreign>droṇavāpa</foreign>s; from Bilva-Gohālī under Mūla-Nāgiraṭṭa, two <foreign>droṇavāpa</foreign>s plus two <foreign>āḍhavāpa</foreign>s — which the brahmin Nāthaśarman and his wife Ramī ask you, there is no conflict <supplied reason="explanation">with the interest of the king</supplied>; on the contrary, there is virtue, in that wealth will accrue to his Majesty as well as the increase of <supplied reason="explanation">the king’s own merit by his obtaining</supplied> the sixth part of the merit <supplied reason="explanation">accruing from the donation</supplied><!-- 
+amwb : here as in BC57, BC49 and BC54, I suggest that the increase of merit is due to the protection of the land made by the king
+-->. So, let it be done <supplied reason="explanation">or: sold?</supplied> in this way.</p>
+			<p>On the basis of this procedure of investigation, in accordance with the rule for permanent endowments, after three <foreign>dīnāra</foreign>s had been received <supplied reason="explanation">by us</supplied> in cash from this brahmin Nāthaśarman and from his wife Ramī, the two have given one-and-a-half <foreign>kulyavāpa</foreign> of land with homestead land <supplied reason="explanation">for use</supplied> as adjoining parcel, in the above-mentioned village <foreign>gohālika</foreign>s <supplied reason="explanation">hamlets?</supplied><!-- 
+amwb : maybe add a note to your article 2018 p.40-2? 
+--> for the purpose of the requested procedure. 1 <abbr>ku</abbr>, 4 <abbr>dro</abbr>.</p>
+			<p n="19-21">So you must separate them off using six reeds, in a place that does not conflict with your own cultivation, make the donation according to the rule for permanent endowments and protect it in perpetuity as long as moon, sun and stars will last. Year 159, (<supplied reason="explanation">month of</supplied>) Māgha, day 7.
+</p>
+			<p n="21-25">And it has been said by the Lord Vyāsa:</p>
+			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors.</p>
+			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
+			<p n="3" rend="stanza">Numerous kings have been and are giving land again and again. Whoever holds land at a given time, to him does the fruit belong.</p>
+			<p n="4" rend="stanza">You, excellent Yudhiṣṭhira, must strenuously protect land previously given to brahmins by kings. Safeguarding is even better than giving.</p>
+			<p n="5" rend="stanza">Those who steal a land donation are born (again) as black snakes living in dry caves in the waterless Vindhya forests.</p>
 		</div>
 		<div type="commentary">
 		</div>
