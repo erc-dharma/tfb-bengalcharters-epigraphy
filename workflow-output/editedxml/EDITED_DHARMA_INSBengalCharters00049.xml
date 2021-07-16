@@ -29,6 +29,8 @@
                   <forename>Amandine</forename>
                   <surname>Wattelier-Bricout</surname>
                </persName>
+            </respStmt>
+            <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:daba">
                   <forename>Dániel</forename>
@@ -74,17 +76,19 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change who="part:amwb" when="2021-07-06" status="draft">Import of Siddham file IN00061 and started initial encoding with Arlo’s remarks</change>
+         <change who="part:amwb" when="2021-07-06" status="draft">Import of Siddham file IN00061 and started initial encoding with Arlo’s remarks </change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
 		<body>
 			<div type="edition" xml:lang="san-Latn">
-<p><pb n="1r"/><lb n="1"/>svasti<!-- daba : <supplied reason="subaudible">.</supplied> amwb: I deleted this punctuation mark which seems to come from an earlier edition and not from the plate --> pañcanagaryyā bhaṭṭāraka-pādānuddhyātaḥ kumārāmātya-kulavr̥ddhir etad-viṣayādhikaraṇañ ca<!-- 
+<p><pb n="1r"/><lb n="1"/>svasti<supplied reason="subaudible">.</supplied> pañcanagaryyā bhaṭṭāraka-pādānuddhyātaḥ kumārāmātya-kulavr̥ddhir etad-viṣayādhikaraṇañ ca<!-- 
 daba : Edition based on Basak (B), Sircar (SI) and Agrawala, revised on the basis of the photo at http://museumsofindia.gov.in/repository/record/nat_del-66-1-551, in which many details are much clearer than in the early rubbings. 
 --><!-- daba-siddham: 
 L1. Agrawala prints °dhyātaḥ, a typo; B correctly has °ddhyātaḥ. 
---><lb n="2"/>vāyigrāmika-trivr̥t<choice><sic>a</sic><corr>ā</corr></choice>-śrīgohālyoḥ brāhmaṇottarān samvyavahāri-pramukhān grāma-kuṭumbinaḥ <space/> kuśalam anu<lb n="3" break="no"/>varṇya bodhayanti<!--daba-siddham: <supplied reason="subaudible">.</supplied> amwb : deleted because I understand that we don't restaure punctuation mark, but I am not sure because here Arlo notes a space not encoding by Daniel--> <space/> <choice><sic>vijñāpayator atraiva</sic><corr>vijñāpayato ’traiva</corr></choice>-vāstavya-kuṭumbi-bhoyila-bhāskarāv<!--daba : <supplied reason="subaudible">.</supplied> amwb: I deleted this because according to my understanding of EGD4.2.4, we have to only encode punctuation mark readible on plates and we don't restaure punctuation for a better understanding of the text. Is it correct? --> āvayoḥ pitrā śivanandi<lb n="4" break="no"/>nā kāritaka-bhagavato govindasvāminaḥ deva-kulas tad asāv alpa-vr̥ttikaḥ<!--daba : <supplied reason="subaudible">.</supplied> amwb : deleted as before--> Iha viṣaye samudaya-<!-- 
+--><lb n="2"/>vāyigrāmika-trivr̥t<choice><sic>a</sic><corr>ā</corr></choice>-śrīgohālyoḥ brāhmaṇottarān samvyavahāri-pramukhān grāma-kuṭumbinaḥ <space/> kuśalam anu<lb n="3" break="no"/>varṇya bodhayanti<supplied reason="subaudible">.</supplied> <space/> <choice><sic>vijñāpayator atraiva</sic><corr>vijñāpayato ’traiva</corr></choice>-vāstavya-kuṭumbi-bhoyila-bhāskarāv<supplied reason="subaudible">.</supplied> āvayoḥ pitrā śivanandi<lb n="4" break="no"/>nā kāritak<choice><sic>a</sic><corr>o</corr></choice> <!-- 
+	daba siddham: kāritaka-bhagavato amwb: changed according to Arlo's edition 
+-->bhagavato govindasvāminaḥ deva-kulas tad asāv alpa-vr̥ttikaḥ<supplied reason="subaudible">.</supplied> Iha viṣaye samudaya-<!-- 
 daba-siddham: Not sure about kāritaka. B and Agrawala print the ta as unclear and the ka as clear (Agrawala then emends to kāritakaḥ). Both are quite indistinct in my facsimiles, but other solutions seem equally plausible: 1. read kāritaḥ, with a scratch on the plate between the dots of the visarga; 2. read kārito, followed by a malformed character; 3. combine these two and assume first-hand correction from kāritaḥ to kārito: the indistinctness of the o mātrā of the t would then be explained by its being a later addition, and the scratch across the visarga could be a deletion mark. Note though that -svāminaḥ devakulas is not corrected later on in the same line. 
 --><!-- 
 daba : B and Agrawala both correct devakulas to devakulam and all adjectives and the pronoun to neuter. This seems like over-correction to me. 
@@ -94,98 +98,471 @@ L5. SI says ādyastamba means "covered with original shrub, i.e. fallow". I don'
 daba : L5. B and SI both read kṣettrāṇām, but I see no trace of e and ā mātrā in the very clear photograph. 
 --><!-- 
 daba : L5. The anusvāra in bhojyānāṁm may have been deleted. 
---><lb n="6"/>dvi-dīnārikkya-kulya-vāpa-vikkrayo ’nuvr̥ttas<!--daba : <supplied reason="subaudible">.</supplied> amwb : removed as before--> tad arhathāvayos sakāśāt ṣ<choice><sic>ī</sic><corr>a</corr></choice>ḍ dīnārān aṣṭa ca rūpakān āyī<!-- 
+--><lb n="6"/>dvi-dīnārikkya-kulya-vāpa-vikkrayo ’nuvr̥ttas<supplied reason="subaudible">.</supplied> tad arhathāvayos sakāśāt ṣ<choice><sic>ī</sic><corr>a</corr></choice>ḍ dīnārān aṣṭa ca rūpakān āyī<!-- 
 daba : L6. B and SI read ṣaḍ; the plate clearly has ṣīḍ. Must be a sort of eyeskip with ḍdī. 
 --><lb n="7" break="no"/>kr̥tya bhagavato govindasvāmino deva-kule khaṇḍa-phuṭṭa-pratisaṁsk<choice><sic>a</sic><corr>ā</corr></choice>ra-karaṇāya <space type="descender"/> gandha-dhūpa-dīpa-<!-- 
 daba : L7. The word phuṭṭa seems to be a Prakritism for sphuṭita (Basak). See also the same word in IN00056 and IN00062. 
---><lb n="8"/>sumanasā<supplied reason="omitted">ṁ</supplied> pravarttanāya ca trivr̥tāyām bhogilasya khila-kṣettra-kulyavāpa-trayaṁ <space type="descender"/> śrīgohālyā<choice><sic><unclear>ś</unclear></sic><corr>m</corr></choice> Api<!-- 
+--><lb n="8"/>sumanasā<supplied reason="omitted">ṁ</supplied> pravarttanāya ca trivr̥tāyām bhogilasya khila-kṣettra-kulyavāpa-trayaṁ <space type="descender"/> śrīgohālyā<supplied reason="omitted">ṁ</supplied> Api<!-- 
 daba : L8. The spelling of the name is bhogila here, but bhoyila in lines 3 and 14. 
 --><!-- 
 daba : L8. B and SI read °gohālyāścāpi, emending to gohālyāñ cāpi. But the photo shows the character clearly: there is neither a subscript v, nor an ā mātrā here, only a śa, with the top stroke extended on the left toward the ā of lyā. This may have been meant as correction from śa to ma, transforming the top stroke into a headmark. The right descender does not seem to have been deleted or corrected. 
 --><!-- 
-amwb : I changed api in Api according to Arlo's reading	-->
-	<lb n="9"/>tala-vāṭakār<unclear>t</unclear>tha<supplied reason="omitted">ṁ</supplied> sthala-vāstuno droṇa-vāpa<choice><sic>p</sic><corr>m</corr></choice><!--daba :<unclear>m</unclear>--> ekaṁ <space/> bhāskarasyāpi sthala-vāstuno droṇa-vāpañ ca dātu<!-- 
+amwb : I replaced gohālyā<choice><sic><unclear>ś</unclear></sic><corr>m</corr></choice> api by gohālyā Api according to Arlo's reading	-->
+	<lb n="9"/>tala-vāṭakār<unclear>t</unclear>tha<supplied reason="omitted">ṁ</supplied> sthala-vāstuno droṇa-vāpa<choice><sic>p</sic><corr>m</corr></choice><!--amwb change daba's encoding :<unclear>m</unclear>--> ekaṁ <space/> bhāskarasyāpi sthala-vāstuno droṇa-vāpañ ca dātu<!-- 
 daba : L9. The t of rttha (read as rtha by B and SI) is malformed, missing the side stroke. Still, the long stem was definitely meant to be t, and th is subscript. 
 --><!-- 
 daba : L9. me is also malformed, with a body shaped much like p, but a headmark on the right vertical. 
---><lb n="10" break="no"/>m iti<!--daba : <supplied reason="subaudible">.</supplied> amwb :removed as before--><space/>
-<!--daba-siddham: </p> amwb: removed for dharma edition-->
-<!--daba-siddham: <p> amwb: removed for dharma edition-->yato yuṣmān bodhayāma<supplied reason="omitted">ḥ</supplied><!--daba : <supplied reason="subaudible">.</supplied> amwb: removed as before--><space/> pustapāla-durgg<unclear>ā</unclear><!-- 
+--><lb n="10" break="no"/>m iti<supplied reason="subaudible">.</supplied><space/>
+</p>
+<p>yato yuṣmān bodhayāma<supplied reason="omitted">ḥ</supplied><supplied reason="subaudible">.</supplied> <space/> pustapāla-durgg<unclear>ā</unclear><!-- 
 amwb : added unclear -->
 dattārkkadāsayor avadhāraṇayā Avadhr̥ta<lb n="11" break="no"/>m astīha-<!-- 
-amwb: replace a space by an hyphen-->viṣaye<!-- amwb: removed the <unclear>e</unclear> --> samudaya-bāhyādy-astamba-khila-kṣettrāṇā<supplied reason="omitted">ṁ</supplied> śaśvad-ācandrārkka-tāraka-bhojyānāṁ dvi-dī<lb n="12" break="no"/>nārikya-kulyavāpa-vikkrayo ’nuvr̥ttaḥ<!--daba : <supplied reason="subaudible">.</supplied> amwb : removed as before--> Evaṁ-vidhāpratikara-khila-kṣettra-vikkraye ca na kaścid rājārttha-
-<lb n="13"/>virodha Upacaya Eva <space/> bhaṭṭāraka-pādānāṁ dharmma-phala-ṣaḍ-bhāgāvāptiś ca<!--daba-siddham: <supplied reason="subaudible">.</supplied> amwb : removed as before and added a <space/>--><space/> tad dīyatām iti Etayoḥ <lb n="14"/>bhoyila-bhāskarayos sakā<supplied reason="omitted">śā</supplied>t ṣaḍ dīnārān aṣṭa ca rūpakān āyīkr̥tya bhagavato govindasvāmino
-<lb n="15"/>deva-kulasyārtthe bhoyilasya trivr̥tāyāṁ <space/> khila-kṣettra-kulyavāpa-trayaṁ tala-vāṭakādy-artthaM<!-- 
-daba : L15. The halanta M (obscured by a logo in the photo but clear in the rubbing) is a peculiar cursive form, looking like a la without a headmark. See also note to l17. 
---></p>
-<p><pb n="1v"/><lb n="16"/>śrīgohālyā<supplied reason="omitted">ṁ</supplied> sthala-vāstuno droṇa-vāpaṁ <space/><!-- amwb: space added --> bhāskarasyāpy atrai<!--daba : <choice><sic>ī</sic><corr>ai</corr></choice> removed -->va sthal<choice><sic>i</sic><corr>a</corr></choice>-v<choice><sic>a</sic><corr>ā</corr></choice>stuno droṇa-vāpa<!-- 
+amwb: replace a space by an hyphen-->viṣaye<!-- amwb: removed the <unclear>e</unclear> --> samudaya-bāhyādy-astamba-khila-kṣettrāṇā<supplied reason="omitted">ṁ</supplied> śaśvad-ācandrārkka-tāraka-bhojyānāṁ dvi-dī<lb n="12" break="no"/>nārikya-kulyavāpa-vikkrayo ’nuvr̥ttaḥ<supplied reason="subaudible">.</supplied> Evaṁ-vidhāpratikara-khila-kṣettra-vikkraye ca na kaścid rājārttha-
+<lb n="13"/>virodha Upacaya Eva <space/> bhaṭṭāraka-pādānāṁ dharmma-phala-ṣaḍ-bhāgāvāptiś ca <supplied reason="subaudible">.</supplied><!--amwb : added a <space/>--><space/> tad dīyatām iti Etayoḥ <lb n="14"/>bhoyila-bhāskarayos sakā<supplied reason="omitted">śā</supplied>t ṣaḍ dīnārān aṣṭa ca rūpakān āyīkr̥tya bhagavato govindasvāmino
+<lb n="15"/>deva-kulasyārtthe bhoyilasya trivr̥tāyāṁ <space/> khila-kṣettra-kulyavāpa-trayaṁ tala-v<choice><sic>a</sic><corr>ā</corr></choice>ṭakādy-artthaM<!-- 
+daba siddham: L15. The halanta M (obscured by a logo in the photo but clear in the rubbing) is a peculiar cursive form, looking like a la without a headmark. See also note to l17. 
+-->
+<!-- amwb : I replaced tala-vāṭakādy-artthaM by tala-v<choice><sic>a</sic><corr>ā</corr></choice>ṭakādy-artthaM according to Arlo's reading
+	--></p>
+<p><pb n="1v"/><lb n="16"/>śrīgohālyā<supplied reason="omitted">ṁ</supplied> sthala-vāstuno droṇa-vāpaṁ <space/><!-- amwb: space added --> bhāskarasyāpy atrai<!--amwb : I removed : daba's  <choice><sic>ī</sic><corr>ai</corr></choice>  -->va sthal<choice><sic>i</sic><corr>a</corr></choice>-v<choice><sic>a</sic><corr>ā</corr></choice>stuno droṇa-vāpa<!-- 
 daba : L16. B, SI: atraiva; sthale 
 --><!-- 
 daba : On the facsimile, the text °syāpyatraivasthaleva° seems to be a different hand: the lines are thinner, and the characters are more widely spaced. Note also that this bit contains two spelling mistakes. Is this ancient correction/forgery/filling up of a space left empty? It could be just a random difference in spacing and state of preservation. 
---><lb n="17" break="no"/>m<!--daba-siddham: </p> amwb: removed for dharma edition-->
-<!--daba-siddham: <p> amwb: removed for dharma edition-->eva<supplied reason="omitted">ṁ</supplied> kulyavāpa-trayaṁ sthala-droṇa-vāpa-dvayañ ca <space/> Akṣaya-nīvyās<!--daba : <choice><sic>nīvyās</sic><corr>nīvyā</corr></choice> amwb : not specified in Arlo's apparat--> tāmra-paṭṭena dattaM<!--daba : <supplied reason="subaudible">.</supplied> amwb: removed as before--> ninna<!-- 
+--><lb n="17" break="no"/><choice><sic>p</sic><corr>m</corr></choice></p><!-- 
+amwb: replace siddham's reading "-vāpam" by Arlo's reading "-vāpa<choice><sic>p</sic><corr>m</corr></choice>-->
+<p>eva<supplied reason="omitted">ṁ</supplied> kulyavāpa-trayaṁ sthala-droṇa-vāpa-dvayañ ca <space/> Akṣaya-nīvyās<!--daba : <choice><sic>nīvyās</sic><corr>nīvyā</corr></choice> amwb : not specified in Arlo's apparat--> tāmra-paṭṭena dattaM<supplied reason="subaudible">.</supplied> ninna<!-- 
 daba : L17. The halanta M has the same strange form as in l15 above. 
 --><!-- 
 daba : L17. B, SI note that that ninna is either a Prakritism (compare phuṭṭa in l7 above) or a spelling mistake for nimna, perhaps meaning low-lying land as opposed to sthala. 
 --><lb n="18"/>ku <num value="3">3</num> sthala-dro <num value="2">2</num>
-<!--daba-siddham: </p> amwb: removed for dharma edition-->
-<!--daba-siddham: <p> amwb: removed for dharma edition-->te yūyaṁ sva-karṣaṇāvirodhi-sthāne darvvīkarmma-hastenāṣṭaka-navaka-naḷābhyā<!-- 
+</p>
+<p>te yūyaṁ sva-karṣaṇāvirodhi-sthāne darvvīkarmma-hastenāṣṭaka-navaka-naḷābhyā<!-- 
 daba : Basak notes that instead of te yūyaṁ the Paharpur plate (%IN00065) has tad yūyaṁ, which he deems better. 
---><lb n="19" break="no"/>m apaviñcchya <space type="descender"/> cira-kāla-sthāyi-tuṣāṅgār-ādinā cihnaiś cāturddiśo niyamya dāsyathākṣaya-<!-- 
+--><lb n="19" break="no"/>m apaviñcchya <space type="descender"/> cira-kāla-sthāyi-tuṣāṅgārādinā cihnaiś cāturddiśo niyamya dāsyathākṣaya-<!-- 
 daba : L19. Basak and Agrawala correct ādinā to ādīnāṁ, but a genitive would look strange to me; I'd expect ādibhiś and assume the single instrumental is a mistake for that. Cf. also l14 of the Nandapur plate (%IN00133), where °ādi is compounded to cihnaiś. 
---><lb n="20"/>nīvī-dharmme<choice><sic>n</sic><corr>ṇ</corr></choice>a ca śaśvat-kālam anupālayiṣyatha <space/><!-- amwb : added space --> varttamāna-bhaviṣyaiś ca saṁvyavahāryy-ādibhir eta<lb n="21" break="no"/>d dharmmāpekṣayānupālayitavyam iti<supplied reason="subaudible">.</supplied> <!--daba : <space/> amwb : removed because not specified by Arlo--> Uktañ ca bhagava<supplied reason="omitted">tā</supplied> veda-vyāsa-mahātmanā<supplied reason="subaudible">.</supplied><space/><!-- 
+--><lb n="20"/>nīvī-dharmme<choice><sic>n</sic><corr>ṇ</corr></choice>a ca śaśvat-kālam anupālayiṣyatha <space/><!-- amwb : added space --> varttamāna-bhaviṣyaiś ca saṁvyavahāryy-ādibhir eta<lb n="21" break="no"/>d dharmmāpekṣayānupālayitavyam iti<supplied reason="subaudible">.</supplied> <!--
+daba : <space/> amwb : removed because not specified by Arlo
+--> Uktañ ca bhagava<supplied reason="omitted">tā</supplied> veda-vyāsa-mahātmanā<supplied reason="subaudible">.</supplied><space/><!-- 
 daba : Basak corrects bhagava to bhagavad (in comp with vedavyāsa). I follow Agrawala (Sircar?) and emend to bhagavatā, which seems more in line with other versions of this phrase. 
---><!--daba-siddham: </p> amwb: removed for dharma edition-->
+--></p>
 <lg n="1" met="anuṣṭubh">
 <l n="a">sva-dattāṁ para-dattāṁ <lb n="22"/>v<surplus>v</surplus>ā</l>
-<l n="b">yo hareta vasundharāṁ<unclear>|</unclear><!-- 
-daba : L22. The punctuation character (if it is one) is a curved line slanting from top left to bottom right and bulging to top right. Its top is at the bottom of the ā mātrā; its bottom is a bit above the bottom of the r's descender. There is no punctuation in the subsequent verses. Still, this doesn't seem to be a halanta M. 
+<l n="b">yo hareta vasundharā<unclear>ṁ</unclear><!-- 
+amwb: add unclear from Arlo's reading
+--><unclear>|</unclear><!-- 
+daba siddham : L22. The punctuation character (if it is one) is a curved line slanting from top left to bottom right and bulging to top right. Its top is at the bottom of the ā mātrā; its bottom is a bit above the bottom of the r's descender. There is no punctuation in the subsequent verses. Still, this doesn't seem to be a halanta M. 
+-->
+<!-- amwb: Arlo, you don't note this punctuation mark, for the moment, I have kept Daniel's notation because of his detailed commentary 
 --></l>
 <l n="c">sa viṣṭhāyāṁ k<sic>ri</sic>mir bhūtvā</l>
 <l n="d">pitr̥bhis saha pacyate<space/></l>
 </lg>
 <lg n="2" met="anuṣṭubh">
 <l n="a">ṣaṣṭiṁ varṣa-saha<lb n="23" break="no"/>srāṇi</l>
-<l n="b">svargge modati bhūmidaḥ<space/></l>
+<l n="b">svargge <choice><sic>p</sic><corr>m</corr></choice>odati bhūmidaḥ<space/></l>
 <l n="c">Ākṣeptā cānumantā ca</l>
-<l n="d">tāny eva narake vaseT<!-- 
-daba : L23. The halanta T is a cursive subscript character resembling a ga. 
---></l>
+<l n="d">tāny eva narake vase<unclear>T</unclear><!-- 
+daba siddham: L23. The halanta T is a cursive subscript character resembling a ga. 
+--><!-- 
+amwb : add unclear from Arlo's reading--></l>
 </lg>
 <lg n="3" met="anuṣṭubh">
-<l n="a">pūrvva<lb n="24" break="no"/>-dattāṁ dvijātibhy<choice><sic>ā</sic><corr>o</corr></choice></l>
+<l n="a">pūrvva<lb n="24" break="no"/>-dattāṁ dvijātibhyo<!-- 
+daba siddham: <choice><sic>ā</sic><corr>o</corr></choice>
+amwb: I removed the choice-sic-corr --></l>
 <l n="b">yatnād rakṣa yudhiṣṭhira<space/></l>
 <l n="c">mahī<supplied reason="omitted">ṁ</supplied> mah<sic>i</sic>matāṁ śreṣṭha</l>
-<l n="d">dānāc chreyo nupāla<lb n="25" break="no"/>nam</l>
+<l n="d">dānāc chreyo ’nupāla<!-- 
+amwb : add ' 
+--><lb n="25" break="no"/>nam</l>
 </lg>
-iti<supplied reason="subaudible">.</supplied> saṁ <num value="128"><g type="numeral">100</g> <g type="numeral">20</g> 8</num> māgha di <num value="19"><g type="numeral">10</g> 9</num>
+<p>iti<supplied reason="subaudible">.</supplied> saṁ <num value="128"><g type="numeral">100</g> <g type="numeral">20</g> 8</num> māgha <abbr>di</abbr><!-- 
+amwb : add abbr 
+--> <num value="19"><g type="numeral">10</g> 9</num>
 </p>
 			</div>
 				<div type="apparatus">
 			<listApp>
-				<app loc="line">
-				<lem/>
-				<rdg source="bib:AuthorYear_01"/>
+				<app loc="3">
+				<lem>-bhoyila-</lem>
+				<note>This name is spelt thus also in lines 14 and 15, but -<foreign>bhogila</foreign>- in line 8.
+</note>
+				</app>
+				<app loc="4">
+					<lem>kāritak<choice><sic>a</sic><corr>o</corr></choice></lem>
+					<note>Note that <foreign>devakula</foreign> here rather clearly is taken to be masculine; tad seems to bear adverbial function. </note>
+				</app>
+				<app loc="5"><lem>astamva<!-- amwb : here I corrected astamba by Arlo's reading -->-khila-kṣ<choice><sic>a</sic><corr>e</corr></choice>ttr<choice><sic>a</sic><corr>ā</corr></choice>ṇām</lem>
+				<note>Correct -<foreign>stambakhilakṣettrāṇām</foreign>. <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads thus, but the plate clearly shows -<foreign>mva</foreign>- and -<foreign>ttra</foreign>-. </note>
+				</app>
+				<app loc="6">
+					<lem>ṣ<choice><sic>ī</sic><corr>a</corr></choice>ḍ</lem>
+					<note><bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads <foreign>ṣaḍ</foreign> but this is clearly not what the plate shows; cf. line 14, where <foreign>ṣaḍ</foreign> is clear.
+</note>
+				</app>
+				<app loc="7">
+					<lem>-kr̥tya</lem>
+					<rdg source="bib:Basak1931-1932_01">-<supplied reason="lost">kr̥</supplied>tya</rdg>
+					<note>On this shape of <foreign>kr̥</foreign>, recurring also below in line 14, cf. the <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur plate</ref>, line 15.
+</note>
+				</app>
+				<app loc="7">
+					<lem>-phuṭṭa-</lem>
+					<note><bibl><ptr target="bib:Basak1931-1932_01"/></bibl> suggests to emend <foreign>sphuṭita</foreign>. But <foreign>phuṭṭa</foreign>, being ‘evidently a Prakrit form’ (<bibl><ptr target="bib:Basak1931-1932_01"/></bibl>), must be retained. See <bibl><ptr target="bib:Hinueber2013_01"/></bibl><!-- amwb : caution, check here because it could be Hinueber2013_02 ? --> on this case.
+</note>
+				</app>
+				<app loc="7">
+					<lem>°saṁsk<choice><sic>a</sic><corr>ā</corr></choice>ra-</lem>
+					<note>Already corrected by <bibl><ptr target="bib:Basak1931-1932_01"/></bibl>.</note><!-- amwb : I suppose that is what Arlo means by his note "7. -skara: correct -skāra (RB)."  -->
+				</app>
+				<app loc="8">
+					<lem>sumanasā<supplied reason="omitted">ṁ</supplied></lem>
+					<rdg source="bib:Basak1931-1932_01">sumanasā<supplied reason="lost">M</supplied></rdg>
+				</app>
+				<app loc="8">
+					<lem>śrīgohālyā<supplied reason="omitted">ṁ</supplied> Api</lem>
+					<rdg source="bib:Basak1931-1932_01">śrīgohālyāścāpi</rdg>
+					<note>Correct <foreign>śrīgohālyām api</foreign>. RB reads <foreign>śrīgohālyāścāpi</foreign> and corrects this to <foreign>śrīgohālyāñ cāpi</foreign>.</note><!-- amwb: here there is a strong difference with siddham edition : DB reads śrīgohālyāś api and corrects it by śrīgohālyām api-->
+				</app>
+				<app loc="9">
+					<lem>-vāṭakār<unclear>t</unclear>tha<supplied reason="omitted">ṁ</supplied></lem>
+					<rdg source="bib:Basak1931-1932_01">-vāṭakārtha<supplied reason="lost">M</supplied></rdg>
+				</app>
+				<app loc="9">
+					<lem>-vāpa<choice><sic>p</sic><corr>m</corr></choice></lem>
+					<rdg source="bib:Basak1931-1932_01">-vāpam</rdg><!-- amwb : add siddham's reading ? : -vāpa<unclear>m</unclear>-->
+					<note>Correct -<foreign>vāpam</foreign>. <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads -<foreign>vāpam</foreign>, but the required m has not been written here. See shape of <foreign>pe</foreign> in line 21; same error <foreign>p</foreign> for <foreign>m</foreign> in lines 16–17 and 23.</note>
+				</app>
+				<app loc="10">
+					<lem>bodhayāma<supplied reason="omitted">ḥ</supplied></lem>
+					<note>Already corrected by <bibl><ptr target="bib:Basak1931-1932_01"/></bibl>.</note><!-- amwb : I suppose that is what Arlo means by his note "10. bodhayāma: correct bodhayāmaḥ (RB)." -->
+				</app>
+				<app loc="10">
+					<lem>-durgg<unclear>ā</unclear><!-- amwb : added unclear -->da°</lem>
+					<rdg source="bib:Basak1931-1932_01">-durgāda-</rdg><!-- amwb: maybe note siddham's reading because it is quite different: durgāda -->
+					<note>Or is the reading -<foreign>durggada</foreign>-?</note>
+				</app>
+				<app loc="10">
+					<lem>°ṇayā Avadhr̥ta°</lem>
+					<rdg source="bib:Basak1931-1932_01">-ṇayāvadhr̥ta-</rdg>
+				</app>
+				<app loc="11">
+					<lem>astīha-<!-- 
+amwb: replace a space by an hyphen-->viṣaye<!-- amwb: removed the <unclear>e</unclear> --></lem>
+					<rdg source="bib:siddham">astīha viṣay<unclear>e</unclear></rdg><!-- amwb : here Arlo's reading is different from siddham, how to note this? -->
+				</app>
+				<app loc="11">
+					<lem>-kṣettrāṇā<supplied reason="omitted">ṁ</supplied></lem>
+					<note>Already corrected by <bibl><ptr target="bib:Basak1931-1932_01"/></bibl>.</note><!-- amwb : I suppose that is what Arlo means by his note "correct -kṣettrāṇāṁ (RB)." -->
+				</app>
+				<app loc="11">
+					<lem>-bhojyānāṁ</lem>
+					<note>-<foreign>bhojyānām</foreign> <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> (misprint).</note>
+				</app>
+				<app loc="14">
+					<lem>bhoyila-</lem>
+					<note>Understand <foreign>bhogila-</foreign>, as in line 8.</note>
+				</app>
+				<app loc="14">
+					<lem>sakā<supplied reason="omitted">śā</supplied>t</lem>
+					<note>Emend <foreign>sakāśāt</foreign> (<bibl><ptr target="bib:Basak1931-1932_01"/></bibl>).</note>
+				</app>
+				<app loc="15">
+					<lem>bhoyilasya</lem>
+					<note>Understand <foreign>bhogilasya</foreign>, as in line 8.</note>
+				</app>
+				<app loc="15">
+					<lem>tala-v<choice><sic>a</sic><corr>ā</corr></choice>ṭakādy-artthaM</lem>
+					<rdg source="bib:siddham">tala-vāṭakādy-artthaM</rdg>
+					<note>Correct <foreign>talavāṭakādyarttham</foreign>, as <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads.</note>
+				</app>
+				<app loc="16">
+					<lem>śrīgohālyā<supplied reason="omitted">ṁ</supplied></lem>
+					<note>Already corrected by <bibl><ptr target="bib:Basak1931-1932_01"/></bibl>.</note><!-- amwb : I suppose that is what Arlo means by his note "ohālyā: corr. gohālyāṁ (RB)."-->
+				</app>
+				<app loc="16">
+					<lem>atraiva</lem>
+					<rdg source="bib:siddham">atr<choice><sic>ī</sic><corr>ai</corr></choice>va</rdg><!-- amwb : add source for siddham -->
+				</app>
+				<app loc="16">
+					<lem>sthal<choice><sic>i</sic><corr>a</corr></choice>-v<choice><sic>a</sic><corr>ā</corr></choice>stuno</lem>
+					<rdg source="bib:Basak1931-1932_01">sthalevastuno</rdg>
+					<note>Correct <foreign>sthalavāstuno</foreign>. RB reads <foreign>sthalevastuno</foreign> and makes the same correction. The <foreign>akṣara</foreign> he reads <foreign>le</foreign> has a slightly different shape than the <foreign>le</foreign> in line 7.</note>
+				</app>
+				<app loc="16">
+					<lem>-vāpa<lb n="17" break="no"/><choice><sic>p</sic><corr>m</corr></choice></lem>
+					<rdg source="bib:siddham bib:Basak1931-1932_01">-vāpam</rdg><!-- amwb: bib siddham rb to be encoded ! -->
+					<note>See note on line 9.</note>
+				</app>
+				<app loc="17">
+					<lem>ca <space/> Akṣa°</lem>
+					<note><bibl><ptr target="bib:Basak1931-1932_01"/></bibl> proposes in note to read <foreign>cākṣa</foreign>-, but the punctuation space between the two words means that non-application of sandhi is intentional.</note>
+				</app>
+				<app loc="17">
+					<lem>dattaM</lem>
+					<rdg source="bib:Basak1931-1932_01">dattan</rdg>
+				</app>
+				<app loc="18">
+					<lem/>
+					<note>In <bibl><ptr target="bib:Basak1931-1932_01"/></bibl><!-- amwb : check that EI is really this bibl ref -->, one reads this note: <q>The Paharpur plate gives <foreign>tad</foreign>- instead <foreign>te</foreign> (l. 19) which is a much better reading.—Ed.</q>. But the precise collocation <foreign>te yūyaṁ</foreign> is also found in the <ref target="DHARMA_INSBengalCharters00039.xml">Mahatī-Raktamālā</ref> (line 20) and <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur</ref> (line 13) plates. <!-- amwb: I added the lines -->
+</note>
+				</app>
+				<app loc="19">
+					<lem>-sthāyi-tuṣāṅgār-ādinā</lem>
+					<note>Correct -<foreign>sthāyituṣāṅgārādināṁ</foreign> or -<foreign>sthāyituṣāṅgārādi</foreign>- (thus <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur</ref>, line 14)? The latter option is reflected in the translation. <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads -<foreign>sthāyi</foreign>-.</note>
+				</app>
+				<app loc="19">
+					<lem>cāturddiśo</lem>
+					<note>Corr. <foreign>caturdiśo</foreign> or <foreign>cāturddiśe</foreign>? Cf. <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur</ref>, line 14–15 <foreign>caturddiṅniyamitasīmānaṁ kr̥tvā</foreign>.</note>
+				</app>
+				<app loc="20">
+					<lem>dharmme<choice><sic>n</sic><corr>ṇ</corr></choice>a</lem>
+					<note>Already corrected by <bibl><ptr target="bib:Basak1931-1932_01"/></bibl>.</note><!-- amwb : I suppose that is what Arlo means by his note "correct -dharmmeṇa (RB)." -->
+				</app>
+				<app loc="21">
+					<lem>bhagava<supplied reason="omitted">tā</supplied> veda-</lem>
+					<note><bibl><ptr target="bib:Basak1931-1932_01"/></bibl> emends bhagavadveda-.</note>
+				</app>
+				<app loc="22">
+					<lem>vasundharā<unclear>ṁ</unclear></lem>
+					<note>The sign for final -m* does not have its usual shape.</note>
+				</app>
+				<app loc="23">
+					<lem><choice><sic>p</sic><corr>m</corr></choice>odati</lem>
+					<rdg source="bib:Basak1931-1932_01">modati</rdg>
+					<note>See note on line 9.</note>
+				</app>
+				<app loc="23">
+					<lem>vase<unclear>T</unclear></lem>
+					<note>The sign for final -<foreign>T</foreign> does not have its usual shape.</note>
+				</app>
+				<app loc="24">
+					<lem>-dattāṁ</lem>
+					<note>-<foreign>dattām</foreign> <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> (misprint)</note>
 				</app>
 			</listApp>
 		</div>
-		<div type="translation" xml:lang="eng">
+		<div type="translation">
+<p n="1-3">Hail! From Pañcanagarī,<note>
+See <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">342</citedRange><citedRange unit="note">4</citedRange></bibl> which identifies this with modern Panchbibi in Bogra District<!-- 
+amwb : I added in Bogrā district, detail specified in Sircar's note 
+--> — a place I cannot identify. Perhaps it is the same as
+Panchanagar, substrict Kushmundi, dt. Dakshin Dinajpur, West Bengal, India, which seems a safe identification for Pañcanagarī.
+</note> 
+	the princely advisor Kulavr̥ddhi, 
+	favored by the feet<!-- 
+amwb : it is interesting to note that one can find this expression in <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref> line 1 : <foreign>paramabhaṭṭāraka-pādānuddhyātaḥ kumārāmātya-yūthapatir</foreign> 
+	--> of His Majesty the <supplied reason="explanation">Gupta</supplied> Sovereign,<note>
+According to the table in <bibl><ptr target="bib:Willis2005_01"/><citedRange unit="page">135</citedRange></bibl>, Kumāragupta’s reign lasted till 477, after which date we enter Skandagupta’s reign. </note> 
+	and the council of this district, 
+	greet the village tenants of <supplied reason="subaudible">the hamlets</supplied> Trivr̥tā and Śrī-Gohālī of <supplied reason="subaudible">the village</supplied> Vāyigrāma<!-- 
+amwb: it would be interesting to indicate in note that Vāyigrāma is mentioned in <ref target="DHARMA_INSBengalCharters00032.xml">Damodarpur #3</ref>, line 9 (see <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">342</citedRange><citedRange unit="note">6</citedRange></bibl>).  --> 
+	— the most eminent among them being the Brahmins,<!-- 
+amwb: here as in BC 39, BC57 and BC51, uttara ifc means "followed by" or "consisting of" MW p.178 col1 and Apte p.408 n°8...see "consisting chiefly of Brahmins" Apte p.1174) in this case, this means that landholders are brahmins?
+	--> 
+	led by the administrator <supplied reason="explanation"><foreign>saṁvyavahārin</foreign></supplied> — 
+	and inform them:
+</p>
+<p n="3-10">The two tenants Bhoyila and Bhāskara 
+who reside in this very place<note>
+Presumably in Vāyigrāma.
+</note> 
+respectfully request:</p>
+<p>This temple of Lord Govindasvāmin, 
+founded by our father Śivanandin,<!-- 
+amwb : I am wondering if "father" is a honorific denomination or not. If not, it is interesting to note that the request is made by two brothers and raises the question of inheritance of a temple --> 
+has limited means. <!-- 
+amwb : here it seems that the "tad" is not translated: "this temple" = devakulas + asāv. Considering Daniel's remark (daba : B and Agrawala both correct devakulas to devakulam and all adjectives and the pronoun to neuter. This seems like over-correction to me.), it would be necessary to add a note about this textual problem "devakulas tad asāv alpavr̥ttikaḥ" or understand "tad" as a logical connector and translate by two sentences "this temple has been founded by our father, thus (tad) it has limited means". In this way, I understand that the temple has limited means because his founder had a limited wealth or because this foundation results from an individual initiative ? 
+-->
+In this district, 
+the custom is sale for two <foreign>dīnāra</foreign>s of one <foreign>kulyavāpa</foreign> 
+of uncultivated land that is without revenue charges, 
+covered with original shrubs,<note>
+See <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">343</citedRange><citedRange unit="note">4</citedRange></bibl> for this interpretation of <foreign>ādya-stamba</foreign>.<!-- 
+amwb : I am wondering if ādya-stamba is not used to explain why the land is waste or uncultivated. It could be translated by " uncultivated land, because originally covered by shrubs, that is without revenue charges". Maybe this particular state of the land explains why the expression <foreign>samudaya-bāhyādyastamba-khila-kṣettra</foreign> (l.4-5 and l.11) seems less common in the corpus of inscriptions than the expressions <foreign>samudaya-bāhyāpratikara-khila-kṣetra</foreign> (BC39l.5,17,20; BC57 l.18, 19) or <foreign>samudaya-bāhyāprada-khila-kṣetra</foreign> (BC32 l.5). Note we can also read the expression <foreign>samudaya-bāhyādyastamba-khila-kṣettra</foreign> in BC54 Nandapur l.5 and 8-9 
+-->
+</note>
+and yields no tax, 
+as permanent endowment to be enjoyed in perpetuity 
+as long as the moon, the sun and the stars <supplied reason="subaudible">will last</supplied>. 
+Thus <supplied reason="explanation">tad</supplied>, 
+be so kind as to take from us in cash <supplied reason="explanation"><foreign>āyīkr̥tya</foreign></supplied><note>
+<foreign>āyīkr̥tya</foreign> is derived from <foreign>āya</foreign> in the sense of ‘income’, so ‘having made income from …’.
+</note><!-- amwb:  can be found in Kalaikuri Copper-plate of Kumāragupta I line 20 + Paharpur plate line 18 + Damodapur Plate #3 
+-->
+six <foreign>dīnāra</foreign>s and eight <foreign>rūpaka</foreign>s 
+and — for the purpose of carrying out the repairs of breaches <supplied reason="explanation"><foreign>khaṇḍa</foreign></supplied> and cracks <supplied reason="explanation"><foreign>phuṭṭa</foreign></supplied><note>
+Article <bibl><ptr/></bibl>von Hinüber<!-- 
+amwb : To be completed with the good reference
+-->. Originally Buddhist terms used in Vaiṣṇava context! See also other trace of Prakrit as administrative language in <foreign>ninna</foreign> = <foreign>diṇṇa</foreign> l. 17.
+</note><!-- 
+amwb : Maybe also quote Sircar's note 6 p.343 "phu.t.ta as prakrit form for sphu.tita" which is in the same vein of argumentation ?  
+-->
+in the temple of Lord Govindasvāmin, 
+and for offerings of perfume, incense, lamps and flowers — give</p>
+			<list><!-- amwb: here each item of the list represent a part of gift, it could be also possible to follow another logic and put only two items one for bhogila and another for Bhāskara -->
+				<item>in <supplied reason="subaudible">the hamlet</supplied> Trivr̥tā, to Bhogila, three <foreign>kulyavāpa</foreign>s of uncultivated land;</item>
+				<item>and<!-- 
+amwb: maybe "as well as" / "and also", it seems to me that "and" is too flat and that "api" expresses something more; indeed they ask more than kulyavāpa, they want kulyavāpa and two droṇavāpa introduced both by "api" and not "ca" 
+				--> in <supplied reason="subaudible">the hamlet</supplied> Śrī-Gohālī, to serve as parcel adjacent<!-- 
+amwb : I am wondering if vāṭaka could be translated by a "garden" or "park" because plant trees or give a garden or a park planted by trees is a meritorious deed and such parks seem to be create alongside temples cf. Dharmanibandha compilation about trees. For exemple :
+- Brick 2009 The Dānakāṇḍa (“Book on Gifting”) of the Kṛtyakalpataru: 21.1 Deviipuraa.na " a man that is wise should establish a park in accordance with the rite seen in the prescribed rules"  + 21.21  wells, parks, tanks, pools, ponds, refuges, etc. yield endless reward
+- Brick 21.24 : Nandipuraa.na When a man builds a pleasure-park, a garden filled with flowers, that is equipped with a body of water, protected, and endowed with an abundance of fruits, he goes to the city of iva and dwells there for three Yugas.
+- Brick from 21.33 Matsyapuraa.na : a long description of rules "for establishing grounds for gardens"--> 
+					<supplied reason="subaudible">to the temple</supplied>, <!-- amwb: I replace ":" punctuation mark by a ","comma  --><note>
+				Note on <foreign>talavāṭaka</foreign>: see IEG.<!-- amwb : To be completed with reference to IEG? Is it Sircar's note 9p.343? In this note, he also suggests that talavāṭaka could design a class of persons serving in temples with ref to CIII, III, p.216-217   -->
+				</note> 
+one <foreign>droṇavāpa</foreign> of inhabitable terrain;<!-- 
+amwb: here it could be necessary to mention the different possibilities of translation of the compound sthalavāstuno. Indeed, this compound is quite unique (I didn't find any other occurrence). On siddham, it has been translated by "homestead land". 
+sthala : Apte give more meanings than MW : Apte p.1718 1. firm or dry ground, dry land 2.ground, land soil (in general) 4. place, spot 5. field, tract, district 6. station 7. a piece of raised ground, mound
+vaastu : Apte p.1421 : 1. the site of a house, building ground, site 2. a house an abode, an dwelling-place 3. a chamber
+As vaastu seems to connect with architecture when it is included in a compound, I suggest "building land" "building plot" "buildable area" ? in french "terre constructible"? 
+-->
+</item>
+				<item>and <supplied reason="subaudible">in the same hamlet</supplied> to Bhāskara,<!-- amwb : I replace ":" by "," --> one <foreign>droṇavāpa</foreign> of inhabitable terrain.<!-- 
+amwb : idem as before--></item>
+			</list>
+<p n="10-13">Wherefore we <supplied reason="explanation">Kulavr̥ddhi and the council</supplied> inform you:
+<q>It has been ascertained 
+	through the investigation of the record-keepers Durgādatta and Arkadāsa 
+	that the custom in this district is sale for two <foreign>dīnāra</foreign>s 
+	of one <foreign>kulyavāpa</foreign> of 
+	uncultivated land that is without revenue charges,covered with original shrubs,<!-- 
+amwb: here make changes if we have changed something in l.5 about ādya-stamba
+-->
+	to be enjoyed in perpetuity as long as the moon, the sun and the stars <supplied reason="subaudible">will last</supplied>. 
+	And in the sale of such uncultivated land that yields no tax 
+	there is no conflict with the interest of the king; 
+	there is only benefit, 
+	and obtainment by His Majesty the Sovereign of a sixth part of the merit <supplied reason="explanation">accruing from the donation</supplied>;<!-- 
+amwb : to be more precise the sixth part of the ling accruing from his act of protection : 
+Usually the king takes a sixth of each transaction : cf Manusmrti 7.131-132 : olivelle's translation "He (ie. the King) shak also take a sixth share of trees, meat, honey, ghee, perfumes, herbs, condiments, flowers, roots, fruits, leaves, vegetables, grass, skins, cane, earthen vessels, and everything made of stone." But here as the land yields no tax, the benefit for the king is only meritorious and due to his act of protection. This understanding is also confirmed by the final stanzas which emphasises the act of protection. 
+So perhaps add in a note the reference to Yājñavalkya I.331 (Olivelle 2019, p.107) to explain why the king obtain this sixth part : 
+puṇyātṣaḍbhāgamādatte nyāyena paripālayan | 
+sarvadānādhikaṁ yasmānnyāyena paripālanam ||331
+he (the king) takes a sixth portion of the merits by providing protection justly, because providing protection justly greater than all gifts.  
+-->
+	so that it ought to be given</q>
+</p>
+<p n="13-18">After six <foreign>dīnāra</foreign>s and eight <foreign>rūpaka</foreign>s<!-- 
+amwb : it could be interesting to note that this sum of money allows to deduce the following price : one kulyavāpa costs 2 dīnāra, one droṇavāpa costs four rūpakas. From this kind of informations, it could be possible to reconstruct the exchange rate and the evolution of the price per square metre... --> 
+	had been taken in cash 
+	from these two, Bhoyila and Bhāskara, 
+	for the purpose of the temple of Lord Govindasvāmin,
+</p>
+			<list>
+				<item>to Bhoyila, in <supplied reason="subaudible">the hamlet</supplied> Trivr̥tā, three <foreign>kulyavāpa</foreign>s of uncultivated land to serve as parcel adjacent <supplied reason="subaudible">to the temple</supplied> etc.<!-- 
+amwb : change parcel here if we change it by garden before 
+amwb : for the compound talavaṭakādyarttham and the meaning of ādi, here it seems to me that translate ādi by etc. does not fit very well because the text never mentions another use of this land; maybe translate °ādi by mostly/mainly :  " to serve chiefly/mostly/mainly as garden adjacent (to the temple)" -->;
+</item>
+				<item>in <supplied reason="subaudible">the hamlet</supplied> Śrī-Gohālī,<!-- 
+amwb : maybe mention in a note the fact that this name is also present in BC50 Baigram fragment et BC55 Nāgavasu ? --> 
+					one <foreign>droṇavāpa</foreign> of inhabitable terrain;<!-- amwb: change "inhabitable terrain" if we change it before -->
+</item>
+				<item>and in this very place to Bhāskara, one <foreign>droṇavāpa</foreign> of inhabitable terrain;<!-- amwb: change "inhabitable terrain" if we change it before -->
+</item>
+			</list>
+<p>in this way three <foreign>kulyavāpa</foreign>s and two <foreign>droṇavāpa</foreign>s have been given with a copper plate for a permanent endowment. Low:<!-- 
+amwb : I deduce that "low" translates "ninna", but here a note could be welcome and could mention that one could find explanations in the commmentary part; I understand that Arlo follows Sircar who follows Shastri's suggestion in his note 5 p.344 which understands ninna as a mistake for nimna. 
+Apte p. 903 nimna 1. plunged, dipped into, immersed, submerged 2. gone down, set (as the sun) 3. overhelmed, covered 4. depressed, not proeminent
+For my part, i have the feeling that nimna could here have the third meaning in order to refer to the qualification "ādyastamva = originally covered" rather than to "khilakṣettra" and I will translate by "covered <supplied reason="explanation">land</supplied> : 3 ku" or "bush(land) : 3 ku" , "buildable <supplied reason="explanation">land</supplied> 2 dro"
+--> 
+3 <foreign>ku<supplied reason="subaudible">lyavāpa</supplied></foreign>; inhabitable: 2 <foreign>dro<supplied reason="subaudible">ṇavāpa</supplied></foreign>.
+</p>
+<p n="18-21">You there <supplied reason="explanation">mentioned at the start of the grant</supplied> 
+shall separate them off using two reeds, 
+eight by ninefold with the ladle-work <supplied reason="explanation">darvīkarma</supplied> cubit,<note>
+A note is necessary on this translation. Predecessors have assumed Darvīkarma was a proper noun, and that it designated the person after whom the standard had taken its name.
+</note>
+in a place that does not conflict with your own cultivation; 
+shall limit them in the four directions 
+with long-lasting markers such as <supplied reason="explanation">pots filled with</supplied><note>
+This interpretation is based on the Smr̥ti passages cited in the commentary.<!-- 
+amwb : I am not sure that it is necessary to supply "pots filled with".
+See two references without pots 
+1. Manusmṛti here (Olivelle's translation):
+8.249 "Seeing that in the world controversies constantly arise due to people's ignorance of boundaries, he should also have other concealed boundary markers ensconced -8.250 stones, bones, cow's hair, chaff, ashes, potsherds, dried cow dung, bricks, coal (aṅgāra), pebbles, and sand. 
+upachannāni cānyāni sīmāliṅgāni kārayet |
+sīmājñāne nṛṇāṁ vīkṣya nityaṁ loke viparyayam || MDh 8.249 ||
+aśmano 'sthīni govālāṁs tuṣān bhasma kapālikāḥ |
+karīṣam iṣṭakāṅgārāṁś śarkarā vālukās tathā || MDh 8.250[M248] || 
+
+2. We can also quote Yājñavalkya 2.154-5 who uses nimna 
+sīmno vivāde kṣetrasya sāmantāḥ sthavirā gaṇāḥ |
+gopāḥ sīmnaḥ kṛśāno'nye sarve ca vanagocarāḥ || 154
+nayeyur ete sīmāntaṃ sthalāṅgāratuṣadrumaiḥ |
+setuvalmīkanimnāsthicaityādyair upalakṣitam || 155
+When there is a dispute regarding a boundary of a field, neighbors, elderly people, persons fro, an association, herdmen, others famers near the boundary, and all men roaming in the forest should ascertain the boundary revealed by mounds (sthala), charcoal (aṅgāra), chaff (tuṣa), and trees (druma), and by dikes (setu), anthills (valmīka), trenches (nimna), bones (asthan), shrines (caitya), and the like. 
+After writting this note, I realize that Sircar1965_02 (note 1p.345) had already quoted these passages (Manu + Yajna + Brhaspati quoted in the commentary)... so my contribution is only the addition of Olivelle's translation.-->
+</note> 
+chaff or charcoal; shall make the donation and shall protect it in perpetuity according to the rule of a permanent endowment. And out of deference to this rule it is to be protected by present and future administrators, etc.
+</p>
+<p n="21-25">
+And it has been said by the magnanimous Lord Vedavyāsa:	
+</p>
+<p n="1" rend="stanza">
+The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors.
+</p>
+<p n="2" rend="stanza">
+The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell
+</p>
+<p n="3" rend="stanza">
+You, excellent Yudhiṣṭhira, must strenuously protect land previously given to brahmins by kings. Safeguarding is even better than giving.			
+</p>
+<p n="25">Year 128, <supplied reason="explanation">month of</supplied> Māgha, day 19.</p>
 		</div>
 		<div type="commentary">
+			<p>Regarding the indication <foreign>ninna ku 3 sthala dro 2 </foreign>(line 17), in <bibl><ptr target="bib:Basak1931-1932_01"/></bibl><!-- amwb: I am not sure that EI = Basak1931-1932_01--> one reads the following note: <cit><quote>This word (<foreign>ninna</foreign>) put before the abbreviated totalisation of the amount of land purchased does not appear to me explicable. [<foreign>Phuṭṭa</foreign> (= Skt. <foreign>sphuṭṭa</foreign>) in line 7 would suggest that it might stand for Skt. <foreign>nimna</foreign> meaning low land.—Ed.]</quote></cit>. The editor’s hypothesis is confirmed by the fact that <foreign>nimna</foreign> and <foreign>sthala</foreign> form a fixed pair. See <title>Rāmāyaṇa</title> 6.93.19 <foreign>sthalanimnāni bhūmeś ca</foreign>, but particularly these stanzas from the <title>Nāradasmr̥ti</title> (11.3–5):
+			</p>
+			<p><cit><quote><foreign>grāmasīmāsu ca bahir ye syus tatkṛṣijīvinaḥ |
+gopaśākunikavyādhā ye cānye vanagocarāḥ ||
+samunnayeyus te sīmāṃ lakṣaṇair upalakṣitām |
+<hi rend="bold">tuṣāṅgāra</hi>kapālaiś ca kumbhair āyatanair drumaiḥ ||
+abhijñātaiś ca valmīka<hi rend="bold">sthalanimno</hi>nnatādibhiḥ |
+kedārārāmamārgaiś ca purāṇaiḥ setubhis tathā ||</foreign></quote></cit>
+</p>
+			<p><cit><quote>In the case of the village boundaries, those who make their living by farming outside it, cowherds, bord catchers, hunters and others who inhabit the forest should delineate the boundary which is marked by such things as pots–of chaff, charcoal or crockery–shrines, trees, and by familiar markers such as ant hills, <hi rend="bold">mounds, depressions</hi>, elevations, etc., and paddies, groves, roads, or old dikes</quote></cit> (ed. and transl. <bibl><ptr target="bib:Lariviere1989_01"/></bibl>)</p>
+			<p>In the context, the word <foreign>ninna</foreign> serves as an equivalent to <foreign>(khila)kṣetra</foreign>.
+</p>
+			<p>The <title>Nāradasmr̥ti</title> passage just cited also clarifies another word figuring immediately after this indication in the inscription, viz. <foreign>tuṣāṅgāra</foreign>. The somewhat cryptic statement of the <title>Nāradasmr̥ti</title> passage is in turn clarified by the following passage translated from fragments of the <title>Br̥haspatismr̥ti</title> (<bibl><ptr target="bib:Jolly1889_01"/><citedRange unit="page">351</citedRange></bibl>):
+</p>
+			<p n="1" rend="stanza">This rule regarding rescission of purchase and sale has been declared. Hear the laws concerning boundaries of villages, fields, houses, and so forth.</p>
+<p n="2" rend="stanza">The determination of boundaries should be settled at the time of foundation, and it should be marked by visible and invisible signs, so as to dispel doubt.</p>
+<p n="3" rend="stanza">Wells, tanks, pools, large trees, gardens, temples, mounds, channels, the course of a river, reeds, shrubs, or piles of stones:</p>
+<p n="4" rend="stanza">By such visible signs as these a boundary line should always be caused to be marked; also, by other <supplied reason="explanation">marks</supplied> deposited underground which the earth is not likely to destroy.</p>
+<p n="5" rend="stanza"> Dry cowdung, bones, chaff, charcoal, stones, potsherds, sand, bricks, cows’ tails, cotton seeds, and ashes:</p>
+<p n="6" rend="stanza">After having placed these substances in vessels, one should deposit them underground at the extremities of the boundary.<note>
+These translated stanzas seem to correspond to the following in the <title>Br̥haspatismṛti</title> as reconstructed by <bibl><ptr target="bib:Aiyangar1941_01"/></bibl>, <title>Vyavahārakāṇḍa</title>, chapter 19, pp. 159–162:
+<p n="1" rend="stanza"><foreign>krayavikrayānuśaye vidhir eṣa pradarśitaḥ</foreign> | 
+<foreign>grāmakṣetragr̥hādīnāṃ sīmāvādaṁ nibodhata</foreign> || 1 ||</p>
+<p n="7" rend="stanza"><foreign>niveśakāle kartavyaḥ sīmābandhaviniścayaḥ</foreign> | 
+<foreign>prakāśopāṁśucihnaiś ca lakṣitaḥ saṁśayāpahaḥ</foreign> || 7 ||</p>
+<p n="8" rend="stanza"><foreign>vāpīkūpataḍāgāni caityārāmasurālayāḥ</foreign> || 8cd ||</p>
+<p n="9" rend="stanza"><foreign>sthalanimnanadīsrotaḥ śaragulmanagādayaḥ</foreign> | 
+<foreign>prakāśacihnāny etāni sīmāyāṁ kārayet sadā</foreign> || 9 ||</p>
+<p n="17" rend="stanza"><foreign>nihitāni tathānyāni yāni bhūmir na bhakṣayet</foreign> | 17ab |</p> 
+<p n="20" rend="stanza"><foreign>karīṣāsthituṣāṅgāraśarkarāśmakapālikāḥ</foreign> || 20ab ||
+<foreign>sikateṣṭakagobālakārpāsāsthīni bhasma ca </foreign>|| 20cd ||</p> 
+<p n="21" rend="stanza"><foreign>prakṣipya kumbheṣv etāni sīmānteṣu nidhāpayet</foreign> | 21ab |</p>
+On these stanzas, see <bibl><ptr target="bib:Renou1963_01"/><citedRange unit="page">99-100</citedRange></bibl>.	
+</note></p>
 		</div>
 		<div type="bibliography">
 			 <p>Re-edited by Arlo Griffiths, using photos furnished by Ryosuke Furui.</p>
         	<listBibl type="primary">
-				<bibl n="B"><ptr target="bib:Basak1931-1932_01"/></bibl>
-			</listBibl>
-           <listBibl type="secondary">
-               <bibl><ptr target="bib:ARASI1937_01"/><citedRange unit="page">42</citedRange></bibl>
+				<bibl n="RB"><ptr target="bib:Basak1931-1932_01"/><!-- amwb : add a ref for siddham's edition? because there are several different readings --></bibl>
+			
+        		<bibl><ptr target="bib:ARASI1937_01"/><citedRange unit="page">42</citedRange></bibl>
         	    <bibl><ptr target="bib:ARIE1956-1957"/><citedRange unit="entry">A.15</citedRange><citedRange unit="page">27</citedRange></bibl>
         	    <bibl><ptr target="bib:ARIE1961-1962"/><citedRange unit="entry">A.22</citedRange><citedRange unit="page">38</citedRange></bibl>
                <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="page">296</citedRange><citedRange unit="item">no. 2114</citedRange></bibl>
-               <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="item">III</citedRange><citedRange unit="entry">no. 41</citedRange><citedRange unit="page">355-9</citedRange><citedRange unit="figure">pl. L–LI</citedRange></bibl> 
+               <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="item">III</citedRange><citedRange unit="entry">no. 41</citedRange><citedRange unit="page">342-5</citedRange><citedRange unit="figure">pl. L–LI</citedRange></bibl><!-- 
+amwb : I corrected the numbers of pages because I found Baigram copperplate in Sircar 1965 vol 1 under the number 41, not pp.355-9 as noted in Arlo's rtf and Siddham's concordance, but pages 342-345 -->
         	    <bibl><ptr target="bib:Agrawala1983_01"/><citedRange unit="entry">29</citedRange></bibl>
         	    <bibl><ptr target="bib:Goyal1993_01"/><citedRange unit="page">183-8</citedRange></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+             	<bibl/>
 			</listBibl>
 		</div>
 		</body>
