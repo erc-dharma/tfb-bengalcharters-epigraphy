@@ -342,7 +342,7 @@ amwb: replace a space by an hyphen-->viṣaye<!-- amwb: removed the <unclear>e</
 				</app>
 			</listApp>
 		</div>
-		<div type="translation">
+		<div type="translation" resp="part:argr">
 <p n="1-3">Hail! From Pañcanagarī,<note>
 See <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">342</citedRange><citedRange unit="note">4</citedRange></bibl> which identifies this with modern Panchbibi in Bogra District<!-- 
 amwb : I added in Bogrā district, detail specified in Sircar's note 
@@ -388,7 +388,8 @@ as long as the moon, the sun and the stars <supplied reason="subaudible">will la
 Thus <supplied reason="explanation">tad</supplied>, 
 be so kind as to take from us in cash <supplied reason="explanation"><foreign>āyīkr̥tya</foreign></supplied><note>
 <foreign>āyīkr̥tya</foreign> is derived from <foreign>āya</foreign> in the sense of ‘income’, so ‘having made income from …’.
-</note><!-- amwb:  can be found in Kalaikuri Copper-plate of Kumāragupta I line 20 + Paharpur plate line 18 + Damodapur Plate #3 
+</note><!-- 
+	amwb:  can be found in Kalaikuri Copper-plate of Kumāragupta I line 20 + Paharpur plate line 18 + Damodapur Plate #3 
 -->
 six <foreign>dīnāra</foreign>s and eight <foreign>rūpaka</foreign>s 
 and — for the purpose of carrying out the repairs of breaches <supplied reason="explanation"><foreign>khaṇḍa</foreign></supplied> and cracks <supplied reason="explanation"><foreign>phuṭṭa</foreign></supplied><note>
@@ -410,7 +411,8 @@ amwb : I am wondering if vāṭaka could be translated by a "garden" or "park" b
 - Brick 21.24 : Nandipuraa.na When a man builds a pleasure-park, a garden filled with flowers, that is equipped with a body of water, protected, and endowed with an abundance of fruits, he goes to the city of iva and dwells there for three Yugas.
 - Brick from 21.33 Matsyapuraa.na : a long description of rules "for establishing grounds for gardens"--> 
 					<supplied reason="subaudible">to the temple</supplied>, <!-- amwb: I replace ":" punctuation mark by a ","comma  --><note>
-				Note on <foreign>talavāṭaka</foreign>: see IEG.<!-- amwb : To be completed with reference to IEG? Is it Sircar's note 9p.343? In this note, he also suggests that talavāṭaka could design a class of persons serving in temples with ref to CIII, III, p.216-217   -->
+				Note on <foreign>talavāṭaka</foreign>: see IEG.<!-- 
+amwb : To be completed with reference to IEG? Is it Sircar's note 9p.343? In this note, he also suggests that talavāṭaka could design a class of persons serving in temples with ref to CIII, III, p.216-217   -->
 				</note> 
 one <foreign>droṇavāpa</foreign> of inhabitable terrain;<!-- 
 amwb: here it could be necessary to mention the different possibilities of translation of the compound sthalavāstuno. Indeed, this compound is quite unique (I didn't find any other occurrence). On siddham, it has been translated by "homestead land". 
@@ -419,7 +421,8 @@ vaastu : Apte p.1421 : 1. the site of a house, building ground, site 2. a house 
 As vaastu seems to connect with architecture when it is included in a compound, I suggest "building land" "building plot" "buildable area" ? in french "terre constructible"? 
 -->
 </item>
-				<item>and <supplied reason="subaudible">in the same hamlet</supplied> to Bhāskara,<!-- amwb : I replace ":" by "," --> one <foreign>droṇavāpa</foreign> of inhabitable terrain.<!-- 
+				<item>and <supplied reason="subaudible">in the same hamlet</supplied> to Bhāskara,<!-- 
+amwb : I replace ":" by "," --> one <foreign>droṇavāpa</foreign> of inhabitable terrain.<!-- 
 amwb : idem as before--></item>
 			</list>
 <p n="10-13">Wherefore we <supplied reason="explanation">Kulavr̥ddhi and the council</supplied> inform you:
@@ -445,8 +448,10 @@ he (the king) takes a sixth portion of the merits by providing protection justly
 	so that it ought to be given</q>
 </p>
 <p n="13-18">After six <foreign>dīnāra</foreign>s and eight <foreign>rūpaka</foreign>s<!-- 
-amwb : it could be interesting to note that this sum of money allows to deduce the following price : one kulyavāpa costs 2 dīnāra, one droṇavāpa costs four rūpakas. From this kind of informations, it could be possible to reconstruct the exchange rate and the evolution of the price per square metre... --> 
-	had been taken in cash 
+amwb : it could be interesting to note that this sum of money allows to deduce the following price : one kulyavāpa costs 2 dīnāra, one droṇavāpa costs four rūpakas. From this kind of informations, it could be possible to reconstruct the exchange rate and the evolution of the price per square metre...
+If one kulyavāpa is equal to 8 droṇavāpa as stated in Dikshit 1929-1930 p.61 (cf Paharpur PlateBC52 quoted in one of my comment in BC34), 32 rūpakas are equal to 2 dīnāra, and so, 1 dīnāra is equal to 16 rūpakas
+--> 
+	had been taken in cash  
 	from these two, Bhoyila and Bhāskara, 
 	for the purpose of the temple of Lord Govindasvāmin,
 </p>
