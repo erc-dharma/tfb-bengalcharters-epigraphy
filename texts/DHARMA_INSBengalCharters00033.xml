@@ -100,7 +100,7 @@ amwb: I replaced kuṭumbi<unclear reason="illegible">naḥ k</unclear>uśalam b
 amwb : replaced bo<unclear>dhayant</unclear>i by Arlo's reading
 --> <unclear reason="illegible">vi</unclear>ditam bo
 <lb 
-n="3"/>bhaviṣyati yathā Iha-vīthī-kulika-bhīma-kāyastha-prabhucandra-rudradāsa-devadatta-lakṣmaṇa--k<supplied reason="lost">āntide</supplied>va<!-- 
+n="3"/>bhaviṣyati yathā Iha-vīthī-kulika-bhīma-kāyastha-prabhucandra-rudradāsa-devadatta-lakṣmaṇa-k<supplied reason="lost">āntide</supplied>va<!-- 
 amwb : replaced kā<unclear>ntide</unclear>va by Arlo's reading
 -->-śambhudatta-kr̥ṣṇa<lb 
 n="4" break="no"/>dāsa-pustapāla-si<sic>ṅ</sic>hanandi<!-- 
@@ -804,7 +804,20 @@ n="2" break="no"/>kāyāṁ</lem>
 				</app>
 			</listApp>
 		</div>
-		<div type="translation" xml:lang="eng">
+		<div type="translation" xml:lang="eng" resp="part:amwb"><head>Draft-translation</head>
+			<p n="1-2">Hail ! From Pūrṇakauśikā in the Śr̥ṅgavera territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>, the officer Acyuta<note>
+				This incipit of the plate is the same as the one of <ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter of the Time of Kumāragupta I</ref>. But we can notice that here there is no mention to the fact that his authority depends on the emperor.
+			</note> and the council greet the peasant householders of the village beginning with the brahmins, <supplied reason="explanation">residing</supplied> next to Hasti <note>I interpret Hastiśīrṣa as a compound indicating a large aera. It is based on my previous observation according to which the geographical indication is presented from the larger to the smaller entity.So it could be possible to consider śīrṣa  a word used in a geographical manner to indicate that some place is near another place and hasti-  a name of place like Hastinapura? If so, the translation could be in the upper part of Hasti or collateral of Hasti. If this interpretation is not convincing, the translation would be "in Hastiśīrṣa".</note>, i.e. in Vibhītakā, in Gulmagandhikā, in Dhānyapāṭikā, as well as in their hamlets <supplied reason="explanation"><foreign>sagohāliṣu</foreign></supplied> and inform them : 
+			</p>
+			<p n="2-12">
+				It will be known by you that the artisan <supplied reason="explanation"><foreign>kulika</foreign></supplied> Bhīma, the scribes <supplied reason="explanation"><foreign>kāyastha</foreign></supplied> Prabhucandra, Rudradāsa, Devadatta, Lakṣmaṇa, Kāntideva, Śambhudatta, Kṛṣṇadāsa, the keeper-records <supplied reason="explanation"><foreign>pustapāla</foreign></supplied> Siṁhanandin and Yaśodāman, all belonging to this territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>, preceded by the territory-chiefs <supplied reason="explanation"><foreign>vīthīmahattara</foreign></supplied> Kumāradeva, Gaṇḍaprajāpati, Umayaśas, Rāmaśarman, Jyeṣṭhadāman, Svāmicandra and Harisiṁha, preceded by the peasant householders <supplied reason="explanation"><foreign>kuṭumbi</foreign></supplied> Yaśoviṣṇu, Kumāraviṣṇu, Kumārabhava, Kumārabhūti, Kumāra, Yaśagupta, Vailinaka, Śivakuṇḍa, Vasuśiva, Aparaśiva, Dāmarudra, Prabhamitra, Kṛṣṇamitra, Maghaśarman, Iśvaracandra, Rudrabhava, Svāmideva, Śrīnātha, Hariśarman, Guptaśarman, Suśarman, Hari, Alātasvāmin, Brahmasvāmin, Mahāsenabhaṭṭa, Ṣaṣṭhirāta, Gu _ _ _, _ _ śarman, Uṇṭaśarman, Kṛṣṇadatta,Nandadāman, Bhavadatta, Ahiśarman, Somaviṣṇu, Lakṣmaṇaśarman, Kāntidhovvoka, Kṣemaśarman, Śukraśarman, Sarppapālita, Kaṅkuṭi, Viśvaśaṅkara, Jayasvāmin, Kaivarttaśarman, Himaśarman, Purandara, Jayaviṣṇu, Uma. . . , Siṁhatta, Bonda, Nārāyanadāsa, Vīranāga, Rājyanāga, Guhamahi, Bhavanātha, Guhaviṣṇu, Śarva, Yaśoviṣṇu, Ṭakkakuladāma . . . . va, Śrīguhaviṣṇu,Rāmasvāmin, Kāmanakuṇḍa, Ratibhadra, Acyutabhadra, Loḍhaka, Prabhukīrti, Jayadatta, Kāluka, Acyuta, Naradeva, Bhavabhavarakṣita, Piccakuṇḍa, Pravarakuṇḍa, Śarvadāsa and Gopāla, inform us :
+			</p>
+			<p n="12-17">
+				In accordance of the rule allowable in this territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied> that one <foreign>kulyavāpa</foreign> of waste land in order to be a permanent endowment is to be saled in exchange of two <foreign>dīnāra</foreign>s, we wish, in order to increase the merit of our parents, after purchasing nine <foreign>kulyavāpa</foreign>s <supplied reason="explanation">of waste land</supplied>, give <supplied reason="subaudible">this land</supplied> to the brahmins residing in Puṇdravardhana, belonging to the Vājasaneya school, <supplied reason="explanation">named</supplied> Devabhaṭṭa, Amaradatta and Mahāsenadatta for the purpose of the performance of the five great sacrifices. Precisely in the  above-mentionned villages, there are waste lands. Thus <supplied reason="explanation"><foreign>tad</foreign></supplied>, after receiving an amount of eighteen <foreign>dīnāra</foreign>s from us, be so kind as to endorse <supplied reason="subaudible">the sale of</supplied> nine <foreign>kulyavāpa</foreign>s.
+			</p>
+			<p n="17-19">
+				Wherefore, after obtaining the information of those beginning with the artisan Bhīma, it has been established through the investigation of the record-keepers Siṁhanandi and Yaśodāman, that in this territory the custom is to sale one <foreign>kulyavāpa</foreign> of waste land for two <foreign>dīnāra</foreign>s for the purpose of a permanent endowment. 
+			</p>
 		</div>
 		<div type="commentary">
 		</div>
