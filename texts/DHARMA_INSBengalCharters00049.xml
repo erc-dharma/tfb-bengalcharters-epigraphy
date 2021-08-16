@@ -327,7 +327,7 @@ amwb: replace a space by an hyphen-->viṣaye<!-- amwb: removed the <unclear>e</
 				</app>
 				<app loc="18">
 					<lem></lem>
-					<note>In <bibl><ptr target="bib:Basak1931-1932_01"/></bibl><!-- amwb : check that EI is really this bibl ref -->, one reads this note: <q>The Paharpur plate gives <foreign>tad</foreign>- instead <foreign>te</foreign> (l. 19) which is a much better reading.—Ed.</q>. But the precise collocation <foreign>te yūyaṁ</foreign> is also found in the <ref target="DHARMA_INSBengalCharters00039.xml">Mahatī-Raktamālā</ref> (line 20) and <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur</ref> (line 13) plates. <!-- amwb: I added the lines -->
+					<note>In <bibl><ptr target="bib:Basak1931-1932_01"/></bibl><!-- amwb : check that EI is really this bibl ref -->, one reads this note: <q>The Paharpur plate gives <foreign>tad</foreign>- instead <foreign>te</foreign> (l. 19) which is a much better reading.—Ed.</q>. But the precise collocation <foreign>te yūyaṁ</foreign> is also found in the <ref target="DHARMA_INSBengalCharters00039.xml">Mahatī-Raktamālā</ref> (line 20) and <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur</ref> (line 13) plates. <!-- amwb: I added the number of the lines -->
 </note>
 				</app>
 				<app loc="19">
