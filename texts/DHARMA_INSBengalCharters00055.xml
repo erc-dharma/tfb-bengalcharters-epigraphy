@@ -147,7 +147,7 @@
                    </app>
                    <app loc="4">
                        <lem>°bhojyākṣaya-</lem>
-                       <note>Emend -<foreign>bhogyo kṣaya</foreign>- or -<foreign>bhogyākṣaya</foreign>-.</note>
+                       <note>Emend -<foreign>bhogyo 'kṣaya</foreign>- or -<foreign>bhogyākṣaya</foreign>-.</note>
                    </app>
                    <app loc="6">
                        <lem>puñja<gap reason="lost" unit="character" quantity="9"/></lem>
@@ -431,7 +431,7 @@ comment note-t-on un ouvrage à venir ?  The Inscriptions of the Maitrakas of Va
                      </item>
                      <item n="e">
                          <foreign><hi rend="bold">caturddigabhyyāgatāya</hi> śramaṇapuṅgavāvasathāyāryyasaṅghāya</foreign> ‘for the community of noble ones coming from the four quarters, which is the abode of most eminent ascetics’ (<ref target="http://siddham.uk/index.php/inscription/in00012">Sanchi stone inscription of Candragupta II</ref><!-- 
-enter a new reference when the inscription will encode in DHARMABASE; for the moment 2021-08-16, there is no reference in the Bengal Inscriptions Metadata (googlesheets), but there is a siddham file under the number IN00012_TEI.xml
+enter a new reference when the inscription is encoded in DHARMABASE; for the moment 2021-08-16, there is no reference in the Bengal Inscriptions Metadata (googlesheets), but there is a siddham file under the number IN00012_TEI.xml
 -->, year 93 Gupta Era, line 2 — <bibl><ptr target="bib:Bhandarkar1981_01"/><citedRange unit="page">250</citedRange></bibl>)
                      </item>
                  </list>

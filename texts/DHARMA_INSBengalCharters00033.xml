@@ -215,10 +215,12 @@ amwb : I replaced kā-<unclear>gu</unclear><unclear reason="illegible">lma</uncl
 -->-grāmeṣu <unclear>v</unclear>i<unclear>bh</unclear>ī<unclear cert="low">ta</unclear> <gap reason="illegible" quantity="1" unit="character"/><!-- 
 daba siddham : Agrawala attempts to reconstruct the end as viṣikhā-nadyāṁ (dyāṁ in the next line, that is). Earlier editors just transcribe a lacuna after grāmeṣu. I think the second vowel mātrā is ī, not i. The last character is absolutely illegible. I might hazard vibhītakyādyāṁ, but this doesn't really make sense. 
 --><!-- 
-amwb : I replaced <unclear>v</unclear>i<unclear>bh</unclear>ī<unclear cert="low">ta</unclear> <gap reason="illegible" quantity="1" unit="character"/> by Arlo's reading and added differetn readings in app
+amwb : I replaced <unclear>v</unclear>i<unclear>bh</unclear>ī<unclear cert="low">ta</unclear> <gap reason="illegible" quantity="1" unit="character"/> by Arlo's reading and added different readings in app
 --><lb 
-n="21" break="no"/>dyāṁ dakṣiṇoddeśeṣu Aṣṭau kulya-<choice><sic>b</sic><corr>v</corr></choice>āpāḥ dhānyapāṭalikā-grāmasya paścimottaroddeśe<unclear>ṣv ā</unclear>dyakhāta-<!-- 
-amwb : I replaced <gap reason="illegible" quantity="1" unit="character"/> dy<unclear>o</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>ta- by Arlo's reading and added differetn readings in app 
+n="21" break="no"/>dyāṁ dakṣiṇoddeśeṣu Aṣṭau kulya-<choice><sic>b</sic><corr>v</corr></choice>āpāḥ dhānyapāṭalikā-grāmasya<!-- 
+amwb : here siddham has dhānyapāṭalikā-grāmasya with long ā as Sanyal1955-1956_01 ; Arlo has dhānyapāṭalika-grāmasya with short a as bib:Sircar1943_02 ; I 
+--> paścimottaroddeśe<unclear>ṣv ā</unclear>dyakhāta-<!-- 
+amwb : I replaced <gap reason="illegible" quantity="1" unit="character"/> dy<unclear>o</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>ta- by Arlo's reading and added different readings in app 
 -->-parikhā-veṣṭi<unclear>ta</unclear><!-- 
 daba siddham : The "mo" of paścimottara looks rather like ṇa. Compare l11 of IN00026 (Damodarpur plate 1) where the reading is paścinattar° emended to paścimottar° - that could be the same case. In l7 of the present inscription, mo looks the same, so this is not a "typo" here. 
 --><!-- 
@@ -233,7 +235,7 @@ BUT i am not sure to have really well understand what Arlo means by kulyabāpa-m
 amwb : I replaced pūrvv<unclear>e</unclear> by Arlo's reading but did not mention in app because all three are in agreement 
 --><lb 
 n="23" break="no"/>ṇ ādyapathaḥ paścima-pradeśe droṇa-<choice><sic>b</sic><corr>v</corr></choice>āpa-dvayaṁ hastiśīrṣa-prāveśya-tāpasa<supplied reason="lost">potta</supplied>ke dayitāpottake ca vi<lb 
-n="24" break="no"/>bhītaka-prāveśya-citravātaṅgare <unclear>yāva</unclear><supplied reason="omitted">t</supplied><!-- 
+n="24" break="no"/>bhītaka-prāveśya-citravātaṅgare cāva<!-- 
 amwb : I replaced <unclear>yāva</unclear><supplied reason="omitted">t</supplied> by Arlo's reading and added different readings in app
 --> kulya-<choice><sic>b</sic><corr>v</corr></choice>āpāḥ sapta droṇa-<choice><sic>b</sic><corr>v</corr></choice>āpāḥ ṣaṬ Eṣu<!-- 
 amwb : I replaced ṣat eṣu by Arlo's reading and added different readings in app
@@ -293,7 +295,9 @@ amwb : I added the unclear and compelted app
 <l n="c"><unclear>bhūmiṁ</unclear> <lb n="32"/>vr̥ttikarī<sic>n</sic> da<sic>tv</sic>ā</l>
 <l n="d">sukhī<!-- 
 amwb : I replaced <unclear reason="illegible">ukh</unclear>ī and completed app
---> bhavati kāmada<supplied reason="omitted">ḥ</supplied></l>
+--> bhavati kāmada<supplied reason="omitted">ḥ</supplied><!-- 
+amwb : I removed <supplied reason="omitted">ḥ</supplied> because Arlo does not seem to emend it
+--></l>
 </lg>
 <lg n="4" met="anuṣṭubh">
 <l n="a">bahubhi<unclear>r vasudhā</unclear> bhuktā</l>
@@ -649,6 +653,13 @@ n="2" break="no"/>kāyāṁ</lem>
 						<rdg source="bib:SIDDHAM"><unclear>v</unclear>i<unclear>bh</unclear>ī<unclear cert="low">ta</unclear> <gap reason="illegible" quantity="1" unit="character"/></rdg>
 					-->
 				</app>
+				<app loc="21"><!-- 
+				amwb : here it is my own emendation. Its relevance should be discussed with Arlo
+				-->
+					<lem source="bib:Sircar1943_02">dhānyapāṭalika-grāmasya</lem>
+					<rdg source="bib:Sanyal1955-1956_01">dhānyapāṭalikā-grāmasya</rdg><!-- Siddham has the same reading -->
+					<note>According to its earlier mention in line 20, one could emend <foreign>dhānyapāṭalikā</foreign>.</note>
+				</app>
 				<app loc="21">
 					<lem>°<unclear>ṣv ā</unclear>dyakhāta-</lem>
 					<rdg source="bib:Sircar1943_02">°<supplied reason="lost">sadyaḥ khāta</supplied>-</rdg>
@@ -679,13 +690,23 @@ n="2" break="no"/>kāyāṁ</lem>
 					<rdg source="bib:SIDDHAM">pūrvv<unclear>e</unclear></rdg>
 				</app>
 				-->
-				<app loc="24">
+				<app loc="24"><!-- 
+				amwb : here it is my own emendation. Its relevance should be discussed with Arlo
+				-->
 					<lem>cāva</lem>
 					<rdg source="bib:Sircar1943_02"><supplied reason="lost">ca</supplied></rdg>
 					<rdg source="bib:Sanyal1955-1956_01">yāva<supplied reason="omitted">t</supplied></rdg>
+					<note>Emend <foreign>caiva</foreign> ?</note>
 					<!--
 						<rdg source="bib:SIDDHAM"><unclear>yāva</unclear><supplied reason="omitted">t</supplied></rdg>
 					-->
+				</app>
+				<app loc="23"><!-- 
+				amwb : here it is my own suggestion, it should be discussed with Arlo
+				-->
+					<lem>vi<lb 
+n="24" break="no"/>bhītaka-</lem>
+					<note>Could <foreign>vibhītaka</foreign>- be a scribal error for <foreign>vibhītakī</foreign>? Indeed this village name is spelled <foreign>vibhītakī</foreign> in lines 1 and 20.</note>
 				</app>
 				<app loc="24">
 					<lem>ṣaṬ Eṣu</lem>
@@ -771,6 +792,12 @@ n="2" break="no"/>kāyāṁ</lem>
 					-->
 				</app>
 				<app loc="32">
+					<lem>kāmada</lem>
+					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">kāmada<supplied reason="omitted">ḥ</supplied></rdg><!-- 
+					amwb : siddham has kāmada<supplied reason="omitted">ḥ</supplied>; add this reading if we include siddham's readings
+					-->
+				</app>
+				<app loc="32">
 					<lem>bhūmi<unclear>s ta</unclear>sya tasya</lem>
 					<rdg source="bib:Sircar1943_02"><supplied reason="lost">bhūmis tasya tasya</supplied></rdg>
 					<rdg source="bib:Sanyal1955-1956_01">bhūmis <supplied reason="lost">tasya ta</supplied>sya</rdg>
@@ -818,7 +845,16 @@ n="2" break="no"/>kāyāṁ</lem>
 			<p n="1-2">Hail ! From Pūrṇakauśikā in the Śr̥ṅgavera territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>, the officer Acyuta<note>
 				The incipit of this plate is identical to the one of <ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter of the Time of Kumāragupta I</ref>. But we can notice that here there is no mention to the fact that Acyuta's authority depends on the emperor.
 			</note>
-				and the council greet the peasant householders of the village beginning with the brahmins, <supplied reason="explanation">residing</supplied> next to Hasti, i.e. in Vibhītakā,<note>I interpret Hastiśīrṣa as a compound indicating a large aera. It is based on my previous observation according to which the geographical indication is presented from the larger to the smaller entity. So it could be possible to consider <foreign>śīrṣa</foreign>- a word used in a geographical manner to indicate that some place is near another place and <foreign>hasti</foreign>- a name of place like Hastinapura? If so, the translation could be 'in the upper part of Hasti' or 'collateral of Hasti'. A second possibility is to see the whole compound Hastiśīrṣa as a place name. In this case, the translation would be 'in Hastiśīrṣa'. The translation of <bibl><ptr target="bib:Sircar1943_02"/></bibl> is somewhat unclear. Indeed, in his translation of the line 1, he merges <foreign>hastiśīrṣe</foreign> with <foreign>vibhītakyāṁ</foreign> and translates 'residing in Hastiśīrṣavibhītakī'. In line 20, his translation of <foreign>hastiśīrṣa-vibhītakyāṁ</foreign> by 'Hastiśīrṣavibhītakī' might be supported by the singular locative. But in lines 23-24, the text compells him to consider Hastiśīrṣa and Vibhītakī two different place names. <bibl><ptr target="bib:Sanyal1955-1956_01"/><citedRange unit="page">58-9</citedRange></bibl> doesn't follow <bibl><ptr target="bib:Sircar1943_02"/></bibl>'s understanding and consider Hastiśīrṣa and Vibhītakī two different names of village. </note>
+				and the council greet the peasant householders of the village beginning with the brahmins, <supplied reason="explanation">residing</supplied> next to Hasti, i.e. in Vibhītakā,<note>As the previous translations of this inscription show it, there are several possibilities to interpret <foreign>hastiśīrṣe</foreign>. The translation of <bibl><ptr target="bib:Sircar1943_02"/></bibl> is somewhat unclear. Indeed, in his translation of the line 1, he merges <foreign>hastiśīrṣe</foreign> with <foreign>vibhītakyāṁ</foreign> and translates 'residing in Hastiśīrṣavibhītakī'. In line 20, his translation of <foreign>hastiśīrṣa-vibhītakyāṁ</foreign> by 'Hastiśīrṣavibhītakī' might be supported by the singular locative. But in lines 23-24, the text compells him to consider Hastiśīrṣa and Vibhītakī two different place names. At the end of his translation, he adds a note and criticizes the understanding of the place names suggested by Sanyal : <quote>It will be seen from the note that Sanyal has failed to decipher many important passages of the record including several geographical names. His suggestion regarding the two villages Hastiśīrṣa and Vibhītakī is not supported by the passage <foreign>hastiśīrṣa-vibhītakyāṁ</foreign> of the text.</quote> 
+Indeed <bibl><ptr target="bib:Sanyal1955-1956_01"/><citedRange unit="page">58-9</citedRange></bibl> doesn't follow <bibl><ptr target="bib:Sircar1943_02"/></bibl>'s understanding and consider Hastiśīrṣa and Vibhītakī two different names of village. 
+					To clarify the problem, I give below the three contexts where the word <foreign>hastiśīrṣa</foreign> appears in the text : 
+					<list rend="numbered">
+						<item>in association with the place name Vibhītakī, but not in compound: <foreign>hastiśīrṣe vibhītakyāṁ</foreign> (line 1)</item>
+						<item>in association and in compound with the place name Vibhītakī: <foreign>hastiśīrṣavibhītakyāṁ</foreign> (line 20)</item>
+						<item>in compound and in association with another place name Tāpasapotakq : <foreign>hastiśīrṣaprāveśyatāpasapottake</foreign> (line 23)</item>
+					</list>
+					
+					The first interpretation could be to consider it a place name 'Hastiśīrṣa' as <bibl><ptr target="bib:Sanyal1955-1956_01"/></bibl> did. A second possibility is to see <foreign>hastiśīrṣa</foreign> as a compound indicating a large aera. This interpretation is based on my previous observation according to which the geographical indication is presented from the larger to the smaller entity. So it could be possible to consider <foreign>śīrṣa</foreign>- a word used in a geographical manner to indicate that some place is near another larger place and <foreign>hasti</foreign>- a name of place like Hastināpura? If so, the translation could be 'in the upper part of Hasti', 'collateral of Hasti', close or next to Hasti. A third possibility could be to consider <foreign>hastiśīrṣa</foreign> a compound composed by the derivated word of the constellation name Hasta followed by <foreign>śīrṣa</foreign>, like in the compound <foreign>mārgaśīrṣa</foreign> 'the month under the constellation of Mṛga' (ie. november-september) which is recorded in Monier-Williams and in <ref target="http://siddham.uk/inscription/in00090">Betul Charter of Samksobha, year 199</ref>, line 3 <!-- amwb : I also found mārgaśīrṣa in in the Kesaribedā Donation of Arthapati line 13 (siddham IN1003) and in Kauvatal Charter of Sudevarāja line 24 -->. But the irregular derivation in <foreign>hastiśīrṣa</foreign> and the context of its use do not allow a such interpretation.</note>
 				in Gulmagandhikā, in Dhānyapāṭikā, as well as in their hamlets <supplied reason="explanation"><foreign>sagohāliṣu</foreign></supplied> and inform them : 
 			</p>
 			<p n="2-12">
@@ -837,15 +873,44 @@ I translate the instrumental akṣayanīvyā by the expression 'is used for' and
 -->
 				after purchasing nine <foreign>kulyavāpa</foreign>s <supplied reason="explanation">of waste land</supplied>, give <supplied reason="subaudible">this land</supplied> for the purpose of the performance of the five great sacrifices to the brahmins <supplied reason="explanation">named</supplied> Devabhaṭṭa, Amaradatta and Mahāsenadatta residing in Puṇdravardhana and belonging to the Vājasaneya school.</p>
 			<p n="15-17">
-				Precisely in the  above-mentionned villages, there are waste lands. Thus <supplied reason="explanation"><foreign>tad</foreign></supplied>, after receiving an amount of eighteen <foreign>dīnāra</foreign>s from us, be so kind as to endorse <supplied reason="subaudible">the sale of</supplied> nine <foreign>kulyavāpa</foreign>s.
+				Precisely in the above-mentionned villages, there are waste lands. Thus <supplied reason="explanation"><foreign>tad</foreign></supplied>, after receiving an amount of eighteen <foreign>dīnāra</foreign>s from us, be so kind as to endorse <supplied reason="subaudible">the sale of</supplied> nine <foreign>kulyavāpa</foreign>s.
 			</p>
 			<p n="17-18">
 				Wherefore, after obtaining the information of those beginning with the artisan Bhīma, through the investigation of the record-keepers Siṁhanandi and Yaśodāman, what is followed has been established :
 				</p>
 			<p n="18-19">In this territory the sale of one <foreign>kulyavāpa</foreign> in exchange of two <foreign>dīnāra</foreign>s to be used for a permanent endowment of a waste land without revenue charges to be enjoyed in perpetuity is customary. So <supplied reason="explanation">tad</supplied>, let the gift be made!</p>
-			<p n="19-">After those beginning with the artisan Bhīma have established that there is no conflict whatsoever <supplied reason="subaudible">with the interest of the king</supplied>, after eighteen <foreign>dīnāra</foreign>s collected <supplied reason="explanation">upasaṁhr̥taka</supplied> had been taken in cash, eight <foreign>kulyavāpa</foreign>s  </p>
-			
-			
+			<p n="19-24">After those beginning with the artisan Bhīma have established that there is no conflict whatsoever <supplied reason="subaudible">with the interest of the king</supplied>, after eighteen <foreign>dīnāra</foreign>s collected <supplied reason="explanation">upasaṁhr̥taka</supplied> had been taken in cash, eight <foreign>kulyavāpa</foreign>s are located in the south in Vibhītakī next to Hasti/in the ensemble of Hastiśīrṣa and Vibhītakī,<note>
+				Here there are three possibilities to understand, analyse or correct <foreign>hastiśīrṣavibhītakyāṁ</foreign> :
+				<list rend="numbered">
+					<item>consider <foreign>śīrṣa</foreign>- as an geographical indication and translate 'in Vibhītakī next to Hasti'</item>
+					<item>analyse the singular as a scribal error and correct it by a duel form : <foreign>hastiśīrṣavibhītakyor</foreign></item>
+					<item>as Arlo suggests, read <foreign>vibhītakī</foreign> in order to have a long compound <foreign>hastiśīrṣa-vibhītakī-dhānyapāṭalikā-gulmagandhikā-grameṣu</foreign> </item>
+				</list>
+			</note> in the villages Dhānyapāṭalikā and Gulmagandhikā,<note>
+				Here one would have prefered a dual instead of a plural.
+			</note> in Khanī<gap reason="lost" unit="character" quantity="2"/>dī; 
+				one <foreign>kulyavāpa</foreign> is located in the north-west of the village Dhānyapāṭalikā surrounded by a recently excavated ditch, with Vāṭā river in the north <supplied reason="explanation">and</supplied> bordered by the village Gulmagandhikā the in the west;
+			two <foreign>droṇavāpa</foreign>s are located in the west in Gulmagandhikā with the first road at the east;
+			and also <supplied reason="explanation">caiva</supplied> seven <foreign>kulyavāpa</foreign>s and six <foreign>droṇavāpa</foreign>s <supplied reason="explanation">are located</supplied> in Citravātaṅgara falling under <supplied reason="explanation"><foreign>prāveśya</foreign></supplied> Vibhītakī,<note>
+				I consider <foreign>vibhītaka</foreign> a scribal error as the place name Vibhītakī is well spelled in lines 1 and 20.
+			</note>
+			in the hamlets/localities/estates Dayitā and Tāpasa / in Dayitāpotaka and Tāpasapotaka,<note>
+				It seems to me that the term <foreign>potaka</foreign> could refer to a subtype of geographical toponym like in french words "lieu-dit, maison, domaine, propriété, bourgade, hameau, patelin".
+			</note> the latter one falling under <supplied reason="explanation">the region</supplied> next/close to Hasti / Hastiśīrṣa.</p>
+			<p n="24-27">In the regions of the above-mentionned villages,<note>
+				One can note the parallelism between the expression <foreign>eṣu yathopari-nirddiṣṭaka-grāma-pradeśeṣv</foreign> and the one used in line 15-16 : e<foreign>bhir evopari-nirddiṣṭaka-grāmeṣu</foreign>.
+			</note> in order to increase the merits of each mother and father of them, the artisan <supplied reason="explanation"><foreign>kulika</foreign></supplied> Bhīma, the scribes <supplied reason="explanation"><foreign>kāyastha</foreign></supplied> give for the performance of the five great sacrifices five <foreign>kulyavāpa</foreign>s, <abbr><foreign>ku</foreign></abbr> 5, to the Brahmin Devabhaṭṭa, two <foreign>kulyavāpa</foreign>s to <supplied reason="subaudible">the Brahmin</supplied> Amaradatta, two <foreign>kulyavāpa</foreign>s, <abbr><foreign>ku</foreign></abbr> 2, to <supplied reason="subaudible">the Brahmin</supplied> Mahāsenadatta.</p>
+			<p n="27-28">Thus <supplied reason="explanation">tad</supplied>, it is known <supplied reason="explanation">nivedyate?</supplied> through our <supplied reason="lost">request?</supplied> and it is written : these nine <foreign>kulyavāpa</foreign> are given to these three recipients for the performance of the five great sacrifices.</p>
+			<p n="28-29">Those who <supplied reason="explanation">live</supplied> in the present time <supplied reason="explanation">samupasthita-kālaṁ</supplied>, ie. the district officers <supplied reason="explanation">viṣayapati</supplied>, the officers, the peasant householders, the council members and the others who in the near future will be administrating <supplied reason="explanation">this land</supplied>,<note>
+				The lines 28-29 are really close to the lines 22-24 of <ref target="DHARMA_INSBengalCharters00034.xml">the Jagadispur Charter of the Time of Kumāragupta I</ref>.
+			</note> after considering the benefits of land donation, will have to protect <supplied reason="explanation">this land</supplied> as a permanent endowment.</p>
+			<p n="29-30">And the venerable Vyāsa said in the <title>Mahābhārata</title>:</p>
+			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors.</p>
+			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
+			<p n="3" rend="stanza">A man who gives land to a miserable, to someone become poor, to someone emaciated by his way of life, to someone who is dying, by this conduct, he becomes happy and obtains all his desires.</p>
+			<p n="4" rend="stanza">Numerous holds land and it will be the case again and again. Whoever holds land at a given moment, to him does the fruit belong.</p>
+			<p n="5" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.</p>
+			<p n="34">Year 121, <supplied reason="explanation">month of</supplied> Vaiśakha, day 1.</p>
 		</div>
 		<div type="commentary">
 		</div>
