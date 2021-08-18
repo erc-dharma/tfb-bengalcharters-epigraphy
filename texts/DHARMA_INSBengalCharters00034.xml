@@ -345,7 +345,7 @@ amwb : I added a reference to Arlo's article 2018 on the term gohalī
 				<app loc="3">
 					<lem>puṇḍravarddhaneya-mūlaka°</lem>
 					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01">puṇḍravarddhane ya mūlaka°</rdg>
-					<note>DCS reads <foreign>puṇḍravarddhane ya</foreign> and emends <foreign>puṇḍravarddhane ye</foreign>. See his discussion <bibl><ptr source="bib:Sircar1973_01"/><citedRange unit="page">13</citedRange></bibl>. I reject this arguments and his emendation in the light of <ref target="DHARMA_INSBengalCharters00039.xml">Mahatī-Raktamālā I</ref>, lines 4–5. For my interpretation, see the translation below, and that of <foreign>dakṣiṇāṁśakavītheya</foreign>- in the parallel passage in the <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur plate</ref>. A similar -<foreign>eya</foreign> adjective without <foreign>vr̥ddhi</foreign> in the first syllable is <foreign>dugdhotikeya</foreign> in the <ref target="DHARMA_INSBengalCharters00039.xml">Mahatī-Raktamālā plate I</ref>, line 18.
+					<note>DCS reads <foreign>puṇḍravarddhane ya</foreign> and emends <foreign>puṇḍravarddhane ye</foreign>. See his discussion <bibl><ptr target="bib:Sircar1973_01"/><citedRange unit="page">13</citedRange></bibl>. I reject this arguments and his emendation in the light of <ref target="DHARMA_INSBengalCharters00039.xml">Mahatī-Raktamālā I</ref>, lines 4–5. For my interpretation, see the translation below, and that of <foreign>dakṣiṇāṁśakavītheya</foreign>- in the parallel passage in the <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur plate</ref>. A similar -<foreign>eya</foreign> adjective without <foreign>vr̥ddhi</foreign> in the first syllable is <foreign>dugdhotikeya</foreign> in the <ref target="DHARMA_INSBengalCharters00039.xml">Mahatī-Raktamālā plate I</ref>, line 18.
 </note>
 				</app>
 				<app loc="3">
@@ -710,7 +710,7 @@ n="29" break="no"/><unclear>taṁ</unclear></lem>
 				</app>
 			</listApp>
 		</div>
-		<div type="translation" xml:lang="eng">
+		<div type="translation" xml:lang="eng" resp="argr">
 			<p n="1-3">Hail! From Pūrṇakauśikā in the Śr̥ṅgavera territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>, the officer Acyuta, favored by the feet of the <supplied reason="explanation">Gupta</supplied> Sovereign, and the council <supplied reason="explanation">of this territory</supplied>, greet the principal peasant householders, beginning with the Brahmins, at Gulmagandhika with its hamlets <supplied reason="explanation"><foreign>gohālī</foreign></supplied><!-- 
 amwb : maybe add a note "on the meaning of this term, see <bibl><ptr target="Griffiths2018_02"/><citedRange unit="page">40-2</citedRange></bibl>--> and inform them:
 </p>

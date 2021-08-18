@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Dhanaidaha Charter of Kumāragupta I</title>
+			<respStmt>
+					<resp>Original EpiDoc Encoding for Siddham</resp>
+					<persName ref="part:daba">
+						<forename>Dániel</forename>
+						<surname>Balogh</surname>
+					</persName>
+				</respStmt><respStmt>
+					<resp>Conversion of encoding for DHARMA</resp>
+					<persName ref="part:daba">
+						<forename>Dániel</forename>
+						<surname>Balogh</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>EpiDoc encoding for DHARMA of parts not yet encoded for Siddham</resp>
+					<persName ref="part:amwb">
+						<forename>Amandine</forename>
+						<surname>Wattelier-Bricout</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:daba">
+						<forename>Dániel</forename>
+						<surname>Balogh</surname>
+					</persName>
+				</respStmt>
+				</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Cambrai</pubPlace>
+				<idno type="filename">DHARMA_BengalCharters00031</idno><!-- 
+daba : The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHARMA filename is assigned. 
+amwb: siddham idno IN00023
+--><availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit thttps://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Dániel Balogh.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary></summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p></p>
+						</handDesc>
+					</physDesc>
+				</msDesc>			
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment).. Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+			<div type="edition" xml:lang="san-Latn">
+<p><lb 
+n="1"/><supplied reason="lost" cert="low">siddhaM| catur-udadhi-salilāsvāditayaśaso mahārājādhirāja-śrī-kumāraguptasya</supplied> <supplied reason="lost">sa</supplied>mvatsara-śa<unclear reason="illegible">te</unclear> trayodaśotta<!-- 
+daba: I adopt Sircar's conjecture for the beginning except hypothesising siddham instead of his oṁ. 
+--><lb 
+n="2" break="no"/><supplied reason="lost">re</supplied> <gap reason="lost" precision="low" quantity="23" unit="character"/><!-- 
+daba: Sircar's conjecture for the beginning of this line is saṁ 100+10+3 (after re, I guess, though he may have read re at the end of the first line - which I consider very unlikely) 
+--></p>
+<p><supplied reason="lost">asyā</supplied><sic>n</sic> d<unclear>i</unclear>vasa-pūrvvāyāṁ parama-daivata-para<lb 
+n="3" break="no"/><supplied reason="lost">ma-bhaṭṭāraka-</supplied><supplied reason="lost" cert="low">mahārājādhirāja-śrī-kumāragupte pr̥thivīpatau</supplied> kuṭu<unclear>mbi</unclear> <gap reason="lost" precision="low" quantity="3" unit="character"/> brāhmaṇa-śivaśarmma-nāgaśarmma-maha<!-- 
+daba: The conjectural filling-up is from Lielukhine, i.e. probably Sircar. Compare the Damodarpur plates. Bhandarkar reads ā(?) before kuṭumbi, I see nothing (not even kuṭumbi), but this could be part of an au mātrā. The broken-off gap after kuṭumbi is 2 or 3 characters in size, but I can't make out brāhmaṇa either on the facsimile, nor anything else really, except what may be śi of śivaśarmma. 
+--><lb 
+n="4" break="no"/><gap reason="lost" precision="low" quantity="19" unit="character"/>vakīrtti-kṣemadatta-goṣṭhaka-varggapāla-piṅgala-śuṅkuka-kāla-<!-- 
+daba: Lielukhine (naming no source) proposes Śivakīrtti for the partially lost name and says Banerji reads kṣamavanta, presumably for kṣemadatta. 
+--><lb 
+n="5"/><gap reason="lost" precision="low" quantity="20" unit="character"/><unclear cert="low">pa</unclear>viṣṇu-<unclear>deva</unclear>śarmma-viṣṇubhadra-khāsaka-rāmaka-gopāla-<!-- 
+daba: Lielukhine says Banerji reads viṣyabhadra instead of viṣṇubhadra. 
+--><lb 
+n="6"/><gap reason="lost" precision="low" quantity="18" unit="character"/><unclear cert="low">sasu</unclear> śrībhadra-somapāla-rāmā<unclear cert="low">dyāḥ</unclear> grāmāṣṭa-kulādhikaraṇañ ca<!-- 
+daba: Bhandarkar reads Rām-ādyāḥ(?); no way to tell if the question mark is meant just for the visarga or for more. Lielukhine (Sircar?) has rāmādyaka, also with a question mark. 
+--><!-- 
+daba: Lielukhine also has °karaṇaśca at the end. 
+--><!-- 
+daba: And while we're at it, Bhandarkar's sa(?) su(?) may represent two alternatives rather than two successive characters? I can't make out anything on the photo. 
+--><lb 
+n="7"/><gap reason="lost" precision="low" quantity="15" unit="character"/>viṣṇu<unclear cert="low">nā</unclear> vijñāpitā Iha khādā<unclear cert="low">ṭa</unclear>pāra-viṣaye nuvr̥tta-maryyādā-sthi<unclear>ti</unclear>-<!-- 
+daba: again, the ? after viṣṇunā may refer to more than just the nā. Lielukhine also has ṇā in brackets with a question mark, probably meaning that the original text may have ṇā. 
+--><!-- 
+daba: Lielukhine says Banerji read mahākhuṣāpāra instead of khādā(?ṭa)pāra. 
+--><lb 
+n="8"/><gap reason="lost" precision="low" quantity="15" unit="character"/>nīvī-dharmma-kṣayeṇa labhya<unclear>te</unclear><!-- 
+daba: Sircar reads nīvīdharmmākṣayeṇa rather than kṣayeṇa; Bhandarkar mentions his interpretation of kṣaya in his introduction of this inscr. 
+--></p>
+<p><unclear>ta</unclear>d arhatha mamādyānenaiva kkrame<choice><sic>n</sic><corr>ṇ</corr></choice>a dā<unclear>tuṁ</unclear>
+<lb 
+n="9"/><gap reason="lost" precision="low" quantity="14" unit="character"/>samety<unclear cert="low">ā</unclear>bhihitai<unclear cert="low">ḥ</unclear> sarvvam eva <unclear cert="low">jñā</unclear>kara-prative<unclear cert="low">śi</unclear>-kuṭumbibhir avasthāpya ka<!-- 
+daba: Sircar restores Bhandarkar's (jñā?)kara as kṣetrakara. 
+--><lb 
+n="10" break="no"/><gap reason="lost" precision="low" quantity="14" unit="character"/>ri <gap reason="illegible" precision="low" quantity="1" unit="character"/> kana <gap reason="illegible" precision="low" quantity="1" unit="character"/> yad ito <gap reason="illegible" precision="low" quantity="2" unit="character"/> <unclear>ta</unclear>d avadhr̥tam iti yatas tatheti pratipādya
+<lb 
+n="11"/><gap reason="lost" precision="low" quantity="11" unit="character"/> <supplied reason="lost">aṣṭaka-na</supplied>vaka-nalā<unclear>bhyā</unclear>m apaviñchya kṣetra-kulya-vāpam ekaṁ dattaṁ tataḥ Āyuktaka-
+<lb 
+n="12"/><gap reason="lost" precision="low" quantity="14" unit="character"/><unclear cert="low">bhrā</unclear>tr̥-kaṭaka-vāstavya-chandoga-brāhmaṇa-varāhasvāmino dattaṁ taddha<unclear cert="low">va</unclear><lb 
+n="13" break="no"/><gap reason="lost" precision="low" quantity="16" unit="character"/>bhūmyā dā<unclear>nākṣe</unclear>pe ca guṇāguṇam anucintya śarīra-k<unclear>ā</unclear>ñcanakasya ci<lb 
+n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap reason="lost" precision="low" quantity="10" unit="character"/> <seg type="component" subtype="consonant"><gap reason="illegible" quantity="1" unit="component"/></seg>ā<!-- 
+daba: the conjecture ra-cañcalatvaṁ is present in Sircar (probably his own?) and Agrawala, but not mentioned at all in Bhandarkar. 
+--><!-- 
+daba: ā after the lacuna is only found in Bhandarkar. I assume he saw a diacritical ā, not a full vowel. 
+--></p>
+<p><unclear>u</unclear>ktañ ca bhagavatā dvaipāyanena
+</p>
+<lg n="1" met="anuṣṭubh">
+<l n="a">svadattām para-dattām vā</l>
+<l n="b"><lb n="15"/><supplied reason="lost">yo hareta vasundharām</supplied></l>
+<l n="c"><supplied reason="lost">sa viṣṭhāyāṁ kr̥mir bhūtvā</supplied></l>
+<l n="d"><supplied reason="lost">pitr̥</supplied><unclear>bhiḥ</unclear> saha pacyate</l>
+</lg>
+<lg n="2" met="anuṣṭubh">
+<l n="a">ṣaṣṭiṁ varṣa-sahasrā<choice><sic>n</sic><corr>ṇ</corr></choice>i</l>
+<l n="b">svargge modati <unclear>bhū</unclear>midaḥ</l>
+<l n="c"><lb n="16"/><supplied reason="lost">Ākṣeptā cānumantā ca</supplied></l>
+<l n="d"><supplied reason="lost">tāny eva narake vaset</supplied></l>
+</lg>
+<lg n="3" met="anuṣṭubh">
+<l n="a"><unclear>pū</unclear>rvva-dattāṁ dvijātibhyo</l>
+<l n="b">yatnād rakṣa yudhiṣṭhira</l>
+<l n="c">mahīṁ <unclear>mahī</unclear><supplied reason="lost">matāñ cchreṣṭha</supplied></l>
+<l n="d"><lb n="17"/><supplied reason="lost">dānāc chreyo nupālanam</supplied></l>
+</lg>
+<p><gap reason="lost" precision="low" quantity="10" unit="character"/>ya<unclear>ṁ</unclear> <unclear cert="low">su</unclear>śrībhadrena Utkīrṇṇaṁ sthambheśvaradāse<unclear>na</unclear> <gap reason="lost" precision="low" quantity="5" unit="character"/><!-- 
+daba: Sircar restores the lacuna as likhitā paṭṭikeyaṁ amātyabhadreṇa (Bhadra as the name, not preceding the other -bhadra). He also says traces of ka are visible before ya(ṁ). Bhandarkar follows Basak in reading suśrībhadreṇa. 
+--><!-- 
+daba: Bhandarkar corrects the other name to stambheśvara-; Sircar reports Banerji as reading sthahṇeśvara (while Lielukhine reports Basak as reading so); Agrawala reads or conjectures Sthāṇvīśvara. 
+--><!-- 
+daba: note that the final 5 lost characters are only there if the line extends to the edge of the plate, but there isn't really anything else expected here 
+--></p>
+			</div>
+				<div type="apparatus">
+			<listApp>
+				<app loc="line">
+				<lem></lem>
+				<rdg source="bib:AuthorYear_01"></rdg>
+				</app>
+			</listApp>
+		</div>
+		<div type="translation" xml:lang="eng" resp="amwb"><head>Draft of translation</head>
+			<p n="1-">Success ! In the year one hundred thirteen <gap reason="lost"/> of the great king Śrī Kumāragupta whose splendour/glory is enjoyed flowing beyond the four oceans </p>
+		</div>
+		<div type="commentary">
+		</div>
+		<div type="bibliography">
+			<p></p>
+			<listBibl type="primary">
+				<bibl n="siglum"/>
+			</listBibl>
+			<listBibl type="secondary">
+				<bibl n="siglum"/>
+			</listBibl>
+		</div>
+		</body>
+	</text>
+</TEI>

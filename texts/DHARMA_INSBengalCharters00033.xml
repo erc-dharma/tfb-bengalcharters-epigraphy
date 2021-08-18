@@ -146,7 +146,7 @@ amwb : replaced sarp<unclear>p</unclear>apālita by Arlo's reading and added in 
 amwb : replaced <unclear>p</unclear>u<unclear>ran</unclear>da<unclear>ra-ja</unclear>yaviṣṇu-<unclear cert="low">uma</unclear> by Arlo's reading and added the different readings in apparatus 
 -->
 <lb 
-n="10"/>si<sic>ṅ</sic>hatta-bonda-nārāya<choice><sic>n</sic><corr>ṇ</corr></choice>adāsa-vīranāga-rājyanāga-guhamahi-bhavanātha-guhaviṣṇu-śarvva--yaśoviṣṇuṭakkakuladāma<gap reason="illegible"/>va-<!-- 
+n="10"/>si<sic>ṅ</sic>hatta-bonda-nārāya<choice><sic>n</sic><corr>ṇ</corr></choice>adāsa-vīranāga-rājyanāga-guhamahi-bhavanātha-guhaviṣṇu-śarvva--yaśoviṣṇu-ṭakkakuladāma<gap reason="illegible"/>va-<!-- 
 daba siddham : All editors emend siṅhatta to siṅhadatta. 
 --><!-- 
 daba siddham : Sanyal's editor says it's ṭakka, not taṅka. Sircar reads śarvvaviṣṇuvi #3# kuladāsa #2#. The character after vi is indiscernible, but certainly a ligature. The one after that (ta/ṭa) is just a trace, could be ṭa, not ta, perhaps dha or ba.The next one is imo definitely not ṅka; could be ssa or kṣa. Then kuladāma seems plausible, though it looks more like dī and sa is possible instead of ma. Sanyal also reads a va at the very end of the line, which I cannot see. 
@@ -271,8 +271,8 @@ n="30" break="no"/>tā vyāsena</p>
 <l n="c">sa viṣṭhāyāṁ k<sic>ri</sic>mir bhūtvā</l>
 <l n="d">pi<unclear>tr̥</unclear>bhiḥ<!-- 
 amwb : I replaced pi<unclear>tr̥bhiḥ</unclear> by Arlo's readding and added the different readings in app
---> saha pacyatai<!-- 
-amwb : I replaced pa<unclear reason="illegible">cyate</unclear> by Arlo's reading and added the different readings in app
+--> saha pacyat<sic>ai</sic><!-- 
+amwb : I replaced pa<unclear reason="illegible">cyate</unclear> by Arlo's reading and added the different readings in app; I also addded the tag sic 
 	--></l>
 </lg>
 <lg n="2" met="anuṣṭubh">
@@ -329,8 +329,8 @@ daba siddham : I'm pretty sure there are 3 or 4 further characters after the end
 --><lb 
 n="34"/>saMvvaT<!-- 
 amwb : I removed sa<unclear>ṁ</unclear> <del><unclear cert="low">mba</unclear></del><sic>vv</sic>aT <space/> and added Arlo's reading
---> <num value="120"><g type="numeral">100</g> <g type="numeral">20</g></num> <space quantity="6" unit="character"/><!-- 
-amwb : here Arlo does not mention a space?????
+--> <num value="120"><g type="numeral">100</g> <g type="numeral">20</g> <g type="numeral">1</g></num> <space quantity="6" unit="character"/><!-- 
+amwb : here Arlo does not mention a space????? and Arlo reads the number 1, not present in siddham file
 --> vaiśākha <abbr>di</abbr> <num value="1">1</num><!-- 
 daba siddham : Line 34 is squeezed into very little vertical space and contains characters only in two places, near the centre of the line and near the end. The word sa(ṁ)vvat begins below ma of mahīm; vaiśākha begins below the yo of chreyo. 
 --><!-- 
@@ -354,16 +354,16 @@ if so, it would be necessary to create a bib reference
 				</app>
 				<app loc="1">
 					<lem>Āyuktakācyutadāso 'dhikaraṇañ ca</lem>
-					<rdg source="bib:Sircar1943_02">Āyuktakā<unclear>cyutadāso dhika</unclear>raṇaś ca</rdg>
-					<rdg source="bib:Sanyal1955-1956_01">Āyuktak<supplied reason="lost">o</supplied>cyutadāso dhikaraṇañ ca</rdg>
+					<rdg source="bib:Sircar1943_02">Āyuktakā<unclear>cyutadāso 'dhika</unclear>raṇaś ca</rdg>
+					<rdg source="bib:Sanyal1955-1956_01">Āyuktak<supplied reason="lost">o</supplied>cyutadāso 'dhikaraṇañ ca</rdg>
 					<!--
 					amwb : siddham's reading :<rdg source="bib:SIDDHAM">Āyuktakā<unclear>cyuta</unclear>dās<unclear>o</unclear> 'dh<supplied reason="lost">i</supplied>kara<unclear>ṇañ ca</rdg>-->
 				</app>
 				<app loc="1">
 					<lem>hastiśīrṣe <unclear>vibhītak</unclear>y<unclear>āṁ gulmagandhi</unclear><lb 
 n="2" break="no"/>kāyāṁ</lem>
-					<rdg source="bib:Sircar1943_02">hastiśīrṣa(vibhītakyāṁ gulmagandhi)kāyāṁ </rdg>
-					<rdg source="bib:Sanyal1955-1956_01">hastiśīrṣe (vibhītak)y(āṁ gulmagandhi)kāyāṁ</rdg>
+					<rdg source="bib:Sircar1943_02">hastiśīrṣa<unclear>vibhītakyāṁ gulmagandhi</unclear>kāyāṁ </rdg>
+					<rdg source="bib:Sanyal1955-1956_01">hastiśīrṣe <unclear>vibhītak</unclear>y<unclear>āṁ gulmagandhi</unclear>kāyāṁ</rdg>
 					<!--
 					amwb : siddham's reading : <rdg source="bib:SIDDHAM">ha</unclear>stiśīrṣe <unclear>vibhītak</unclear>y<unclear>āṁ gulmagandhi</unclear>kā<unclear>yā</unclear>ṁ</rdg>
 					-->
@@ -393,7 +393,8 @@ n="2" break="no"/>kāyāṁ</lem>
 					-->
 				</app>
 				<app loc="2">
-					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">bodhayanti</lem>
+					<lem source="bib:Sircar1943_02">bodhayanti</lem>
+					<rdg source="bib:Sanyal1955-1956_01">bodhyanti</rdg>
 					<note><bibl><ptr target="bib:Sircar1943_02"/></bibl> suggests reading <foreign>bodhayati</foreign> in the note 1b. In my view, no emendation is necessary.</note>
 					<!--
 						amwb:
@@ -402,12 +403,14 @@ n="2" break="no"/>kāyāṁ</lem>
 				</app>
 				<app loc="3">
 					<lem>bhaviṣyati</lem>
-					<note><bibl><ptr target="bib:bib:Sircar1943_02"/></bibl> proposes to emend this to <foreign>bhavatu</foreign>. But use of future forms in the meaning of imperative is found throughout the corpus, notably in <ref target="DHARMA_INSBengalCharters00039.xml">Mahatī-Raktamālā I</ref>.</note>
+					<note><bibl><ptr target="bib:bib:Sircar1943_02"/></bibl> proposes to emend this to <foreign>bhavatu</foreign>. But use of future forms in the meaning of imperative is found throughout the corpus, notably in <ref target="DHARMA_INSBengalCharters00039.xml">Mahatī-Raktamālā I</ref>.</note><!-- 
+					amwb : do you refer to line 19 of this plate?
+					-->
 				</app>
 				<app loc="3">
 					<lem>-k<supplied reason="lost">āntide</supplied>va-vaśambhudatta-</lem>
 					<rdg source="bib:Sircar1943_02">-kā<gap reason="illegible" unit="character" quantity="2"/><supplied reason="lost" cert="low">vinayada</supplied>vatta-</rdg>
-					<rdg source="bib:Sanyal1955-1956_01">-kā<unclear>ntide</unclear>va-</rdg>
+					<rdg source="bib:Sanyal1955-1956_01">-kā<unclear>ntide</unclear>va-śambhudatta</rdg>
 					<!--
 						amwb:
 						<rdg source="bib:SIDDHAM">-kā<unclear>ntide</unclear>va-vaśambhudatta-</rdg>
@@ -429,15 +432,19 @@ n="2" break="no"/>kāyāṁ</lem>
 						amwb :
 						<rdg source="bib:SIDDHAM">-Uma<unclear>yaśa-rā</unclear>°</rdg>
 					-->
-					<note>Since the name Umayaśa appears again in precisely the same spelling in <ref target="DHARMA_INSBengalCharters00034.xml">Jagadishpur</ref>, line 4, is seems better not to emend here.</note>
+					<note>Since the name Umayaśa appears again in precisely the same spelling in <ref target="DHARMA_INSBengalCharters00034.xml">Jagadishpur</ref>, line 4, it seems better not to emend here.</note>
 				</app>
 				<app loc="4">
 					<lem>-jyeṣ<unclear>ṭha</unclear>°</lem>
 					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">-jyeṣṭha°</rdg>
+					<!-- 
+					amwb:
+					<rdg source="bib:SIDDHAM">-jyeṣṭha°</rdg>
+					-->
 				</app>
 				<app loc="5">
 					<lem>-ya<unclear>śagu</unclear>pta-vailinaka-</lem>
-					<rdg source="bib:Sircar1943_02">ya<supplied reason="lost" cert="low">śo</supplied><gap reason="illegible" unit="character" quantity="1"/>sta-vailina<unclear>ka</unclear></rdg>
+					<rdg source="bib:Sircar1943_02">ya<supplied reason="lost" cert="low">śa</supplied><gap reason="illegible" unit="character" quantity="1"/>sta-vailina<unclear>ka</unclear></rdg>
 					<rdg source="bib:Sanyal1955-1956_01">ya<supplied reason="lost">śogu</supplied>pta-vailina<supplied reason="lost" cert="low">ndi</supplied></rdg>
 					<!--
 						amwb:
@@ -473,7 +480,7 @@ n="2" break="no"/>kāyāṁ</lem>
 				-->
 				<app loc="8">
 					<lem>śar<unclear>mma</unclear>-kānti-dhovvoka-kṣemaśar<unclear>mma</unclear>-</lem>
-					<rdg source="bib:Sircar1943_02">śarmma-kīrtti-viṣṇukva maśarmma-</rdg>
+					<rdg source="bib:Sircar1943_02">śarmma-kīrttiviṣṇu-kramaśarmma-</rdg>
 					<rdg source="bib:Sanyal1955-1956_01">śar<supplied reason="lost">mma</supplied>-<gap reason="illegible"/>-dhaivvaka-kṣemaśarmma-</rdg>
 					<!--
 						amwb:
@@ -499,9 +506,13 @@ n="2" break="no"/>kāyāṁ</lem>
 					-->
 				</app>
 				<app loc="10">
-					<lem>-yaśoviṣṇuṭakkakuladāma<gap reason="illegible"/>va-</lem>
+					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">si<sic>ṅ</sic>hatta-</lem>
+					<note><bibl><ptr source="bib:Sircar1943_02"/> and </bibl><bibl><ptr source="bib:Sanyal1955-1956_01"/></bibl> both emend <foreign>siṁhadatta</foreign>.</note>
+				</app>
+				<app loc="10">
+					<lem>-yaśoviṣṇu-ṭakkakuladāma<gap reason="illegible"/>va-</lem>
 					<rdg source="bib:Sircar1943_02">-viṣṇuvi<gap reason="illegible" unit="character" quantity="3"/>kuladāma<gap reason="illegible" unit="character" quantity="2"/>-</rdg>
-					<rdg source="bib:Sanyal1955-1956_01">=ya<supplied reason="lost">śo</supplied>viṣṇuṭaṅkakuladāma<gap reason="illegible"/>va-</rdg>
+					<rdg source="bib:Sanyal1955-1956_01">-ya<supplied reason="lost">śo</supplied>viṣṇuṭaṅkakuladāma<gap reason="illegible"/>va-</rdg>
 					<!--
 						<rdg source="bib:SIDDHAM">=ya<unclear cert="low">śo</unclear>vi<unclear>ṣṇu-taṅ</unclear>ka-kuladāma <gap reason="illegible" precision="low" quantity="2" unit="character"/></rdg>
 					-->
@@ -509,7 +520,7 @@ n="2" break="no"/>kāyāṁ</lem>
 				<!--
 					amwb : add this if we include Siddham's reading :
 					<app loc="11">
-					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">-śrīgu<unclear>ha</unclear>viṣṇu-</lem>
+					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">-śrīguhaviṣṇu-</lem>
 					<rdg source="bib:SIDDHAM">-śrīgu<unclear>ha</unclear>viṣṇu-</rdg>
 				</app>
 				-->
@@ -521,7 +532,7 @@ n="2" break="no"/>kāyāṁ</lem>
 				</app>-->
 				<app loc="11">
 					<lem source="bib:Sanyal1955-1956_01">-prabhukīrtti-</lem>
-					<rdg source="bib:Sircar1943_02">prabhakīrtti</rdg>
+					<rdg source="bib:Sircar1943_02">-prabhakīrtti-</rdg>
 					<!-- 
 						amwb: 
 						<rdg source="bib:SIDDHAM">prabhakīrtti</rdg>
@@ -529,7 +540,7 @@ n="2" break="no"/>kāyāṁ</lem>
 				</app>
 				<app loc="11">
 					<lem>-jayadatta-kāluka-Acyuta-</lem>
-					<rdg source="bib:Sircar1943_02">-jayadattakālaka-Acyuta-</rdg>
+					<rdg source="bib:Sircar1943_02">-jayadatta-kālaka-Acyuta-</rdg>
 					<rdg source="bib:Sanyal1955-1956_01">jayada<supplied reason="lost">ra</supplied>-kā<gap reason="illegible"/> Acyuta</rdg>
 					<!--
 						<rdg source="bib:SIDDHAM">jayada<unclear cert="low">tta</unclear>-<unclear>ko</unclear>bha<unclear cert="low">ka</unclear>-</rdg>
@@ -541,15 +552,15 @@ n="2" break="no"/>kāyāṁ</lem>
 					<rdg source="bib:Sircar1943_02">-līḍhaka-</rdg>
 				</app>
 				<app loc="12">
-					<lem>bha<unclear>va</unclear>rakṣita-</lem>
-					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">bhavarakṣita-</rdg>
+					<lem>-bha<unclear>va</unclear>rakṣita-</lem>
+					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">-bhavarakṣita-</rdg>
 					<!-- 
 					amwb : siddham has the same reading as Sircar and Sanyal
 					-->
 				</app>
 				<app loc="12">
-					<lem>purog<unclear>ā</unclear>ḥ</lem>
-					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">purogāḥ</rdg>
+					<lem>-purog<unclear>ā</unclear>ḥ</lem>
+					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">-purogāḥ</rdg>
 					<!-- 
 					amwb : siddham has the same reading as Sircar and Sanyal
 					-->
@@ -571,8 +582,8 @@ n="2" break="no"/>kāyāṁ</lem>
 				<!--
 					Add this if we include siddham's reading
 					<app loc="15">
-					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01"><choice><sic>b</sic><corr>v</corr></choice>āpān krītvā</lem>
-					<rdg source="bib:SIDDHAM">bāpā<unclear>n kr</unclear>ītvā</rdg>
+					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">°<choice><sic>b</sic><corr>v</corr></choice>āpān krītvā</lem>
+					<rdg source="bib:SIDDHAM">°bāpā<unclear>n kr</unclear>ītvā</rdg>
 				</app>
 				-->
 				<!--
@@ -590,9 +601,12 @@ n="2" break="no"/>kāyāṁ</lem>
 					-->
 				</app>
 				<app loc="16">
-					<lem>nava-kulya-<choice><sic>b</sic><corr>v</corr></choice><supplied reason="lost">āpā</supplied></lem>
-					<rdg source="bib:Sircar1943_02">nava-kulya-bā<supplied reason="lost">pā</supplied></rdg>
-					<rdg source="bib:Sanyal1955-1956_01">nava-kulya-b<unclear>ā</unclear><supplied reason="lost">pā</supplied></rdg>
+					<lem>nava-kulya-<choice><sic>b</sic><corr>v</corr></choice><supplied reason="lost">āpā</supplied><pb 
+n="1v" break="no"/><lb 
+n="17" break="no"/>ny</lem>
+					<rdg source="bib:Sircar1943_02">nava-kulya-bā<supplied reason="lost">pā</supplied>ny</rdg>
+					<rdg source="bib:Sanyal1955-1956_01">nava-kulya-b<unclear>ā</unclear><supplied reason="lost">pā</supplied>ny</rdg>
+					<note>Emend <foreign>navakulyavāpāny</foreign>, to be understood as <foreign>navakulyavāpān</foreign>.</note>
 					<!--
 						<rdg source="bib:SIDDHAM">nava-kulya-b<unclear>ā</unclear><supplied reason="lost">pā</supplied></rdg>
 					-->
@@ -614,9 +628,9 @@ n="2" break="no"/>kāyāṁ</lem>
 				-->
 				<app loc="18">
 					<lem source="bib:Sircar1943_02">dhāraṇayāvadhr̥tāsty</lem>
-					<rdg source="bib:Sanyal1955-1956_01">dhāraṇayāvadhr̥to sty</rdg>
+					<rdg source="bib:Sanyal1955-1956_01">dhāraṇayāvadhr̥to 'sty</rdg>
 					<!--
-						<rdg source="bib:SIDDHAM">dhāraṇayāvadhr̥to sty</rdg>
+						<rdg source="bib:SIDDHAM">dhāraṇayāvadhr̥to 'sty</rdg>
 					-->
 				</app>
 				<app loc="18">
@@ -647,8 +661,9 @@ n="2" break="no"/>kāyāṁ</lem>
 					-->
 				</app>
 				<app loc="20">
-					<lem>khanī<gap reason="illegible" quantity="2" unit="character"/></lem>
-					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01"><gap reason="illegible" quantity="4" unit="character"/></rdg>
+					<lem>khanī<gap reason="illegible" quantity="2" unit="character"/><lb 
+n="21" break="no"/>dyāṁ</lem>
+					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01"><gap reason="illegible" quantity="4" unit="character"/>dyāṁ</rdg>
 					<!--
 						<rdg source="bib:SIDDHAM"><unclear>v</unclear>i<unclear>bh</unclear>ī<unclear cert="low">ta</unclear> <gap reason="illegible" quantity="1" unit="character"/></rdg>
 					-->
@@ -668,6 +683,11 @@ n="2" break="no"/>kāyāṁ</lem>
 						<rdg source="bib:SIDDHAM"><gap reason="illegible" quantity="1" unit="character"/> dy<unclear>o</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>ta</unclear>-</rdg>
 					-->
 				</app>
+				<app loc="21">
+					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">-veṣṭi<unclear>ta</unclear><lb 
+n="22" break="no"/><sic>m</sic>-uttar<unclear>e</unclear>ṇa</lem>
+					<note>Read -<foreign>veṣṭita uttareṇa</foreign>, already suggested by <bibl><ptr source="bib:Sircar1943_02"/></bibl>.</note>
+				</app>
 				<!--
 					Add this if we include Siddham's reading
 					<app loc="21">
@@ -679,6 +699,7 @@ n="2" break="no"/>kāyāṁ</lem>
 					<lem>kulya-<choice><sic>b</sic><corr>v</corr></choice>āpa<add>m</add> eko°</lem>
 					<rdg source="bib:Sircar1943_02">kulya-bāpa <supplied reason="lost">e</supplied>ko°</rdg>
 					<rdg source="bib:Sanyal1955-1956_01">kulya-bāpameko°</rdg>
+					<note>Emend <foreign>kulya-vāpa eko</foreign>.</note>
 					<!--
 						<rdg source="bib:SIDDHAM">kulya-bāpa<unclear>m eko°</unclear></rdg>
 					-->
@@ -690,6 +711,13 @@ n="2" break="no"/>kāyāṁ</lem>
 					<rdg source="bib:SIDDHAM">pūrvv<unclear>e</unclear></rdg>
 				</app>
 				-->
+				<app loc="23"><!-- 
+				amwb : here it is my own suggestion, it should be discussed with Arlo
+				-->
+					<lem>vi<lb 
+n="24" break="no"/>bhītaka-</lem>
+					<note>Could <foreign>vibhītaka</foreign>- be a scribal error for <foreign>vibhītakī</foreign>? Indeed this village name is spelled <foreign>vibhītakī</foreign> in lines 1 and 20.</note>
+				</app>
 				<app loc="24"><!-- 
 				amwb : here it is my own emendation. Its relevance should be discussed with Arlo
 				-->
@@ -700,13 +728,6 @@ n="2" break="no"/>kāyāṁ</lem>
 					<!--
 						<rdg source="bib:SIDDHAM"><unclear>yāva</unclear><supplied reason="omitted">t</supplied></rdg>
 					-->
-				</app>
-				<app loc="23"><!-- 
-				amwb : here it is my own suggestion, it should be discussed with Arlo
-				-->
-					<lem>vi<lb 
-n="24" break="no"/>bhītaka-</lem>
-					<note>Could <foreign>vibhītaka</foreign>- be a scribal error for <foreign>vibhītakī</foreign>? Indeed this village name is spelled <foreign>vibhītakī</foreign> in lines 1 and 20.</note>
 				</app>
 				<app loc="24">
 					<lem>ṣaṬ Eṣu</lem>
@@ -752,7 +773,7 @@ n="24" break="no"/>bhītaka-</lem>
 					-->
 				</app>
 				<app loc="30">
-					<lem>pacyatai</lem>
+					<lem>pacyat<sic>ai</sic></lem>
 					<rdg source="bib:Sircar1943_02"><supplied reason="lost">pacyate</supplied></rdg>
 					<rdg source="bib:Sanyal1955-1956_01">pa<supplied reason="lost">cyate</supplied></rdg>
 					<!--
@@ -796,6 +817,9 @@ n="24" break="no"/>bhītaka-</lem>
 					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">kāmada<supplied reason="omitted">ḥ</supplied></rdg><!-- 
 					amwb : siddham has kāmada<supplied reason="omitted">ḥ</supplied>; add this reading if we include siddham's readings
 					-->
+					<note>Emend <foreign>kāmadaḥ</foreign>.</note><!-- 
+					amwb : I add this suggestion following Sircar, maybe add it directly in the text by supplied omitted?
+					-->
 				</app>
 				<app loc="32">
 					<lem>bhūmi<unclear>s ta</unclear>sya tasya</lem>
@@ -813,6 +837,10 @@ n="24" break="no"/>bhītaka-</lem>
 					<lem>rakṣya</lem>
 					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01"><choice><sic>rakṣya</sic><corr>rakṣa</corr></choice></rdg>
 					<!--<rdg source="bib:SIDDHAM"><choice><sic>rakṣya</sic><corr>rakṣa</corr></choice></rdg>-->
+					<note>Read <foreign>rakṣa</foreign>, as one can read in <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>, line 24, <ref target="DHARMA_INSBengalCharters00049.xml">Baigram Charter of the Time of Kumāragupta I</ref>, line 24, <ref target="DHARMA_INSBengalCharters00051.xml">A grant of land in the Tāvīra district</ref>, line 20, <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur Charter of the Time of Budhagupta</ref>, line 24 and <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>, lines 23-24.</note>
+					<!-- 
+					amwb : for the moment I suggest reading rakṣa in a note, but if Arlo is Ok, we could be remove this app by adding rakṣ<surplus>y<surplus>a 
+					-->
 				</app>
 				<!--
 				amwb : add this if we include siddham's reading
@@ -839,23 +867,32 @@ n="24" break="no"/>bhītaka-</lem>
 					<rdg source="bib:Sanyal1955-1956_01">sammvat</rdg>
 					<!--<rdg source="bib:SIDDHAM">sa<unclear>ṁ</unclear> <del><unclear cert="low">mba</unclear></del><sic>vv</sic>aT</rdg>-->
 				</app>
+				<app loc="34">
+					<lem source="bib:Sanyal1955-1956_01"><num value="120"><g type="numeral">100</g> <g type="numeral">20</g> <g type="numeral">1</g></num></lem>
+					<rdg source="bib:Sircar1943_02"><num value="120"><g type="numeral">100</g> <g type="numeral">20</g></num></rdg><!-- 
+					amwb : add siddham in the source here, if we include siddham edition in the apparatus
+					-->
+				</app>
 			</listApp>
 		</div>
 		<div type="translation" xml:lang="eng" resp="part:amwb"><head>Draft-translation</head>
 			<p n="1-2">Hail ! From Pūrṇakauśikā in the Śr̥ṅgavera territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>, the officer Acyuta<note>
 				The incipit of this plate is identical to the one of <ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter of the Time of Kumāragupta I</ref>. But we can notice that here there is no mention to the fact that Acyuta's authority depends on the emperor.
 			</note>
-				and the council greet the peasant householders of the village beginning with the brahmins, <supplied reason="explanation">residing</supplied> next to Hasti, i.e. in Vibhītakā,<note>As the previous translations of this inscription show it, there are several possibilities to interpret <foreign>hastiśīrṣe</foreign>. The translation of <bibl><ptr target="bib:Sircar1943_02"/></bibl> is somewhat unclear. Indeed, in his translation of the line 1, he merges <foreign>hastiśīrṣe</foreign> with <foreign>vibhītakyāṁ</foreign> and translates 'residing in Hastiśīrṣavibhītakī'. In line 20, his translation of <foreign>hastiśīrṣa-vibhītakyāṁ</foreign> by 'Hastiśīrṣavibhītakī' might be supported by the singular locative. But in lines 23-24, the text compells him to consider Hastiśīrṣa and Vibhītakī two different place names. At the end of his translation, he adds a note and criticizes the understanding of the place names suggested by Sanyal : <quote>It will be seen from the note that Sanyal has failed to decipher many important passages of the record including several geographical names. His suggestion regarding the two villages Hastiśīrṣa and Vibhītakī is not supported by the passage <foreign>hastiśīrṣa-vibhītakyāṁ</foreign> of the text.</quote> 
+				and the council greet the peasant householders of the village beginning with the brahmins, <supplied reason="explanation">residing</supplied> next to Hasti, i.e. in Vibhītakā,<note>As the previous translations of this inscription show it, there are several possibilities to interpret <foreign>hastiśīrṣe</foreign>. The translation of <bibl><ptr target="bib:Sircar1943_02"/></bibl> is somewhat unclear. Indeed, in his translation of the line 1, he reads <foreign>hastiśīrṣavibhītakyāṁ</foreign> and translates 'residing in Hastiśīrṣavibhītakī'. In line 20, his translation of <foreign>hastiśīrṣa-vibhītakyāṁ</foreign> by 'Hastiśīrṣavibhītakī' might be supported by the singular locative. But in lines 23-24, the text compells him to consider Hastiśīrṣa an independant place name. At the end of his translation, he adds a note and criticizes the understanding of the place names suggested by Sanyal : <quote>It will be seen from the note that Sanyal has failed to decipher many important passages of the record including several geographical names. His suggestion regarding the two villages Hastiśīrṣa and Vibhītakī is not supported by the passage <foreign>hastiśīrṣa-vibhītakyāṁ</foreign> of the text.</quote> 
 Indeed <bibl><ptr target="bib:Sanyal1955-1956_01"/><citedRange unit="page">58-9</citedRange></bibl> doesn't follow <bibl><ptr target="bib:Sircar1943_02"/></bibl>'s understanding and consider Hastiśīrṣa and Vibhītakī two different names of village. 
 					To clarify the problem, I give below the three contexts where the word <foreign>hastiśīrṣa</foreign> appears in the text : 
 					<list rend="numbered">
 						<item>in association with the place name Vibhītakī, but not in compound: <foreign>hastiśīrṣe vibhītakyāṁ</foreign> (line 1)</item>
 						<item>in association and in compound with the place name Vibhītakī: <foreign>hastiśīrṣavibhītakyāṁ</foreign> (line 20)</item>
-						<item>in compound and in association with another place name Tāpasapotakq : <foreign>hastiśīrṣaprāveśyatāpasapottake</foreign> (line 23)</item>
+						<item>in compound and in association with another place name Tāpasapotaka : <foreign>hastiśīrṣaprāveśyatāpasapottake</foreign> (line 23)</item>
 					</list>
-					
-					The first interpretation could be to consider it a place name 'Hastiśīrṣa' as <bibl><ptr target="bib:Sanyal1955-1956_01"/></bibl> did. A second possibility is to see <foreign>hastiśīrṣa</foreign> as a compound indicating a large aera. This interpretation is based on my previous observation according to which the geographical indication is presented from the larger to the smaller entity. So it could be possible to consider <foreign>śīrṣa</foreign>- a word used in a geographical manner to indicate that some place is near another larger place and <foreign>hasti</foreign>- a name of place like Hastināpura? If so, the translation could be 'in the upper part of Hasti', 'collateral of Hasti', close or next to Hasti. A third possibility could be to consider <foreign>hastiśīrṣa</foreign> a compound composed by the derivated word of the constellation name Hasta followed by <foreign>śīrṣa</foreign>, like in the compound <foreign>mārgaśīrṣa</foreign> 'the month under the constellation of Mṛga' (ie. november-september) which is recorded in Monier-Williams and in <ref target="http://siddham.uk/inscription/in00090">Betul Charter of Samksobha, year 199</ref>, line 3 <!-- amwb : I also found mārgaśīrṣa in in the Kesaribedā Donation of Arthapati line 13 (siddham IN1003) and in Kauvatal Charter of Sudevarāja line 24 -->. But the irregular derivation in <foreign>hastiśīrṣa</foreign> and the context of its use do not allow a such interpretation.</note>
-				in Gulmagandhikā, in Dhānyapāṭikā, as well as in their hamlets <supplied reason="explanation"><foreign>sagohāliṣu</foreign></supplied> and inform them : 
+						The first interpretation could be to understand a place name 'Hastiśīrṣa' as <bibl><ptr target="bib:Sanyal1955-1956_01"/></bibl> did. A second possibility is to see <foreign>hastiśīrṣa</foreign> as a compound indicating a large aera. This interpretation is based on my previous observation according to which the geographical indication is presented from the larger to the smaller entity. So it could be possible to consider <foreign>śīrṣa</foreign>- a word used in a geographical manner to indicate that some place is near another larger place and <foreign>hasti</foreign>- a name of place like Hastināpura? If so, the translation could be 'in the upper part of Hasti', 'collateral of Hasti', close or next to Hasti. A third possibility could be to consider <foreign>hastiśīrṣa</foreign> a compound composed by the derivated word of the constellation name Hasta followed by <foreign>śīrṣa</foreign>, like in the compound <foreign>mārgaśīrṣa</foreign> 'the month under the constellation of Mṛga' (ie. november-september) which is recorded in Monier-Williams and by several inscriptions (for example: <ref target="http://siddham.uk/inscription/in00090">Betul Charter of Samksobha, year 199</ref>, line 3)<!-- amwb : I also found mārgaśīrṣa in in the Kesaribedā Donation of Arthapati line 13 (siddham IN1003) and in Kauvatal Charter of Sudevarāja line 24 -->. But the irregular derivation in <foreign>hastiśīrṣa</foreign> and the context of its use do not allow a such interpretation.
+				</note>
+				in Gulmagandhikā, in Dhānyapāṭikā, as well as in their hamlets <supplied reason="explanation"><foreign>sagohāliṣu</foreign></supplied><note>
+					On the meaning of gohālī, see <bibl><ptr target="Griffiths2018_02"/><citedRange unit="page">40-2</citedRange></bibl>
+				</note> 
+				and inform them : 
 			</p>
 			<p n="2-12">
 				It will be known by you that the artisan <supplied reason="explanation"><foreign>kulika</foreign></supplied> Bhīma, the scribes <supplied reason="explanation"><foreign>kāyastha</foreign></supplied> Prabhucandra, Rudradāsa, Devadatta, Lakṣmaṇa, Kāntideva, Śambhudatta, Kṛṣṇadāsa, the keeper-records <supplied reason="explanation"><foreign>pustapāla</foreign></supplied> Siṁhanandin and Yaśodāman, all belonging to this territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>, preceded by the territory-chiefs <supplied reason="explanation"><foreign>vīthīmahattara</foreign></supplied> Kumāradeva, Gaṇḍaprajāpati, Umayaśas, Rāmaśarman, Jyeṣṭhadāman, Svāmicandra and Harisiṁha, preceded by the peasant householders <supplied reason="explanation"><foreign>kuṭumbi</foreign></supplied> Yaśoviṣṇu, Kumāraviṣṇu, Kumārabhava, Kumārabhūti, Kumāra, Yaśagupta, Vailinaka, Śivakuṇḍa, Vasuśiva, Aparaśiva, Dāmarudra, Prabhamitra, Kṛṣṇamitra, Maghaśarman, Iśvaracandra, Rudrabhava, Svāmideva, Śrīnātha, Hariśarman, Guptaśarman, Suśarman, Hari, Alātasvāmin, Brahmasvāmin, Mahāsenabhaṭṭa, Ṣaṣṭhirāta, Gu _ _ _, _ _ śarman, Uṇṭaśarman, Kṛṣṇadatta, Nandadāman, Bhavadatta, Ahiśarman, Somaviṣṇu, Lakṣmaṇaśarman, Kāntidhovvoka, Kṣemaśarman, Śukraśarman, Sarppapālita, Kaṅkuṭi, Viśvaśaṅkara, Jayasvāmin, Kaivarttaśarman, Himaśarman, Purandara, Jayaviṣṇu, Uma. . . ,<!-- 
@@ -873,7 +910,7 @@ I translate the instrumental akṣayanīvyā by the expression 'is used for' and
 -->
 				after purchasing nine <foreign>kulyavāpa</foreign>s <supplied reason="explanation">of waste land</supplied>, give <supplied reason="subaudible">this land</supplied> for the purpose of the performance of the five great sacrifices to the brahmins <supplied reason="explanation">named</supplied> Devabhaṭṭa, Amaradatta and Mahāsenadatta residing in Puṇdravardhana and belonging to the Vājasaneya school.</p>
 			<p n="15-17">
-				Precisely in the above-mentionned villages, there are waste lands. Thus <supplied reason="explanation"><foreign>tad</foreign></supplied>, after receiving an amount of eighteen <foreign>dīnāra</foreign>s from us, be so kind as to endorse <supplied reason="subaudible">the sale of</supplied> nine <foreign>kulyavāpa</foreign>s.
+				Precisely in the above-mentionned villages, there are lands recognised as waste. Thus <supplied reason="explanation"><foreign>tad</foreign></supplied>, after receiving an amount of eighteen <foreign>dīnāra</foreign>s from us, be so kind as to endorse <supplied reason="subaudible">the sale of</supplied> nine <foreign>kulyavāpa</foreign>s.
 			</p>
 			<p n="17-18">
 				Wherefore, after obtaining the information of those beginning with the artisan Bhīma, through the investigation of the record-keepers Siṁhanandi and Yaśodāman, what is followed has been established :
@@ -898,7 +935,7 @@ I translate the instrumental akṣayanīvyā by the expression 'is used for' and
 				It seems to me that the term <foreign>potaka</foreign> could refer to a subtype of geographical toponym like in french words "lieu-dit, maison, domaine, propriété, bourgade, hameau, patelin".
 			</note> the latter one falling under <supplied reason="explanation">the region</supplied> next/close to Hasti / Hastiśīrṣa.</p>
 			<p n="24-27">In the regions of the above-mentionned villages,<note>
-				One can note the parallelism between the expression <foreign>eṣu yathopari-nirddiṣṭaka-grāma-pradeśeṣv</foreign> and the one used in line 15-16 : e<foreign>bhir evopari-nirddiṣṭaka-grāmeṣu</foreign>.
+				One can note the parallelism between the expression <foreign>eṣu yathopari-nirddiṣṭaka-grāma-pradeśeṣv</foreign> and the one used in line 15-16 : <foreign>ebhir evopari-nirddiṣṭaka-grāmeṣu</foreign>.
 			</note> in order to increase the merits of each mother and father of them, the artisan <supplied reason="explanation"><foreign>kulika</foreign></supplied> Bhīma, the scribes <supplied reason="explanation"><foreign>kāyastha</foreign></supplied> give for the performance of the five great sacrifices five <foreign>kulyavāpa</foreign>s, <abbr><foreign>ku</foreign></abbr> 5, to the Brahmin Devabhaṭṭa, two <foreign>kulyavāpa</foreign>s to <supplied reason="subaudible">the Brahmin</supplied> Amaradatta, two <foreign>kulyavāpa</foreign>s, <abbr><foreign>ku</foreign></abbr> 2, to <supplied reason="subaudible">the Brahmin</supplied> Mahāsenadatta.</p>
 			<p n="27-28">Thus <supplied reason="explanation">tad</supplied>, it is known <supplied reason="explanation">nivedyate?</supplied> through our <supplied reason="lost">request?</supplied> and it is written : these nine <foreign>kulyavāpa</foreign> are given to these three recipients for the performance of the five great sacrifices.</p>
 			<p n="28-29">Those who <supplied reason="explanation">live</supplied> in the present time <supplied reason="explanation">samupasthita-kālaṁ</supplied>, ie. the district officers <supplied reason="explanation">viṣayapati</supplied>, the officers, the peasant householders, the council members and the others who in the near future will be administrating <supplied reason="explanation">this land</supplied>,<note>
@@ -913,6 +950,14 @@ I translate the instrumental akṣayanīvyā by the expression 'is used for' and
 			<p n="34">Year 121, <supplied reason="explanation">month of</supplied> Vaiśakha, day 1.</p>
 		</div>
 		<div type="commentary">
+			<!-- 
+			amwb : concerning the punctuation marks in the inscription, I totally agree Daniel's suggestions, but I will add some other marks. Here follow my suggestions :
+			- wrap by a tag <p> from line 2 beginning with to (vi)ditam to line 12 after vijñāpitāḥ
+			- add line 16  <supplied reason="subaudible">.</supplied> between vidyante and tad
+			- add line 18 <supplied reason="subaudible">.</supplied> between ayam and iha
+			- I would like add line 19 <supplied reason="subaudible">.</supplied> between 'nuvr̥ttas and tad, but if I do this, the samdhi will not be correct
+			- add line 24 <supplied reason="subaudible">.</supplied> between ṣaṬ and Eṣu	
+			-->
 		</div>
 		<div type="bibliography">
 			<p></p>
