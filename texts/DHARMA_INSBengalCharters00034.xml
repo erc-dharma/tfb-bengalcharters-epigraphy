@@ -81,7 +81,7 @@ daba : The Siddham ID will need to be retained, probably as <altIdentifier>, whe
 
 n="1r"/><lb 
 n="1"/>svasti<supplied reason="subaudible">.</supplied> śr̥ṅgavera-vaitheya-pūrṇṇakauśikāyāḥ<!--
-amwb: caution here ! because Arlo notes a different reading from Sircar's one : kośikāyāḥ. Need to check the plate 
+amwb: caution here ! because Arlo notes a different reading from Sircar's one : kośikāyāḥ. Need to check the plate. 2021-08-19 : from the photos, it seems to me that there is no difference between this akṣara and the one of the line 27 (koṭara)
 --> bhaṭṭāraka-pādānuddhyātaḥ Āyuktakācyuto
 <lb 
 n="2"/>'dhikaraṇañ<!-- 
@@ -149,6 +149,8 @@ amwb : I replaced <choice><sic>vihārika</sic><corr>vihārikāyāṁ</corr></cho
 amwb : I replaced <sic>v</sic>ali by Arlo's reading
 -->-caru-sa<supplied reason="lost">ttra</supplied>-<!-- 
 daba siddham :Sircar_1969-70 omits prānta from this line; his editor notes that the reading seems to be kāritakopātta. Sircar_1973 and Agrawala print kāritaka-prānta. Agrawala emends to vihārake instead of vihārikāyāṁ. 
+--><!-- 
+amwb : 2021-08-19 : in my opinion the last akṣara of this line is tra with a single t 
 --><lb 
 n="11" break="no"/>pravartta<choice><sic>ṇ</sic><corr>n</corr></choice>āya<!-- 
 amwb: added choice + corr from Arlo's apparatus
@@ -162,7 +164,7 @@ amwb : removed <supplied reason="lost">ra</supplied> according to Arlo's reading
 -->-
 <lb 
 n="13"/>khila-kṣetrasya kulya-vāpa-vikraya<supplied reason="omitted">ḥ</supplied><supplied reason="subaudible">.</supplied> tad arhathāsmābhir hastād dīnāra-dvayaṁ gr̥hītvā kṣetrasya kulya-vāpam ekaṁ<!-- 
-amwb : removed <unclear>kaṁ</unclear> according to Arlo's reading
+amwb : removed <unclear>kaṁ</unclear> according to Arlo's reading. I confirm this reading 
 -->
 <lb 
 n="14"/>dātum<!-- 
@@ -183,8 +185,9 @@ n="15" break="no"/>sty ayam asma<unclear>d</unclear><!--
 amwb: removed one unclear and another in a<unclear>yam a</unclear>smad according to Arlo's reading 
 -->-vīthy-anuvr̥tta<!-- 
 amwb: removed <supplied reason="omitted">ḥ</supplied> at the end of the word because Arlo suggests another emendation, see apparatus
---> dvi-dīnāriky-ā<unclear>pra</unclear>tikara-khila-kṣetrasya kulya-vāpa-vikkrayas<!-- 
-amwb : add a -k- in vikkrayas, see apparatus
+--> dvi-dīnāriky-<supplied reason="lost">āpra</supplied>tikara-khila-kṣetrasya kulya-vāpa-vikkrayas<!-- 
+amwb : added a -k- in vikkrayas, see apparatus; after checking the photo I confirm thi reading
+amwb : removed ā<unclear>pra</unclear>tikara-khila and replace it by supplied lost. Indeed the pra cannot be unclear because it is a little broken part of the inscription 
 --> tad dīyatān na
 <lb 
 n="16"/>virodhaḥ kaścid ity avas<unclear>th</unclear>āpya<!-- 
@@ -194,7 +197,7 @@ amwb : added an unclear according to Arlo's reading
 -->-mahidāsayor hastā<unclear>t ku</unclear>lika-<!-- 
 amwb : added two unclear, see apparatus 
 -->bhīmenopasaṁgr̥<unclear>h</unclear>ī<add place="below">ta</add><!-- 
-amwb : added add, change below with the good position when I will observe the plate
+amwb : added add + below 
 -->ka-dīnāra-
 <lb 
 n="17"/>dvayam etat krītvā kṣemāka-bhoyila-mahīdāsayo ṣaḍ-droṇa-vāpāḥ śra<choice><sic>va</sic><corr>ma</corr></choice>ṇakācārya<!-- 
@@ -229,8 +232,8 @@ daba siddham :Sircar emends rddevakula to devakula, but wouldn't it be more plau
 --><!-- 
 daba siddham :I am far from sure that this is the correct boundary of the semantic paragraph, it's just my hunch. I also can't quite follow how the droṇa-vāpas add up - six plus two plus one seem to be mentioned above, while here we have seven and then something ambiguous. Can the intent be, "7 droṇa-vāpas to the NE of Gulmagandhikā, plus [one] near the temple [and] one that needn't be recorded here [since it is not purchased now, but had been the property of Bhoyila to begin with, cf. kāritam in l19]"? Need to devote more time to this and compare its structure to the other similar charters. 
 -->
-	<p>likhyama ttra<!-- 
-amwb : replaced "ekaṁ na likhyam</p><p>atra" by Arlo's reading and reported <p> division from Arlo's translation + check the display to be sure that one can read "ekaṁ likhyama" and not "ekaṁlikhyama" because there are many comments inserted here
+	<p>likhya<sic>ma</sic> ttra<!-- 
+amwb : replaced "ekaṁ na likhyam</p><p>atra" by Arlo's reading and reported <p> division from Arlo's translation + check the display to be sure that one can read "ekaṁ likhyama" and not "ekaṁlikhyama" because there are many comments inserted here + added sic in order to invit the reader to check the apparatus
 --> sīmā pūrvveṇa puṣk<choice><sic>i</sic><corr>a</corr></choice>riṇyā<supplied reason="omitted">ḥ</supplied> kandara<supplied reason="omitted">ḥ</supplied> sīmā<!-- 
 amwb : replace "puṣk<choice><sic>i</sic><corr>a</corr></choice>riṇyā kandara-sīmā" by "puṣk<choice><sic>i</sic><corr>a</corr></choice>riṇyā kandara<supplied reason="omiteed">ḥ</supplied> sīmā
 --> ca dakṣiṇe<!-- 
@@ -253,11 +256,12 @@ n="23" break="no"/>ktakā<supplied reason="omitted">ḥ</supplied> kuṭumbino '
 amwb :changed v in b and added choice + corr
 --> bhaviṣyanti <unclear>tai</unclear>r api bhūmi-dāna-phalam a<unclear>p</unclear>e<lb 
 n="24" break="no"/>kṣyākṣaya<!-- 
-amwb : I replaced a<unclear>ve</unclear>kṣyākṣaya by Arlo's reading; I checked Sircar who notes ve in brackets [ve]. So in the apparatus I noted ve with supplied tag and not unclear
+amwb : I replaced a<unclear>ve</unclear>kṣyākṣaya by Arlo's reading, but when I compared the akṣara with pa and va, it seems to look loke a ve? ; I checked Sircar who notes ve in brackets [ve]. So in the apparatus I noted ve with supplied tag and not unclear
 -->-nīvyānupālanīyā<!-- 
 amwb : I removed "<choice><sic>nīvyānupālanīyā</sic><corr>nīvy anupālanīyā</corr></choice>" which represents Sircar's emendation. Arlo's apparatus on this point gives me the impression that he does not follow Sircar?  
---> <space/><!-- 
-amwb : added space according to Arlo's reading
+--> 
+<space/><!-- 
+amwb : added space according to Arlo's reading , I confirm the space after checking the photo
 --><supplied reason="subaudible">.</supplied> Uktañ ca bhagavatā vyāsena</p>
 <lg n="1" met="anuṣṭubh">
 <l n="a">sva-<supplied reason="omitted">da</supplied><sic>t</sic>āṁ para-da<sic>t</sic>āṁ vā</l>
@@ -303,7 +307,7 @@ amwb : I removed the unclear (<unclear>ye</unclear>)--><surplus>d</surplus></l><
 daba siddham :At the end of the verse, yed iti is Sircar's reading, which he emends to ye|| iti. I see nothing recognisable between nti and the next ti of iti. Inscribing yediti for ye iti seems like an unlikely mistake to me, so I wonder if it could instead be ced iti or ya Iti. 
 --></lg>
 <p>iti <space/><!-- 
-amwb : I added the space according to Arlo's reading
+amwb : I added the space according to Arlo's reading , after checking the photo it seems there is really a large space equivalent to two or three akṣaras, maybe add a minima one space???
 --><supplied reason="subaudible">.</supplied> <abbr>saṁ</abbr><!-- 
 amwb : I added the tag abbr
 --> <num value="128"><g type="numeral">100</g> <g type="numeral">20</g> 8</num> caittra <abbr>di</abbr><!-- 
@@ -315,6 +319,8 @@ n="29" break="no"/><unclear>taṁ</unclear><!--
 amwb : I replaced Sircar's reading and added it in the apparatus
 --> s<supplied reason="lost">u</supplied>si<sic>ṅ</sic>hana mi ti<!-- 
 daba siddham :Sircar emends the end to susiṁhena iti, which makes sense. The facsimile shows nothing recognisable to me, except si and then a superscript i of what must be Sircar's mi. 
+--><!-- 
+amwb : after checking the photo I will add a space between hana and mi 
 --></p>
 			</div>
 				<div type="apparatus">
@@ -607,7 +613,7 @@ amwb : I don't understand your count : six droṇa from kṣemāka-bhoyila-ahīd
 					<note><bibl><ptr target="bib:Sircar1969-1970_01"/></bibl> suggests in note : . . . <foreign>vāpa ekaḥ</foreign>. Emend -<foreign>vāpā devakulasamīpe</foreign>.</note>
 				</app>
 				<app loc="20">
-					<lem>ekaṁ likhyama ttra</lem>
+					<lem>ekaṁ likhya<sic>ma</sic> ttra</lem>
 					<rdg source="bib:Sircar1969-1970_01">ekaṁ na likhyamatra</rdg>
 					<note><bibl><ptr target="bib:Sircar1969-1970_01"/></bibl> adds in note: read <foreign>likhyate 'tra</foreign>. <foreign>e<choice><sic>kaṁ</sic><corr>kam |</corr></choice></foreign> <foreign>likhya<choice><sic>ma</sic><corr>te</corr></choice>tra</foreign> DCS 1969<!-- Maybe is it 1973? -->. There certainly is no <foreign>akṣara</foreign> <foreign>na</foreign>. The emendation to <foreign>likhyate</foreign> seems to be supported by the parallel passage in the <ref target="DHARMA_INSBengalCharters00033.xml">Kalaikuri-Sultanpur plate</ref>, lines 28–29: <foreign>likhyate ca samupasthita-kā<supplied reason="lost">laṁ</supplied> <supplied reason="lost">ye 'py anye</supplied> viṣaya-patayaḥ āyuktakāḥ kuṭumbino 'dhikaraṇikā vā <choice><sic>sambya</sic><corr>saṁvya</corr></choice>vahāriṇo bhaviṣyanti tair api bhūmi-dāna-phalam avekṣya akṣaya-nīvy anupālanīyā</foreign>. </note>
 				</app>
