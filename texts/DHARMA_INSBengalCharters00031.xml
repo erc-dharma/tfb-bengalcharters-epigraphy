@@ -104,7 +104,8 @@ daba: Lielukhine says Banerji read mahākhuṣāpāra instead of khādā(?ṭa)p
 --><lb 
 n="8"/><gap reason="lost" precision="low" quantity="15" unit="character"/>nīvī-dharmma-kṣayeṇa labhya<unclear>te</unclear><!-- 
 daba: Sircar reads nīvīdharmmākṣayeṇa rather than kṣayeṇa; Bhandarkar mentions his interpretation of kṣaya in his introduction of this inscr. 
---></p>
+--><!-- 
+amwb : checking Sircar, he notes nīvīdharmmakṣayeṇa in his edition p.281 and suggests in brackets (kkra) and in note 3 dharmātkrayeṇa--></p>
 <p><unclear>ta</unclear>d arhatha mamādyānenaiva kkrame<choice><sic>n</sic><corr>ṇ</corr></choice>a dā<unclear>tuṁ</unclear>
 <lb 
 n="9"/><gap reason="lost" precision="low" quantity="14" unit="character"/>samety<unclear cert="low">ā</unclear>bhihitai<unclear cert="low">ḥ</unclear> sarvvam eva <unclear cert="low">jñā</unclear>kara-prative<unclear cert="low">śi</unclear>-kuṭumbibhir avasthāpya ka<!-- 
@@ -114,7 +115,9 @@ n="10" break="no"/><gap reason="lost" precision="low" quantity="14" unit="charac
 <lb 
 n="11"/><gap reason="lost" precision="low" quantity="11" unit="character"/> <supplied reason="lost">aṣṭaka-na</supplied>vaka-nalā<unclear>bhyā</unclear>m apaviñchya kṣetra-kulya-vāpam ekaṁ dattaṁ tataḥ Āyuktaka-
 <lb 
-n="12"/><gap reason="lost" precision="low" quantity="14" unit="character"/><unclear cert="low">bhrā</unclear>tr̥-kaṭaka-vāstavya-chandoga-brāhmaṇa-varāhasvāmino dattaṁ taddha<unclear cert="low">va</unclear><lb 
+n="12"/><gap reason="lost" precision="low" quantity="14" unit="character"/><unclear cert="low">bhrā</unclear>tr̥-kaṭaka-vāstavya-chandoga-brāhmaṇa-varāhasvāmino dattaṁ taddha<unclear cert="low">va</unclear><!-- 
+amwb : Sircar p.281 note 7 suggests a restoration (probably of the beginning gap) : bhavadbhiḥ sarvairevānumodyānupālanīyaṃ
+--><lb 
 n="13" break="no"/><gap reason="lost" precision="low" quantity="16" unit="character"/>bhūmyā dā<unclear>nākṣe</unclear>pe ca guṇāguṇam anucintya śarīra-k<unclear>ā</unclear>ñcanakasya ci<lb 
 n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap reason="lost" precision="low" quantity="10" unit="character"/> <seg type="component" subtype="consonant"><gap reason="illegible" quantity="1" unit="component"/></seg>ā<!-- 
 daba: the conjecture ra-cañcalatvaṁ is present in Sircar (probably his own?) and Agrawala, but not mentioned at all in Bhandarkar. 
@@ -139,7 +142,7 @@ daba: ā after the lacuna is only found in Bhandarkar. I assume he saw a diacrit
 <l n="a"><unclear>pū</unclear>rvva-dattāṁ dvijātibhyo</l>
 <l n="b">yatnād rakṣa yudhiṣṭhira</l>
 <l n="c">mahīṁ <unclear>mahī</unclear><supplied reason="lost">matāñ cchreṣṭha</supplied></l>
-<l n="d"><lb n="17"/><supplied reason="lost">dānāc chreyo nupālanam</supplied></l>
+<l n="d"><lb n="17"/><supplied reason="lost">dānāc chreyo 'nupālanam</supplied></l>
 </lg>
 <p><gap reason="lost" precision="low" quantity="10" unit="character"/>ya<unclear>ṁ</unclear> <unclear cert="low">su</unclear>śrībhadrena Utkīrṇṇaṁ sthambheśvaradāse<unclear>na</unclear> <gap reason="lost" precision="low" quantity="5" unit="character"/><!-- 
 daba: Sircar restores the lacuna as likhitā paṭṭikeyaṁ amātyabhadreṇa (Bhadra as the name, not preceding the other -bhadra). He also says traces of ka are visible before ya(ṁ). Bhandarkar follows Basak in reading suśrībhadreṇa. 
@@ -154,78 +157,166 @@ daba: note that the final 5 lost characters are only there if the line extends t
 				<app loc="1">
 				<lem><supplied reason="lost" cert="low">siddhaM| catur-udadhi-salilāsvāditayaśaso mahārājādhirāja-śrī-kumāraguptasya</supplied> <supplied reason="lost">sa</supplied></lem>
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/></rdg>
-					<rdg source="bib:Sircar1965_02">oṁ| catur-udadhi-salilāsvāditayaśaso mahārājādhirāja-śrī-kumāraguptasya</rdg>
+					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02"><supplied reason="lost" cert="low">oṁ| catur-udadhi-salilāsvāditayaśaso mahārājādhirāja-śrī-kumāraguptasya</supplied></rdg>
 				</app>
 				<app loc="1">
-					<lem source="bib:Sircar1965_02">-śa<unclear reason="illegible">te</unclear></lem>
+					<lem source="bib:Sircar1942_01 bib:Sircar1965_02">-śa<unclear reason="illegible">te</unclear></lem>
 					<rdg source="bib:Basak1923-1924_01">śat<supplied reason="lost">e</supplied></rdg>
 				</app>
 				<app loc="1">
 					<lem>°daśotta<lb
 						n="2" break="no"/><supplied reason="lost">re</supplied></lem>
-					<rdg source="bib:Sircar1965_02">daśotta<supplied reason="lost">re</supplied><lb n="2"/></rdg>
-					<rdg source="bib:Basak1923-1924_01">°daśotta<lb n="2"/><gap reason="lost" unit="character" extent="unknown"/></rdg>
+					<rdg source="bib:Basak1923-1924_01">°daśotta<lb n="2"/><lb n="2"/></rdg>
+					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02">daśotta<supplied reason="lost">re</supplied><lb n="2"/></rdg>
 					<note><bibl><ptr target="bib:Basak1923-1924_01"/></bibl> suggests reading °<foreign>daśottare</foreign> in note.</note>
 				</app>
 				<app loc="2">
-					<lem source="bib:Sircar1965_02"><supplied reason="lost">asyā</supplied><sic>n</sic> d<unclear>i</unclear>vasa-</lem>
-					<rdg source="bib:Sircar1965_02"><supplied reason="lost">asyā</supplied><unclear>ndi</unclear>vasa-</rdg>
-					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/>nd<unclear>i</unclear>vasa-</rdg>
+					<lem><gap reason="lost" precision="low" quantity="23" unit="character"/></lem>
+					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/></rdg>
+					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02"><supplied reason="lost" cert="low"><abbr>saṁ</abbr> <num value="123"><g type="numeral">100</g> <g type="numeral">20</g> 3</num></supplied><gap reason="lost" unit="character" extent="unknown"/></rdg>
 				</app>
 				<app loc="2">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1965_02">parama-daivata-para°</lem>
+					<lem><supplied reason="lost">asyā</supplied><sic>n</sic> d<unclear>i</unclear>vasa-</lem>
+					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/>nd<unclear>i</unclear>vasa-</rdg>
+					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02"><supplied reason="lost">asyā</supplied><unclear>ndi</unclear>vasa-</rdg>
+				</app>
+				<app loc="2">
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02">parama-daivata-para°</lem>
 					<note><bibl><ptr target="bib:Basak1923-1924_01"/></bibl> suggests reading <foreign>parama-daivata-parabhaṭṭāraka</foreign>.</note>
 				</app>
 				<app loc="2">
-					<lem>-para<lb 
+					<lem source="bib:Sircar1965_02">-para<lb 
 n="3" break="no"/><supplied reason="lost">ma-bhaṭṭāraka-</supplied><supplied reason="lost" cert="low">mahārājādhirāja-śrī-kumāragupte pr̥thivīpatau</supplied> kuṭu<unclear>mbi</unclear> <gap reason="lost" precision="low" quantity="3" unit="character"/> brāhmaṇa-</lem>
 					<rdg source="bib:Basak1923-1924_01">-para<lb n="3" break="no"/> <gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost" cert="low">ā</supplied> kuṭu<unclear>mbi</unclear> <gap reason="lost" unit="character" extent="unknown"/> brāhmaṇa-</rdg>
-					<rdg source="bib:Sircar1965_02"><supplied reason="lost">ma-bhaṭṭāraka-mahārājādhirāja-śrī-kumāraguptaḥ</supplied> <gap reason="lost" unit="character" extent="unknown"/> kuṭu<unclear>mbi</unclear></rdg>
-					<note><bibl><ptr source="bib:Sircar1965_02"/></bibl> suggests reading <foreign>samavetānkuṭumbinaḥ grāmika-brāhmaṇa°</foreign>.</note>
+					<rdg source="bib:Sircar1942_01"><supplied reason="lost">ma-bhaṭṭāraka-mahārājādhirāja-śrī-kumāraguptaḥ</supplied> <gap reason="lost" unit="character" extent="unknown"/> kuṭu<unclear>mbi</unclear></rdg>
+					<note><bibl><ptr source="bib:Sircar1942_01"/></bibl> first suggestes reading <foreign>samavetānkuṭumbinaḥ grāmika-brāhmaṇa°</foreign>.</note>
 				</app>
 				<app loc="3">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1965_02">-maha</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02">-maha</lem>
 					<note><bibl><ptr target="bib:Basak1923-1924_01"/></bibl> suggests : <quote>Read, perhaps, <foreign>mahattara</foreign>-.</quote></note>
 				</app>
 				<app loc="4">
 					<lem><gap reason="lost" precision="low" quantity="19" unit="character"/>vakīrtti-</lem>
-					<rdg source="bib:Basak1923-1924_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/>vakīrtti-</rdg>
+					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/>vakīrtti-</rdg>
 				</app>
 				<app loc="5">
 					<lem><gap reason="lost" precision="low" quantity="20" unit="character"/><unclear cert="low">pa</unclear>viṣṇu-</lem>
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost" cert="low">pa</supplied>viṣṇu-</rdg>
-					<rdg source="bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/> paviṣṇu-</rdg>
+					<rdg source="bib:Sircar1942_01"><gap reason="lost" unit="character" extent="unknown"/> paviṣṇu-</rdg>
+					<rdg source="bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/> viṣṇu-</rdg>
 				</app>
 				<app loc="6">
 					<lem><gap reason="lost" precision="low" quantity="18" unit="character"/><unclear cert="low">sasu</unclear></lem>
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost" cert="low">sasu</supplied></rdg>
-					<rdg source="bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/></rdg>
+					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/></rdg>
 				</app>
 				<app loc="6">
 					<lem>-rāmā<unclear cert="low">dyāḥ</unclear></lem>
 					<rdg source="bib:Basak1923-1924_01">-rām<supplied reason="lost" cert="low">ādyāḥ</supplied></rdg>
-					<rdg source="bib:Sircar1965_02">-<unclear cert="low">rāmādyāka</unclear></rdg>
+					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02">-<unclear cert="low">rāmādyāka</unclear></rdg>
 				</app>
 				<app loc="7">
 					<lem><gap reason="lost" precision="low" quantity="15" unit="character"/>viṣṇu<unclear cert="low">nā</unclear></lem>
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/> <unclear cert="low">viṣṇunā</unclear></rdg>
-					<rdg source="bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/> viṣṇu<unclear cert="low">nā</unclear></rdg>
+					<rdg source="bib:Sircar1942_01"><gap reason="lost" unit="character" extent="unknown"/> viṣṇu<unclear cert="low">nā</unclear></rdg>
+					<rdg source="bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/> viṣṇu<choice><sic>nā</sic><corr>ṇā</corr></choice></rdg>
 				</app>
 				<app loc="7">
 					<lem>khādā<unclear cert="low">ṭa</unclear>-</lem>
-					<rdg source="bib:Basak1923-1924_01 bib:Sircar1965_02">khādā<unclear cert="low">ṭā</unclear>-</rdg>
+					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02">khādā<unclear cert="low">ṭā</unclear>-</rdg>
 				</app>
 				<app loc="8">
 					<lem><gap reason="lost" precision="low" quantity="15" unit="character"/>nīvī-</lem>
-					<rdg source="bib:Basak1923-1924_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/> nīvī-</rdg>
+					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/> nīvī-</rdg>
 				</app>
 				<app loc="8">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1965_02">-kṣayeṇa</lem>
-					<note><bibl><ptr target="bib:Sircar1965_02"/></bibl> suggests for <foreign>kṣa</foreign> an alternative reading in brackets followed by a question mark : <foreign>kkra</foreign>.</note>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01">dharmma-kṣayeṇa</lem>
+					<rdg source="Sircar1965_02">dharmm<unclear>ā</unclear>-kṣayeṇa</rdg>
+					<note><bibl><ptr target="bib:Sircar1942_01"/></bibl> suggests for <foreign>kṣa</foreign> an alternative reading in brackets followed by a question mark : <foreign>kkra</foreign>. In note 3 p.281, he adds this suggestion : <quote>Or <foreign>dharmātkrayeṇa</foreign> ?</quote></note>
 				</app>
 				<app loc="8">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1965_02">mamādyānenaiva</lem>
-					<note><bibl><ptr target="bib:Sircar1965_02"/></bibl> suggests understanding <foreign>mahyaṁ</foreign> for <foreign>mama</foreign>.</note>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02">mamādyānenaiva</lem>
+					<note><bibl><ptr target="bib:Sircar1942_01"/><citedRange unit="page">281</citedRange></bibl> suggests understanding <foreign>mahyaṁ</foreign> for <foreign>mama</foreign> in note 4.</note>
+				</app>
+				<app loc="9">
+					<lem><gap reason="lost" precision="low" quantity="14" unit="character"/>same°</lem>
+					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/> same°</rdg>
+				</app>
+				<app loc="9">
+					<lem source="bib:Basak1923-1924_01"><unclear cert="low">jñā</unclear>kara-</lem>
+					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02">sarvvam eva <gap reason="lost" unit="character" quantity="2"/> kara-</rdg>
+					<note><bibl><ptr target="bib:Sircar1942_01"/><citedRange unit="page">281</citedRange></bibl> first suggested reading <foreign>kāra</foreign> or <foreign>ājñākara</foreign> in note 5. Then he suggested : <quote>Probably <foreign>kṣetrakara</foreign></quote> in <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">288</citedRange></bibl>, note 8.</note>
+				</app>
+				<app loc="10">
+					<lem><gap reason="lost" precision="low" quantity="14" unit="character"/>ri</lem>
+					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/> ri</rdg>
+				</app>
+				<app loc="11">
+					<lem><gap reason="lost" precision="low" quantity="11" unit="character"/> <supplied reason="lost">aṣṭaka-na</supplied>vaka-nalā<unclear>bhyā</unclear>m</lem>
+					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/> vaka-nalā<unclear>bhyā</unclear>m</rdg>
+					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost">aṣṭaka-na</supplied>vaka-nalā<unclear>bhyā</unclear>m</rdg>
+					<note><bibl><ptr target="bib:Basak1923-1924_01"/><citedRange unit="page">347</citedRange></bibl> suggests reading <foreign>aṣṭaka navaka-nalābhyām</foreign> in note 12.</note>
+				</app>
+				<app loc="11">
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01">-kulya-vāpam ekaṁ</lem>
+					<rdg source="bib:Sircar1965_02">-kulya-vāp<choice><sic>am ekaṁ</sic><corr>aḥ ekaḥ</corr></choice></rdg>
+				</app>
+				<app loc="11">
+					<lem source="bib:Basak1923-1924_01">dattaṁ tataḥ</lem>
+					<rdg source="bib:Sircar1942_01">dattaṁ<supplied reason="omitted">.</supplied> tataḥ</rdg>
+					<rdg source="bib:Sircar1965_02">datta<choice><sic>ṁ</sic><corr>ḥ</corr></choice><supplied reason="omitted">.</supplied> tataḥ</rdg>
+				</app>
+				<app loc="12">
+					<lem><gap reason="lost" precision="low" quantity="14" unit="character"/><unclear cert="low">bhrā</unclear></lem>
+					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/><gap reason="lost" quantity="1" unit="character"/><unclear cert="low">bhrā</unclear></rdg>
+				</app>
+				<app loc="12">
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02">svāmino</lem>
+					<note><bibl><ptr target="bib:Sircar1942_01"/><citedRange unit="page">281</citedRange></bibl> suggests correcting <foreign>svāmino</foreign> by <foreign>svāmine</foreign> in note 7 (repeated in note 1 <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">289</citedRange></bibl>).</note>
+				</app>
+				<app loc="12">
+					<lem source="bib:Basak1923-1924_01">dattaṁ taddha<unclear cert="low">va</unclear></lem>
+					<rdg source="bib:Sircar1942_01">dattaṁ<supplied reason="omitted">.</supplied> ta<unclear>dbhava</unclear></rdg>
+					<rdg source="bib:Sircar1965_02">datta<choice><sic>ṁ</sic><corr>m</corr></choice><supplied reason="omitted">.</supplied> ta<unclear>dbhava</unclear></rdg>
+				</app>
+				<app loc="13">
+					<lem><gap reason="lost" precision="low" quantity="16" unit="character"/>bhūmyā</lem>
+					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/>bhūmyā</rdg>
+				</app>
+				<app loc="13">
+					<lem>k<unclear>ā</unclear>ñcanakasya</lem>
+					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02">k<choice><sic>a</sic><corr>ā</corr></choice>ñcanakasya</rdg>
+				</app>
+				<app loc="14">
+					<lem><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap reason="lost" precision="low" quantity="10" unit="character"/> <seg type="component" subtype="consonant"><gap reason="illegible" quantity="1" unit="component"/></seg>ā</lem>
+					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/>ā</rdg>
+					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02"><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost">.</supplied></rdg>
+				</app>
+				<app loc="14">
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02">para-dattām vā</lem>
+					<note><bibl><ptr target="bib:Sircar1942_01"/><citedRange unit="page">281</citedRange></bibl> suggests <foreign>para-dattā<choice><sic>m</sic><corr>ṁ</corr></choice> vā</foreign> (repeated in note 2 <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">289</citedRange></bibl>).</note>
+				</app>
+				<app loc="15">
+					<lem source="bib:Sircar1942_01 bib:Sircar1965_02"><supplied reason="lost">yo hareta vasundharām sa viṣṭhāyāṁ kr̥mir bhūtvā pitr̥</supplied><unclear>bhiḥ</unclear></lem>
+					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/><unclear>bhiḥ</unclear></rdg>
+				</app>
+				<app loc="16">
+					<lem source="bib:Sircar1942_01 bib:Sircar1965_02"><supplied reason="lost">Ākṣeptā cānumantā ca tāny eva narake vaset</supplied><unclear>pū</unclear>rvva-dattāṁ</lem>
+					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/><unclear>pū</unclear>rvva-dattāṁ</rdg>
+				</app>
+				<app loc="17">
+					<lem><supplied reason="lost">dānāc chreyo 'nupālanam</supplied><gap reason="lost" precision="low" quantity="10" unit="character"/>ya<unclear>ṁ</unclear></lem>
+					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/>ya<unclear>ṁ</unclear> <unclear cert="low">su</unclear>śrībhadrena <unclear cert="low">su</unclear>śrībhadre<choice><sic>n</sic><corr>ṇ</corr></choice>a</rdg>
+					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02"><supplied reason="lost">dānāc chreyo 'nupālanam</supplied><gap reason="lost" unit="character" extent="unknown"/>ya<unclear>ṁ</unclear><gap reason="lost" unit="character" extent="unknown"/>śrībhadrena</rdg>
+					<note><bibl><ptr target="bib:Sircar1942_01"/><citedRange unit="page">282</citedRange></bibl> also suggests supplying <foreign>likhitā paṭṭikeyaṁ amātyabhadreṇa</foreign> in note 1 (repeated in note 3 <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">289</citedRange></bibl>.</note>
+				</app>
+				<app loc="17">
+					<lem source="bib:Sircar1942_01 bib:Sircar1965_02">sthambheśvara°</lem>
+					<rdg source="bib:Basak1923-1924_01"><choice><sic>stha</sic><corr>sta</corr></choice>mbheśvara°</rdg>
+				</app>
+				<app loc="17">
+					<lem><gap reason="lost" precision="low" quantity="5" unit="character"/></lem>
+					<note>Note that the final 5 lost characters are only there if the line extends to the edge of the plate, but there isn't really anything else expected here. <bibl><ptr target="bib:Basak1923-1924_01"/></bibl>, <bibl><ptr target="bib:Sircar1942_01"/></bibl> and <bibl><ptr target="bib:Sircar1965_02"/></bibl> end the inscription without mention lost characters.</note>
 				</app>
 			</listApp>
 		</div>
@@ -243,7 +334,8 @@ n="3" break="no"/><supplied reason="lost">ma-bhaṭṭāraka-</supplied><supplie
 				amwb : caution here the reference seems to be broken Bandyopadhyaya1909_ ? Missing 01???
 				-->
 				<bibl n="RB"><ptr target="bib:Basak1923-1924_01"/><citedRange unit="page">345-8</citedRange></bibl>
-				<bibl n="DSC"><ptr target="bib:Sircar1965_02"/><citedRange unit="page">280-2</citedRange></bibl>
+				<bibl n="DSC1"><ptr target="bib:Sircar1942_01"/><citedRange unit="page">280-2</citedRange></bibl>
+				<bibl n="DSC2"><ptr target="bib:Sircar1965_02"/><citedRange unit="page">287-9</citedRange></bibl>
 			</listBibl>
 			<listBibl type="secondary">
 				<bibl n="siglum"/>
