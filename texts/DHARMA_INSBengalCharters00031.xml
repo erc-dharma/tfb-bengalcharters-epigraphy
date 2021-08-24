@@ -198,7 +198,7 @@ daba: note that the final 5 lost characters are only there if the line extends t
 				<app loc="2">
 					<lem source="bib:Sircar1965_02">-para<lb 
 n="3" break="no"/><supplied reason="lost">ma-bhaṭṭāraka-</supplied><supplied reason="lost" cert="low">mahārājādhirāja-śrī-kumāragupte pr̥thivīpatau</supplied> kuṭu<unclear>mbi</unclear> <gap reason="lost" precision="low" quantity="3" unit="character"/> brāhmaṇa-</lem>
-					<rdg source="bib:Bandyopadhyaya1909_">-parama<lb n="3"/> <gap reason="lost" unit="character" extent="unknown"/> kṣudra<supplied reason="lost">ka nivāsinaḥ</supplied> br</rdg>
+					<rdg source="bib:Bandyopadhyaya1909_">-parama<lb n="3"/> <gap reason="lost" unit="character" extent="unknown"/> kṣudra<supplied reason="lost">ka nivāsinaḥ</supplied> brāhmaṇa</rdg>
 					<rdg source="bib:Basak1923-1924_01">-para<lb n="3" break="no"/> <gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost" cert="low">ā</supplied> kuṭu<unclear>mbi</unclear> <gap reason="lost" unit="character" extent="unknown"/> brāhmaṇa-</rdg>
 					<rdg source="bib:Sircar1942_01"><supplied reason="lost">ma-bhaṭṭāraka-mahārājādhirāja-śrī-kumāraguptaḥ</supplied> <gap reason="lost" unit="character" extent="unknown"/> kuṭu<unclear>mbi</unclear></rdg>
 					<rdg source="bib:Agrawala1983_02">-para<lb 
@@ -511,9 +511,62 @@ n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap rea
 			</listApp>
 		</div>
 		<div type="translation" xml:lang="eng" resp="amwb"><head>Draft of translation</head>
-			<p n="1-"><supplied reason="subaudible">Success !</supplied> In the year one hundred exceeded by thirteen <gap reason="lost"/><supplied reason="subaudible"> of the great king Śrī Kumāragupta whose splendour/glory is enjoyed flowing beyond the four oceans</supplied><!-- 
-			amwb : I wrap this in supplied because the text seems to be not sure; need to check Daniel's reading from a photo?
-			--> on this day <gap reason="lost"/> during the reign of the Supreme Majesty and Supreme Lord Kumāragupta </p>
+			<p n="1-7"><gap reason="ellipsis"/><supplied reason="lost">Success !</supplied><supplied reason="explanation"><foreign>siddhaM|</foreign></supplied> In the year one hundred exceeded by thirteen <gap reason="ellipsis"/><supplied reason="lost"> of the great king and emperor Śrī Kumāragupta whose splendour is enjoyed flowing beyond the four oceans</supplied> <supplied reason="explanation"><foreign>catur-udadhi-salilāsvāditayaśaso mahārājādhirāja-śrī-kumāraguptasya</foreign></supplied><!-- 
+			amwb : I wrap this in supplied because the text is a hypthetical reconstruction.   
+			-->
+			from the <gap reason="lost"/><supplied reason="lost"> Xth</supplied> day <supplied reason="lost">of the month X</supplied><supplied reason="explanation">lost of about 23 <foreign>akṣara</foreign>s at the beginning of the line 2</supplied>,<note>
+				<bibl><ptr target="bib:Sircar1942_01 bib:Sircar1965_02"/></bibl> suspects the numeral numbers of the year for the missing <foreign>akṣara</foreign>s at the beginning of the line 2. As far as I am concerned, I suggest assuming an ordinal number of the day and the name of the month, in the style of the line 1 of <ref target="DHARMA_INSBengalCharters00063.xml">Mastakaśvabhra Grant</ref>: <foreign>svasti ma<unclear>hā</unclear>rājādhirāja-śrī-pradyumnavandhor vvijayādhirājya-samvatsar<unclear>e</unclear> pañcama Āśvayuja-māsasya dvāviṁśatime divase</foreign>. It is also possible to assume a place name before the mention of the date. 
+			</note> 
+			 <gap reason="ellipsis"/><supplied reason="lost">the princely advisor or minister</supplied><supplied reason="explanation"><foreign>kumārāmātya</foreign> or <foreign>āyukta</foreign></supplied> <gap reason="lost" unit="character" quantity="3"/><supplied reason="explanation">probably : named XXX</supplied>, <supplied reason="lost">graced by the feet of</supplied> <supplied reason="explanation"><foreign>pādānuddhyātaḥ</foreign>/<foreign>ta</foreign></supplied> the Supreme Majesty and Supreme <supplied reason="explanation"><foreign>parama-daivata-para</foreign></supplied> Lord<note>
+							In my opinion the two hypothetical reconstructions in line 1 and line 3 suggested by Daniel following
+							<bibl><ptr target="bib:Sircar1942_01 		bib:Sircar1965_02"/></bibl> are too redundant to be acceptable 
+							simultaneously. The second in line 3 could be translated by : 
+							<supplied reason="lost">while</supplied> the Supreme Majesty and Supreme <gap reason="ellipsis"/><supplied reason="lost"> Lord,
+							the great king and emperor Kumāragupta was the Lord of the earth</supplied> 
+							<supplied reason="explanation"><foreign>ma-bhaṭṭāraka-mahārājādhirāja-śrī-kumāragupte pr̥thivīpatau</foreign></supplied>. But with this assumption,
+							we have a problem to construct the sentence. We need a subject coordinated with <foreign>grāmāṣṭakulādhiraṇañ ca</foreign> in line 6.  
+							Following the four examples of <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>
+							line 1 <supplied reason="explanation"><foreign>paramabhaṭṭāraka-pādānuddhyātaḥ kumārāmātya-yūthapatir</foreign></supplied>, 
+							<ref target="DHARMA_INSBengalCharters00034.xml">Jagadishpur Charter</ref> line 1 
+							<supplied reason="explanation"><foreign>bhaṭṭāraka-pādānuddhyātaḥ Āyuktakācyuto</foreign></supplied>,  
+							<ref target="DHARMA_INSBengalCharters00049.xml">Baigram Charter</ref> line 1 
+							<supplied reason="explanation"><foreign>bhaṭṭāraka-pādānuddhyātaḥ kumārāmātya-kulavr̥ddhir</foreign></supplied> 
+							and <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref> line 1 
+							<supplied reason="explanation"><foreign>bhaṭṭāraka<supplied reason="lost">-pā</supplied>
+							dānuddhyātaḥ kumāram<unclear>ā</unclear><supplied reason="lost">tya-g</supplied>
+							<unclear>o</unclear>pāl<supplied reason="lost">o</supplied></foreign></supplied>, 
+							I suggest that <foreign>paramadaivatapara</foreign>- could be the beginning of a compound designated an officer 
+							appointed by the king and that the gap could be completed by something 
+							like <foreign>ma-bhaṭṭāraka-pādānuddhyātaḥ kumārāmātya-</foreign> 
+							or <foreign>ma-bhaṭṭāraka-pādānuddhyāta āyukta</foreign> followed by the name of the officer. 
+			</note> and the council composed of the nobles of the eight villages <supplied reason="explanation"><foreign>grāmāṣṭakulādhiraṇañ ca</foreign></supplied> Śrībhadra, Somapāla, Rāma and others <supplied reason="explanation">śrībhadra-somapāla-rāmā<unclear cert="low">dyāḥ</unclear></supplied>
+<gap reason="lost"/><supplied reason="lost">greet and inform</supplied> <supplied reason="explanation"><foreign>kuśalam anuvarṇya bodhayanti</foreign></supplied><note>
+					For the 15 missing <foreign>akṣara</foreign>s at the beginning of the line 7, I suggest assuming the expression <foreign>kuśalam anuvarṇya bodhayanti</foreign>. In support of this assumption, one can compare it with these seven following examples, which are all contemporary with the present inscription :
+					<list>
+						<item><ref target="DHARMA_INSBengalCharters00033.xml">Kalaikuri-Sultanpur Plate</ref>, line 2 : <foreign><unclear>k</unclear>uśalam anuvarṇya bodhayanti</foreign></item>
+						<item><ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter</ref>, lines 2-3 : <foreign>kuśalam āśāsya bodhayanti</foreign></item>
+						<item><ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>, line 2 : <foreign>bodhayanti</foreign></item>
+						<item><ref target="DHARMA_INSBengalCharters00049.xml">Baigram Charter</ref>, lines 2-3 : <foreign> kuśalam anuvarṇya bodhayanti</foreign></item>
+						<item><ref target="DHARMA_INSBengalCharters00054.xml">Nadapur Plate</ref>, line 2  : <foreign>kuśalam anuvarṇṇya bodhayanti</foreign></item>
+						<item><ref target="DHARMA_INSBengalCharters00055.xml">grant of land to monasteries at Śiṣīpuñja, Madhyamasṛgālikā and Grāmakūṭagohālī</ref>, line 3 : <foreign>kuśalam uk<supplied reason="lost">tvānu</supplied><unclear>bo</unclear>dhayanti </foreign></item>
+						<item><ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>, line 2 : <foreign>k<unclear>u</unclear><supplied reason="lost">śa</supplied><unclear>la</unclear>m uktvā bodhayanti</foreign></item>
+					</list>
+				</note> the householder <gap reason="lost" unit="character" quantity="3"/><supplied reason="explanation">named X</supplied><note>
+					One may suppose that the 3 missing <foreign>akṣara</foreign>s were the name of the househoulder. Nevertheless the reading found in the <title>editio princeps</title> (<bibl><ptr target="bib:Bandyopadhyaya1909_"/></bibl>) invites us to be cautious and check carefully the photo because a compound having both kṣudra and kuṭumbhi inside is very likely when comparing the present line with lines 2 of <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>, 6 of <ref target="DHARMA_INSBengalCharters00051.xml">Tāvīra</ref> and 2 of <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>.
+				</note> and the brahmins Śivaśarman, Nāgaśarman, Maha<gap reason="lost" quantity="18" unit="character"/>, <gap reason="lost" quantity="1" unit="character"/>vakīrtti, Kṣemadatta,<note>
+					<bibl><ptr target="bib:Bandyopadhyaya1909_"/></bibl> reads Kṣamavanta.
+				</note> Goṣṭhaka, Vargapāla, Piṅgala, Śuṅkuka, Kāla<gap reason="lost" unit="character" extent="unknown"/>, <gap reason="lost" unit="character" extent="unknown"/>paviṣṇu, Devaśarman, Viṣṇubhadra, Khāsaka, Rāmaka, Gopāla, <gap reason="lost" quantity="18" unit="character"></gap> <gap reason="ellipsis"/><supplied reason="lost">residing in</supplied><supplied reason="explanation"><foreign>sasu</foreign></supplied><note>
+					Maybe we have to emend <foreign>sāsu</foreign> for a feminine plural locative ? 
+					It would be logical to have the names of the eight villages mentionned by the expression <foreign>grāmāṣṭakulādhiraṇañ ca</foreign> (line 6). 
+				</note> </p>
+			<p n="7">
+				<gap reason="ellipsis"/><supplied reason="explanation">4 last missing <foreign>akṣara</foreign>s at the beginning of the line 7</supplied>viṣṇu petition as follows :
+			</p>
+			<p n="7-">
+				Here, in the district of Khāḍāṭapāra, the custom is <supplied reason="lost">sale of waste land</supplied> as permanent endowment to be enjoyed in perpetuity
+				In your district here, the custom is sale of waste land as permanent endowment to be enjoyed in perpetuity with a kulyavāpa for (the price of) two dīnāras. Thus (tad) for me too, with this very procedure and for the purpose of (my) own merit being increased, be so kind as to take from me forty-four dīnāras and give twenty-two kulyavāpas of waste land that yields no tax to the Brahmin Guhadāman, a royal adviser and Vājasaneyin belonging to the Kāśyapa gotra, residing at Gacīkuṇṭaka (?), for the purpose of the regular performance of the five great sacrifices.’
+				
+			</p>
 		</div>
 		<div type="commentary">
 		</div>

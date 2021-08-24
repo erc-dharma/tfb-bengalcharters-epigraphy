@@ -624,7 +624,8 @@
 	<!--bibliography encoded as per section §9.4 -->
            <p>First edited by Arlo Griffiths. Re-edited here with small improvements based on direct inspection of the plate.</p><!-- est ce bien cela que je devais noter -->
         	<listBibl type="primary">
-				<bibl n="G"><ptr target="bib:Griffiths2015_02"/><citedRange unit="item">I</citedRange><citedRange unit="page">16-27</citedRange></bibl>
+        	    <bibl n="DB"><ptr target="bib:Dubey+Acharya2014_01"/></bibl>
+				<bibl n="AG"><ptr target="bib:Griffiths2015_02"/><citedRange unit="item">I</citedRange><citedRange unit="page">16-27</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
                <bibl><ptr target="bib:Griffiths2015_02"/><citedRange unit="item">I</citedRange><citedRange unit="page">16-27</citedRange></bibl>
