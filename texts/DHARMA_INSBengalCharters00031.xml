@@ -517,8 +517,8 @@ n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap rea
 			from the <gap reason="lost"/><supplied reason="lost"> Xth</supplied> day <supplied reason="lost">of the month X</supplied><supplied reason="explanation">lost of about 23 <foreign>akṣara</foreign>s at the beginning of the line 2</supplied>,<note>
 				<bibl><ptr target="bib:Sircar1942_01 bib:Sircar1965_02"/></bibl> suspects the numeral numbers of the year for the missing <foreign>akṣara</foreign>s at the beginning of the line 2. As far as I am concerned, I suggest assuming an ordinal number of the day and the name of the month, in the style of the line 1 of <ref target="DHARMA_INSBengalCharters00063.xml">Mastakaśvabhra Grant</ref>: <foreign>svasti ma<unclear>hā</unclear>rājādhirāja-śrī-pradyumnavandhor vvijayādhirājya-samvatsar<unclear>e</unclear> pañcama Āśvayuja-māsasya dvāviṁśatime divase</foreign>. It is also possible to assume a place name before the mention of the date. 
 			</note> 
-			 <gap reason="ellipsis"/><supplied reason="lost">the princely advisor or minister</supplied><supplied reason="explanation"><foreign>kumārāmātya</foreign> or <foreign>āyukta</foreign></supplied> <gap reason="lost" unit="character" quantity="3"/><supplied reason="explanation">probably : named XXX</supplied>, <supplied reason="lost">graced by the feet of</supplied> <supplied reason="explanation"><foreign>pādānuddhyātaḥ</foreign>/<foreign>ta</foreign></supplied> the Supreme Majesty and Supreme <supplied reason="explanation"><foreign>parama-daivata-para</foreign></supplied> Lord<note>
-							In my opinion the two hypothetical reconstructions in line 1 and line 3 suggested by Daniel following
+			 <gap reason="ellipsis"/><supplied reason="lost"> the officer</supplied><supplied reason="explanation"><foreign>āyukta</foreign></supplied> <gap reason="lost" unit="character" quantity="3"/><supplied reason="explanation">probably : named XXX</supplied>, <supplied reason="lost">graced by the feet of</supplied> <supplied reason="explanation"><foreign>pādānuddhyātaḥ</foreign>/<foreign>ta</foreign></supplied> the Supreme Majesty and Supreme <supplied reason="explanation"><foreign>parama-daivata-para</foreign></supplied> Lord<note>
+							In my opinion the two hypothetical reconstructions in line 1 and line 3 suggested by Daniel Balogh following
 							<bibl><ptr target="bib:Sircar1942_01 		bib:Sircar1965_02"/></bibl> are too redundant to be acceptable 
 							simultaneously. The second in line 3 could be translated by : 
 							<supplied reason="lost">while</supplied> the Supreme Majesty and Supreme <gap reason="ellipsis"/><supplied reason="lost"> Lord,
@@ -538,7 +538,7 @@ n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap rea
 							I suggest that <foreign>paramadaivatapara</foreign>- could be the beginning of a compound designated an officer 
 							appointed by the king and that the gap could be completed by something 
 							like <foreign>ma-bhaṭṭāraka-pādānuddhyātaḥ kumārāmātya-</foreign> 
-							or <foreign>ma-bhaṭṭāraka-pādānuddhyāta āyukta</foreign> followed by the name of the officer. 
+							or <foreign>ma-bhaṭṭāraka-pādānuddhyāta āyukta</foreign> followed by the name of the officer. Given the word <foreign>āyukta</foreign> appears in line 11, I choose this word in my proposition of translation.
 			</note> and the council composed of the nobles of the eight villages <supplied reason="explanation"><foreign>grāmāṣṭakulādhiraṇañ ca</foreign></supplied> Śrībhadra, Somapāla, Rāma and others <supplied reason="explanation">śrībhadra-somapāla-rāmā<unclear cert="low">dyāḥ</unclear></supplied>
 <gap reason="lost"/><supplied reason="lost">greet and inform</supplied> <supplied reason="explanation"><foreign>kuśalam anuvarṇya bodhayanti</foreign></supplied><note>
 					For the 15 missing <foreign>akṣara</foreign>s at the beginning of the line 7, I suggest assuming the expression <foreign>kuśalam anuvarṇya bodhayanti</foreign>. In support of this assumption, one can compare it with these seven following examples, which are all contemporary with the present inscription :
@@ -555,18 +555,61 @@ n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap rea
 					One may suppose that the 3 missing <foreign>akṣara</foreign>s were the name of the househoulder. Nevertheless the reading found in the <title>editio princeps</title> (<bibl><ptr target="bib:Bandyopadhyaya1909_"/></bibl>) invites us to be cautious and check carefully the photo because a compound having both kṣudra and kuṭumbhi inside is very likely when comparing the present line with lines 2 of <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>, 6 of <ref target="DHARMA_INSBengalCharters00051.xml">Tāvīra</ref> and 2 of <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>.
 				</note> and the brahmins Śivaśarman, Nāgaśarman, Maha<gap reason="lost" quantity="18" unit="character"/>, <gap reason="lost" quantity="1" unit="character"/>vakīrtti, Kṣemadatta,<note>
 					<bibl><ptr target="bib:Bandyopadhyaya1909_"/></bibl> reads Kṣamavanta.
-				</note> Goṣṭhaka, Vargapāla, Piṅgala, Śuṅkuka, Kāla<gap reason="lost" unit="character" extent="unknown"/>, <gap reason="lost" unit="character" extent="unknown"/>paviṣṇu, Devaśarman, Viṣṇubhadra, Khāsaka, Rāmaka, Gopāla, <gap reason="lost" quantity="18" unit="character"></gap> <gap reason="ellipsis"/><supplied reason="lost">residing in</supplied><supplied reason="explanation"><foreign>sasu</foreign></supplied><note>
+				</note> Goṣṭhaka, Vargapāla, Piṅgala, Śuṅkuka, Kāla<gap reason="lost" unit="character" extent="unknown"/>, <gap reason="lost" unit="character" extent="unknown"/>paviṣṇu, Devaśarman, Viṣṇubhadra, Khāsaka, Rāmaka, Gopāla, <gap reason="lost" quantity="18" unit="character"/><supplied reason="explanation">line 6</supplied> <gap reason="ellipsis"/><supplied reason="lost">residing in</supplied><supplied reason="explanation"><foreign>sasu</foreign></supplied><note>
 					Maybe we have to emend <foreign>sāsu</foreign> for a feminine plural locative ? 
 					It would be logical to have the names of the eight villages mentionned by the expression <foreign>grāmāṣṭakulādhiraṇañ ca</foreign> (line 6). 
 				</note> </p>
 			<p n="7">
 				<gap reason="ellipsis"/><supplied reason="explanation">4 last missing <foreign>akṣara</foreign>s at the beginning of the line 7</supplied>viṣṇu petition as follows :
 			</p>
-			<p n="7-">
-				Here, in the district of Khāḍāṭapāra, the custom is <supplied reason="lost">sale of waste land</supplied> as permanent endowment to be enjoyed in perpetuity
-				In your district here, the custom is sale of waste land as permanent endowment to be enjoyed in perpetuity with a kulyavāpa for (the price of) two dīnāras. Thus (tad) for me too, with this very procedure and for the purpose of (my) own merit being increased, be so kind as to take from me forty-four dīnāras and give twenty-two kulyavāpas of waste land that yields no tax to the Brahmin Guhadāman, a royal adviser and Vājasaneyin belonging to the Kāśyapa gotra, residing at Gacīkuṇṭaka (?), for the purpose of the regular performance of the five great sacrifices.’
-				
+			<p n="7-10">
+				Here, in the district of Khāḍāṭapāra, the established custom is <gap reason="lost" unit="character" quantity="15"/><supplied reason="explanation">line 8</supplied>  there is destruction of the law of <supplied reason="lost">permanent</supplied> endowment<note>
+					The word <foreign>nīvī</foreign> is almost always associated with the word <foreign>akṣaya</foreign> and both, they constitue the compound <foreign>akṣayanīvī</foreign>; which seems to be a epigraphical term in Gupta inscriptions. On this compound, see <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page"></citedRange>860</bibl>, note 2023. However it would be necessary to make more research on the possibility of the destruction of a permanent endowment.  
+				</note>
+			Thus <supplied reason="explanation">tad</supplied>, be so kind as to give me today acccording to this procedure <gap reason="lost" unit="character" quantity="14"/><supplied reason="explanation">line 9</supplied> once <supplied reason="lost">the money</supplied> is collected, when the neighbouring householders executing the orders <supplied reason="explanation"> ājñakara</supplied> who are addressed have precisely established all of this, <gap reason="lost" unit="character" quantity="14"/><supplied reason="explanation">line 10</supplied> <gap reason="ellipsis"/><supplied reason="explanation"><foreign>ri</foreign></supplied> <gap reason="lost" unit="character" quantity="1"/><supplied reason="explanation">line 10</supplied> <gap reason="ellipsis"/><supplied reason="explanation"><foreign>kana</foreign></supplied> thus <supplied reason="explanation">yad</supplied>, from now on, it has been ascertained what it follows :
 			</p>
+			<p n="10-11">
+				After <supplied reason="explanation">this reauest</supplied> has been accepted by the words <q>be it so</q> <supplied reason="explanation">tatheti</supplied>, after separating <supplied reason="explanation">the land</supplied> by two reeds <supplied reason="explanation">measuring</supplied> eight by ninefold <gap reason="lost" unit="character" quantity="11"/> <supplied reason="explanation">line 11</supplied><note>
+					The expression <foreign>-nalābhyām apaviñchya</foreign> is found in several inscriptions belonging to the Gupta age : 
+				<list>
+					<item><ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref> line 21 : <foreign>naitika-kuddālakhātika-ratny-<choice><sic>ā</sic><corr>a</corr></choice>ṣṭa-navaka-nalābhyām apaviñchya</foreign></item>
+				<item><ref target="DHARMA_INSBengalCharters00049.xml">Baigram Plate</ref> lines 18-19 : <foreign>darvvīkarmma-hastenāṣṭaka-navaka-naḷābhyām apaviñcchya</foreign> preceded by <foreign>sva-karṣaṇāvirodhi-sthāne</foreign></item>
+				<item><ref target="DHARMA_INSBengalCharters00051.xml">Tāvīra Grant</ref> lines 16-17 <foreign>Aṣṭaka-navaka-nalābhyām apavi<unclear>ñ</unclear>cchya</foreign> preceded by <foreign>viṣaya-maryyādayā</foreign></item>
+				<item><ref target="DHARMA_INSBengalCharters00052.xml">Paharpur Plate</ref> lines 19-20 <foreign>ṣaṭka-naḍair-apaviñcchya</foreign> preceded by <foreign>sva-karṣaṇāvirodhi-sthāne</foreign></item>
+				<item><ref target="DHARMA_INSBengalCharters00054.xml">Nandapur Plate</ref> line 14 : <foreign>darvvī-karmma-hastenāṣṭaka-navaka-nalābhyām apaviñchya</foreign> preceded by <foreign>karṣaṇāvirodhi-sthāne</foreign></item>
+				<item><ref target="DHARMA_INSBengalCharters00055.xml">A grant of land to monasteries at Śiṣīpuñja, Madhyamasṛgālikā and Grāmakūṭagohālī</ref> lines 23-24 : <foreign>ṣaṭ-kanalair apaviñ<unclear>cch</unclear>ya</foreign> preceded by <foreign>sva-karṣaṇāvirodhisthāne</foreign></item>
+				<item><ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref> lines 20-21 :  <foreign><unclear>Aṣṭaka</unclear><supplied reason="lost">nava-kana-</supplied>lābhyām apaviñchya</foreign></item>
+				</list> 
+					Given the conventional feature of this kind of inscriptions, one could suggest that the expressions <foreign>sva-karṣaṇāvirodhisthāne</foreign> <supplied reason="explanation">in a place that does not conflict with your own cultivation</supplied> or <foreign>viṣaya-maryyādayā</foreign> <supplied reason="explanation">according to the rule of this district</supplied> began the line 11.  
+					</note>
+				one <foreign>kulya-vāpa</foreign> of land is given.</p>
+			<p n="11-12">
+				Then, <gap reason="lost" unit="character" quantity="14"/><supplied reason="explanation">line 12</supplied> <supplied reason="lost">by ?</supplied> the officer <supplied reason="explanation"><foreign>āyuktaka</foreign></supplied> the income of this land <supplied reason="explanation">tadbhava-</supplied><note> 
+					Here I have choosen the reading of <bibl><ptr target="bib:Sircar1942_01"/></bibl>, <bibl><ptr target="bib:Sircar1965_02"/></bibl> and <bibl><ptr target="bib:Agrawala1983_02"/></bibl>. I emend <foreign>tadbhavaṁ</foreign>.
+				</note>
+				is given to the brahmin Varāhasvāmin <supplied reason="explanation">belonging to the</supplied> Chandoga <supplied reason="explanation">tradition</supplied><note>
+					According to the note 7 of <bibl><ptr target="bib:Basak1923-1924_01"/><citedRange unit="page">348</citedRange></bibl>, chandoga means one studying the <title>Sāmaveda</title>.
+				</note> residing in Kaṭaka <supplied reason="explanation">the royal camp?</supplied>, brother <supplied reason="explanation">bhātṛ</supplied> <gap reason="lost" unit="character" quantity="14"/><supplied reason="explanation">line 12</supplied> 
+			</p>
+			<p n="13-14">
+				<gap reason="lost" unit="character" quantity="16"/> after considering the merit and the demerit in the case of confiscation <supplied reason="explanation"><foreign>akṣepa</foreign></supplied> of a gift of a land <supplied reason="explanation">and</supplied> <supplied reason="lost">the unconstancy during the time</supplied> <supplied reason="explanation"><foreign>cira-cañcalatva</foreign></supplied> of body and gold <supplied reason="explanation"><foreign>śārira-kāñcanakasya</foreign></supplied><note>
+					The reading of <bibl><ptr target="bib:Bandyopadhyaya1909_"/></bibl> <foreign>śārira-kalyānakasya</foreign> could be emended by <foreign>śārira-kalyāṇakasya</foreign> and translated by <q>body and auspiciousness</q> or <q>the beauty of the body </q>.
+				</note>
+				<gap reason="lost" unit="character" quantity="10"/><supplied reason="explanation">line 14</supplied><gap reason="ellipsis"/><supplied reason="explanation">ā</supplied>.
+			</p>
+			<p n="14">
+				It has been said by the lord Dvaipāyana:
+			</p>
+			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.</p>
+			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
+			<p n="3" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.<note>
+				Here I reproduced the translation of the same three verses from <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref> made by Arlo Griffiths (<bibl><ptr target="Griffiths2015_02"/></bibl>).
+			</note>
+				</p>
+			<p n="17"><gap reason="lost" unit="character" quantity="10"/><supplied reason="explanation">line 17</supplied> <gap reason="ellipsis"/><supplied reason="explanation">yaṁ</supplied> engraved by the excellent Śrībhadra <supplied reason="explanation">suśrībhadrena</supplied> <supplied reason="lost">written by or heated by</supplied><note>
+				Following the final formulation of <ref target="DHARMA_INSBengalCharters00034.xml">Jagadishpur Plate</ref>, <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>, <ref target="DHARMA_INSBengalCharters00051.xml">Tāvīra Plate</ref> and <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>, it is possible to assume <foreign>tāpitam</foreign> or <foreign>likhitam</foreign>.
+			</note> Sthambeśvaradāsa.</p>
+			
 		</div>
 		<div type="commentary">
 		</div>
