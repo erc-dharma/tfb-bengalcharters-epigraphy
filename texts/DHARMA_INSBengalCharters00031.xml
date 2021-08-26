@@ -77,49 +77,94 @@ amwb: siddham idno IN00023
 		<body>
 			<div type="edition" xml:lang="san-Latn">
 <p><lb 
-n="1"/><supplied reason="lost" cert="low">siddhaM| catur-udadhi-salilāsvādita-yaśaso mahārājādhirāja-śrī-kumāraguptasya</supplied> <supplied reason="lost">sa</supplied>mvatsara-śa<unclear reason="illegible">te</unclear><!-- argr2amwb: the śa seems wholly or at least partly lost, the t is entirely clear, the vowel -e is also lost  --> trayodaśotta<!-- 
+n="1"/><supplied reason="lost" cert="low">siddhaM| catur-udadhi-salilāsvādita-yaśaso mahārājādhirāja-śrī-kumāraguptasya</supplied> <supplied reason="lost">sa</supplied>mvatsara-śa<unclear reason="illegible">te</unclear><!-- argr2amwb: the śa seems wholly or at least partly lost, the t is entirely clear, the vowel -e is also lost  --><!-- 
+amwb2argr: agree so change it by <unclear reason="illegible">śa</unclear>t<supplied reason="lost">e</supplied>
+--> trayodaśotta<!-- 
 daba: I adopt Sircar's conjecture for the beginning except hypothesising siddham instead of his oṁ. 
+--><!-- 
+amwb : i am not able to see the -tta in trayodaśotta. Maybe wrap tta in unclear or supplied
 --><lb 
 n="2" break="no"/><supplied reason="lost">re</supplied> <gap reason="lost" precision="low" quantity="23" unit="character"/><!-- 
 daba: Sircar's conjecture for the beginning of this line is saṁ 100+10+3 (after re, I guess, though he may have read re at the end of the first line - which I consider very unlikely) 
+--><!-- 
+amwb : I suggest assuming an ordinal number of the day and the name of the month or a place name here, see my note in the translation
 --></p>
 <p><supplied reason="lost">asyā</supplied><sic>n</sic> d<unclear>i</unclear>vasa-pūrvvāyāṁ parama-daivata-para<lb 
-n="3" break="no"/><supplied reason="lost">ma-bhaṭṭāraka-</supplied><supplied reason="lost" cert="low">mahārājādhirāja-śrī-kumāragupte pr̥thivīpatau</supplied> kuṭu<unclear>mbi</unclear> <gap reason="lost" precision="low" quantity="3" unit="character"/> brāhmaṇa-śivaśarmma-nāgaśarmma-maha<!-- 
+n="3" break="no"/><supplied reason="lost">ma-bhaṭṭāraka-</supplied><supplied reason="lost" cert="low">mahārājādhirāja-śrī-kumāragupte pr̥thivīpatau</supplied><!-- 
+amwb : I suggest in my translation another conjecture for the gap
+--> kuṭu<unclear>mbi</unclear><!-- 
+amwb : I read <unclear cert="high">dra</unclear>kaṭu<unclear>mb</unclear>
+--> <gap reason="lost" precision="low" quantity="3" unit="character"/> brāhmaṇa-śivaśarmma-nāgaśarmma-maha<!-- 
+amwb: for me the maha is unclear
+--><!-- 
 daba: The conjectural filling-up is from Lielukhine, i.e. probably Sircar. Compare the Damodarpur plates. Bhandarkar reads ā(?) before kuṭumbi, I see nothing (not even kuṭumbi), but this could be part of an au mātrā. The broken-off gap after kuṭumbi is 2 or 3 characters in size, but I can't make out brāhmaṇa either on the facsimile, nor anything else really, except what may be śi of śivaśarmma. 
 --><lb 
 n="4" break="no"/><gap reason="lost" precision="low" quantity="19" unit="character"/>vakīrtti-kṣemadatta-goṣṭhaka-varggapāla-piṅgala-śuṅkuka-kāla-<!-- 
 daba: Lielukhine (naming no source) proposes Śivakīrtti for the partially lost name and says Banerji reads kṣamavanta, presumably for kṣemadatta. 
 --><lb 
-n="5"/><gap reason="lost" precision="low" quantity="20" unit="character"/><unclear cert="low">pa</unclear>viṣṇu-<unclear>deva</unclear>śarmma-viṣṇubhadra-khāsaka-rāmaka-gopāla-<!-- 
+n="5"/><gap reason="lost" precision="low" quantity="20" unit="character"/><unclear cert="low">pa</unclear>viṣṇu-<unclear>deva</unclear><!-- 
+amwb : pa totally illegible, viṣṇu is clear, de unclear, va clear 
+-->śarmma-viṣṇubhadra-khāsaka-rāmaka-gopāla-<!-- 
 daba: Lielukhine says Banerji reads viṣyabhadra instead of viṣṇubhadra. 
+--><!-- 
+amwb : for me it is clearly  viṣṇu
 --><lb 
-n="6"/><gap reason="lost" precision="low" quantity="18" unit="character"/><unclear cert="low">sasu</unclear> śrībhadra-somapāla-rāmā<unclear cert="low">dyāḥ</unclear> grāmāṣṭa-kulādhikaraṇañ ca<!-- 
+n="6"/><gap reason="lost" precision="low" quantity="18" unit="character"/><unclear cert="low">sasu</unclear><!-- 
+amwb : for me sa is illegible but su is clear. This clear su allows to imagine a locative here as I suggest in my translation
+--> śrībhadra-somapāla-rāmā<unclear cert="low">dyāḥ</unclear><!-- 
+amwb : I will change the cert="low" by cert="high" for dyā ; the visarga is not readable but there is clearly the space and it is very likely that the visarga was here
+--> grāmāṣṭa-kulādhikaraṇañ ca<!-- 
+amwb : here I will note a space or a illegible akṣara at the end of the line
+--><!-- 
 daba: Bhandarkar reads Rām-ādyāḥ(?); no way to tell if the question mark is meant just for the visarga or for more. Lielukhine (Sircar?) has rāmādyaka, also with a question mark. 
 --><!-- 
 daba: Lielukhine also has °karaṇaśca at the end. 
 --><!-- 
 daba: And while we're at it, Bhandarkar's sa(?) su(?) may represent two alternatives rather than two successive characters? I can't make out anything on the photo. 
 --><lb 
-n="7"/><gap reason="lost" precision="low" quantity="15" unit="character"/>viṣṇu<unclear cert="low">nā</unclear> vijñāpitā Iha khādā<unclear cert="low">ṭa</unclear>pāra-viṣaye 'nuvr̥tta-maryyādā-sthi<unclear>ti</unclear>-<!-- 
+n="7"/><gap reason="lost" precision="low" quantity="15" unit="character"/>viṣṇu<unclear cert="low">nā</unclear><!-- 
+amwb : for viṣṇu<unclear cert="low">nā</unclear>, i am able to read v <unclear cert="medium">ṣṇu</unclear><unclear cert="low">ṇā</unclear>. It seems my reading confirms daba's conjecture about the original 
+--> vijñāpitā<!-- 
+amwb : I will add a space before Iha
+--> Iha khādā<unclear cert="low">ṭa</unclear>pāra-viṣaye 'nuvr̥tta-maryyādā-sthi<unclear>ti</unclear>-<!-- 
+amwb : ti is illegible for me
+--><!-- 
 daba: again, the ? after viṣṇunā may refer to more than just the nā. Lielukhine also has ṇā in brackets with a question mark, probably meaning that the original text may have ṇā. 
 --><!-- 
 daba: Lielukhine says Banerji read mahākhuṣāpāra instead of khādā(?ṭa)pāra. 
 --><lb 
 n="8"/><gap reason="lost" precision="low" quantity="15" unit="character"/>nīvī-dharmma-kṣayeṇa labhya<unclear>te</unclear><!-- 
+amwb : te is totally illegible for me
+--><!-- 
 daba: Sircar reads nīvīdharmmākṣayeṇa rather than kṣayeṇa; Bhandarkar mentions his interpretation of kṣaya in his introduction of this inscr. 
 --><!-- 
 amwb : checking Sircar, he notes nīvīdharmmakṣayeṇa in his edition p.281 and suggests in brackets (kkra) and in note 3 dharmātkrayeṇa--></p>
-<p><unclear>ta</unclear>d arhatha mamādyānenaiva kkrame<choice><sic>n</sic><corr>ṇ</corr></choice>a dā<unclear>tuṁ</unclear>
+<p><unclear>ta</unclear><!-- 
+amwb: ta is totally illegible as the te before but I can confirm that there is the place for two ak.saras
+-->d arhatha mamādyānenaiva kkrame<choice><sic>n</sic><corr>ṇ</corr></choice>a dā<unclear>tuṁ</unclear>
 <lb 
-n="9"/><gap reason="lost" precision="low" quantity="14" unit="character"/>samety<unclear cert="low">ā</unclear>bhihitai<unclear cert="low">ḥ</unclear> sarvvam eva <unclear cert="low">jñā</unclear>kara-prative<unclear cert="low">śi</unclear>-kuṭumbibhir avasthāpya ka<!-- 
+n="9"/><gap reason="lost" precision="low" quantity="14" unit="character"/>samety<unclear cert="low">ā</unclear><!-- 
+amwb : for me <unclear cert="low">same</unclear>ty<unclear cert="low">ā</unclear> 
+-->bhihitai<unclear cert="low">ḥ</unclear> sarvvam eva <unclear cert="low">jñā</unclear><!-- 
+amwb : jñā is really not clear but after it and before kara it seems to me there is another ak.sara nra or kta? 
+-->kara-prative<unclear cert="low">śi</unclear>-kuṭumbibhir avasthāpya ka<!-- 
+amwb : my reading for sthāpya ka is s<supplied reason="lost">thā</supplied>p<supplied reason="lost">pya ka</supplied>
+--><!-- 
 daba: Sircar restores Bhandarkar's (jñā?)kara as kṣetrakara. 
 --><lb 
-n="10" break="no"/><gap reason="lost" precision="low" quantity="14" unit="character"/>ri <gap reason="illegible" precision="low" quantity="1" unit="character"/> kana <gap reason="illegible" precision="low" quantity="1" unit="character"/> yad ito <gap reason="illegible" precision="low" quantity="2" unit="character"/> <unclear>ta</unclear>d avadhr̥tam iti yatas tatheti pratipādya
+n="10" break="no"/><gap reason="lost" precision="low" quantity="14" unit="character"/>ri <gap reason="illegible" precision="low" quantity="1" unit="character"/> kana <gap reason="illegible" precision="low" quantity="1" unit="character"/> yad ito <gap reason="illegible" precision="low" quantity="2" unit="character"/> <unclear>ta</unclear>d avadhr̥tam iti<!-- 
+amwb : I will add a space
+--> yatas tatheti pratipādya
 <lb 
-n="11"/><gap reason="lost" precision="low" quantity="11" unit="character"/> <supplied reason="lost">aṣṭaka-na</supplied>vaka-nalā<unclear>bhyā</unclear>m apaviñchya kṣetra-kulya-vāpam ekaṁ dattaṁ tataḥ Āyuktaka-
+n="11"/><gap reason="lost" precision="low" quantity="11" unit="character"/> <supplied reason="lost">aṣṭaka-na</supplied>vaka-nalā<unclear>bhyā</unclear>m apaviñchya kṣetra<!-- 
+amwb : kṣetra seems to be very likely in the context but is illegible for me... Maybe add a supplied. In the editio princeps there the word is not illegible. It seems to me that ksetra is a conjecture introduced by Basak? 
+-->-kulya-vāpam ekaṁ dattaṁ tataḥ Āyuktaka-<!-- 
+amwb : the two ṁ in ekaṁ dattaṁ are illegible for me
+-->
 <lb 
 n="12"/><gap reason="lost" precision="low" quantity="14" unit="character"/><unclear cert="low">bhrā</unclear>tr̥-kaṭaka-vāstavya-chandoga-brāhmaṇa-varāhasvāmino dattaṁ taddha<unclear cert="low">va</unclear><!-- 
-amwb : Sircar p.281 note 7 suggests a restoration (probably of the beginning gap) : bhavadbhiḥ sarvairevānumodyānupālanīyaṃ
+amwb : for taddha<unclear cert="low">va</unclear>, I read taddha or tadva and no va after 
+amwb : Sircar p.281 note 7 suggests a restoration for the end of the line and the beginning of the following : bhavadbhiḥ sarvairevānumodyānupālanīyaṃ
 --><lb 
 n="13" break="no"/><gap reason="lost" precision="low" quantity="16" unit="character"/>bhūmyā dā<unclear>nākṣe</unclear>pe ca guṇāguṇam anucintya śarīra-k<unclear>ā</unclear>ñcanakasya ci<lb 
 n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap reason="lost" precision="low" quantity="10" unit="character"/> <seg type="component" subtype="consonant"><gap reason="illegible" quantity="1" unit="component"/></seg>ā<!-- 
@@ -133,11 +178,15 @@ daba: ā after the lacuna is only found in Bhandarkar. I assume he saw a diacrit
 <l n="a">svadattām para-dattām vā</l>
 <l n="b"><lb n="15"/><supplied reason="lost">yo hareta vasundharām</supplied></l>
 <l n="c"><supplied reason="lost">sa viṣṭhāyāṁ kr̥mir bhūtvā</supplied></l>
-<l n="d"><supplied reason="lost">pitr̥</supplied><unclear>bhiḥ</unclear> saha pacyate</l>
+<l n="d"><supplied reason="lost">pitr̥</supplied><unclear>bhiḥ</unclear> saha pacyate<!-- 
+amwb : I read pacyati as Bandyopadhyaya1909 I compared with modati in the same line and it is clearly ti 
+--></l>
 </lg>
 <lg n="2" met="anuṣṭubh">
 <l n="a">ṣaṣṭiṁ varṣa-sahasrā<choice><sic>n</sic><corr>ṇ</corr></choice>i</l>
-<l n="b">svargge modati <unclear>bhū</unclear>midaḥ</l>
+<l n="b">svargge modati <unclear>bhū</unclear><!-- 
+amwb : supplied lost for me
+-->midaḥ</l>
 <l n="c"><lb n="16"/><supplied reason="lost">Ākṣeptā cānumantā ca</supplied></l>
 <l n="d"><supplied reason="lost">tāny eva narake vaset</supplied></l>
 </lg>
@@ -147,10 +196,12 @@ daba: ā after the lacuna is only found in Bhandarkar. I assume he saw a diacrit
 <l n="c">mahīṁ <unclear>mahī</unclear><supplied reason="lost">matāñ cchreṣṭha</supplied></l>
 <l n="d"><lb n="17"/><supplied reason="lost">dānāc chreyo 'nupālanam</supplied></l>
 </lg>
-<p><gap reason="lost" precision="low" quantity="10" unit="character"/>ya<unclear>ṁ</unclear> <unclear cert="low">su</unclear>śrībhadrena Utkīrṇṇaṁ sthambheśvaradāse<unclear>na</unclear> <gap reason="lost" precision="low" quantity="5" unit="character"/><!-- 
+<p><gap reason="lost" precision="low" quantity="10" unit="character"/>ya<unclear>ṁ</unclear> <unclear cert="low">su</unclear>śrībhadrena Utkīrṇṇaṁ sthambheśvaradāse<unclear>na</unclear><!-- 
+amwb : I read sthaṇnaśvaradāse 
+--> <gap reason="lost" precision="low" quantity="5" unit="character"/><!-- 
 daba: Sircar restores the lacuna as likhitā paṭṭikeyaṁ amātyabhadreṇa (Bhadra as the name, not preceding the other -bhadra). He also says traces of ka are visible before ya(ṁ). Bhandarkar follows Basak in reading suśrībhadreṇa. 
 --><!-- 
-daba: Bhandarkar corrects the other name to stambheśvara-; Sircar reports Banerji as reading sthahṇeśvara (while Lielukhine reports Basak as reading so); Agrawala reads or conjectures Sthāṇvīśvara. 
+daba: Bhandarkar corrects the other name to stambheśvara-; Sircar reports Banerji as reading sthahṇeśvara (while Lielukhine reports Basak as reading so); Agrawala reads or conjectures Sthāṇvīśvara.
 --><!-- 
 daba: note that the final 5 lost characters are only there if the line extends to the edge of the plate, but there isn't really anything else expected here 
 --></p>
@@ -515,7 +566,7 @@ n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap rea
 		</div>
 		<div type="translation" xml:lang="eng" resp="amwb"><head>Draft of translation</head>
 			<p n="1-7"><gap reason="ellipsis"/><supplied reason="lost">Success !</supplied><supplied reason="explanation"><foreign>siddhaM|</foreign></supplied> In the year one hundred exceeded by thirteen <gap reason="ellipsis"/><supplied reason="lost"> of the great king and emperor Śrī Kumāragupta whose splendour is enjoyed flowing beyond the four oceans</supplied> <supplied reason="explanation"><foreign>catur-udadhi-salilāsvādita-yaśaso mahārājādhirāja-śrī-kumāraguptasya</foreign></supplied><!-- 
-			amwb : I wrap this in supplied because the text is a hypthetical reconstruction.   
+			amwb : I wrap this in supplied because the text is a hypothetical reconstruction.   
 			-->
 			from the <gap reason="lost"/><supplied reason="lost"> Xth</supplied> day <supplied reason="lost">of the month X</supplied><supplied reason="explanation">lost of about 23 <foreign>akṣara</foreign>s at the beginning of the line 2</supplied>,<note>
 				<bibl><ptr target="bib:Sircar1942_01 bib:Sircar1965_02"/></bibl> suspects the numeral numbers of the year for the missing <foreign>akṣara</foreign>s at the beginning of the line 2. As far as I am concerned, I suggest assuming an ordinal number of the day and the name of the month, in the style of the line 1 of <ref target="DHARMA_INSBengalCharters00063.xml">Mastakaśvabhra Grant</ref>: <foreign>svasti ma<unclear>hā</unclear>rājādhirāja-śrī-pradyumnavandhor vvijayādhirājya-samvatsar<unclear>e</unclear> pañcama Āśvayuja-māsasya dvāviṁśatime divase</foreign>. It is also possible to assume a place name before the mention of the date. 
@@ -541,7 +592,7 @@ n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap rea
 							I suggest that <foreign>paramadaivatapara</foreign>- could be the beginning of a compound designated an officer 
 							appointed by the king and that the gap could be completed by something 
 							like <foreign>ma-bhaṭṭāraka-pādānuddhyātaḥ kumārāmātya-</foreign> 
-							or <foreign>ma-bhaṭṭāraka-pādānuddhyāta āyukta</foreign> followed by the name of the officer. Given the word <foreign>āyukta</foreign> appears in line 11, I choose this word in my proposition of translation.
+							or <foreign>ma-bhaṭṭāraka-pādānuddhyāta āyukta</foreign> followed by the name of the officer. Given the word <foreign>āyukta</foreign> appears in line 11, I choose this word in my proposition of translation.  
 			</note> and the council composed of the nobles of the eight villages <supplied reason="explanation"><foreign>grāmāṣṭakulādhiraṇañ ca</foreign></supplied> Śrībhadra, Somapāla, Rāma and others <supplied reason="explanation">śrībhadra-somapāla-rāmā<unclear cert="low">dyāḥ</unclear></supplied>
 <gap reason="lost"/><supplied reason="lost">greet and inform</supplied> <supplied reason="explanation"><foreign>kuśalam anuvarṇya bodhayanti</foreign></supplied><note>
 					For the 15 missing <foreign>akṣara</foreign>s at the beginning of the line 7, I suggest assuming the expression <foreign>kuśalam anuvarṇya bodhayanti</foreign>. In support of this assumption, one can compare it with these seven following examples, which are all contemporary with the present inscription :
@@ -550,17 +601,17 @@ n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap rea
 						<item><ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter</ref>, lines 2-3 : <foreign>kuśalam āśāsya bodhayanti</foreign></item>
 						<item><ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>, line 2 : <foreign>bodhayanti</foreign></item>
 						<item><ref target="DHARMA_INSBengalCharters00049.xml">Baigram Charter</ref>, lines 2-3 : <foreign> kuśalam anuvarṇya bodhayanti</foreign></item>
-						<item><ref target="DHARMA_INSBengalCharters00054.xml">Nadapur Plate</ref>, line 2  : <foreign>kuśalam anuvarṇṇya bodhayanti</foreign></item>
+						<item><ref target="DHARMA_INSBengalCharters00054.xml">Nandapur Plate</ref>, line 2  : <foreign>kuśalam anuvarṇṇya bodhayanti</foreign></item>
 						<item><ref target="DHARMA_INSBengalCharters00055.xml">grant of land to monasteries at Śiṣīpuñja, Madhyamasṛgālikā and Grāmakūṭagohālī</ref>, line 3 : <foreign>kuśalam uk<supplied reason="lost">tvānu</supplied><unclear>bo</unclear>dhayanti </foreign></item>
 						<item><ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>, line 2 : <foreign>k<unclear>u</unclear><supplied reason="lost">śa</supplied><unclear>la</unclear>m uktvā bodhayanti</foreign></item>
 					</list>
-				</note> the householder <gap reason="lost" unit="character" quantity="3"/><supplied reason="explanation">named X</supplied><note>
-					One may suppose that the 3 missing <foreign>akṣara</foreign>s were the name of the househoulder. Nevertheless the reading found in the <title>editio princeps</title> (<bibl><ptr target="bib:Bandyopadhyaya1909_"/></bibl>) invites us to be cautious and check carefully the photo because a compound having both kṣudra and kuṭumbhi inside is very likely when comparing the present line with lines 2 of <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>, 6 of <ref target="DHARMA_INSBengalCharters00051.xml">Tāvīra</ref> and 2 of <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>.
+				</note> the householder <gap reason="lost" unit="character" quantity="3"/><supplied reason="explanation">line 3</supplied> <supplied reason="explanation">named X</supplied><note>
+					One may suppose that the 3 missing <foreign>akṣara</foreign>s in line 3 following <foreign>kuṭumbi</foreign> were the name of the househoulder. The reading found in the <title>editio princeps</title> <supplied reason="explanation"><bibl><ptr target="bib:Bandyopadhyaya1909_"/></bibl></supplied> is quite difficult to interpret. Indeed, according to his introduction, <bibl><ptr target="bib:Bandyopadhyaya1909_"/></bibl> had taken photos of plate before it lost some of its fragments, which occured during its display at the Calcutta Industrial Exhibition in 1906-7. From his reading <foreign>kṣudra <supplied reason="lost">ka nivāsinaḥ</supplied> brāhmaṇa</foreign>, it is not clear if <foreign>kṣudra</foreign> corresponds to what others read as <foreign>kuṭu</foreign>. From the photo I have at my disposal, I read <foreign><unclear cert="high">dra</unclear>kaṭu<unclear cert="low">mb</unclear><gap reason="lost" unit="character" quantity="3"/>brāhmaṇa</foreign>. Therefore we have to be cautious because a compound having both <foreign>kṣudra</foreign> and <foreign>kuṭumbi</foreign> inside is very likely when comparing the present line with lines 2 of <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>, 6 of <ref target="DHARMA_INSBengalCharters00051.xml">Tāvīra</ref> and 2 of <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>. 
 				</note> and the brahmins Śivaśarman, Nāgaśarman, Maha<gap reason="lost" quantity="18" unit="character"/>, <gap reason="lost" quantity="1" unit="character"/>vakīrtti, Kṣemadatta,<note>
 					<bibl><ptr target="bib:Bandyopadhyaya1909_"/></bibl> reads Kṣamavanta.
 				</note> Goṣṭhaka, Vargapāla, Piṅgala, Śuṅkuka, Kāla<gap reason="lost" unit="character" extent="unknown"/>, <gap reason="lost" unit="character" extent="unknown"/>paviṣṇu, Devaśarman, Viṣṇubhadra, Khāsaka, Rāmaka, Gopāla, <gap reason="lost" quantity="18" unit="character"/><supplied reason="explanation">line 6</supplied> <gap reason="ellipsis"/><supplied reason="lost">residing in</supplied><supplied reason="explanation"><foreign>sasu</foreign></supplied><note>
 					Maybe we have to emend <foreign>sāsu</foreign> for a feminine plural locative ? 
-					It would be logical to have the names of the eight villages mentionned by the expression <foreign>grāmāṣṭakulādhiraṇañ ca</foreign> (line 6). 
+					It would be logical to have the names of the eight villages mentionned by the expression <foreign>grāmāṣṭakulādhiraṇañ ca</foreign> at the beginning of the line 6. 
 				</note> </p>
 			<p n="7">
 				<gap reason="ellipsis"/><supplied reason="explanation">4 last missing <foreign>akṣara</foreign>s at the beginning of the line 7</supplied>viṣṇu petition as follows :
@@ -627,6 +678,11 @@ n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap rea
 				<bibl n="DSC1"><ptr target="bib:Sircar1942_01"/><citedRange unit="page">280-2</citedRange></bibl>
 				<bibl n="DSC2"><ptr target="bib:Sircar1965_02"/><citedRange unit="page">287-9</citedRange></bibl>
 				<bibl n="PKA"><ptr target="bib:Agrawala1983_02"/><citedRange unit="page">36-8</citedRange></bibl>
+				<bibl n="DB"><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00023</citedRange></bibl>
+				<!--
+amwb : first possibility <bibl n="DB"><ptr target="bib:SIDDHAM00023"/></bibl>
+awaiting a download of XML files on zenodo ; add the reference when available
+-->
 			</listBibl>
 			<listBibl type="secondary">
 				<bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="page">172</citedRange><citedRange unit="entry">1267</citedRange></bibl>
