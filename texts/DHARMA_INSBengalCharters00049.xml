@@ -272,7 +272,7 @@ amwb : add abbr
 				<app loc="11">
 					<lem>astīha-<!-- 
 amwb: replace a space by an hyphen-->viṣaye<!-- amwb: removed the <unclear>e</unclear> --></lem>
-					<rdg source="bib:siddham">astīha viṣay<unclear>e</unclear></rdg><!-- amwb : here Arlo's reading is different from siddham, how to note this? -->
+					<rdg source="bib:Balogh+al2019_01">astīha viṣay<unclear>e</unclear></rdg><!-- amwb : here Arlo's reading is different from siddham, how to note this? -->
 				</app>
 				<app loc="11">
 					<lem>-kṣettrāṇā<supplied reason="omitted">ṁ</supplied></lem>
@@ -296,7 +296,7 @@ amwb: replace a space by an hyphen-->viṣaye<!-- amwb: removed the <unclear>e</
 				</app>
 				<app loc="15">
 					<lem>tala-v<choice><sic>a</sic><corr>ā</corr></choice>ṭakādy-artthaM</lem>
-					<rdg source="bib:siddham">tala-vāṭakādy-artthaM</rdg>
+					<rdg source="bib:Balogh+al2019_01">tala-vāṭakādy-artthaM</rdg>
 					<note>Correct <foreign>talavāṭakādyarttham</foreign>, as <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads.</note>
 				</app>
 				<app loc="16">
@@ -305,7 +305,7 @@ amwb: replace a space by an hyphen-->viṣaye<!-- amwb: removed the <unclear>e</
 				</app>
 				<app loc="16">
 					<lem>atraiva</lem>
-					<rdg source="bib:siddham">atr<choice><sic>ī</sic><corr>ai</corr></choice>va</rdg><!-- amwb : add source for siddham -->
+					<rdg source="bib:Balogh+al2019_01">atr<choice><sic>ī</sic><corr>ai</corr></choice>va</rdg><!-- amwb : add source for siddham -->
 				</app>
 				<app loc="16">
 					<lem>sthal<choice><sic>i</sic><corr>a</corr></choice>-v<choice><sic>a</sic><corr>ā</corr></choice>stuno</lem>
@@ -314,7 +314,7 @@ amwb: replace a space by an hyphen-->viṣaye<!-- amwb: removed the <unclear>e</
 				</app>
 				<app loc="16">
 					<lem>-vāpa<lb n="17" break="no"/><choice><sic>p</sic><corr>m</corr></choice></lem>
-					<rdg source="bib:siddham bib:Basak1931-1932_01">-vāpam</rdg><!-- amwb: bib siddham rb to be encoded ! -->
+					<rdg source="bib:Balogh+al2019_01 bib:Basak1931-1932_01">-vāpam</rdg><!-- amwb: bib siddham rb to be encoded ! -->
 					<note>See note on line 9.</note>
 				</app>
 				<app loc="17">

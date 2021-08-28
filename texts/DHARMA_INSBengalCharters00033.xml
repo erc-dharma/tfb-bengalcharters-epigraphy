@@ -452,7 +452,7 @@ n="2" break="no"/>kāyāṁ</lem>
 				</app>
 				<app loc="8">
 					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">somaviṣṇu-</lem>
-					<rdg source="bib:SIDDHAM">s<unclear>o</unclear>maviṣṇu-</rdg>
+					<rdg source="bib:Balogh+al2019_01">s<unclear>o</unclear>maviṣṇu-</rdg>
 				</app>
 				<app loc="8">
 					<lem>śar<unclear>mma</unclear>-kānti-dhovvoka-kṣemaśar<unclear>mma</unclear>-</lem>
@@ -474,7 +474,7 @@ n="2" break="no"/>kāyāṁ</lem>
 				</app>
 				<app loc="10">
 					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">si<sic>ṅ</sic>hatta-</lem>
-					<note><bibl><ptr source="bib:Sircar1943_02"/> and </bibl><bibl><ptr source="bib:Sanyal1955-1956_01"/></bibl> both emend <foreign>siṁhadatta</foreign>.</note>
+					<note><bibl><ptr target="bib:Sircar1943_02"/> and </bibl><bibl><ptr target="bib:Sanyal1955-1956_01"/></bibl> both emend <foreign>siṁhadatta</foreign>.</note>
 				</app>
 				<app loc="10">
 					<lem>-yaśoviṣṇu-ṭakkakuladāma<gap reason="illegible"/>va-</lem>
