@@ -603,7 +603,7 @@ n="21" break="no"/>dyāṁ</rdg>
 				<app loc="21">
 					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">-veṣṭi<unclear>ta</unclear><lb 
 n="22" break="no"/><sic>m</sic>-uttar<unclear>e</unclear>ṇa</lem>
-					<note>Read -<foreign>veṣṭita uttareṇa</foreign>, already suggested by <bibl><ptr source="bib:Sircar1943_02"/></bibl>.</note>
+					<note>Read -<foreign>veṣṭita uttareṇa</foreign>, already suggested by <bibl><ptr target="bib:Sircar1943_02"/></bibl>.</note>
 				</app>
 				<app loc="21">
 					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">parikhā-veṣṭita</lem>
