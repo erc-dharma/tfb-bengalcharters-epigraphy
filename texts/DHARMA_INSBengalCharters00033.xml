@@ -71,10 +71,9 @@ amwb : replaced IN00074 by filename dharma
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
+			<change who="part:amwb" when="2021-08-16" status="draft">Creation of the apparatus by comparing the edition with two previous editions, ie. Sircar1943_02 Sanyal1955-1956_01, and by including Arlo's reading of the Plate and start of the translation of the Plate.</change>
+			<change who="part:amwb" when="2021-07-20" status="draft">Import of Siddham file IN00061 and started initial encoding with Arlo's remarks.</change>
 			<change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment).. Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>
-			<change who="part:amwb" when="2021-07-20" status="draft">Import of Siddham file IN00061 and started initial encoding with Arlo's remarks </change>
-			<change who="part:amwb" when="2021-08-16">Creation of the apparatus by comparing the edition with two previous editions, ie. Sircar1943_02 Sanyal1955-1956_01, and by including Arlo's reading of the Plate.</change>
-			<change who="part:amwb" when="2021-08-16" status="draft">Translation of the Plate.</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -93,6 +92,7 @@ amwb : replaced Āyuktakā<unclear>cyuta</unclear>dās<unclear>o</unclear> 'dh<s
 + added in the apparatus the two different readings from DCS and NBS
 --> ca hastiśīrṣe <unclear>vibhītak</unclear>y<unclear>āṁ gulmagandhi</unclear><!-- 
 amwb : replaced  ha</unclear>stiśīrṣe <unclear>vibhītak</unclear>y<unclear>āṁ gulmagandhi</unclear>kā<unclear>yā</unclear>ṁ by Arlo's reading
+amwb : e is clear in hastiśīrṣe
 --><lb 
 n="2" break="no"/>kāyāṁ dhānyapāṭalikāyāṁ<!-- 
 amwb : replaced <unclear>dhā</unclear>nyapāṭalikāyāṁ by Arlo's reading.
@@ -219,13 +219,13 @@ daba siddham : The gā in bhogāya is funny. The character was obviously intende
 amwb : I added DCS and NBS readings in app 	
 --><lb 
 n="19" break="no"/>rikya-kulya-<choice><sic>b</sic><corr>v</corr></choice>āpa-vikkrayo 'nuvr̥ttas tad dīyatāṁ nāsti virodhaḥ<!-- 
-amwb : it seems there is a visarga after vi ? See photo
+amwb : it seems there is a visarga after vi ? See photo virodhaḥ or viḥrodhaḥ l19.png
 --> kaścid<supplied reason="subaudible">.</supplied> ity avasthāpya kulika-bhīmādibhyo Aṣṭāda<unclear>śa</unclear><!-- 
 amwb : I replaced Aṣṭādaśa by Arlo's reading and added different readings in app
 -->
 <lb 
 n="20"/>dīnārān upasa<sic>ṅ</sic>haritakān<!-- 
-amwb : I am not sur of the i in sa<sic>ṅ</sic>harita maybe sa<sic>ṅ</sic>harīta or sa<sic>ṅ</sic>haraita, see photo
+amwb : I am not sure of the i in sa<sic>ṅ</sic>harita maybe sa<sic>ṅ</sic>harīta or sa<sic>ṅ</sic>haraita, see photo saṅharita or saṅha =rī =rai= ta ? l20.png
 --> āyīkr̥tya hastiśīrṣa-vibhītakyāṁ dhānyapāṭalikā-<unclear>gu</unclear><supplied reason="lost">lma</supplied><unclear>ga</unclear>ndhikā<!-- 
 amwb : I replaced kā-<unclear>gu</unclear><unclear reason="illegible">lma</unclear><unclear>ga</unclear>ndhikā by Arlo's reading and added diferetn readings in app
 -->-grāmeṣu khanī<gap reason="illegible" quantity="2" unit="character"/><!-- 
@@ -781,10 +781,14 @@ Indeed <bibl><ptr target="bib:Sanyal1955-1956_01"/><citedRange unit="page">58-9<
 			<p n="2-12">
 				It will be known by you that the artisan <supplied reason="explanation"><foreign>kulika</foreign></supplied> Bhīma, the scribes <supplied reason="explanation"><foreign>kāyastha</foreign></supplied> Prabhucandra, Rudradāsa, Devadatta, Lakṣmaṇa, Kāntideva, Śambhudatta, Kṛṣṇadāsa, the keeper-records <supplied reason="explanation"><foreign>pustapāla</foreign></supplied> Siṁhanandin and Yaśodāman, all belonging to this territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>, preceded by the territory-chiefs <supplied reason="explanation"><foreign>vīthīmahattara</foreign></supplied> Kumāradeva, Gaṇḍaprajāpati, Umayaśas, Rāmaśarman, Jyeṣṭhadāman, Svāmicandra and Harisiṁha, preceded by the peasant householders <supplied reason="explanation"><foreign>kuṭumbi</foreign></supplied> Yaśoviṣṇu, Kumāraviṣṇu, Kumārabhava, Kumārabhūti, Kumāra, Yaśagupta, Vailinaka, Śivakuṇḍa, Vasuśiva, Aparaśiva, Dāmarudra, Prabhamitra, Kṛṣṇamitra, Maghaśarman, Iśvaracandra, Rudrabhava, Svāmideva, Śrīnātha, Hariśarman, Guptaśarman, Suśarman, Hari, Alātasvāmin, Brahmasvāmin, Mahāsenabhaṭṭa, Ṣaṣṭhirāta, Gu _ _ _, _ _ śarman, Uṇṭaśarman, Kṛṣṇadatta, Nandadāman, Bhavadatta, Ahiśarman, Somaviṣṇu, Lakṣmaṇaśarman, Kāntidhovvoka, Kṣemaśarman, Śukraśarman, Sarppapālita, Kaṅkuṭi, Viśvaśaṅkara, Jayasvāmin, Kaivarttaśarman, Himaśarman, Purandara, Jayaviṣṇu, Uma. . . ,<!-- 
 Check the quantity of the gap
+amwb 2021-08-30: probably a loss of two ak.saras
 				--> Siṁhatta, Bonda, Nārāyanadāsa, Vīranāga, Rājyanāga, Guhamahi, Bhavanātha, Guhaviṣṇu, Śarva, Yaśoviṣṇu, Ṭakkakuladāma . . . . va,<!-- 
 Check the quantity of the gap and maybe suppose two names (the end of Ṭakkakuladāma.., ...va,)
+amwb 2021-08-30: probably a loss of only one
 				-->
-				Śrīguhaviṣṇu,Rāmasvāmin, Kāmanakuṇḍa, Ratibhadra, Acyutabhadra, Loḍhaka, Prabhukīrti, Jayadatta, Kāluka, Acyuta, Naradeva, Bhava, Bhavarakṣita, Piccakuṇḍa, Pravarakuṇḍa, Śarvadāsa and Gopāla, inform us :
+				Śrīguhaviṣṇu, Rāmasvāmin, Kāmanakuṇḍa, Ratibhadra, Acyutabhadra, Loḍhaka, Prabhukīrti,<!-- 
+amwb : change in prabhakīrti if my reading is corret
+--> Jayadatta, Kāluka, Acyuta, Naradeva, Bhava, Bhavarakṣita, Piccakuṇḍa, Pravarakuṇḍa, Śarvadāsa and Gopāla, inform us :
 			</p>
 			<p n="12-15">
 				In accordance of the rule allowable in this territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied> that the sale of one <foreign>kulyavāpa</foreign> of waste land in exchange of two <foreign>dīnāra</foreign>s is used for a permanent endowment of a waste land without revenue charges to be enjoyed in perpetuity,<!-- 
@@ -824,7 +828,7 @@ I translate the instrumental akṣayanīvyā by the expression 'is used for' and
 			<p n="27-28">Thus <supplied reason="explanation">tad</supplied>, it is known <supplied reason="explanation">nivedyate?</supplied> through our <supplied reason="lost">request?</supplied> and it is written : these nine <foreign>kulyavāpa</foreign> are given to these three recipients for the performance of the five great sacrifices.</p>
 			<p n="28-29">Those who <supplied reason="explanation">live</supplied> in the present time <supplied reason="explanation">samupasthita-kālaṁ</supplied>, ie. the district officers <supplied reason="explanation">viṣayapati</supplied>, the officers, the peasant householders, the council members and the others who in the near future will be administrating <supplied reason="explanation">this land</supplied>,<note>
 				The lines 28-29 are really close to the lines 22-24 of <ref target="DHARMA_INSBengalCharters00034.xml">the Jagadispur Charter of the Time of Kumāragupta I</ref>.
-			</note> after considering the benefits of land donation, will have to protect <supplied reason="explanation">this land</supplied> as a permanent endowment.</p>
+			</note> after considering <supplied reason="explanation"><foreign>avekṣya</foreign></supplied> the benefits of land donation, will have to protect <supplied reason="explanation">this land</supplied> as a permanent endowment.</p>
 			<p n="29-30">And the venerable Vyāsa said in the <title>Mahābhārata</title>:</p>
 			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors.</p>
 			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>

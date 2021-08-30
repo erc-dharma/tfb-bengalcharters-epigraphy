@@ -67,8 +67,8 @@ amwb : replaced IN00044 by dharma file name
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment).. Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>
 			<change who="part:amwb" when="2021-08-27">Encoding the bibliography and creation of the apparatus by comparing the edition with Basak1919-1920_01, Sircar1965_02</change>
+			<change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment).. Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
