@@ -5,8 +5,10 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Dhanaidaha Charter of Kumāragupta I</title>
-				<!-- argr2amwb: for an item named after a modern provenance, avoid text type ("charter") but opt rather for object type ("plate"). Also, as this is not a royal inscription, we should not say "of Kumāragupta I"  but "of the time of Kumāragupta I" — see the discussion of inscription naming in EGD. Once we've settled on a good name (this can also be discussed by email with Ryosuke), we should adjust the name in the spreadsheet too. -->
+				<title>Dhanaidaha Plate, Year 113 GE</title>
+				<!-- argr2amwb: for an item named after a modern provenance, avoid text type ("charter") but opt rather for object type ("plate"). Also, as this is not a royal inscription, we should not say "of Kumāragupta I"  but "of the time of Kumāragupta I" — see the discussion of inscription naming in EGD. Once we've settled on a good name (this can also be discussed by email with Ryosuke), we should adjust the name in the spreadsheet too. --><!-- 
+amwb2argr : I changed the title according to the spreadsheet. The error was mine, I hadn't checked the spreadsheet...
+-->
 			<respStmt>
 					<resp>Original EpiDoc Encoding for Siddham</resp>
 					<persName ref="part:daba">
@@ -32,6 +34,13 @@
 					<persName ref="part:daba">
 						<forename>Dániel</forename>
 						<surname>Balogh</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of apparatus and translation</resp>
+					<persName ref="part:amwb">
+						<forename>Amandine</forename>
+						<surname>Wattelier-Bricout</surname>
 					</persName>
 <!-- argr2amwb: since you will be furnishing a translation, your name must be mentioned here too, perhaps with a separate <resp> for translation -->
 				</respStmt>
@@ -71,6 +80,8 @@ amwb: siddham idno IN00023
 		<revisionDesc>
 <!-- argr2amwb: it is important at least to mark a <change> entry each for the start and end dates of your encoding (and translation) work -->
 			<change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment). Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>
+			<change who="part:amwb" when="2021-08-19">Creation of the apparatus by comparing the edition with four previous editions, ie. Bandyopadhyaya1909_01, Basak1923-1924_01, Sircar1942_01, Sircar1965_02.</change>
+			<change who="part:amwb" when="2021-08-24" status="draft">Translation of the plate.</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">

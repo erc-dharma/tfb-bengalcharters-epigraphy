@@ -68,6 +68,7 @@ amwb : replaced IN00044 by dharma file name
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment).. Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>
+			<change who="part:amwb" when="2021-08-27">Encoding the bibliography and creation of the apparatus by comparing the edition with Basak1919-1920_01, Sircar1965_02</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -135,6 +136,9 @@ n="11"/><unclear>deyam etad-u</unclear>ttara-kālaṁ saṁvyavahāribhir ddharm
 <ab>iti</ab>
 			</div>
 				<div type="apparatus">
+					<app loc="1">
+						<lem source="bib:Balogh+al2019_01"><unclear reason="illegible">saṁ</unclear> <num value="163"><unclear reason="illegible"><g type="numeral">100</g></unclear> <unclear><g type="numeral">60</g></unclear> 3</num></lem>
+					</app>
 			<listApp>
 				<app loc="line">
 				<lem></lem>
@@ -149,16 +153,17 @@ n="11"/><unclear>deyam etad-u</unclear>ttara-kālaṁ saṁvyavahāribhir ddharm
 		<div type="bibliography">
 			<p></p>
 			<listBibl type="primary">
-				<bibl n="RB"><ptr target="bib:Basak1919-1920_01"/><citedRange unit="page"></citedRange></bibl>
+				<bibl n="RB"><ptr target="bib:Basak1919-1920_01"/><citedRange unit="page">134-7</citedRange></bibl>
 				<bibl><ptr target="bib:Ritti1971_01"/><citedRange unit="page">475-96</citedRange></bibl><!-- 
 					amwb : the short title in Zotero is somewhat strange for the book : Basak, Radhagovinda. (1925). Land-Sale Documents of Ancient Bengal. In: Sir Asutosh Mookerjee Silver Jubilee Volumes, Vol. III. Orientalia — Part 2. Calcutta: Calcutta University.
 				-->
 				<bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="page">175</citedRange><citedRange unit="entry">1286</citedRange></bibl>
+				<bibl><ptr target="bib:Pandey1962_01"/><citedRange unit="page">104-5</citedRange></bibl>
 				<bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">332-4</citedRange><citedRange unit="entry">34</citedRange></bibl>
 				<bibl><ptr target="bib:Bhandarkar1981_01"/><citedRange unit="page">335-9</citedRange><citedRange unit="entry">38</citedRange></bibl>
 				<bibl><ptr target="bib:Agrawala1983_02"/><citedRange unit="entry">52</citedRange></bibl>
 				<bibl><ptr target="bib:Goyal1993_01"/><citedRange unit="page">284-7</citedRange></bibl>
-				<bibl n="DB"><ptr target="bib:bib:Balogh+al2019_01"/><citedRange unit="item">IN00044</citedRange></bibl>
+				<bibl n="DB"><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00044</citedRange></bibl>
 			</listBibl>
 			<listBibl type="secondary">
 				<bibl n="siglum"/>

@@ -73,6 +73,8 @@ amwb : replaced IN00074 by filename dharma
 		<revisionDesc>
 			<change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment).. Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>
 			<change who="part:amwb" when="2021-07-20" status="draft">Import of Siddham file IN00061 and started initial encoding with Arlo's remarks </change>
+			<change who="part:amwb" when="2021-08-16">Creation of the apparatus by comparing the edition with two previous editions, ie. Sircar1943_02 Sanyal1955-1956_01, and by including Arlo's reading of the Plate.</change>
+			<change who="part:amwb" when="2021-08-16" status="draft">Translation of the Plate.</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -93,7 +95,8 @@ amwb : replaced Āyuktakā<unclear>cyuta</unclear>dās<unclear>o</unclear> 'dh<s
 amwb : replaced  ha</unclear>stiśīrṣe <unclear>vibhītak</unclear>y<unclear>āṁ gulmagandhi</unclear>kā<unclear>yā</unclear>ṁ by Arlo's reading
 --><lb 
 n="2" break="no"/>kāyāṁ dhānyapāṭalikāyāṁ<!-- 
-amwb : replaced <unclear>dhā</unclear>nyapāṭalikāyāṁ by Arlo's reading.--> saṁgohāl<sic>i</sic>ṣu<!-- 
+amwb : replaced <unclear>dhā</unclear>nyapāṭalikāyāṁ by Arlo's reading.
+--> saṁgohāl<sic>i</sic>ṣu<!-- 
 amwb : replaced sa<unclear>ṁ</unclear>gohāl<sic>i</sic>ṣu by Arlo's reading 
 --> brāhmaṇādīn grāma-k<unclear>u</unclear>ṭumbina<unclear>ḥ k</unclear>uśalam<!-- 
 amwb: I replaced kuṭumbi<unclear reason="illegible">naḥ k</unclear>uśalam by Arlo's reading
