@@ -71,6 +71,7 @@ amwb : replaced IN00074 by filename dharma
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
+			<change who="part:amwb" when="2021-08-31" status="draft">Added my own readings of the plate in apparatus, but in comments.</change>
 			<change who="part:amwb" when="2021-08-16" status="draft">Creation of the apparatus by comparing the edition with two previous editions, ie. Sircar1943_02 Sanyal1955-1956_01, and by including Arlo's reading of the Plate and start of the translation of the Plate.</change>
 			<change who="part:amwb" when="2021-07-20" status="draft">Import of Siddham file IN00061 and started initial encoding with Arlo's remarks.</change>
 			<change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment).. Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>
@@ -364,6 +365,9 @@ daba siddham : Sircar and Agrawala read the date as 120. But N. B. Sanyal in Sen
 				<div type="apparatus">
 			<listApp>
 				<app loc="1">
+					<!--amwb :
+						<lem>kośikāyāḥ</lem>
+					-->
 					<lem>°koś<unclear>i</unclear>kāyāḥ</lem>
 					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">k<unclear>au</unclear>ś<unclear>i</unclear>kāyāḥ</rdg>
 					<rdg source="bib:Balogh+al2019_01">k<unclear>au</unclear>ś<unclear>i</unclear>k<unclear>ā</unclear>yāḥ</rdg>
@@ -406,10 +410,16 @@ n="2" break="no"/>kāyāṁ</lem>
 				</app>
 				<app loc="3">
 					<lem>bhaviṣyati</lem>
-					<note><bibl><ptr target="bib:bib:Sircar1943_02"/></bibl> proposes to emend this to <foreign>bhavatu</foreign>. But use of future forms in the meaning of imperative is found throughout the corpus, notably in <ref target="DHARMA_INSBengalCharters00039.xml">Mahatī-Raktamālā I</ref>.</note><!-- 
+					<note><bibl><ptr target="bib:Sircar1943_02"/></bibl> proposes to emend this to <foreign>bhavatu</foreign>. But use of future forms in the meaning of imperative is found throughout the corpus, notably in <ref target="DHARMA_INSBengalCharters00039.xml">Mahatī-Raktamālā I</ref>.</note><!-- 
 					amwb : do you refer to line 19 of this plate?
 					-->
 				</app>
+				<!--amwb : add what follows if we accept my reading 
+					<app loc="3">
+					<lem>-lakṣmmaṇa-</lem>
+					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">-lakṣmmaṇa-</rdg>
+				</app>
+				-->
 				<app loc="3">
 					<lem>-k<supplied reason="lost">āntide</supplied>va-vaśambhudatta-</lem>
 					<rdg source="bib:Sircar1943_02">-kā<gap reason="illegible" unit="character" quantity="2"/><supplied reason="lost" cert="low">vinayada</supplied>vatta-</rdg>
@@ -440,6 +450,12 @@ n="2" break="no"/>kāyāṁ</lem>
 						<rdg source="bib:Balogh+al2019_01">ya<unclear cert="low">śogu</unclear>pta-vailina<unclear cert="low">ka</unclear></rdg>
 						<note><bibl><ptr target="bib:Sircar1943_02"/></bibl> suggests the alternative reading -<foreign>khilinaka</foreign>- instead of -<foreign>vailinaka</foreign>-.</note>
 				</app>
+				<!-- amwb : for me the "su" is not really clear it could be as "sa" as "su"
+					<app loc="6">
+					<lem>va<unclear>su</unclear>śivāparaśiva</lem>
+					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">vasuśivāparaśiva</rdg>
+				</app>
+				-->
 				<app loc="6">
 					<lem>-bhavasvāmi<unclear>deva</unclear>-</lem>
 					<rdg source="bib:Sircar1943_02">-bhava<gap reason="illegible" unit="character" quantity="4"/></rdg>
@@ -457,6 +473,12 @@ n="2" break="no"/>kāyāṁ</lem>
 					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">somaviṣṇu-</lem>
 					<rdg source="bib:Balogh+al2019_01">s<unclear>o</unclear>maviṣṇu-</rdg>
 				</app>
+				<!--amwb : 
+					<app loc="8">
+					<lem>-lakṣmmaṇa-</lem>
+					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">-lakṣmmaṇa-</rdg>
+				</app>
+				-->
 				<app loc="8">
 					<lem>śar<unclear>mma</unclear>-kānti-dhovvoka-kṣemaśar<unclear>mma</unclear>-</lem>
 					<rdg source="bib:Sircar1943_02">śarmma-kīrttiviṣṇu-kramaśarmma-</rdg>
@@ -494,6 +516,9 @@ n="2" break="no"/>kāyāṁ</lem>
 					<rdg source="bib:Balogh+al2019_01">-kā<unclear>ma</unclear>nakuṇḍa-</rdg>
 				</app>
 				<app loc="11">
+					<!-- 
+						amwb : I read prabha as  bib:Sircar1943_02 bib:Balogh+al2019_01
+					-->
 					<lem source="bib:Sanyal1955-1956_01">-prabhukīrtti-</lem>
 					<rdg source="bib:Sircar1943_02 bib:Balogh+al2019_01">-prabhakīrtti-</rdg>
 				</app>
@@ -516,6 +541,12 @@ n="2" break="no"/>kāyāṁ</lem>
 					<lem>-purog<unclear>ā</unclear>ḥ</lem>
 					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 Balogh+al2019_01">-purogāḥ</rdg>
 				</app>
+				<!--amwb : add this if we accept my reading 
+					<app loc="12">
+					<lem>khila-kṣettra</lem>
+					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 Balogh+al2019_01">khila-kṣetra</rdg>
+				</app>
+				-->
 				<app loc="13">
 					<lem>-kṣettra-kulya-<choice><sic>b</sic><corr>v</corr></choice>āpa-</lem>
 					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">kṣetra-kulya-<choice><sic>b</sic><corr>v</corr></choice>āpa-</rdg>
@@ -565,13 +596,20 @@ n="17" break="no"/>ny</lem>
 					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">-dvi-dīnā°</rdg>
 					<rdg source="bib:Balogh+al2019_01">-dvi-dī<unclear>nā</unclear>°</rdg>
 				</app>
+				<!--amwb : add this if we accept my reading
+					<app loc="19">
+					<lem>vi<surplus>ḥ</surplus>rodhaḥ</lem>
+					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01"></rdg>
+				</app>
+				-->
 				<app loc="19">
 					<lem>°dibhyo Aṣṭāda<unclear>śa</unclear></lem>
 					<rdg source="bib:Sircar1943_02">°di<supplied reason="lost">bhyo Aṣṭādaśa</supplied></rdg>
 					<rdg source="bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">°dibhyo Aṣṭādaśa</rdg>
 				</app>
 				<app loc="20"><!-- 
-				amwb : here it is my own emendation. Its relevance should be discussed with Arlo
+				amwb : Check the photo because I read upasa<sic>ṅ</sic>haritakān with long i or ai 
+				amwb : In the note, it is my own emendation. Its relevance should be discussed with Arlo
 				-->
 					<lem>upasa<sic>ṅ</sic>haritakān</lem>
 					<note>Emend <foreign>upasaṁhr̥takān</foreign> or <foreign>upasaṁhāritakān</foreign>? <bibl><ptr target="bib:Sircar1943_02"/><citedRange unit="page">22</citedRange></bibl>, note 23, already emends <foreign>upasaṁhr̥takān</foreign>.</note>
@@ -611,6 +649,10 @@ n="22" break="no"/><sic>m</sic>-uttar<unclear>e</unclear>ṇa</lem>
 				<app loc="21">
 					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">parikhā-veṣṭita</lem>
 					<rdg source="bib:Balogh+al2019_01"><unclear>pa</unclear>rikhā-veṣṭi<unclear>ta</unclear></rdg>
+				</app>
+				<app loc="22">
+					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">-uttareṇa</lem>
+					<rdg source="bib:Balogh+al2019_01">-uttar<unclear>e</unclear>ṇa</rdg>
 				</app>
 				<app loc="22">
 					<lem>kulya-<choice><sic>b</sic><corr>v</corr></choice>āpa<add>m</add> eko°</lem>
