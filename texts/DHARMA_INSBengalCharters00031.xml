@@ -652,19 +652,19 @@ n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap rea
 					<lem source="bib:Balogh+al2019_01"><gap reason="lost" precision="low" quantity="5" unit="character"/></lem>
 					<note>Note that the final 5 lost characters are only there if the line extends to the edge of the plate, but there isn't really anything else expected here. <bibl><ptr target="bib:Basak1923-1924_01"/></bibl>, <bibl><ptr target="bib:Sircar1942_01"/></bibl> and <bibl><ptr target="bib:Sircar1965_02"/></bibl> end the inscription without mention lost characters. <bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl> and <bibl><ptr target="bib:Agrawala1983_02"/></bibl> both note a possible lost of characters without defining its extent.</note>
 				</app>
+
 			</listApp>
-		</div>
-		<div type="translation" resp="part:amwb">
+		</div>		<div type="translation" resp="part:amwb">
 			<head xml:lang="eng">Draft of translation</head>
 			<p n="1-7"><gap reason="ellipsis"/><supplied reason="lost">Success !</supplied><supplied reason="explanation"><foreign>siddhaM|</foreign></supplied> In the year one hundred exceeded by thirteen <gap reason="ellipsis"/><supplied reason="lost"> of the great king and emperor Śrī Kumāragupta whose splendour is enjoyed flowing beyond the four oceans</supplied> <supplied reason="explanation"><foreign>catur-udadhi-salilāsvādita-yaśaso mahārājādhirāja-śrī-kumāraguptasya</foreign></supplied><!-- 
 			amwb : I wrap this in supplied because the text is a hypothetical reconstruction.   
 			-->
 			from the <gap reason="lost"/><supplied reason="lost"> Xth</supplied> day <supplied reason="lost">of the month X</supplied><supplied reason="explanation">lost of about 23 <foreign>akṣara</foreign>s at the beginning of the line 2</supplied>,<note>
-				<bibl><ptr target="bib:Sircar1942_01 bib:Sircar1965_02"/></bibl> suspects the numeral numbers of the year for the missing <foreign>akṣara</foreign>s at the beginning of the line 2. As far as I am concerned, I suggest assuming an ordinal number of the day and the name of the month, in the style of the line 1 of <ref target="DHARMA_INSBengalCharters00063.xml">Mastakaśvabhra Grant</ref>: <foreign>svasti ma<unclear>hā</unclear>rājādhirāja-śrī-pradyumnavandhor vvijayādhirājya-samvatsar<unclear>e</unclear> pañcama Āśvayuja-māsasya dvāviṁśatime divase</foreign>. It is also possible to assume a place name before the mention of the date. 
+				<bibl><ptr target="bib:Sircar1942_01"/></bibl><bibl><ptr target="bib:Sircar1965_02"/></bibl> suspects the numeral numbers of the year for the missing <foreign>akṣara</foreign>s at the beginning of the line 2. As far as I am concerned, I suggest assuming an ordinal number of the day and the name of the month, in the style of the line 1 of <ref target="DHARMA_INSBengalCharters00063.xml">Mastakaśvabhra Grant</ref>: <foreign>svasti ma<unclear>hā</unclear>rājādhirāja-śrī-pradyumnavandhor vvijayādhirājya-samvatsar<unclear>e</unclear> pañcama Āśvayuja-māsasya dvāviṁśatime divase</foreign>. It is also possible to assume a place name before the mention of the date. 
 			</note> 
 			 <gap reason="ellipsis"/><supplied reason="lost"> the officer</supplied><supplied reason="explanation"><foreign>āyukta</foreign></supplied> <gap reason="lost" unit="character" quantity="3"/><supplied reason="explanation">probably : named XXX</supplied>, <supplied reason="lost">graced by the feet of</supplied> <supplied reason="explanation"><foreign>pādānuddhyātaḥ</foreign>/<foreign>ta</foreign></supplied> the Supreme Majesty and Supreme <supplied reason="explanation"><foreign>parama-daivata-para</foreign></supplied> Lord<note>
 							In my opinion the two hypothetical reconstructions in line 1 and line 3 suggested by Daniel Balogh following
-							<bibl><ptr target="bib:Sircar1942_01 bib:Sircar1965_02"/></bibl> are too redundant to be acceptable 
+							<bibl><ptr target="bib:Sircar1942_01"/></bibl><bibl><ptr target="bib:Sircar1965_02"/></bibl> are too redundant to be acceptable 
 							simultaneously. The second in line 3 could be translated by : 
 							<supplied reason="lost">while</supplied> the Supreme Majesty and Supreme <gap reason="ellipsis"/><supplied reason="lost"> Lord,
 							the great king and emperor Kumāragupta was the Lord of the earth</supplied> 
