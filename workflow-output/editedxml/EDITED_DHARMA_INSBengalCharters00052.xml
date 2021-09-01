@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -74,7 +77,8 @@ The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHA
       </fileDesc>
       <revisionDesc>
 			<!--<change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment).. Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>-->
-         <change who="part:amwb" when="2021-07-15">Import of Siddham file IN00065 and started initial encoding with Arlo’s edtion and remarks.</change>
+         <change who="part:amwb" when="2021-08-31" status="draft">Added Siddham bibliographical reference in the bibliography and added its readings in the apparatus.</change>
+         <change who="part:amwb" when="2021-07-15" status="draft">Import of Siddham file IN00065 and started initial encoding with Arlo’s edtion and remarks.</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -228,76 +232,77 @@ daba siddham :Dikshit emends mahimatāṁ to matimatāṁ. His editor notes that
 			<listApp>
 				<app loc="1">
 				<lem>puṇḍravarddhanād</lem>
-				<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">puṇḍra<unclear>varddha</unclear>nād</rdg>
+				<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">puṇḍra<unclear>varddha</unclear>nād</rdg>
 				</app>
 				<app loc="1">
 					<lem>āyuktakā Āryya°</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">āyuktak<choice><sic><unclear>ā</unclear> Ā</sic><corr><unclear>aḥ</unclear> Ā</corr></choice>ryya-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">āyuktak<choice><sic><unclear>ā</unclear> Ā</sic><corr><unclear>aḥ</unclear> Ā</corr></choice>ryya-</rdg>
 				</app>
 				<app loc="3">
 					<lem>vilva</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">nitva-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">nitva-</rdg>
 				</app>
 				<app loc="4">
-					<lem>ihādhiṣṭhānādhikaraṇe</lem>
+					<lem source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">ihādhiṣṭhānādhikaraṇe</lem>
 					<note>The expression is surprising, because in parallel passages for the certification by record-keepers one never sees an <foreign>adhikaraṇa</foreign>, but it is confirmed by line 11.
 </note>
 				</app>
 				<app loc="4">
 					<lem>°bhogyo ’kṣaya-</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">°bhogyākṣaya-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">°bhogyākṣaya-</rdg>
 				</app>
 				<app loc="4">
-					<lem>-vāhyā-</lem>
+					<lem source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">-vāhyā-</lem>
 					<note>KND and DCS observe that this is to be read as -<foreign>bāhyā</foreign>-. The spelling of <foreign>v</foreign> for <foreign>b</foreign> is noteworthy.
 </note>
 				</app>
 				<app loc="5">
 					<lem>upasaṁ<surplus>ṅ</surplus>gr̥hyāvayo</lem>
 					<rdg source="bib:Dikshit1929-1930_01">upasaṅgr̥hyāvayo<supplied reason="omitted">s</supplied></rdg>
-					<rdg source="bib:Sircar1965_02">upasaṅgr̥hyāvayo<supplied reason="omitted">ḥ</supplied></rdg>
+					<rdg source="bib:Sircar1965_02 bib:Balogh+al2019_01">upasaṅgr̥hyāvayo<supplied reason="omitted">ḥ</supplied></rdg>
 					<note>The (superfluous) <foreign>anusvāra</foreign> seems rather clear on the facsimile.</note>
 				</app>
 				<app loc="6">
 					<lem>vaṭa-gohālyām avāsyāṅ</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">vaṭagohālyāmavāsyāṅ</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">vaṭagohālyāmavāsyāṅ</rdg>
 					<note>KND DCS emended to <foreign>vaṭagohālyām evāsyāṅ</foreign>. But the <foreign>akṣara</foreign> they read <foreign>syā</foreign> really looks more like <foreign>śyā</foreign>. Cf. the problem at the end of line 12. I provisionally assume that one must indeed emend <foreign>vaṭagohālyām evāsyāṅ</foreign> here.</note>
 				</app>
 				<app loc="7">
 					<lem>dīpādy-arttha<sic>n</sic></lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">dīpādy-artha<sic>n</sic></rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">dīpādy-artha<sic>n</sic></rdg>
 				</app>
 				<app loc="7">
-					<lem>Atavaṁ</lem>
-					<rdg source="bib:Dikshit1929-1930_01">A<supplied reason="omitted">ta</supplied> eva</rdg>
-					<rdg source="bib:Sircar1965_02">A<supplied reason="omitted">taḥ</supplied></rdg>
+					<lem>-nimittañ ca Atavaṁ</lem>
+					<rdg source="bib:Dikshit1929-1930_01">-nimittañ ca A<supplied reason="omitted">ta</supplied> eva</rdg>
+					<rdg source="bib:Sircar1965_02">-nimittañ ca A<supplied reason="omitted">taḥ</supplied></rdg>
+					<rdg source="bib:Balogh+al2019_01">-nimittañ ca A eva</rdg>
 					<note>Emend <foreign>Atraiva</foreign>, as in line 14 and <ref target="DHARMA_INSBengalCharters00049.xml">Baigram</ref>, line 16.</note>
 				</app>
 				<app loc="8">
-					<lem>pottak<choice><sic>e</sic><corr>ā</corr></choice>t</lem>
+					<lem source="bib:Balogh+al2019_01">pottak<choice><sic>e</sic><corr>ā</corr></choice>t</lem>
 					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">pottak<choice><sic>et</sic><corr>e</corr></choice></rdg>
 				</app>
 				<app loc="8">
 					<lem>kṣetra-droṇa-vāpa-catuṣṭayaṁ</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">kṣetraṁ droṇa-vāpa-catuṣṭayaṁ</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">kṣetraṁ droṇa-vāpa-catuṣṭayaṁ</rdg>
 					<note>Cf. <foreign>kṣetrakulyavāpam</foreign> in lines 9, 16 and 18–19.</note>
 				</app>
 				<app loc="9">
 					<lem source="bib:Sircar1965_02">-prāveśya-</lem>
-					<rdg source="bib:Dikshit1929-1930_01">-prāveśyā-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh+al2019_01">-prāveśyā-</rdg>
 				</app>
 				<app loc="9">
 					<lem>-vilva-</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">-nitva-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">-nitva-</rdg>
 				</app>
 				<app loc="9">
 					<lem>Arddhatrikan droṇa-</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">Arddhatrikadroṇa-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">Arddha-trika-droṇa-</rdg>
 					<note>Is there a need to emend <foreign>Arddhatrikān droṇa</foreign>-?</note>
 				</app>
 				<app loc="9">
 					<lem>kṣetra-kulya-vāpam</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">kṣetra-<subst><del rend="corrected">droṇa</del><add place="overstrike">kulya</add></subst>-vāpam</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">kṣetra-<subst><del rend="corrected">droṇa</del><add place="overstrike">kulya</add></subst>-vāpam</rdg>
 					<note><bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> notes that ‘The engraver first wrote <foreign>droṇavāpam</foreign> but finding his mistake later, appears to have made an attempt at correction. The erased letters <foreign>droṇa</foreign> are clearly visible below <foreign>kulya</foreign>.’ <bibl><ptr target="bib:Sircar1965_02"/></bibl>DCS has an equivalent note.
 </note>
 				</app>
@@ -305,102 +310,105 @@ daba siddham :Dikshit emends mahimatāṁ to matimatāṁ. His editor notes that
 					<lem>dātu<unclear>m iti</unclear> <space/> <unclear>ya</unclear>taḥ</lem>
 					<rdg source="bib:Dikshit1929-1930_01">dātum i<unclear>ti</unclear> <supplied reason="omitted">|</supplied> yataḥ</rdg>
 					<rdg source="bib:Sircar1965_02">dātum i<supplied reason="lost">ty atra</supplied> yataḥ</rdg>
+					<rdg source="bib:Balogh+al2019_01">dātu<damage>m i<unclear reason="illegible">ti</unclear></damage></rdg>
 				</app>
 				<app loc="10">
 					<lem>-suprabhamanu<unclear>da</unclear><supplied reason="lost">ttā</supplied>nām</lem>
 					<rdg source="bib:Dikshit1929-1930_01">-ṣu prathamanu <gap reason="illegible" unit="character" n="2"/> <supplied reason="lost">nā</supplied>m</rdg>
 					<rdg source="bib:Sircar1965_02">-suprabhamanuda<supplied reason="lost">ttānā</supplied>m</rdg>
+					<rdg source="bib:Balogh+al2019_01"><damage><unclear>su</unclear>prabha-<unclear>manu</unclear>da<supplied reason="lost">ttā</supplied><unclear>nā</unclear></damage>m</rdg>
 					<note><bibl><ptr target="bib:Sircar1965_02"/></bibl> notes the alternative possibility -<foreign>manudāsānām</foreign>. The editor’s note 8 to <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl>’s text states: <cit><quote>The text of the Dāmodarpur plates would suggest that <foreign>avadhāraṇayā</foreign> was preceded by the names of the record-keepers which were put in the genitive plural.—Ed.</quote></cit>.</note>
 				</app>
 				<app loc="11">
 					<lem>°bhogyo ’kṣaya-</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">°bhogyākṣaya-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">°bhogyākṣaya-</rdg>
 				</app>
 				<app loc="11">
 					<lem>-sa<supplied reason="lost">mu</supplied>da<supplied reason="lost">ya-vā</supplied>hyā-</lem>
 					<rdg source="bib:Dikshit1929-1930_01">-samu<supplied reason="lost">daya-vā</supplied>hyā-</rdg>
 					<rdg source="bib:Sircar1965_02">-samu<supplied reason="lost">daya</supplied>-vāhyā-</rdg>
+					<rdg source="bib:Balogh+al2019_01">sa<damage>mu<unclear>daya-vā</unclear>h</damage>yā-</rdg>
 				</app>
 				<app loc="12">
 					<lem><unclear>khila</unclear></lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02"><supplied reason="lost">khila</supplied></rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01"><supplied reason="lost">khila</supplied></rdg>
 				</app>
 				<app loc="12">
 					<lem>yuṣmā<choice><sic>m</sic><corr>n</corr></choice></lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">yuṣmā<sic>m</sic></rdg>
 					<note>Already corrected by <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> and <bibl><ptr target="bib:Sircar1965_02"/></bibl>.</note>
 				</app>
 				<app loc="12">
 					<lem>-gohālī<unclear cert="high">sva</unclear> <gap reason="illegible" unit="character" quantity="1"/>-</lem>
-					<rdg source="bib:Dikshit1929-1930_01">-gohālī<unclear cert="low">stha</unclear>ya-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh+al2019_01">-gohālī<unclear cert="low">stha</unclear>ya-</rdg>
 					<rdg source="bib:Sircar1965_02">-gohālīsth<supplied reason="lost">āyi</supplied>-</rdg>
 					<note>For the penultimate <foreign>akṣara</foreign>, <foreign>sva</foreign> (or <foreign>ṣva</foreign>) seems the most evident choice; see the shape of the same <foreign>akṣara</foreign> in line 25. Cf. the problem in line 6.
 </note>
 				</app>
 				<app loc="13">
-					<lem>-<supplied reason="lost">kāśi</supplied>ka-</lem>
+					<lem source="bib:Sircar1965_02 bib:Balogh+al2019_01">-<supplied reason="lost">kāśi</supplied>ka-</lem>
 					<rdg source="bib:Dikshit1929-1930_01"><gap reason="illegible" unit="character" quantity="2"/>ka-</rdg>
 					<note>Thus restored by <bibl><ptr target="bib:Sircar1965_02"/></bibl>.</note>
 				</app>
 				<app loc="13">
-					<lem>Ar<sic>a</sic>hatāṁ</lem>
+					<lem source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">Ar<sic>a</sic>hatāṁ</lem>
 					<note>Emend <foreign>Arhatāṁ</foreign> as noted by <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> and <bibl><ptr target="bib:Sircar1965_02"/></bibl>.</note>
 				</app>
 				<app loc="14">
 					<lem><supplied reason="lost">tala</supplied>-vāṭaka-</lem>
-					<rdg source="bib:Dikshit1929-1930_01"><supplied reason="lost">tala-v</supplied>āṭaka-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh+al2019_01"><supplied reason="lost">tala-v</supplied>āṭaka-</rdg>
 					<rdg source="bib:Sircar1965_02"><supplied reason="lost">tala-vā</supplied>ṭaka-</rdg>
 				</app>
 				<app loc="14">
 					<lem>Atraiva</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">tatraiva</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">tatraiva</rdg>
 				</app>
 				<app loc="14">
 					<lem>adhyarddhañ</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">adhyarddhaṁ</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">adhyarddhaṁ</rdg>
 				</app>
 				<app loc="14">
-					<lem>-catuṣṭayaṁ
-<lb n="15"/>go°</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">-catuṣṭayaṁ go°</rdg>
+					<lem source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">-droṇa-vāpa-</lem>
+					<rdg source="bib:Balogh+al2019_01"><damage>droṇa-vāpa</damage>-</rdg>
 				</app>
 				<app loc="15">
 					<lem>-vilva-</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">-nitva-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">-nitva-</rdg>
 				</app>
 				<app loc="16">
 					<lem>prārtthayete</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">prārtthayate</rdg>
-					<note><bibl><ptr target="bib:Sircar1965_02"/></bibl> emend to <foreign>prārtthayete</foreign>, but the <foreign>e</foreign>-mātra on the y seems clear enough.</note>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">prārtthayate</rdg>
+					<note><bibl><ptr target="bib:Sircar1965_02"/></bibl> emend to <foreign>prārtthayete</foreign>, but the <foreign>e</foreign>-mātra on the <foreign>y</foreign> seems clear enough.</note>
 				</app>
 				<app loc="16">
 					<lem><supplied reason="lost">dharmma</supplied>-ṣaḍ-</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">dharmma-ṣaḍ-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">dharmma-ṣaḍ-</rdg>
 				</app>
 				<app loc="17">
-					<lem source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">kriyatām</lem>
+					<lem source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">kriyatām</lem>
 					<note>Emend <foreign>krīyatām</foreign>?</note>
 				</app>
 				<app loc="18">
 					<lem>vijñāpitaka-kkramopa°</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">vijñāpitaka-kramopa°-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">vijñāpitaka-kramopa°-</rdg>
 				</app>
 				<app loc="18">
-					<lem>tala-vāṭaka-vāstunā</lem>
+					<lem source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">tala-vāṭaka-vāstunā</lem>
 					<note><bibl><ptr target="bib:Sircar1965_02"/></bibl> proposes to emend <foreign>talavāṭakaṁ vāstunā</foreign>, but this does not seem to me to yield a better sense.</note>
 				</app>
 				<app loc="18">
 					<lem>kṣetra
 <lb n="19"/>kulya-vāpa</lem>
-					<rdg source="bib:Dikshit1929-1930_01">kṣetraṁ kulyavāpa</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh+al2019_01">kṣetraṁ kulyavāpa</rdg>
 					<rdg source="bib:Sircar1965_02">kṣetraṁ kulyavāpa<supplied reason="omitted">ḥ</supplied></rdg>
 				</app>
 				<app loc="19">
 					<lem source="bib:Sircar1965_02">sva-karṣaṇāvirodhi°</lem>
-					<rdg source="bib:Dikshit1929-1930_01">sva-karmmaṇāvirodhi°</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh+al2019_01">sva-karmmaṇāvirodhi°</rdg>
 				</app>
 				<app loc="24">
 					<lem>yudhiṣṭhira<surplus>ḥ</surplus></lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">yudhiṣṭhira</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">yudhiṣṭhira</rdg>
 					<note><bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> and <bibl><ptr target="bib:Sircar1965_02"/></bibl>do not read the (unwanted) <foreign>visarga</foreign>.</note>
 				</app>
 			</listApp>
@@ -417,7 +425,7 @@ Damodarpur plate #5  l.4  adhiṣṭhānādhikaraṇa[?m] āryyya(na)gara(śre�
 BC55 l.1  : Adh[i]ṣṭhānādh[i](ka)raṇañ => translated by you "the council of the capital"
 For this expression, Apte suggests "Municipal Board" with the following references EI XV p.143, XVII, p.193, XX, p.61. In my opinion, the translation allows to find an equivalent or to give a base to understand what is behind this expression, but it refers to a system coming from the Roman antiquity. For this reason, I think this translation does not fit. Maybe the kind of questioning about the translation adopted for recurring terms that seem to be codified vocabulary belongs to the "controlled vocabulary" work in opentheso? In any case, it would be necessary to establish some kind of mapping of these words in order to decide on a stable equivalent for them. 
 In french, one could translate by "conseil communal" to remove the reference of Roman antiquity, but the equivalent words in english seem to be "town -city - village- local"
-Consequently I consider your translation "the city council" fits very well and suggest to change the translation of BC55 
+Consequently I consider your translation "the city council" fits well and suggest changing the translation of BC55. As you translated nagaraśreṣṭhin by the city’s guild-president, it seems to me necessary to change one of the two "city" by "town" in order to render the distinction made in sanskrit between "adhiṣṭhāna" and "nagara". My feeling is that adhiṣṭhāna is a city somewhat more important than a nagara ? according to the site "wordreference" a "city" is larger than a "town". Consequently I suggest conserving "city council" for "adhiṣṭhānādhikaraṇa" and replace the translation of "nagaraśreṣṭhin" by "the town's guild-president"
 --> led by the city’s guild-president <supplied reason="explanation"><foreign>nagaraśreṣṭhin</foreign></supplied><note>
 				<bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> interpreted this word to mean ‘mayor’. <bibl><ptr target="bib:Basak1919-1920_01"/><citedRange unit="page">131</citedRange></bibl>, in his publication of the Damodarpur grants, had adopted the translation ‘guild-president of the town’, which was retained without discussion by <bibl><ptr target="bib:Chattopadhyaya1990_01"/><citedRange unit="page">39</citedRange></bibl><!-- 
 amwb : ask Arlo if it is the good reference for B.D. Chattopadhyaya (1990: 39) 
@@ -438,7 +446,7 @@ Mitras to the Dattas.
 +
 p.243 figure 12 : tab giving the names and the roles of the members of the council of Koṭivarṣa (5 nagaraśreṣṭhin-)-->
 			</note> Ārya <!-- 
-amwb : I share your opinion about the translation of "nagaraśreṣṭhin", what you suggested is closer to the text. It seems perhaps a little more audacious to translate by "mayor" when there are so few occurrences. On the other hand, I am wondering about the translation of Ārya as a name of a person. According to the arguments developed below, I suggest to translate the expression "āryyanagaraśreṣṭhi" by  "the guild president of the city called "Ārrya".  
+amwb : I share your opinion about the translation of "nagaraśreṣṭhin", what you suggested is closer to the text. It seems perhaps a little more audacious to translate by "mayor" when there are so few occurrences. On the other hand, I am wondering about the translation of Ārya as a name of a person. According to the arguments developed below, I suggest translating the expression "āryyanagaraśreṣṭhi" by  "the guild president of the city called "Ārrya".  
 Argument 1 : in Damodarpur plates, when there is the expression nagaraśreṣṭhin the name of the nagaraśreṣṭhin is placed after and not before 
 Argument 2 : in BC55 Ārya is the name of a village. In this same plate one can also find the expression Adh[i]ṣṭhānādh[i](ka)raṇañ. If we observe the compound in BC55 l.1-2 "(ṣa)ṇḍ(ika-)vīth[e]yā[r](y)ya(-g)r[āma-]-prāveśya", we can deduce that the name of the village preceded the word "grama". 
 Then when we observe the composition of the different compounds with the expression "nagaraśreṣṭhi", we can deduce that the name of the nagaraśreṣṭhi is placed after :
@@ -458,7 +466,7 @@ According to this note and in order to make the text more clear for someone who 
 (caution I analyse mūla as a word indicating the proximity as in my proposition of translation of puṇḍravarddhaneya-mūlaka-vastukāvāstavyakuṭumbikṣemāka in BC 
 see MW p.826 col.2 et Apte 8.p.1282) : 
 dakṣiṇāṁśaka-vītheya-nāgiraṭṭa-māṇḍalika + palāśāṭṭa-pārśvika-vaṭa-gohālī-jambudeva-prāveśya-pr̥ṣṭhima-pottaka + ((goṣāṭapuñjaka-mūla-nāgiraṭṭa))-prāveśya-vilva-gohālīṣu
-(residing) in vaṭa-gohālī (which is situated) by the side of Palāśāṭṭa, in Pr̥ṣṭhima-pottaka, (which is) a part of Jambudeva, in vilva-gohālī (which is) part of nāgiraṭṭa close to  goṣāṭapuñjaka, (all three) situated in/attached to the Nāgiraṭṭa circle of the Dakṣiṇāṅśaka territory
+(residing) in vaṭa-gohālī (which is situated) by the side of Palāśāṭṭa, in Pr̥ṣṭhima-pottaka, (which is) a part of Jambudeva, in vilva-gohālī (which is) part of nāgiraṭṭa close to  goṣāṭapuñjaka, (all) situated in/attached to the Nāgiraṭṭa circle of the Dakṣiṇāṅśaka territory
 --> and inform them:
 </p>
 			<p n="3-9">The brahmin Nāthaśarman and his wife Ramī respectfully request us:<!-- 
@@ -467,14 +475,14 @@ amwb : maybe to render the sanskrit construction which have a verb in singular, 
 			<p>In the council of your capital here<!-- 
 amwb : Maybe harmonize the translation of adhiṣṭhānādhikaraṇa, and translate this compound as before " in your city-council which is held here 
 	-->, the custom is sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land <supplied reason="explanation"><foreign>khilakṣetra</foreign></supplied> or homestead land <supplied reason="explanation"><foreign>vāstu</foreign></supplied> that is without revenue charges and yields no tax, as permanent endowment to be enjoyed in perpetuity. Thus <supplied reason="explanation"><foreign>tad</foreign></supplied>, in this very manner, be so kind as to take from both of us three <foreign>dīnāra</foreign>s and — for the purpose of the merit of the both of us being increased — to give as permanent endowment, for the sake of perfume, incense, flowers and lamps, etc., for the venerable Arhants of the monastery in the same Vaṭa-Gohālī, overseen by the disciples and grand-disciples of the Jaina <foreign>śramaṇa</foreign> master Guhanandin of the Kāśika-Pañcastūpa school<!-- 
-amwb : I am wondering why you use plural "the disciples and grand-disciples". It seems to me perhaps more consistent to assume that only one person oversees the monastery and that the long compound is a sort of short spiritual genealogy assering his spiritual authority. According to this idea, I suggest to translate "of the monastery overseen by the grand disciple of  the disciple of the Jain <foreign>śramaṇa</foreign> master Guhanandin of the Kāśika-Pañcastūpa school
+amwb : I am wondering why you use plural "the disciples and grand-disciples". It seems to me perhaps more consistent to assume that only one person oversees the monastery and that the long compound is a sort of short spiritual genealogy assering his spiritual authority. According to this idea, I suggest translating "of the monastery overseen by the grand disciple of  the disciple of the Jain <foreign>śramaṇa</foreign> master Guhanandin of the Kāśika-Pañcastūpa school
 --> and for the purpose of <supplied reason="explanation">use as</supplied> adjoining parcel<!-- 
 amwb : I suggest "adjacent park" see BC49 and BC34 in the translation part for the word talavāṭaka : there are several mentions of the practice of dedication park or garden recorded in books of gifts 
---><!-- 
-amwb : maybe add "as it follows" in order to translate "tatraiva" emendation for "°a)tavaṁ"
 -->:
 			<list>
-				<item>from Vaṭa-Gohālī itself: one-and-a-half <foreign>droṇavāpa</foreign> of homestead land;</item>
+				<item>from Vaṭa-Gohālī itself<!-- 
+amwb : I deduce that "itself" translates "ito". In this cas, "tatraiva" emendation for "°a)tavaṁ" is not translated? 
+-->: one-and-a-half <foreign>droṇavāpa</foreign> of homestead land;</item>
 				<item>from Pr̥ṣṭhimapottaka under Jambudeva<!-- 
 amwb : according to my previous suggestion, one could translate "from Pr̥ṣṭhimapottaka part of Jambudeva"
 -->: four <foreign>droṇavāpa</foreign>s of land;</item>
@@ -484,13 +492,25 @@ amwb : according to my previous suggestion, one could translate "from Bilva-Goh�
 			</list>
 			thus one-and-a-half <foreign>kulyavāpa</foreign> of land.</p>
 			<p n="9-19">Wherefore, it has been established through the investigation of the chief record-keeper Divākaranandin, and the record-keepers Dhr̥tiviṣṇu, Virocana, Rāmadāsa, Haridāsa, Śaśinandin, Suprabha and Manudatta:</p>
-			<p>That the custom in the council of our capital is sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land or homestead land that is without revenue charges and yields no tax, as permanent endowment to be enjoyed in perpetuity. So, with regard to the one-and-a-half <foreign>kulyavāpa</foreign> of land — to be used for perfume, incense, etc., and for the venerable Arhants of the good monastery in??? Vaṭa-Gohālī by the side of Palāśāṭṭa, overseen by the disciples and grand-disciples of the Jaina master Guhanandin of the Kāśika-Pañcastūpakula school, and for the purpose of <supplied reason="explanation">use as</supplied> adjoining parcel: in Vaṭa-Gohālī here itself, one-and-a-half <foreign>droṇavāpa</foreign> of homestead land; in Pr̥ṣṭhimapottaka under Jambudeva, four <foreign>droṇavāpa</foreign>s; from Goṣāṭapuñja, four <foreign>droṇavāpa</foreign>s; from Bilva-Gohālī under Mūla-Nāgiraṭṭa, two <foreign>droṇavāpa</foreign>s plus two <foreign>āḍhavāpa</foreign>s — which the brahmin Nāthaśarman and his wife Ramī ask you, there is no conflict <supplied reason="explanation">with the interest of the king</supplied>; on the contrary, there is virtue, in that wealth will accrue to his Majesty as well as the increase of <supplied reason="explanation">the king’s own merit by his obtaining</supplied> the sixth part of the merit <supplied reason="explanation">accruing from the donation</supplied><!-- 
+			<p>That the custom in the council of our capital<!-- 
+amwb : it is necessary to harmonize the translation  : "the council of our city" 
+--> is sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land or homestead land that is without revenue charges and yields no tax, as permanent endowment to be enjoyed in perpetuity. So,<!-- 
+amwb : as made before, I would add <supplied reason="explanation"><foreign>tad</foreign></supplied>
+--> with regard to the one-and-a-half <foreign>kulyavāpa</foreign> of land — to be used for perfume, incense, etc., and for the venerable Arhants of the good monastery in??? Vaṭa-Gohālī by the side of Palāśāṭṭa, overseen by the disciples and grand-disciples of the Jaina master Guhanandin of the Kāśika-Pañcastūpakula school<!-- 
+amwb : in the translation I suggest below, I integrate my previous proposition according to which the monastery is overseen by a single man
+-->, and for the purpose of <supplied reason="explanation">use as</supplied> adjoining parcel: in Vaṭa-Gohālī here itself, one-and-a-half <foreign>droṇavāpa</foreign> of homestead land; in Pr̥ṣṭhimapottaka under Jambudeva, four <foreign>droṇavāpa</foreign>s; from Goṣāṭapuñja, four <foreign>droṇavāpa</foreign>s; from Bilva-Gohālī under Mūla-Nāgiraṭṭa<!-- 
+amwb : in the translation I suggest below, I integrate my previous proposition on the different names of place
+-->, two <foreign>droṇavāpa</foreign>s plus two <foreign>āḍhavāpa</foreign>s — which the brahmin Nāthaśarman and his wife Ramī ask you, there is no conflict <supplied reason="explanation">with the interest of the king</supplied>; on the contrary, there is virtue, in that wealth will accrue to his Majesty as well as the increase of <supplied reason="explanation">the king’s own merit by his obtaining</supplied> the sixth part of the merit <supplied reason="explanation">accruing from the donation</supplied><!-- 
 amwb : here as in BC57, BC49 and BC54, I suggest that the increase of merit is due to the protection of the land made by the king
 -->. So, let it be done <supplied reason="explanation">or: sold?</supplied> in this way.</p>
-			<p>On the basis of this procedure of investigation, in accordance with the rule for permanent endowments, after three <foreign>dīnāra</foreign>s had been received <supplied reason="explanation">by us</supplied> in cash from this brahmin Nāthaśarman and from his wife Ramī, the two have given one-and-a-half <foreign>kulyavāpa</foreign> of land with homestead land <supplied reason="explanation">for use</supplied> as adjoining parcel, in the above-mentioned village <foreign>gohālika</foreign>s <supplied reason="explanation">hamlets?</supplied><!-- 
-amwb : maybe add a note to your article 2018 p.40-2? 
+			<p>On the basis of this procedure of investigation, in accordance with the rule for permanent endowments, after three <foreign>dīnāra</foreign>s had been received <supplied reason="explanation">by us</supplied> in cash from this brahmin Nāthaśarman and from his wife Ramī, the two have given one-and-a-half <foreign>kulyavāpa</foreign> of land with homestead land <supplied reason="explanation">for use</supplied> as adjoining parcel<!-- 
+	amwb : in the translation I suggest below, I integrate my previous proposition "adjacent park"-->, in the above-mentioned village <foreign>gohālika</foreign>s <supplied reason="explanation">hamlets?</supplied><!-- 
+amwb : maybe add a note to your article 2018 p.40-2, for the meaning of this word? 
+amwb : here I understand grāmagohālikeṣu as a dvandva, see below.
 --> for the purpose of the requested procedure. 1 <abbr>ku</abbr>, 4 <abbr>dro</abbr>.</p>
-			<p n="19-21">So you must separate them off using six reeds, in a place that does not conflict with your own cultivation, make the donation according to the rule for permanent endowments and protect it in perpetuity as long as moon, sun and stars will last. Year 159, (<supplied reason="explanation">month of</supplied>) Māgha, day 7.
+			<p n="19-21">So you must separate them off using six reeds, in a place that does not conflict with your own cultivation, make the donation according to the rule for permanent endowments<!-- 
+amwb : for me,  "according to the rule for permanent endowments" must be placed after "protect it", see the position of "ca"
+--> and protect it in perpetuity as long as moon, sun and stars will last. Year 159, <supplied reason="explanation">month of</supplied> Māgha, day 7.
 </p>
 			<p n="21-25">And it has been said by the Lord Vyāsa:</p>
 			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors.</p>
@@ -499,6 +519,44 @@ amwb : maybe add a note to your article 2018 p.40-2?
 			<p n="4" rend="stanza">You, excellent Yudhiṣṭhira, must strenuously protect land previously given to brahmins by kings. Safeguarding is even better than giving.</p>
 			<p n="5" rend="stanza">Those who steal a land donation are born (again) as black snakes living in dry caves in the waterless Vindhya forests.</p>
 		</div>
+			<div type="textpart"><head>New translation suggested by amwb</head>
+			<p n="1-3">Hail! From Puṇḍravardhana, the officers and the city council led by the guild-president of the town <supplied reason="explanation">called</supplied> Ārya<note>
+I assume <foreign>Ārya</foreign> as a name of place from several reasons. First, in Damodarpur plates, when the expression <foreign>nagaraśreṣṭhin</foreign> is used, the name of the <foreign>nagaraśreṣṭhin</foreign> is placed after and not before (see <ref target="DHARMA_INSBengalCharters00047.xml">Damodarpur plate #1</ref>, line 4:	<foreign>nagaraśreṣṭhidhṛtipāla</foreign> “Dhṛtipāla, the town’s guild-president”; <ref target="DHARMA_INSBengalCharters00048.xml">Damodarpur plate #2</ref>, line 4: <foreign>nagara<unclear>śre</unclear>ṣṭhidhṛtipāla</foreign> “Dhṛtipāla, the town’s guild-president”; <ref target="DHARMA_INSBengalCharters00053.xml">Damodarpur plate #4</ref> lines 3-4:  <foreign>nagaraśreṣṭhiribhupāla</foreign> “Ribhupāla, the town’s guild-president”; in the <ref target="DHARMA_INSBengalCharters00056.xml">Damodarpur #5 plate</ref>, line 4, we are faced the same expression, <foreign>āryyya<unclear>na</unclear>gara<unclear>śreṣṭhi</unclear>ri<unclear>bhu</unclear>pāla</foreign>, that I suggest translating as here by “Ribhupāla, the guild-president of the town <supplied reason="explanation">called</supplied> Ārya). Then, in <ref target="DHARMA_INSBengalCharters00055.xml">the grant of land to monasteries at Śiṣīpuñja, Madhyamasṛgālikā and Grāmakūṭagohālī</ref>, Ārya is the name of a village. In the compound used in this plate in lines 1-2 "<unclear>ṣa</unclear>ṇḍ<unclear>ika-</unclear>vīth<supplied reason="lost">e</supplied>yā<supplied reason="lost">r</supplied><unclear>y</unclear>ya<unclear>-g</unclear>r<supplied reason="lost">āma</supplied>-prāveśya-śiṣīpuñja-maddhyamasr̥gālikā<surplus>yā</surplus>bjataṭāpagaccha-prāveśya-grāma-kūṭagohāly<unclear>āṁ</unclear>, we can observe that the name of the village <foreign>Ārya</foreign> is placed before its designation as a village <foreign>grama</foreign>. In consequence of this, in the compound <foreign>Āryyanagaraśreṣṭhipurogañ</foreign>, it is possible to construe <foreign>Ārya</foreign> as the name of the <foreign>nagara</foreign>. 
+			</note> 
+			<supplied reason="explanation"><foreign>nagaraśreṣṭhin</foreign></supplied> greet the peasant householders, beginning with the notables consisting chiefly of Brahmins, <supplied reason="explanation">residing</supplied> in Vaṭa-gohālī <supplied reason="explanation">which is situated</supplied> by the side of Palāśāṭṭa, in Pr̥ṣṭhima-pottaka, <supplied reason="explanation">which is</supplied> a part of Jambudeva, in Bilva-gohālī <supplied reason="explanation">which is</supplied> part of Nāgiraṭṭa close to  Goṣāṭapuñjaka, <supplied reason="explanation">all</supplied> attached to the Nāgiraṭṭa circle of the Dakṣiṇāṅśaka territory and inform them:			
+			</p>
+				<p n="3-5">The brahmin Nāthaśarman accompagnied with his wife Ramī respectfully requests us:</p>
+				<p>
+					In your city-council which is held here, the custom is sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land <supplied reason="explanation"><foreign>khilakṣetra</foreign></supplied> or homestead land <supplied reason="explanation"><foreign>vāstu</foreign></supplied> that is without revenue charges and yields no tax, as permanent endowment to be enjoyed in perpetuity.
+				</p>
+				<p n="5-9">Thus <supplied reason="explanation"><foreign>tad</foreign></supplied>, in this very manner, after receiving from both of us the sum of three <foreign>dīnāra</foreign>s, be so kind as to give as permanent endowment, in order to increase the merit of the both of us, for the sake of perfume, incense, flowers and lamps, etc., for the venerable Arhants of the monastery in the same Vaṭa-Gohālī, overseen by the grand-disciple of the disciple of the Jaina <foreign>śramaṇa</foreign> master Guhanandin of the Kāśika-Pañcastūpa school, and for the purpose of <supplied reason="explanation">use as</supplied> an adjacent park, one-and-a-half <foreign>kulyavāpa</foreign> of land as it follows:<note>
+From the repartition given below, one can deduce that one <foreign>kulyavāpa</foreign> is worth eight <foreign>droṇavāpa</foreign>s, as <bibl><ptr target="bib:Dikshit1929-1930_01"/><citedRange unit="page">60-1</citedRange></bibl> had already underlined.
+				</note> 
+				<list>
+				<item>in this very place <supplied reason="explanation"><foreign>atraiva</foreign>?</supplied>, from Vaṭa-Gohālī itself: one-and-a-half <foreign>droṇavāpa</foreign> of homestead land;</item>
+				<item>from Pr̥ṣṭhimapottaka part of Jambudeva: four <foreign>droṇavāpa</foreign>s of land;</item>
+				<item>from Goṣāṭapuñja: four <foreign>droṇavāpa</foreign>s of land;</item>
+				<item>from Bilva-Gohālī <supplied reason="explanation">which is</supplied> part of and close to Nāgiraṭṭa: a two-and-a-half <foreign>droṇavāpa</foreign>s;</item>
+				</list></p>
+				<p n="9-17">Wherefore, it has been established through the investigation of the chief record-keeper Divākaranandin, and the record-keepers Dhr̥tiviṣṇu, Virocana, Rāmadāsa, Haridāsa, Śaśinandin, Suprabha and Manudatta:</p>
+			<p>That the custom in the council of our city is sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land or homestead land that is without revenue charges and yields no tax, as permanent endowment to be enjoyed in perpetuity. So <supplied reason="explanation"><foreign>tad</foreign></supplied>, concerning the one-and-a-half <foreign>kulyavāpa</foreign> of land that the brahmin Nāthaśarman and his wife Ramī ask you, in order to be used for perfume, incense, etc., and for the venerable Arhants of the  the virtuous monastery overseen by the grand-disciple of the disciple of the Jaina master Guhanandin of the Kāśika-Pañcastūpakula school located in Vaṭa-Gohālī by the side of Palāśāṭṭa<note>
+				Here, I conjecture two scribal errors in <foreign>palāśāṭṭapārśvikavaṭagohālīsva</foreign>: first a superfluous <foreign>a</foreign> at the end of the compound and a plural locative instead of a singular one. So I translate as if it was <foreign>palāśāṭṭapārśvikavaṭagohālyām</foreign>. </note>
+				and in order to be used as adjacent park — <supplied reason="explanation">dividing as follows</supplied> one-and-a-half <foreign>droṇavāpa</foreign> of homestead land in Vaṭa-Gohālī here itself, four <foreign>droṇavāpa</foreign>s in Pr̥ṣṭhimapottaka part of Jambudeva, two <foreign>droṇavāpa</foreign>s plus two <foreign>āḍhavāpa</foreign>s from Bilva-Gohālī <supplied reason="explanation">which is</supplied> part of and close to Nāgiraṭṭa —, there is no conflict <supplied reason="explanation">with the interest of the king</supplied>; on the contrary, there is virtue, since wealth will accrue to his Majesty by the additional coming of a sixth part of merit <supplied reason="explanation">accruing from the protection providing by the king</supplied><note>
+On the sixth part of the merit obtained by the king for his protection of the given lands, see <title>Yājñavalkya</title> I.331 (<bibl><ptr target="bib:Olivelle2019_01"/><citedRange unit="page">107</citedRange></bibl>): 
+<cit><quote><foreign>puṇyātṣaḍbhāgamādatte nyāyena paripālayan</foreign> | 
+<foreign>sarvadānādhikaṁ yasmānnyāyena paripālanam</foreign> ||331</quote></cit>
+<cit><quote>he <supplied reason="explanation">the king</supplied> takes a sixth portion of the merits by providing protection justly, because providing protection justly greater than all gifts.</quote></cit>
+				</note>
+				So, let <supplied reason="explanation">this one-and-a-half <foreign>kulyavāpa</foreign> of land</supplied> be done <supplied reason="explanation">or: sold?</supplied> in this way.</p>
+				<p n="17-19">On the basis of this procedure of investigation, after three <foreign>dīnāra</foreign>s had been received <supplied reason="explanation">by us</supplied> in cash from this brahmin Nāthaśarman and from his wife Ramī, the two have given one-and-a-half <foreign>kulyavāpa</foreign> of land with homestead land <supplied reason="explanation">for use</supplied> as adjacent park, in the above-mentioned villages and <foreign>gohālika</foreign>s <supplied reason="explanation">hamlets?</supplied><!-- 
+amwb : I interpret grāmagohālikeṣu as a dvandva because we have only two names of place finishing by gohālī
+--> for the purpose of the requested procedure, in accordance with the rule for permanent endowments. 1 <abbr><foreign>ku</foreign></abbr>, 4 <abbr><foreign>dro</foreign></abbr>. </p>
+				<p n="19-21">So <supplied reason="explanation"><foreign>tad</foreign></supplied>, after separating them off using six reeds,<!-- 
+amwb : it seems to me that the obligation is about the act of donation, not specially on the preparation of the ground because they choose the land they want to give according their own cultivation
+--> in a place that does not conflict with your own cultivation, you must make the donation and protect it according to the rule for permanent endowments<!-- 
+amwb : I feel it is important that the protection is enjoined by the rule for permanent endowments 
+--> in perpetuity as long as moon, sun and stars will last. Year 159, <supplied reason="explanation">month of</supplied> Māgha, day 7. </p>
+			</div>
 		<div type="commentary">
 		</div>
 		<div type="bibliography">
@@ -512,6 +570,7 @@ amwb : maybe add a note to your article 2018 p.40-2?
 				amwb : ref coming from Siddham but I changed the ref of pages because  -->
 				<bibl><ptr target="bib:Agrawala1983_02"/><citedRange unit="entry">50</citedRange></bibl><!-- amwb : ref bib coming from siddham -->
 				<bibl><ptr target="bib:Goyal1993_01"/><citedRange unit="page">277-81</citedRange></bibl><!-- amwb : ref bib coming from siddham -->
+				<bibl n="DB"><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00065</citedRange></bibl>
 				<bibl n="siglum"/>
 			</listBibl>
 			<listBibl type="secondary">
