@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>Kalaikuri-Sultanpur Plate of the Time of Kumāragupta I</title>
@@ -539,7 +542,7 @@ n="2" break="no"/>kāyāṁ</lem>
 				</app>
 				<app loc="12">
 					<lem>-purog<unclear>ā</unclear>ḥ</lem>
-					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 Balogh+al2019_01">-purogāḥ</rdg>
+					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">-purogāḥ</rdg>
 				</app>
 				<!--amwb : add this if we accept my reading 
 					<app loc="12">
@@ -639,7 +642,7 @@ n="21" break="no"/>dyāṁ</rdg>
 					<lem>°<unclear>ṣv ā</unclear>dyakhāta-</lem>
 					<rdg source="bib:Sircar1943_02">°<supplied reason="lost">sadyaḥ khāta</supplied>-</rdg>
 					<rdg source="bib:Sanyal1955-1956_01"><supplied reason="lost">ā</supplied>dyakhāta-</rdg>
-					<rdg source="bib:bib:Balogh+al2019_01"><gap reason="illegible" quantity="1" unit="character"/> dy<unclear>o</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>ta</unclear>-</rdg>
+					<rdg source="bib:Balogh+al2019_01"><gap reason="illegible" quantity="1" unit="character"/> dy<unclear>o</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>ta</unclear>-</rdg>
 				</app>
 				<app loc="21">
 					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">-veṣṭi<unclear>ta</unclear><lb 
@@ -662,7 +665,7 @@ n="22" break="no"/><sic>m</sic>-uttar<unclear>e</unclear>ṇa</lem>
 					<note>Emend <foreign>kulya-vāpa eko</foreign>.</note>
 				</app>
 				<app loc="22">
-					<lem source="Sircar1943_02 bib:Sanyal1955-1956_01">pūrvve</lem>
+					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">pūrvve</lem>
 					<rdg source="bib:Balogh+al2019_01">pūrvv<unclear>e</unclear></rdg>
 				</app>
 				<app loc="23"><!-- 
@@ -801,7 +804,8 @@ n="24" break="no"/>bhītaka-</lem>
 				</app>
 			</listApp>
 		</div>
-		<div type="translation" xml:lang="eng" resp="part:amwb"><head>Draft-translation</head>
+		<div type="translation" resp="part:amwb">
+			<head xml:lang="eng">Draft-translation</head>
 			<p n="1-2">Hail ! From Pūrṇakauśikā in the Śr̥ṅgavera territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>, the officer Acyuta<note>
 				The incipit of this plate is identical to the one of <ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter of the Time of Kumāragupta I</ref>. But we can notice that here there is no mention to the fact that Acyuta's authority depends on the emperor.
 			</note>
@@ -816,7 +820,7 @@ Indeed <bibl><ptr target="bib:Sanyal1955-1956_01"/><citedRange unit="page">58-9<
 						The first interpretation could be to understand a place name 'Hastiśīrṣa' as <bibl><ptr target="bib:Sanyal1955-1956_01"/></bibl> did. A second possibility is to see <foreign>hastiśīrṣa</foreign> as a compound indicating a large aera. This interpretation is based on my previous observation according to which the geographical indication is presented from the larger to the smaller entity. So it could be possible to consider <foreign>śīrṣa</foreign>- a word used in a geographical manner to indicate that some place is near another larger place and <foreign>hasti</foreign>- a name of place like Hastināpura? If so, the translation could be 'in the upper part of Hasti', 'collateral of Hasti', close or next to Hasti. A third possibility could be to consider <foreign>hastiśīrṣa</foreign> a compound composed by the derivated word of the constellation name Hasta followed by <foreign>śīrṣa</foreign>, like in the compound <foreign>mārgaśīrṣa</foreign> 'the month under the constellation of Mṛga' (ie. november-september) which is recorded in Monier-Williams and by several inscriptions (for example: <ref target="http://siddham.uk/inscription/in00090">Betul Charter of Samksobha, year 199</ref>, line 3)<!-- amwb : I also found mārgaśīrṣa in in the Kesaribedā Donation of Arthapati line 13 (siddham IN1003) and in Kauvatal Charter of Sudevarāja line 24 -->. But the irregular derivation in <foreign>hastiśīrṣa</foreign> and the context of its use do not allow a such interpretation.
 				</note>
 				in Gulmagandhikā, in Dhānyapāṭikā, as well as in their hamlets <supplied reason="explanation"><foreign>sagohāliṣu</foreign></supplied><note>
-					On the meaning of gohālī, see <bibl><ptr target="Griffiths2018_02"/><citedRange unit="page">40-2</citedRange></bibl>
+					On the meaning of gohālī, see <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="page">40-2</citedRange></bibl>
 				</note> 
 				and inform them : 
 			</p>

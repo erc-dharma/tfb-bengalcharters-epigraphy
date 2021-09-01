@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>Dhanaidaha Plate, Year 113 GE</title>
@@ -49,7 +52,7 @@ amwb2argr : I changed the title according to the spreadsheet. The error was mine
 				<authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Cambrai</pubPlace>
-				<idno type="filename">DHARMA_BengalCharters00031</idno><!-- 
+				<idno type="filename">DHARMA_INSBengalCharters00031</idno><!-- 
 daba : The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHARMA filename is assigned. 
 amwb: siddham idno IN00023
 --><availability>
@@ -265,7 +268,7 @@ daba: note that the final 5 lost characters are only there if the line extends t
 					<rdg source="bib:Bandyopadhyaya1909_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02"><supplied reason="lost">asyā</supplied><unclear>ndi</unclear>vasa-</rdg>
 				</app>
 				<app loc="2">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 Agrawala1983_02 bib:Balogh+al2019_01">-pūrvvāyāṁ</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh+al2019_01">-pūrvvāyāṁ</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">-purvvāyāṁ</rdg>
 				</app>
 				<app loc="2">
@@ -358,7 +361,7 @@ n="3" break="no"/><supplied reason="lost">ma-bhaṭṭāraka-mahārājādhirāja
 				</app>
 				<app loc="6">
 					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh+al2019_01">-somapāla-</lem>
-					<rdg source="bib:Bandyopadhyaya1909">°stham-apaha°</rdg>
+					<rdg source="bib:Bandyopadhyaya1909_01">°stham-apaha°</rdg>
 				</app>
 				<app loc="6">
 					<!--amwb:
@@ -374,7 +377,7 @@ n="3" break="no"/><supplied reason="lost">ma-bhaṭṭāraka-mahārājādhirāja
 						<lem>°dhikaraṇañ ca <space/></lem>
 					-->
 					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh+al2019_01">°dhikaraṇañ ca</lem>
-					<rdg source="bib:Bandyopadhyaya1909_01">°dhikaraṇ<gap reason="lost" unit="character" extent="unknow"/></rdg>
+					<rdg source="bib:Bandyopadhyaya1909_01">°dhikaraṇ<gap reason="lost" unit="character" extent="unknown"/></rdg>
 				</app>
 				<app loc="7">
 					<!--amwb:
@@ -417,7 +420,7 @@ n="3" break="no"/><supplied reason="lost">ma-bhaṭṭāraka-mahārājādhirāja
 				<app loc="8">
 					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Balogh+al2019_01">dharmma-kṣayeṇa</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">dharmma-kṣayam ā°</rdg>
-					<rdg source="Sircar1965_02 bib:Agrawala1983_02">dharmm<unclear>ā</unclear>-kṣayeṇa</rdg>
+					<rdg source="bib:Sircar1965_02 bib:Agrawala1983_02">dharmm<unclear>ā</unclear>-kṣayeṇa</rdg>
 					<note><bibl><ptr target="bib:Sircar1942_01"/></bibl> suggests for <foreign>kṣa</foreign> an alternative reading in brackets followed by a question mark : <foreign>kkra</foreign>. In note 3 p.281, he adds this suggestion : <quote>Or <foreign>dharmātkrayeṇa</foreign> ?</quote></note>
 				</app>
 				<app loc="8">
@@ -459,7 +462,7 @@ n="3" break="no"/><supplied reason="lost">ma-bhaṭṭāraka-mahārājādhirāja
 					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02"><gap reason="lost" unit="character" quantity="2"/> kara-</rdg>
 					<note><bibl><ptr target="bib:Sircar1942_01"/><citedRange unit="page">281</citedRange></bibl> first suggested reading <foreign>kāra</foreign> or <foreign>ājñākara</foreign> in note 5. Then he suggested : <quote>Probably <foreign>kṣetrakara</foreign></quote> in <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">288</citedRange></bibl>, note 8.</note>
 				</app>
-				<app source="9">
+				<app loc="9">
 					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh+al2019_01">-prative<unclear cert="low">śi</unclear>-ku°</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">°prati prati ku°</rdg>
 				</app>
@@ -651,7 +654,8 @@ n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap rea
 				</app>
 			</listApp>
 		</div>
-		<div type="translation" xml:lang="eng" resp="amwb"><head>Draft of translation</head>
+		<div type="translation" resp="part:amwb">
+			<head xml:lang="eng">Draft of translation</head>
 			<p n="1-7"><gap reason="ellipsis"/><supplied reason="lost">Success !</supplied><supplied reason="explanation"><foreign>siddhaM|</foreign></supplied> In the year one hundred exceeded by thirteen <gap reason="ellipsis"/><supplied reason="lost"> of the great king and emperor Śrī Kumāragupta whose splendour is enjoyed flowing beyond the four oceans</supplied> <supplied reason="explanation"><foreign>catur-udadhi-salilāsvādita-yaśaso mahārājādhirāja-śrī-kumāraguptasya</foreign></supplied><!-- 
 			amwb : I wrap this in supplied because the text is a hypothetical reconstruction.   
 			-->
@@ -744,7 +748,7 @@ n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap rea
 			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.</p>
 			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
 			<p n="3" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.<note>
-				Here I reproduced the translation of the same three verses from <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref> made by Arlo Griffiths (<bibl><ptr target="Griffiths2015_02"/></bibl>).
+				Here I reproduced the translation of the same three verses from <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref> made by Arlo Griffiths (<bibl><ptr target="bib:Griffiths2015_02"/></bibl>).
 			</note>
 				</p>
 			<p n="17"><gap reason="lost" unit="character" quantity="10"/><supplied reason="explanation">line 17</supplied> <gap reason="ellipsis"/><supplied reason="explanation">yaṁ</supplied> engraved by the excellent Śrībhadra <supplied reason="explanation">suśrībhadrena</supplied> <supplied reason="lost">written by or heated by</supplied><note>
