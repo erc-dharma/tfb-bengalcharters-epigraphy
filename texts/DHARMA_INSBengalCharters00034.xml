@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -70,7 +74,7 @@ daba : The Siddham ID will need to be retained, probably as <altIdentifier>, whe
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:amwb" when="2021-08_30" status="draft">Added Siddham bibliographic reference in the bibliography and its readings in the apparatus. Correction of some errors in the apparatus.</change>
+			<change who="part:amwb" when="2021-08-30" status="draft">Added Siddham bibliographic reference in the bibliography and its readings in the apparatus. Correction of some errors in the apparatus.</change>
 			<change who="part:amwb" when="2021-07-12" status="draft">Import of Siddham file IN00061 and started initial encoding with Arlo's edtion and remarks. </change>
 			<change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment).. Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>
 		</revisionDesc>
