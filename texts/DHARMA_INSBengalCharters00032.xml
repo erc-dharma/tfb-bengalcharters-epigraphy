@@ -81,18 +81,26 @@ amwb : replaced IN00044 by dharma file name
 <p><pb 
 
 n="1r"/><lb 
-n="1"/><unclear reason="illegible">saṁ</unclear> <num value="163"><unclear reason="illegible"><g type="numeral">100</g></unclear> <unclear><g type="numeral">60</g></unclear> 3</num> Āṣāḍha <abbr>di</abbr><!-- 
+n="1"/><supplied reason="lost">saṁ</supplied> <num value="163"><supplied reason="lost"><g type="numeral">100</g></supplied> <supplied reason="lost"><g type="numeral">60</g></supplied> <unclear>3</unclear></num> Āṣāḍha <abbr>di</abbr><!-- 
 amwb : added the tag abbr
---> <num value="13"><g type="numeral">10</g> 3</num> parama-daivata-parama-bhaṭṭā<unclear>ra</unclear>ka-mahārājādhirāja-śrī-budhagupte <unclear>pr̥thi</unclear>vī-patau tat-pāda-<unclear>pari</unclear>gr̥hīte puṇḍra<unclear>va</unclear><lb 
-n="2" break="no"/><unclear>rddhana</unclear>-bhuktāv uparika-mahārāja-brahmadatte saṁvyavaharati<!-- 
+amwb : removed Daba's reading : <unclear reason="illegible">saṁ</unclear> <num value="163"><unclear reason="illegible"><g type="numeral">100</g></unclear> <unclear><g type="numeral">60</g></unclear> 3</num> 
+--> <num value="13"><g type="numeral">10</g> 3</num> parama-daivata-parama--bhaṭṭ<unclear>ā</unclear>raka-mahārājādhirāja-śrī-budhagupte <unclear>pr̥thi</unclear>vī-patau tat-pāda-<unclear>pa</unclear>rigr̥hīte puṇḍra<unclear>va</unclear><!-- 
+amwb : I removed Daba's reading for -bhaṭṭā<unclear>ra</unclear>ka- and replaced it by -bhaṭṭ<unclear>ā</unclear>raka
+amwb : Removed Daba's reading pāda-<unclear>pari</unclear>gr̥hīte and replaced it by da-<unclear>pa</unclear>rigr̥hī
+--><lb 
+n="2" break="no"/><supplied reason="lost">rddhana</supplied>-bhuktāv uparika-mahārāja-brahmadatte saṁvyavaharati<!-- 
 daba: The numeral may be marked up with a list of possible values. 
 --><!-- 
 daba: For the month, Bhandarkar prints aṣāḍha, which may be a typo. Agrawala prints āṣāḍha. Basak has आषाढ़, but the nuqta is clearly not meant to be a reflection of anything in the original plate. Lielukhine's etext had āṣāḍhāṁ, which may be an OCR error or Sircar's reading, which I haven't checked. 
 --><!-- 
 daba: In A2-3, reading °adhikaraṇaṁ instead of Basak's °adhikaraṇa- (which Agrawala retains) is Bhandarkar's suggestion to make the text syntactically more correct. It may be better to show the anusvāra as an editorial addition or restoration. The photo in Agrawala is illegible before grā; the print in Bhandarkar even more so. 
+--><!-- 
+amwb : I removed Daba's reading <unclear>rddhana</unclear>-bhuktāv because it is lost on the photos I have at my disposal 
 --></p>
-<p>svast<unclear>i</unclear><supplied reason="subaudible">.</supplied> palāśavr̥ndakāt saviśvāsaṁ mahattarādy-aṣṭakulādhi<unclear>ka</unclear><lb 
-n="3" break="no"/><unclear>ra</unclear>ṇa<unclear>ṁ</unclear> grāmika-kuṭumvinaś ca caṇḍagrāmaka-brāhmaṇādhyakṣa-kṣudra-prakr̥ti-kuṭumvinaḥ kuśalam uktvānudarśayanti <unclear reason="illegible">yathā</unclear><!-- 
+<p>svast<unclear>i</unclear><supplied reason="subaudible">.</supplied> palāśavr̥ndakāt sa-viśvāsaṁ mahattarādy-aṣṭakulādhi<unclear reason="illegible">ka</unclear><!-- 
+amwb : I added reason illegible for the unclear ka 
+--><lb 
+n="3" break="no"/><supplied reason="lost">ra</supplied>ṇa<unclear>ṁ</unclear> grāmika-kuṭumvinaś ca caṇḍagrāmake brāhmaṇādhyānna-kṣudra-prakr̥ti-kuṭumvinaḥ kuśalam uktvānudarśayanti <unclear reason="illegible">yathā</unclear><!-- 
 daba: For the time being I follow Bhandarkar here. Basak reads caṇḍagrāmake brāhmaṇādy-ānna-kṣudra-prakr̥ti-kuṭumvinaḥ (so quoted by Bhandarkar; Basak's text is in Devanagari, so he may have meant brāhmaṇādyān na-kṣudra-prakr̥ti-kuṭumvinaḥ). This (especially if we can read or emend brāhmaṇādyān akṣudra°) sounds to me a lot more plausible than Bhandarkar's version, which he translates "inform the husbandmen of the village Caṇḍaka who are inferior Ryots and are presided over by the Brāhmaṇas" 
 --></p>
 <p><!-- 
@@ -107,10 +115,19 @@ daba: For pādānāṁ in l7, Basak reads pādena. For sthāṇavila in l8, Basa
 daba: For ca kr̥ṣiṁ nocchindhya ca nābhakāya in l10, Basak reads ca tuṣṭimolliṅgya ca nāgadevasya which, as Bhandarkar observes, seems to make no sense. Agrawala, following Sircar, reads catussīmolliṅgya ca nāgadevasya. Bhandarkar (p337n1) says his reading "is in accord with -karṣaṇāvirodhi-sthāne" in line 18 of the Baigram copper plate (%IN00061). 
 --><!-- 
 daba: For deyam etad-uttara in l11, Agrawala (and Basak and Sircar?) reads dattaṁ taduttara. 
+--><!-- 
+amwb : replaced daba's reading <unclear>ra</unclear>ṇa<unclear>ṁ</unclear> by <supplied reason="lost">ra</supplied>ṇa<unclear>ṁ</unclear>
+amwb : replaced daba's reading caṇḍagrāmaka- by caṇḍagrāmake
+amwb : replaced daba's reading brāhmaṇādhyakṣa-kṣudra- by brāhmaṇādhyānna-kṣudra
 --><lb 
 n="4"/><unclear>vi</unclear>jñāpayat<choice><sic>ī</sic><corr>i</corr></choice> no grāmika-nābhako 'ham icche mātā-pitros svapuṇyāpyāyanāya ka<choice><sic>d</sic><corr>t</corr></choice>icid brāhmaṇāryyān prativāsayituṁ <supplied reason="subaudible">.</supplied><lb 
-n="5"/><unclear>tad a</unclear>rhatha grāmānukrama-vikraya-maryyādayā matto hiraṇyam upasaṁgr̥hya samudaya-bāhyāprada-khila-<unclear>kṣetrasya</unclear> <lb 
-n="6"/><unclear reason="illegible">pra</unclear>sādaṁ karttum iti<supplied reason="subaudible">.</supplied> yataḥ pustapāla-patradāsenāvadhāritaṁ yuktam anena vijñāpitam asty ayaṁ vikraya<lb 
+n="5"/><supplied reason="lost">tad a</supplied>rhatha grāmānukrama-vikraya-maryyādayā matto hiraṇyam upasaṁgr̥hya samudaya-bāhyāprada-khila-kṣetr<unclear>ā</unclear><supplied reason="lost">ṇāṁ</supplied>  <!-- 
+amwb : replaced <unclear>tad a</unclear>rhatha by <supplied reason="lost">tad a</supplied>rhatha
+amwb : replaced khila-<unclear>kṣetrasya</unclear> by -khila-kṣetr<unclear>ā</unclear><supplied reason="lost">ṇāṁ</supplied>
+--><lb 
+n="6"/><unclear reason="illegible">pra</unclear>sādaṁ karttum<choice><sic>a</sic><corr>i</corr></choice>ti<supplied reason="subaudible">.</supplied> yataḥ pustapāla-patradāsenāvadhāritaṁ yuktam anena vijñāpitam asty ayaṁ vikraya<!-- 
+amwb : replaced karttum iti by karttum<choice><sic>a</sic><corr>i</corr></choice>ti
+--><lb 
 n="7" break="no"/>-maryyādā-prasaṅgas tad dīyatām asya parama-bhaṭṭāraka-mahārāja-pā<unclear reason="illegible">dānāṁ</unclear> puṇyopacayāyeti<supplied reason="subaudible">.</supplied> punar asyaiva <lb 
 n="8"/><unclear>patradā</unclear>sasyāvadhāraṇayāvadhr̥tya nābhaka-hastād dīnāra<add place="below">-<unclear>dvaya</unclear></add>m upasaṁgr̥hya sthāṇavila-kapila-śrībhadrābhyām <choice><sic>āyakr̥<unclear>tya</unclear></sic><corr>āyīkr̥tya</corr></choice> ca samudaya-<pb 
 
@@ -133,7 +150,7 @@ n="11"/><unclear>deyam etad-u</unclear>ttara-kālaṁ saṁvyavahāribhir ddharm
 <l n="c">yasya yasya yadā bhūmis</l>
 <l n="d">tasya tasya <lb n="13"/><unclear reason="illegible">tadā</unclear> phalaṁ</l>
 </lg>
-<lg n="2" met="anuṣṭubh">
+<lg n="3" met="anuṣṭubh">
 <l n="a">ṣaṣṭiṁ varṣṣa-sahasrāṇi</l>
 <l n="b">svargge modati bhūmidaḥ</l>
 <l n="c">Ākṣeptā cānumantā ca</l>
@@ -143,33 +160,28 @@ n="11"/><unclear>deyam etad-u</unclear>ttara-kālaṁ saṁvyavahāribhir ddharm
 			</div>
 				<div type="apparatus" resp="part:amwb">
 			<listApp>
-				<!--
-				amwb : add if we include my own readings see DHARMA_tfb_SADABengalCharters00032-1_image_art_10.jpg
-					<app loc="1">
-						<lem source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Balogh+al2019_01"><unclear reason="illegible">saṁ</unclear> <num value="163"><unclear reason="illegible"><g type="numeral">100</g></unclear> <unclear><g type="numeral">60</g></unclear> 3</num></lem>
-					<rdg source="bib:Sircar1965_02 bib:Goyal1993_01"><supplied reason="lost">saṁ <num><g type="numeral">100</g></num></supplied><unclear><num><g type="numeral">60</g></num></unclear> <num>3</num></rdg>
-					<note>On the photos I have at my disposal, <foreign>saṁ 100 60</foreign> is lost. It is possible that there is a 3 number where the plate begins but I can not confirm it. </note>
-					</app>
-				-->
-				<!-- 
-				amwb : add if we include my own readings
+				<app loc="1">
+						<lem><supplied reason="lost">saṁ</supplied> <num value="163"><supplied reason="lost"><g type="numeral">100</g></supplied> <supplied reason="lost"><g type="numeral">60</g></supplied> <unclear>3</unclear></num></lem>
+						<rdg source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Balogh+al2019_01"><unclear reason="illegible">saṁ</unclear> <num value="163"><unclear reason="illegible"><g type="numeral">100</g></unclear> <unclear><g type="numeral">60</g></unclear> 3</num></rdg>
+					<rdg source="bib:Sircar1965_02 bib:Goyal1993_01"><supplied reason="lost">saṁ <num value="163"><g type="numeral">100</g></num></supplied><unclear><g type="numeral">60</g></unclear> <num>3</num></rdg>
+					<note>On the photos I have at my disposal, <foreign>saṁ 100 60</foreign> is lost. It is possible that there is a 3 number where the plate begins but I can not confirm it. As the previous editors of the plate should have it in a better state of preservation, I keep their reading.</note> <!-- 
+					amwb : see DHARMA_tfb_SADABengalCharters00032-1_image_art_10.jpg
+					-->
+				</app>
 				<app loc="1">
 					<lem>-bhaṭṭ<unclear>ā</unclear>ra°</lem>
 					<rdg source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Balogh+al2019_01">bhaṭṭā<unclear>ra</unclear></rdg>
 					<rdg source="bib:Sircar1965_02 bib:Goyal1993_01">-bhaṭṭ<unclear>āra</unclear>°</rdg>
-				</app>-->
-				<!-- amwb : add if we include my own readings
+				</app>
 				<app loc="1">
 					<lem>°da-<unclear>pa</unclear>rigr̥hī°</lem>
 					<rdg source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Sircar1965_02 bib:Goyal1993_01 bib:Balogh+al2019_01">da-<unclear>pari</unclear>gr̥hī°</rdg>
 				</app>
-				-->
-				<!--amwb : add if we include my own readings
 				<app loc="2">
-					<lem source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Sircar1965_02 bib:Goyal1993_01 bib:Balogh+al2019_01"><unclear>rddhana</unclear>-</lem>
-					<note>On the photos I have at my disposal, all of this is lost.</note>
+					<lem><supplied reason="lost">rddhana</supplied>-</lem>
+					<rdg source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Sircar1965_02 bib:Goyal1993_01 bib:Balogh+al2019_01"><unclear>rddhana</unclear>-</rdg>
+					<note>On the photos I have at my disposal, all of this is lost, but I keep the reading of the previous editions .</note>
 				</app>
-				-->
 				<app loc="2"><!-- 
 				amwb : decide if we add a <supplied reason="subaudible">.</supplied> or not
 				-->
@@ -180,32 +192,35 @@ n="11"/><unclear>deyam etad-u</unclear>ttara-kālaṁ saṁvyavahāribhir ddharm
 					<lem source="bib:Pandey1962_01 bib:Sircar1965_02 bib:Goyal1993_01 bib:Balogh+al2019_01">svast<unclear>i</unclear><supplied reason="subaudible">.</supplied></lem>
 					<rdg source="bib:Basak1919-1920_01">svast<unclear>i</unclear></rdg>
 				</app>
-				<!--amwb : add if we include my own readings
 				<app loc="2">
-					<lem source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Sircar1965_02 bib:Goyal1993_01 bib:Balogh+al2019_01">kulādhi<unclear>ka</unclear></lem>
+					<lem source="bib:Basak1919-1920_01 bib:Sircar1965_02 bib:Goyal1993_01 bib:Balogh+al2019_01">sa-viśvāsaṁ</lem><!-- 
+					amwb : added an hyphen sa-viśvāsa and preserve the final ṁ ; on the photos I have at my disposal, it is not clear if it is an engraved point or a corrosion spot. Moreover the position of this point or spot is not really above the sa... I compared how the ṁ is engraved on this plate. Its position and its shape are not regular. See photos sādaṁ l6.png saṁgṛhya l5.png saṁgṛhya l8.png saṁvya l2.png taṁ l6.png. Finally, the text is more consistent with a ṁ
+					-->
+					<rdg source="bib:Pandey1962_01">sa-viśvāsa-</rdg>
+				</app>
+				<app loc="2">
+					<lem>kulādhi<unclear reason="illegible">ka</unclear></lem>
+					<rdg source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Sircar1965_02 bib:Goyal1993_01 bib:Balogh+al2019_01">kulādhi<unclear>ka</unclear></rdg>
 					<note>On the photos I have at my disposal, the <foreign>ka</foreign> is totally erased.</note>
 				</app>
-				-->
 				<app loc="3">
-					<lem source="bib:Balogh+al2019_01"><unclear>ra</unclear>ṇa<unclear>ṁ</unclear> grāmika</lem><!-- 
-					amwb : my own reading :
-					<supplied reason="lost">ra</supplied>ṇa<unclear>ṁ</unclear>
-					-->
+					<lem><supplied reason="lost">ra</supplied>ṇa<unclear>ṁ</unclear> grāmika</lem>
+					<rdg source="bib:Balogh+al2019_01"><unclear>ra</unclear>ṇa<unclear>ṁ</unclear> grāmika</rdg>
 					<rdg source="bib:Basak1919-1920_01 bib:Pandey1962_01"><unclear>ra</unclear>ṇagrāmika</rdg>
 					<rdg source="bib:Sircar1965_02 bib:Goyal1993_01"><unclear>ra</unclear><choice><sic>ṇa</sic><corr>ṇaṁ</corr></choice>grāmika</rdg>
 				</app>
 				<app loc="3">
-					<lem source="bib:Balogh+al2019_01">caṇḍagrāmaka-</lem>
-					<rdg source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Sircar1965_02 bib:Goyal1993_01">caṇḍagrāmake</rdg><!-- 
+					<lem source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Sircar1965_02 bib:Goyal1993_01">caṇḍagrāmake</lem><!-- 
 					amwb : I disagree with Daniel's reading, the ke is clear 
 					-->
+					<rdg source="bib:Balogh+al2019_01">caṇḍagrāmaka-</rdg>
 				</app>
 				<app loc="3">
-					<lem source="bib:Goyal1993_01 bib:Balogh+al2019_01">brāhmaṇādhyakṣa-kṣudra-</lem>
-					<rdg source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Sircar1965_02">brāhmaṇādhyānna-kṣudra-</rdg><!-- 
+					<lem source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Sircar1965_02">brāhmaṇādhyānna-kṣudra-</lem><!-- 
 					amwb : my own reading, I have another example of dyā in BC33 and it is really close to I see here
 					brāhmaṇādyānnakṣudra
 					-->
+					<rdg source="bib:Goyal1993_01 bib:Balogh+al2019_01">brāhmaṇādhyakṣa-kṣudra-</rdg>
 				</app>
 				<app loc="3">
 					<lem source="bib:Balogh+al2019_01">°darśayanti <unclear reason="illegible">yathā</unclear></lem>
@@ -233,21 +248,22 @@ n="11"/><unclear>deyam etad-u</unclear>ttara-kālaṁ saṁvyavahāribhir ddharm
 					<lem source="bib:Balogh+al2019_01">prativāsayituṁ <supplied reason="subaudible">.</supplied></lem>
 					<rdg source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Sircar1965_02 bib:Goyal1993_01">prativāsayituṁ</rdg>
 				</app>
-				<!-- amwb : add if we include my own readings
-					<app loc="5">
-					<lem source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Sircar1965_02 bib:Goyal1993_01 bib:Balogh+al2019_01"><unclear>tad a</unclear>rhatha</lem>
-					<note>On the photos I have at my disposal, <unclear>tad a</unclear>is totally lost.</note>
-				</app>
-				-->
 				<app loc="5">
-					<lem source="bib:Balogh+al2019_01">-khila-<unclear>-kṣetrasya</unclear></lem>
+					<lem><supplied reason="lost">tad a</supplied>rhatha</lem>
+					<rdg source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Sircar1965_02 bib:Goyal1993_01 bib:Balogh+al2019_01"><unclear>tad a</unclear>rhatha</rdg>
+					<note>On the photos I have at my disposal, <foreign>tad a</foreign>is totally lost.</note>
+				</app>
+				<app loc="5">
+					<lem>-khila-kṣetr<unclear>ā</unclear><supplied reason="lost">ṇāṁ</supplied></lem>
+					<rdg source="bib:Balogh+al2019_01">-khila-<unclear>-kṣetrasya</unclear></rdg>
 					<rdg source="bib:Basak1919-1920_01 bib:Sircar1965_02 bib:Goyal1993_01">-khila-kṣetrāṇā<unclear>ṁ</unclear></rdg>
 					<rdg source="bib:Pandey1962_01">-<unclear>khila-kṣetrāṇāṁ</unclear></rdg><!-- 
 					amwb : the last aksara is not illegible but I read kṣetrā I took a photo of a sya in line 7 which shows that I should see something under tra if it was followed by sya. It is not the case, so I will choose Basak's reading 
 					-->
 				</app>
 				<app loc="6">
-					<lem source="bib:Balogh+al2019_01">karttum iti<supplied reason="subaudible">.</supplied></lem><!-- 
+					<lem>karttum<choice><sic>a</sic><corr>i</corr></choice>ti<supplied reason="subaudible">.</supplied></lem>
+					<rdg source="bib:Balogh+al2019_01">karttum iti<supplied reason="subaudible">.</supplied></rdg><!-- 
 					amwb : there is no doubt it is karttumati ! So we have to change the edition and suggest karttum<choice><sic>a</sic><corr>i</corr></choice>ti with or without <supplied reason="subaudible">.</supplied> after it.  
 					-->
 					<rdg source="bib:Basak1919-1920_01">karttu<choice><sic>ma</sic><corr>mi</corr></choice>ti</rdg>
@@ -352,12 +368,11 @@ n="11"/><unclear>deyam etad-u</unclear>ttara-kālaṁ saṁvyavahāribhir ddharm
 				</app>
 				<app loc="10">
 					<lem source="bib:Balogh+al2019_01">nābha<unclear reason="illegible">kāya</unclear></lem>
-					<rdg source="bib:Basak1919-1920_01 bib:Sircar1965_02">nabhādevasya</rdg>
-					<rdg source="bib:Pandey1962_01">nāgadevasya</rdg><!-- 
+					<rdg source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Sircar1965_02">nāgadevasya</rdg><!-- 
 					amwb : I absolutely agree with pandey's reading 
 					-->
 					<rdg source="bib:Goyal1993_01">nabhā<supplied reason="lost">kāya</supplied></rdg>
-					<note><bibl><ptr target="bib:Sircar1965_02"/></bibl> suggests reading <foreign>nabhādevāya</foreign> in note.</note>
+					<note><bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">334</citedRange></bibl> suggests reading <foreign>nagādevāya</foreign> in note 3.</note>
 				</app>
 				<app loc="11">
 					<lem source="bib:Balogh+al2019_01"><unclear>deyam etad-u</unclear>ttara-</lem>
@@ -425,11 +440,24 @@ n="11"/><unclear>deyam etad-u</unclear>ttara-kālaṁ saṁvyavahāribhir ddharm
 			<p n="1-2"><supplied reason="lost">In the year 163</supplied>,<note>
 				It is impossible for me to confirm the numbers, but one must believe <bibl><ptr target="bib:Basak1919-1920_01"/></bibl> who certainly have at his disposal a plate in a better state of preservation. He says in his introduction <supplied reason="explanation"><bibl><ptr target="bib:Basak1919-1920_01"/><citedRange unit="page">135</citedRange></bibl></supplied> : <q>Numerical symbols for 10 and 3 are visible in the recording of the month <supplied reason="explanation"><foreign>Āṣāḍha</foreign></supplied> in lne 1. The date in years is unfortunately lost; but the numerical figure 3 after what seems like the symbol for 60 is also visible before the word <foreign>Āṣāḍha</foreign> in line 1.</q>  </note> on the thirteenth day of the month Āṣāḍha,
 			during <supplied reason="explanation">the reign of</supplied><note>
-				I translated the locative absolute by the expression <q>during the reign of</q> in order to obtain a nominal sentence complying with the sanskrit syntax which closes the mention of the date by <foreign>svasti</foreign>. 
-			</note> His Majesty Budhagupta, Great King and Emperor,Supreme Majesty and Supreme Lord, the Lord of the Earth, when Brahmadatta the Great king's governor was managing affairs in Puṇḍravardhana province, good luck <supplied reason="explanation"><foreign>svasti</foreign></supplied> !</p>
-			<p n="2-"> The village landholders and the landholders whose nature is modest and those who gets food, beginning with the brahmins in the small village Caṇḍa <supplied reason="explanation"><foreign>caṇḍagrāmake</foreign></supplied> along with the entire council composed by the eight communities <supplied reason="explanation"><foreign>kula</foreign></supplied> beginning with the notables <supplied reason="explanation"><foreign>mahattara</foreign></supplied><!-- 
-			amwb it seems there is a strong contrast between the two groups : on the one hand, the modest and poor and on the other, the council of notables 
-			--> coming from the Palāśa grove <supplied reason="explanation"><foreign>Palāśavṛndaka</foreign></supplied>  </p>
+				I translated the locative absolute by the expression <q>during the reign of</q> in order to obtain a nominal sentence complying with the sanskrit syntax. I consider that the final iti in line 13 includes what begins by <foreign>svasti</foreign> to the end.  
+			</note> His Majesty Budhagupta, Great King and Emperor,Supreme Majesty and Supreme Lord, the Lord of the Earth, when Brahmadatta the Great king's governor was managing affairs in Puṇḍravardhana province, it has been said <supplied reason="explanation"><foreign>iti</foreign>, line 13</supplied>: </p>
+			<p n="2-3">Good luck <supplied reason="explanation"><foreign>svasti</foreign></supplied>! The village landholders and the landholders whose nature is modest and those who gets food, beginning with the brahmins in the small village Caṇḍa <supplied reason="explanation"><foreign>caṇḍagrāmake</foreign></supplied> greet with confidence the council composed by the eight communities <supplied reason="explanation"><foreign>kula</foreign></supplied> beginning with the notables <supplied reason="explanation"><foreign>viśvāsa-mahattara</foreign></supplied> coming from the Palāśa grove <supplied reason="explanation"><foreign>Palāśavṛndaka</foreign></supplied> <supplied reason="subaudible">and</supplied> inform as follows:  </p>
+			<p n="4-6">The villager Nābhaka petitions us : for the sake of the increase of my own merit and that of both my mother and my father, I wish to cause to dwell sevral nobles Brahmins. Thus, be so kind as to make a gift of waste lands that are without revenue charges<!-- 
+				amwb l5 : here I translated kśetrāṇām , if we conserve daba's reading (kṣetrasya), change the plural into a singular   
+			--> after receiving from me gold according to the custom of sale followed in the villages. </p>
+			<p n="6-7">Wherefore, through the investigation made by the record-keeper Patradāsa it has been ascertained that this custom of sale applies. Thus it ought to be given for the sake of his merit by the supreme lord favored by the Great King <supplied reason="explanation">ie. Brahmadatta</supplied> <supplied reason="explanation"><foreign>parama-bhaṭṭāraka-mahārāja-pādena</foreign></supplied>.<!-- 
+			amwb :  This translation does not refer to daba's reading but seems to me more consistent parama-bhaṭṭāraka-mahārāja-pādena could refer to Brahmadatta line 1 upari-mahārāja-brahmadatte
+			l7: translation for daba's reading "it ought to be given for the sake of increase of his merit <supplied reason="subaudible">and</supplied> that of the supreme lords favored by the Great King <supplied reason="explanation"><foreign>parama-bhaṭṭāraka-mahārāja-pādānāṁ</foreign></supplied>." but if we accept the others, translate "it ought to be given for the sake of his merit by the supreme lord favored by the Great King <supplied reason="explantion">ie. Brahmadatta</supplied>
+			Basak has a different understanding and considers the genitive as the recipient of the gift : so be it given to him by his Majesty, the parama-bhaṭṭāraka for the increase of merits
+			--></p>
+			<p n="7-11">After having again considered the certification given by the aforementioned <supplied reason="explanation"><foreign>asyaiva</foreign></supplied> Patradāsa, after having collected from the hand of Nābhaka two <foreign>dīnāra</foreign>s and after it has been received in cash <supplied reason="explanation"><foreign>āyīkṛtya</foreign></supplied> by the two appointed guardians <supplied reason="explanation">sthāyapāla</supplied> Kapila and Śrībhadra<!--
+			amwb : for the meaning I suggest for sthāyapāla See Monier-Williams p.1262 and 1264. In my opinion it refers to the local guardians
+			-->, and after the landholders and the council beginning with the notables have looked for one <foreign>kulya-vāpa</foreign> of waste land that is without revenue charges on the south, west and east of the real boundary and also of the one that neighbours/borders the north of Vāyigrāma, after <supplied reason="subaudible">this land</supplied> was separating by the measurement of eight per nine reeds and has been limited by four marks, it ought be given to Nābhaka and be protected by those who will manage <supplied reason="subaudible">this province</supplied> in the future after considering the merit <supplied reason="subaudible">of protection</supplied></p>
+			<p n="11-13">It has been said by the great sages :</p>
+			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.</p>
+			<p n="2" rend="stanza">Land has been given by several kings beginning with Sagara. Whoever holds land at a given time, to him does the fruit belong.</p>
+			<p n="3" rend="stanza">The giver of land delights sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
 		</div>
 		<div type="commentary">
 		</div>
