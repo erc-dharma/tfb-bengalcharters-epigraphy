@@ -2,6 +2,9 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
@@ -467,7 +470,7 @@ amwb : replaced <unclear reason="illegible">tadā</unclear> by the actual state 
 					<lem><supplied reason="lost">tadā</supplied> phalaṁ</lem>
 					<rdg source="bib:Basak1919-1920_01"><unclear>tadā</unclear> phalaṁ</rdg>
 					<rdg source="bib:Pandey1962_01 bib:Sircar1965_02 bib:Goyal1993_01">tadā</rdg>
-					<rdg source=" bib:Balogh+al2019_01"><unclear reason="illegible">tadā</unclear> phalaṁ</rdg>
+					<rdg source="bib:Balogh+al2019_01"><unclear reason="illegible">tadā</unclear> phalaṁ</rdg>
 					<!--amwb :
 						<note>On the photos I have at my disposal, the line begins by <foreign>phalaṁ</foreign>.</note>
 					-->
@@ -483,7 +486,7 @@ amwb : replaced <unclear reason="illegible">tadā</unclear> by the actual state 
 					-->
 					<rdg source="bib:Pandey1962_01 bib:Sircar1965_02 bib:Goyal1993_01">vased iti ||</rdg>
 					<rdg source="bib:Basak1919-1920_01">vase<choice><sic>diti</sic><corr>T<supplied reason="subaudible">.</supplied>iti</corr></choice>||</rdg>
-					<note><bibl><ptr target=" bib:Sircar1965_02"/></bibl> suggests reading <foreign>vaseT || iti ||</foreign> in note. </note>
+					<note><bibl><ptr target="bib:Sircar1965_02"/></bibl> suggests reading <foreign>vaseT || iti ||</foreign> in note. </note>
 				</app>
 			</listApp>
 		</div>
