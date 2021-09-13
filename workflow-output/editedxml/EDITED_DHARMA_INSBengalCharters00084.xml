@@ -326,8 +326,10 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">saṁ<lb n="12" break="no"/>yuktāṁ</rdg>
                    </app>
                    <app loc="12">
-                       <lem source="bib:Balogh+al2019_01">yadheṣṭe<choice><unclear>c</unclear><unclear>v</unclear></choice>a</lem>
-                       <rdg source="bib:Majumdar1935-1936_02">yadheṣṭeva</rdg>
+                       <lem source="bib:Balogh+al2019_01">yadheṣṭe<choice><unclear>c</unclear><unclear>v</unclear></choice>a</lem><!-- 
+                       amwb : here I translated yatheṣṭaṁ ie. Sircar's emendation
+                       -->
+                       <rdg source="bib:Majumdar1935-1936_02">yatheṣṭeva</rdg>
                        <rdg source="bib:Sircar1965_02">yadheṣṭe ca</rdg>
                        <note><bibl><ptr target="bib:Sircar1965_02"/></bibl> suggests reading <foreign>yatheṣṭaṁ</foreign>.</note>
                    </app>
@@ -347,7 +349,7 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
                        <lem source="bib:Balogh+al2019_01">pranāyya<unclear>ṁ</unclear></lem>
                        <rdg source="bib:Majumdar1935-1936_02">pranāryya</rdg>
                        <rdg source="bib:Sircar1965_02">pranāyyaṁ</rdg>
-                       <note><bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> suggests reading <foreign>praṇāyya</foreign>, while <bibl><ptr target="bib:Sircar1965_02"/></bibl> suggest understanding <foreign>prāṇāyyaṁ</foreign> <q>honestly</q>.</note>
+                       <note><bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> suggests reading <foreign>praṇāyya</foreign>, while <bibl><ptr target="bib:Sircar1965_02"/></bibl> suggests understanding <foreign>prāṇāyyaṁ</foreign> <q>honestly</q>.</note>
                    </app>
                    <app loc="13">
                        <lem source="bib:Sircar1965_02 bib:Balogh+al2019_01">datt<choice><sic>o</sic><corr>ā</corr></choice>ḥ<supplied reason="subaudible">.</supplied></lem>
@@ -496,7 +498,7 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
  	    He interprets the <foreign>cakra</foreign> on the seal as the famous attribute of Viṣṇu and the whole seal with the two armed-deity as a representation of Cakrapuruṣa. As he found the name Lokanātha within the list of Viṣṇu’s names from the <title>Anuśāsanaparvan</title> of the <title>Mahābhārata</title>, he suggests that the glorified deity should be Viṣṇu. He also quoted the Ahirbudhnya Saṃhita as a source in which one can find eulogy of this form of Viṣṇu. After checking the content of this text from Schrader’s book <supplied reason="explanation"><title>Introduction to the Pāñcarātra and the Ahirbudhnya Saṃhitā</title></supplied>, I understand that Viṣṇu as Cakrapuruṣa in this text is a sixteen-armed deity. So it could be an argument for the identification of the obedience for our plate. 
  	    The epithet Lokanātha can be found in <ref target="DHARMA_INSBengalCharters00026.xml">Biyala Plate of Mahīpāla I, year 35</ref> in line 4, <ref target="DHARMA_INSBengalCharters00071.xml">Rajibpur Plate of Gopāla IV, year 2 and Madanapāla, year 2</ref> in line 2,  <ref target="DHARMA_INSBengalCharters00072.xml">Rajibpur Plate of Madanapāla, year 22</ref> in line 2 and <ref target="DHARMA_INSBengalCharters00075.xml">Manahali Plate of Madanapāla, year 8</ref> in line 2. <!-- 
  	    amwb . I have to deepen this question by checking obedience of these plates and by finding clues of potential obedience in this plate
- 	    What seems to be stranged : mention of Kaundinya?? The compound lokadvayasādhana
+ 	    What seems to be stranged : mention of Kaundinya?? + The compound lokadvayasādhana + the name of the brahmin Vatsa is related to paśu...
  	    What is very insteresting : the list of names of profession 
  	    -->
  	    
@@ -553,7 +555,7 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
              <ref target="DHARMA_INSBengalCharters00057.xml">A second grant concerning the Raktamālā estate</ref> in the first line of the seal, 
              <ref target="DHARMA_INSBengalCharters00071.xml">Rajibpur Plate of Gopāla IV, year 2 and Madanapāla, year 2</ref> line 40 and 
              <ref target="DHARMA_INSBengalCharters00075.xml">Manahali Plate of Madanapāla, year 8</ref> in line 35. 
-             Thus I deduce from this that the others words are also names of types of profession. For the moment, my attempt to translate these names is somewhat awkward and needs to be i; porved in the future. So my understanding totally differs from the suggestion of <bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> who interprets <foreign>kumārāmatya</foreign>, <foreign>viṣayapati</foreign> and <foreign>tadāyuktaka</foreign> and all others words as proper names.  
+             Thus I deduce from this that the others words are also names of types of profession. For the moment, my attempt to translate these names is somewhat awkward and needs to be improved in the future. So my understanding totally differs from the suggestion of <bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> who interprets <foreign>kumārāmatya</foreign>, <foreign>viṣayapati</foreign> and <foreign>tadāyuktaka</foreign> and all others words as proper names.  
          </note>
      </p>
              <p n="8">
@@ -562,6 +564,40 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
              <p n="8-10">After having purchased it from you according to the legal proceeding <supplied reason="explanation"><foreign>yathānyāyena</foreign></supplied>,I wish to give eight <foreign>kulyavāpa</foreign>s in the village Vettragarttā belonging to this territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>  in the sake of the increase of my own merit and the one of both my mother and my father to be enjoyed in succession by sons and grandsons, thanks the practice of permanent endowment, to Vatsasvāmin, belonging to the R̥̥gveda tradition <supplied reason="explanation">Bāhvṛca</supplied>, disciple of Kauṇḍinya,<!-- 
              amwb : or belonging to Kauṇḍinya lineage... could it be a reference to Kauṇḍinya author of the pañcārthabhāṣya, the commentator of the pāśupatasūtra
              -->in order to perform the five great sacrifices.  </p>
+             <p n="10-11">Therefore, due to his requesting it has been ascertained by us: this <supplied reason="subaudible">request</supplied> is a customary deed among the numerous pious ones for the virtuous men who want to conquest the world in both ways and a sixth part of merit <supplied reason="subaudible">produced by it</supplied> is vested in His Majesty the sovereign Lord. Thus for us also who are protecting <supplied reason="subaudible">this gift</supplied>, there is a conjunction of fame and welfare. </p>
+             <p n="11">It has been said</p>
+             <p n="1" rend="stanza">The man who approves an deed endowed with Dharma, even in mind, he increases at pleasure <supplied reason="explanation"><foreign>yaṭheṣṭam</foreign></supplied> as the moon <supplied reason="explanation">uḍurāj</supplied> during the light fortnight.  </p>
+             <p n="12-13">Thus <supplied reason="explanation"><foreign>tad</foreign></supplied>, considering <supplied reason="explanation"><foreign>iti</foreign></supplied> his request is granted, after having distributed within <supplied reason="subaudible">the officials of this</supplied> territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied> the <foreign>dīnāra</foreign>s <supplied reason="subaudible">paid</supplied> by him according to the meritorious acts made by us, the gift as it has been described must be honestly <supplied reason="explanation"><foreign>prāṇāyyaṁ</foreign></supplied> conveyed in the income of this territory of up to eight <foreign>kulyavāpa</foreign>s belonging to the village Vettragarta.</p>
+             <p n="13-14">After having sprinkled with powder <supplied reason="explanation"><foreign>avacūrṇya</foreign></supplied> eight <foreign>kulyavāpa</foreign>s, 
+               the Great King Vijayasena and also <supplied reason="lost">us</supplied><supplied reason="explanation">gap at the beginning of the line 14</supplied><note>
+                 I suggest completing the begining of the line 14 by <foreign>asmābhir a</foreign>°.
+             </note>
+                 give them to Vatsasvāmin, belonging to the R̥̥gveda tradition <supplied reason="explanation">Bāhvṛca</supplied>, disciple of Kauṇḍinya,<!-- 
+             amwb : or belonging to Kauṇḍinya lineage... could it be a reference to Kauṇḍinya author of the pañcārthabhāṣya, the commentator of the pāśupatasūtra
+             -->in order to perform the five great sacrifices and this is established by a copper-plate. </p>
+             <p n="14-17">Then here follow the frontiers of this land in the four directions: 
+             <list>
+                 <item>the Eastern boundary is Godhagrāma,</item>
+                 <item>the Southern boundary is also Godhagrāma</item>
+                 <item>the Northern boundary is Vaṭavallaka <supplied reason="explanation"> the Banyan pole</supplied>, <supplied reason="subaudible">situated in</supplied> an <foreign>agrahāra</foreign> <supplied reason="subaudible">land given in donation</supplied></item>
+                 <item>the Western boundary is in the middle of Āmragarttikā <supplied reason="explanation">the mango tree of the weaver’s workshop</supplied> </item>
+                 
+             </list>
+                 And there, pillars marked by rosaries made of lotus seeds are fixed in the four boundaries. Concerning the enjoyment of this land whose the boundaries have been marked devoted to the performance of the five great sacrifices by this Brahmin, any objection however small or any protestation by raising hands may be made by anyone belonging to his family or by anyone else. 
+             </p>
+             <p n="17-18">This having been ascertained, he who does that, will be slained and will be marred by the five great sins and by others little sins. Moreover: </p>
+               <p n="4" rend="stanza">The Gods and his Ancestors will never receive his offering <supplied reason="explanation"><foreign>havis</foreign></supplied> and his oblation <supplied reason="explanation"><foreign>piṇḍa</foreign></supplied>. He whose tree is like beheaded, deprived of stability, will fall <supplied reason="subaudible">in hell</supplied>.</p>
+             <p n="19">The sacred verses describing the virtues and the dishonor of the confiscation and protection of a gift of land are:</p>
+             <p n="5" rend="stanza">The giver of land enjoys sixty thousand years in heaven; the one who challenges [a donation] as well as the one who approves [of the challenge] will reside as many [years] in hell.</p>
+              <p n="6" rend="stanza"/>
+              <p n="7" rend="stanza"/>
+              <p n="8" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.</p>
+              <p n="9" rend="stanza">This has been given by hundreds of kings and it will be given again and again. Whoever holds land at a given moment, to him does the fruit belong.</p>
+              <p n="10" rend="stanza"/>
+             
+            
+             
+             
          </div>
          <div type="commentary">
             <!--
