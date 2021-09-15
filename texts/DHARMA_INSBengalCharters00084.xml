@@ -114,19 +114,30 @@ n="01"/><unclear reason="illegible">mahā</unclear>rāja-vijaya<unclear>se</uncl
 				</div>
              <div type="textpart" n="B"><head xml:lang="eng">Plates</head>
 <lg n="1" met="āryā">
-<l n="ab"><lb n="1"/><gap reason="lost" precision="low" quantity="8" unit="character"/> <supplied reason="lost">lo</supplied>ka-nāthaḥ yaḥ puṁsāṁ sukr̥ta-karmma-phala-hetuḥ</l>
+<l n="ab"><lb n="1"/><gap reason="lost" precision="low" quantity="8" unit="character"/> <supplied reason="lost">lo</supplied>ka-nāthaḥ yaḥ puṁsāṁ<!-- 
+amwb : <unclear>yaḥ</unclear> <uncleat>puṁ</unclear><supplied reason="lost">sāṁ</supplied> 
+--> sukr̥ta-karmma-phala-hetuḥ</l>
 <l n="cd">satya-tapo-maya-mūrttir lloka-dvaya-sādhano dharmmaḥ</l>
 </lg><!-- 
 daba: For the lost beginning, Sircar conjecturally supplies a mangala symbol, followed by svasti| jayati śrī. This is unmetrical (hypermetrical to begin with, and the pattern .-. is not permitted in the third foot). He also notes that "some" suggest trilokanātha for Viṣṇu, but with homage to dharma in the second half of this verse and santaḥ (~saṁgha) in the next verse, the flavour seems to be Buddhist, so one would expect homage to the Buddha here. However, trilokanātha is metrically correct. Alternatively one could hypothesize sa lokanāthaḥ. 
 --><lg n="2" met="upagīti">
-<l n="ab">tad-anu jita da<choice><sic>n</sic><corr>m</corr></choice>bha-lobhā jaya<lb  n="2" break="no"/><supplied reason="lost">nti</supplied> <gap reason="lost" precision="low" quantity="1" unit="character"/> <seg type="component" subtype="consonant"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear cert="low">ya</unclear> <unclear>pa</unclear>rah<supplied reason="lost">i</supplied>tārthāḥ</l>
-<l n="cd">ni<unclear>rmma</unclear>tsarāḥ sucaritaḥ para-loka-jigīṣavaḥ santaḥ</l>
+<l n="ab">tad-anu jita da<choice><sic>n</sic><corr>m</corr></choice>bha-lobhā jaya<lb  n="2" break="no"/><supplied reason="lost">nti</supplied> <gap reason="lost" precision="low" quantity="1" unit="character"/> <seg type="component" subtype="consonant"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear cert="low">ya</unclear> <unclear>pa</unclear>rah<supplied reason="lost">i</supplied>tārthāḥ</l><!--
+    amwb <supplied reason="lost">yapa</supplied><unclear>ra</unclear>h<supplied reason="lost">i</supplied>tārthāḥ
+-->
+<l n="cd">ni<unclear>rmma</unclear>tsarāḥ<!-- 
+amwb : ni<supplied reason="lost">rmma</supplied>tsarāḥ
+--> sucaritaḥ<!-- 
+amwb : sucaritaiḥ
+--> para-loka-jigīṣavaḥ santaḥ</l>
 </lg><!-- 
 daba: For danbha in l1, Sircar prints damta; he too emends to dambha, like Majumdar. This is probably a typo in Sircar. 
 --><!-- 
 daba: At the beginning of l2, Sircar tentative restores jayanti cirāya. This is again unmetrical; the pattern .-. is not permitted in the fifth foot. Also, I don't think there is a full ya at the beginning; however, there does seem to be a subscript ya there. This would mean that the lost syllable preceding this is a heavy one, which in turn means that the one with the subscript ya must also be heavy to give us four morae for this foot. The size of the lacuna also indicates that there is probably only one akṣara lost between the expected nti and the one with the subscript ya. So e.g. jayanti nityaṁ would be metrically correct and would correspond to what I can see in the rubbing. 
---><p>pr̥thivīṁ pr̥thur iva prathita-pratāpa-naya-śauryy<unclear>e</unclear> mahārājādhirāja-śrī-gopa<lb 
-n="3" break="no"/><supplied reason="lost">can</supplied><unclear cert="low">dr</unclear><supplied reason="lost">e</supplied> praśāsati tad-anujñaptāyāṁ puṇyottara-janapadādhyāsitāyā<supplied reason="omitted">ṁ</supplied> satata-dharmma-kriyā-varddhamānāyāṁ varddhamāna-bhuktau pūjyān varttamānopasthita<surplus>ta</surplus>-kārttākr̥tika-ku<lb 
+--><p>pr̥thivīṁ pr̥thur iva prathita-pratāpa-naya-śauryy<unclear>e</unclear> mahārājādhirāja-śrī-gopa<!-- 
+amwb : mahārājādhirāja-<unclear>śrī</unclear>-gopa
+--><lb 
+n="3" break="no"/><supplied reason="lost">can</supplied><unclear cert="low">dr</unclear><supplied reason="lost">e</supplied> praśāsati tad-anujñaptāyāṁ puṇyottara-janapadādhyāsitāyā<supplied reason="omitted">ṁ</supplied> satata-dharmma-kriyā-varddhamānāyāṁ varddhamāna-bhuktau pūjyān varttamānopasthita<surplus>ta</surplus>-kārttākr̥tika<!-- amwb: kā<unclear>rttākr̥tika</unclear>
+-->-ku<lb 
 n="4" break="no"/>mārāmātya-c<unclear>au</unclear>r<unclear>o</unclear>ddharaṇikoparikaudraṅgikāgrahārikaurṇasthānika-bhogapatika-viṣayapati-tad<choice><sic>a</sic><corr>ā</corr></choice>yuktaka-hiraṇya-sāmudāyika-pattalakāvasathika-devadroṇī-samva<lb 
 n="5" break="no"/>ddhādīn vidhivat sampūjya vakkattaka-vīthī-samvaddhārddhakarakāgrahārīṇa-mahattara-himadattaḥ nirvr̥ta-vāṭakīya-mahattara-su<supplied reason="omitted">va</supplied>rṇṇayaśā<supplied reason="omitted">ḥ</supplied> kapistha-vāṭakāgrah<unclear>ā</unclear>rīṇa<lb 
 n="6" break="no"/>-mahattara-dhanasvām<choice><sic>i</sic><corr>ī</corr></choice> vaṭavallakāgrahārīṇa-mahattara-ṣaṣṭhidatta-śrīdattau koḍḍavīrāgrahārīṇa-bhaṭṭa-vāmanasvām<choice><sic>i</sic><corr>ī</corr></choice> godhagrāmāgrahārīṇa-mahidatta-rājya<lb 
@@ -248,16 +259,22 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
                        <rdg source="bib:Sircar1965_02"><supplied reason="lost">cirā</supplied>ya <supplied reason="lost">para°</supplied></rdg>
                    </app>
                    <app loc="2">
-                       <lem source="bib:Balogh+al2019_01">°h<supplied reason="lost">i</supplied>tārthāḥ</lem>
+                       <lem source="bib:Balogh+al2019_01">°h<supplied reason="lost">i</supplied>tārthāḥ</lem><!-- 
+                       amwb : I agree with Balogh 
+                       -->
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">°hitārthāḥ</rdg>
                    </app>
                    <app loc="2">
                        <lem source="bib:Balogh+al2019_01">ni<unclear>rmma</unclear>tsarāḥ</lem>
-                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">ni<supplied reason="lost">rmma</supplied>tsarāḥ</rdg>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">ni<supplied reason="lost">rmma</supplied>tsarāḥ</rdg><!-- 
+                       amwb : there is a gap at the place where rmma could be written, so it is clearly lost So choose Majumdar and Sircar 
+                       -->
                    </app>
                    <app loc="2">
                        <lem source="bib:Balogh+al2019_01">sucaritaḥ</lem>
-                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">sucaritaiḥ</rdg>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">sucaritaiḥ</rdg><!-- 
+                       amwb : I read as Majumbar and sircar did
+                       -->
                    </app>
                    <app loc="2">
                        <lem source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">pr̥thur iva</lem>
@@ -265,18 +282,32 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
                    </app>
                    <app loc="2">
                        <lem source="bib:Balogh+al2019_01">-śauryy<unclear>e</unclear></lem>
-                       <rdg source="bib:Majumdar1935-1936_02">-śauryy<supplied reason="lost">e</supplied></rdg>
+                       <rdg source="bib:Majumdar1935-1936_02">-śauryy<supplied reason="lost">e</supplied></rdg><!--
+                       amwb I agree with Majumdar
+                       -->
                        <rdg source="bib:Sircar1965_02">-śau<supplied reason="lost">ryye</supplied></rdg>
                    </app>
+                  <!-- amwb: 
+                   <app loc="2">
+                       <lem>mahārājādhirāja-<unclear>śrī</unclear>-</lem>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">mahārājādhirāja-śrī-</rdg>
+                   </app>-->
                    <app loc="3">
                        <lem source="bib:Balogh+al2019_01">°<supplied reason="lost">can</supplied><unclear cert="low">dr</unclear><supplied reason="lost">e</supplied></lem>
                        <rdg source="bib:Majumdar1935-1936_02">°c<supplied reason="lost">and</supplied><unclear>r</unclear><supplied reason="lost">e</supplied></rdg>
                        <rdg source="bib:Sircar1965_02">°<supplied reason="lost">candre</supplied></rdg>
                        <note><bibl><ptr target="bib:Majumdar1935-1936_02"/><citedRange unit="page">157</citedRange></bibl> explains how he restores <foreign>gopacandre</foreign> without hesitation. </note>
                    </app>
+                    <!--amwb :
+                    <app loc="3">
+                        <lem>-kā<unclear>rttākr̥tika</unclear>-</lem>
+                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">-kārttākr̥tika-</rdg>
+                    </app>-->
                    <app loc="4">
                        <lem source="bib:Balogh+al2019_01">-c<unclear>au</unclear>r<unclear>o</unclear>ddha°</lem>
-                       <rdg source="bib:Majumdar1935-1936_02">-c<supplied reason="lost">au</supplied>r<unclear>o</unclear>ddha°</rdg>
+                       <rdg source="bib:Majumdar1935-1936_02">-c<supplied reason="lost">au</supplied>r<unclear>o</unclear>ddha°</rdg><!-- 
+                       amwb : agree with this reading 
+                       -->
                        <rdg source="bib:Sircar1965_02"><supplied reason="lost">cauro</supplied>ddha°</rdg>
                    </app>
                    <app loc="4">
@@ -284,23 +315,48 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
                        <rdg source="bib:Sircar1965_02">tadā<supplied reason="subaudible">.</supplied> yuktaka-</rdg>
                    </app>
                    <app loc="4">
-                       <lem source="bib:Balogh+al2019_01">°droṇī--samva</lem>
+                       <lem source="bib:Balogh+al2019_01">°droṇī-samva</lem>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">°droṇī--sam<choice><sic>v</sic><corr>b</corr></choice>a</rdg>
+                      <!-- amwb : my own reading :
+                          <lem>°<unclear>droṇī-samva</unclear></lem>
+                      -->
                    </app>
+                  <!-- amwb : my own reading 
+                    <app loc="5">
+                       <lem><unclear>ddhā</unclear>dīn vidhi°</lem>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">ddhādīn vidhi°</rdg>
+                   </app>-->
                    <app loc="5">
                        <lem source="bib:Balogh+al2019_01">-samvaddhārddha°</lem>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">-sam<choice><sic>v</sic><corr>b</corr></choice>addhārddha°</rdg>
                    </app>
                     <app loc="5">
-                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">-mahattara-himadattaḥ</lem>
+                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">-mahattara-himadattaḥ</lem><!-- 
+                       amwb : agree with this reading
+                       -->
                        <rdg source="bib:Sircar1965_02">-mahattaraḥ himadattaḥ</rdg>
                    </app>
                    <app loc="5">
                        <lem source="bib:Balogh+al2019_01">-vāṭakāgrah<unclear>ā</unclear>rīṇa</lem>
-                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">-vāṭakāgrah<supplied reason="lost">ā</supplied>rīṇa</rdg>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">-vāṭakāgrah<supplied reason="lost">ā</supplied>rīṇa</rdg><!-- amwb:
+                       impossible to see if there was a mark for the long a 
+                       -->
                    </app>
+                   <!-- amwb : my own reading 
+                    <app loc="6">
+                       <lem>vāmanasvāmī</lem>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">vāmanasvām<choice><sic>i</sic><corr>ī</corr></choice></rdg>
+                   </app>-->
+                  <!-- <app loc="8">
+                       <lem>-mahārāja-<unclear>vi</unclear>jayasenena</lem><!-\- 
+                       amwb search in EDG how noting that there is a scribal correction the vi is retraced
+                       -\->
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">-mahārāja-vijayasenena</rdg>
+                   </app>-->
                    <app loc="8">
-                       <lem source="bib:Balogh+al2019_01 bib:Sircar1965_02">Icche 'ham </lem>
+                       <lem source="bib:Balogh+al2019_01 bib:Sircar1965_02">Icche 'ham </lem><!-- 
+                       amwb : agree with this reading and this understanding of the text
+                       -->
                        <rdg source="bib:Majumdar1935-1936_02">Icche <choice><sic>'h</sic><corr>y</corr></choice>am </rdg>
                    </app>
                    <app loc="8">
@@ -308,27 +364,40 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
                        <rdg source="bib:Majumdar1935-1936_02">-sam<choice><sic>v</sic><corr>b</corr></choice>addha-</rdg>
                        <rdg source="bib:Sircar1965_02">-sambaddha-</rdg>
                    </app>
+                  <!-- amwb : there is a clear virama under na 
+                     <app loc="9">
+                       <lem>kulyavāpāN mātā-</lem>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">kulyavāpān mātā-</rdg>
+                   </app>-->
                    <app loc="10">
                        <lem source="bib:Balogh+al2019_01">vāhvr̥ca</lem>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02"><choice><sic>v</sic><corr>b</corr></choice>āhvr̥ca</rdg>
                    </app>
                    <app loc="10">
-                       <lem source="bib:Sircar1965_02 bib:Balogh+al2019_01">°tam asty <choice><sic>o</sic><corr>e</corr></choice>ṣo</lem>
+                       <lem source="bib:Sircar1965_02 bib:Balogh+al2019_01">°tam asty <choice><sic>o</sic><corr>e</corr></choice>ṣo</lem><!-- 
+                       amwb the t is visible I agree with this reading
+                       -->
                        <rdg source="bib:Majumdar1935-1936_02">°tam asy <choice><sic>o</sic><corr>ai</corr></choice>ṣo</rdg>
                    </app>
                    <app loc="10">
                        <lem source="bib:Balogh+al2019_01">vijigīṣu<unclear>bhi</unclear><lb 
-n="11" break="no"/><supplied reason="lost">s</supplied> <unclear>s</unclear><supplied reason="lost">ā</supplied>dhubhiḥ</lem>
+n="11" break="no"/><supplied reason="lost">s</supplied> <unclear>s</unclear><supplied reason="lost">ā</supplied>dhubhiḥ</lem><!-- 
+amwb : I agree with this reading
+-->
                        <rdg source="bib:Majumdar1935-1936_02">vijigīṣu<supplied reason="lost">bhi</supplied><supplied reason="omitted">ḥ</supplied> <lb n="11"/><supplied reason="lost">sā</supplied>dhubhiḥ</rdg>
                        <rdg source="bib:Sircar1965_02">vijigīṣubhi<supplied reason="omitted">ḥ</supplied> <lb n="11"/><supplied reason="lost">sā</supplied>dhubhiḥ</rdg>
                    </app>
                    <app loc="11">
-                       <lem source="bib:Sircar1965_02 bib:Balogh+al2019_01">-bhāgo<supplied reason="omitted">pa</supplied>cayo</lem>
+                       <lem source="bib:Sircar1965_02 bib:Balogh+al2019_01">-bhāgo<supplied reason="omitted">pa</supplied>cayo</lem><!-- 
+                       amwb : I translated with this correction
+                       -->
                        <rdg source="bib:Majumdar1935-1936_02">-bhāgo ca yo</rdg>
                    </app>
                    <app loc="11">
                        <lem source="bib:Balogh+al2019_01">saṁyu<lb  n="12" break="no"/>ktāṁ</lem>
-                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">saṁ<lb  n="12" break="no"/>yuktāṁ</rdg>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">saṁ<lb  n="12" break="no"/>yuktāṁ</rdg><!-- 
+                       amwb : I agree with this reading 
+                       -->
                    </app>
                    <app loc="12">
                        <lem source="bib:Balogh+al2019_01">yadheṣṭe<choice><unclear>c</unclear><unclear>v</unclear></choice>a</lem><!-- 
@@ -343,16 +412,21 @@ n="11" break="no"/><supplied reason="lost">s</supplied> <unclear>s</unclear><sup
                        <rdg source="bib:Sircar1965_02">-dīnārā<supplied reason="omitted">n</supplied> <supplied reason="omitted">saṁgṛhya</supplied> vīthyāṁ</rdg>
                    </app>
                    <app loc="12">
-                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">°jyāsma<choice><sic>n</sic><corr>d</corr></choice>-vettra</lem>
+                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">°jyāsma<choice><sic>n</sic><corr>d</corr></choice>-vettra</lem><!-- 
+                       amwb agree with this reading
+                       -->
                        <rdg source="bib:Sircar1965_02">jyāsmad-vettra</rdg>
                    </app>
                    <app loc="13">
-                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">ta<unclear>d</unclear>-vīthī-</lem>
+                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">ta<unclear>d</unclear>-vīthī-</lem><!-- 
+                       amwb agree with this reading
+                       -->
                        <rdg source="bib:Sircar1965_02">ta<supplied reason="lost">d-vī</supplied>thī-</rdg>
                    </app>
                    <app loc="13">
                        <lem source="bib:Balogh+al2019_01">pranāyya<unclear>ṁ</unclear></lem>
-                       <rdg source="bib:Majumdar1935-1936_02">pranāryya</rdg>
+                       <rdg source="bib:Majumdar1935-1936_02">pranāryya</rdg><!-- amwb : agree with Majumdar's reading
+                       -->
                        <rdg source="bib:Sircar1965_02">pranāyyaṁ</rdg>
                        <note><bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> suggests reading <foreign>praṇāyya</foreign>, while <bibl><ptr target="bib:Sircar1965_02"/></bibl> suggests understanding <foreign>prāṇāyyaṁ</foreign> <q>honestly</q>.</note>
                    </app>
@@ -593,16 +667,13 @@ n="11" break="no"/><supplied reason="lost">s</supplied> <unclear>s</unclear><sup
              <p n="17-18">This having been ascertained, he who does that, will be slained and will be marred by the five great sins and by others little sins. Moreover : </p>
                <p n="4" rend="stanza">The Gods and his Ancestors will never receive his offering <supplied reason="explanation"><foreign>havis</foreign></supplied> and his oblation <supplied reason="explanation"><foreign>piṇḍa</foreign></supplied>. He whose tree is like beheaded, deprived of stability, will fall <supplied reason="subaudible">in hell</supplied>.</p>
              <p n="19">The sacred verses describing the virtues and the dishonor of the confiscation and protection of a gift of land are :</p>
-             <p  n="5" rend="stanza">The giver of land enjoys sixty thousand years in heaven; the one who challenges [a donation] as well as the one who approves [of the challenge] will reside as many [years] in hell.</p>
-              <p  n="6" rend="stanza"></p>
-              <p  n="7" rend="stanza"></p>
+             <p  n="5" rend="stanza">The giver of land enjoys sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
+              <p  n="6" rend="stanza">The Fathers are agitating and the Grand-Fathers are bounding <supplied reason="subaudible">when they can say</supplied> <q>A giver of land is born within our lineage, he alone will all deliver us !</q> </p>
+              <p  n="7" rend="stanza">A miserly man, whatever the sins he has committed, is purified by a gift of land, even measuring the size of a cow's skin. </p>
               <p  n="8" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.</p>
-              <p  n="9" rend="stanza">This has been given by hundreds of kings and it will be given again and again. Whoever holds land at a given moment, to him does the fruit belong.</p>
-              <p  n="10" rend="stanza"></p>
-             
-            
-             
-             
+              <p  n="9" rend="stanza">Earth has been given by hundreds of kings and it will be given again and again. Whoever holds land at a given moment, to him does the fruit belong.</p>
+              <p  n="10" rend="stanza">Considering the fortune of mortels is full of waves <supplied reason="subaudible">and passed</supplied> in a flash, the deeds devoted to <foreign>dharma</foreign> by wise men should not be destroyed in this world.</p>
+             <p n="24-25">Eight <abbr><foreign>ku</foreign></abbr> <supplied reason="explanaion"><foreign>kulyavāpa</foreign>s</supplied>, the messenger <supplied reason="subaudible">of this gift</supplied> is Śubhadatta. It has been written by Bhogacandra; the minister presiding in negociating affairs <supplied reason="explanation"><foreign>sāndhivigrahika</foreign></supplied>, heated by the record-keeper Jayadāsa. Year 3, Śrāvaṇa <supplied reason="explanation">month</supplied> day 27.</p>       
          </div>
          <div type="commentary">
             <!--
