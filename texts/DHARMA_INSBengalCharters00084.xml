@@ -435,7 +435,9 @@ amwb : I agree with this reading
                        <rdg source="bib:Majumdar1935-1936_02">datt<choice><sic>o</sic><corr>ā</corr></choice>ḥ</rdg>
                    </app>
                    <app loc="14">
-                       <lem source="bib:Sircar1965_02 bib:Balogh+al2019_01"><supplied reason="lost">anenā</supplied>pi</lem>
+                       <lem source="bib:Sircar1965_02 bib:Balogh+al2019_01"><supplied reason="lost">anenā</supplied>pi</lem><!-- 
+                       amwb : I follow this emendation in my translation
+                       -->
                        <rdg source="bib:Majumdar1935-1936_02"><gap reason="lost" unit="character" quantity="3"/>pi</rdg>
                        <note><bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> suggests restoring the gap by <foreign>anenāpi</foreign> and <bibl><ptr target="bib:Sircar1965_02"/></bibl> follows him by including it in its edition.</note>
                    </app>
@@ -444,7 +446,9 @@ amwb : I agree with this reading
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02"><choice><sic>v</sic><corr>b</corr></choice>āhvr̥ca-</rdg>
                    </app>
                    <app loc="14">
-                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">pañca-mahā-yajña-</lem>
+                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">pañca-mahā-yajña-</lem><!-- 
+                       amwb the jña is very clear so I think Sircar's reading is a typo
+                       -->
                        <rdg source="bib:Sircar1965_02">pañca-mahā-yaśa-</rdg><!-- 
                        amwb : maybe a typo because in line 16, Sircar notes yajña. If he had really read yaśa here, he would suggest a correction
                        -->
@@ -454,11 +458,15 @@ amwb : I agree with this reading
                        <note><bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> suggests reading <foreign>catur-dikṣu</foreign> or <foreign>catasṛṣu dikṣu</foreign>, while <bibl><ptr target="bib:Sircar1965_02"/></bibl> only suggests the second reading.</note>
                    </app>
                    <app loc="14">
-                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">bhavanti pū</lem>
+                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">bhavanti pū</lem><!-- 
+                       amwb bhavanti pū is quite erased but I can decipher it thanks the previous editions
+                       -->
                        <rdg source="bib:Sircar1965_02">bhavanti<supplied reason="subaudible">.</supplied> pū</rdg>
                    </app>
                    <app loc="15">
-                       <lem source="bib:Sircar1965_02 bib:Balogh+al2019_01"><supplied reason="lost">rvvasyāṁ di</supplied>śi</lem>
+                       <lem source="bib:Sircar1965_02 bib:Balogh+al2019_01"><supplied reason="lost">rvvasyāṁ di</supplied>śi</lem><!-- 
+                       amwb : the plate is broken so it is really lost
+                       -->
                       <rdg source="bib:Majumdar1935-1936_02"><unclear>rvvasyāṁ di</unclear>śi</rdg>
                    </app>
                    <app loc="15">
@@ -466,7 +474,9 @@ amwb : I agree with this reading
                        <rdg source="bib:Majumdar1935-1936_02">sīmā dakṣi<choice><sic>ṇyāṁ</sic><corr>ṇasyāṁ</corr></choice></rdg>
                    </app>
                    <app loc="15">
-                       <lem source="bib:Sircar1965_02 bib:Balogh+al2019_01"><unclear>e</unclear>va<supplied reason="subaudible">.</supplied></lem>
+                       <lem source="bib:Sircar1965_02 bib:Balogh+al2019_01"><unclear>e</unclear>va<supplied reason="subaudible">.</supplied></lem><!-- 
+                       amwb : the e is clear 
+                       -->
                        <rdg source="bib:Majumdar1935-1936_02"><supplied reason="lost">e</supplied>va</rdg>
                    </app>
                    <app loc="15">
@@ -478,11 +488,15 @@ amwb : I agree with this reading
                        <rdg source="bib:Sircar1965_02">Āmra-garttikā sīmā<supplied reason="subaudible">.</supplied></rdg>
                    </app>
                    <app loc="15">
-                       <lem source="bib:Balogh+al2019_01">kama<unclear>lā</unclear></lem>
+                       <lem source="bib:Balogh+al2019_01">kama<unclear>lā</unclear></lem><!-- 
+                       amwb : for the lā of kamalā is totally erased 
+                       -->
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">kama<supplied reason="lost">lā</supplied></rdg>
                    </app>
                    <app loc="16">
-                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">-mālāṅkitā<supplied reason="omitted">ś</supplied> ca</lem>
+                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">-mālāṅkitā<supplied reason="omitted">ś</supplied> ca</lem><!-- 
+                       amwb I agree with this sandhi
+                       -->
                        <rdg source="bib:Sircar1965_02">-mālāṅkitā<supplied reason="omitted">ḥ</supplied> ca</rdg>
                    </app>
                    <app loc="16">
@@ -494,13 +508,17 @@ amwb : I agree with this reading
                        <rdg source="bib:Majumdar1935-1936_02">bhavanty evam</rdg>
                    </app>
                    <app loc="16">
-                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">°pabhuñjānasya</lem>
+                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">°pabhuñjānasya</lem><!-- 
+                       amwb ñj is very clear I think that Sircar's reading is a typo
+                       -->
                        <rdg source="bib:Sircar1965_02">°pabhuñcānasya</rdg><!-- 
                        amwb : again a typo? 
                        -->
                    </app>
                    <app loc="17">
-                       <lem source="bib:Balogh+al2019_01">-va<sic>n</sic>śa-</lem>
+                       <lem source="bib:Balogh+al2019_01">-va<sic>n</sic>śa-</lem><!-- 
+                       amwb : maybe add the regularisation? 
+                       -->
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">-va<choice><sic>n</sic><corr>ṁ</corr></choice>śa-</rdg>
                    </app>
                    <app loc="17">
@@ -509,32 +527,77 @@ amwb : I agree with this reading
                    </app>
                    <app loc="17">
                        <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">hasta-prakṣepo</lem>
-                       <rdg source="bib:Sircar1965_02">hastakṣepo</rdg>
+                       <rdg source="bib:Sircar1965_02">hastakṣepo</rdg><!-- 
+                       amwb the pra is clearly here again a typo in the edition ???
+                       -->
                    </app>
                    <app loc="17">
-                       <lem source="bib:Balogh+al2019_01">k<unclear>ā</unclear>ryyaḥ</lem>
+                       <lem source="bib:Balogh+al2019_01">k<unclear>ā</unclear>ryyaḥ</lem><!-- 
+                       amwb : for me there is no trace of something to mark the long a so I will edit k<choice><sic>a</sic><corr>ā</corr></choice>ryyaḥ 
+                       -->
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">k<supplied reason="lost">ā</supplied>ryyaḥ</rdg>
                    </app>
+                   <!-- amwb : my own reading pb due to the roughness of the plate. Majumbar mentions this problem in his introduction p.156
+                      <app loc="17">
+                       <lem>°ryyaḥ<supplied reason="subaudible">.</supplied> Eva<space/>m ava</lem><!-\- 
+                       amwb : a space or da or ṭa the photo is not clear... see 
+                       -\->
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">°ryyaḥ<supplied reason="subaudible">.</supplied> Evam ava</rdg>
+                   </app>
+                   <app loc="17">
+                       <lem>yo <space/> 'tha karoti</lem>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01"></rdg>
+                   </app>-->
                    <app loc="18">
                        <lem source="bib:Balogh+al2019_01">syād<supplied reason="subaudible">.</supplied> Api ca</lem><!-- 
-                       amwb : ca is followed by </p> in Daba's edition As the two previous editors noted syādapi, need to check if it is written °da° or °d A° or °D A°
+                       amwb : ca is followed by </p> in Daba's edition. I read in the EGD that I have to include the tag p in my lemma but I have a message indicating that p is not allowed... 
+                       As the two previous editors noted syādapi, after examination of the plate it is written °da° (not °d A° and not °D A°)
                        -->
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">syād api ca<supplied reason="subaudible">.</supplied></rdg>
                        <note><bibl><ptr target="bib:Sircar1965_02"/></bibl> suggest reading <foreign>syāt<supplied reason="subaudible">.</supplied> Api ca</foreign>. </note>
                    </app>
+                   <!--amwb : the spaces are due to the roughness of the plate. Majumbar mentions this problem in his introduction p.156
+                       <app loc="18">
+                          <lem>sa<space/> <space/>māpnuyuḥ</lem>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">samāpnuyuḥ</rdg>
+                   </app>
+                   -->
+                  <!-- amwb : the space is due to the roughness of the plate. Majumbar mentions this problem in his introduction p.156
+                      <app loc="19">
+                       <lem>bhū<space/>mi-dānāpa°</lem>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">bhūmi-dānāpa°</rdg>
+                   </app>-->
+                   <!-- amwb : the space seems to mark the end of the sentence
+                       <app loc="20">
+                       <lem>vaseT<space/></lem>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">vaseT</rdg>
+                   </app>-->
                    <app loc="20">
-                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">Āsphoṭayanti</lem>
+                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">Āsphoṭayanti</lem><!-- amwb agree with this reading -->
                        <rdg source="bib:Sircar1965_02">Āskoṭayanti</rdg>
                    </app>
                    <app loc="22">
-                       <lem source="bib:Balogh+al2019_01">yat<unclear>n</unclear>ād</lem>
+                       <lem source="bib:Balogh+al2019_01">yat<unclear>n</unclear>ād</lem><!-- 
+                           amwb I read yatkādrakṣa so I will edit yat<choice><sic>k</sic><corr>n</corr></choice>ād
+                       -->
                        <rdg source="bib:Majumdar1935-1936_02">yat<supplied reason="lost">n</supplied>ād</rdg>
                        <rdg source="bib:Sircar1965_02">yat<supplied reason="lost">nā</supplied>d</rdg>
                    </app>
+                   <!-- amwb the space is due to the roughness of the plate. Majumbar mentions this problem in his introduction p.156
+                    <app loc="22">
+                       <lem>dā<space/>nāc chre°</lem>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">dānāc chre°</rdg>
+                   </app>
+                   -->
                    <app loc="22">
-                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">chreyo 'nupālanaṁ</lem>
+                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">chreyo 'nupālanaṁ</lem><!-- amwb : there is an anusvara above the na not a virama under a ma -->
                        <rdg source="bib:Sircar1965_02">chreyo 'nupālana<choice><sic>ṁ</sic><corr>M</corr></choice></rdg>
                    </app>
+                   <!--amwb the space is due to the roughness of the plate. Majumbar mentions this problem in his introduction p.156
+                     <app loc="23">
+                       <lem>punaḥ <space/></lem>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">punaḥ</rdg>
+                   </app>-->
                    <app loc="23">
                        <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">phalaṁ</lem>
                        <rdg source="bib:Sircar1965_02">phala<choice><sic>ṁ</sic><corr>M</corr></choice></rdg>
@@ -548,7 +611,9 @@ amwb : I agree with this reading
                        <rdg source="bib:Sircar1965_02">marttyānā<choice><sic>ṁ</sic><corr>M</corr></choice></rdg>
                    </app>
                    <app loc="24">
-                       <lem source="bib:Balogh+al2019_01">sadbhiḥ yu°</lem>
+                       <lem source="bib:Balogh+al2019_01">sadbhiḥ yu°</lem><!-- amwb
+                        the visarga is justified by the fact that there is a gap before yu due to the roughness of the plate. So as the scribe could not continue his writing he notes a visarga instead of reported the good sansdhi (r above the yu) because of the gap
+                       -->
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">sadbhi<choice><sic>ḥ</sic><corr>r</corr></choice> yu°</rdg>
                    </app>
                    <app loc="24">
@@ -560,9 +625,17 @@ amwb : I agree with this reading
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">śubhadatto likhitaṁ</rdg>
                    </app>
                    <app loc="25">
-                       <lem source="bib:Balogh+al2019_01">samv<surplus><unclear>v</unclear></surplus>a<unclear>T</unclear></lem>
+                       <lem source="bib:Balogh+al2019_01">samv<surplus><unclear>v</unclear></surplus>a<unclear>T</unclear></lem><!-- 
+                       amwb I disagree and see rather a final d as Majumdar and Sircar
+                       -->
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">saṁv<surplus><unclear>v</unclear></surplus>a<choice><sic>d</sic><corr>T</corr></choice></rdg>
                    </app>
+                   <!-- amwb I count a space of at least 7 aksaras
+                    <app loc="24">
+                       <lem><num value="3">3</num> <space quantity="7" unit="character"/> śrāva di</lem>
+                       <rdg source="bib:Balogh+al2019_01"><num value="3">3</num> <space quantity="6" unit="character"/> śrāva di</rdg>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">śrāva di</rdg>
+                   </app>-->
                </listApp>
          </div>
          <div type="translation" resp="part:amwb"><head xml:lang="eng">Draft of translation</head>
@@ -587,11 +660,12 @@ amwb : I agree with this reading
          Here one can observe the attempt to give meaning to the name of the province by an semantical etymology.
      </note> where virtuous and excellent people have been established allowed by Him <supplied reason="explanation">ie. Gopālacandra</supplied>, 
         Himadatta, the notable <supplied reason="explanation"><foreign>mahattara</foreign></supplied> possessing villages given to Brahmins <supplied reason="explanation"><foreign>āgrahāriṇa</foreign></supplied> providing abundant tributes <supplied reason="explanation"><foreign>ārddhakaraka</foreign></supplied> belonging to the territory <supplied reason="explanation"><foreign>vīthīsambaddha</foreign></supplied> Vakkattaka, 
-         Suvarṇayaśas, the notable <supplied reason="explanation">mahattara</supplied> residing in Nirvṛtavāṭaka,<note>
+         Suvarṇayaśas, the notable <supplied reason="explanation"><foreign>mahattara</foreign></supplied> residing in Nirvṛtavāṭaka,<note>
             As the suffix <foreign>īya</foreign> is used without a <foreign>vṛddhi</foreign> elevation, other translations can be suggested : <q>belonging to</q> or <q>managing</q> or <q>responsible of</q>. The word <foreign>nirvṛtavāṭaka</foreign> can be understood as a place name or be translated by <q>the pleasant garden<supplied reason="explanation">s</supplied></q>. 
         </note>
-         Dhanasvāmin, the notable <supplied reason="explanation">mahattara</supplied> possessing villages and gardens given to Brahmins <supplied reason="explanation"><foreign>vāṭakāgrahārīṇa</foreign></supplied> at Kapistha<note>Again, another translation is possible if we consider <supplied reason="explanation"><foreign>vāṭaka</foreign></supplied> as the end of a place name. In this case, the translation would be : <q>Dhanasvāmin, the notable possessing villages given to Brahmins in Kapisthavāṭaka</q>. </note>
-         Ṣaṣṭdatta and Śrīdatta, both notables <supplied reason="explanation">mahattara</supplied> possessing villages given to Brahmins in Vaṭavallaka, 
+         Dhanasvāmin, the notable <supplied reason="explanation"><foreign>mahattara</foreign></supplied> possessing villages and gardens given to Brahmins <supplied reason="explanation"><foreign>vāṭakāgrahārīṇa</foreign></supplied> at Kapistha,<note>
+             Again, another translation is possible if we consider <supplied reason="explanation"><foreign>vāṭaka</foreign></supplied> as the end of a place name. In this case, the translation would be : <q>Dhanasvāmin, the notable possessing villages given to Brahmins in Kapisthavāṭaka</q>. </note>
+         Ṣaṣṭhidatta and Śrīdatta, both notables <supplied reason="explanation"><foreign>mahattara</foreign></supplied> possessing villages given to Brahmins in Vaṭavallaka, 
          Vāmanasvāmin, the venerable <supplied reason="explanation"><foreign>bhaṭṭa</foreign></supplied> possessing villages given to Brahmins in Koḍḍavīra, 
          Mahidatta and Rājyadatta, both possessing villages given to Brahmins in Godhagrāma, 
          Jīvasvāmin residing in Śālmalivāṭaka,<note>
@@ -638,20 +712,20 @@ amwb : I agree with this reading
          </note>
      </p>
              <p n="8">
-                 We have been sollicited by the venerable great king Viyasena as follows:
+                 We have been sollicited by the venerable great king Vijayasena as follows:
              </p>
-             <p n="8-10">After having purchased it from you according to the legal proceeding <supplied reason="explanation"><foreign>yathānyāyena</foreign></supplied>,I wish to give eight <foreign>kulyavāpa</foreign>s in the village Vettragarttā belonging to this territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>  in the sake of the increase of my own merit and the one of both my mother and my father to be enjoyed in succession by sons and grandsons, thanks the practice of permanent endowment, to Vatsasvāmin, belonging to the R̥̥gveda tradition <supplied reason="explanation">Bāhvṛca</supplied>, disciple of Kauṇḍinya,<!-- 
+             <p n="8-10">After having purchased it from you according to the legal proceeding <supplied reason="explanation"><foreign>yathānyāyena</foreign></supplied>,I wish to give eight <foreign>kulyavāpa</foreign>s in the village Vettragarttā belonging to this territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>  in the sake of the increase of my own merit and the one of both my mother and my father to be enjoyed in succession by sons and grandsons, thanks the practice of permanent endowment, to Vatsasvāmin, belonging to the R̥gveda tradition <supplied reason="explanation">Bāhvṛca</supplied>, disciple of Kauṇḍinya,<!-- 
              amwb : or belonging to Kauṇḍinya lineage... could it be a reference to Kauṇḍinya author of the pañcārthabhāṣya, the commentator of the pāśupatasūtra
              -->in order to perform the five great sacrifices.  </p>
              <p n="10-11">Therefore, due to his requesting it has been ascertained by us : this <supplied reason="subaudible">request</supplied> is a customary deed among the numerous pious ones for the virtuous men who want to conquest the world in both ways and a sixth part of merit <supplied reason="subaudible">produced by it</supplied> is vested in His Majesty the sovereign Lord. Thus for us also who are protecting <supplied reason="subaudible">this gift</supplied>, there is a conjunction of fame and welfare. </p>
              <p n="11">It has been said</p>
-             <p n="1" rend="stanza">The man who approves an deed endowed with Dharma, even in mind, he increases at pleasure <supplied reason="explanation"><foreign>yaṭheṣṭam</foreign></supplied> as the moon <supplied reason="explanation">uḍurāj</supplied> during the light fortnight.  </p>
-             <p n="12-13">Thus <supplied reason="explanation"><foreign>tad</foreign></supplied>, considering <supplied reason="explanation"><foreign>iti</foreign></supplied> his request is granted, after having distributed within <supplied reason="subaudible">the officials of this</supplied> territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied> the <foreign>dīnāra</foreign>s <supplied reason="subaudible">paid</supplied> by him according to the meritorious acts made by us, the gift as it has been described must be honestly <supplied reason="explanation"><foreign>prāṇāyyaṁ</foreign></supplied> conveyed in the income of this territory of up to eight <foreign>kulyavāpa</foreign>s belonging to the village Vettragarta.</p>
+             <p n="1" rend="stanza">The man who approves an deed endowed with Dharma, even in mind, he increases at pleasure <supplied reason="explanation"><foreign>yaṭheṣṭam</foreign></supplied> as the moon <supplied reason="explanation">uḍurāj</supplied> during the bright fortnight.  </p>
+             <p n="12-13">Thus <supplied reason="explanation"><foreign>tad</foreign></supplied>, considering <supplied reason="explanation"><foreign>iti</foreign></supplied> his request is granted, after having distributed within <supplied reason="subaudible">the officials of this</supplied> territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied> the <foreign>dīnāra</foreign>s <supplied reason="subaudible">paid</supplied> by him according to the meritorious acts made by us, the gift as it has been described must be honestly <supplied reason="explanation"><foreign>prāṇāyyaṁ</foreign></supplied> conveyed in the income of this territory of up to <supplied reason="explanation">the expected income of</supplied> the eight <foreign>kulyavāpa</foreign>s belonging to the village Vettragarta.</p>
              <p n="13-14">After having sprinkled with powder <supplied reason="explanation"><foreign>avacūrṇya</foreign></supplied> eight <foreign>kulyavāpa</foreign>s, 
-               the Great King Vijayasena and also <supplied reason="lost">us</supplied><supplied reason="explanation">gap at the beginning of the line 14</supplied><note>
-                 I suggest completing the begining of the line 14 by <foreign>asmābhir a</foreign>°.
+               the Great King Vijayasena and also <supplied reason="lost">this</supplied><supplied reason="explanation">gap at the beginning of the line 14</supplied><note>
+                 I follow the suggestion made by <bibl><ptr target="bib:Sircar1965_02"/></bibl> : <foreign>anenāpi</foreign>°.
              </note>
-                 give them to Vatsasvāmin, belonging to the R̥̥gveda tradition <supplied reason="explanation">Bāhvṛca</supplied>, disciple of Kauṇḍinya,<!-- 
+                king <supplied reason="explanation">ie Gopacandra</supplied> give them to Vatsasvāmin, belonging to the R̥gveda tradition <supplied reason="explanation">Bāhvr̥ca</supplied>, disciple of Kauṇḍinya,<!-- 
              amwb : or belonging to Kauṇḍinya lineage... could it be a reference to Kauṇḍinya author of the pañcārthabhāṣya, the commentator of the pāśupatasūtra
              -->in order to perform the five great sacrifices and this is established by a copper-plate. </p>
              <p n="14-17">Then here follow the frontiers of this land in the four directions: 
@@ -662,11 +736,11 @@ amwb : I agree with this reading
                  <item>the Western boundary is in the middle of Āmragarttikā <supplied reason="explanation">the mango tree of the weaver's workshop</supplied> </item>
                  
              </list>
-                 And there, pillars marked by rosaries made of lotus seeds are fixed in the four boundaries. Concerning the enjoyment of this land whose the boundaries have been marked devoted to the performance of the five great sacrifices by this Brahmin, any objection however small or any protestation by raising hands may be made by anyone belonging to his family or by anyone else. 
+                 And there, pillars marked by rosaries made of lotus seeds are fixed in the four boundaries. Concerning the enjoyment of this land whose the boundaries have been marked <supplied reason="explanation">and which is</supplied> devoted to the performance of the five great sacrifices by this Brahmin, any objection however small or any protestation by raising hands may be made by no one belonging to his family or by no one else. 
              </p>
-             <p n="17-18">This having been ascertained, he who does that, will be slained and will be marred by the five great sins and by others little sins. Moreover : </p>
-               <p n="4" rend="stanza">The Gods and his Ancestors will never receive his offering <supplied reason="explanation"><foreign>havis</foreign></supplied> and his oblation <supplied reason="explanation"><foreign>piṇḍa</foreign></supplied>. He whose tree is like beheaded, deprived of stability, will fall <supplied reason="subaudible">in hell</supplied>.</p>
-             <p n="19">The sacred verses describing the virtues and the dishonor of the confiscation and protection of a gift of land are :</p>
+             <p n="17-18">This having been ascertained, he who does that, will be slained and will be marred by the five great sins and by all other little sins. Moreover : </p>
+               <p n="4" rend="stanza">The Gods and his Ancestors will never receive his offering <supplied reason="explanation"><foreign>havis</foreign></supplied> and his oblation <supplied reason="explanation"><foreign>piṇḍa</foreign></supplied>. Like a palm tree with his tuft of leaves cut, deprived of stability, he will fall <supplied reason="subaudible">in hell</supplied>.</p>
+             <p n="19">The sacred verses describing the virtue and the dishonor of the confiscation and protection of a gift of land are :</p>
              <p  n="5" rend="stanza">The giver of land enjoys sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
               <p  n="6" rend="stanza">The Fathers are agitating and the Grand-Fathers are bounding <supplied reason="subaudible">when they can say</supplied> <q>A giver of land is born within our lineage, he alone will all deliver us !</q> </p>
               <p  n="7" rend="stanza">A miserly man, whatever the sins he has committed, is purified by a gift of land, even measuring the size of a cow's skin. </p>
