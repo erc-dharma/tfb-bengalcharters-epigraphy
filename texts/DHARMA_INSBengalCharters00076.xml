@@ -83,6 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change when="2021-09-20" who="part:amwb">Start of the encoding of the apparatus with two previous editions (ie. Srinivasan1972_01 and Tripathy1997_01) and Furui's readings.</change>
            <change when="2021-09-16" who="part:amwb" status="draft">Start of the encoding with the document transmitted by Ryosuke Furui</change>
         </revisionDesc>
     </teiHeader>
@@ -94,8 +95,8 @@
 n="1r"/><lb
 n="1"/>svasti<supplied reason="subaudible">.</supplied> catur-udadhi-salila-sīmāntāyām aneka-dvīpa-nagara-pattanādhiṣṭhānādri-saro<unclear>vara-pravāha</unclear>-siddha-devatāyatana-śreṣṭha<unclear>mā</unclear>nyāṁ sva-dha<lb 
 n="2" break="no"/>rmma-karmma-nirata-cātu<supplied reason="lost">r</supplied>-varṇyāsrama-prakr̥ti-janapada-samagrāyām aneka-dvija-gr̥heśvarāgnihottra-havana-havir-dhūma-surabhī-kr̥ta-pavana<lb
-n="3" break="no"/>-Arkkendu-mayūkhāvabhāsitāyām avirata-vedādhyayanā-nyāsa-dhvani-nnirasta-dūritāyāṁ tr̥-bhūvana-sādhāraṇān arkka-vipannasasya sa<unclear>rvva</unclear><lb
-n="4" break="no"/>ttrā-surabhi-svādu-kusuma-phala-bhāre-vividha-tara-viṭapa-latā-pratānavatyāṁ sudr̥sya-śārasa-rūpa-gandha-guṇa-sampat-sitāyāṁ pr̥thivyāṁ catuḥ<lb
+n="3" break="no"/>-Arkkendu-mayūkhāvabhāsitāyām avirata-vedādhyaya<choice><sic>nā</sic><corr>na</corr></choice>-nyāsa-dhvani-nnirasta-dūritāyāṁ t<choice><sic>r</sic><corr>ri</corr></choice>̥-bh<choice><sic>ū</sic><corr>u</corr></choice>vana-sādhāraṇān arkka-vipanna<choice><sic>s</sic><corr>ś</corr></choice>asya sa<unclear>rvva</unclear><lb
+n="4" break="no"/>ttr<choice><sic>ā</sic><corr>a</corr></choice>-surabhi-svādu-kusuma-phala-bhār<choice><sic>e</sic><corr>a</corr></choice>-vividha-tar<choice><sic>a</sic><corr>u</corr></choice>-viṭapa-latā-pratānavatyāṁ sudr̥<choice><sic>s</sic><corr>ś</corr></choice>ya-<choice><sic>ś</sic><corr>s</corr></choice>ārasa-rūpa-gandha-guṇa-sampat-<choice><sic>si</sic><corr>sthi</corr></choice>tāyāṁ pr̥thivyāṁ catuḥ<lb
 n="5" break="no"/>-samudrātikrānta-yaśasām udāra-guṇa-samudayāruḍha-gauravāṇām asaṁbhinna-dhyāmaya-dānāva<unclear cert="low">lī</unclear> <unclear cert="low">mā</unclear> yad-ācāra-parograha<lb
 n="6" break="no"/>-pratyantāśesa-kali-dosāc chrīmato dhanacandrāt sakala-jana-sādhāraṇa-dharmma-pratilabdhāvigrahā<unclear>t sukṣa</unclear>ttrāryyāḥ śrī-giridevyā<supplied reason="lost">ṁ</supplied><!-- 
 amwb check if it is lost or subaudible
@@ -244,8 +245,89 @@ n="51"/>khatta<unclear>ṁ</unclear> cillukena
                        <rdg source="bib:Srinivasan1972_01">-śreṣṭhāyām-avanyāṁ sva-</rdg>
                    </app>
                    <app loc="2">
-                       <lem source="bib:Tripathy1997_01">rmma-karmma-</lem>
-                       <rdg source="bib:Srinivasan1972_01"><supplied reason="lost">r</supplied>mma-karmma-</rdg>
+                       <lem source="bib:Tripathy1997_01">°rmma-karmma-</lem>
+                       <rdg source="bib:Srinivasan1972_01">°<supplied reason="lost">r</supplied>mma-karmma-</rdg>
+                   </app>
+                   <app loc="2">
+                       <lem>nirata-cātu<supplied reason="lost">r</supplied>-varṇyāsrama-</lem>
+                       <rdg source="bib:Srinivasan1972_01"><gap reason="illegible" unit="character" extent="unknown"/>ṇyāsrama-</rdg>
+                       <rdg source="bib:Tripathy1997_01">nirata-cātu<supplied reason="lost">r</supplied>-varṇyāśrama-</rdg>
+                       <note>Emend <foreign>-varṇyāśrama-</foreign>.</note>
+                   </app>
+                   <app loc="2">
+                       <lem>-gr̥heśvarā°</lem>
+                       <rdg source="bib:Srinivasan1972_01">-<supplied reason="lost">vare</supplied>śvarā</rdg>
+                       <rdg source="bib:Tripathy1997_01">-vareśvarā°</rdg>
+                   </app>
+                   <app loc="2">
+                       <lem source="bib:Tripathy1997_01">°hottra-</lem>
+                       <rdg source="bib:Srinivasan1972_01">°hotra-</rdg>
+                   </app>
+                   <app loc="2">
+                       <lem source="bib:Srinivasan1972_01">-surabhī-kr̥ta-pavana-</lem>
+                       <rdg source="bib:Tripathy1997_01">-surabh<choice><sic>i</sic><corr>ī</corr></choice>-kr̥<supplied reason="omitted">ta</supplied>tapovana-</rdg>
+                   </app>
+                   <app loc="3">
+                       <lem>-mayūkhāvabhāsitāyām</lem>
+                       <rdg source="bib:Srinivasan1972_01">-mayūkh<supplied reason="lost">eva</supplied> bhāsi<supplied reason="lost">tāyām</supplied></rdg>
+                       <rdg source="bib:Tripathy1997_01">-mayūkhevabhāsitāyām</rdg>
+                   </app>
+                   <app loc="3">
+                       <lem source="bib:Tripathy1997_01">°<choice><sic>nā</sic><corr>na</corr></choice>-nyāsa-dhvani-nnirasta-dūritāyāṁ</lem>
+                       <rdg source="bib:Srinivasan1972_01">°nānyāsanvanany-<gap reason="illegible" unit="character" extent="unknown"/> yā</rdg>
+                   </app>
+                   <app loc="3">
+                       <lem>t<choice><sic>r</sic><corr>ri</corr></choice>̥-bh<choice><sic>ū</sic><corr>u</corr></choice>vana-</lem>
+                       <rdg source="bib:Srinivasan1972_01">tr̥-bhuvana</rdg>
+                       <rdg source="bib:Tripathy1997_01">tr̥-bh<choice><sic>ū</sic><corr>u</corr></choice>vana</rdg>
+                   </app>
+                   <app loc="3">
+                       <lem source="bib:Tripathy1997_01">-sādhāraṇān arkka-</lem>
+                       <rdg source="bib:Srinivasan1972_01">-sādhāra<supplied reason="lost" cert="low">ṇenartu</supplied>-</rdg>
+                   </app>
+                   <app loc="3">
+                       <lem source="bib:Tripathy1997_01">-vipanna<choice><sic>s</sic><corr>ś</corr></choice>asya</lem>
+                       <rdg source="bib:Srinivasan1972_01">-vipa<supplied reason="lost" cert="low">nna</supplied>sasya</rdg>
+                   </app>
+                   <app loc="3">
+                       <lem>sa<unclear>rvva</unclear><lb
+n="4" break="no"/>ttr<choice><sic>ā</sic><corr>a</corr></choice>-</lem>
+                       <rdg source="bib:Srinivasan1972_01">sarva<lb
+n="4" break="no"/>ttra-</rdg>
+                       <rdg source="bib:Tripathy1997_01">sa<unclear>rvva</unclear><lb
+n="4" break="no"/>ttr<choice><sic>ā</sic><corr>a</corr></choice>-</rdg>
+                   </app>
+                   <app loc="4">
+                       <lem>-phala-bhār<choice><sic>e</sic><corr>a</corr></choice>-</lem>
+                       <rdg source="bib:Srinivasan1972_01">-phala-bhāra-</rdg>
+                       <rdg source="bib:Tripathy1997_01">-phala-bhāre</rdg>
+                   </app>
+                   <app loc="4">
+                       <lem source="bib:Tripathy1997_01">-vividha-tar<choice><sic>a</sic><corr>u</corr></choice>-</lem>
+                       <rdg source="bib:Srinivasan1972_01">-vividha-tara-</rdg>
+                   </app>
+                   <app loc="4">
+                       <lem>-latā-pratānavatyāṁ</lem>
+                       <rdg source="bib:Srinivasan1972_01">-<supplied reason="lost">latā-pradhā</supplied>navaty<supplied reason="lost">āṁ</supplied></rdg>
+                       <rdg source="bib:Tripathy1997_01">-latā-pratānatyāṁ</rdg>
+                   </app>
+                   <app loc="4">
+                       <lem>-<choice><sic>ś</sic><corr>s</corr></choice>ārasa-</lem>
+                       <rdg source="bib:Srinivasan1972_01">-<supplied reason="lost">sā</supplied>rasa-</rdg>
+                       <rdg source="bib:Tripathy1997_01">-sārasa-</rdg>
+                   </app>
+                   <app loc="4">
+                       <lem source="bib:Srinivasan1972_01">-gandha-</lem>
+                       <rdg source="bib:Tripathy1997_01">-ganddha-</rdg>
+                   </app>
+                   <app loc="4">
+                       <lem source="bib:Tripathy1997_01">-sampat-<choice><sic>si</sic><corr>sthi</corr></choice>tāyāṁ</lem>
+                       <rdg source="bib:Srinivasan1972_01">-sampatsthitāyāṁ</rdg>
+                   </app>
+                   <app loc="5">
+                       <lem>asaṁbhinna-dhyāmaya-dānāva<unclear cert="low">lī</unclear> <unclear cert="low">mā</unclear> yad-</lem>
+                       <rdg source="bib:Srinivasan1972_01"><gap reason="illegible" unit="character" extent="unknown"/>dānāva<supplied reason="lost">li</supplied><gap reason="illegible" unit="character" extent="unknown"/> yad</rdg>
+                       <rdg source="bib:Tripathy1997_01">asaṁbhāraprameyadānāva <supplied reason="lost">lī</supplied><gap reason="illegible" unit="character" extent="unknown"/> yad-</rdg>
                    </app>
                </listApp>
          </div>
