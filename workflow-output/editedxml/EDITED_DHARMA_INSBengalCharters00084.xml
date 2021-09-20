@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mallasarul Charter of Vijayasena, tie of Gopacandra year 3</title>
+            <title>Mallasarul Charter of Vijayasena, time of Gopacandra year 3</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
             <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
@@ -650,7 +650,7 @@ amwb : I agree with this reading
  	    -->
  	    
  	</note> who gives the fruits of good deeds to men, him who incarnates truth and ascetism, who produces the twofold nature of world, who is the law.</p>
- 	<p n="2" rend="stanza">After that, the good men who seek the highest goal, who have defeated their deceit and their cupidity, unselfish, they have won <gap reason="lost"/><supplied reason="explanation">line 2</supplied> by the means of their good deeds, they who desired the supreme world.</p>
+ 	<p n="2" rend="stanza">After that, the good men who seek the highest goal, who have defeated their deceit and their cupidity, unselfish, they who desired the supreme world have won <gap reason="lost"/><supplied reason="explanation">line 2</supplied> by the means of their good deeds.</p>
      <p n="2-8">While the paramount sovereign Gopālacandra whose splendour, polity and might are well-known governs the earth as another Pṛthu, in the province Vardhamāna <supplied reason="explanation">the Prosperous</supplied> which is flourishing thanks to the constant practice of Dharma,<note>
          Here one can observe the attempt to give meaning to the name of the province by an semantical etymology.
      </note> where virtuous and excellent people have been established allowed by Him <supplied reason="explanation">ie. Gopālacandra</supplied>, 
@@ -736,13 +736,25 @@ amwb : I agree with this reading
              <p n="17-18">This having been ascertained, he who does that, will be slained and will be marred by the five great sins and by all other little sins. Moreover: </p>
                <p n="4" rend="stanza">The Gods and his Ancestors will never receive his offering <supplied reason="explanation"><foreign>havis</foreign></supplied> and his oblation <supplied reason="explanation"><foreign>piṇḍa</foreign></supplied>. Like a palm tree with his tuft of leaves cut, deprived of stability, he will fall <supplied reason="subaudible">in hell</supplied>.</p>
              <p n="19">The sacred verses describing the virtue and the dishonor of the confiscation and protection of a gift of land are:</p>
-             <p n="5" rend="stanza">The giver of land enjoys sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
-              <p n="6" rend="stanza">The Fathers are agitating and the Grand-Fathers are bounding <supplied reason="subaudible">when they can say</supplied> <q>A giver of land is born within our lineage, he alone will all deliver us!</q> </p>
-              <p n="7" rend="stanza">A miserly man, whatever the sins he has committed, is purified by a gift of land, even measuring the size of a cow’s skin. </p>
-              <p n="8" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.</p>
-              <p n="9" rend="stanza">Earth has been given by hundreds of kings and it will be given again and again. Whoever holds land at a given moment, to him does the fruit belong.</p>
-              <p n="10" rend="stanza">Considering the fortune of mortels is full of waves <supplied reason="subaudible">and passed</supplied> in a flash, the deeds devoted to <foreign>dharma</foreign> by wise men should not be destroyed in this world.</p>
-             <p n="24-25">Eight <abbr><foreign>ku</foreign></abbr> <supplied reason="explanaion"><foreign>kulyavāpa</foreign>s</supplied>, the messenger <supplied reason="subaudible">of this gift</supplied> is Śubhadatta. It has been written by Bhogacandra; the minister presiding in negociating affairs <supplied reason="explanation"><foreign>sāndhivigrahika</foreign></supplied>, heated by the record-keeper Jayadāsa. Year 3, Śrāvaṇa <supplied reason="explanation">month</supplied> day 27.</p>       
+             <p n="5" rend="stanza">The giver of land enjoys sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p><!-- 
+              amwb : listed in Sircar's stanzas on Bhūmidāna n°123
+              -->
+              <p n="6" rend="stanza">The Fathers are agitating and the Grand-Fathers are bounding <supplied reason="subaudible">when they can say</supplied> <q>A giver of land is born within our lineage, he alone will all deliver us!</q> </p><!-- 
+              amwb : listed in Sircar's stanzas on Bhūmidāna n°20
+              -->
+              <p n="7" rend="stanza">A miserly man, whatever the sins he has committed, is purified by a gift of land, even measuring the size of a cow’s skin. </p><!-- 
+              amwb : listed in Sircar's stanzas on Bhūmidāna n°159
+              -->
+              <p n="8" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.</p><!-- 
+              amwb : listed in Sircar's stanzas on Bhūmidāna n°131
+              -->
+              <p n="9" rend="stanza">Earth has been given by hundreds of kings and it will be given again and again. Whoever holds land at a given moment, to him does the fruit belong.</p><!-- 
+              amwb : pada cd = Sircar's stanzas on Bhūmidāna n°23
+              -->
+              <p n="10" rend="stanza">Considering the fortune of mortels is full of waves <supplied reason="subaudible">and passed</supplied> in a flash, the deeds devoted to <foreign>dharma</foreign> by wise men should not be destroyed in this world.</p><!-- 
+              amwb : listed in Sircar's stanzas on Bhūmidāna n°71
+              -->
+             <p n="24-25">Eight <abbr><foreign>ku</foreign></abbr> <supplied reason="explanation"><foreign>kulyavāpa</foreign>s</supplied>, the messenger <supplied reason="subaudible">of this gift</supplied> is Śubhadatta. It has been written by Bhogacandra; the minister presiding in negociating affairs <supplied reason="explanation"><foreign>sāndhivigrahika</foreign></supplied>, heated by the record-keeper Jayadāsa. Year 3, Śrāvaṇa <supplied reason="explanation">month</supplied> day 27.</p>       
          </div>
          <div type="commentary">
             <!--
