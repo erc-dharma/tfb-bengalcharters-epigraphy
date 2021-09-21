@@ -39,6 +39,12 @@
 						<forename>Arlo</forename>
 						<surname>Griffiths</surname>
 					</persName>
+					<!-- amwb : maybe add it if we integrate some of my readings and emendations
+					<persName ref="part:amwb">
+						<forename>Amandine</forename>
+						<surname>Wattelier-Bricout</surname>
+					</persName>
+					-->
 				</respStmt>
 				</titleStmt>
 			<publicationStmt>
@@ -51,7 +57,7 @@ amwb : replaced IN00074 by filename dharma
 --><availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit thttps://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Dániel Balogh.</p>
+						<p>Copyright (c) 2019-2025 by Arlo Griffiths, Dániel Balogh and Amandine Wattelier-Bricout.</p>
 					</licence>
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
@@ -88,8 +94,9 @@ amwb : replaced IN00074 by filename dharma
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
+			<change when="2021-09-21" who="part:amwb">Completed the epigraphic lemma in the bibliography part.</change>
 			<change who="part:amwb" when="2021-08-31" status="draft">Added my own readings of the plate in apparatus, but in comments.</change>
-			<change who="part:amwb" when="2021-08-16" status="draft">Creation of the apparatus by comparing the edition with two previous editions, ie. Sircar1943_02 Sanyal1955-1956_01, and by including Arlo's reading of the Plate and start of the translation of the Plate.</change>
+			<change who="part:amwb" when="2021-08-16" status="draft">Creation of the apparatus by comparing the edition with two previous editions, i.e. Sircar1943_02 Sanyal1955-1956_01, and by including Arlo's reading of the Plate and start of the translation of the Plate.</change>
 			<change who="part:amwb" when="2021-07-20" status="draft">Import of Siddham file IN00061 and started initial encoding with Arlo's remarks.</change>
 			<change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment).. Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>
 		</revisionDesc>
@@ -102,8 +109,8 @@ amwb : replaced IN00074 by filename dharma
 n="1r"/><!-- 
 daba siddham : The editions of Sircar_1943a, Sanyal and Agrawala (who may be copying Sircar SI) differ in many small details, e.g. over what they show as clear and unclear. I'm keeping track only of major editorial differences, and mark the text up according to my reading of the facsimile. 
 --><lb 
-n="1"/>svasti<supplied reason="subaudible">.</supplied> śr̥ṅgavera-vaitheya-pūrṇṇakoś<unclear>i</unclear>kāyāḥ<!-- 
-amwb : in my opinion we can remove the unclear on i 
+n="1"/>svasti<supplied reason="subaudible">.</supplied> śr̥ṅgavera-vaitheya-pūrṇṇakośikāyāḥ<!-- 
+amwb : in my opinion we can remove the unclear on i / 21-09-2021 : I removed pūrṇṇakoś<unclear>i</unclear>kāyāḥ and replaced it by my own reading
 amwb : replaced siddham's reading "k<unclear>au</unclear>ś<unclear>i</unclear>k<unclear>ā</unclear>yāḥ" by Arlo's one 
 --> Āyuktakācyutadāso 'dhikaraṇañ<!-- 
 amwb : replaced Āyuktakā<unclear>cyuta</unclear>dās<unclear>o</unclear> 'dh<supplied reason="lost">i</supplied>kara<unclear>ṇañ by Arlo's reading 
@@ -382,10 +389,10 @@ daba siddham : Sircar and Agrawala read the date as 120. But N. B. Sanyal in Sen
 				<div type="apparatus">
 			<listApp>
 				<app loc="1">
-					<!--amwb :
-						<lem>kośikāyāḥ</lem>
+					<lem>kośikāyāḥ</lem>
+					<!--amwb : here is arlo's reading :
+						<lem>°koś<unclear>i</unclear>kāyāḥ</lem>
 					-->
-					<lem>°koś<unclear>i</unclear>kāyāḥ</lem>
 					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">k<unclear>au</unclear>ś<unclear>i</unclear>kāyāḥ</rdg>
 					<rdg source="bib:Balogh+al2019_01">k<unclear>au</unclear>ś<unclear>i</unclear>k<unclear>ā</unclear>yāḥ</rdg>
 					<note><bibl><ptr target="bib:Sircar1943_02"/></bibl> notes that the reading may be -<foreign>kośikāyāḥ</foreign>.</note>
@@ -434,7 +441,7 @@ n="2" break="no"/>kāyāṁ</lem>
 				<!--amwb : add what follows if we accept my reading 
 					<app loc="3">
 					<lem>-lakṣmmaṇa-</lem>
-					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">-lakṣmmaṇa-</rdg>
+					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">-lakṣmaṇa-</rdg>
 				</app>
 				-->
 				<app loc="3">
@@ -819,7 +826,7 @@ n="24" break="no"/>bhītaka-</lem>
 			</listApp>
 		</div>
 		<div type="translation" resp="part:amwb">
-			<head xml:lang="eng">Draft-translation</head>
+			<head xml:lang="eng">Plate</head>
 			<p n="1-2">Hail ! From Pūrṇakauśikā in the Śr̥ṅgavera territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>, the officer Acyuta<note>
 				The incipit of this plate is identical to the one of <ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter of the Time of Kumāragupta I</ref>. But we can notice that here there is no mention to the fact that Acyuta's authority depends on the emperor.
 			</note>
@@ -831,7 +838,7 @@ Indeed <bibl><ptr target="bib:Sanyal1955-1956_01"/><citedRange unit="page">58-9<
 						<item>in association and in compound with the place name Vibhītakī: <foreign>hastiśīrṣavibhītakyāṁ</foreign> (line 20)</item>
 						<item>in compound and in association with another place name Tāpasapotaka : <foreign>hastiśīrṣaprāveśyatāpasapottake</foreign> (line 23)</item>
 					</list>
-						The first interpretation could be to understand a place name 'Hastiśīrṣa' as <bibl><ptr target="bib:Sanyal1955-1956_01"/></bibl> did. A second possibility is to see <foreign>hastiśīrṣa</foreign> as a compound indicating a large aera. This interpretation is based on my previous observation according to which the geographical indication is presented from the larger to the smaller entity. So it could be possible to consider <foreign>śīrṣa</foreign>- a word used in a geographical manner to indicate that some place is near another larger place and <foreign>hasti</foreign>- a name of place like Hastināpura? If so, the translation could be 'in the upper part of Hasti', 'collateral of Hasti', close or next to Hasti. A third possibility could be to consider <foreign>hastiśīrṣa</foreign> a compound composed by the derivated word of the constellation name Hasta followed by <foreign>śīrṣa</foreign>, like in the compound <foreign>mārgaśīrṣa</foreign> 'the month under the constellation of Mṛga' (ie. november-september) which is recorded in Monier-Williams and by several inscriptions (for example: <ref target="http://siddham.uk/inscription/in00090">Betul Charter of Samksobha, year 199</ref>, line 3)<!-- amwb : I also found mārgaśīrṣa in in the Kesaribedā Donation of Arthapati line 13 (siddham IN1003) and in Kauvatal Charter of Sudevarāja line 24 -->. But the irregular derivation in <foreign>hastiśīrṣa</foreign> and the context of its use do not allow a such interpretation.
+						The first interpretation could be to understand a place name 'Hastiśīrṣa' as <bibl><ptr target="bib:Sanyal1955-1956_01"/></bibl> did. A second possibility is to see <foreign>hastiśīrṣa</foreign> as a compound indicating a large aera. This interpretation is based on my previous observation according to which the geographical indication is presented from the larger to the smaller entity. So it could be possible to consider <foreign>śīrṣa</foreign>- a word used in a geographical manner to indicate that some place is near another larger place and <foreign>hasti</foreign>- a name of place like Hastināpura? If so, the translation could be 'in the upper part of Hasti', 'collateral of Hasti', close or next to Hasti. A third possibility could be to consider <foreign>hastiśīrṣa</foreign> a compound composed by the derivated word of the constellation name Hasta followed by <foreign>śīrṣa</foreign>, like in the compound <foreign>mārgaśīrṣa</foreign> 'the month under the constellation of Mṛga' (i.e., november-september) which is recorded in Monier-Williams and by several inscriptions (for example: <ref target="http://siddham.uk/inscription/in00090">Betul Charter of Samksobha, year 199</ref>, line 3)<!-- amwb : I also found mārgaśīrṣa in in the Kesaribedā Donation of Arthapati line 13 (siddham IN1003) and in Kauvatal Charter of Sudevarāja line 24 -->. But the irregular derivation in <foreign>hastiśīrṣa</foreign> and the context of its use do not allow a such interpretation.
 				</note>
 				in Gulmagandhikā, in Dhānyapāṭikā, as well as in their hamlets <supplied reason="explanation"><foreign>sagohāliṣu</foreign></supplied><note>
 					On the meaning of gohālī, see <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="page">40-2</citedRange></bibl>
@@ -886,7 +893,7 @@ I translate the instrumental akṣayanīvyā by the expression 'is used for' and
 				One can note the parallelism between the expression <foreign>eṣu yathopari-nirddiṣṭaka-grāma-pradeśeṣv</foreign> and the one used in line 15-16 : <foreign>ebhir evopari-nirddiṣṭaka-grāmeṣu</foreign>.
 			</note> in order to increase the merits of each mother and father of them, the artisan <supplied reason="explanation"><foreign>kulika</foreign></supplied> Bhīma, the scribes <supplied reason="explanation"><foreign>kāyastha</foreign></supplied> give for the performance of the five great sacrifices five <foreign>kulyavāpa</foreign>s, <abbr><foreign>ku</foreign></abbr> 5, to the Brahmin Devabhaṭṭa, two <foreign>kulyavāpa</foreign>s to <supplied reason="subaudible">the Brahmin</supplied> Amaradatta, two <foreign>kulyavāpa</foreign>s, <abbr><foreign>ku</foreign></abbr> 2, to <supplied reason="subaudible">the Brahmin</supplied> Mahāsenadatta.</p>
 			<p n="27-28">Thus <supplied reason="explanation">tad</supplied>, it is known <supplied reason="explanation">nivedyate?</supplied> through our <supplied reason="lost">request?</supplied> and it is written : these nine <foreign>kulyavāpa</foreign> are given to these three recipients for the performance of the five great sacrifices.</p>
-			<p n="28-29">Those who <supplied reason="explanation">live</supplied> in the present time <supplied reason="explanation">samupasthita-kālaṁ</supplied>, ie. the district officers <supplied reason="explanation">viṣayapati</supplied>, the officers, the peasant householders, the council members and the others who in the near future will be administrating <supplied reason="explanation">this land</supplied>,<note>
+			<p n="28-29">Those who <supplied reason="explanation">live</supplied> in the present time <supplied reason="explanation">samupasthita-kālaṁ</supplied>, i.e., the district officers <supplied reason="explanation">viṣayapati</supplied>, the officers, the peasant householders, the council members and the others who in the near future will be administrating <supplied reason="explanation">this land</supplied>,<note>
 				The lines 28-29 are really close to the lines 22-24 of <ref target="DHARMA_INSBengalCharters00034.xml">the Jagadispur Charter of the Time of Kumāragupta I</ref>.
 			</note> after considering <supplied reason="explanation"><foreign>avekṣya</foreign></supplied> the benefits of land donation, will have to protect <supplied reason="explanation">this land</supplied> as a permanent endowment.</p>
 			<p n="29-30">And the venerable Vyāsa said in the <title>Mahābhārata</title>:</p>
@@ -908,20 +915,22 @@ I translate the instrumental akṣayanīvyā by the expression 'is used for' and
 			-->
 		</div>
 		<div type="bibliography">
-			<p></p>
+			<p>First reported (in passing, by Sanyal) in <bibl><ptr target="bib:Sen1942_01"/></bibl>. First published by Sircar in Bengali, in the journal <title>Vaṅgaśrī</title> (Vaiśākha 1350 Bangla San which is probably also 1943 CE); edited (with plate, from inked impressions) in <bibl><ptr target="bib:Sircar1943_02"/><citedRange unit="page">12-26</citedRange></bibl> with a description of the plate, as well as a commentary on the date, the palaeography, the language and the content of the record. Re-edited (from the original plate) in <bibl><ptr target="bib:Sanyal1955-1956_01"/><citedRange unit="page">57-66</citedRange></bibl>. Recorded in <bibl><ptr target="bib:ARIE1955-1956"/><citedRange unit="item">23</citedRange><citedRange unit="entry">110</citedRange><citedRange unit="appendix">A</citedRange></bibl>. Re-edited here by Arlo Griffiths and Amandine Wattelier-Bricout using the reproductions of the plate in <bibl n="DCS"><ptr target="bib:Sircar1943_02"/></bibl> and in <bibl><ptr target="bib:Sanyal1955-1956_01"/></bibl> and the photos taken in 2019. The text has been encoded by Amandine Wattelier-Bricout using a digital edition created by Dániel Balogh for the Siddham project as starting point. The text has been translated for the first time by <bibl><ptr target="bib:Sircar1943_02"/></bibl>. Here a new translation including editorial changes has been suggested by Amandine Wattelier-Bricout and still need to be discussed with Arlo Griffiths.</p><!-- 
+amwb : Need to change the end of the text when the translation will have been discussed with Arlo
+-->
 			<listBibl type="primary">
 				<bibl><ptr target="bib:Sen1942_01"/><citedRange unit="entry">12</citedRange></bibl>
 				<bibl n="DCS"><ptr target="bib:Sircar1943_02"/><citedRange unit="page">12-26</citedRange></bibl>
-				<bibl><ptr target="bib:ARIE1955-1956"/><citedRange unit="issue">23</citedRange><citedRange unit="entry">110, App.A</citedRange></bibl>
+				
 				<bibl n="NBS"><ptr target="bib:Sanyal1955-1956_01"/><citedRange unit="page">57-66</citedRange></bibl>
-				<!--SIDHDHAM has this reference : <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="part">3</citedRange><citedRange unit="entry">40A</citedRange><citedRange unit="page">352-355</citedRange></bibl>, but I did not find Kalaikuri Sultanpur plate in this book? -->
+				<bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="part">3</citedRange><citedRange unit="entry">40A</citedRange><citedRange unit="page">352-355</citedRange></bibl>
 				<bibl><ptr target="bib:Agrawala1983_02"/><citedRange unit="entry">64</citedRange></bibl>
 				<bibl><ptr target="bib:Goyal1993_01"/><citedRange unit="page">166-173</citedRange></bibl>
 				<bibl n="DB"><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00074</citedRange></bibl>
 				<bibl n="siglum"/>
 			</listBibl>
 			<listBibl type="secondary">
-				<bibl n="siglum"/>
+				<bibl><ptr target="bib:ARIE1955-1956"/><citedRange unit="item">23</citedRange><citedRange unit="entry">110</citedRange><citedRange unit="appendix">A</citedRange></bibl>
 			</listBibl>
 		</div>
 		</body>

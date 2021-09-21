@@ -207,10 +207,10 @@ Change the target when the inscription is encoded in DHARMABASE. For the moment,
          </div>
          <div type="translation" resp="part:argr">
              <div type="textpart" n="A"><head xml:lang="eng">Primary Seal</head>
-             <p><supplied reason="explanation">Seal</supplied> of the council in Ghoṇādvīpaka district</p>
+             <ab><supplied reason="explanation">Seal</supplied> of the council in Ghoṇādvīpaka district</ab>
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Secondary Seal</head>
-             <p><gap reason="illegible"/></p>
+             <ab><gap reason="illegible"/></ab>
              </div>
              <div type="textpart" n="C"><head xml:lang="eng">Plate</head>
             <p n="1-3">Hail! In the fifth year of the victorious suzerainty of the suzerain of great kings Śrī Pradyumnabandhu,
