@@ -427,14 +427,14 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First published by K. V. Ramesh and S. Subramonia Iyer<bibl rend="omitname"><ptr target="bib:Ramesh+SubramoniaIyer1977-1978_01"/></bibl> and then re-edited by S. C. Mukherji<bibl rend="omitname"><ptr target="bib:Mukherji1997-99_01"/></bibl>. Critically re-edited by S. C. Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya2005-2006_01"/></bibl>. Now re-edited based on the photographs taken by Ryosuke Furui.</p>
+           <p>First published by K. V. Ramesh and S. Subramonia Iyer<bibl rend="omitname"><ptr target="bib:Ramesh+SubramoniaIyer1977-1978_01"/></bibl> and then re-edited by S. C. Mukherji<bibl rend="omitname"><ptr target="bib:Mukherji1997-1999_01"/></bibl>. Critically re-edited by S. C. Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya2005-2006_01"/></bibl>. Now re-edited based on the photographs taken by Ryosuke Furui.</p>
            <listBibl type="primary">
             <bibl n="RSI"><ptr target="bib:Ramesh+SubramoniaIyer1977-1978_01"/></bibl>
-            <bibl n="SCM"><ptr target="bib:Mukherji1997-99_01"/></bibl>
+            <bibl n="SCM"><ptr target="bib:Mukherji1997-1999_01"/></bibl>
             <bibl n="SCB"><ptr target="bib:Bhattacharya2005-2006_01"/></bibl>
            </listBibl>
            <listBibl type="secondary">
-              <bibl></bibl><ptr target="bib:Bhattacharya1996-1999_01"/>
+              <bibl><ptr target="bib:Bhattacharya1996-1999_01"/></bibl>
            </listBibl>
         </div>
       </body>
