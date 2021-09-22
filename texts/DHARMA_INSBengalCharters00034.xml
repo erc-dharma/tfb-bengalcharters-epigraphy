@@ -390,7 +390,7 @@ n="4" break="no"/>mbi-kṣemāka<supplied reason="omitted">ḥ</supplied></lem>
 				<app loc="4">
 					<lem>tatraiva-</lem>
 					<rdg source="bib:Sircar1969-1970_01">tatraiva-</rdg>
-					<rdg source="Sircar1973_01">tatra va-</rdg>
+					<rdg source="bib:Sircar1973_01">tatra va-</rdg>
 					<rdg source="bib:Balogh+al2019_01">tatraiva</rdg>
 					<note><bibl><ptr target="bib:Sircar1973_01"/></bibl> seems to be a printing error.</note>
 				</app>
@@ -538,7 +538,7 @@ n="12" break="no"/>vyām apratikara-</lem>
 				<app loc="14">
 					<lem>avadhāraṇayāsty</lem>
 					<rdg source="bib:Sircar1969-1970_01 bib:Balogh+al2019_01">avadh<unclear reason="illegible">ā</unclear>raṇayāsty</rdg>
-					<rdg source="bib:bib:Sircar1973_01">ava<unclear>dhā</unclear>raṇayāsty</rdg>
+					<rdg source="bib:Sircar1973_01">ava<unclear>dhā</unclear>raṇayāsty</rdg>
 					<note>Emend <foreign>avadhāraṇayāvadhr̥tyāsty</foreign> or <foreign>avadhāraṇayāvadhr̥tam asty</foreign>? In the light of <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur</ref>, lines 10–11, I presume the latter.
 </note>
 				</app>
@@ -756,7 +756,7 @@ n="29" break="no"/><unclear>taṁ</unclear></lem>
 				</app>
 			</listApp>
 		</div>
-		<div type="translation" xml:lang="eng" resp="part:argr">
+		<div type="translation" resp="part:argr">
 			<div type="textpart" n="A"><head xml:lang="eng">Plate</head>
 			<p n="1-3">Hail! From Pūrṇakauśikā in the Śr̥ṅgavera territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>, the officer Acyuta, favored by the feet of the <supplied reason="explanation">Gupta</supplied> Sovereign, and the council <supplied reason="explanation">of this territory</supplied>, greet the principal peasant householders, beginning with the Brahmins, at Gulmagandhika with its hamlets <supplied reason="explanation"><foreign>gohālī</foreign></supplied><!-- 
 amwb : maybe add a note "on the meaning of this term, see <bibl><ptr target="Griffiths2018_02"/><citedRange unit="page">40-2</citedRange></bibl>
@@ -902,7 +902,7 @@ The repartition of the droṇavāpas is not clear at all, and in order to obtain
 		<div type="commentary">
 		</div>
 		<div type="bibliography">
-			<p>First reported and edited with plates in <bibl><ptr target="bib:Siddhanta1963_01"/></bibl>. Siddhanta’s original edition was re-published in the <title>Journal of the Varendra Research Museum </title>1 (1972), pp. 23-37. Re-edited in <bibl><ptr target="bib:Sircar1969-1970_01"/></bibl>. Discussed in <bibl><ptr target="bib:bib:Sircar1973_01"/><citedRange unit="page">8-14</citedRange></bibl>, with text on 61-63. The text is reedited here by Arlo Griffiths based on the photos of the plate furnished by Ryosuke Furui. The text has been encoded by Amandine Wattelier-Bricout using a digital edition created by Dániel Balogh for the Siddham project as starting point. Since some readings differ from this previous digital edition, they are reported in the apparatus. </p>
+			<p>First reported and edited with plates in <bibl><ptr target="bib:Siddhanta1963_01"/></bibl>. Siddhanta’s original edition was re-published in the <title>Journal of the Varendra Research Museum </title>1 (1972), pp. 23-37. Re-edited in <bibl><ptr target="bib:Sircar1969-1970_01"/></bibl>. Discussed in <bibl><ptr target="bib:Sircar1973_01"/><citedRange unit="page">8-14</citedRange></bibl>, with text on 61-63. The text is reedited here by Arlo Griffiths based on the photos of the plate furnished by Ryosuke Furui. The text has been encoded by Amandine Wattelier-Bricout using a digital edition created by Dániel Balogh for the Siddham project as starting point. Since some readings differ from this previous digital edition, they are reported in the apparatus. </p>
 			<listBibl type="primary">
 				<bibl><ptr target="bib:Siddhanta1963_01"/></bibl><!-- 
 amwb: caution there is no title in Zotero -->
