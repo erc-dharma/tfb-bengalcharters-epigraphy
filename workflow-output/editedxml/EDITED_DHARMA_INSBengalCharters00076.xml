@@ -296,7 +296,7 @@ Iti etanya śāsanaṁ tāpitaṁ pustapāla-bhogabhaṭṭena likhitaṁ kāyas
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
         	    <bibl n="R"><ptr target="bib:Rajaguru1963_01"/></bibl>
-        	    <bibl n="SDC"><ptr target="Sircar1965_02"/><citedRange unit="page">530-1</citedRange></bibl>
+        	    <bibl n="SDC"><ptr target="bib:Sircar1965_02"/><citedRange unit="page">530-1</citedRange></bibl>
         	    <bibl n="SPR"><ptr target="bib:Srinivasan1972_01"/></bibl>
         	    <bibl n="T"><ptr target="bib:Tripathy1997_01"/><citedRange unit="page">174-9</citedRange></bibl>
 			</listBibl>

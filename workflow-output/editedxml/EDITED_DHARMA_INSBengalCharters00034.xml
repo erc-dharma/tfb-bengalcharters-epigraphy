@@ -55,7 +55,7 @@ daba : The Siddham ID will need to be retained, probably as <altIdentifier>, whe
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit thttps://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Dániel Balogh.</p>
+                  <p>Copyright (c) 2019-2025 by Dániel Balogh and Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -99,6 +99,7 @@ daba : The Siddham ID will need to be retained, probably as <altIdentifier>, whe
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2021-09-21" who="part:amwb" status="draft">Added the epigraphic lemma in the bibliography part.</change>
          <change who="part:amwb" when="2021-08-30" status="draft">Added Siddham bibliographic reference in the bibliography and its readings in the apparatus. Correction of some errors in the apparatus.</change>
          <change who="part:amwb" when="2021-07-12" status="draft">Import of Siddham file IN00061 and started initial encoding with Arlo’s edtion and remarks. </change>
          <change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment).. Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>
@@ -141,9 +142,9 @@ amwb : replaced hariśa<unclear>rmma</unclear> by Arlo's reading
 amwb : added supplied according to Arlo's apparatus
 -->-kumārabhūti-śivakuṇḍa-śivāpara-śiva-somaviṣṇu<!-- 
 amwb : removed somavi<unclear>ṣṇu</unclear>-->-
-<lb n="7"/>satyaviṣṇu-kaṅkuṭi-nandadāma-vīranāga-nā<add place="below">rā</add>yaṇadāsa<!-- 
+<lb n="7"/>satyaviṣṇu-kaṅkuṭi-nandadāma-vīranāga-nā<add place="below">rā</add>yaṇadāsa-rudra-bhava-guha-Acyuta-kuvera-śarvvanāga-bhava<!-- 
 amwb : replaced nā<add place="below">ra</add>yaṇadāsa by Arlo's reading: ie rā`
--->-rudra-bhava-guha-Acyuta-kuvera-śarvvanāga-bhava<!-- 
+--><!-- 
 amwb : removed the unclear -<unclear>bhava</unclear> according Arlo's reading
 --><lb n="8" break="no"/>nāga-śrīdatta-bhavadatta-dhanaviṣṇu-guṇaratha-naradeva-purogāḥ vayañ ca vijñāpitāḥ<!-- 
 daba siddham :This list of names is reproduced as segmented by Sircar, but without his emendations (which, apart from jyeṣṭhadāma, only concern the proper in-compound forms of names ending in yaśas). Other segmentations may be possible. Sircar (1971:248) also points out that the first four names are vīthīmahattaras, while the rest are kuṭumbins. 
@@ -158,28 +159,28 @@ daba siddham :The ra of nārayaṇadāsa (which could be emended to nārāyaṇa
 amwb : I replaced <unclear>ā</unclear> by <supplied reason="lost">ā</supplied> because it is noted in brackets [ ] in Arlo's edition
 --> dakṣi<!-- 
 amwb: I removed <supplied reason="lost">kṣi</supplied> from Arlo's edition
--->-<lb n="9" break="no"/>ṇā<unclear>ṅ</unclear>śaka-vīthyāṁ pecikāmra<!-- 
+--><lb n="9" break="no"/>ṇā<unclear>ṅ</unclear>śaka-vīthyāṁ pecikāmra-siddhāyatane <choice><sic>bhagavatānn arha<unclear>tā</unclear>n</sic><corr>bhagavatām arhatāṅ</corr></choice> kāritaka-vih<unclear>ā</unclear>re gulmagandhike cārhatā<choice><sic>n</sic><corr>m</corr></choice> pūjā<!-- 
 amwb : replaced -vī<unclear>th</unclear>yā mecikāmra- by Arlo's reading
--->-siddhāyatane <choice><sic>bhagavatānn arha<unclear>tā</unclear>n</sic><corr>bhagavatām arhatāṅ</corr></choice> kāritaka-vih<unclear>ā</unclear>re gulmagandhike cārhatā<choice><sic>n</sic><corr>m</corr></choice> pūjā<!-- 
+--><!-- 
 amwb : I replaced cārhatām <unclear>pū</unclear><supplied reason="lost">jā</supplied> by Arlo's reading
---><lb n="10" break="no"/>rtthaṁ kāritaka-prānta-vihārik<choice><sic>a</sic><corr>e</corr></choice><!-- 
-amwb : I replaced <choice><sic>vihārika</sic><corr>vihārikāyāṁ</corr></choice> by Arlo's reading
---> tatraiva gulmagandhike bhagavatas sahasraraśmeḥ kāritaka-deva-kule ca bali<!-- 
-amwb : I replaced <sic>v</sic>ali by Arlo's reading
--->-caru-sa<supplied reason="lost">ttra</supplied>-<!-- 
+--><lb n="10" break="no"/>rtthaṁ kāritaka-prānta-vihārik<choice><sic>a</sic><corr>e</corr></choice> tatraiva gulmagandhike bhagavatas sahasraraśmeḥ kāritaka-deva-kule ca bali-caru-sa<supplied reason="lost">ttra</supplied><!-- 
 daba siddham :Sircar_1969-70 omits prānta from this line; his editor notes that the reading seems to be kāritakopātta. Sircar_1973 and Agrawala print kāritaka-prānta. Agrawala emends to vihārake instead of vihārikāyāṁ. 
 --><!-- 
+amwb : I replaced <choice><sic>vihārika</sic><corr>vihārikāyāṁ</corr></choice> by Arlo's reading
+--><!-- 
+amwb : I replaced <sic>v</sic>ali by Arlo's reading
+--><!-- 
 amwb : 2021-08-19 : in my opinion the last akṣara of this line is tra with a single t 
---><lb n="11" break="no"/>pravartta<choice><sic>ṇ</sic><corr>n</corr></choice>āya<!-- 
-amwb: added choice + corr from Arlo's apparatus
---> khaṇḍa-phuṭṭa-pratisaṁskāra-karaṇāya gandha-dh<choice><sic>u</sic><corr>ū</corr></choice>pa<!-- 
-amwb : added choice + corr from Arlo's apparatus
--->-tailopayog<choice><sic>o</sic><corr>ā</corr></choice>ya śaśvat-kālopabhogyākṣaya-<supplied reason="lost">nī</supplied>-<!-- 
+--><lb n="11" break="no"/>pravartta<choice><sic>ṇ</sic><corr>n</corr></choice>āya khaṇḍa-phuṭṭa-pratisaṁskāra-karaṇāya gandha-dh<choice><sic>u</sic><corr>ū</corr></choice>pa-tailopayog<choice><sic>o</sic><corr>ā</corr></choice>ya śaśvat-kālopabhogyākṣaya-<supplied reason="lost">nī</supplied><!-- 
 daba siddham :For phuṭṭa see also IN00056 and IN00061. Like Basak, Sircar also notes that it is sometimes found in the Skt form sphuṭita. 
+--><!-- 
+amwb: added choice + corr from Arlo's apparatus
+--><!-- 
+amwb : added choice + corr from Arlo's apparatus
 --><lb n="12" break="no"/>vyām apratikara-khila-kṣetrasya kulya-vāpam ekaṁ krītvā dātuṁ<supplied reason="subaudible">.</supplied> yuṣmākañ ca vīthyām anuvr̥tta<supplied reason="omitted">ḥ</supplied> dvi-dīnārikyāpratikara<!-- 
 amwb : removed <supplied reason="lost">ra</supplied> according to Arlo's reading 
--->-
-<lb n="13"/>khila-kṣetrasya kulya-vāpa-vikraya<supplied reason="omitted">ḥ</supplied><supplied reason="subaudible">.</supplied> tad arhathāsmābhir hastād dīnāra-dvayaṁ gr̥hītvā kṣetrasya kulya-vāpam ekaṁ<!-- 
+-->
+<lb n="13"/>-khila-kṣetrasya kulya-vāpa-vikraya<supplied reason="omitted">ḥ</supplied><supplied reason="subaudible">.</supplied> tad arhathāsmābhir hastād dīnāra-dvayaṁ gr̥hītvā kṣetrasya kulya-vāpam ekaṁ<!-- 
 amwb : removed <unclear>kaṁ</unclear> according to Arlo's reading. I confirm this reading 
 -->
 <lb n="14"/>dātum<!-- 
@@ -221,11 +222,13 @@ daba siddham :Note also mahidāsayo, which Sircar emends to mahidāsānāṁ, bu
 amwb : replaced bhoyilen āpi by bhoyilenāpi (maybe a typing error)
 --> sāmbapurasyārttha droṇa-vāpa-dvayaṁ tatrai<unclear>kava</unclear>ta-kula-samīpe<!-- 
 amwb : replaced tatra <unclear>ca de</unclear>vata-kula-samīpe by Arlo's reading, see apparatus 
---> puṣpa-vāṭikā-tala-vā-<!-- 
+--> puṣpa-vāṭikā-tala-vā<!-- 
 daba siddham :Sircar emends °arttha to °artthe, but again, the intent was probably °artthaṁ. 
 --><lb n="19" break="no"/>ṭaka-nimitta<choice><sic>ṁñ</sic><corr>ṁ</corr></choice><!-- 
-amwb : added choice + corr--> ca droṇa-vāpam ekaṁ kāritam<supplied reason="omitted"/><!-- 
+amwb : added choice + corr--> ca droṇa-vāpam ekaṁ kāritam<!-- 
 daba siddham :Sircar emends kāritam to krītam. Not sure; see my note to line 20. 
+--><!-- 
+amwb : 2021-09-21 I removed the <supplied reason="omitted"/> inserted after the word kāritam by Daba in his edition. I don't understand what he wants to suggest by this supplied? 
 --></p>
 <p>ity eta<supplied reason="omitted">t</supplied> kṣetraṁ gulmagandhikāyā<supplied reason="omitted">ṁ</supplied> pūrvvo<surplus>tta</surplus>tta<choice><sic>rāṁyā</sic><corr>rasyāṁ</corr></choice><!-- 
 amwb : here I changed and corrected the encoding <choice><sic>pūrvvottattarāṁyā</sic><corr>pūrvvottarāsyāṁ</corr></choice> because the second a must be short in pūrvvottarāsyāṁ. --> diśi sapta-droṇa-vā<!-- 
@@ -336,7 +339,8 @@ amwb : after checking the photo I will add a space between hana and mi
 				</app>
 				<app loc="2">
 					<lem>sagohālike</lem>
-					<rdg source="bib:Sircar1969-1970_01">sa<supplied reason="omitted">M</supplied>ggohālike <supplied reason="omitted">ca</supplied></rdg><rdg source="bib:Sircar1973_01"><unclear>saṁ</unclear>gohālike <unclear>ca</unclear></rdg><!-- 
+					<rdg source="bib:Sircar1969-1970_01">sa<supplied reason="omitted">M</supplied>ggohālike <supplied reason="omitted">ca</supplied></rdg>
+					<rdg source="bib:Sircar1973_01"><unclear>saṁ</unclear>gohālike <unclear>ca</unclear></rdg><!-- 
 amwb : I am not sure if I use the good encoding for :(saṁ)gohālike (ca*) DCS 1973; sa[ṁ*]ggohālike [ca*] DCS 1969 
 -->
 					<rdg source="bib:Balogh+al2019_01">sa<supplied reason="omitted">ṁ</supplied>ggohālike</rdg>
@@ -367,7 +371,7 @@ amwb : I added a reference to Arlo's article 2018 on the term gohalī
 				<app loc="4">
 					<lem>tatraiva-</lem>
 					<rdg source="bib:Sircar1969-1970_01">tatraiva-</rdg>
-					<rdg source="Sircar1973_01">tatra va-</rdg>
+					<rdg source="bib:Sircar1973_01">tatra va-</rdg>
 					<rdg source="bib:Balogh+al2019_01">tatraiva</rdg>
 					<note><bibl><ptr target="bib:Sircar1973_01"/></bibl> seems to be a printing error.</note>
 				</app>
@@ -395,7 +399,7 @@ amwb : as bhoyila and mahīdāsa are both originated from gulmagandhikā, the du
 				<app loc="6">
 					<lem>-kumārayaśa<supplied reason="omitted">ḥ</supplied>-</lem>
 					<rdg source="bib:Balogh+al2019_01">-kumārayaśa-</rdg>
-					<note>Already emended by DCS</note>
+					<note>Already emended by DCS.</note>
 				</app>
 				<app loc="6">
 					<lem>-somaviṣṇu-</lem>
@@ -405,7 +409,7 @@ amwb : as bhoyila and mahīdāsa are both originated from gulmagandhikā, the du
 				<app loc="7">
 					<lem source="bib:Sircar1969-1970_01 bib:Balogh+al2019_01">-kaṅkuṭi-</lem>
 					<rdg source="bib:Sircar1973_01">-kaṅkaṭi-</rdg>
-					<note>DCS 1973 seems to be a printing error.</note>
+					<note><bibl><ptr target="bib:Sircar1973_01"/></bibl> seems to be a printing error.</note>
 				</app>
 				<app loc="7">
 					<lem>-nā<add place="below">rā</add>yaṇadāsa-</lem>
@@ -509,12 +513,12 @@ amwb : as bhoyila and mahīdāsa are both originated from gulmagandhikā, the du
 				</app>
 				<app loc="14">
 					<lem source="bib:Sircar1969-1970_01 bib:Sircar1973_01 bib:Balogh+al2019_01">-yaśodāmayor</lem>
-					<note>Emend -<foreign>yaśodāmnor</foreign> (DCS 1973).</note>
+					<note>Emend -<foreign>yaśodāmnor</foreign> as <bibl><ptr target="bib:Sircar1973_01"/></bibl> did.</note>
 				</app>
 				<app loc="14">
 					<lem>avadhāraṇayāsty</lem>
 					<rdg source="bib:Sircar1969-1970_01 bib:Balogh+al2019_01">avadh<unclear reason="illegible">ā</unclear>raṇayāsty</rdg>
-					<rdg source="bib:bib:Sircar1973_01">ava<unclear>dhā</unclear>raṇayāsty</rdg>
+					<rdg source="bib:Sircar1973_01">ava<unclear>dhā</unclear>raṇayāsty</rdg>
 					<note>Emend <foreign>avadhāraṇayāvadhr̥tyāsty</foreign> or <foreign>avadhāraṇayāvadhr̥tam asty</foreign>? In the light of <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur</ref>, lines 10–11, I presume the latter.
 </note>
 				</app>
@@ -728,20 +732,25 @@ amwb : I don't understand your count : six droṇa from kṣemāka-bhoyila-ahīd
 				</app>
 			</listApp>
 		</div>
-		<div type="translation" xml:lang="eng" resp="part:argr">
+		<div type="translation" resp="part:argr">
+			<div type="textpart" n="A"><head xml:lang="eng">Plate</head>
 			<p n="1-3">Hail! From Pūrṇakauśikā in the Śr̥ṅgavera territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>, the officer Acyuta, favored by the feet of the <supplied reason="explanation">Gupta</supplied> Sovereign, and the council <supplied reason="explanation">of this territory</supplied>, greet the principal peasant householders, beginning with the Brahmins, at Gulmagandhika with its hamlets <supplied reason="explanation"><foreign>gohālī</foreign></supplied><!-- 
-amwb : maybe add a note "on the meaning of this term, see <bibl><ptr target="Griffiths2018_02"/><citedRange unit="page">40-2</citedRange></bibl>--> and inform them:
+amwb : maybe add a note "on the meaning of this term, see <bibl><ptr target="Griffiths2018_02"/><citedRange unit="page">40-2</citedRange></bibl>
+--> and inform them:
 </p>
 			<p n="3-14">Be it known to you that:<!-- 
-amwb : I am wondering if we could translate yathā by a periphrase : "Note the following request" / "Be the following request brought to your attention"  -->
+amwb : I am wondering if we could translate yathā by a periphrase : "Note the following request" / "Be the following request brought to your attention"  
+-->
 			</p>
 			<p>The peasant householder Kṣemāka residing in the habitation <supplied reason="explanation"><foreign>vāstuka</foreign></supplied> of the capital <supplied reason="explanation"><foreign>mūlaka</foreign></supplied><!-- 
 amwb : I don't understand why you did not translate "puṇḍravarddhaneya-" here? See my suggestions below. 
 -->
 			; Bhoyila residing in Gulmagandhikā; and Mahīdāsa residing in the same place — <supplied reason="explanation">both of these locations</supplied> appertaining to Puṇḍravardhana —<!-- 
 amwb : according to the emendation proposed in apparatus 4, I suggest " the couple (of householders) Bhoyila and Mahīdāsa residing both in the same place, i.e. Gulmagandhikā" 
-amwb : from my earlier remark on °Kṣemāka compound, it seems to me that "<supplied reason="explanation">both of these locations</supplied> appertaining to Puṇḍravardhana" is not in a good place   --> <supplied reason="subaudible">by them</supplied><!-- 
-amwb : this supplied is not very clear. I understand that, by adding it, you want to express the fact that the three householders addressed first their request to the two others groups before addressing acyuta and his council? --> have been respectfully requested</p>
+amwb : from my earlier remark on °Kṣemāka compound, it seems to me that "<supplied reason="explanation">both of these locations</supplied> appertaining to Puṇḍravardhana" is not in a good place   
+--> <supplied reason="subaudible">by them</supplied><!-- 
+amwb : this <supplied> is not very clear for me. I understand that, by adding it, you want to express the fact that the three householders addressed first their request to the two others groups before addressing acyuta and his council? 
+--> have been respectfully requested</p>
 			<list>
 				<item>- the notables of this division, <supplied reason="explanation">namely</supplied> Kumāradeva, Gaṇḍa, Prajāpati, Jyeṣṭhadāman;</item>
 				<item>- the peasant householders beginning with Yaśoviṣṇu, Umayaśas, Hariśarman, Sarpapālita, Hiraṇyagupta, Kumārayaśas, Kumārabhūti, Śivakuṇḍa, Śiva, another Śiva, Somaviṣṇu, Satyaviṣṇu, Kaṅkuṭi, Nandadāman, Vīranāga, Nārāyaṇadāsa, Rudra, Bhava, Guha, Acyuta, Kubera, Śarvanāga, Bhavanāga, Śrīdatta, Bhavadatta, Dhanaviṣṇu, Guṇaratha, Naradeva;<!-- 
@@ -751,7 +760,7 @@ amwb: here °purogāḥ ifc. is not translated while it allows to construct the 
 3. and finally "ourselves" = acyuta and his council? 
 For me, these three are the subjects of vijñāpitāḥ. --></item>
 				<item>- and ourselves:<!-- 
-amwb : maybe precise who are "ourselves" for example by adding (i.e. Acyuta and the council)-->:
+amwb : maybe precise who are "ourselves" for example by adding (i.e. Acyuta and the council)-->
 </item>
 			</list>
 			<p>For offerings of <foreign>bali</foreign>, <foreign>caru</foreign> and <foreign>sattra</foreign>, for carrying out the repairs of breaches <supplied reason="explanation"><foreign>khaṇḍa</foreign></supplied> and cracks <supplied reason="explanation"><foreign>phuṭṭa</foreign></supplied>, <supplied reason="explanation">and</supplied> for requirements of perfumes, incense, and oil in the monastery built for the venerable Arhants in the shrine of Pecikāmrasiddhi in the Dakṣiṇāṅśaka division, and in the little peripheral monastery built for the purpose of worshipping the Arhants at Gulmagandhika, and in the temple built for the Lord Sahasraraśmi <supplied reason="explanation">i.e., Sūrya</supplied> in the same Gulmagandhika, we wish to purchase and give one <foreign>kulyavāpa</foreign> of uncultivated land without revenue charges by way of permanent endowment to be enjoyed in perpetuity. And in your division the custom is sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land that is without revenue charges. Thus <supplied reason="explanation">tad</supplied>, be so kind as to take from our hand<!-- 
@@ -764,7 +773,7 @@ amwb : here the translation seems to me too much literal--> two <foreign>dīnār
 amwb : here I am not sure that this presentation of the text is allowed by english punctuation rules. I suggest a new presentation and segmentation of the text to render the intentions of your presentation. See below.
 -->
 	and after having purchased this <supplied reason="explanation">land</supplied> with the two <foreign>dīnāra</foreign>s received by the artisan <supplied reason="explanation"><foreign>kulika</foreign></supplied><!-- 
-amwb : I am wondering if it could be better to choose the meaning "chief of the guild", because it seems to me that one can not understand the high position of this man by the translation "artisan". If we consider the meaning of the unique compound with kulika- refered in MW and Apte 887, kulikavelā is related to business and means " certain portions of time on each day on which it is imporper to begin any good business. Consequently, in the present context, I have the impression that this Bhīma as an official role in transactions and it seems to me that "chief of the guild" fits better..  
+amwb : I am wondering if it could be better to choose the meaning "chief of the guild", because it seems to me that one can not understand the high position of this man by the translation "artisan". If we consider the meaning of the unique compound with kulika- refered in MW and Apte 887, kulikavelā is related to business and means " certain portions of time on each day on which it is imporper to begin any good business. Consequently, in the present context, I have the impression that this Bhīma has an official role in transactions and it seems to me that "chief of the guild" fits better..  
 --> Bhīma from the hands of Kṣemāka, Bhoyila and Mahīdāsa,<!-- 
 amwb : as before, maybe "from the hands" is somewhat too literal, I suggest "in person" 
 --> the six <foreign>droṇavāpa</foreign>s of<!-- 
@@ -789,7 +798,7 @@ amwb : I know that the reading of deva is not sure but shouldn't we translate it
 			<p n="4" rend="stanza">Those who steal a land donation are born <supplied reason="explanation">again</supplied> as black snakes living in dry caves in the waterless Vindhya forests.</p>
 			<p n="28-9">Year 128, <supplied reason="explanation">month of</supplied> Caitra, day 20. Written by Rudradāsa, heated by Susiṅha.</p>
 		</div>
-			<div type="textpart"><head>Amwb’s suggestions</head>
+			<div type="textpart" n="B"><head xml:lang="eng">Amwb’s suggestions</head>
 				<p n="3-14">Be the following request brought to your attention:<!-- 
 amwb : "following" to translate what is included by yathā
 --></p>
@@ -864,22 +873,25 @@ The repartition of the droṇavāpas is not clear at all, and in order to obtain
 			<p n="4" rend="stanza">Those who steal a land donation are born <supplied reason="explanation">again</supplied> as black snakes living in dry caves in the waterless Vindhya forests.</p>
 			<p n="28-9">Year 128, <supplied reason="explanation">month of</supplied> Caitra, day 20. Written by Rudradāsa, heated by Susiṅha.</p>
 				</div>
+		</div>
 		<div type="commentary">
 		</div>
 		<div type="bibliography">
-			<p/>
+			<p>First reported and edited with plates in <bibl><ptr target="bib:Siddhanta1963_01"/></bibl>. Siddhanta’s original edition was re-published in the <title>Journal of the Varendra Research Museum </title>1 (1972), pp. 23-37. Re-edited in <bibl><ptr target="bib:Sircar1969-1970_01"/></bibl>. Discussed in <bibl><ptr target="bib:Sircar1973_01"/><citedRange unit="page">8-14</citedRange></bibl>, with text on 61-63. The text is reedited here by Arlo Griffiths based on the photos of the plate furnished by Ryosuke Furui. The text has been encoded by Amandine Wattelier-Bricout using a digital edition created by Dániel Balogh for the Siddham project as starting point. Since some readings differ from this previous digital edition, they are reported in the apparatus. </p>
 			<listBibl type="primary">
+				<bibl><ptr target="bib:Siddhanta1963_01"/></bibl><!-- 
+amwb: caution there is no title in Zotero -->
 				<bibl n="DCS 1969"><ptr target="bib:Sircar1969-1970_01"/><citedRange unit="page">247-252</citedRange></bibl>
+				<bibl><ptr target="bib:Siddhanta1972_01"/></bibl>
+				<bibl><ptr target="bib:Siddhanta1972_01"/><citedRange unit="page">23-37</citedRange></bibl>
 				<bibl n="DCS 1973"><ptr target="bib:Sircar1973_01"/><citedRange unit="page">8–14</citedRange><citedRange unit="entry">61–63, pl</citedRange></bibl><!-- 
 amwb: check page-numbers and pl -->
+				<bibl><ptr target="bib:Agrawala1983_02"/><citedRange unit="item">30</citedRange></bibl>
+				<bibl><ptr target="bib:Goyal1993_01"/><citedRange unit="page">189</citedRange></bibl>
 				<bibl n="DB"><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00062</citedRange></bibl>
 			</listBibl>
 			<listBibl type="secondary">
-				<bibl><ptr target="bib:Siddhanta1963_01"/><citedRange unit="page">36ff</citedRange></bibl><!-- 
-amwb: caution there is no title in Zotero -->
-				<bibl><ptr target="bib:Siddhanta1972_01"/><citedRange unit="page">23-37</citedRange></bibl>
-				<bibl><ptr target="bib:Agrawala1983_02"/><citedRange unit="issue">30</citedRange></bibl>
-				<bibl><ptr target="bib:Goyal1993_01"/><citedRange unit="page">189</citedRange></bibl>
+				<bibl/>
 			</listBibl>
 		</div>
 		</body>
