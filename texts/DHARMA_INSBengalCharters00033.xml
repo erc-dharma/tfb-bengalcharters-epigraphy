@@ -271,9 +271,9 @@ amwb : I removed <unclear>pa</unclear>rikhā-veṣṭi<unclear>ta</unclear> and 
 --><lb 
 n="22" break="no"/><sic>m</sic>-uttar<unclear>e</unclear>ṇa<!-- 
 amwb : re is clear for me see photo 
---> vāṭā-nadī paścimena gulmagandhikā-grāma-<sic>sīmānam</sic> iti kulya-<choice><sic>b</sic><corr>v</corr></choice>āpa<add>m</add> eko<!-- 
+--> vāṭā-nadī paścimena gulmagandhikā-grāma-<sic>sīmānam</sic> iti kulya-<choice><sic>b</sic><corr>v</corr></choice>āpa<add place="above">m</add> eko<!-- 
 amwb : I replaced kulya-bāpa<unclear>m eko</unclear> by Arlo's reading and added different readings in app
-BUT i am not sure to have really well understand what Arlo means by kulyabāpa-m-eko
+BUT i am not sure to have really well understand what Arlo means by kulyabāpa-m-eko. After checking the plate, it appears to me that we can clearly see the beginning of m- and then the plate is scratched and we see the ko. See photo kulya-bāpameko BC33 l22.png
 --> gulm<sic>ā</sic>gandhikāyāṁ pūrvv<unclear>e</unclear><!-- 
 amwb : I replaced pūrvv<unclear>e</unclear> by Arlo's reading but did not mention in app because all three are in agreement 
 --><lb 
@@ -679,7 +679,7 @@ n="22" break="no"/><sic>m</sic>-uttar<unclear>e</unclear>ṇa</lem>
 					<rdg source="bib:Balogh+al2019_01">-uttar<unclear>e</unclear>ṇa</rdg>
 				</app>
 				<app loc="22">
-					<lem>kulya-<choice><sic>b</sic><corr>v</corr></choice>āpa<add>m</add> eko°</lem>
+					<lem>kulya-<choice><sic>b</sic><corr>v</corr></choice>āpa<add place="above">m</add> eko°</lem>
 					<rdg source="bib:Sircar1943_02">kulya-bāpa <supplied reason="lost">e</supplied>ko°</rdg>
 					<rdg source="bib:Sanyal1955-1956_01">kulya-bāpameko°</rdg>
 					<rdg source="bib:Balogh+al2019_01">kulya-bāpa<unclear>m eko</unclear></rdg>

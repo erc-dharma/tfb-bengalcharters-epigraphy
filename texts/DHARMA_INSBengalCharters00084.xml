@@ -770,7 +770,6 @@ amwb : I agree with this reading
             -->
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
            <p>First reported and edited in <bibl n="M"><ptr target="bib:Majumdar1935-1936_02"/><citedRange unit="page">155-161</citedRange></bibl>. (Majumdar published a preliminary account shortly before this in the <title>Vaṅgīya Sāhitya Pariṣat Patrikā</title>, no detailed reference available.) Re-edited by <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">372-378</citedRange><citedRange unit="item">46</citedRange></bibl> with some improvments and new emendations. Discussed in <bibl><ptr target="bib:Chhabra1953-1954_01"/></bibl> and <bibl><ptr target="bib:Siddham_Chhabra_1956"/></bibl>. Here re-edited and translated by Amandine Wattelier-Bricout and Arlo Griffiths based on photos of the plate furnished by Ryosuke Furui. The text has been encoded by Amandine Wattelier-Bricout using a digital edition created by Dániel Balogh for the Siddham project as starting point. Since some readings differ from this previous digital edition, they are reported in the apparatus. </p>
         	<listBibl type="primary">
 				 <bibl n="M"><ptr target="bib:Majumdar1935-1936_02"/><citedRange unit="page">155-161</citedRange></bibl>

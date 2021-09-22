@@ -96,6 +96,7 @@ amwb: siddham idno IN00023
 		</encodingDesc>
 		<revisionDesc>
 <!-- argr2amwb: it is important at least to mark a <change> entry each for the start and end dates of your encoding (and translation) work -->
+			<change when="2021-09-22" who="part:amwb" status="draft">Added Epigraphic lemma</change>
 			<change who="part:amwb" when="2021-08-30" status="draft">Added Siddham bibliographic reference in the bibliography and added its readings in apparatus. Then added my own readings in comment.</change>
 			<change who="part:amwb" when="2021-08-24" status="draft">Start of the translation of the plate.</change>
 			<change who="part:amwb" when="2021-08-19" status="draft">Creation of the apparatus by comparing the edition with four previous editions, ie. Bandyopadhyaya1909_01, Basak1923-1924_01, Sircar1942_01, Sircar1965_02.</change>
@@ -773,7 +774,7 @@ n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap rea
 		<div type="commentary">
 		</div>
 		<div type="bibliography">
-			<p></p>
+			<p>First noticed and edited in <bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl>. Re-edited in <bibl><ptr target="bib:Basak1923-1924_01"/></bibl>, <bibl><ptr target="bib:Sircar1942_01"/></bibl> (revised in <bibl><ptr target="bib:Sircar1965_02"/></bibl>), <bibl><ptr target="bib:Agrawala1983_02"/></bibl> and in <bibl><ptr target="bib:Balogh+al2019_01"/></bibl>. Discussed in <bibl><ptr target="Basak1925_01"/><citedRange unit="page">475-496</citedRange></bibl>. The text is reedited here by Amandine Wattelier-Bricout based on the photos of the plate and RTI furnished by Arlo Griffiths and using a digital edition created by Dániel Balogh for the Siddham project as starting point. Since some readings differ from the previous editions, they are reported in the apparatus.</p>
 			<listBibl type="primary">
 				<bibl n="RDB"><ptr target="bib:Bandyopadhyaya1909_01"/></bibl><!-- 
 				amwb : caution here the reference seems to be broken Bandyopadhyaya1909_01 ? Missing 01???

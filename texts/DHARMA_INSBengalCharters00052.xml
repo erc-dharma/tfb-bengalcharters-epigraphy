@@ -606,9 +606,7 @@ amwb : I feel it is important that the protection is enjoined by the rule for pe
 		<div type="commentary">
 		</div>
 		<div type="bibliography">
-			<p>First edited by <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl>. Re-edited here by Arlo Griffiths based on the facsimile published by <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl>. The text has been encoded by Amandine Wattelier-Bricout using a digital edition created by Dániel Balogh for the Siddham project as starting point. Since some readings differ from this previous digital edition, as well as those of <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> and of <bibl><ptr target="bib:Sircar1965_02"/></bibl>, these ones are reported in the apparatus.<!-- 
-			amwb : circumstances of its discovery described in <bibl><ptr target="bib:Dikshit1929-1930_01"/><citedRanged unit="page">59</citedRange></bibl>
-			--></p>
+			<p>First edited by <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl>, who described the circumstances of its discovery on page 59. Re-edited here by Arlo Griffiths based on the facsimile published by <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl>. The text has been encoded by Amandine Wattelier-Bricout using a digital edition created by Dániel Balogh for the Siddham project as starting point. Since some readings differ from this previous digital edition, as well as those of <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> and of <bibl><ptr target="bib:Sircar1965_02"/></bibl>, these ones are reported in the apparatus.</p>
 			<listBibl type="primary">
 				<bibl n="KND"><ptr target="bib:Dikshit1929-1930_01"/><citedRange unit="page">59-64</citedRange></bibl>
 				<bibl n="DCS"><ptr target="bib:Sircar1965_02"/><citedRange unit="part">III</citedRange><citedRange unit="entry">42</citedRange><citedRange unit="page">359-363</citedRange></bibl>
