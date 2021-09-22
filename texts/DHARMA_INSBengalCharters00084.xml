@@ -241,8 +241,13 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
                   <app loc="1">
                      <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01"><gap reason="lost" precision="low" quantity="8" unit="character"/> <supplied reason="lost">lo</supplied></lem>
                       <rdg source="bib:Sircar1965_02"><supplied reason="lost"><num value="1">1</num> svasti</supplied><supplied reason="lost">.</supplied><supplied reason="lost">jayati śrīlo</supplied></rdg>
+<<<<<<< HEAD
                      <rdg source="bib:Chhabra1953-1954_01"><supplied reason="lost">siddhaM jayati tri°</supplied></rdg>
                       <note><bibl><ptr target="bib:Chhabra1953-1954_01"/><citedRange unit="note">2</citedRange><citedRange unit="page">163</citedRange></bibl> suggests this restoration after a discussion about the obedience of the charter. For him, the deity invoked is Viṣṇu as Cakrapuruṣa.</note>
+=======
+                     <rdg source="bib:Deshpande+al1965_01"><supplied reason="lost">siddhaM jayati tri°</supplied></rdg>
+                      <note><bibl><ptr target="bib:Deshpande+al1965_01"/><citedRange unit="note">2</citedRange><citedRange unit="page">163</citedRange></bibl> suggests this restoration after a discussion about the obedience of the charter. For him, the deity invoked is Viṣṇu as Cakrapuruṣa.</note>
+>>>>>>> ff797fc9cb31c5c730e4899ee57ad8aedf7113bd
                   </app>
                   <app loc="1">
                       <lem source="bib:Sircar1965_02 bib:Balogh+al2019_01"><supplied reason="lost">lo</supplied>ka-nāthaḥ</lem>
@@ -655,7 +660,11 @@ amwb : I agree with this reading
 <div type="textpart" n="B">
            <head xml:lang="eng">Plate</head>
  	<p n="1" rend="stanza"><supplied reason="lost">The</supplied> Lord of the Worlds <supplied reason="explanation">Lokanātha</supplied><note>
+<<<<<<< HEAD
  	    <bibl><ptr target="bib:Chhabra1953-1954_01"/></bibl> discusses the identity of god glorified here. According to him, the buddhist obedience of the plate maintained by <bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> is questionable and he prefers to attribute a brahmanical background to the donation. His arguments are :
+=======
+ 	    <bibl><ptr target="bib:Deshpande+al1965_01"/></bibl> discusses the identity of god glorified here. According to him, the buddhist obedience of the plate maintained by <bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> is questionable and he prefers to attribute a brahmanical background to the donation. His arguments are :
+>>>>>>> ff797fc9cb31c5c730e4899ee57ad8aedf7113bd
  	    <list>
  	        <item>the mention of the five great sacrifices</item>
  	        <item>the identity of the recipient : a Brahmin of the Kauṇḍinya <foreign>gotra</foreign>, belonging to the Bāhvṛca <foreign>śākha</foreign> of the <title>Ṛgveda</title></item>
