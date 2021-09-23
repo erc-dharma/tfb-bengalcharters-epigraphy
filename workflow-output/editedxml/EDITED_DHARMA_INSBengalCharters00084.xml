@@ -108,7 +108,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change when="2021-09-07" who="part:amwb" status="draft">Encoding the apparatus part by comparing Daniel’s edition with previous editions : bib:Majumdar1935-1936_02, bib:Deshpande1965_01 and bib:Sircar1965_02.</change>
+         <change when="2021-09-07" who="part:amwb" status="draft">Encoding the apparatus part by comparing Daniel’s edition with previous editions : bib:Majumdar1935-1936_02, bib:Chhabra1953-1954_01 and bib:Sircar1965_02.</change>
          <change when="2021-09-06" who="part:amwb" status="draft">Creation of the file according to the template version 03 by copying parts from file prepared by Dániel Balogh.</change>
          <change who="part:daba" when="2020-08-04" status="draft">Initial import: harmonising file structure with DHARMA inscription template v02. Text and comments as inherited from the Siddham archive of January 2019, unless otherwise indicated (by a name and date in the comment).. Comments are offered "as is" and do not represent a thoroughly considered or researched opinion.</change>
       </revisionDesc>
@@ -132,17 +132,20 @@ daba: For the lost beginning, Sircar conjecturally supplies a mangala symbol, fo
 <l n="ab">tad-anu jita-a<choice><sic>n</sic><corr>m</corr></choice>bha-lobhā jaya<lb n="2" break="no"/><supplied reason="lost">nti</supplied> <gap reason="lost" precision="low" quantity="1" unit="character"/> <seg type="component" subtype="consonant"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear cert="low">ya</unclear> <unclear>pa</unclear>rah<supplied reason="lost">i</supplied>tārthāḥ</l><!--
     amwb <supplied reason="lost">yapa</supplied><unclear>ra</unclear>h<supplied reason="lost">i</supplied>tārthāḥ
 -->
-<l n="cd">ni<unclear>rmma</unclear>tsarāḥ sucaritaiḥ para-loka-jigīṣavaḥ santaḥ</l>
+<l n="cd">ni<supplied reason="lost">rmma</supplied>tsarāḥ sucaritaiḥ para-loka-jigīṣavaḥ santaḥ</l>
 </lg><!--
 daba: For danbha in l1, Sircar prints damta; he too emends to dambha, like Majumdar. This is probably a typo in Sircar.
 --><!--
 daba: At the beginning of l2, Sircar tentative restores jayanti cirāya. This is again unmetrical; the pattern .-. is not permitted in the fifth foot. Also, I don't think there is a full ya at the beginning; however, there does seem to be a subscript ya there. This would mean that the lost syllable preceding this is a heavy one, which in turn means that the one with the subscript ya must also be heavy to give us four morae for this foot. The size of the lacuna also indicates that there is probably only one akṣara lost between the expected nti and the one with the subscript ya. So e.g. jayanti nityaṁ would be metrically correct and would correspond to what I can see in the rubbing.
---><p>pr̥thivīṁ pr̥thur iva prathita-pratāpa-naya-śauryy<unclear>e</unclear> mahārājādhirāja-śrī-gopa<lb n="3" break="no"/><supplied reason="lost">can</supplied><unclear cert="low">dr</unclear><supplied reason="lost">e</supplied> praśāsati tad-anujña<choice><sic>ptāyāṁ</sic><corr>ptyā</corr></choice> puṇyottara-janapadādhyāsitāyā<supplied reason="omitted">ṁ</supplied> satata-dharmma-kriyā-varddhamānāyāṁ varddhamāna-bhuktau pūjyān varttamānopasthita<surplus>ta</surplus>-kārttākr̥tika<!-- amwb: kā<unclear>rttākr̥tika</unclear> -->-ku<lb n="4" break="no"/>mārāmātya-c<unclear>au</unclear>r<unclear>o</unclear>ddharaṇikoparikaudraṅgikāgrahārikaurṇasthānika-bhogapatika-viṣayapati-tad<choice><sic>a</sic><corr>ā</corr></choice>yuktaka-hiraṇya-sāmudāyika-pattalakāvasathika-devadroṇī-samva<lb n="5" break="no"/>ddhādīn vidhivat sampūjya vakkattaka-vīthī-samvaddhārddhakarakāgrahārīṇa-mahattara-himadattaḥ nirvr̥ta-vāṭakīya-mahattara-su<supplied reason="omitted">va</supplied>rṇṇayaśā<supplied reason="omitted">ḥ</supplied> kapistha-vāṭakāgrah<unclear>ā</unclear>rīṇa<lb n="6" break="no"/>-mahattara-dhanasvām<choice><sic>i</sic><corr>ī</corr></choice> vaṭavallakāgrahārīṇa-mahattara-ṣaṣṭhidatta-śrīdattau koḍḍavīrāgrahārīṇa-bhaṭṭa-vāmanasvām<choice><sic>i</sic><corr>ī</corr></choice> godhagrāmāgrahārīṇa-mahidatta-rājya<lb n="7" break="no"/>dattau śālmali-vāṭakīya-jīvasvām<choice><sic>i</sic><corr>ī</corr></choice> vakkattakīya-khāḍgi-hariḥ madhu-vāṭakīya-khāḍgi-goIka<supplied reason="omitted">ḥ</supplied> khaṇḍajoṭikeya-khāḍgi-bhadranand<choice><sic>i</sic><corr>ī</corr></choice> vindhapureya-vāhanāyaka<lb n="8" break="no"/>-hari-prabh<choice><sic>u</sic><corr>r̥</corr></choice>tayo vīthy-adhikaraṇañ ca vijñāpayanti<!--
+--><p>pr̥thivīṁ pr̥thur iva prathita-pratāpa-naya-śauryy<unclear>e</unclear> mahārājādhirāja-śrī-gopa<lb n="3" break="no"/><supplied reason="lost">can</supplied><unclear cert="low">dr</unclear><supplied reason="lost">e</supplied> praśāsati tad-anujña<choice><sic>ptāyāṁ</sic><corr>ptyā</corr></choice> puṇyottara-janapadādhyāsitāyā<supplied reason="omitted">ṁ</supplied> satata-dharmma-kriyā-varddhamānāyāṁ varddhamāna-bhuktau pūjyān varttamānopasthita<surplus>ta</surplus>-kārttākr̥tika<!-- amwb: kā<unclear>rttākr̥tika</unclear> -->-ku<lb n="4" break="no"/>mārāmātya-c<unclear>au</unclear>r<unclear>o</unclear>ddharaṇikoparikaudraṅgikāgrahārikaurṇasthānika-bhogapatika-viṣayapati-tad<choice><sic>a</sic><corr>ā</corr></choice>yuktaka-hiraṇya-sāmudāyika-pattalakāvasathika-devadroṇī-samva<lb n="5" break="no"/>ddhādīn vidhivat sampūjya vakkattaka-vīthī-samvaddhārddhakarakāgrahārīṇa-mahattara-himadattaḥ nirvr̥ta-vāṭakīya-mahattara-su<supplied reason="omitted">va</supplied>rṇṇayaśā<supplied reason="omitted">ḥ</supplied> kapistha-vāṭakāgrah<unclear>ā</unclear>rīṇa<lb n="6" break="no"/>-mahattara-dhanasvām<choice><sic>i</sic><corr>ī</corr></choice> vaṭavallakāgrahārīṇa-mahattara-ṣaṣṭh<choice><sic>i</sic><corr>ī</corr></choice>datta-śrīdattau koḍḍavīrāgrahārīṇa-bhaṭṭa-vāmanasvāmī
+godhagrāmāgrahārīṇa-mah<choice><sic>i</sic><corr>ī</corr></choice>datta-rājya<lb n="7" break="no"/>dattau śālmali-vāṭakīya-jīvasvām<choice><sic>i</sic><corr>ī</corr></choice> vakkattakīya-khāḍgi-hariḥ madhu-vāṭakīya-khāḍgi-goIka<supplied reason="omitted">ḥ</supplied> khaṇḍajoṭikeya-khāḍgi-bhadranand<choice><sic>i</sic><corr>ī</corr></choice> vindhyapureya-vāhanāyaka<lb n="8" break="no"/>-hari-prabh<choice><sic>u</sic><corr>r̥</corr></choice>tayo vīthy-adhikaraṇañ ca vijñāpayanti<!--
 daba: For pr̥thur iva in l2, Majumdar suggests pr̥thuvat while Sircar proposes pr̥thāv iva. While both improve the grammar, they are in my opinion overzealous.
 --><!--
 daba: For the beginning of l3, Majumdar feels "no hesitation in restoring" gopacandre. He notes that of the first character in this line, the lower portion seems to be a triangle with an acute angle pointing downward, i.e. it must be ca. This is not quite visible in the rubbing. He also says that the second character was a conjunct with a subscript r. This can be more or less made out in the rubbing; the bit above the r may also well be d (compare dra of audraṅgika in l4). Sircar accepts Majumdar's restoration, which is indeed plausible.
 --></p>
-<p>pūjya<surplus>ṁ</surplus>-mahārāja-vijayasenena vayam abhyarthitā Icche ’ham eta<supplied reason="omitted">d</supplied>-vīthī-samvaddha-vettragarttā-grāme yuṣmabhyo ya<lb n="9" break="no"/>thā-nyāy<choice><sic>a</sic><corr>e</corr></choice>nopakrīyāṣṭau kulyavāpān mātā-pittror ātmanaś ca puṇyābhivr̥ddhaye kalpāntara-sthāyinyā pravr̥ttyā puttra-pauttrānvaya-bhogyatvena kauṇḍinya-sagottrāya <lb n="10"/>vāhvr̥ca-vatsasvāmin<choice><sic>o</sic><corr>e</corr></choice> pañca-mahā-yajña-pravarttanāya pratipā<choice><sic>v</sic><corr>d</corr></choice>ayitum iti<!--
+<p>pūjya<surplus>ṁ</surplus>-mahārāja-vijayasenena vayam abhyarthitā Icche ’ham eta<supplied reason="omitted">d</supplied>-vīthī-samvaddha-vettragarttā-grāme yuṣmabhyo ya<lb n="9" break="no"/>thā-nyāy<choice><sic>a</sic><corr>e</corr></choice>nopakrīyāṣṭau kulyavāpān mātā-pittror<!-- 
+amwb Maybe change here because it is noted kulyavāpān n with virama and then  mātā
+--> ātmanaś ca puṇyābhivr̥ddhaye kalpāntara-sthāyinyā pravr̥ttyā puttra-pauttrānvaya-bhogyatvena kauṇḍinya-sagottrāya <lb n="10"/>vāhvr̥ca-vatsasvāmin<choice><sic>o</sic><corr>e</corr></choice> pañca-mahā-yajña-pravarttanāya pratipā<choice><sic>v</sic><corr>d</corr></choice>ayitum iti<!--
 daba: For iccheham in l8, Majumdar corrects to iccheyam, and Sircar to icchaye or icchāmi. I don't know what is wrong with icche [']ham, which Sircar prints in his main text - perhaps not standard but I'm sure I've seen this form. It's correct in class 6 ātmanepada.
 --></p>
 <p>yato ’smābhir asyābhyartha<supplied reason="omitted">na</supplied>yāvadhr̥tam asty <choice><sic>o</sic><corr>e</corr></choice>ṣo ’nukramaḥ Ubhaya-loka-vijigīṣu<unclear>bhi</unclear><lb n="11" break="no"/><supplied reason="lost">s</supplied> <unclear>s</unclear><supplied reason="lost">ā</supplied>dhubhiḥ kriyamāṇa-puṇya-skandheṣu śrī-param<choice><sic>ā</sic><corr>a</corr></choice>-bhaṭṭāraka-p<choice><sic>a</sic><corr>ā</corr></choice>dānāṁ dharmma-ṣaḍ-bhāgo<supplied reason="omitted">pa</supplied>cayo smākam api pratipālayatāṁ kīrtti-śreyobhyāṁ yogaḥ<supplied reason="subaudible">.</supplied> Uktañ ca<!--
@@ -151,7 +154,9 @@ daba: Majumdar reads asyoṣo in l10, correcting to asyaiṣo. Sircar is correct
 daba: Majumdar and Sircar supply a visarga at the end of l10 and print an unclear (sā) in l11. Not that it matters much, but I think part of a subscript s (but nothing more) is visible at the beginning of l11, which means that the first character must have been ssā and there is no need to supply a visarga.
 --></p>
 <lg n="3" met="anuṣṭubh">
-<l n="a">yaḥ kriyāṁ dharmma-saṁyu<lb n="12" break="no"/>ktāṁ</l>
+<l n="a">yaḥ kriyāṁ dharmma-saṁyu<lb n="12" break="no"/>ktāṁ</l><!-- 
+amwb : I disagree with this reading ; for me the line 12 begins with yuktāṁ as Majumdar reads
+-->
 <l n="b">manasāpy abhinandati</l>
 <l n="c"><supplied reason="omitted">va</supplied>rddhate sa yadheṣṭe<choice><unclear>c</unclear><unclear>v</unclear></choice>a</l>
 <l n="d">śukla-pakṣa IvoḍurāṬ</l>
@@ -159,7 +164,9 @@ daba: Majumdar and Sircar supply a visarga at the end of l10 and print an unclea
 daba: In l12 Majumdar reads yatheṣṭeva; his editor says the reading seems to be yadheṣṭe ca but the intent may have been yatheṣṭaṁ ca. Sircar adopts the editor's reading and emendation. I see no better solution, but this is quite lame.
 --><!--
 daba: The halanta Ṭ in l12 (the first I've ever come across) seems no different from a regular ṭa, though there may be some sort of sign below it.
---><p>tat sampadyatām asyābhiprāya Ity asma<choice><sic>n</sic><corr>d</corr></choice>-vāra-kr̥tair anena dattaka-dīnārā<supplied reason="omitted">n</supplied> vīthyāṁ samvibhajyāsma<choice><sic>n</sic><corr>d</corr></choice>-vettra<lb n="13" break="no"/>garttā-grāme ’ṣṭābhyaḥ kulyavāpebhyo yathocitaṁ dānaṁ ta<unclear>d</unclear>-vīthī-samudaya Eva pranāyya<unclear>ṁ</unclear> voḍhavyam ity avacūrṇyāṣṭau kulya-vāpā mahārāja-vijayasenasya datt<choice><sic>o</sic><corr>ā</corr></choice>ḥ<supplied reason="subaudible">.</supplied> <lb n="14"/><supplied reason="lost">anenā</supplied>pi rājñāsmai kauṇḍinya-sagottrāya vāhvr̥ca-vatsasvāmine pañca-mahā-yajña-pravarttanāya tāmra-p<surplus>r</surplus>aṭṭena pratipāditā<supplied reason="omitted">ḥ</supplied></p><!--
+--><p>tat sampadyatām asyābhiprāya Ity asma<choice><sic>n</sic><corr>d</corr></choice>-vāra-kr̥tair anena dattaka-dīnārā<supplied reason="omitted">n</supplied> vīthyāṁ samvibhajyāsma<choice><sic>n</sic><corr>d</corr></choice>-vettra<lb n="13" break="no"/>garttā-grāme ’ṣṭābhyaḥ kulyavāpebhyo yathocitaṁ dānaṁ ta<unclear>d</unclear>-vīthī-samudaya Eva pranāyya<unclear>ṁ</unclear><!-- 
+amwb : I read pranāryya as Majumdar
+--> voḍhavyam ity avacūrṇyāṣṭau kulya-vāpā mahārāja-vijayasenasya datt<choice><sic>o</sic><corr>ā</corr></choice>ḥ<supplied reason="subaudible">.</supplied> <lb n="14"/><supplied reason="lost">anenā</supplied>pi rājñāsmai kauṇḍinya-sagottrāya vāhvr̥ca-vatsasvāmine pañca-mahā-yajña-pravarttanāya tāmra-p<surplus>r</surplus>aṭṭena pratipāditā<supplied reason="omitted">ḥ</supplied></p><!--
 daba: For pranāyya(ṁ) in l13, Majumdar reads pranāryya and emends to praṇāyya. I follow Sircar's reading, who then emends to prāṇāyyaṁ, "honestly" (MW: proper, fit, suited).
 --><p>Atha <surplus>ca</surplus> caiṣāṁ <sic>caturṣu</sic> dikṣu sīmā bhavanti pū<lb n="15" break="no"/><supplied reason="lost">rvvasyāṁ di</supplied>śi godha-grāma sīmā<supplied reason="subaudible">.</supplied> <sic>dakṣiṇyāṁ</sic> godha-grām<choice><sic>ā</sic><corr>a</corr></choice> <unclear>e</unclear>va<supplied reason="subaudible">.</supplied> Uttarasyāṁ vaṭavallakāgrahāra sīmā<supplied reason="subaudible">.</supplied> paścimasyāṁ diśi Arddhena Āmra-garttikā sīmā kīlakāś cāttra kama<unclear>lā</unclear><pb n="1v" break="no"/><lb n="16" break="no"/>kṣa-mālāṅkitā<supplied reason="omitted">ś</supplied> caturṣu<!--
 amwb : maybe add sic as in line 14
@@ -228,8 +235,8 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
                   <app loc="1">
                      <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01"><gap reason="lost" precision="low" quantity="8" unit="character"/> <supplied reason="lost">lo</supplied></lem>
                       <rdg source="bib:Sircar1965_02"><supplied reason="lost"><num value="1">1</num> svasti</supplied><supplied reason="lost">.</supplied><supplied reason="lost">jayati śrīlo</supplied></rdg>
-                     <rdg source="bib:Deshpande+al1965_01"><supplied reason="lost">siddhaM jayati tri°</supplied></rdg>
-                      <note><bibl><ptr target="bib:Deshpande+al1965_01"/><citedRange unit="note">2</citedRange><citedRange unit="page">163</citedRange></bibl> suggests this restoration after a discussion about the obedience of the charter. For him, the deity invoked is Viṣṇu as Cakrapuruṣa.</note>
+                     <rdg source="bib:Chhabra1953-1954_01"><supplied reason="lost">siddhaM jayati tri°</supplied></rdg>
+                      <note><bibl><ptr target="bib:Chhabra1953-1954_01"/><citedRange unit="note">2</citedRange><citedRange unit="page">163</citedRange></bibl> suggests this restoration after a discussion about the obedience of the charter. For him, the deity invoked is Viṣṇu as Cakrapuruṣa.</note>
                   </app>
                   <app loc="1">
                       <lem source="bib:Sircar1965_02 bib:Balogh+al2019_01"><supplied reason="lost">lo</supplied>ka-nāthaḥ</lem>
@@ -246,10 +253,10 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">°hitārthāḥ</rdg>
                    </app>
                    <app loc="2">
-                       <lem source="bib:Balogh+al2019_01">ni<unclear>rmma</unclear>tsarāḥ</lem>
-                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">ni<supplied reason="lost">rmma</supplied>tsarāḥ</rdg><!--
+                       <lem source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">ni<supplied reason="lost">rmma</supplied>tsarāḥ</lem><!--
                        amwb : there is a gap at the place where rmma could be written, so it is clearly lost So choose Majumdar and Sircar
                        -->
+                        <rdg source="bib:Balogh+al2019_01">ni<unclear>rmma</unclear>tsarāḥ</rdg>
                    </app>
                    <app loc="2">
                       <lem source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">sucaritaiḥ</lem>
@@ -299,7 +306,7 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
                    </app>
                    <app loc="4">
                        <lem source="bib:Balogh+al2019_01">°droṇī-samva</lem>
-                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">°droṇī--sam<choice><sic>v</sic><corr>b</corr></choice>a</rdg>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">°droṇī-sam<choice><sic>v</sic><corr>b</corr></choice>a</rdg>
                       <!-- amwb : my own reading :
                           <lem>°<unclear>droṇī-samva</unclear></lem>
                       -->
@@ -325,11 +332,22 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
                        impossible to see if there was a mark for the long a
                        -->
                    </app>
-                   <!-- amwb : my own reading
+                   <app loc="6">
+                       <lem>-ṣaṣṭh<choice><sic>i</sic><corr>ī</corr></choice>datta-</lem>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">-ṣaṣṭhidatta-</rdg>
+                   </app>
                     <app loc="6">
                        <lem>vāmanasvāmī</lem>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">vāmanasvām<choice><sic>i</sic><corr>ī</corr></choice></rdg>
-                   </app>-->
+                   </app>
+                   <app loc="6">
+                       <lem>-mah<choice><sic>i</sic><corr>ī</corr></choice>datta-</lem>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">-mahidatta-</rdg>
+                   </app>
+                   <app loc="7">
+                       <lem source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">vindhyapureya</lem>
+                       <rdg source="bib:Balogh+al2019_01">vindhapureya</rdg>
+                   </app>
                   <!-- <app loc="8">
                        <lem>-mahārāja-<unclear>vi</unclear>jayasenena</lem><!-\-
                        amwb search in EDG how noting that there is a scribal correction the vi is retraced
@@ -390,7 +408,9 @@ amwb : I agree with this reading
                        <note><bibl><ptr target="bib:Sircar1965_02"/></bibl> suggests reading <foreign>yatheṣṭaṁ</foreign>.</note>
                    </app>
                    <app loc="12">
-                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">-dīnārā<supplied reason="omitted">n</supplied> vīthyāṁ</lem>
+                       <lem source="bib:Majumdar1935-1936_02 bib:Balogh+al2019_01">-dīnārā<supplied reason="omitted">n</supplied> vīthyāṁ</lem><!-- 
+                       amwb here the i seems to be short If so,add a choice sic corr 
+                       -->
                        <rdg source="bib:Sircar1965_02">-dīnārā<supplied reason="omitted">n</supplied> <supplied reason="omitted">saṁgṛhya</supplied> vīthyāṁ</rdg>
                    </app>
                    <app loc="12">
@@ -621,7 +641,6 @@ amwb : I agree with this reading
                </listApp>
          </div>
          <div type="translation" resp="part:amwb">
-<!-- argr2amwb: add translation of seal -->
 <div type="textpart" n="A">
           <head xml:lang="eng">Seal</head>
   <ab>Of the <foreign>mahārāja</foreign> Vijayasena</ab>
@@ -629,7 +648,7 @@ amwb : I agree with this reading
 <div type="textpart" n="B">
            <head xml:lang="eng">Plate</head>
  	<p n="1" rend="stanza"><supplied reason="lost">The</supplied> Lord of the Worlds <supplied reason="explanation">Lokanātha</supplied><note>
- 	    <bibl><ptr target="bib:Deshpande+al1965_01"/></bibl> discusses the identity of god glorified here. According to him, the buddhist obedience of the plate maintained by <bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> is questionable and he prefers to attribute a brahmanical background to the donation. His arguments are:
+ 	    <bibl><ptr target="bib:Chhabra1953-1954_01"/></bibl> discusses the identity of god glorified here. According to him, the buddhist obedience of the plate maintained by <bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> is questionable and he prefers to attribute a brahmanical background to the donation. His arguments are:
  	    <list>
  	        <item>the mention of the five great sacrifices</item>
  	        <item>the identity of the recipient: a Brahmin of the Kauṇḍinya <foreign>gotra</foreign>, belonging to the Bāhvṛca <foreign>śākha</foreign> of the <title>Ṛgveda</title></item>
@@ -647,17 +666,13 @@ amwb : I agree with this reading
  	<p n="2" rend="stanza">After Him, the good men who seek the highest goal, who have defeated their deceit and their cupidity, unselfish, they who desire the highest world, are victorious <gap reason="lost"/><supplied reason="explanation">line 2</supplied> through their good deeds.</p>
      <p n="2-8">While the <foreign>mahārājādhirāja</foreign> Śrī Gopacandra whose power, conduct and heroism are well-known, is governing the earth as another Pr̥thu, in the province of Vardhamāna <supplied reason="explanation">litt. the prosperous one</supplied> which is prospering thanks to the constant practice of Dharma,<note>Here one can observe the attempt to give meaning to the name of the province by an semantical etymology.
      </note> where supremely people have been settled with his <supplied reason="explanation">i.e. Gopacandra’s</supplied> authorisation,
-        Himadatta, the notable <supplied reason="explanation"><foreign>mahattara</foreign></supplied> residing in the Ardhakaraka <foreign>agrahāra</foreign>  belonging to the Vakkattaka territory <supplied reason="explanation"><foreign>vīthīsambaddha</foreign></supplied>;<!-- 
-        amwb : stop here with Arlo the 20-09-2021
-        -->
-         Suvarṇayaśas, the notable <supplied reason="explanation"><foreign>mahattara</foreign></supplied> residing in Nirvṛtavāṭaka,<note>
-            As the suffix <foreign>īya</foreign> is used without a <foreign>vṛddhi</foreign> elevation, other translations can be suggested: <q>belonging to</q> or <q>managing</q> or <q>responsible of</q>. The word <foreign>nirvṛtavāṭaka</foreign> can be understood as a place name or be translated by <q>the pleasant garden<supplied reason="explanation">s</supplied></q>.
-        </note>
-         Dhanasvāmin, the notable <supplied reason="explanation"><foreign>mahattara</foreign></supplied> possessing villages and gardens given to Brahmins <supplied reason="explanation"><foreign>vāṭakāgrahārīṇa</foreign></supplied> at Kapistha,<note>
-             Again, another translation is possible if we consider <supplied reason="explanation"><foreign>vāṭaka</foreign></supplied> as the end of a place name. In this case, the translation would be: <q>Dhanasvāmin, the notable possessing villages given to Brahmins in Kapisthavāṭaka</q>. </note>
-         Ṣaṣṭhidatta and Śrīdatta, both notables <supplied reason="explanation"><foreign>mahattara</foreign></supplied> possessing villages given to Brahmins in Vaṭavallaka,
-         Vāmanasvāmin, the venerable <supplied reason="explanation"><foreign>bhaṭṭa</foreign></supplied> possessing villages given to Brahmins in Koḍḍavīra,
-         Mahidatta and Rājyadatta, both possessing villages given to Brahmins in Godhagrāma,
+        Himadatta, the notable <supplied reason="explanation"><foreign>mahattara</foreign></supplied> residing in the Ardhakaraka <foreign>agrahāra</foreign> belonging to the Vakkattaka territory <supplied reason="explanation"><foreign>vīthīsambaddha</foreign></supplied>;
+         Suvarṇayaśas, the notable residing in Nirvr̥tavāṭaka;<note>
+            As the suffix <foreign>īya</foreign> is used without <foreign>vr̥ddhi</foreign>, other translations can be suggested: <q>belonging to</q>, <q>managing</q> or <q>responsible of</q>. The word <foreign>nirvr̥tavāṭaka</foreign> can be understood as a toponym meaning <q>pleasant garden</q>.</note>
+         Dhanasvāmin, the notable residing in the Kapisthavāṭaka <supplied reason="explanation">Wood-apple garden</supplied> <foreign>agrahāra</foreign>;
+         Ṣaṣṭhīdatta and Śrīdatta, both notables residing in the Vaṭavallaka <foreign>agrahāra</foreign>;
+        Bhaṭṭa Vāmanasvāmin residing in the Koḍḍavīra <foreign>agrahāra</foreign>;
+         Mahīdatta and Rājyadatta, both possessing villages given to Brahmins in Godhagrāma,
          Jīvasvāmin residing in Śālmalivāṭaka,<note>
              As for <foreign>nirvṛtavāṭakīya</foreign>, there is no <foreign>vṛddhi</foreign> elevation. So one could also translated by <q>belonging to Śālmalivāṭaka</q> or <q>responsible of the garden<supplied reason="explanation">s</supplied> in Śālmali</q>.
          </note>
