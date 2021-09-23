@@ -92,7 +92,7 @@
              <ab><lb n="1"/>śrī-mahendrapāla-devaḥ</ab>
          </div>
          <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
-            <pb n="r"/><lb n="1"/><p><g type="spiral"/><!-- siddham --> svasti|</p>
+            <pb n="1r"/><lb n="1"/><p><g type="spiral"/><!-- siddham --> svasti|</p>
             <lg n="1" met="śārdūlavikrīḍita">
                 <l n="a">śrīmā<choice><sic>m</sic><corr>n</corr></choice> mānita-śāsano nija-va<lb n="2"/>lair adhyāsito vīryavāN<surplus>|</surplus></l>
                 <l n="b">Ary-ānanda-subhū<lb n="3"/>ti-nandita-manā dāna-priyaḥ kṣāntimā<unclear>ṁ*</unclear>|</l>
@@ -207,7 +207,7 @@
             </p>
             <p>matam astu bhavatāṁ| mahāsenāpati-śrī-vajradevena <space unit="character" quantity="1"></space> dūtaka-mu<lb 
                 n="40"/>khena vayam vijñāpitāḥ| yathā mātā-pittror ātmanaḥ sakalasya ca satvarāśeḥ puṇyābhivr̥ddhaye nandadīrghikodraṅge mayā vi
-        <pb n="v"/><lb n="41"/>hāraḥ kāritaḥ tattra yathopari-likhita-nandadīrghikodraṅgaṁ* bhagavato vuddha-bhaṭṭārakasya prajñāpāramitādi-sakala<lb 
+        <pb n="1v"/><lb n="41"/>hāraḥ kāritaḥ tattra yathopari-likhita-nandadīrghikodraṅgaṁ* bhagavato vuddha-bhaṭṭārakasya prajñāpāramitādi-sakala<lb 
                 n="42"/>-dharmma-nettrī-sthānasya Āryāvaivarttika-vodhisatva-gaṇasyāṣṭa-mahāpuruṣa-pudgalārya-bhikṣu-saṁghasya yathārhaṁ pūjana-lekha<lb 
                 n="43"/>nādy-arthaṁ* cīvara-piṇḍapāta-śayanā<choice><sic>ś</sic><corr>s</corr></choice>ana-glāna-pratyaya-bhaiṣajya-pariṣkārādy-arthaṁ khaṇḍa-sphuṭita-samādhān-ārtha<supplied reason="omitted">m</supplied>_<space unit="character" quantity="2"></space> Anye<lb 
                 n="44"/>ṣām api mamābhimatānām mat-parikalpita-vibhāgenānavadya-bhogārthaṁ śrīmad-bhaṭṭāraka-pād<choice><sic>ā</sic><corr>o</corr></choice> dadatv iti<supplied reason="omitted">|</supplied> Ato !'smābhi<lb 
@@ -307,15 +307,15 @@
                 <l n="d">maitrī-tyāge sthir<choice><sic>e</sic><corr>o</corr></choice> 'bhūn na tu cala-vanitā-samprayoge 'pi yasya||</l>
             </lg>
             <lg n="33" met="vasantatilakā">
-                <l n="a">Āryeṣu jahnu-tanayā-<choice><sic>ś</sic><corr>s</corr></choice>a<space unit="character" quantity="2"></space><lb n="70"/>lil-ābhiṣeko</l>
+                <l n="a">Āryeṣu jahnu-tanayā-<choice><sic>ś</sic><corr>s</corr></choice>a<space  type="defect" unit="character" quantity="2"></space><lb n="70"/>lil-ābhiṣeko</l>
                 <l n="b">dik-kāminīṣu ghana-candana-paṅka-lepaḥ<supplied reason="omitted">|</supplied></l>
                 <l n="c">durvvāra-vairi-vanitā-vadanāmvujeṣu</l>
-                <l n="d">yasyendu-dhāma-kalito yaśasāṁ vitāna<unclear>ḥ</unclear><supplied reason="omitted">||</supplied> <space unit="character" quantity="2"></space></l>
+                <l n="d">yasyendu-dhāma-kalito yaśasāṁ vitāna<unclear>ḥ</unclear><supplied reason="omitted">||</supplied> <space type="defect" unit="character" quantity="2"></space></l>
             </lg>
             <lg n="34" met="mandākrāntā">
                 <l n="a"><lb n="71"/> ha<choice><sic>n</sic><corr>ṁ</corr></choice>sasyaitāḥ prakr̥ti-paṭavo yāvad eveha gāvaḥ<surplus>|</surplus></l>
                 <l n="b">tatvālokaṁ vihata-tamasaḥ tanvate sarvva-dikkaṁ|</l>
-                <l n="c">yāvat pr̥<space unit="character" quantity="8"></space><lb n="72"/><space unit="character" quantity="1"></space>thvī-valaya-vahanāścarya-karmm<choice><sic>a</sic><corr>ā</corr></choice> ca k<choice><sic>u</sic><corr>ū</corr></choice>rmmaḥ<surplus>|</surplus></l>
+                <l n="c">yāvat pr̥<space type="defect" unit="character" quantity="8"></space><lb n="72"/><space unit="character" quantity="1"></space>thvī-valaya-vahanāścarya-karmm<choice><sic>a</sic><corr>ā</corr></choice> ca k<choice><sic>u</sic><corr>ū</corr></choice>rmmaḥ<surplus>|</surplus></l>
                 <l n="d">tāvat tasya vrajatu kr̥tinaḥ kīrttir eṣā pratiṣṭhāṁ*||</l>                            
             </lg>
             <p><lb n="73"/> Utkīrṇṇam idaṁ śāsanaṁ sāmanta-śrī-māhaṭena||</p>
