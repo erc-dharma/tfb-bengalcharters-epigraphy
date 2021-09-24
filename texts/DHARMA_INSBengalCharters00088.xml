@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Khalimpur Plate of Dharmapāla, year 32</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <!-- Work done in the file, e.g. editor ...-->
+                    <persName ref="part:amwb"><!-- Update the id -->
+                        <forename>Amandine</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Wattelier-Bricout</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:amwb">
+                        <forename>Amandine</forename>
+                        <surname>Wattelier-Bricout</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Cambrai</pubPlace>
+                <idno type="filename">DHARMA_INSBengalCharters00088</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Amandine Wattelier-Bricout.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2021-09-24" who="part:amwb">Creation of the file and start of encoding the text based on Kielhorn1896-1897_03.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn">
+             <p><!-- 
+amwb : in Kielhorn's edition, I am not sure that the simple daṇḍa and double daṇḍa in the verse part are original or not. In the verse part, there is no supplied daṇda. In the prose part, it seems that he noted original daṇdas and supplied omitted daṇḍa in line 38, 40, 43, 49, 56, 57, 58.Consequently I assume that the daṇḍa in the verse part are orginal but we need to check that by reading the plate. 
+             -->
+                 <pb
+n="1r"/><lb
+n="1"/>oṁ<!-- 
+amwb : kielhorn mentioned that it is noted by a symbol
+--> svasti<supplied reason="subaudible">.</supplied>
+<lg n="1" met="vasantatilakā"><!-- 
+amwb : 14 morae
+-->
+      <l n="a">sarvajñatāṁ śriyam iva sthiram āsthitasya</l>
+      <l n="b">vajrāsa<lb
+n="2" break="no"/>nasya <choice><orig>va</orig><reg>ba</reg></choice>hu-māra-kulopalambhāḥ<g type="danda">.</g></l>
+      <l n="c">devyā mahā-karuṇayā paripā<lb
+n="3" break="no"/>litāni</l>
+      <l n="d">rakṣantu vo daśa valāni diśo jayanti<g type="ddanda">.</g></l>
+</lg>
+<lg n="2" met="mālinī"><!-- 
+amwb : 15 morae
+-->
+      <l n="a">śriya iva subhagā<lb
+n="4" break="no"/>yaḥ sambhavo vārirāśiś</l><!-- 
+amwb : here one can observe an infrequent use of sandhi *iḥ + śa => iś śa
+-->
+      <l n="b">śaśadhara iva bhāso viśvam āhlādayantyāḥ<g type="danda">.</g></l>
+      <l n="c">prakr̥tir avanipānāṁ santater uttamāyā</l>
+      <l n="d">a<lb
+n="5" break="no"/>jani dayitaviṣṇuḥ sarvvavidyāvadātaḥ<g type="ddanda">.</g></l>
+</lg>
+<lg n="3" met="anuṣṭubh">
+      <l n="a">āsīd ā sāgarād urvvīṁ</l>
+      <l n="b">gurrvībhiḥ kīrttibhiḥ kr̥tī<g type="danda">.</g></l>
+      <l n="c">maṇḍayan<lb
+n="6"/>khaṇḍitārātiḥ</l>
+      <l n="d">ślāghyaḥ śrī-vapyaṭas tataḥ<g type="ddanda">.</g></l>
+</lg>
+<lg n="4" met="śārdūlavikrīḍita"><!-- 
+amwb : 19 morae
+-->    <l n="a">mātsya-nyāyam apohituṁ prakr̥tibhir lakṣmyāḥ karaṅ grāhitaḥ</l>
+       <l n="b">śrī-gopā<lb
+n="7" break="no"/>la iti kṣitīśa-śirasāṁ cūḍāmaṇis tat sutaḥ<g type="danda">.</g></l>
+       <l n="c">yasyānukriyate sanātana-yaśo-rāśir diśam āśaye</l>
+       <l n="d">śvetimnā ya<lb
+n="8" break="no"/>di paurṇṇamāsa-rajanī jyotsnātibhāra-śriyā<g type="ddanda">.</g></l> 
+</lg>
+<lg n="5" met="śārdūlavikrīḍita">
+       <l n="a">śītāṁśor iva rohiṇī hutabhujaḥ svāheva tejo-nidheḥ</l>
+       <l n="b">śarvāṇī<lb
+n="9" break="no"/>va śivasya guhakya-pater bhadreva bhadrātmajā<g type="danda">.</g></l>
+       <l n="c">paulomīva purandarasya dayīta śrī-deddadevīty abhūd</l>
+       <l n="d">devī tasya vino<lb
+n="10" break="no"/>da-bhūr mura-ripor lakṣmīr iva kṣmā-pateḥ<g type="ddanda">.</g></l>
+</lg>
+<lg n="6" met="sragdharā"><!-- 
+amwb : 21 morae
+-->
+       <l n="a">tabhyaṁ śrī-dharmmapālaḥ samajani sujana-stūyamānāvadānaḥ</l>
+       <l n="b">svāmī bhūmī<lb
+n="11" break="no"/>-patīnām<!-- 
+amwb : kielhorn's note: 'originally patīnāṁ seems to have been engraved'
+--> akhila-vasumatī-maṇḍalaṁ śāsad ekaḥ<g type="danda">.</g></l>
+       <l n="c" real="++++-++------++-++-+=">catvāras tīra-majjat-kari-gaṇa-caraṇa-nyasta-mudrāḥ yātrāṁ</l><!-- 
+amwb: here to have the count of syllables, we have to cut the word yasya and to assume an enjambement; but if we do so, a mora is missing in d ; so it seems to me more likely that yasya begins the pāda d and a mora is missing in c. Consequently I choose to begin d with yasya and to report a metrical problem in c EDG §6.1.4 on metrical problems : here I add no correction for the moment. When I compare the pāda with the prosody, I should have caraṇānyasta-(caraṇa + anyasta- ?) and the mora missing could be between mudrāḥ and yātrāṁ
+(+ means long mora ; - means short mora ; = means short or long)
+catvāras tīra-majjat-kari-gaṇa-caraṇa-nyasta-mudrāḥ     yātrāṁ
++   + +  +  - +   + |- -  - -  - - + | +   -  +  +   -  +  =
+-->
+       <l n="d">ya<lb
+n="12" break="no"/>sya kṣamante na bhuvana-parikhā vi<choice><sic>śv</sic><corr>ṣv</corr></choice>ag āśā jigīṣoḥ<g type="ddanda">.</g></l>
+</lg>
+<lg n="7" met="sragdharā"><!-- 
+amwb : 21 morae
+-->
+       <l n="a">yasminn uddāma-lilā-calita-<choice><orig>va</orig><reg>ba</reg></choice>la-bhare dig-jayāya pravr̥tte</l>
+       <l n="b">yāntyā<lb
+n="13"/><choice><orig><unclear>m v</unclear></orig><reg>ṁ v</reg></choice>iśvambharāyāṁ calita-giri-tiraścīnatāṁ tad-vaśena<g type="danda">.</g></l>
+       <l n="c">bhārābhugnāvamajjan-maṇi-vidhura-śiraś-cakra-sāhāyakārthaṁ</l>
+       <l n="d">śeṣe<lb
+n="14" break="no"/>ṇodasta-doṣṇā tvaritataram adhodhas tam evānuyātam<g type="ddanda">.</g></l>
+</lg>
+<lg n="8" met="mandākrāntā"><!-- 
+amwb : 17 morae
+-->
+       <l n="a">yat-prasthāne pracalita-<choice><orig>v</orig><corr>b</corr></choice>alāsphālanād ullaladbhir</l>
+       <l n="b">dhūlī-puraiḥ pihi<lb
+n="15" break="no"/>ta-sakala-vyomabhir bhūtadhātryāḥ<g type="danda">.</g></l>
+       <l n="c">samprāptāyāḥ parama-tanutāṁ cakravālaṁ phaṇānāṁ</l>
+       <l n="d">magnonmīlan-maṇi phaṇipater lā<lb
+n="16"/>ghavād ullalāsa<g type="ddanda">.</g></l>
+</lg>
+<lg n="9" met="anuṣṭubh">
+       <l n="a">viruddha-viṣaya-kṣobhād</l>
+       <l n="b">yasya kopāgnir aurvavat<g type="danda">.</g></l>
+       <l n="c">an<choice><sic>ir</sic><corr>i</corr></choice>vr̥ti prajajvāla</l>
+       <l n="d">catur-ambhodhi-vāritaḥ<g type="ddanda">.</g></l>
+</lg>
+<lg n="10" met="śārdūlavikrīḍita"><!-- 
+amwb : 19 morae
+-->
+       <l n="a"> <lb
+n="17"/>ye bhūvan pr̥thu-rāma-rāghava-nala-prāya dharitrībhujas</l>
+       <l n="b">tān ekatra didr̥kṣuṇeva nicitān sarvān sama<choice><orig>m</orig><reg>ṁ</reg></choice> vedhasā<g type="danda">.</g></l>
+       <l n="c">dhva<lb
+n="18" break="no"/>stāśeṣa-narendra-māna-mahimā śrī-dharmmapālaḥ kalau</l>
+       <l n="d">lolaśrīkariṇī-nivandhana-mahāstambhaḥ samuttambhitaḥ<g type="ddanda">.</g></l>  
+</lg>
+  <lb
+n="19"/><lb
+n="20"/><lb
+n="21"/><lb
+n="22"/><lb
+n="23"/><lb
+n="24"/><lb
+n="25"/><lb
+n="26"/><lb
+n="27"/><lb
+n="28"/><lb
+n="29"/><lb
+n="30"/><lb
+n="31"/><lb
+n="32"/><lb
+n="33"/><pb
+
+n="1v"/><lb
+n="34"/><lb
+n="35"/><lb
+n="36"/><lb
+n="37"/><lb
+n="38"/><lb
+n="39"/><lb
+n="40"/><lb
+n="41"/><lb
+n="42"/><lb
+n="43"/><lb
+n="44"/><lb
+n="45"/><lb
+n="46"/><lb
+n="47"/><lb
+n="48"/><lb
+n="49"/><lb
+n="50"/><lb
+n="51"/><lb
+n="52"/><lb
+n="53"/><lb
+n="54"/><lb
+n="55"/><lb
+n="56"/><lb
+n="57"/><lb
+n="58"/><lb
+n="59"/><lb
+n="60"/><lb
+n="61"/><lb
+n="62"/>
+             </p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="K"><ptr target="bib:Kielhorn1896-1897_03"/></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
