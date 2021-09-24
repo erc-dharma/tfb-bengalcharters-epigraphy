@@ -112,7 +112,7 @@
                  <lg n="4" met="śārdūlavikrīḍita">
                      <l n="a">rāmasyeva gr̥hīta-satya-tapa<lb n="9"/>sas tasyānurūpo guṇaiḥ</l>
                      <l n="b">saumitrer udapādi tulya-mahimā vākpāla-nāmānujaḥ|</l>
-                     <l n="c">yaḥ śrīmān naya-vikramaika-pra<lb n="10"/>sava-bhūr bhrātuḥ sthitaḥ śāsane</l>
+                     <l n="c">yaḥ śrīmān naya-vikramaika-<add place="inline">pra</add><lb n="10"/>sava-bhūr bhrātuḥ sthitaḥ śāsane</l>
                      <l n="d">śūnyāḥ śatru-patākinībhir akarod ekātapatrā diśaḥ||</l>
                  </lg>
                  <lg n="5" met="vasantatilakā">
@@ -163,7 +163,7 @@
                      n="27"/>ti-bhara-namad-avaneḥ| bhadragośālī-samāvāsita-śrīmaj-jaya-skandhāvārāt· paramasaugato mahārājā<lb 
                      n="28"/>dhirāja-śrī-nārāyaṇapāla-deva-pādānudhyātaḥ parameśvaraḥ paramabhaṭṭārako mahārājādhirājaḥ śrīmān·<lb 
                      n="29"/> rājyapāla-devaḥ kuśalī| tīra-bhuktau| dūtikā-vaiṣayika-sva-samvaddhāvicchinna-talopeta-ṭeruvāka-grāme|<lb 
-                     n="30"/> sva-samvaddhāvicchinna-talopeta-marālikā-grāme ca
+                     n="30"/> <add place="inline">sva-samvaddhāvicchinna-talopeta-marālikā-grāme ca</add>
                      <pb n="1v"/><lb n="31"/>samupagatāśeṣa-rāja-puruṣān· rāja-rājanaka<unclear>|</unclear> rā<lb 
                      n="32"/>japutra| rājāmātya| mahāsāndhivigrahika| mahākṣa<lb 
                      n="33"/>paṭalika| mahāsāmanta| mahāsenāpati| mahāpratī<lb n="34"/>hāra| mahāk<choice><sic>a</sic><corr>ā</corr></choice>rttākr̥tika| mahādauḥsādhasādhanika| mahādaṇḍanāyaka| mahākumārāmātya| rājasthānī<lb 
@@ -172,10 +172,10 @@
                      n="37"/>ḍavā<surplus>|</surplus>gomahiṣyajāvikādhyakṣa| dūta-preṣaṇika| gamāgamika| Abhitvaramāṇa| viṣayapati| grāmapati|<lb 
                      n="38"/> tarika| gauḍa| mālava| khaśa| hūṇa| kulika| karṇṇāṭa| lāṭa| cāṭa| bhaṭa| sevakādīn· <supplied reason="omitted">A</supplied>nyāṁś cākīrttitān·<lb 
                      n="39"/> rāja-pādopajīvinaḥ prativāsino vrāhmaṇottarān· mahattamottama<surplus>|</surplus>-puroga-medāndhra-caṇḍāla-paryantān·<lb 
-                     n="40"/> yathārhaṁ mānayati vodhayati<surplus>|</surplus> samādiśati ca<supplied reason="omitted">|</supplied> matam astu bhavatāṁ|| yathopari-li<supplied reason="omitted">khi</supplied>ta-grāmāv <unclear>e</unclear>tau sva-sīmā-tr̥ṇa<lb 
-                     n="41"/>-pūti-gocara-paryantau| sa-tal<unclear>au</unclear>| soddeś<unclear>au</unclear> sāmra-madh<choice><sic>u</sic><corr>ū</corr></choice>kau sa-jala-sthalau sa-garttoṣarau| soparikarau| sa-daśāpacārau|<lb 
-                     n="42"/> sa-cauroddharaṇau| parihr̥ta-sarvva-pīḍau| A-cāṭa-bhaṭa-praveś<unclear>au</unclear>| Akiñcit· pragrāhyau| samasta-rāja-bhāga-bhoga-kara<lb 
-                     n="43"/>-hiraṇyādi-pratyāya-sametau| bhūmi-cchidra-<surplus>n</surplus>nyāyenācandrārkka-kṣiti-sama-kālaṁ yāvat mātāpitror ātmanaś ca puṇya-ya<lb 
+                     n="40"/> yathārhaṁ mānayati vodhayati<surplus>|</surplus> samādiśati ca<supplied reason="omitted">|</supplied> matam astu bhavatāṁ|| yathopari-li<supplied reason="omitted">khi</supplied>ta-grām<subst><del rend="corrected">o 'yaṁ</del><add place="overstrike">āv <unclear>e</unclear>tau</add></subst> sva-sīmā-tr̥ṇa<lb 
+                     n="41"/>-pūti-gocara-paryant<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst>| sa-tal<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst>| soddeś<subst><del rend="corrected">aḥ</del><add place="overstrike"><unclear>au</unclear></add></subst> sāmra-madh<choice><sic>u</sic><corr>ū</corr></choice>k<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst> sa-jala-sthal<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst> sa-garttoṣar<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst>| soparikar<subst ><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst>| sa-daśāpacār<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst>|<lb 
+                     n="42"/> sa-cauroddharaṇ<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst>| parihr̥ta-sarvva-pīḍ<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst>| A-cāṭa-bhaṭa-praveś<subst><del rend="corrected">aḥ</del><add place="overstrike"><unclear>au</unclear></add></subst>| Akiñcit· pragrāhy<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst>| samasta-rāja-bhāga-bhoga-kara<lb 
+                     n="43"/>-hiraṇyādi-pratyāya-samet<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst>| bhūmi-cchidra-<surplus>n</surplus>nyāyenācandrārkka-kṣiti-sama-kālaṁ yāvat mātāpitror ātmanaś ca puṇya-ya<lb 
                      n="44"/>śo 'bhivr̥ddhaye| bhagavantaṁ vuddha-bhaṭ<supplied reason="omitted">ṭ</supplied>ārakam uddiśya| vātsya-sagotrāya| bhārggava| cyavana| Āpnuvāna| jāma<lb 
                      n="45"/>dagn<supplied reason="omitted">y</supplied>a| Aurvva-pravarāya cchandoga-śākhādhyāyi-savrahmacāriṇe Ikkhaṇikā-vinirggata-bhaṭṭa-śrīgarbha-pautrāya| bhaṭṭa-divāka<lb 
                      n="46"/>ra-putrāya| bhaṭṭaputra-śālavāhanaśarmmaṇe| vi<choice><sic>ś</sic><corr>ṣ</corr></choice>uvat-saṁkrāntau| snātvā| vidhivad udaka-pūrvvakaṁ kr̥tvā| śāsanī-kr̥tya<lb 
