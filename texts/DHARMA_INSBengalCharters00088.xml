@@ -85,7 +85,8 @@
       <body>
          <div type="edition" xml:lang="san-Latn">
              <p><!-- 
-amwb : in Kielhorn's edition, I am not sure that the simple daṇḍa and double daṇḍa in the verse part are original or not. In the verse part, there is no supplied daṇda. In the prose part, it seems that he noted original daṇdas and supplied omitted daṇḍa in line 38, 40, 43, 49, 56, 57, 58.Consequently I assume that the daṇḍa in the verse part are orginal but we need to check that by reading the plate. 
+amwb : in Kielhorn's edition, I am not sure that the simple daṇḍa and double daṇḍa in the verse part are original or not. In the verse part, there is no supplied daṇda. In the prose part, it seems that he noted original daṇdas and supplied omitted daṇḍa in line 38, 40, 43, 49, 56, 57, 58.Consequently I assume that the daṇḍa in the verse part are original but we need to check that by reading the plate. 
+In the prose part, there is only one double daṇḍa and I have encoded both simple and double as original. As the EDG recommends to use only one punctuation mark, if the daṇḍa are not original, think about change all of them in <supplied reason="subaudible">.</supplied>
              -->
                  <pb
 n="1r"/><lb
@@ -106,7 +107,7 @@ n="3" break="no"/>litāni</l>
 amwb : 15 morae
 -->
       <l n="a">śriya iva subhagā<lb
-n="4" break="no"/>yaḥ sambhavo vārirāśiś</l><!-- 
+n="4" break="no"/>yāḥ sambhavo vārirāśiś</l><!-- 
 amwb : here one can observe an infrequent use of sandhi *iḥ + śa => iś śa
 -->
       <l n="b">śaśadhara iva bhāso viśvam āhlādayantyāḥ<g type="danda">.</g></l>
@@ -125,8 +126,8 @@ n="6"/>khaṇḍitārātiḥ</l>
 amwb : 19 morae
 -->    <l n="a">mātsya-nyāyam apohituṁ prakr̥tibhir lakṣmyāḥ karaṅ grāhitaḥ</l>
        <l n="b">śrī-gopā<lb
-n="7" break="no"/>la iti kṣitīśa-śirasāṁ cūḍāmaṇis tat sutaḥ<g type="danda">.</g></l>
-       <l n="c">yasyānukriyate sanātana-yaśo-rāśir diśam āśaye</l>
+n="7" break="no"/>la iti kṣitīśa-śirasāṁ cūḍāmaṇis tat-sutaḥ<g type="danda">.</g></l>
+       <l n="c">yasyānukriyate sanātana-yaśo-rāśir diśām āśaye</l>
        <l n="d">śvetimnā ya<lb
 n="8" break="no"/>di paurṇṇamāsa-rajanī jyotsnātibhāra-śriyā<g type="ddanda">.</g></l> 
 </lg>
@@ -141,18 +142,13 @@ n="10" break="no"/>da-bhūr mura-ripor lakṣmīr iva kṣmā-pateḥ<g type="dd
 <lg n="6" met="sragdharā"><!-- 
 amwb : 21 morae
 -->
-       <l n="a">tabhyaṁ śrī-dharmmapālaḥ samajani sujana-stūyamānāvadānaḥ</l>
+       <l n="a">tābhyāṁ śrī-dharmmapālaḥ samajani sujana-stūyamānāvadānaḥ</l>
        <l n="b">svāmī bhūmī<lb
 n="11" break="no"/>-patīnām<!-- 
 amwb : kielhorn's note: 'originally patīnāṁ seems to have been engraved'
 --> akhila-vasumatī-maṇḍalaṁ śāsad ekaḥ<g type="danda">.</g></l>
-       <l n="c" real="++++-++------++-++-+=">catvāras tīra-majjat-kari-gaṇa-caraṇa-nyasta-mudrāḥ yātrāṁ</l><!-- 
-amwb: here to have the count of syllables, we have to cut the word yasya and to assume an enjambement; but if we do so, a mora is missing in d ; so it seems to me more likely that yasya begins the pāda d and a mora is missing in c. Consequently I choose to begin d with yasya and to report a metrical problem in c EDG §6.1.4 on metrical problems : here I add no correction for the moment. When I compare the pāda with the prosody, I should have caraṇānyasta-(caraṇa + anyasta- ?) and the mora missing could be between mudrāḥ and yātrāṁ
-(+ means long mora ; - means short mora ; = means short or long)
-catvāras tīra-majjat-kari-gaṇa-caraṇa-nyasta-mudrāḥ     yātrāṁ
-+   + +  +  - +   + |- -  - -  - - + | +   -  +  +   -  +  =
--->
-       <l n="d">ya<lb
+       <l n="c">catvāras tīra-majjat-kari-gaṇa-caraṇa-nyasta-mudrāḥ samudrā</l>
+       <l n="d">yātrāṁ ya<lb
 n="12" break="no"/>sya kṣamante na bhuvana-parikhā vi<choice><sic>śv</sic><corr>ṣv</corr></choice>ag āśā jigīṣoḥ<g type="ddanda">.</g></l>
 </lg>
 <lg n="7" met="sragdharā"><!-- 
@@ -184,60 +180,124 @@ n="16"/>ghavād ullalāsa<g type="ddanda">.</g></l>
 <lg n="10" met="śārdūlavikrīḍita"><!-- 
 amwb : 19 morae
 -->
-       <l n="a"> <lb
-n="17"/>ye bhūvan pr̥thu-rāma-rāghava-nala-prāya dharitrībhujas</l>
+       <l n="a"><lb
+n="17"/>ye 'bhūvan pr̥thu-rāma-rāghava-nala-prāya dharitrībhujas</l>
        <l n="b">tān ekatra didr̥kṣuṇeva nicitān sarvān sama<choice><orig>m</orig><reg>ṁ</reg></choice> vedhasā<g type="danda">.</g></l>
        <l n="c">dhva<lb
 n="18" break="no"/>stāśeṣa-narendra-māna-mahimā śrī-dharmmapālaḥ kalau</l>
        <l n="d">lolaśrīkariṇī-nivandhana-mahāstambhaḥ samuttambhitaḥ<g type="ddanda">.</g></l>  
 </lg>
-  <lb
-n="19"/><lb
-n="20"/><lb
-n="21"/><lb
-n="22"/><lb
-n="23"/><lb
-n="24"/><lb
-n="25"/><lb
-n="26"/><lb
-n="27"/><lb
-n="28"/><lb
-n="29"/><lb
-n="30"/><lb
-n="31"/><lb
-n="32"/><lb
-n="33"/><pb
+<lg n="11" met="sragdharā"><!-- 
+amwb : 21 morae
+-->
+       <l n="a">yāsāṁ<lb
+n="19"/>nāsīra-dhūlī-dhavala-daśa-diśāṁ drag-apaśyann iyattāṁ</l>
+       <l n="b">dhatte māndhātr̥-sainya-vyatikara-cakito dhyāna-tandrīm mahendraḥ<g type="danda">.</g></l>
+       <l n="c"><lb
+n="20"/>tāsām apy āhavecchā-pulakita-vapuṣā<choice><orig>m</orig><reg>ṁ</reg></choice> vāhinīnā<choice><orig>m</orig><reg>ṁ</reg></choice> vidhātuṁ</l>
+       <l n="d">sāhāyyaṁ yasya <choice><orig>v</orig><reg>b</reg></choice>āhvor nikhila-ripukula-dhvaṁsinor nā<lb
+n="21" break="no"/>vakāśaḥ<g type="ddanda">.</g></l>
+</lg>
+<lg n="12" met="sragdharā"><!-- 
+amwb : 21 morae
+-->
+       <l n="a">bhojair matsyaiḥ sa-madraiḥ kuru-yadu-yavanāvanti-gandhāra-kīrair</l>
+       <l n="b">bhūpair vyālola-mauli-praṇati-pariṇataiḥ<lb
+n="22"/>sādhu saṅgīryamānaḥ<g type="danda">.</g></l>
+       <l n="c">hr̥ṣyat-pañcāla-vr̥ddhoddhr̥ta-kanakamaya-svābhiṣekodakumbho</l>
+       <l n="d">dattaḥ śrī-k<choice><sic>a</sic><corr>ā</corr></choice>nyaku<choice><orig>v</orig><reg>b</reg></choice>jas sa-lalita-ca<lb
+n="23"/>lita-bhrūlatā-lakṣma yena<g type="ddanda">.</g></l>
+</lg>
+<lg n="13" met="śārdūlavikrīḍita"><!-- 
+amwb : 19 morae
+-->
+        <l n="a">gopaiḥ sīmni vanecarair vanabhuvi grāmopakaṇṭhe janaiḥ</l>
+        <l n="b">krīḍadbhi<supplied reason="omitted">ḥ</supplied> praticatvaraṁ śiśu-gaṇaiḥ<lb
+n="24"/>pratyāpaṇa<unclear>m</unclear> māna<choice><sic>p</sic><corr>v</corr></choice>aiḥ<g type="danda">.</g></l>
+        <l n="c">līlā-veśmani pañjarodara-śukair udgītam ātma-stavaṁ</l>
+        <l n="d">yasyākarṇṇayatas trapāvivalitānamraṁ sa<lb
+n="25" break="no"/>daivānanam<g type="ddanda">.</g></l>
+</lg>
+sa khalu bhāgīrathīpatha-pravarttamāna-nānāvidha-nauvāṭaka-sampādita-setu<choice><orig>v</orig><reg>b</reg></choice>andha-nihita-śailaśi<lb
+n="26" break="no"/>khara-śreṇi-vibhramā<choice><sic>t</sic><corr>n</corr></choice> niratiśaya-ghana-ghanāghana-ghaṭā-śyāmāyamāna-vāsara-lakṣmī-samāra<choice><orig>v</orig><reg>b</reg></choice>dha-santata-jalada-sa<lb
+n="27" break="no"/>maya-sandehā<choice><sic>t</sic><corr>d</corr></choice> udīcīnāneka-narapati-prābhr̥tīkr̥tāprameya-hayavāhinī-kharakhurotkhāta-dhūlī-dhūsarita-di<lb
+n="28" break="no"/>gantarālāt parameśvara-sevā-samāyata-samasta-jam<choice><orig>v</orig><reg>b</reg></choice>ūdvīpa-bhūpālānanta-pādāta-bhara-namad-avaneḥ pāṭalipu<lb
+n="29" break="no"/>tra-samāvāsita-śrīmaj-jayaskandhāvārāt paramasaugato mahārājādhirāja-śrī-gopāladeva-pādānudhyātaḥ pa<lb
+n="30" break="no"/>rameśvaraḥ paramabhaṭṭārako mahārājādhirājaḥ śrīmān dharmmapāladevaḥ kuśalī<g type="ddanda">.</g> śrī-puṇḍravarddhana-bhu<lb
+n="31" break="no"/>kty-antaḥpāti-vyāghrataṭī-maṇḍala-sam<choice><orig>v</orig><reg>b</reg></choice>addha-mahantāprakāśavi<choice><sic>ś</sic><corr>ṣ</corr></choice>aye krauñcaśvabhra-nāma-grāmo 'sya ca sī<del rend="corrected">mo</del><add place="overstrike">mā</add><!-- 
+amwb : caution here. Kielhorn tells in note that simo was originally engraved . For the moment, I have encoded this information according to the §4.4.3 od EDG with mo as something deleted by the scribe and mā as something added over but we need to check the plate to exactly encode how mo is corrected into mā
+--> pāści<lb
+n="32" break="no"/>mena gaṅginikā<g type="danda">.</g> uttareṇa kādam<choice><orig>v</orig><reg>b</reg></choice>arī-devakulikā kharjjūra-vr̥̥kṣaś ca<g type="danda">.</g> pūrvvotareṇa rājaputtra-devaṭakr̥̥tāliḥ<g type="danda">.</g> vī<!-- 
+amwb : here Kielhorn does not regularise bīja ?
+--><lb
+n="33"/>japūrakaṅ gatvā praviṣṭā<g type="danda">.</g> pūrvveṇa viṭakāliḥ khātaka-yānikā<unclear>ṁ</unclear> gatvā praviṣṭā<g type="danda">.</g> jam<choice><orig>v</orig><reg>b</reg></choice>ū-yānikām ākramya jam<choice><orig>v</orig><reg>b</reg></choice>ū-yānaka<unclear>ṁ</unclear><pb
+
 
 n="1v"/><lb
-n="34"/><lb
-n="35"/><lb
-n="36"/><lb
-n="37"/><lb
-n="38"/><lb
-n="39"/><lb
-n="40"/><lb
-n="41"/><lb
-n="42"/><lb
-n="43"/><lb
-n="44"/><lb
-n="45"/><lb
-n="46"/><lb
-n="47"/><lb
-n="48"/><lb
-n="49"/><lb
-n="50"/><lb
-n="51"/><lb
-n="52"/><lb
-n="53"/><lb
-n="54"/><lb
-n="55"/><lb
-n="56"/><lb
+n="34"/>gatā<g type="danda">.</g> tato <choice><sic>ni</sic><corr>niḥ</corr></choice>sr̥̥tya<!-- 
+amwb : Kielhorn tells here that some corrections no doubt are necessary in the follozing lines but he doesn't understand the texte properly
+--> puṇyārāma-<choice><orig>v</orig><reg>b</reg></choice>ilvārddha<choice><sic>śro</sic><corr>sro</corr></choice>tikā<unclear cert="low">ṁ</unclear> <g type="danda">.</g> tato 'pi <choice><sic>ni</sic><corr>niḥ</corr></choice>sr̥̥tya na<lb
+n="35" break="no"/>lacarmma<unclear>ṭ-o</unclear>ttarāntaṁ<g type="danda">.</g> gatā nala<unclear>ca</unclear>rmmaṭāt<!-- 
+amwb : here one can observe a sandhi break
+--> dakṣiṇena nāmuṇḍikāpi<unclear>he</unclear><lb
+n="36" break="no"/><unclear cert="low">sadūmmi</unclear>kāyāḥ<g type="danda">.</g> khaṇḍamuṇḍamukhaṁ khaṇḍamukhā<!-- 
+amwb : in the file Post-Gupta-Bengal-around.txt the text is khaṇḍamukhā[d]
+--> vedasa<choice><orig>v</orig><corr>b</corr></choice>ilvikā veda<choice><orig>v</orig><corr>b</corr></choice>ilvikāto rohitavāṭiḥ piṇḍāraviṭijoṭikā-sīmā<lb
+n="37"/>u<unclear>kt</unclear>ārajoṭasya dakṣiṇāntaḥ<!-- 
+amwb : Kielhorn tells in note that it might possibly be read dakṣiṇāntaṁ
+--> grāma-<choice><orig>v</orig><corr>b</corr></choice>ilvasya ca dakṣiṇāntaḥ<g type="danda">.</g><!-- 
+amwb : Kielhorn tells in note that it might possibly be read dakṣiṇāntaṁ
+--> devikā-sīmā viṭi<g type="danda">.</g> dharmmāyo-joṭikā<g type="danda">.</g> evam māḍhāśāmmalī<!-- 
+amwb . in the file Post-Gupta-Bengal-around.txt, the alternative reading (or ˚śālmalī) is suggested 
+--> nā<lb
+n="38" break="no"/>ma grāmaḥ<supplied reason="subaudible">.</supplied> asya cottareṇa gaṅginikā sīmā tataḥ pūrveṇārdha<choice><sic>śro</sic><corr>sro</corr></choice>tikayā āmrayānakolardhayānika<choice><sic>ṅ</sic><corr>ṁ</corr></choice> gataḥ ta<lb
+n="39" break="no"/>to 'pi dakṣiṇena kālikāśvabhraḥ<g type="danda">.</g> ato 'pi nisr̥tya śrī-phala<unclear>bh</unclear>iṣ<unclear>u</unclear>kaṁ yāvat paścimena tato 'pi <choice><orig>v</orig><reg>b</reg></choice>ilvaṅgordha<choice><sic>śro</sic><corr>sro</corr></choice>ti<lb
+n="40" break="no"/>kayā gaṅginikāṁ praviṣṭā<g type="danda">.</g> pālitake sīmā dakṣiṇena kāṇā dvīpikā<g type="danda">.</g> pūrvveṇa koṇṭhiyā srotaḥ<supplied reason="subaudible">.</supplied> uttareṇa<lb
+n="41"/>gaṅginikā<g type="danda">.</g> paścimena jenandāyikā<g type="danda">.</g> etad-grāma-saṁpārīṇa-parakarmmakr̥<choice><sic>d</sic><corr>d-d</corr></choice>vīpaḥ<g type="danda">.</g> sthālīkkaṭaviṣaya<lb
+n="42" break="no"/>sam<choice><orig>v</orig><reg>b</reg></choice>addhāmraṣaṇḍikāmaṇḍalāntaḥpāti-gopippalī-grāmasya sīmāḥ<g type="danda">.</g> pūrvve<choice><sic>ṇa U</sic><corr>ṇo</corr></choice>dragrāma-maṇḍala-paścima-sīmā<g type="danda">.</g> dakṣi<lb
+n="43" break="no"/>ṇena jolakaḥ<supplied reason="subaudible">.</supplied> paścimena vesānikākhyā khāṭikā<g type="danda">.</g> uttareṇodragrāma-maṇḍala-sīmā-vyavasthito go-mārgaḥ<g type="danda">.</g> eṣu ca<lb
+n="44" break="no"/>tu<choice><sic>ruṣu</sic><corr>rṣu</corr></choice> grāmeṣu samupagatān sarvvān eva rāja-rājānaka-rājaputra-rājāmātya-senāpati-viṣayapati-bhogapati-ṣaṣṭhādhi<!-- 
+amwb in the file Post-Gupta-Bengal-around.txt, it is written ṣaṣṭhādi
+--><lb
+n="45" break="no"/>kr̥ta-daṇḍaśakti-dāṇḍapāśika-cauroddharaṇika-daussādhasādhanika-dūta-khola-gamāgamikābhitvaramāṇa-hastyaśvagomahiṣyajā<lb
+n="46" break="no"/>vikādhyakṣa-n<unclear>au</unclear>kādhyakṣa-<choice><orig>v</orig><reg>b</reg></choice>alādhyakṣa-tarika-śaulkika-gaulmika-tadāyuktaka-viniyuktakādi-rājapādopajīvino 'nyāṁś cākīrtti<lb
+n="47" break="no"/><choice><sic>tān cā</sic><corr>tāṁś cā</corr></choice>ṭabhaṭajātīyān yathākālādhyāsino jyeṣṭhakāyastha-mahāmahattara-mahattara-dāśagrāmikādi-viṣayavyavahāriṇaḥ<lb
+n="48"/>sa-karaṇān prativāsinaḥ kṣetrakarāṁś ca <choice><orig>v</orig><reg>b</reg></choice>rāhmaṇa-mānanā-pūrvakaṁ yathārhaṁ mānayati <choice><orig>v</orig><reg>b</reg></choice>odhayati samājñāpayati ca<g type="danda">.</g> matam astu<lb
+n="49"/>bhavatām<supplied reason="subaudible">.</supplied> mahāsāmantādhipati-śrī-nārāyaṇavarmanā dūtaka-yuvarāja-śrī-tribhuvanapāla-mukhena vayam eva<choice><orig>m</orig><reg>ṁ</reg></choice> vijñāpitāḥ yathāsmā<!-- 
+amwb : Kielhorn reports an avagraha yathā 'smā 
+--><lb
+n="50" break="no"/>bhir mātā-pitror ātmanaś ca puṇyābhivr̥ddhaye śubhasthalyāṁ devakulaṅ kārita<choice><sic>t</sic><corr>n</corr></choice> tatra pratiṣṭhāpita-bhagavan-n<unclear>u</unclear>nna-nārāyaṇa-bhaṭṭārakāya tatpra<lb
+n="51" break="no"/>tipālaka-lāṭadvija-devārccakādi-pādamūla-sametāya pūjopasthānādi-karmmaṇe caturo grāmāN<!-- 
+amwb . I am not sure if I have to report grāmān atrata or grāmāN atratya Kielhorn's note seems to indicate that grāmāN is written
+--> atratya-haṭṭikā-talapāṭaka<lb
+n="52" break="no"/>-sametān dadātu deva iti<g type="danda">.</g> tato 'smābhis tadīya-vijña<choice><sic>ptyā ete</sic><corr>ptyaita</corr></choice> Upari-likhitakāś catvāro grāmās talapāṭaka-haṭṭikā-sametāḥ sva<lb
+n="53" break="no"/>-sīmā-paryantāḥ soddeśāḥ sadaśāpacār<choice><sic>āḥ</sic><corr>ā</corr></choice> akiṁcitpragrāhyāḥ<del rend="strikeout"><g type="danda">.</g></del> parihr̥ta-sarvvapīḍ<choice><sic>āḥ</sic><corr>ā</corr></choice> bhūmicchidra-nyāyena candrārka-kṣiti-samakālaṁ<lb
+n="54"/>tathaiva prati<choice><sic>ṣṭhāpitāḥ</sic><corr>pāditāḥ</corr></choice><g type="danda">.</g> yato bhavadbhis sarvair eva bhūmer dāna-phala-gauravād apaharaṇe ca mahānarakapāt-ādi-bhayād dānam idam anumo<lb
+n="55" break="no"/>dya paripālanīyam<g type="danda">.</g> prativāsibhiḥ kṣetrakaraiś cājñāśravaṇa-vidheyair bhūtvā samucita-kara-piṇḍakādi-sarvvapratyāyopanayaḥ kārya<lb
+n="56"/>iti<g type="ddanda">.</g>
+<lg n="14" met="anuṣṭubh">
+    <l n="a"></l>
+    <l n="b"></l>
+    <l n="c"></l>
+    <l n="d"></l>
+</lg><lg n="15" met="anuṣṭubh">
+    <l n="a"></l>
+    <l n="b"></l>
+    <l n="c"></l>
+    <l n="d"></l>
+</lg><lg n="16" met="anuṣṭubh">
+    <l n="a"></l>
+    <l n="b"></l>
+    <l n="c"></l>
+    <l n="d"></l>
+</lg><lb
 n="57"/><lb
 n="58"/><lb
 n="59"/><lb
 n="60"/><lb
 n="61"/><lb
 n="62"/>
+    
              </p>
          </div>
          <div type="apparatus">
