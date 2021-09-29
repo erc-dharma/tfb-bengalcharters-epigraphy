@@ -83,7 +83,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" source="bib:Kielhorn1896-1897_03">
              <p><!-- 
 amwb : in Kielhorn's edition, I am not sure that the simple daṇḍa and double daṇḍa in the verse part are original or not. In the verse part, there is no supplied daṇda. In the prose part, it seems that he noted original daṇdas and supplied omitted daṇḍa in line 38, 40, 43, 49, 56, 57, 58.Consequently I assume that the daṇḍa in the verse part are original but we need to check that by reading the plate. 
 In the prose part, there is only one double daṇḍa and I have encoded both simple and double as original. As the EDG recommends to use only one punctuation mark, if the daṇḍa are not original, think about change all of them in <supplied reason="subaudible">.</supplied>
@@ -205,7 +205,9 @@ amwb : 21 morae
        <l n="b">bhūpair vyālola-mauli-praṇati-pariṇataiḥ<lb
 n="22"/>sādhu saṅgīryamānaḥ<g type="danda">.</g></l>
        <l n="c">hr̥ṣyat-pañcāla-vr̥ddhoddhr̥ta-kanakamaya-svābhiṣekodakumbho</l>
-       <l n="d">dattaḥ śrī-k<choice><sic>a</sic><corr>ā</corr></choice>nyaku<choice><orig>v</orig><reg>b</reg></choice>jas sa-lalita-ca<lb
+       <l n="d">dattaḥ śrī-k<choice><sic>a</sic><corr>ā</corr></choice>nyaku<choice><orig>v</orig><reg>b</reg></choice>jas<!-- 
+amwb : Maybe a mistake, I think Kielhorn would correct kanya by kanyā and not by kānya
+--> sa-lalita-ca<lb
 n="23"/>lita-bhrūlatā-lakṣma yena<g type="ddanda">.</g></l>
 </lg>
 <lg n="13" met="śārdūlavikrīḍita"><!-- 
@@ -276,28 +278,53 @@ n="54"/>tathaiva prati<choice><sic>ṣṭhāpitāḥ</sic><corr>pāditāḥ</cor
 n="55" break="no"/>dya paripālanīyam<g type="danda">.</g> prativāsibhiḥ kṣetrakaraiś cājñāśravaṇa-vidheyair bhūtvā samucita-kara-piṇḍakādi-sarvvapratyāyopanayaḥ kārya<lb
 n="56"/>iti<g type="ddanda">.</g>
 <lg n="14" met="anuṣṭubh">
-    <l n="a"></l>
-    <l n="b"></l>
-    <l n="c"></l>
-    <l n="d"></l>
+    <l n="a"><choice><orig>v</orig><reg>b</reg></choice>ahubhir vasudhā dattā</l>
+    <l n="b">rājabhis sagarādibhiḥ</l>
+    <l n="c">yasya yasya yadā bhūmis</l>
+    <l n="d">tasya tasya tadā phalam<g type="danda">.</g></l>
 </lg><lg n="15" met="anuṣṭubh">
-    <l n="a"></l>
-    <l n="b"></l>
-    <l n="c"></l>
-    <l n="d"></l>
-</lg><lg n="16" met="anuṣṭubh">
-    <l n="a"></l>
-    <l n="b"></l>
-    <l n="c"></l>
-    <l n="d"></l>
-</lg><lb
-n="57"/><lb
-n="58"/><lb
-n="59"/><lb
-n="60"/><lb
-n="61"/><lb
-n="62"/>
-    
+    <l n="a">ṣaṣṭiṁ varṣa-sahasrāṇi</l>
+    <l n="b">svarge mo<lb
+n="57" break="no"/>dati bhūmi-daḥ</l>
+    <l n="c">ākṣeptā cānumantā ca</l>
+    <l n="d">tāny eva narake vaseT<g type="ddanda">.</g></l>
+</lg>
+<lg n="16" met="anuṣṭubh">
+    <l n="a">sva-dattām para-dattā<choice><orig>m</orig><corr>ṁ</corr></choice></l>
+    <l n="b">vā yo hareta vasundharā<unclear>m</unclear></l>
+    <l n="c">sa viṣṭhāyāṅ kr̥mir bhūtvā</l>
+    <l n="d">pitr̥<lb
+n="58" break="no"/>bhis saha pacyate<g type="ddanda">.</g></l>
+</lg>
+<lg n="17" met="puṣpitāgrā"><!-- 
+amwb : 12 morae and then 13 morae
+-->
+    <l n="a">iti kamaladalām<choice><orig>v</orig><reg>b</reg></choice>u-vindu-lolāṁ<!-- 
+amwb : I am zondering why Kielhorn regularise amvu into ambu and does not for vindu (bindu)
+--></l>
+    <l n="b">śriyam anucintya manuṣya-jīvitañ ca</l>
+    <l n="c">sakalam idam udāhr̥tañ ca <choice><orig>vudhvā</orig><reg>buddhvā</reg></choice></l>
+    <l n="d">na hi puru<lb
+n="59" break="no"/>ṣaiḥ para-kīrtayo vilopyā<supplied reason="omitted">ḥ</supplied><g type="ddanda">.</g></l>
+</lg>
+<lg n="18" met="śikharinī"><!--
+amwb : 17 morae
+-->
+    <l n="a">taḍit-tulyā lakṣmī<supplied reason="omitted">s</supplied> tanur api ca dīpānala-samā<surplus><g type="danda">.</g></surplus></l>
+    <l n="b">bhavo duḥkhaikāntaḥ para-kr̥tim akīrti<supplied reason="omitted">ḥ</supplied> kṣapayatām</l>
+    <l n="c">yaśā<lb
+n="60" break="no"/><choice><orig>n</orig><reg>ṁ</reg></choice>sy ācandrārka<supplied reason="omitted">ṁ</supplied> niyatam avatām atra ca nṛpāḥ</l>
+    <l n="d">kariṣyante <choice><orig>v</orig><reg>b</reg></choice>uddhvā yad abhirucitaṁ kiṁ pravacanaiḥ<g type="ddanda">.</g></l>
+</lg>
+abhivardhamāna-vijayarājye<lb
+n="61"/>sa<choice><orig>m</orig><reg>ṁ</reg></choice>vat <num value="32">32</num> mārga-din<choice><sic>āni</sic><corr>e</corr></choice> <num value="12">12</num><g type="ddanda">.</g> <gap reason="illegible" unit="character" quantity="5"/>
+<lg n="19" met="anuṣṭubh">
+    <l n="a"><lb
+n="62"/>śrī-bhogaṭasya pautreṇa</l>
+    <l n="b">śrīmat-subhaṭasūnunā<g type="danda">.</g></l>
+    <l n="c">śrīmatā tataṭeneda<choice><orig>ṁ</orig><reg>m</reg></choice></l>
+    <l n="d">Utkīrṇaṁ guṇaśālinā<g type="ddanda">.</g></l>
+</lg>
              </p>
          </div>
          <div type="apparatus">
@@ -309,8 +336,32 @@ n="62"/>
                   </app>
                </listApp>
          </div>
-         <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
+         <div type="translation" source="bib:Kielhorn1896-1897_03">
+<p n="1">Om. Hail!</p>
+            <p n="1" rend="stanza">May the ten powers of Vajrāsana who has firmly attained, as to fortune, to omniscience, <supplied reason="explanation">those powers</supplied> which, cherished by his consort- great compassion, conquer the regions where many hosts of the Evil one are seen, protect you!
+                <seg rend="pun">May the forces of <supplied reason="explanation">Dharmapāla,</supplied> seated on his diamond throne, wbo, as he has attained to fortune, has firmly attained to omniscience, <supplied reason="explanation">those forces</supplied> which, cherished by his most compassionate queen, conquer the ten regions where murderous hosts are seen in great number, guard you</seg>!</p>
+             <p n="2" rend="stanza">As the sea is the birth-place of the blessed goddess of fortune, and the moon the source of that lustre which gladdens the universe, so Dayitaviṣṇu, bright with all learning, became the progenitor of the foremost line of kings.
+</p>
+             <p n="3" rend="stanza">From him sprang the illustrious Vapyaṭa, who, full of piety, as far as the ocean embellished the earth with massive temples, and became famous as the destroyer of adversaries</p>
+             <p n="4" rend="stanza">His son was the crest-jewel of the heads of kings, the glorious Gopāla, whom the people made take the hand of Fortune, to put an end to the practice of fishes; whose everlasting great fame the glorious mass of moonlight on a fullmoon-night Beeks to rival by its whiteness in the sky.</p>
+             <p n="5" rend="stanza">As Rohiṇī is the beloved of the Moon, Svāhā of the Sacrificial Fire, Śarvāṇī of Śiva, and Bhadrā of the lord of the Guhyakas; as the daughter of Puloman is of Purandara, and Lakṣmī of Mura's foe, so the illustrious Deddadevī, a daughter of the Bhadra king, became the queen of that brilliant ruler of the earth, to him a source of joy.</p>
+             <p n="6" rend="stanza">From them was born the glorious Dharmapāla, whose achievements are praised by the good, a master of kings who alone is ruling the entire orb of the earth; whose progress when he is about to conquer the quarters all round, the four oceans, marked by the footprints of the arrays of his elephants that bathe on their shores, patiently permit, being no longer fosses of the earth.</p>
+             <p n="7" rend="stanza">When, with his ponderous army marching with unbounded glee, he proceeds to conquer the regions, and when the earth thereby slides down as if the mountains on it were marching, Śeṣa hurriedly follows him, always exactly beneath him, with his arms raised to support the circle of his heads, hurt by the jewels that sink into them, bent down by the weight.</p>
+             <p n="8" rend="stanza">When, on his setting forth, the whole sky is covered with the masses of dust, cast up by the stamping of his marching army, and the earth thereby is reduced to a minute size, then, on account of its light weight, the circle of the hoods of the serpent-king springs up, with the jewels, that had sunk into them, reappearing.</p>
+             <p n="9" rend="stanza">The fire of his wrath, stirred up when he finds himself opposed, like the submarine fire, blazes up unceasingly, checked <supplied reason="subaudible">only</supplied> by the four oceans.</p>
+             <p n="10" rend="stanza">Desirous, as it were, of seeing collected together in one place such kings of old as Pr̥thu, Rāma, the descendant of Raghu, and Nala, the Creator in this Kali-age set up the glorious Dharmapāla, who has humbled the great conceit of all rulers, as a mighty post to which to fasten that elephant- the fickle goddess of fortune.</p>
+             <p n="11" rend="stanza">For those armies of his,- not seeing at once how large they are, because the ten regions are whitened by the dust of their van-guard, the great Indra, afraid of what might happen to the armies of Māndhātr̥, exhausts himself in conjectures,- for them even, thrilled as they are with eagerness to fight, there is no chance of rendering assistance to his arms, which <supplied reason="subaudible">alone</supplied> annihilate the whole host of his adversaries.</p>
+             <p n="12" rend="stanza">With a sign of his gracefully moved eye-brows he installed the illustrious king of Kanyākubja, who readily was accepted by the Bhoja, Matsya, Madra, Kuru, Yadu, Yavana, Avanti, Gandhāra and Kīra kings, bowing down respectfully with their diadems trembling, and for whom his own golden coronation jar was lifted up by the delighted elders of Pañcāla.</p>
+             <p n="13" rend="stanza">Hearing his praises sung by the cowherds on the borders, by the foresters in the forests, by the villagers on the outskirts of villages, by the playing groups of children in every courtyard, in every market by the guardians of the weights, and in pleasure-houses by the parrots in the cages, he always bashfully turns aside and bows down his face.</p>
+             <p n="25-29">Now-from his royal camp of victory, pitched at Pāṭaliputra, where the manifold fleets of boats proceeding on the path of the Bhāgīrathī make it seem as if a series of mountain-tops had been sunk to build another causeway <supplied reason="subaudible">for Rāma's passage</supplied>; where, the brightness of daylight being darkened by densely packed arrays of rutting elephants, the rainy season <supplied reason="explanation">with its masses of black clouds</supplied> might be taken constantly to prevail; where the firmament is rendered grey by the dust, dug up by the hard hoofs of unlimited troops of horses presented by many kings of the north; and where the earth is bending beneath the weight of the innumerable foot-soldiers of all the kings of Jambūdvīpa, assembled to render homage to their supreme lord; - the devout worshipper of Sugata, the <foreign>parameśvara</foreign> <foreign>paramabhaṭṭāraka</foreign> <foreign>mahārājādhirāja</foreign>, the glorious Dharmapāladeva, who meditates on the feet of the <foreign>mahārājādhirāja</foreign>, the glorious Gopāladeva, being in good health,-</p>
+             <p n="30-42">In the Mahantāprakāśa district <supplied reason="explanation"><foreign>viṣaya</foreign></supplied>, which belongs to the Vyāghrataṭī <foreign>maṇḍala</foreign> within the prosperous Puṇḍravardhana <foreign>bhukti</foreign>, is the village named Krauñcaśvabhra. Its boundary on the west is Gaṅginikā; on the north it is the small temple of Kādambarī and a date tree; on the north-east the dike made by the <foreign>rājaputra</foreign> Devaṭa; <seg cert="low">it goes to and enters a citron grove</seg>; on the east it is the dike of Viṭaka, <gap reason="ellipsis"/><supplied reason="explanation">Here need to reproduce the text not translated</supplied>. Also the village named Māḍhāśāmmalī. On the north its boundary is Gaṅginikā; from there, on the east, <gap reason="ellipsis"/><supplied reason="explanation">Here need to reproduce the text not translated</supplied>; from there again, on the south, it is Kālikāśvabhra, proceeding thence as far as <gap reason="ellipsis"/><supplied reason="explanation">Here need to reproduce the text not translated</supplied>; on the west, from there again, <gap reason="ellipsis"/><supplied reason="explanation">Here need to reproduce the text not translated</supplied> it enters Gaṅginikā. At Pālitaka the boundary on the south is the small island of Kāṇā; on the east the river Koṇṭhiyā; on the north Gaṅginikā; on the west Jenandāyikā. On the island <seg cert="low">the funeral rites of this village are performed</seg>. Of the village. of Gopippalī, which is within the Āmraṣaṇḍikā <foreign>maṇḍala</foreign> belonging to the Sthālīkkaṭa district <supplied reason="explanation"><foreign>viṣaya</foreign></supplied>, the boundaries are, on the east the western
+boundary of the Udragrāma <foreign>maṇḍala</foreign>, on the south a <seg cert="low"><foreign>jolaka</foreign></seg>, on the west the <seg cert="low"><foreign>khāṭikā</foreign></seg> named Vesanikā, on the north the cattle-path running on the borders of the Udragrāma <foreign>maṇḍala</foreign>.</p>
+             <p n="43-47">To all the people assembled at these four villages, the <foreign>rājan</foreign>s, <foreign>rājanaka</foreign>s, <foreign>rājaputra</foreign>s, <foreign>rājāmātya</foreign>s, <foreign>senāpati</foreign>s, <foreign>viṣayapati</foreign>s, <foreign>bhogapati</foreign>s, <foreign>ṣaṣṭhādhikr̥ta</foreign>s, <foreign>daṇḍaśakti</foreign>s, <foreign>dāṇḍapāśika</foreign>s, <foreign>cauroddharaṇika</foreign>s, <foreign>dauḥsādhasādhanika</foreign>s, <foreign>dūta</foreign>s, <foreign>khola</foreign>s, <foreign>gamāgamika</foreign>s, <foreign>abhitvaramāṇa</foreign>s, inspectors of elephants, horses, cows, buffalo-cows, goats and sheep, inspectors of boats, inspectors of the forces, <foreign>tarika</foreign>s, <foreign>śaulkika</foreign>s, <foreign>gaulmika</foreign>s, <foreign>tadāyuktaka</foreign>s, <foreign>viniyuktaka</foreign>s and other dependants of the king's feet, and to the others not specially named, to those belonging to the irregular and regular troops as they may be present from time to time, to the <foreign>jyeṣṭhakāyastha</foreign>s, <foreign>mahāmahattara</foreign>s, <foreign>mahattara</foreign>s, <foreign>daśagrāmika</foreign>s and other district officers, including the <foreign>karaṇa</foreign>s, and to the resident cultivators,- to all these, especially honouring the Brāhmaṇas,he pays due respect, makes known, and issues these commands : -</p>
+             <p n="48-49">Be it known to you that the <foreign>mahāsamantādhipati</foreign>, the illustrious Nārāyaṇavarman, by the mouth of the <foreign>dūtaka</foreign>, the <foreign>yuvarāja</foreign> Tribhuvanapāla, has preferred to us the following request:</p>
+             <p n="49-55">For the increase of our parents' and our own merit we have had a temple built at Śubhasthalī. To the holy lord N<supplied reason="subaudible">u</supplied>nna-Nārāyana who has been installed there <supplied reason="subaudible">by us</supplied>, and to the Lāṭa Brāhmaṇas, priests and other attendants who wait upon him, may it please your Majesty to grant four villages, with their <foreign>haṭṭikā</foreign> and <foreign>talapāṭaka</foreign>, for the performance of worship and other rites." Thereupon, at his request, we accordingly have assigned the above-written four villages, together with the <foreign>talapāṭaka</foreign> and <foreign>haṭṭikā</foreign>, up to their proper boundaries, with all their localities, with <supplied reason="subaudible">the fines for</supplied> the ten offences, not in any way to be interfered with, exempt from all molestation, in accordance with the maxim of <foreign>bhumicchidra</foreign>, for as long as the moon, the snn and the earth endure. Wherefore all of you, out of respect for the merit resulting from a gift of land, and afraid of falling into the great hell and of other evils consequent on the resumption of it, should applaud and preserve this gift. And the resident cultivators, being ready to obey our commands, should make over <supplied reason="subaudible">to the donees</supplied> the customary taxes, means of snbsistence, and all other kinds of revenue.</p>
+             <p n="56"><supplied reason="explanation">Here follow five benedictive and imprecatory verses.</supplied></p>
+             <p n="60">In the increasing reign of victory, the year 32, 12 days of Mārga.</p>
+             <p n="62">This was engraved by the skilful Tātaṭa, the son of the worthy Subhaṭa and son's son of the worthy Bhogaṭa.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
