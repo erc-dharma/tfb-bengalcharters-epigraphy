@@ -80,7 +80,8 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change when="2021-0930" who="part:ryfu">Apparatus and translation completed</change>
+            <change when="2021-09-30" who="part:ryfu">Commentary and bibliography completed</change>
+            <change when="2021-09-30" who="part:ryfu">Apparatus and translation completed</change>
             <change when="2021-09-29" who="part:ryfu">Encoding of apparatus going on</change>
             <change who="part:ryfu" when="2021-09-24">Initial encoding</change>           
             <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
@@ -224,7 +225,7 @@
                   <app loc="5"><lem>!'nyaś</lem><rdg source="bib:SubramoniaIyer2011-2012_01">nyaś</rdg></app>
                   <app loc="6-7"><lem>!'smād</lem><rdg source="bib:SubramoniaIyer2011-2012_01">smād</rdg></app>
                   <app loc="8-9"><lem>-tapasas</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-tapas</rdg></app>
-                  <app loc="9-10"><lem><add place="inline">pra</add>sava-bhūr</lem><rdg source="bib:SubramoniaIyer2011-2012_01">prasav abhūd</rdg><note>The akṣara pra is squeezed to a narrow space, possibly added later. The metre of this verse collapsed due to the addition of this akṣara, which is necessary in terms of meaning. The almost identical verse found in the other Pāla plates has vasatir in place of prasava-bhūr.</note></app>
+                  <app loc="9-10"><lem><add place="inline">pra</add>sava-bhūr</lem><rdg source="bib:SubramoniaIyer2011-2012_01">prasav abhūd</rdg><note>The akṣara pra is squeezed to a narrow space, possibly added later.</note></app>
                   <app loc="12"><lem>yasmi<surplus>r</surplus>n</lem><rdg source="bib:SubramoniaIyer2011-2012_01">yasmin</rdg></app>
                   <app loc="13"><lem>Āsāñ</lem><rdg source="bib:SubramoniaIyer2011-2012_01">Āśañ</rdg></app>
                   <app loc="14"><lem>upaśamita-</lem><rdg source="bib:Mishra1981_01">upaśamit-</rdg></app>
@@ -261,9 +262,8 @@
                   <app loc="29"><lem>-samvaddhāvicchinna-</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-samvaddha-vicchinna-</rdg></app>
                   <app loc="29"><lem>-ṭeruvāka-</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-ṭorumāka-</rdg></app>
                   <app loc="29"><lem>-grāme</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-grāma</rdg></app>
-                  <app loc="30"><lem><add place="inline">sva-samvaddhāvicchinna-talopeta-marālikā-grāme ca</add></lem><note>This line is engraved in the remaining narrow space at the bottom of the obverse in smaller akṣaras. It is shorter and assigned to the centre.</note></app>
                   <app loc="30"><lem>-samvaddhāvicchinna-</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-samvaddha-vicchinna-</rdg></app>
-                  <app loc="30"><lem>-grāme ca</lem><rdg source="bib:Mishra1981_01">-grāme|</rdg><rdg source="bib:SubramoniaIyer2011-2012_01">--grāme|</rdg></app>
+                  <app loc="30"><lem>-grāme ca</lem><rdg source="bib:Mishra1981_01">-grāme|</rdg><rdg source="bib:SubramoniaIyer2011-2012_01">-grāme|</rdg></app>
                   <app loc="31"><lem>samupagatā˚</lem><rdg source="bib:SubramoniaIyer2011-2012_01">samupāgatā˚</rdg></app>
                   <app loc="31"><lem>-rājanaka</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-rājānaka</rdg></app>
                   <app loc="33"><lem>mahāsāmanta</lem><rdg source="bib:SubramoniaIyer2011-2012_01">mahāsāmantha</rdg></app>
@@ -356,14 +356,20 @@
           </div> 	
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <div type="textpart" n="C"><head xml:lang="eng">Plate</head>
+             <p rend="stanza" n="4">The metre of this verse collapsed due to the addition of the akṣara pra, which is necessary in terms of meaning. The almost identical verse found in the other Pāla plates has vasatir in place of prasava-bhūr.</p>
+             <p n="30">This line is engraved in the remaining narrow space at the bottom of the obverse in smaller akṣaras. It is shorter and assigned to the centre.</p>
+             <p n="40-43">The noun, pronoun and adjectives related to donated villages in these lines are converted from singular form to dual form, due to the later addition of a village to the objects of donation.</p>
+             <p n="55-56">The sentence starting from marālikā-grāmasya seems to be added later, due to the addition of this village as an object of donation.</p>
+            </div>
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>First published by R. S. Mishra<bibl rend="omitname"><ptr target="bib:Mishra1981_01"/></bibl> and another edition was later published by S. Subramonia Iyer<bibl rend="omitname"><ptr target="bib:SubramoniaIyer2011-2012_01"/></bibl>. Re-edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2016_02"/>.</bibl></p>
         	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
-			</listBibl>
+	   <bibl n="RF"><ptr target="bib:Furui2016_02"/></bibl>
+        	   <bibl n="RSM"><ptr target="bib:Mishra1981_01"/></bibl>
+        	   <bibl n="SSI"><ptr target="bib:SubramoniaIyer2011-2012_01"/></bibl>
+        	</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>

@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change when="2021-09-30" who="part:ryfu">Commentary added.</change>
          <change who="part:ryfu" when="2021-02-14" status="draft">Apparatus and Translation conpleted.</change>
          <change who="part:ryfu" when="2021-02-14" status="draft">Text and Apparatus conpleted.</change>
          <change who="part:ryfu" when="2021-02-11" status="draft">Text and markups on obverse confirmed and corrected on fresh reading.</change>
@@ -273,7 +274,6 @@
                   <app loc="26"><lem>˚dhyātaḥ|</lem><rdg source="bib:Furui2010_01">˚dhyātaḥ</rdg></app>
                   <app loc="26"><lem>paramabhaṭṭ<choice><sic>a</sic><corr>ā</corr></choice>rako</lem><rdg source="bib:Furui2010_01">paramabhaṭṭārako</rdg></app>
                   <app loc="26"><lem>mahārāj<choice><sic>a</sic><corr>ā</corr></choice>dhirājaḥ</lem><rdg source="bib:Furui2010_01">mahārājādhirājaḥ</rdg></app>
-                  <app loc="28"><lem>-pramāṇe|</lem><note>After this, akṣaras in the remaining portion of this line and the following three lines are erased by hammering.</note></app>
                   <app loc="32"><lem>daussādhasādhanika<unclear>|</unclear></lem><rdg source="bib:Furui2010_01">daussādhasādha<unclear>n</unclear>i<unclear>ka</unclear>|</rdg></app>
                   <app loc="33"><lem>rājas<unclear>thān</unclear>īyoparika</lem><rdg source="bib:Furui2010_01">rājasthānīyoparika</rdg></app>
                   <app loc="33"><lem>g<choice><sic>o</sic><corr>au</corr></choice>lmika</lem><rdg source="bib:Furui2010_01">gaulmika</rdg></app>
@@ -360,7 +360,10 @@
             </div>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+             <div type="textpart" n="D"><head xml:lang="eng">Plate</head>
+                 <p n="24-25">The place of issue seems to have been erased and left unfilled.</p>
+                 <p n="28">Akṣaras folloing pramāṇe| in this line and the following three lines are erased by hammering.</p>             
+             </div>
          </div>
         <div type="bibliography">
           <p>First published by S. B. Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1987_01"/></bibl> in Bengali. Re-edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2010_01"/></bibl> based on the photoprints acquired from Department of Archaeology, Govt. of Bangladesh, Dhaka. Now re-edited from the digital photograohs taken by Furui on 11/07/2013.</p>
