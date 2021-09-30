@@ -549,13 +549,13 @@ amwb : I agree with this reading
                    </app>
                    <!-- amwb : my own reading pb due to the roughness of the plate. Majumbar mentions this problem in his introduction p.156
                       <app loc="17">
-                       <lem>°ryyaḥ<supplied reason="subaudible">.</supplied> Eva<space/>m ava</lem><!-\-
+                       <lem>°ryyaḥ<supplied reason="subaudible">.</supplied> Eva<space type="defect" unit="character" quantity="1"/>m ava</lem><!-\-
                        amwb : a space or da or ṭa the photo is not clear... see
                        -\->
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">°ryyaḥ<supplied reason="subaudible">.</supplied> Evam ava</rdg>
                    </app>
                    <app loc="17">
-                       <lem>yo <space/> 'tha karoti</lem>
+                       <lem>yo<space type="defect" unit="character" quantity="1"/>'tha karoti</lem>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01"></rdg>
                    </app>-->
                    <app loc="18">
@@ -568,18 +568,18 @@ amwb : I agree with this reading
                    </app>
                    <!--amwb : the spaces are due to the roughness of the plate. Majumbar mentions this problem in his introduction p.156
                        <app loc="18">
-                          <lem>sa<space/> <space/>māpnuyuḥ</lem>
+                          <lem>sa<space type="defect" unit="character" quantity="2"/>māpnuyuḥ</lem>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">samāpnuyuḥ</rdg>
                    </app>
                    -->
                   <!-- amwb : the space is due to the roughness of the plate. Majumbar mentions this problem in his introduction p.156
                       <app loc="19">
-                       <lem>bhū<space/>mi-dānāpa°</lem>
+                       <lem>bhū<space type="defect" unit="character" quantity="1"/>mi-dānāpa°</lem>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">bhūmi-dānāpa°</rdg>
                    </app>-->
                    <!-- amwb : the space seems to mark the end of the sentence
                        <app loc="20">
-                       <lem>vaseT<space/></lem>
+                       <lem>vaseT<space type="defect" unit="character" quantity="1"/></lem>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">vaseT</rdg>
                    </app>-->
                    <app loc="20">
@@ -595,7 +595,7 @@ amwb : I agree with this reading
                    </app>
                    <!-- amwb the space is due to the roughness of the plate. Majumbar mentions this problem in his introduction p.156
                     <app loc="22">
-                       <lem>dā<space/>nāc chre°</lem>
+                       <lem>dā<space type="defect" unit="character" quantity="1"/>nāc chre°</lem>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">dānāc chre°</rdg>
                    </app>
                    -->
@@ -605,7 +605,7 @@ amwb : I agree with this reading
                    </app>
                    <!--amwb the space is due to the roughness of the plate. Majumbar mentions this problem in his introduction p.156
                      <app loc="23">
-                       <lem>punaḥ <space/></lem>
+                       <lem>punaḥ <space type="defect" unit="character" quantity="1"/></lem>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">punaḥ</rdg>
                    </app>-->
                    <app loc="23">
@@ -642,7 +642,7 @@ amwb : I agree with this reading
                    </app>
                    <!-- amwb I count a space of at least 7 aksaras
                     <app loc="24">
-                       <lem><num value="3">3</num> <space quantity="7" unit="character"/> śrāva di</lem>
+                       <lem><num value="3">3</num> <space type="defect" quantity="7" unit="character"/> śrāva di</lem>
                        <rdg source="bib:Balogh+al2019_01"><num value="3">3</num> <space quantity="6" unit="character"/> śrāva di</rdg>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">śrāva di</rdg>
                    </app>-->
