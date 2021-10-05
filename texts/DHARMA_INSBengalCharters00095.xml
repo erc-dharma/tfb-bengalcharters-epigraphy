@@ -191,7 +191,7 @@ Orthography . b is always noted by v
 	<!--bibliography encoded as per section §9.4 -->
            <p>First noticed by <bibl><ptr target="bib:Sastri1927-1928_01"/><citedRange unit="page">138</citedRange></bibl><!--
 amwb : I added this ref in Zotero : Dr. Hirananda Sastri in the Annual Report of the Archaeological Survey of India, 1927-28
--->. First edited by <bibl><ptr target="bib:bib:Bhattacharyya1935-1936_01"/></bibl>.</p>
+-->. First edited by <bibl><ptr target="bib:Bhattacharyya1935-1936_01"/></bibl>.</p>
         	<listBibl type="primary">
 				<bibl n="B"><ptr target="bib:Bhattacharyya1935-1936_01"/></bibl>
 			</listBibl>
