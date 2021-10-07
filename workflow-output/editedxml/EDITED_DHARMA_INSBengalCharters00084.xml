@@ -117,7 +117,7 @@
       <body>
          <div type="edition" xml:lang="san-Latn">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-					<ab><lb n="01"/><unclear reason="illegible">mahā</unclear>rāja-vijaya<unclear>se</unclear>nasya
+					<ab><lb n="1"/><unclear reason="illegible">mahā</unclear>rāja-vijaya<unclear>se</unclear>nasya
 					</ab>
 				</div>
              <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
@@ -184,7 +184,7 @@ daba: For mastakavat tālaḥ in l18, Sircar reads mastakavettālaḥ and emends
 --><p>bhūmi-dānāpaharaṇa-pratipālana-guṇa-do<choice><sic>s</sic><corr>ṣ</corr></choice>a-vyañjakāḥ Ārṣāḥ ślokā bhavanti</p>
 <lg n="5" met="anuṣṭubh">
 <l n="a">ṣaṣṭiṁ varṣa-sahasrāṇi</l>
-<l n="b"><lb n="20"/>svargge nandati bhūmidaḥ</l>
+<l n="b"><lb n="20"/>svargge nandati bhūmi-daḥ</l>
 <l n="c">Ākṣeptā cānumantā ca</l>
 <l n="d">tāny eva narake vaseT</l>
 </lg>
@@ -542,13 +542,13 @@ amwb : I agree with this reading
                    </app>
                    <!-- amwb : my own reading pb due to the roughness of the plate. Majumbar mentions this problem in his introduction p.156
                       <app loc="17">
-                       <lem>°ryyaḥ<supplied reason="subaudible">.</supplied> Eva<space/>m ava</lem><!-\-
+                       <lem>°ryyaḥ<supplied reason="subaudible">.</supplied> Eva<space type="defect" unit="character" quantity="1"/>m ava</lem><!-\-
                        amwb : a space or da or ṭa the photo is not clear... see
                        -\->
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">°ryyaḥ<supplied reason="subaudible">.</supplied> Evam ava</rdg>
                    </app>
                    <app loc="17">
-                       <lem>yo <space/> 'tha karoti</lem>
+                       <lem>yo<space type="defect" unit="character" quantity="1"/>'tha karoti</lem>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01"></rdg>
                    </app>-->
                    <app loc="18">
@@ -561,18 +561,18 @@ amwb : I agree with this reading
                    </app>
                    <!--amwb : the spaces are due to the roughness of the plate. Majumbar mentions this problem in his introduction p.156
                        <app loc="18">
-                          <lem>sa<space/> <space/>māpnuyuḥ</lem>
+                          <lem>sa<space type="defect" unit="character" quantity="2"/>māpnuyuḥ</lem>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">samāpnuyuḥ</rdg>
                    </app>
                    -->
                   <!-- amwb : the space is due to the roughness of the plate. Majumbar mentions this problem in his introduction p.156
                       <app loc="19">
-                       <lem>bhū<space/>mi-dānāpa°</lem>
+                       <lem>bhū<space type="defect" unit="character" quantity="1"/>mi-dānāpa°</lem>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">bhūmi-dānāpa°</rdg>
                    </app>-->
                    <!-- amwb : the space seems to mark the end of the sentence
                        <app loc="20">
-                       <lem>vaseT<space/></lem>
+                       <lem>vaseT<space type="defect" unit="character" quantity="1"/></lem>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">vaseT</rdg>
                    </app>-->
                    <app loc="20">
@@ -588,7 +588,7 @@ amwb : I agree with this reading
                    </app>
                    <!-- amwb the space is due to the roughness of the plate. Majumbar mentions this problem in his introduction p.156
                     <app loc="22">
-                       <lem>dā<space/>nāc chre°</lem>
+                       <lem>dā<space type="defect" unit="character" quantity="1"/>nāc chre°</lem>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">dānāc chre°</rdg>
                    </app>
                    -->
@@ -598,7 +598,7 @@ amwb : I agree with this reading
                    </app>
                    <!--amwb the space is due to the roughness of the plate. Majumbar mentions this problem in his introduction p.156
                      <app loc="23">
-                       <lem>punaḥ <space/></lem>
+                       <lem>punaḥ <space type="defect" unit="character" quantity="1"/></lem>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">punaḥ</rdg>
                    </app>-->
                    <app loc="23">
@@ -635,7 +635,7 @@ amwb : I agree with this reading
                    </app>
                    <!-- amwb I count a space of at least 7 aksaras
                     <app loc="24">
-                       <lem><num value="3">3</num> <space quantity="7" unit="character"/> śrāva di</lem>
+                       <lem><num value="3">3</num> <space type="defect" quantity="7" unit="character"/> śrāva di</lem>
                        <rdg source="bib:Balogh+al2019_01"><num value="3">3</num> <space quantity="6" unit="character"/> śrāva di</rdg>
                        <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02">śrāva di</rdg>
                    </app>-->
@@ -692,11 +692,11 @@ amwb : I am wondering if we have to introduce a correction of the name with a lo
          and informed
          the following venerables beginning with those who are dwelling here in the present <!--varttamānopasthita--> 
          the <supplied reason="explanation"><foreign>kārttākr̥tika</foreign></supplied><!-- 
-amwb : kārttākr̥tika occurs in this plate line 3; in Jayarampur plate in line 11 ; Panchrol plate line 6 ; Nālandā cp., Dharmapāla unknown r. y. ; 
+amwb : kārttākr̥tika occurs in this plate line 3; in Jayarampur plate in line 11 ; Panchrol plate line 6 ; Nālandā cp., Dharmapāla unknown r. y. BC95 line 8; 
 it seems to be a technical name I don't know its meaning and if we have to consider it in plural or in singular
          -->, the princely advisor <supplied reason="explanation"><foreign>kumārāmatya</foreign></supplied>,
          the one who takes up the thieves <supplied reason="explanation"><foreign>cauroddharaṇika</foreign></supplied><!-- 
-amwb : term used in DEO BARANARK INSCRIPTION OF JIVITAGUPTA [ PLATE XV] line 9 ; Murshidabad or Indian Museum cp., Dharmapāla r. y. 26 after the verse 19; Nālandā cp., Dharmapāla unknown r. y. ; Mungher cp.; Devapāla r. y. 33 at the end ; Mahendrapāla 7th regnal year Jagajjibanpur (or Tulabhita) cp. EI 42, no. 2 Ramesh \& Iyer at the end ;  Manahali Plate of Madanapāla, year 8 line35 and 40; Bharat Kala Bhavan Plate of Rājyapāla, year 2 line 35 and 42 , KHALIMPUR line45
+amwb : term used in DEO BARANARK INSCRIPTION OF JIVITAGUPTA [ PLATE XV] line 9 ; Murshidabad or Indian Museum cp., Dharmapāla r. y. 26 after the verse 19; Nālandā cp., Dharmapāla unknown r. y. line 12; Mungher cp.; Devapāla r. y. 33 at the end ; Mahendrapāla 7th regnal year Jagajjibanpur (or Tulabhita) cp. EI 42, no. 2 Ramesh \& Iyer at the end ;  Manahali Plate of Madanapāla, year 8 line35 and 40; Bharat Kala Bhavan Plate of Rājyapāla, year 2 line 35 and 42 , KHALIMPUR line45
          -->, his superior <supplied reason="explanation"><foreign>uparika</foreign></supplied>, 
          the one who divides the water <supplied reason="explanation"><foreign>audraṅgika</foreign></supplied>, 
          the one who <supplied reason="subaudible">supervises</supplied> the royal donation of lands <supplied reason="explanation"><foreign>āgrahārika</foreign></supplied>, 
