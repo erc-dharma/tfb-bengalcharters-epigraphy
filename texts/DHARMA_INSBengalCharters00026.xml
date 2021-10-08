@@ -114,7 +114,7 @@
                 <ab><lb n="1"/>ni</ab>            
             </div>
             <div type="textpart" n="D"><head xml:lang="eng">Plate</head>
-                <pb n="1r"/><lb n="1"/><p><g type="spiral"/><!-- siddham -->svasti</p>
+                <pb n="1r"/><lb n="1"/><p><g type="spiralR"/><!-- siddham -->svasti</p>
                 <lg n="1" met="sragdharā">
                     <l n="a">maitrīṅ kūruṇya-ratna-pramudita-hr̥dayaḥ pre<lb n="2" break="no"/>yasīṁ saṁdadh<choice><sic>a</sic><corr>ā</corr></choice>naḥ</l>
                     <l n="b">samyak-samvodhi-vidyā-sarid-amala-jala-kṣā<lb n="3" break="no"/>litājñāna-paṅkaḥ<g type="danda">.</g></l>
@@ -131,7 +131,7 @@
                     <l n="a">rāmasye<unclear>va</unclear> gr̥hīta-satya-tapasas tasyā<lb n="8" break="no"/>nurūpo guṇaiḥ </l>
                     <l n="b">saumittrer udapādi tulya-mahimā vākpāla-nāmānu<unclear>ja</unclear>ḥ<g type="danda">.</g></l>
                     <l n="c">yaḥ śrīmān naya-vikramaika-vasatir bhrātuḥ sthitaḥ <lb n="9"/>śāsane</l>
-                    <l n="d">śūnyāḥ śatru-patāki<supplied reason="omitted">nī</supplied>bhir aka<unclear>ro</unclear>d ekātapattrā diśaḥ<supplied reason="omitted"><g type="ddanda"></g>.</supplied> </l>
+                    <l n="d">śūnyāḥ śatru-patāki<supplied reason="omitted">nī</supplied>bhir aka<unclear>ro</unclear>d ekātapattrā diśaḥ<supplied reason="omitted"><g type="ddanda">.</g></supplied> </l>
                 </lg>
                 <lg n="4" met="vasantatilakā">
                     <l n="a">tasmād upendra-caritair jagatīṁ punānaḥ</l>
