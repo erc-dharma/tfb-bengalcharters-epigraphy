@@ -11,10 +11,8 @@
             <title>Khalimpur Plate of Dharmapāla, year 32</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
-               <!-- Work done in the file, e.g. editor ...-->
-               <persName ref="part:amwb"><!-- Update the id -->
+               <persName ref="part:amwb">
                   <forename>Amandine</forename>
-                  <!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
                   <surname>Wattelier-Bricout</surname>
                </persName>
             </respStmt>
@@ -23,6 +21,10 @@
                <persName ref="part:amwb">
                   <forename>Amandine</forename>
                   <surname>Wattelier-Bricout</surname>
+               </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
                </persName>
             </respStmt>
          </titleStmt>
@@ -37,7 +39,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Amandine Wattelier-Bricout.</p>
+                  <p>Copyright (c) 2019-2025 by Amandine Wattelier-Bricout &amp; Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -88,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2021-10-06" who="part:argr">Corrections to the transliteration</change>
          <change when="2021-09-30" who="part:amwb">Reading the plate with the facsimile of the Journal of the Asiatic Society of Bengal vol LXIII Part I 1894.</change>
          <change when="2021-09-24" who="part:amwb">Creation of the file and start of encoding the text based on Kielhorn1896-1897_03.</change>
       </revisionDesc>
@@ -96,110 +99,106 @@
       <body>
          <div type="edition" xml:lang="san-Latn" source="bib:Kielhorn1896-1897_03">
              <p><!-- 
-amwb 2021-09-24: in Kielhorn's edition, I am not sure that the simple daṇḍa and double daṇḍa in the verse part are original or not. In the verse part, there is no supplied daṇda. In the prose part, it seems that he noted original daṇdas and supplied omitted daṇḍa in line 38, 40, 43, 49, 56, 57, 58.Consequently I assume that the daṇḍa in the verse part are original but we need to check that by reading the plate. 
+amwb 2021-09-24: in Kielhorn's edition, I am not sure that the simple daṇḍa and double daṇḍa in the verse part are original or not. In the verse part, there is no supplied daṇda. In the prose part, it seems that he noted original daṇdas and supplied omitted daṇḍa in line 38, 40, 43, 49, 56, 57, 58. Consequently I assume that the daṇḍa in the verse part are original but we need to check that by reading the plate. 
 In the prose part, there is only one double daṇḍa and I have encoded both simple and double as original. As the EDG recommends to use only one punctuation mark, if the daṇḍa are not original, think about change all of them in <supplied reason="subaudible">.</supplied>
              --><!-- 
 amwb 2021-10-01 : first, I reproduced Kielhorn's edition in the edition part ; now I have included some of my own readings based on the facsimile ; it is necessary to change all the tag for the danda and ddanda when I check how encoding the different shapes I have encountered. In the same way, I need to check hoz encoding the M in this plate by compring the different photos I have taken. For the moment, I have not proposed any improvements of the text.   
 -->
-                 <pb n="1r"/><lb n="1"/>oṁ<g type="spiralL"/><!-- 
-amwb : kielhorn mentioned that it is noted by a symbol
-amwb : after checking the plate, it is a spiral matching BL4 of the table found in the part "discussion" of the Symbol Taxonomy
+                 <pb n="1r"/><lb n="1"/><g type="spiralL"/><!-- 
+amwb :  it is a spiral matching BL4 of the table found in the part "discussion" of the Symbol Taxonomy
 --> svasti<supplied reason="subaudible">.</supplied>
 <lg n="1" met="vasantatilakā"><!-- 
 amwb : 14 morae
 -->
-      <l n="a">sarvvajñatāṁ śriya<space unit="character" quantity="18"/><!-- 
-amwb : the space is due to the attachment point of the seal. I have created an issue on this question and I'm waiting the answer to encode this correctly. I have suggested type="sealattachmentpoint"
--->m iva sthiram āsthitasya</l>
-      <l n="b">vajrāsa<lb n="2" break="no"/>nasya <choice><orig>va</orig><reg>ba</reg></choice>hu-māra-kulopalambhāḥ<unclear><g type="danda">.</g></unclear><space unit="character" quantity="18"/><!-- 
-amwb : the space is due to the attachment point of the seal. I have created an issue on this question and I'm waiting the answer to encode this correctly. I have suggested type="sealattachmentpoint"
---></l>
+      <l n="a">sarvvajñatāṁ śriya<space type="feature"/>m iva sthiram āsthitasya</l>
+      <l n="b">vajrāsa<lb n="2" break="no"/>nasya vahu-māra-kulopalambhāḥ<unclear><g type="danda">.</g></unclear><space type="feature"/></l>
       <l n="c">devyā mahā-karuṇayā paripā<lb n="3" break="no"/>litāni</l>
-      <l n="d">rakṣantu vo daśa valāni<space unit="character" quantity="15"/><!-- 
-amwb : the space is due to the attachment point of the seal. I have created an issue on this question and I'm waiting the answer to encode this correctly. I suggest type="sealattachmentpoint"
---> diśo jayanti<g type="ddanda">.</g><!-- 
-amwb : in the middle of the first danda there is something like a point added. This kind of double danda is not yet reported in symbol taxonomy. See the different photos named ddanda
-          --></l>
+      <l n="d">rakṣantu vo daśa valāni <space type="feature"/> diśo jayanti<g type="ddandaStrokeLeft">.</g></l>
 </lg>
-<lg n="2" met="mālinī"><!-- 
-amwb : 15 morae
--->
-      <l n="a">śriya Iva subhagā<lb n="4" break="no"/>yāḥ sambhavo vārirāśiś</l><!-- 
+<lg n="2" met="mālinī">
+      <l n="a">śriya Iva subhagā<lb n="4" break="no"/>yāḥ sambhavo vāri-rāśiś</l><!-- 
 amwb : here one can observe an infrequent use of sandhi *iḥ + śa => iś śa
+argr: I don't think it is infrequent in those spelling tradition where the use of visarga is limited to sentence-final position. I think spelling norms were not so fixed in early medieval Bengal, but in Cambodia, for instance, spelling -ś ś- is the clear norm.
 -->
       <l n="b">śaśadhara Iva bhāso viśvam āhlādayantyāḥ<g type="danda">.</g></l>
       <l n="c">prakr̥tir avanipānāṁ santater uttamāyā</l>
-      <l n="d">A<lb n="5" break="no"/>jani dayitaviṣṇuḥ sarvvavidyāvadātaḥ<g type="ddanda">.</g><!-- 
-amwb : in the middle of the first danda there is something like a point added. This kind of double danda is not yet reported in symbol taxonomy. See the different photos named ddanda
-          --></l>
+      <l n="d">A<lb n="5" break="no"/>jani dayita-viṣṇuḥ sarvva-vidyāvadātaḥ<g type="ddandaStrokeLeft">.</g></l>
 </lg>
 <lg n="3" met="anuṣṭubh">
       <l n="a">Āsīd ā sāgarād urvvīṁ</l>
-      <l n="b">gurrvībhiḥ kīrttibhiḥ kr̥tī<g type="danda">.</g></l>
-      <l n="c">maṇḍayaN<lb n="6"/>khaṇḍitārātiḥ</l>
-      <l n="d">ślāghyaḥ śrī-vapyaṭas tataḥ<g type="ddanda">.</g><!-- 
-amwb : in the middle of the first danda there is something like a point added. This kind of double danda is not yet reported in symbol taxonomy. See the different photos named ddanda
-          --></l>
+      <l n="b">gurvvībhiḥ kīrttibhiḥ kr̥tī<g type="danda">.</g></l>
+      <l n="c">maṇḍayaN<!-- 
+argr: I hardly see anything to differentiate N from na; should we perhaps read n<unclear>·</unclear>?
+ --> <lb n="6"/>khaṇḍitārātiḥ</l>
+      <l n="d">ślāghyaḥ śrī-vapyaṭas tataḥ<g type="ddandaStrokeLeft">.</g></l><!-- 
+argr: is any alternative reading of the name imaginable? 
+	vudhyaṭas? 
+-->
 </lg>
-<lg n="4" met="śārdūlavikrīḍita"><!-- 
-amwb : 19 morae
--->    <l n="a">mātsya-nyāyam apohituṁ prakr̥tibhir lakṣmyāḥ karaṅ grāhitaḥ</l>
-       <l n="b">śrī-gopā<lb n="7" break="no"/>la Iti kṣitīśa-śirasāṁ cūḍāmaṇis tat-sutaḥ<g type="danda">.</g></l>
+<lg n="4" met="śārdūlavikrīḍita">
+       <l n="a">mātsya-nyāyam apohituṁ prakr̥tibhir<!-- 
+argr: I really don't see the repha and think Kielhorn may have supplied it silently
+ --> lakṣmyāḥ karaṅ grāhitaḥ</l>
+       <l n="b">śrī-gopā<lb n="7" break="no"/>la Iti kṣitīśa-śirasāṁ cūḍā-maṇis tat-sutaḥ<g type="danda">.</g></l>
        <l n="c">yasyānukriyate sanātana-yaśo-rāśir diśām āśaye</l>
-       <l n="d">śvetimnā ya<lb n="8" break="no"/>di paurṇṇamāsa-rajanī jyotsnātibhāra-śriyā<g type="ddanda">.</g><!-- 
-amwb : in the middle of the first danda there is something like a point added. This kind of double danda is not yet reported in symbol taxonomy. See the different photos named ddanda
-          --></l> 
+       <l n="d">śvetimnā ya<lb n="8" break="no"/>di paurṇṇamāsa-rajanī jyotsnātibhāra-śriyā<g type="ddandaStrokeLeft">.</g></l> 
 </lg>
 <lg n="5" met="śārdūlavikrīḍita">
-       <l n="a">śītāṁśor iva rohiṇī hutabhujaḥ svāheva tejo-nidheḥ</l>
+       <l n="a">śītāṁśor iva rohiṇī hutabhujaḥ svāheva tejo-nidheḥ</l><!-- 
+argr: if tejo-nidhi were a name here — we shouldn't hyphenate it, just like we don't hyphenate Hutabhuj. but maybe it is just an epithet with Agni? see guhyaka-pater in next pāda. Kielhorn gives no note, and seems to ignore the word in translation. —
+-->
        <l n="b">śarvāṇī<lb n="9" break="no"/>va śivasya guhyakya-pater bhadreva bhadrātmajā<g type="danda">.</g></l>
        <l n="c">paulomīva purandarasya dayītā śrī-deddadevīty abhūd</l>
-       <l n="d">devī tasya vino<lb n="10" break="no"/>da-bhūr mura-ripor lakṣmīr iva kṣmā-pateḥ<g type="ddanda">.</g><!-- 
-amwb : in the middle of the first danda there is something like a point added. This kind of double danda is not yet reported in symbol taxonomy. See the different photos named ddanda
-          --></l>
+       <l n="d">devī tasya vino<lb n="10" break="no"/>da-bhūr mura-ripor lakṣmīr iva kṣmā-pateḥ<g type="ddandaStrokeLeft">.</g></l>
 </lg>
-<lg n="6" met="sragdharā"><!-- 
-amwb : 21 morae
--->
+<lg n="6" met="sragdharā">
        <l n="a">tābhyāṁ śrī-dharmmapālaḥ samajani sujana-stūyamānāvadānaḥ</l>
-       <l n="b">svāmī bhūmī<lb n="11" break="no"/>-patīnām<!-- 
+       <l n="b">svāmī bhūmī<lb n="11" break="no"/>patīnām<!-- 
 amwb : kielhorn's note: 'originally patīnāṁ seems to have been engraved'
 amwb : the reading of the plate shows that there is a point over the nā but it is not the circle used in this plate to note the anusvāra; so in my opinion there is no anusvāra
---> akhila-vasumatī-maṇḍalaṁ śāsad ekaḥ</l><!-- 
+argr: yes, but Kielhorn seems to have meant that the dot shape could be the result of incomplete erasure of a circle shape. Anyhow, I have added the information to the apparatus.
+argr: I have just learned that bhūmīpati is an attested form besides bhūmipati, so no need to use <orig>; since we don't treat other such words for 'king' as compound, I have removed the hyphen here too (though I agree this feels like a compound)
+--> akhila-vasumatī-maṇḍalaṁ śāsad ekaḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l><!-- 
 amwb : I removed the original danda reported by Kielhorn <g type="danda">.</g>. See photo śāsadekaḥca l11.png
+argr: good, but we need to supply it then, as the pattern in this text is is mark the end of the first hemistich with a single danda. I don't think it is necessary to dedicate an apparatus entry to this tiny improvement upon K's edition
 -->
        <l n="c">catvāras tīra-majjat-kari-gaṇa-caraṇa-nyasta-mudrāḥ samudrā</l>
-       <l n="d">yātrāṁ ya<lb n="12" break="no"/>sya kṣamante na bhuvana-parikhā vi<choice><sic>śv</sic><corr>ṣv</corr></choice>ag āśā jigīṣoḥ<g type="ddanda">.</g></l>
+       <l n="d">yātrāṁ ya<lb n="12" break="no"/>sya kṣamante na bhuvana-parikhā vi<choice><sic>śv</sic><corr>ṣv</corr></choice>ag āśā jigīṣoḥ<g type="ddandaStrokeLeft">.</g></l>
 </lg>
-<lg n="7" met="sragdharā"><!-- 
-amwb : 21 morae
--->
-       <l n="a">yasminn uddāma-līlā-calita-<choice><orig>va</orig><reg>ba</reg></choice>la-bhare dig-jayāya pravr̥tte</l>
-       <l n="b">yāntyā<lb n="13"/><choice><orig><unclear>m v</unclear></orig><reg>ṁ v</reg></choice>iśvambharāyāṁ calita-giri-tiraścīnatāṁ tad-vaśena<g type="danda">.</g></l>
+<lg n="7" met="sragdharā">
+       <l n="a">yasminn uddāma-līlā-calita-vala-bhare dig-jayāya pravr̥tte</l><!-- 
+argr: or can we read -kare?
+ -->
+       <l n="b">yāntyā<supplied reason="omitted">ṁ</supplied> <lb n="13"/><unclear>v</unclear>iśvambharāyāṁ calita-giri-tiraścīnatāṁ tad-vaśena<g type="danda">.</g></l><!-- 
+argr: you had yāntyā<lb n="13"/><choice><orig><unclear>m v</unclear></orig><reg>ṁ v</reg></choice>iśvambharāyāṁ
+argr: the slightly unclear vi seems to me identical to the one in vi<choice><sic>śv</sic><corr>ṣv</corr></choice>ag in the previous line
+argr: I interpret K's note "Read yāntyāṁ vi° as intending basically the same result after editorial intervention as the one my reading yields.
+argr: although again we might well decide that none of this requires an apparatus entry, I have created one nonetheless
+ -->
        <l n="c">bhārābhugnāvamajjan-maṇi-vidhura-śiraś-cakra-sāhāyakā<supplied reason="omitted">r</supplied>thaṁ<!-- 
 amwb : i don't see the r of rthaṁ see photo sāhāyakāthaṁśeṣe l13.png
+argr: I think it is the triangle shape including the headline. In many varieties of Pala-period script, rephas can be integratyed in this way into the aksara suspended from the headline — so I think we can remove <supplied>
    --></l>
-       <l n="d">śeṣe<lb n="14" break="no"/>ṇodasta-doṣṇā tvaritataram adhodhas tam evānuyātaM<g type="ddanda">.</g></l>
+       <l n="d">śeṣe<lb n="14" break="no"/>ṇodasta-doṣṇā tvaritataram adhodhas tam evānuyātaM<g type="ddandaStrokeLeft">.</g></l>
 </lg>
-<lg n="8" met="mandākrāntā"><!-- 
-amwb : 17 morae
--->
-       <l n="a">yat-prasthāne pracalita-<choice><orig>v</orig><corr>b</corr></choice>alāsphālanād ullaladbhir</l>
-       <l n="b">dhūlī-puraiḥ pihi<lb n="15" break="no"/>ta-sakala-vyomabhir bhūtadhātryāḥ<g type="danda">.</g></l>
+<lg n="8" met="mandākrāntā">
+       <l n="a">yat-prasthāne pracalita-valāsphālanād ullaladbhir</l>
+       <l n="b">dhūlī-pūraiḥ pihi<lb n="15" break="no"/>ta-sakala-vyomabhir bhūta-dhātryāḥ<g type="danda">.</g></l><!-- 
+argr: the txt file correctly had dhūlī-pūraiḥ which you must have changed to dhūlī-puraiḥ, but the reading is clearly pū
+ -->
        <l n="c">samprāptāyāḥ parama-tanutāṁ cakravālaṁ phaṇānāṁ<!-- 
 amwb : I am not sure that there is really an anusvāra here as before line11... there is a little point but not a circle. If I encounter other cases, it would be possible that sometimes the anusvāra is noted only with a point instead of a circle, see photo phaṇānaṁ ma or phaṇānama l15.png
+argr: yes, I am inclined to admit that two allographs of anusvāra were available to the scribe
        --></l>
-       <l n="d">magnonmīlan-maṇi phaṇipater lā<lb n="16"/>ghavād ullalāsa<g type="ddanda">.</g><!-- amwb : the same shape as other double dandas --></l>
+       <l n="d">magnonmīlan-maṇi phaṇipater lā<lb n="16"/>ghavād ullalāsa<g type="ddandaStrokeLeft">.</g></l>
 </lg>
 <lg n="9" met="anuṣṭubh">
        <l n="a">viruddha-viṣaya-kṣobhād</l>
-       <l n="b">yasya kopāgnir aurvavat<g type="danda">.</g></l>
-       <l n="c">An<choice><sic>ir</sic><corr>i</corr></choice>vr̥ti prajajvāla</l>
-       <l n="d">catur-ambhodhi-vāritaḥ<g type="ddanda">.</g><!-- amwb : the same shape as other double dandas --></l>
+       <l n="b">yasya kopāgnir aurvavaT<g type="danda">.</g></l>
+       <l n="c">Ani<surplus>r</surplus>vr̥t<supplied reason="omitted">t</supplied>i prajajvāla</l>
+       <l n="d">catur-ambhodhi-vāritaḥ<g type="ddandaStrokeLeft">.</g></l>
 </lg>
-<lg n="10" met="śārdūlavikrīḍita"><!-- 
-amwb : 19 morae
--->
+<lg n="10" met="śārdūlavikrīḍita">
        <l n="a"><lb n="17"/>ye ’bhūvaN pr̥thu-rāma-rāghava-nala-prāya dharitrībhujas</l>
        <l n="b">tān ekatra didr̥kṣuṇeva nicitāN sarvāN sama<choice><orig>m</orig><reg>ṁ</reg></choice> vedhasā<g type="danda">.</g></l>
        <l n="c">dhva<lb n="18" break="no"/>stāśeṣa-narendra-māna-mahimā śrī-dharmmapālaḥ kalau</l>
@@ -407,20 +406,35 @@ amwb : here the double danda has another shape: the first danda looks like J see
          </div>
          <div type="apparatus">
                <listApp>
+	<app loc="1">
+                     <lem><g type="spiraL"/></lem>
+                     <rdg source="bib:Kielhorn1896-1897_03">Oṁ</rdg>
+	      <note>Kielhorn notes that what he interprets as <foreign>Oṁ</foreign> is expressed by a symbol.</note>
+                  </app>
+
                   <app loc="2">
                      <lem>°lambhāḥ<unclear><g type="danda">.</g></unclear></lem>
                      <rdg source="bib:Kielhorn1896-1897_03">°lambhāḥ<g type="danda">.</g></rdg>
                   </app>
-                   <app loc="11">
-                       <lem>ekaḥ</lem><!-- 
-                       amwb . there is no trace of a danda 
-                       -->
-                       <rdg source="bib:Kielhorn1896-1897_03">ekaḥ<g type="danda">.</g></rdg>
+ 	    <app loc="11">
+                       <lem source="bib:Kielhorn1896-1897_03">bhūmī<lb n="11" break="no"/>patīnām</lem>
+	        <note>Kielhorn notes: <q>Originally <foreign>patīnāṁ</foreign> seems to have been engraved</q>. The rubbing of  the plate shows a dot over the <foreign>nā</foreign> but it is not the circle shape used in this script to note the <foreign>anusvāra</foreign>; so we are inclined to treat the dot as accidental.</note>
                    </app>
+     <!--              <app loc="11">
+                       <lem>ekaḥ</lem><!-\- 
+                       amwb . there is no trace of a danda 
+                       -\->
+                       <rdg source="bib:Kielhorn1896-1897_03">ekaḥ<g type="danda">.</g></rdg>
+                   </app>-->
+<!-- argr: I have hidden this apparatus entry, as said above. You can remove all of this comment once you've taken note of it. -->
                    <app loc="13">
                        <lem>°kā<supplied reason="omitted">r</supplied>thaṁ</lem>
                        <rdg source="bib:Kielhorn1896-1897_03">°kārthaṁ</rdg>
                    </app>
+	<app loc="12">
+	   <lem>yāntyā<supplied reason="omitted">ṁ</supplied> <lb n="13"/><unclear>v</unclear>iśvambharāyāṁ</lem>
+	   <rdg source="bib:Kielhorn1896-1897_03">yāntyā<lb n="13"/><choice><orig><unclear>m v</unclear></orig><reg>ṁ v</reg></choice>iśvambharāyāṁ</rdg>
+	</app>
                    <app loc="22">
                        <lem>śrī-kany<choice><sic>a</sic><corr>ā</corr></choice>°</lem>
                        <rdg source="bib:Kielhorn1896-1897_03">śrī-k<choice><sic>a</sic><corr>ā</corr></choice>nya°</rdg>
