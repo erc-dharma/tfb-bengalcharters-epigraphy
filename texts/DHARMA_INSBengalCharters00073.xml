@@ -359,7 +359,7 @@
                   <app loc="49"><lem>parip<choice><sic>a</sic><corr>ā</corr></choice>lanīyam</lem> <rdg source="bib:Bhattacharya2005-2006_01">paripālanīyam</rdg></app>
                   <app loc="53-54"><lem>-saṅgrāmatāreṇa</lem> <rdg source="bib:Bhattacharya2005-2006_01">-śaṅgrāmatāreṇa</rdg></app>
                   <app loc="59"><lem>-pūrit<choice><sic>a</sic><corr>ā</corr></choice>rthi-</lem> <rdg source="bib:Bhattacharya2005-2006_01">-puritartthi-</rdg></app>
-                  <app loc="59"><lem><choice><sic>s</sic><corr>ś</corr></choice>aurya<choice><sic>r</sic><corr>ṁ</corr></choice></lem> <rdg source="bib:Bhattacharya2005-2006_01">sauryaṁ</rdg></app>
+                  <app loc="59"><lem><choice><orig>s</orig><corr>ś</corr></choice>aurya<choice><sic>r</sic><corr>ṁ</corr></choice></lem> <rdg source="bib:Bhattacharya2005-2006_01">sauryaṁ</rdg></app>
                   <app loc="59"><lem>satyan</lem> <rdg source="bib:Bhattacharya2005-2006_01">satya-</rdg></app>
                   <app loc="59"><lem>-dhāma<supplied reason="omitted">ṁ</supplied></lem> <note>Emendation necessary but metrically incorrect.</note></app>
                   <app loc="60"><lem>rūpa<supplied reason="omitted">ṁ</supplied></lem> <rdg source="bib:Bhattacharya2005-2006_01">rūpaṁ</rdg></app>
