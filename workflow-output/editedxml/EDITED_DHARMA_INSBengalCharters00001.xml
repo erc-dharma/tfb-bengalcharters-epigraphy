@@ -101,6 +101,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2021-10-14" who="part:amwb">Encoding the apparatus part by comparing Daniel’s edition with the five previous editions and the plate.</change>
          <change when="2021-10-11" who="part:amwb">Creation of the file according to the template version 03 by copying parts from file prepared by Dániel Balogh.</change>
       </revisionDesc>
    </teiHeader>
@@ -115,8 +116,12 @@
 <lb n="2"/>kuśalī <gap reason="illegible" precision="low" quantity="8" unit="character"/> sva-pādopajīvinaś ca kuśalam āśaṁsya samājñāpayati<!-- 
 daba : Sircar proposes to restore the lacuna as brāhmaṇādīn (or samavetān) kuṭumbinaḥ. 
 --></p>
-<p>viditaṁ bhavatām astu yathā <lb n="3"/>mayā mātā-pittror ātmanaśca pu<unclear>ṇyā</unclear>bhivr̥<unclear>ddha</unclear>ye smat-pāda-dāsa-mahārāja-rudradatta-vijñāpyād anenaiva māhāyānika-śākya-bhikṣv-ā<lb n="4" break="no"/>cāryya-śāntidevam uddiśya <unclear cert="low">gopa</unclear> <gap reason="illegible" precision="low" quantity="8" unit="character"/> <unclear cert="low">digbhāge</unclear> kāryyamāṇa-kāryyāvalokiteśvarāśrama-vihāre Anenai<lb n="5" break="no"/>vācāryyeṇa pratipādita<unclear cert="low">ka</unclear>-māhāyānika-vaivarttika-bhikṣu- saṁgh<unclear>ā</unclear>nām parigrahe bhagavato buddhasya satataṁ tri<sic>ṣ</sic>-kālaṁ<!-- 
+<p>viditaṁ bhavatām astu yathā <lb n="3"/>mayā mātā-pittror ātmanaśca pu<unclear>ṇyā</unclear>bhivr̥<unclear>ddha</unclear>ye ’smat-pāda-dāsa-mahārāja-rudradatta-vijñāpyād anenaiva māhāyānika-śākya-bhikṣv-ā<lb n="4" break="no"/>cāryya-śāntidevam uddiśya <unclear cert="low">gopa</unclear> <gap reason="illegible" precision="low" quantity="8" unit="character"/><!-- 
+amwb : I don't know from which source comes this quantity. The number of the lost akṣaras in line 2 and in line 10 is clearly mentioned by Bhattacharyya1930 and reported by the next editors. Here Bhattacharyya1930 does not mentioned a quantity. After counting the akṣaras of the first lines, this quantity of 8 is a possible estimate. It seems to me that we should encode this estimate differently from the gaps in line 2 and in line 10
+--> <unclear cert="low">digbhāge</unclear> kāryyamāṇa-kāryyāvalokiteśvarāśrama-vihāre Anenai<lb n="5" break="no"/>vācāryyeṇa pratipādita<unclear cert="low">ka</unclear>-māhāyānika-vaivarttika-bhikṣu-saṁgh<choice><sic>a</sic><corr>ā</corr></choice>nām parigrahe bhagavato buddhasya satataṁ tri<sic>ṣ</sic>-kālaṁ<!-- 
 daba : Or maybe read trixkālaṁ? 
+--><!-- 
+amwb : I removed daba's edition saṁgh<unclear>ā</unclear>nām which seems to be the same as Agrawala1983 and replaced it by Bhattacharyya1930's reading which should be more "original". Due to the state of preservation of the plate, I checked this point but it is impossible to me to confirm this reading
 --><lb n="6"/>gandha-puṣpa-dīpa-dhūpādi-pra<unclear reason="illegible" cert="low">varttanāya ta</unclear>sya bhikṣu-saṁghasya ca cīvara-piṇḍa-pāta-śayanāsana-glāna-pratyaya-bhaiṣajyādi-<!-- 
 daba : Ghose_1930 proposes pradānāya tasya for the lacuna. 
 --><lb n="7"/>paribhogāya vihāre <unclear>ca</unclear> khaṇḍa-phuṭṭa-pratisaṁskāra-karaṇāya Uttara-māṇḍalika-kānteḍadaka-grāme sarvato bho<lb n="8" break="no"/>genāgrahāratvenaikādaśa-khila-pāṭakāḥ pañcabhiḥ khaṇḍais tāmra-paṭṭenātisr̥ṣṭāḥ</p>
@@ -129,32 +134,32 @@ daba : Ghose_1930 suggests na haret for the lacuna. Agrawala (Sircar?) offers n�
 --><lb n="11"/>pāṭakā Asmi<unclear cert="low">n vi</unclear>hāre śaśvat-kālam abhya<unclear reason="illegible" cert="low">nupālayitavyāḥ</unclear><supplied reason="subaudible">.</supplied> Anupālanam prati ca bhagavatā parāśarātmajena veda-vyā<!-- 
 daba : Ghose_1930 had been the originator of nupālayitavyāḥ for the lacuna. 
 --><lb n="12" break="no"/>sena vyāsena gītāḥ ślokā bhavanti</p>
-<lg n="1" met="anuṣṭubh">
-<l n="a">ṣaṣṭiṁ varṣa-sa<unclear>hasrā</unclear>ṇi</l>
-<l n="b">svargge modati bhūmidaḥ</l>
-<l n="c">Ākṣeptā cānumantā ca</l>
-<l n="d">tā<lb n="13" break="no"/>ny eva na<unclear reason="illegible">ra</unclear>ke vaseT<!-- 
+    <lg n="1" met="anuṣṭubh">
+    <l n="a">ṣaṣṭiṁ varṣa-sa<unclear>hasrā</unclear>ṇi</l>
+    <l n="b">svargge modati bhūmidaḥ</l>
+    <l n="c">Ākṣeptā cānumantā ca</l>
+    <l n="d">tā<lb n="13" break="no"/>ny eva na<unclear reason="illegible">ra</unclear>ke vaseT<!-- 
 daba : Bhattacharyya_1930:48 notes that the halanta t has a double top line. 
 --></l>
 </lg>
-<lg n="2" met="anuṣṭubh">
-<l n="a">sva-dattāṁ para-dattām vā</l>
-<l n="b">yo hareta <unclear>vasu</unclear>ndharāṁ</l>
-<l n="c"><unclear>sa</unclear> viṣṭhāyāṁ kr̥mir bhūtvā</l>
-<l n="d">pitr̥bhiḥ saha pacyate<!-- 
+    <lg n="2" met="anuṣṭubh">
+    <l n="a">sva-dattāṁ para-dattām vā</l>
+    <l n="b">yo hareta <unclear>vasu</unclear>ndharāṁ</l>
+    <l n="c"><unclear>sa</unclear> viṣṭhāyāṁ kr̥mir bhūtvā</l>
+    <l n="d">pitr̥bhiḥ saha pacyate<!-- 
 daba : Sircar prints bhutvā. Bhattacharyya and Agrawala both have bhūtvā; I assume this is a typo in Sircar. 
 --></l>
-</lg>
-<lg n="3" met="anuṣṭubh">
-<l n="a"><lb n="14"/>pūrva-dattāṁ dvijātibhyo</l>
-<l n="b">yatnād rakṣa yudhiṣṭhira<!-- 
+    </lg>
+    <lg n="3" met="anuṣṭubh">
+    <l n="a"><lb n="14"/>pūrva-dattāṁ dvijātibhyo</l>
+    <l n="b">yatnād rakṣa yudhiṣṭhira<!-- 
 daba : pūrva sic (not rvv) in all editions; Bhattacharyya actually has purva. 
 --></l>
-<l n="c">mahīṁ mahimatāṁ śreṣtha</l>
-<l n="d">dānā<sic>t ś</sic>reyo nupālanaṁ<!-- 
+    <l n="c">mahīṁ mahimatāṁ śreṣtha</l>
+    <l n="d">dānā<sic>t ś</sic>reyo ’nupālanaṁ<!-- 
 daba : dānāt śreyo apparently with a tśr ligature? Bhattacharyya talks about halanta consonants in his introduction and does not mention this line. 
 --></l>
-</lg>
+    </lg>
 <p>varttamānāṣṭāśīty-u<!-- 
 daba : Sircar reads °śīttyu (Bhattacharyya: śityu sic), Agrawala explicitly notes that tt is not supported from the facsimile. 
 --><lb n="15" break="no"/>ttara-śata-saṁvatsare pauṣa-māsasya caturvvi<sic>n</sic>śatitama-divase dūtakena mahā-pratīhāra-mahā-pīlupati-pañcādhi<lb n="16" break="no"/>karaṇoparika-pāṭy-uparika-<unclear cert="low">pura</unclear>-purapāloparika-mahārāja-śrī-mahā-sāmanta-vijayasenenaitad ekādaśa-pāṭaka-dā<!-- 
@@ -176,9 +181,8 @@ daba : Interesting how vinśati is consistently spelt with n, but triṁśat wit
 --><lb n="25"/>buddhāka-kṣettra-sīmā<supplied reason="subaudible">.</supplied> dakṣiṇena kālāka-kṣettraM<supplied reason="subaudible">.</supplied> paścimena <unclear>sū</unclear>ryya-kṣettra-sīmā<supplied reason="subaudible">.</supplied> Uttareṇa mahīpāla-kṣettraṁ<!-- 
 daba : Agrawala prints kālāka-kṣettraṁ and emends to final m, but Bhattacharyya's edition has an m here and he (p48) explicitly mentions a halanta m in line 25, so I assume Agrawala is wrong. 
 --></p>
-<p><unclear>pa</unclear>ṇcamasya <lb n="26"/>pādona-pāṭaka-dvaya-parimāṇa-kṣettra-khaṇḍasya sīmā<supplied reason="subaudible">.</supplied> pūrvveṇa khaṇḍa-vi<unclear>ḍu</unclear>ggurika-kṣettraṁ<supplied reason="subaudible">.</supplied> dakṣiṇena maṇibhaddra-
-<lb n="27"/>kṣettraṁ<supplied reason="subaudible">.</supplied> paścimena yajñarāta-kṣettra-sīmā<supplied reason="subaudible">.</supplied> Uttareṇa nādaḍadakagrāma-sīmeti</p>
-<p>vihāra-tala-bhūmer-api sīmā-liṅgāni<supplied reason="subaudible">.</supplied><lb n="28"/>pūrvveṇa cūḍāmaṇi-nagara-śrī-nau-yogayor mmaddhye jolā<supplied reason="subaudible">.</supplied> dakṣiṇena gaṇeśvara-vilāla-puṣkariṇyā nau-khāṭaḥ<unclear>|</unclear><!-- 
+<p><unclear>pa</unclear>ṇcamasya <lb n="26"/>pādona-pāṭaka-dvaya-parimāṇa-kṣettra-khaṇḍasya sīmā<supplied reason="subaudible">.</supplied> pūrvveṇa khaṇḍa-vi<unclear>ḍu</unclear>ggurika-kṣettraṁ<supplied reason="subaudible">.</supplied> dakṣiṇena maṇibhaddra-<lb n="27"/>kṣettraṁ<supplied reason="subaudible">.</supplied> paścimena yajñarāta-kṣettra-sīmā<supplied reason="subaudible">.</supplied> Uttareṇa nādaḍadaka-grāma-sīmeti</p>
+<p>vihāra-tala-bhūmer api sīmā-liṅgāni<supplied reason="subaudible">.</supplied><lb n="28"/>pūrvveṇa cūḍāmaṇi-nagara-śrī-nau-yogayor mmaddhye jolā<supplied reason="subaudible">.</supplied> dakṣiṇena gaṇeśvara-vilāla-puṣkariṇyā nau-khāṭaḥ<unclear>|</unclear><!-- 
 daba : Sircar explains tala-bhūmi as land granted to a religious establishment for its maintenance at the time of consecration. 
 --><!-- 
 daba : Bhattacharyya_1930:49, nauyoga probably means a small harbour [I must add that at least presently there's no sizeable watercourse nearby]; jolā means a water-course, cf. jolaka in Khalimpur grant and juli/jolā in Bengali; vilāla is evidently derived from vila with its peculiar meaning (a large watery hollow) current in Bengal; khāṭa means channel, cf. khāṭikā in Khalimpur grant and Bengali khāḍī. Sircar considers vilāla to be "possibly, a mechanic caste, like vardhika". 
@@ -189,7 +193,7 @@ daba : The word khāṭa (both in l28 and l29) is printed (and explained, see pr
 daba : According to Sircar vihāraprāvesya mean land regarded as a part of the site of the monastery (prāveśya derived from prāveśa) for the purpose of assessment; he refers to J.A.S., Letters, 1952, p.78, note. He also explains śūnyapratikara as not yielding any revenue. 
 --><!-- 
 daba : Bhattacharyya_1930:49, hajjika seems to be the origin of the Bengali word hājā meaning "water-logged". 
---><lb n="30" break="no"/>sena-vaihārika-kṣettrāva<unclear cert="low">sā</unclear>naḥ<supplied reason="subaudible">.</supplied> paścimena <unclear cert="low">ha</unclear>cāta-gaṁga<supplied reason="subaudible">.</supplied> Uttareṇa daṇḍa-puṣkariṇī ceti|<!-- 
+--><lb n="31" break="no"/>sena-vaihārika-kṣettrāva<unclear cert="low">sā</unclear>naḥ<supplied reason="subaudible">.</supplied> paścimena <unclear cert="low">ha</unclear>cāta-gaṁga<supplied reason="subaudible">.</supplied> Uttareṇa daṇḍa-puṣkariṇī ceti|<!-- 
 daba : Bhattacharyya_1930:48 describes the punctuation sign as "practically identical with a form of the comma as in Part VII of the Bower MSS. 
 --><!-- 
 daba : Sircar notes that gaṁga must correspond to Bengali gāṅ, "rivulet". 
@@ -202,12 +206,81 @@ daba : Bhattacharyya reads the month as possya; Sircar and Agrawala as poṣṣa
          </div>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+               <listApp>
+                  <app loc="5">
+                     <lem source="bib:Bhattacharyya1930_01 bib:Sircar1965_02">-saṁgh<choice><sic>a</sic><corr>ā</corr></choice>nām</lem>
+                      <rdg source="bib:Goyal1993_01">-saṁghanām</rdg>
+                     <rdg source="bib:Agrawala1983_02 bib:Balogh+al2019_01">-saṁgh<unclear>ā</unclear>nām</rdg>
                   </app>
+                   <app loc="5">
+                       <lem source="bib:Balogh+al2019_01">tri<sic>ṣ</sic>-kālaṁ</lem>
+                       <rdg source="bib:Sircar1965_02"><choice><sic>triṣ</sic><corr>tri</corr></choice>kālaṁ</rdg>
+                       <rdg source="bib:Bhattacharyya1930_01 bib:Agrawala1983_02 bib:Goyal1993_01">triṣkālaṁ</rdg>
+                       <note><bibl><ptr target="bib:Sircar1965_02"/></bibl> suggests reading <foreign>tri-kālaṁ</foreign> and understands this word as a synonym for <foreign>trisanddhyaṁ</foreign>. </note>
+                   </app>
+                   <app loc="6">
+                       <lem source="bib:Bhattacharyya1930_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Goyal1993_01 bib:Balogh+al2019_01">-pra<unclear reason="illegible" cert="low">varttanāya ta</unclear>sya</lem>
+                       <note><bibl><ptr target="bib:Ghose1930_01"/></bibl> suggests another restoration of the text: <foreign>-pra<unclear reason="illegible" cert="low">dānāya ta</unclear>sya</foreign>. </note>
+                   </app>
+                   <app loc="9">
+                       <lem source="bib:Ghose1930_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Goyal1993_01 bib:Balogh+al2019_01">°<unclear reason="illegible">ti</unclear>hā<unclear reason="illegible">sa</unclear>-vihitāṁ</lem>
+                       <rdg source="bib:Bhattacharyya1930_01">hāpavihitā <supplied reason="subaudible">.</supplied></rdg>
+                   </app>
+                   <app loc="9">
+                       <lem source="bib:Bhattacharyya1930_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Goyal1993_01 bib:Balogh+al2019_01">-viṣeṣe smr̥to</lem>
+                       <note><bibl><ptr target="bib:Bhattacharyya1930_01"/></bibl> suggests reading <foreign>smr̥tau</foreign> or <foreign>smr̥tāṁ</foreign>. <bibl><ptr target="bib:Agrawala1983_02"/></bibl> notes that <foreign>smr̥to</foreign> should be corrected to <foreign>smr̥tāṁ</foreign>, or to <foreign>viśeṣeṇa smr̥tau</foreign>. <bibl><ptr target="bib:Balogh+al2019_01"/></bibl> suggests <foreign>viśeṣa-smr̥ta</foreign>u as a less invasive option.</note>
+                   </app>
+                   <app loc="10">
+                       <lem source="bib:Bhattacharyya1930_01 bib:Balogh+al2019_01"><gap reason="lost" precision="low" quantity="4" unit="character"/></lem>
+                       <rdg source="bib:Sircar1965_02 bib:Goyal1993_01"><gap reason="lost" precision="low" quantity="7" unit="character"/><supplied reason="subaudible">.</supplied><gap reason="lost" precision="low" quantity="3" unit="character"/></rdg>
+                       <rdg source="bib:Agrawala1983_02"><gap reason="lost" precision="low" quantity="4" unit="character"/><supplied reason="subaudible">.</supplied><gap reason="lost" unit="character" extent="unknown"/></rdg>
+                       <note><bibl><ptr target="bib:Ghose1930_01"/></bibl> and <bibl><ptr target="bib:Goyal1993_01"/></bibl> suggest <foreign>na haret</foreign> for the lacuna. <bibl><ptr target="bib:Sircar1965_02"/></bibl> considers the gap more long and offers <foreign>nāpahareT <supplied reason="subaudible">.</supplied> vādhañca kuryāt</foreign>.</note>
+                   </app>
+                   <app loc="11">
+                       <lem source="bib:Ghose1930_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Goyal1993_01 bib:Balogh+al2019_01">abhya<unclear reason="illegible" cert="low">nupālayitavyāḥ</unclear></lem>
+                       <rdg source="bib:Bhattacharyya1930_01">abhya<gap reason="illegible" precision="low" unit="character" quantity="5"/></rdg>
+                   </app>
+                   <app loc="13">
+                       <lem source="bib:Balogh+al2019_01">na<unclear reason="illegible">ra</unclear>ke</lem>
+                       <rdg source="bib:Bhattacharyya1930_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Goyal1993_01">na<supplied reason="omitted">ra</supplied>ke</rdg><!-- 
+                       amwb : adopt the next editors' reading seems to me more reasonable
+                       -->
+                   </app>
+                   <app loc="14">
+                       <lem source="bib:Balogh+al2019_01">dānā<sic>t ś</sic>reyo</lem>
+                       <rdg source="bib:Bhattacharyya1930_01 bib:Goyal1993_01">dānāt śreyo</rdg>
+                       <rdg source="bib:Sircar1965_02 bib:Agrawala1983_02">dānā<choice><sic>t ś</sic><corr>c ch</corr></choice>reyo</rdg>
+                   </app>
+                   <app loc="14">
+                       <lem source="bib:Bhattacharyya1930_01 bib:Agrawala1983_02 bib:Balogh+al2019_01">varttamānāṣṭāśīty-u°</lem>
+                       <rdg source="bib:Sircar1965_02 bib:Goyal1993_01">varttamānāṣṭāśītty-u°</rdg>
+                   </app>
+                   <app loc="16">
+                       <lem source="bib:Goyal1993_01 bib:Balogh+al2019_01"><unclear cert="low">pura</unclear>-purapāloparika-</lem>
+                       <rdg source="bib:Bhattacharyya1930_01 bib:Sircar1965_02 bib:Agrawala1983_02"><surplus><unclear cert="low">pura</unclear></surplus>-purapāloparika-</rdg>
+                   </app>
+                   <app loc="19">
+                       <lem source="bib:Balogh+al2019_01">-kṣetra<sic>ś</sic> ca</lem>
+                       <rdg source="bib:Sircar1965_02 bib:Agrawala1983_02">-kṣetra<choice><sic>ś ca</sic><corr>ñ ca</corr></choice></rdg>
+                       <rdg source="bib:Bhattacharyya1930_01 bib:Goyal1993_01">-kṣetraś ca</rdg>
+                   </app>
+                   <app loc="29">
+                       <lem source="bib:Agrawala1983_02 bib:Balogh+al2019_01">kula-kṣettra-</lem>
+                       <rdg source="bib:Bhattacharyya1930_01 bib:Sircar1965_02 bib:Goyal1993_01">-kula-kṣetra-</rdg>
+                   </app>
+                   <app loc="29">
+                       <lem source="bib:Sircar1965_02 bib:Agrawala1983_02 bib:Goyal1993_01 bib:Balogh+al2019_01">-khāt<!--DB 20200807 CHECK, or ṭ?-->aḥ</lem>
+                       <rdg source="bib:Bhattacharyya1930_01">-khāṭaḥ</rdg>
+                   </app>
+                   <app loc="29">
+                       <lem source="bib:Sircar1965_02 bib:Balogh+al2019_01">-prāves<!--DB 20200807 CHECK, or ś?-->ya-</lem>
+                       <rdg source="bib:Bhattacharyya1930_01 bib:Agrawala1983_02 bib:Goyal1993_01">-prāveśya-</rdg>
+                   </app>
+                   <app loc="31">
+                       <lem source="bib:Goyal1993_01 bib:Balogh+al2019_01">poṣṣa di</lem>
+                       <rdg source="bib:Bhattacharyya1930_01">p<choice><sic>oṣya di</sic><corr>auṣa-di</corr></choice></rdg>
+                       <rdg source="bib:Sircar1965_02 bib:Agrawala1983_02">p<choice><sic>oṣṣa di</sic><corr>auṣa-di</corr></choice></rdg>
+                   </app>
                </listApp>
          </div>
          <div type="translation">
@@ -217,13 +290,14 @@ daba : Bhattacharyya reads the month as possya; Sircar and Agrawala as poṣṣa
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First reported and edited (with plate) in <bibl><ptr target="bib:Bhattacharyya1930_01"/></bibl>. Corrections in <bibl><ptr target="bib:Ghose1930_01"/></bibl>. Recorded in ARIE 1952-53: 26, no. 36, App. A. Discussed in Tewari 1980. The text has been encoded by Amandine Wattelier-Bricout using a digital edition created by Dániel Balogh for the Siddham project as starting point.</p>
+           <p>First reported and edited (with plate) in <bibl><ptr target="bib:Bhattacharyya1930_01"/></bibl>. Corrections in <bibl><ptr target="bib:Ghose1930_01"/></bibl>. Recorded in <bibl><ptr target="bib:ARIE1952-1953"/><citedRange unit="page">26</citedRange><citedRange unit="entry">36</citedRange><citedRange unit="appendix">A</citedRange></bibl>. Discussed in <bibl><ptr target="bib:Tewari1980_01"/></bibl>. The text has been encoded by Amandine Wattelier-Bricout using a digital edition created by Dániel Balogh for the Siddham project as starting point.</p>
         	<listBibl type="primary">
-        	    <bibl><ptr target="bib:Bhattacharyya1930_01"/></bibl>
-        	    <bibl><ptr target="bib:Ghose1930_01"/></bibl>
-        	    <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">340-345</citedRange><citedRange unit="entry">37</citedRange></bibl>
-        	    <bibl><ptr target="bib:Agrawala1983_02"/><citedRange unit="entry">57</citedRange></bibl>
-        	    <bibl><ptr target="bib:Goyal1993_01"/><citedRange unit="page">307-313</citedRange></bibl>
+        	    <bibl n="B"><ptr target="bib:Bhattacharyya1930_01"/></bibl>
+        	    <bibl n="MG"><ptr target="bib:Ghose1930_01"/></bibl>
+        	    <bibl n="S"><ptr target="bib:Sircar1965_02"/><citedRange unit="page">340-345</citedRange><citedRange unit="entry">37</citedRange></bibl>
+        	    <bibl n="A"><ptr target="bib:Agrawala1983_02"/><citedRange unit="entry">57</citedRange></bibl>
+        	    <bibl n="G"><ptr target="bib:Goyal1993_01"/><citedRange unit="page">307-313</citedRange></bibl>
+        	    <bibl n="DB"><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00070</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
                <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="page">283-284</citedRange><citedRange unit="entry">2038</citedRange></bibl>
