@@ -157,13 +157,13 @@ amwb : see photo yasa? ya a? l14.png
                       <lg n="3" met="anuṣṭubh">
                          <l n="a">pūrvvadattā dvijātibhyo</l>
                           <l n="b">yatnād rakṣa yudhiṣṭhira<surplus>ḥ</surplus></l>
-                         <l n="c">mahī<supplied reason="omitted">ṁ</supplied> mahimatā cchreṣṭha</l>
+                         <l n="c">mahī<supplied reason="omitted">ṁ</supplied> mah<choice><sic>i</sic><corr>ī</corr></choice>mat<choice><sic>ā cch</sic><corr>āṁ ś</corr></choice>reṣṭha</l>
                           <l n="d">dā<unclear>n</unclear>āc chreyo 'nupālana<foreign>M</foreign> <space/></l>
                      </lg>
                       <lg n="4" met="anuṣṭubh">
                          <l n="a">yamo 'tha varuṇo vāyuḥ</l>
-                          <l n="b">śakkraḥ śukkr<choice><sic>a</sic><corr>o</corr></choice> <lb 
-                              n="25"/> vṛhaspati <space/></l>
+                          <l n="b">śakkraḥ śukkr<choice><sic>a</sic><corr>o</corr></choice><lb 
+                              n="25"/>vṛhaspati<supplied reason="omitted">ḥ</supplied> <space/></l>
                          <l n="c">candrādityagrahās sarvve</l>
                           <l n="d">Abhinandanti bhūmida<foreign>M</foreign> <space/></l>
                      </lg>
@@ -476,6 +476,10 @@ amwb : by reading to this note, it appears to me that the tag unclear should be 
                        <lem>ṣaṣṭim var<surplus>i</surplus>ṣasahasrāṇi</lem>
                        <rdg source="bib:Griffiths2015_02">ṣaṣṭim bar<surplus>i</surplus>ṣasahasrāṇi</rdg>
                        <note><bibl><ptr target="bib:Dubey+Acharya2014_01"/></bibl> read <foreign>ṣaṣṭiṁ variṣa°</foreign> with a correction to <foreign>varṣa°</foreign> which we adopt as well.</note>
+                   </app>
+                   <app loc="24">
+                       <lem>varuṇo</lem>
+                       <rdg source="bib:Griffiths2015_02">varuṇā</rdg>
                    </app>
                    <app loc="26">
                        <lem><num value="159"><g type="numeral">100</g> <g type="numeral">50</g> 9</num> <abbr>jyeṣṭha</abbr> <abbr>di</abbr> <num value="8">8</num></lem>
