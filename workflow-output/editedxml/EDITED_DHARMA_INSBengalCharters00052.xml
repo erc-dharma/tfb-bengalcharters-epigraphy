@@ -242,7 +242,7 @@ amwb : added tag abbr for di
 <lg n="4" met="anuṣṭubh">
 <l n="a">pūrvva-dattāṁ dvijātibhyo</l>
 <l n="b">yatnād rakṣa yudhiṣṭhira<surplus>ḥ</surplus></l>
-<l n="c">mahīm mahimatāṁ śreṣṭha</l>
+<l n="c">mahīm mah<choice><sic>i</sic><corr>ī</corr></choice>matāṁ śreṣṭha</l>
 <l n="d"><lb n="25"/>dānāc chreyo ’nupālanaṁ<space/><!-- 
 daba siddham :Dikshit emends mahimatāṁ to matimatāṁ. His editor notes that mahimatāṁ is also correct. I Thought it ought to be mahīmatāṁ. 
 --></l>

@@ -92,6 +92,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2021-10-18" who="part:amwb">Revision of my first commentaries</change>
          <change who="part:amwb" when="2021-06-02">started initial encoding of the
                 inscription</change>
       </revisionDesc>
@@ -104,23 +105,45 @@
                  <lb n="2" break="no"/>karaṇasya</ab>
              </div>
                  <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
-                     <p><pb n="1r"/><lb n="1"/>svasti<supplied reason="omitted">.</supplied> mahat<unclear>ī</unclear>-rakta-mālāgrahārāt paramabhaṭṭāraka-pādānuddhyātaḥ kumārāmātya-yūthapatir adhikaraṇañ ca<lb n="2"/>khuḍḍī-raktamālikāyāṁ brāhmaṇottarān sa-kṣudra-pradhānādi-kuṭumbino bodhayanti</p> <p>kuddālakhātādhivāsābhyantara<lb n="3" break="no"/>-mahatī-raktamālāgrahāra-cāturvvidyābhyantara-k<choice><orig>o</orig><reg>au</reg></choice>tsa-sa-gotra-vājasaneya-brāhmaṇa-nandabhūtir vvijñāpayati</p> <p>ya<lb n="4" break="no"/>t pūjyair mmamātīta-sapta-pañcāśad-uttara-śata-s<choice><orig>ā</orig><reg>a</reg></choice>m<choice><orig>b</orig><reg>v</reg></choice>atsare govarddhanaka-grāme yathānurvṛtta-vikraya-krameṇa puṇḍra<lb n="5"/>varddhaneya-mahāmātra-suvarccasadattod d<unclear>ī</unclear>nārān upasaṁgṛhya <space/> samudaya-vāhyāpratikara-khila-kṣetra-kulyavā<lb n="6" break="no"/>pa-dvayam akṣaya-nīvī-dharmmeṇa śaśvat-kālopabhogyo dattaka<supplied reason="omitted">.</supplied> tad adhunaikānna-ṣaṣṭy-uttara-śata-sāmbatsare para<lb n="7" break="no"/>ma-devair dugdhotikā-vāstavya-brāhmaṇānāṁ sva-puṇyābhivṛddhaye govarddhanaka-grāmo garu<unclear>ṭṭā</unclear><!-- possible mais pta fotemenet probable aussi voir photo + attention Dubey pta aussi en revanche ligne 11 je lis .t.ta-->pa-ś<unclear>ā</unclear>sanenātisṛṣṭa<unclear>ḥ</unclear><lb n="8"/>tan mayā <unclear>pū</unclear>jyoparika-brahmadattaḥ <space/> <space/> dhikaraṇe vijñāpitaḥ mama</p><p> govarddhanaka-grāma puṇḍravarddhaneya-ma<lb n="9" break="no"/>hāmātra-suvarccasadattena pañca-mahā-yajña-pravarttanāya mātā-pitror anugraheṇa <space/> samudaya-vāhyāprati<lb n="10" break="no"/>kara-khila-kṣetra-kulyavāpa-dvayam akṣaya-nīvī-dharmmeṇa dattaka <space/> sa ca govarddhanaka-grāma parama-devaiḥ sva<lb n="11" break="no"/>-puṇyābhivṛddhaye dugdhotik<unclear>ā</unclear>-v<unclear>ā</unclear>stavya-brāhmaṇānāṁ g<choice><sic>a</sic><corr>u</corr></choice>ruṭṭāpa-śāsanenātisṛṣṭaḥ tan ma<supplied reason="lost">ma</supplied> <gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">tāmra</supplied>-paṭṭā<lb n="12" break="no"/>-kṣetra <gap reason="illegible" quantity="2" unit="character"/><unclear>dattaka</unclear> <space/> na vinaśyeta tathā <unclear>pra</unclear>sādaḥ kriyatām iti yataḥ</p> <p>Evaṁ<!-- dans ton edition 2015 °evaṁvijñāpato collé, faut il le signaler dans l'apparat + lecture différente puisqu'on a °evaṁvijñāpatopala(b) suivi de 7 tirets?--> vijñāp<choice><sic>a</sic><corr>i</corr></choice>to <gap reason="lost" quantity="11" unit="character"/><!-- attention ici dans 2015 tu avais ajouté pala cad vijñāpatopala...doit-on l'ajouter dans l'apparat? --></p>
-                     <p><pb n="1v"/><lb n="13"/>Ādeśo dakam<!-- je propose une correction de dakam en dākam MW474 "ici quel est le donneur approprié?", en plus sur photo possible de voir un trait au dessus confondu avec fissure de la plaque--> atra yuktam iti</p> <p><space/> tadadhikara<choice><orig>n</orig><reg>ṇ</reg></choice>ena<!-- dans l'apparat tu indiques karan[e]na --> jñāpita <space/> Etat-kṣetra-pariva<unclear>r</unclear>ttena nānya-grāmo dīyatām iti yata <gap reason="lost" quantity="11" unit="character"/><lb n="14"/>deśoparika-svāmicandrasyādeśo dattaḥ<supplied reason="omitted">.</supplied> tava maddhyamaṣaṇḍikānān dhana prati pratipālana prativāsana pratyāya sādhunā yasa<!-- pour moi ce n'est pas un sa- car boucle non fermée --> <space quantity="9" unit="character"/><lb n="15"/>kautsa-sa-gotra-vājasaneya-brāhmaṇa-nandabhūtiṣyaitat tāmra-paṭṭa-parivarttanānyatra grāme viṣayādhikaraṇa <space/> <space/> <space/> <space/> kṣetraṁ dāpayi<unclear>ṣya</unclear><supplied reason="lost">sīti</supplied><!-- ici c'est une reconstruction de ta part, est-ce que lost convient qd même? --> <unclear>ya</unclear>ta<unclear>ḥ</unclear></p><p><lb n="16"/>Etad-ādeśād asmāka pūjya-svāmicandrasyādeśo<!-- Verifier car lu candrasyadeśo en 2015--> dattaḥ<supplied reason="omitted">.</supplied> mama paramadaivatoparikapādebhy<choice><sic>o jñā</sic><corr>a ājñā</corr></choice> dattaḥ</p><p> mahatī-rakta-mālā-grahārika-brāhmaṇa-nandabhūti<lb n="17" break="no"/>r vvijñāpayati<supplied reason="omitted">.</supplied> sādhunā govarddhanaka-grāmeya-samudaya-vāhyāpratikara-khila-kṣetra<supplied reason="omitted">ṁ</supplied> krītvā yan mama dattakaṁ tad adhunā parama-de<choice><sic>vai Ā</sic><corr>vair Ā</corr></choice>deśādatta<unclear>ṁ</unclear><!-- Absolument vérifier la lecture car dans rtf edition datta(ṁ); rtf apparat dattaḥ et dans 2015 dattaṁ dans édition et datt(ā); perso je vois datta peut être un trait au dessus pour a long? --><lb n="18"/>Eṣāṁ dugdhotikeya-brāhmaṇā<choice><sic>nā</sic><corr>nāṁ</corr></choice> govarddhanaka-grām<choice><sic>e</sic><corr>o</corr></choice> mayā<choice><sic>n</sic><corr>t</corr></choice>isṛṣṭas tat-parivarttena yathānyatra tāmra-paṭṭa-kṣetraṁ bhavet ta<unclear>th</unclear><choice><sic><unclear>a</unclear></sic><corr>ā</corr></choice> prasādaḥ kriyatām iti<lb n="19"/>&#x2028;yataḥ<supplied reason="omitted">.</supplied> Evaṁ-vijñāpitopalabdhāt <choice><sic><unclear>s</unclear>ai</sic><corr>svai</corr></choice>r anyatra grāme dāpayiṣyasīti yataḥ</p> <p>Edhardādeśād asmā govarddhanaka-grāmeya Akṣaya-nīvī-parivarttena<lb n="20"/>khuḍḍī-rakta-mālikāyā<supplied reason="omitted">ṁ</supplied> samudaya-vāhyā-pratikara-khila-kṣetrasya kulyavāpa-dvayaṁ dattaha<supplied reason="omitted">ṁ</supplied> <abbr>ku</abbr> <num value="2">2</num> te yūyam evopalabhyetona preṣitakenāsma<lb n="21" break="no"/>t-sa-viśvāsenādhika<choice><orig>n</orig><reg>ṇ</reg></choice>ena viṣaya-kula-kuṭumbibhi<supplied reason="omitted">ḥ</supplied> saha<!-- être vigilant à la relecture de l'inscription possible sahaḥ d'après apparat critique : voir photo saha Ito-l21.png --> Ito naitika-kuddālakhātika-ratny-<choice><sic>ā</sic><corr>a</corr></choice>ṣṭa-navaka-nalābhyām apaviñchya <unclear>pa</unclear>riniyamya ca dā<lb n="22" break="no"/>syatha<supplied reason="omitted">.</supplied> <space/> datvā ca śaśvat-kālam akṣa<supplied reason="omitted">ya</supplied>-nīvī-dharmmeṇānupālayiṣyasīti</p> <p><space/> Uktañ ca bhagavatā vyāsena</p>
+                     <p><pb n="1r"/><lb n="1"/>svasti<supplied reason="omitted">.</supplied> mahat<unclear>ī</unclear>-rakta-mālāgrahārāt paramabhaṭṭāraka-pādānuddhyātaḥ kumārāmātya-yūthapatir adhikaraṇañ ca<lb n="2"/>khuḍḍī-raktamālikāyāṁ brāhmaṇottarān sa-kṣudra-pradhānādi-kuṭumbino bodhayanti</p> <p>kuddālakhātādhivāsābhyantara<lb n="3" break="no"/>-mahatī-raktamālāgrahāra-cāturvvidyābhyantara-k<choice><orig>o</orig><reg>au</reg></choice>tsa-sa-gotra-vājasaneya-brāhmaṇa-nandabhūtir vvijñāpayati</p> <p>ya<lb n="4" break="no"/>t pūjyair mmamātīta-sapta-pañcāśad-uttara-śata-s<choice><orig>ā</orig><reg>a</reg></choice>m<choice><orig>b</orig><reg>v</reg></choice>atsare govarddhanaka-grāme yathānu<surplus>r</surplus>vṛtta-vikraya-krameṇa puṇḍra<lb n="5"/>varddhaneya-mahāmātra-suvarccasadatt<choice><sic>o</sic><corr>ā</corr></choice>d d<unclear>ī</unclear>nārān upasaṁgṛhya <space/> samudaya-vāhyāpratikara-khila-kṣetra-kulyavā<lb n="6" break="no"/>pa-dvayam akṣaya-nīvī-dharmmeṇa śaśvat-kālopabhogyo<supplied reason="omitted">ṁ</supplied> dattaka<supplied reason="omitted">ṁ</supplied><supplied reason="omitted">.</supplied> tad adhunaik<choice><sic>ānna</sic><corr>ona</corr></choice>-ṣaṣṭy-uttara-śata-sāmbatsare para<lb n="7" break="no"/>ma-devair dugdhotikā-vāstavya-brāhmaṇānāṁ sva-puṇyābhivṛddhaye govarddhanaka-grāmo garu<unclear>ṭṭā</unclear><!-- 
+possible mais pta fotemenet probable aussi voir photo garuptaa.m?-l7.png + attention Dubey pta aussi en revanche ligne 11 je lis .t.ta garu.t.taa-l11.png
+                         --><!-- 
+amwb : by checking again the photo, it seems to me likely that in line 7 it is written -ptaa see also graamogaru(ptaa)pa-l7.png
+-->pa-ś<unclear>ā</unclear>sanenātisṛṣṭa<unclear>ḥ</unclear><lb n="8"/>tan mayā <unclear>pū</unclear>jyoparika-brahmadattaḥ <space/> <space/> dhikaraṇe vijñāpitaḥ mama</p><p> govarddhanaka-grāma puṇḍravarddhaneya-ma<lb n="9" break="no"/>hāmātra-suvarccasadattena pañca-mahā-yajña-pravarttanāya mātā-pitror anugraheṇa <space/> samudaya-vāhyāprati<lb n="10" break="no"/>kara-khila-kṣetra-kulyavāpa-dvayam akṣaya-nīvī-dharmmeṇa dattaka <space/> sa ca govarddhanaka-grāma parama-devaiḥ sva<lb n="11" break="no"/>-puṇyābhivṛddhaye dugdhotik<unclear>ā</unclear>-v<unclear>ā</unclear>stavya-brāhmaṇānāṁ g<choice><sic>a</sic><corr>u</corr></choice>ruṭṭāpa-śāsanenātisṛṣṭaḥ tan ma<supplied reason="lost">ma</supplied> <gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">tāmra</supplied>-paṭṭ<choice><sic>ā</sic><corr>a</corr></choice><lb n="12" break="no"/>-kṣetra <gap reason="illegible" quantity="2" unit="character"/><unclear>dattaka</unclear> <space/> na vinaśyeta tathā <unclear>pra</unclear>sādaḥ kriyatām iti yataḥ</p> <p>Evaṁ<!-- dans ton edition 2015 °evaṁvijñāpato collé, faut il le signaler dans l'apparat + lecture différente puisqu'on a °evaṁvijñāpatopala(b) suivi de 7 tirets?--> vijñāp<choice><sic>a</sic><corr>i</corr></choice>to <gap reason="lost" quantity="11" unit="character"/><!-- attention ici dans 2015 tu avais ajouté pala cad vijñāpatopala...doit-on l'ajouter dans l'apparat? 
+--><!-- 
+amwb : after checking again the plate, it is possible to read evaṁvijñāpato<unclear>pala</unclear><gap reason="lost" quantity="7" unit="character"/> 
+--></p>
+                     <p><pb n="1v"/><lb n="13"/>Ādeśo dakam<!-- 
+je propose une correction de dakam en dākam MW474 "ici quel est le donneur approprié?", en plus sur photo possible de voir un trait au dessus confondu avec fissure de la plaque--><!-- 
+amwb : files named BC39-l13-Ādeśo dāka? 1.png BC39-l13-Ādeśo dāka? 2.png BC39-l13-Ādeśo dāka? 3.png
+--> atra yuktam iti</p> <p><space/> tadadhikara<choice><orig>n</orig><reg>ṇ</reg></choice>ena jñāpita <space/> Etat-kṣetra-pariva<unclear>r</unclear>ttena nānya-grāmo dīyatām iti yata <gap reason="lost" quantity="11" unit="character"/><lb n="14"/>deśoparika-svāmicandrasyādeśo dattaḥ<supplied reason="omitted">.</supplied> tava maddhyamaṣaṇḍikānān dhana prati pratipālana prativāsana pratyāya sādhunā yasa<!-- 
+pour moi ce n'est pas un sa- car boucle non fermée 
+--><!-- 
+amwb : see photo yasa? ya a? l14.png
+--> <space quantity="9" unit="character"/><lb n="15"/>kautsa-sa-gotra-vājasaneya-brāhmaṇa-nandabhūtiṣyaitat tāmra-paṭṭa-parivarttanānyatra grāme viṣayādhikaraṇa <space/> <space/> <space/> <space/> kṣetraṁ dāpayi<unclear>ṣya</unclear><supplied reason="lost">sīti</supplied> <unclear>ya</unclear>ta<unclear>ḥ</unclear></p><p><lb n="16"/>Etad-ādeśād asmāka<supplied reason="omitted">ṁ</supplied> pūjya-svāmicandrasyādeśo dattaḥ<supplied reason="omitted">.</supplied> mama paramadaivatoparikapādebhy<choice><sic>o jñā</sic><corr>a ājñā</corr></choice> dattaḥ</p><p> mahatī-rakta-mālā-grahārika-brāhmaṇa-nandabhūti<lb n="17" break="no"/>r vvijñāpayati<supplied reason="omitted">.</supplied> sādhunā govarddhanaka-grāmeya-samudaya-vāhyāpratikara-khila-kṣetra<supplied reason="omitted">ṁ</supplied> krītvā yan mama dattakaṁ tad adhunā parama-de<choice><sic>vai Ā</sic><corr>vair Ā</corr></choice>deśādatta<unclear>ṁ</unclear><!-- Absolument vérifier la lecture car dans rtf edition datta(ṁ); rtf apparat dattaḥ et dans 2015 dattaṁ dans édition et datt(ā); perso je vois datta peut être un trait au dessus pour a long? --><lb n="18"/>Eṣāṁ dugdhotikeya-brāhmaṇā<choice><sic>nā</sic><corr>nāṁ</corr></choice> govarddhanaka-grām<choice><sic>e</sic><corr>o</corr></choice> mayā<choice><sic>n</sic><corr>t</corr></choice>isṛṣṭas tat-parivarttena yathānyatra tāmra-paṭṭa-kṣetraṁ bhavet ta<unclear>th</unclear><choice><sic><unclear>a</unclear></sic><corr>ā</corr></choice> prasādaḥ kriyatām iti<lb n="19"/>&#x2028;yataḥ<supplied reason="omitted">.</supplied> Evaṁ-vijñāpitopalabdhāt <choice><sic><unclear>s</unclear>ai</sic><corr>svai</corr></choice>r anyatra grāme dāpayiṣyasīti yataḥ</p> <p>E<choice><sic>dhar</sic><corr>ta</corr></choice>d-ādeśād asmā<supplied reason="omitted">kaṁ</supplied> govarddhanaka-grāmeya Akṣaya-nīvī-parivarttena<lb n="20"/>khuḍḍī-rakta-mālikāyā<supplied reason="omitted">ṁ</supplied> samudaya-vāhyā-pratikara-khila-kṣetrasya kulyavāpa-dvayaṁ dattaha<supplied reason="omitted">ṁ</supplied> <abbr>ku</abbr> <num value="2">2</num> te yūyam evopalabhyetona preṣitakenāsma<lb n="21" break="no"/>t-sa-viśvāsenādhika<choice><orig>n</orig><reg>ṇ</reg></choice>ena viṣaya-kula-kuṭumbibhi<supplied reason="omitted">ḥ</supplied> saha Ito naitika-kuddālakhātika-ratny-<choice><sic>ā</sic><corr>a</corr></choice>ṣṭa-navaka-nalābhyām apaviñchya <unclear>pa</unclear>riniyamya ca dā<lb n="22" break="no"/>syatha<supplied reason="omitted">.</supplied> <space/> datvā ca śaśvat-kālam akṣa<supplied reason="omitted">ya</supplied>-nīvī-dharmmeṇānupālayiṣyasīti</p> <p><space/> Uktañ ca bhagavatā vyāsena</p>
                      <lg n="1" met="anuṣṭubh">
-                         <l n="a">ṣaṣṭim var<surplus>i</surplus>ṣasahasrāṇi&gt;<!-- attention en 2015 noté bariṣasahasrāṇi --></l> <l n="b">svargge vasati bhū<lb n="23"/>midaḥ <space/></l>
-                         <l n="c">Ākṣeptā cānumantā ca</l><l n="c">tāny eva narake vase<foreign>T</foreign> <space/></l>
+                         <l n="a">ṣaṣṭim var<surplus>i</surplus>ṣasahasrāṇi</l> 
+                         <l n="b">svargge vasati bhū<lb n="23"/>midaḥ <space/></l>
+                         <l n="c">Ākṣeptā cānumantā ca</l>
+                         <l n="d">tāny eva narake vase<foreign>T</foreign> <space/></l>
                      </lg>
                       <lg n="2" met="anuṣṭubh">
-                         <l n="a">svadattām paradatām vā</l><l n="b">yo hareta vasundharā<foreign>M</foreign> <space/></l>
-                         <l n="c">sa viṣṭhāyā<supplied reason="omitted">ṁ</supplied> krimir bhūtvā</l><l n="c">pitṛbhi saha pacya<lb n="24" break="no"/>te <space/></l>
+                         <l n="a">svadattām paradatām vā</l>
+                          <l n="b">yo hareta vasundharā<foreign>M</foreign> <space/></l>
+                         <l n="c">sa viṣṭhāyā<supplied reason="omitted">ṁ</supplied> krimir bhūtvā</l>
+                          <l n="d">pitṛbhi saha pacya<lb n="24" break="no"/>te <space/></l>
                      </lg>
                       <lg n="3" met="anuṣṭubh">
-                         <l n="a">pūrvvadattā dvijātibhyo</l><l n="b">yatnād rakṣa yudhiṣṭhira<surplus>ḥ</surplus></l>
-                         <l n="c">mahī<supplied reason="omitted">ṁ</supplied> mahimatā cchreṣṭha</l><l n="c">dā<unclear>n</unclear>āc chreyo ’nupālana<foreign>M</foreign> <space/></l>
+                         <l n="a">pūrvvadattā dvijātibhyo</l>
+                          <l n="b">yatnād rakṣa yudhiṣṭhira<surplus>ḥ</surplus></l>
+                         <l n="c">mahī<supplied reason="omitted">ṁ</supplied> mah<choice><sic>i</sic><corr>ī</corr></choice>mat<choice><sic>ā cch</sic><corr>āṁ ś</corr></choice>reṣṭha</l>
+                          <l n="d">dā<unclear>n</unclear>āc chreyo ’nupālana<foreign>M</foreign> <space/></l>
                      </lg>
                       <lg n="4" met="anuṣṭubh">
-                         <l n="a">yamo ’tha varuṇo vāyuḥ</l><l n="b">śakkraḥ śukkr<choice><sic>a</sic><corr>o</corr></choice> <lb n="25"/> vṛhaspati <space/></l>
-                         <l n="c">candrādityagrahās sarvve</l><l n="c">Abhinandanti bhūmida<foreign>M</foreign> <space/></l>
+                         <l n="a">yamo ’tha varuṇo vāyuḥ</l>
+                          <l n="b">śakkraḥ śukkr<choice><sic>a</sic><corr>o</corr></choice><lb n="25"/>vṛhaspati<supplied reason="omitted">ḥ</supplied> <space/></l>
+                         <l n="c">candrādityagrahās sarvve</l>
+                          <l n="d">Abhinandanti bhūmida<foreign>M</foreign> <space/></l>
                      </lg>
                      <p><pb n="1v"/>likhitaṁ kāyastha-Āryyadāsena <space/> tāpitaṁ pusta-pāla-manorathadāse<lb n="26" break="no"/>na <space/> samba <num value="159"><g type="numeral">100</g> <g type="numeral">50</g> 9</num> <abbr>jyeṣṭha</abbr> <abbr>di</abbr> <num value="8">8</num></p>
                  </div>
@@ -145,7 +168,7 @@
                    </app>
                    <app loc="3">
                        <lem>-mālāgrahāra-</lem>
-                       <note>There seems to be no need to emend this to <foreign>-mālāgrahāre</foreign> (loc. sg.) as <bibl><ptr target="bib:Dubey+Acharya2014_01"/></bibl> propose. (Their <foreign>ha</foreign> is no doubt an involuntary error.)</note>
+                       <note>There seems to be no need to emend this to <foreign>-mālāgrahāre</foreign> <supplied reason="explanation">loc. sg.</supplied> as <bibl><ptr target="bib:Dubey+Acharya2014_01"/></bibl> propose. <supplied reason="explanation">Their <foreign>ha</foreign> is no doubt an involuntary error</supplied>.</note>
                    </app>
                    <app loc="3">
                        <lem>-cāturvvidyābhyantara-</lem>
@@ -166,17 +189,17 @@
                        <note><bibl><ptr target="bib:Dubey+Acharya2014_01"/></bibl> emended <foreign>mama tātaiḥ</foreign>. See <foreign>mayā</foreign> in line 8. Or read <foreign>mama</foreign> in every instance? </note>
                    </app>
                    <app loc="4">
-                       <lem>yathānurvṛtta-</lem>
+                       <lem>yathānu<surplus>r</surplus>vṛtta-</lem>
                         <!--<rdg source="bib:Dubey+Acharya2014_01">yathā <choice><orig>na</orig><corr>ni</corr></choice>vṛttavikraya-</rdg><!-\- vérifier que c'est le bon encodage pour noter  yathā navṛttavikraya° Dubey and Acharya, emended to yathā nivṛttavikraya°-\->-->
                        <note>If there really is a <foreign>repha</foreign>, then emend <foreign>yathānuvṛtta-</foreign>. Our reading is supported by the <ref target="DHARMA_INSBengalCharters00056.xml">Damodarpur copper-plate</ref>, line 7 <foreign>vikrayo ’nuvṛttaḥ</foreign>.</note>
                    </app>
-                   <app loc="4-5">
+                   <app loc="4">
                        <lem>puṇḍra<lb n="5"/>varddhaneya-</lem>
                        <!--<rdg source="bib:Dubey+Acharya2014_01">puṇḍravarddhane <choice><sic>ya</sic><supplied reason="omitted">ḥ</supplied></choice></rdg><!-\- pas sur que ce soit le bon encodage -\->-->
                        <note>Cf. perhaps the <ref target="DHARMA_INSBengalCharters00034.xml">Jagadishpur plate of the Gupta Year 128</ref>, line 3, although <bibl><ptr target="bib:Sircar1969-1970_01"/></bibl>, there read <foreign>puṇḍravarddhane ya</foreign>, emending <foreign>ya</foreign> to <foreign>ye</foreign> (and explicitly rejecting the reading <foreign>puṇḍravarddhaneya</foreign>).</note>
                    </app>
                    <app loc="5">
-                       <lem>-suvarccasadattod d<unclear>ī</unclear>nārān</lem>
+                       <lem>-suvarccasadatt<choice><sic>o</sic><corr>ā</corr></choice>d d<unclear>ī</unclear>nārān</lem>
                       <!-- <rdg source="bib:Dubey+Acharya2014_01">-suvarcca<choice><orig>sadatto ddi</orig><corr>se datta di</corr></choice>nārān</rdg><!-\- pas sur que ce soit le bon encodage -\->-->
                        <note>To us it seems likely that the engraver actually wrote <foreign>dī</foreign>, as is required. Several parallels in the Gupta corpus suggest that we need an ablative ending before <foreign>dīnārān</foreign>. The obvious emendation is <foreign>suvarcasadattād</foreign>. Cf. line 9.</note>
                    </app>
@@ -186,15 +209,17 @@
                        <note>An <foreign>anusvāra</foreign> seems quite clearly present.</note>
                    </app>-->
                    <app loc="6">
-                       <lem>-bhogyo dattaka</lem>
-                       <rdg source="bib:Dubey+Acharya2014_01">-bhogy<choice><orig>o</orig><supplied reason="omitted">ṁ</supplied></choice> dattak<choice><orig>a</orig><supplied reason="omitted">ṁ</supplied></choice></rdg><!-- pas sur que ce soit le bon encodage -->
-                       <note>We accept their emendation.</note>
+                       <lem source="bib:Dubey+Acharya2014_01">-bhogyo<supplied reason="omitted">ṁ</supplied> dattaka<supplied reason="omitted">ṁ</supplied></lem>
+                       <note>We accept the emendation suggested by <bibl><ptr target="bib:Dubey+Acharya2014_01"/></bibl>.</note>
                    </app>
-                   <app loc="6">
+                   <!--
+                       amwb : I included the emendation within the edition and removed this app
+                       <app loc="6">
                        <lem>adhunaikānna-ṣaṣṭy-uttara-</lem>
-                      <!-- <rdg source="bib:Dubey+Acharya2014_01">adhunaikāntam <choice><sic>asy</sic><corr>aśīty</corr></choice>-uttara-</rdg><!-\- pas sur que ce soit le bon encodage -\->-->
-                       <note>Emend <foreign>adhunaikonaṣaṣṭyuttara-</foreign> (cf. line 26).</note>
+                      <!-\- <rdg source="bib:Dubey+Acharya2014_01">adhunaikāntam <choice><sic>asy</sic><corr>aśīty</corr></choice>-uttara-</rdg><!-\\- pas sur que ce soit le bon encodage -\\->-\->
+                       <note>Emend <foreign>adhunaikonaṣaṣṭyuttara-</foreign> (cf. line 26).</note>
                    </app>
+                   -->
                    <app loc="7">
                        <lem>-devair dugdhotikā-</lem>
                        <rdg source="bib:Dubey+Acharya2014_01">-devair-Puśvotika-</rdg>
@@ -209,14 +234,13 @@
                        <note>One could emend <foreign>-grāme</foreign> to resolve the problem caused by the author thinking of two subjects, the land and the village.</note>
                    </app>
                    <app loc="7">
-                       <lem>garu<unclear>ṭṭā</unclear>pa-ś<unclear>ā</unclear>sanenātisṛṣṭa<unclear>ḥ</unclear></lem>
-                       <rdg source="bib:Griffiths2015_02">garu<unclear>ṭṭā</unclear>paśāsanenātisṛṣṭaṁ</rdg>
-                       <note>The word <foreign>garuṭṭāpa</foreign> actually looks like <foreign>garuptaṁpa-</foreign> and would not have been identifiable without the parallel in line 11.</note>
-                   </app>
-                   <app loc="7">
                        <lem>garu<unclear>ṭṭā</unclear>pa-</lem>
                        <rdg source="bib:Dubey+Acharya2014_01"><choice><sic>gū</sic><corr>gu</corr></choice>ptāpa-</rdg>
-                   </app><!-- J'ai conservé cette lecture de Dubey_acharya car tu en parles dans ton commentaire de ce terme, cela m'a paru utile que la divergence de lecture apparaisse dans l'apparat pour appuyer tes propos en commentaire...à toi d'en juger -->
+                   <!-- J'ai conservé cette lecture de Dubey_acharya car tu en parles dans ton commentaire de ce terme, cela m'a paru utile que la divergence de lecture apparaisse dans l'apparat pour appuyer tes propos en commentaire...à toi d'en juger -->
+                   <note>The word <foreign>garuṭṭāpa</foreign> actually looks like <foreign>garuptaṁpa-</foreign> and would not have been identifiable without the parallel in line 11.</note><!-- 
+amwb : by reading to this note, it appears to me that the tag unclear should be removed and replaced by a choice sic corr?
+-->
+                   </app>
                    <app loc="7">
                        <lem>-ś<unclear>ā</unclear>sanenātisṛṣṭa<unclear>ḥ</unclear></lem>
                        <rdg source="bib:Dubey+Acharya2014_01">-śāsanenatiṣṭaṁ</rdg>
@@ -263,14 +287,18 @@
                        <rdg source="bib:Dubey+Acharya2014_01">guUptāpa</rdg>
                        <note>Cf. line 7.</note>
                    </app>-->
-                   <app loc="11-12">
-                       <lem><supplied reason="lost">tāmra</supplied>-paṭṭā<lb n="12" break="no"/>-kṣetra</lem>
-                       <note>Emend <foreign>tāmra-paṭṭā-kṣetra</foreign>. Cf. line 18.</note>
+                  <!-- 
+                      amwb : I included the emandation in the edition and removed this app
+                      <app loc="11">
+                       <lem><supplied reason="lost">tāmra</supplied>-paṭṭā<lb 
+                         n="12" break="no"/>-kṣetra</lem>
+                       <note>Emend <foreign>tāmra-paṭṭa-kṣetra</foreign>. Cf. line 18.</note>
                    </app>
+                  -->
                    <app loc="12">
-                       <lem> Evaṁ<!-- dans ton edition 2015 °evaṁvijñāpato collé, faut il le signaler dans l'apparat + lecture différente puisqu'on a °evaṁvijñāpatopala(b) suivi de 7 tirets?--> vijñāp<choice><sic>a</sic><corr>i</corr></choice>to</lem>
-                       <rdg source="bib:Griffiths2015_02">Evaṁvijñāpatolab</rdg>
-                       <note><bibl><ptr target="bib:Griffiths2015_02"/><citedRange unit="page">21</citedRange></bibl>: Comparison with line 19 suggests that we may restore here the form <foreign>Evaṁvijñāpatopalabdhāt</foreign>, and then emend to <foreign>-vijñāpitopa-</foreign>.</note>
+                       <lem> Evaṁ vijñāp<choice><sic>a</sic><corr>i</corr></choice>to°</lem>
+                       <rdg source="bib:Griffiths2015_02">Evaṁvijñāpatopala<unclear>b</unclear>°</rdg>
+                       <note><bibl><ptr target="bib:Griffiths2015_02"/><citedRange unit="page">21</citedRange></bibl>: Comparison with line 19 suggests that we may restore here the form <foreign>Evaṁ vijñāpatopalabdhāt</foreign>, and then emend to <foreign>-vijñāpitopa-</foreign>.</note>
                    </app>
      <!--              <app loc="13">
                        <lem>tadadhikara<choice><orig>n</orig><reg>ṇ</reg></choice>ena<!-\- dans l'apparat rtf tu indiques karan[e]na -\-> jñāpita</lem>
@@ -285,7 +313,7 @@
                        <lem>-pariva<unclear>r</unclear>ttena</lem>
                        <rdg source="bib:Griffiths2015_02">parivartt<unclear>e</unclear>na</rdg>
                        <!--<rdg source="bib:Dubey+Acharya2014_01">vartana<supplied reason="lost">ṁ*</supplied></rdg>-->
-                       <note><foreign>-parivartt<unclear>e</unclear>na nanya-</foreign>: emend <foreign>-parivarttenanya-</foreign>? Alas, too much of the context here is damaged to be sure what meaning was intended.</note><!-- Attention la note reprend l'ancienne lecture, peut-être reporter la nouvelle lecture -->
+                       <note><foreign>-pariva<unclear>r</unclear>ttena nanya-</foreign>: emend <foreign>-parivarttenanya-</foreign>? Alas, too much of the context here is damaged to be sure what meaning was intended.</note>
                    </app>
                    <app loc="13">
                        <lem>nānya-grāmo dīyatām iti</lem>
@@ -299,7 +327,7 @@
                    <app loc="15">
                        <lem>-bhūtiṣyaitat</lem>
                        <!--<rdg source="bib:Dubey+Acharya2014_01">bhūtisyetat</rdg>-->
-                       <note><foreign>bhūtiṣya</foreign> (indistinguishable graphically from <foreign>bhūtisya</foreign>) is a substandard gen. sg. form which ought to have been <foreign>bhūteḥ</foreign> in chaste Sanskrit.</note>
+                       <note><foreign>bhūtiṣya</foreign> <supplied reason="explanation">indistinguishable graphically from <foreign>bhūtisya</foreign></supplied> is a substandard gen. sg. form which ought to have been <foreign>bhūteḥ</foreign> in chaste Sanskrit.</note>
                    </app>
                    <app loc="15">
                        <lem>-varttanānyatra</lem>
@@ -321,7 +349,7 @@
                        <note>The <foreign>anusvāra</foreign> is clearly present.</note>
                    </app>
                    <app loc="16">
-                       <lem>asmāka</lem>
+                       <lem>asmāka<supplied reason="omitted">ṁ</supplied></lem>
                        <note>As already suggested by <bibl><ptr target="bib:Dubey+Acharya2014_01"/></bibl>, this must be corrected to <foreign>asmākaṁ</foreign>. See also line 19.</note>
                    </app>
                    <app loc="16">
@@ -373,7 +401,7 @@
                    <app loc="18">
                        <lem>tat-parivarttena</lem>
                        <!--<rdg source="bib:Dubey+Acharya2014_01">tatparivartana<supplied reason="omitted">ṁ</supplied></rdg>-->
-                       <note>The first two akṣaras seems to bear <foreign>e-mātra</foreign>s (<foreign>tetpe</foreign>), but perhaps these are accidental strokes.</note>
+                       <note>The first two <foreign>akṣara</foreign>s seem to bear <foreign>e-mātra</foreign>s <supplied reason="explanation"><foreign>tetpe</foreign></supplied>, but perhaps these are accidental strokes.</note>
                    </app>
                    <app loc="18">
                        <lem>ta<unclear>th</unclear><choice><sic><unclear>a</unclear></sic><corr>ā</corr></choice></lem>
@@ -386,7 +414,7 @@
                        <note>Or read <foreign>-labdhāt kair</foreign>? Or <foreign>-labdhātmair</foreign>?</note>
                    </app>
                    <app loc="19">
-                       <lem>Edhardādeśād asmā</lem>
+                       <lem>E<choice><sic>dhar</sic><corr>ta</corr></choice>dādeśād asmā<supplied reason="omitted">kaṁ</supplied></lem>
                       <!-- <rdg source="bib:Dubey+Acharya2014_01">evad(m)-ādeśād asmā[d*]</rdg>-->
                        <note>We rather emend <foreign>Etadādeśād asmākaṁ</foreign>, after the sequence in line 16.</note>
                    </app>
@@ -405,7 +433,7 @@
                        <note>Emend °karanena (with <foreign>n</foreign> for <foreign>ṇ</foreign> as in line 13). <bibl><ptr target="bib:Dubey+Acharya2014_01"/></bibl> simply read <foreign>saviśvāsenādhikena</foreign> without noting the engraver’s error.</note>
                    </app>
                    <app loc="21">
-                       <lem>-kuṭumbibhi<supplied reason="omitted">ḥ</supplied> saha</lem><!-- a revoir pcq note contradictoire avec la lecture du lemme si ḥ vraiment présent alors à encoder en <surplus>ḥ</surplus> -->
+                       <lem>-kuṭumbibhi<supplied reason="omitted">ḥ</supplied> saha</lem>
                        <note><foreign>-kuṭumbibhi sahaḥ</foreign>: correct <foreign>kuṭumbibhiḥ saha</foreign>; <bibl><ptr target="bib:Dubey+Acharya2014_01"/></bibl> read <foreign>kupamiti sahaḥ</foreign>, with suggestion to emend to <foreign>-kupena saha</foreign>. </note>
                    </app>
                    <app loc="21">
@@ -415,7 +443,7 @@
                    </app>
                    <app loc="22">
                        <lem>akṣa<supplied reason="omitted">ya</supplied>-nīvī-dharmmeṇānu°</lem>
-                       <note><bibl><ptr target="bib:Dubey+Acharya2014_01"/></bibl> read <foreign>akṣayanīvīdharmeṇa bhū</foreign>° noting neither the missing <foreign>akṣara</foreign> nor the gemination after r.</note>
+                       <note><bibl><ptr target="bib:Dubey+Acharya2014_01"/></bibl> read <foreign>akṣayanīvīdharmeṇa bhū</foreign>° noting neither the missing <foreign>akṣara</foreign> nor the gemination after <foreign>r</foreign>.</note>
                    </app>
                    <app loc="22">
                        <lem>°pālayiṣyasīti</lem>
@@ -426,10 +454,14 @@
                        <rdg source="bib:Griffiths2015_02">ṣaṣṭim bar<surplus>i</surplus>ṣasahasrāṇi</rdg>
                        <note><bibl><ptr target="bib:Dubey+Acharya2014_01"/></bibl> read <foreign>ṣaṣṭiṁ variṣa°</foreign> with a correction to <foreign>varṣa°</foreign> which we adopt as well.</note>
                    </app>
+                   <app loc="24">
+                       <lem>varuṇo</lem>
+                       <rdg source="bib:Griffiths2015_02">varuṇā</rdg>
+                   </app>
                    <app loc="26">
                        <lem><num value="159"><g type="numeral">100</g> <g type="numeral">50</g> 9</num> <abbr>jyeṣṭha</abbr> <abbr>di</abbr> <num value="8">8</num></lem>
                        <rdg source="bib:Dubey+Acharya2014_01"><num value="180"><g type="numeral">100</g> <g type="numeral">50</g> <g type="numeral">30</g></num> jyeṣṭha di <num value="9">9</num></rdg>
-                       <note>The reading of the numeral signs is quite clear if one consults the table on p. 389 of S.N. Chakravarti 1938<!-- Je n'ai pas de référence ICI à revoir -->, and is moreover confirmed by the reading in line 6. See the <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur CPI</ref>  dated to the same year, with these same numerals, in line 20.</note>
+                       <note>The reading of the numeral signs is quite clear if one consults the table of <bibl><ptr target="bib:Chakravarti1938_01"/><citedRange unit="page">389</citedRange></bibl>, and is moreover confirmed by the reading in line 6. See the <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur CPI</ref>  dated to the same year, with these same numerals, in line 20.</note>
                    </app>
                </listApp>
          </div>
