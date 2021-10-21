@@ -456,7 +456,8 @@ amwb : here the double danda has another shape: the first danda looks like J see
 
                   <app loc="2">
                      <lem>°lambhāḥ<unclear><g type="danda">.</g></unclear></lem>
-                     <rdg source="bib:Kielhorn1896-1897_03">°lambhāḥ<g type="danda">.</g></rdg>
+                     <!--<rdg source="bib:Kielhorn1896-1897_03">°lambhāḥ<g type="danda">.</g></rdg>-->
+		<note>Correct <foreign>°labdhāḥ</foreign>?</note>
                   </app>
  	    <app loc="11">
                        <lem source="bib:Kielhorn1896-1897_03">bhūmī<lb n="11" break="no"/>patīnām</lem>
