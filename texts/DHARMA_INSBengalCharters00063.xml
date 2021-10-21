@@ -72,6 +72,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change when="2021-10-21" who="part:amwb">Revision of my encoding and corrections</change>
             <change who="part:amwb" when="2021-06-01">started initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -92,12 +93,19 @@
                     n="2" break="no"/>-puṇḍravarddhana-bhuktau vyavaharati tat-sam<choice><orig>v</orig><reg>b</reg></choice>addha-ghoṇādvīpaka-viṣaye mahāpratīhārāvadhūtena bhoga-la<choice><orig>v</orig><reg>b</reg></choice>dhe janmāntaropātta-dharmmaprotsāhita-matinaitad-viṣaya-nivāsi-mahā<lb
                     n="3" break="no"/>mahattara-mahattarādayo v<unclear>ai</unclear>ṣayikās sādhikaraṇā Abhyarthitā</p><p> Icche 'haṁ bhavat-sakāśād viṣaya-maryyādayopakrīya mātā-pittror ātmanaś ca puṇy<unclear>ā</unclear>bh<unclear>i</unclear>vr̥ddhaye mastaka<lb
                     n="4" break="no"/><unclear>śvabhra</unclear>-grāma<unclear>ṁ</unclear> saha vījapūraka-vr̥ndena tāmra-paṭṭī-kr̥tya vrāhmaṇāya dātum</p> <p>evam-abhyarthitāḥ pratyuktavantas samavadya vijñāpayāma Iti<supplied reason="omitted">.</supplied> yattra mahāmahattarādityadeva-jayadeva<lb
-                    n="5" break="no"/>-jāvabhad<unclear>r</unclear><choice><sic>o</sic><corr>ā</corr></choice> <unclear>ma</unclear>hāmahattara-<space/>śarvvadeva-<space/>pāṭaka-mahattara-yaśodeva-<space/>praśastarudra-mittradeva-<space/>bhiloṭa-nivāsi-<space/>mahattara<space/><!-- en revanche je supprimerai celui-ci que je ne vois pas -->-nātharudra-<space/>pāṭaka-mahattara-<space/>śāntirudra-dharmmarudra<lb
+                    n="5" break="no"/>-jāvabhad<unclear>r</unclear><choice><sic>o</sic><corr>ā</corr></choice> <unclear>ma</unclear>hāmahattara-<space/>śarvvadeva-<space/>pāṭaka-mahattara-yaśodeva-<space/>praśastarudra-mittradeva-<space/>bhiloṭa-nivāsi-<space/>mahattara-nātharudra-<space/>pāṭaka-mahattara-<space/>śāntirudra-dharmmarudra<!-- 
+amwb : according to my own reading of the plate, I removed a space after mahattara
+--><lb
                     n="6" break="no"/>-vār<unclear>ddhapriye</unclear>ya-mahattara-pavittrasoma-kṣemadeva-<space/>ṣaṇḍadvīpa-vāsi-mahattara-gorakakiraṇasvāmi-<space/>rudrasvāmi-<space/>pravaradvīpa-nivāsi-vrāhmaṇa-guyaśa<space/>navadevakula-nivāsi<lb
-                    n="7" break="no"/>-mahattara-śambhusvāmi-<space/>pippalivanikā-vāstavya-mahattara-bhākideva-<space/>pāttravāṭeya-mahattara-<!-- peut être mettre un <space/> car espace un plus que normal mais pas autant que les autres -->gopasoma-<space/>śāṅkarapallikeya-bhaṭṭadharmmasvāmi -<space/>śivanagara-vāstavya<lb
-                    n="8" break="no"/>-bhadrasvāmi-śrīcandra-<!-- peut être mettre un <space/> car espace un plus que normal mais pas autant que les autres -->-kṣemaśarmma-dvīpakīya-mahattarāmr̥taśāntanu-varāhakoṭṭaka-vāstavya-mahattara-dharmmakuṇḍa-<space/>śivagupta-khātaka-nivāsi<!-- peut être mettre un <space/> car espace un plus que normal mais pas autant que les autres -->-mahattara-jalla-<space/>Ārdraleya<lb
-                    n="9" break="no"/>-mahattara-jālacandra-śyāmadeva-<space/>Audumvarikeya-mahattarābhinandana-<space/>malayarudra-<space/>karaṇi-kanaradatta-<choice><unclear>E</unclear><unclear>vā</unclear></choice>ḍita-<space/>devasena-viṣayādhikaraṇika-śambhudatta-<!-- peut être mettre un <space/> car espace un plus que normal mais pas autant que les autres -->kr̥ṣṇadatta<lb
-                     n="10" break="no"/>-po<!-- ici j'aurai mis <unclear>po</unclear> -->rudattā<add place="below">da</add>yaḥ <space/> sa<choice><orig>n</orig><reg>ṁ</reg></choice>mantrayant<choice><sic>ī</sic><corr>i</corr></choice></p><p> smāstīyaṁ maryyādā pūrvva-sādhubhir apy u<add place="below">pa</add>krīya nānā-vaiṣ<choice><sic>ai</sic><corr>a</corr></choice>yika-janapadād devakula-vihāra-brāhmaṇa-viśeṣebhyo 'tisr̥ṣṭāni viṣaya-grāma-maṇḍa<lb
+                    n="7" break="no"/>-mahattara-śambhusvāmi-<space/>pippalivanikā-vāstavya-mahattara-bhākideva-<space/>pāttravāṭeya-mahattara<space/>-gopasoma-<space/>śāṅkarapallikeya-bhaṭṭadharmmasvāmi -<space/>śivanagara-vāstavya<!-- 
+amwb : according to my own reading of the plate, I added a space after mahattara --><lb
+                    n="8" break="no"/>-bhadrasvāmi-śrīcandra<space/>-kṣemaśarmma-dvīpakīya-mahattarāmr̥taśāntanu-varāhakoṭṭaka-vāstavya-mahattara-dharmmakuṇḍa-<space/>śivagupta-khātaka-nivāsi<space/>-mahattara-jalla-<space/>Ārdraleya<!-- 
+amwb : according to my own reading I added one space after śrīcandra and one after nivāsi 
+--><lb
+                    n="9" break="no"/>-mahattara-jālacandra-śyāmadeva-<space/>Audumvarikeya-mahattarābhinandana-<space/>malayarudra-<space/>karaṇi-kanaradatta-<choice><unclear>E</unclear><unclear>vā</unclear></choice>ḍita-<space/>devasena-viṣayādhikaraṇika-śambhudatta<space/>-kr̥ṣṇadatta<!-- 
+amwb : according to my own reading I added one space after śambhudatta  
+--><lb
+                     n="10" break="no"/>-porudattā<add place="below">da</add>yaḥ <space/> sa<choice><orig>n</orig><reg>ṁ</reg></choice>mantrayant<choice><sic>ī</sic><corr>i</corr></choice></p><p> smāstīyaṁ maryyādā pūrvva-sādhubhir apy u<add place="below">pa</add>krīya nānā-vaiṣ<choice><sic>ai</sic><corr>a</corr></choice>yika-janapadād devakula-vihāra-brāhmaṇa-viśeṣebhyo 'tisr̥ṣṭāni viṣaya-grāma-maṇḍa<lb
                      n="11" break="no"/>la-kṣettrāṇi pūrvva-rājabhiś cānumoditāni śūnyā ca bhūmir avatiṣṭhamānā na kaṁ cid apy upakāraṁ rājñaḥ karoty<!-- maybe emend karotīty --> evaṁ-prakāreṇa punar ddīyamānā dr̥ṣṭādr̥ṣṭa-phala-pradā bhava<lb
                      n="12" break="no"/>ty asya ca grāmasyoparikarā bhāvya<surplus>ṁ</surplus>-varṣiṇa<supplied reason="omitted">ḥ</supplied> pañcacatvāriṁśat kārṣāpaṇā yad anyad v<supplied reason="lost">i</supplied>ṣayā-bhāvyaṁ tad asmābhir avacūrṇya voḍhavyaṁ kutaḥ yato vayaṁ viṣaya-nimittaṁ hira<lb
                     n="13" break="no"/>ṇy<unclear>e</unclear>nārthino 'yaṁ ca mahāpratīhārāvadhūtaḥ prahvo 'bhyarthayati yuktam asya sa-phalaṁ vijñāpya-karmmam ity avadhr̥tavanto</p><p> 'vadhr̥tya ca viṣaya-vārikai<supplied reason="omitted">r</supplied> grāma-mūlyaṁ cūrṇikā<lb
@@ -106,20 +114,44 @@
                     n="16"/><surplus>ya</surplus> pratipādito 'sya ca mastakaśvabhra-grāmasya sīmā-liṅgāni bhavanti</p><p> yattra pūrvvasyāṁ diśi srotikā <space/> Uttarasyām iyam <unclear>e</unclear>va t<choice><orig>r̥</orig><reg>ri</reg></choice>ghaṭṭikāṁ praviśya śmaśānena paści<lb
                     n="17" break="no"/>masyāṁ diśy omrakhātaḥ <space/> dakṣiṇasyāṁm apy <unclear>e</unclear>tad-anulagnena śr̥ṅgāṭaka-villikānusāreṇa vr̥hacchaṅka-joṭā tad-an<unclear>u</unclear>sāreṇa kāṇālatīya-śālmalī-samīpena punaḥ<lb
                     n="18"/>srotikā yāvad iti</p><p> <space/> l<unclear>i</unclear>khitaṁ kāraṇika-śam<unclear>bhudatte</unclear>na tāpitaṁ pusta-pāla-kr̥ṣṇadattena samvat· <num value="5">5</num> <space/> <abbr>Aśva</abbr> <abbr>di</abbr> <num value="22"><g type="numeral">20</g> 2</num></p><p> <space/> Asminn evārthe manvādayaḥ ślokān udāha<lb
-                    n="19" break="no"/>ranti sma</p><!-- ici il y a un espace avant le début des vers doit on le noter ou le changement prose vers suffira? -->
+                    n="19" break="no"/>ranti sma<space/></p><!-- 
+amwb: according to my own reading,  I added a space before the stanza
+                    -->
 <lg n="1" met="anuṣṭubh">
-    <l n="a">sva-dattāṁ para<unclear>da</unclear><choice><sic>tt</sic><corr>t</corr></choice>ām vā</l><l n="b"><!-- ici il y a un large espace faut il le noter -->yo hareta vasundharā<choice><sic>ṁ</sic><corr>m</corr></choice></l>
-    <l n="c"><!-- ici il y a un large espace faut il le noter -->sa viṣṭhāyāṁ kr̥mir bhūtvā</l><l n="d"><!-- ici il y a un large espace faut il le noter -->pitr̥bhis saha pac<choice><sic>c</sic><corr>y</corr></choice>ate ||</l></lg>
+                        <l n="a">sva-dattāṁ para<unclear>da</unclear><choice><sic>tt</sic><corr>t</corr></choice>ām vā<space/></l><!-- 
+amwb: according to my own reading,  I added a space before the next pāda
+                    --><l n="b">yo hareta vasundharā<choice><sic>ṁ</sic><corr>m</corr></choice><space/></l><!-- 
+amwb: according to my own reading,  I added a space before the next pāda
+                    -->
+                       <l n="c">sa viṣṭhāyāṁ kr̥mir bhūtvā<space/></l><!-- 
+amwb: according to my own reading,  I added a space before the next pāda
+                    --><l n="d">pitr̥bhis saha pac<choice><sic>c</sic><corr>y</corr></choice>ate<g type="ddandaHooked">.</g></l></lg>
 
 <lg n="2" met="anuṣṭubh">
-    <l n="a">ṣaṣṭi-varṣa-sahasrāṇi</l><l n="b"><!-- ici il y a un large espace faut il le noter -->svargge modati bhūmi<lb n="20" break="no"/>daḥ</l>
-    <l n="c">Ākṣeptā cānumantā ca</l><l n="d"><!-- ici il y a un large espace faut il le noter -->tāny eva narake vaseT<!-- viraama, est ce le bon encodage --> || </l></lg>
+                        <l n="a">ṣaṣṭi-varṣa-sahasrāṇi<space/></l><!-- 
+amwb: according to my own reading,  I added a space before the next pāda
+                    --><l n="b">svargge modati bhūmi<lb 
+n="20" break="no"/>daḥ</l>
+    <l n="c">Ākṣeptā cānumantā ca<space/></l><!-- 
+amwb: according to my own reading,  I added a space before the next pāda
+                    --><l n="d">tāny eva narake vaseT<g type="ddandaHooked">.</g></l></lg>
 <lg n="3" met="anuṣṭubh">
-    <l n="a">vahubhir vasudhā dattā</l><l n="b"><!-- ici il y a un large espace faut il le noter -->rājabhis sagarādibhiḥ</l>
-    <l n="c">yasya yasya yadā bhūmi<!-- ici je noterai l'espace car le paada commence sur ligature sta -->s</l><l n="d">tasya tasya <lb n="21"/>tadā phala<choice><orig>ṁ</orig><reg>m</reg></choice> ||</l></lg>
+    <l n="a">vahubhir vasudhā dattā<space/></l><!-- 
+amwb: according to my own reading,  I added a space before the next pāda
+                    --><l n="b">rājabhis sagarādibhiḥ</l>
+    <l n="c">yasya yasya yadā bhūmi<space/>s</l><!-- 
+amwb: according to my own reading,  I added a space after bhūmi in order to represent the fact that the next pāda begins with a ligature
+                    --><l n="d">tasya tasya <lb 
+n="21"/>tadā phala<choice><orig>ṁ</orig><reg>m</reg></choice><g type="ddandaHooked">.</g></l></lg>
 <lg n="4" met="anuṣṭubh">
-    <l n="a">yānaśayyā-prado bhāryyā<foreign>M</foreign><!-- à vérifier EGD 11.2.1? --></l><l n="b">sukham akṣayyam anna-daḥ</l>
-    <l n="c">bhūmi-das sarvvam āpnoti</l><l n="d"><!-- ici il y a un tres large espace faut il le noter? Si oui qlors deux space -->go-do vradhnasya viṣ<choice><sic>ṭh</sic><corr>ṭ</corr></choice>apa<choice><orig><unclear>ṁ</unclear></orig><reg>m</reg></choice> || <g type="circleWheel"/><!-- Ton avis? --> ||</l></lg><pb n="1v"/>
+    <l n="a">yānaśayyā-prado bhāryyā<foreign>M</foreign></l>
+    <l n="b">sukham akṣayyam anna-daḥ</l>
+    <l n="c">bhūmi-das sarvvam āpnoti<space/></l><!-- 
+amwb: according to my own reading,  I added a space before the next pāda and a second at the beginning of pāda d because the space is equivalent to the two akṣaras 
+                    -->
+    <l n="d"><space/>go-do vradhnasya viṣ<choice><sic>ṭh</sic><corr>ṭ</corr></choice>apa<choice><orig><unclear>ṁ</unclear></orig><reg>m</reg></choice><g type="ddandaHooked">.</g><g type="circleWheel"/><g type="ddandaHooked">.</g><!-- 
+    amwb : it is the second danda (the right one) who is hooked, not the left one as all other ddandaHooked in this plate
+--></l></lg><pb n="1v"/>
          </div>
 </div>
          <div type="apparatus">
