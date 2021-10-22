@@ -100,9 +100,7 @@ n="1r"/><lb
 n="1"/><g type="spiralL"/><!-- 
 amwb :  it is a spiral matching BL4 of the table found in the part "discussion" of the Symbol Taxonomy
 --> svasti<supplied reason="subaudible">.</supplied>
-<lg n="1" met="vasantatilakā"><!-- 
-amwb : 14 morae
--->
+<lg n="1" met="vasantatilakā">
       <l n="a">sarvvajñatāṁ śriya<space type="feature"/>m iva sthiram āsthitasya</l>
       <l n="b">vajrāsa<lb n="2" break="no"/>nasya vahu-māra-kulopalambhāḥ<unclear><g type="danda">.</g></unclear><space type="feature"/></l>
       <l n="c">devyā mahā-karuṇayā paripā<lb n="3" break="no"/>litāni</l>
@@ -170,7 +168,7 @@ argr: although again we might well decide that none of this requires an apparatu
  -->
        <l n="c">bhārābhugnāvamajjan-maṇi-vidhura-śiraś-cakra-sāhāyakā<supplied reason="omitted">r</supplied>thaṁ<!-- 
 amwb : i don't see the r of rthaṁ see photo sāhāyakāthaṁśeṣe l13.png
-argr: I think it is the triangle shape including the headline. In many varieties of Pala-period script, rephas can be integratyed in this way into the aksara suspended from the headline — so I think we can remove <supplied>
+argr: I think it is the triangle shape including the headline. In many varieties of Pala-period script, rephas can be integrated in this way into the aksara suspended from the headline — so I think we can remove <supplied>; see also Kielhorn's remark on the special shape of rtha (p. 244).
    --></l>
        <l n="d">śeṣe<lb n="14" break="no"/>ṇodasta-doṣṇā tvaritataram adhodhas tam evānuyātaM<g type="ddandaStrokeLeft">.</g></l>
 </lg>
@@ -192,57 +190,57 @@ argr: yes, I am inclined to admit that two allographs of anusvāra were availabl
        <l n="d">catur-ambhodhi-vāritaḥ<g type="ddandaStrokeLeft">.</g></l>
 </lg>
 <lg n="10" met="śārdūlavikrīḍita">
-       <l n="a"><lb
-n="17"/>ye 'bhūvaN pr̥thu-rāma-rāghava-nala-prāya dharitrībhujas</l>
-       <l n="b">tān ekatra didr̥kṣuṇeva nicitāN sarvāN sama<choice><orig>m</orig><reg>ṁ</reg></choice> vedhasā<g type="danda">.</g></l>
-       <l n="c">dhva<lb
-n="18" break="no"/>stāśeṣa-narendra-māna-mahimā śrī-dharmmapālaḥ kalau</l>
-       <l n="d">lolaśrīkariṇī-nivandhana-mahāstambhaḥ samuttambhitaḥ<g type="ddanda">.</g><!-- amwb : the same shape as other double dandas --></l>  
+       <l n="a"><lb n="17"/>ye 'bhūvaN pr̥thu-rāma-rāghava-nala-prāyā dharitrī-bhujas</l>
+<!-- argr: you had prāya — does the txt file need correction? -->
+       <l n="b">tān ekatra didr̥kṣuṇeva nicitān· sarvāN samam vedhasā<g type="danda">.</g></l>
+       <l n="c">dhva<lb n="18" break="no"/>stāśeṣa-narendra-māna-mahimā śrī-dharmmapālaḥ kalau</l>
+       <l n="d">lola-śrīkariṇī-nivandhana-mahāstambhaḥ samuttambhitaḥ<g type="ddandaStrokeLeft">.</g></l> 
+<!-- argr: I have trouble recognizing lau and lo in kalau lola — are any alternative readings imaginable? --> 
 </lg>
-<lg n="11" met="sragdharā"><!-- 
-amwb : 21 morae
--->
-       <l n="a">yāsāṁ<lb
-n="19"/>nāsīra-dhūlī-dhavala-daśa-diśāṁ drag-apaśyann iyattāṁ</l>
+<lg n="11" met="sragdharā">
+       <l n="a">yāsāṁ<lb n="19"/>nāsīra-dhūlī-dhavala-daśa-diśāṁ drāg apaśyann iyattāṁ</l>
+<!-- argr: you had drag-apaśyann — does the txt file need correction? -->
        <l n="b">dhatte māndhātr̥-sainya-vyatikara-cakito dhyāna-tandrīm mahendraḥ<g type="danda">.</g></l>
-       <l n="c"><lb
-n="20"/>tāsām apy āhavecchā-pulakita-vapuṣā<choice><orig>m</orig><reg>ṁ</reg></choice> vāhinīnā<choice><orig>m</orig><reg>ṁ</reg></choice> vidhātuṁ<!-- 
+       <l n="c"><lb n="20"/>tāsām apy āhavecchā-pulakita-vapuṣām vāhinīnā<choice><orig>m</orig><reg>ṁ</reg></choice> vidhātuṁ<!-- 
    amwb : here anusvāra seems to be noted by a single point and not by a circle see photo dhātuṁ l20.png
+   argr: are you sure there is an anuvāra? the edition states that the reading is m to be normalized as ṁ
+   argr: anyhow, I would just edit m here without any further ado
 --></l>
-       <l n="d">sāhāyyaṁ yasya <choice><orig>v</orig><reg>b</reg></choice>āhvor nikhila-ripukula-dhvaṁsinor nā<lb
-n="21" break="no"/>vakāśaḥ<g type="ddanda">.</g><!-- amwb : the same shape as other double dandas --></l>
+       <l n="d">sāhāyyaṁ yasya vāhvor nikhila-ripu-kula-dhvaṁsinor nā<lb n="21" break="no"/>vakāśaḥ<g type="ddandaStrokeLeft">.</g></l>
 </lg>
-<lg n="12" met="sragdharā"><!-- 
-amwb : 21 morae
--->
+<lg n="12" met="sragdharā">
        <l n="a">bhojair matsyaiḥ sa-madraiḥ kuru-yadu-yavanāvanti-gandhāra-kīrair</l>
-       <l n="b">bhūpair vyālola-mauli-praṇati-pariṇataiḥ<lb
-n="22"/>sādhu saṅgīryamānaḥ<g type="danda">.</g></l>
+       <l n="b">bhūpair vyālola-mauli-praṇati-pariṇataiḥ<lb n="22"/>sādhu saṅgīryamānaḥ<g type="danda">.</g></l>
        <l n="c">hr̥ṣyat-pañcāla-vr̥ddhoddhr̥ta-kanakamaya-svābhiṣekodakumbho</l>
-       <l n="d">dattaḥ śrī-kany<choice><sic>a</sic><corr>ā</corr></choice>ku<choice><orig>v</orig><reg>b</reg></choice>jas<!-- 
+<!-- argr: I would hyphenate -svābhiṣekoda-kumbho -->
+       <l n="d">dattaḥ śrī-kany<choice><sic>a</sic><corr>ā</corr></choice>kuvjas<!-- 
 amwb : Kielhorn correct kanya by kanyā and not by kānya, I think it would be a careless mistake ; so I introduced the other correction and reported this in the apparatus
---> sa-lalita-ca<lb
-n="23"/>lita-bhrūlatā-lakṣma yena<g type="ddanda">.</g><!-- amwb : the same shape as other double dandas --></l>
+argr: what you say about Kielhorn is wrong — he edits kanya and says we expect kānya, and he is correct; the text as you have edited it is  metrically impossible; we should have k<choice><sic>a</sic><corr>ā</corr></choice>nyakuvjas instead of kany<choice><sic>a</sic><corr>ā</corr></choice>kuvjas; please make the necessary change, and delete the apparatus entry
+--> sa-lalita-ca<lb n="23"/>lita-bhrūlatā-lakṣma yena<g type="ddandaStrokeLeft">.</g></l>
 </lg>
-<lg n="13" met="śārdūlavikrīḍita"><!-- 
-amwb : 19 morae
--->
+<!-- argr: you have forgotten break="no" on <lb n="23"/>; I would hyphenate bhrū-latā- -->
+<lg n="13" met="śārdūlavikrīḍita">
         <l n="a">gopaiḥ sīmni vanecarair vanabhuvi grāmopakaṇṭhe janaiḥ</l>
-        <l n="b">krīḍadbhi<supplied reason="omitted">ḥ</supplied> praticatvaraṁ śiśu-gaṇaiḥ<lb
-n="24"/>pratyāpaṇa<unclear>m</unclear><!-- amwb : totally lost for me --> māna<choice><sic>p</sic><corr>v</corr></choice>aiḥ<g type="danda">.</g></l>
+<!-- argr: I would hyphenate vana-bhuvi -->
+        <l n="b">krīḍadbhi<supplied reason="omitted">ḥ</supplied> praticatvaraṁ śiśu-gaṇaiḥ<lb n="24"/>pratyāpaṇa<unclear>m</unclear><!-- 
+amwb : totally lost for me 
+argr: I can recognize vestiges of both consonants in the ligature mma, but neither is perfectly clear, so I'd edited <unclear> also on the m of māna
+--> māna<choice><sic>p</sic><corr>v</corr></choice>aiḥ<g type="danda">.</g></l>
         <l n="c">līlā-veśmani pañjarodara-śukair udgītam ātma-stavaṁ</l>
-        <l n="d">yasyākarṇṇayatas trapāvivalitānamraṁ sa<lb
-n="25" break="no"/>daivānanaM<g type="ddanda">.</g><!-- amwb : the same shape as other double dandas --></l>
+        <l n="d">yasyākarṇṇayatas trapāvivalitānamraṁ sa<lb n="25" break="no"/>daivānanaM<g type="ddandaStrokeLeft">.</g></l>
 </lg>
-sa khalu bhāgīrathīpatha-pravarttamāna-nānāvidha-nauvāṭaka-sampādita-setu<choice><orig>v</orig><reg>b</reg></choice>andha-nihita-śailaśi<lb
-n="26" break="no"/>khara-śreṇi-vibhramā<choice><sic>t</sic><corr>n</corr></choice> niratiśaya-ghana-ghanāghana-ghaṭā-śyāmāyamāna-vāsara-lakṣmī-samāra<choice><orig>v</orig><reg>b</reg></choice>dha-santata-jalada-sa<lb
-n="27" break="no"/>maya-sandehā<choice><sic>t</sic><corr>d</corr></choice> Udīcīnāneka-narapati-prābhr̥tīkr̥tāprameya-hayavāhinī-kharakhurotkhāta-dhūlī-dhūsarita-di<lb
+sa khalu bhāgīrathīpatha-pravarttamāna-nānāvidha-nau-vāṭaka-sampādita-setu-vandha-nihita-śaila-śi<lb
+n="26" break="no"/>khara-śreṇi-vibhramā<choice><sic>t</sic><corr>n</corr></choice><!-- argr: instead of t  in <sic> and n in <corr>, it should be T and N --> niratiśaya-ghana-ghanāghana-ghaṭā-śyāmāyamāna-vāsara-lakṣmī-samāravdha-santata-jalada-sa<lb
+n="27" break="no"/>maya-sandehā<choice><sic>t</sic><corr>d</corr></choice><!-- argr: in prose context, as here, I do not favor such "corrections" which affect a feature that is typical of Sanskrit prose, namely the non application of sandhi rules, which are not mandatory even for classical grammarians, as far as I know — and the final consonant should be transliterated as T instead of t, so let us encode -sandehāT Udīcīnāneka-  --> Udīcīnāneka-narapati-prābhr̥tīkr̥tāprameya-hayavāhinī-kharakhurotkhāta-dhūlī-dhūsarita-di<!-- argr: I would hyphenate prābhr̥tī-kr̥tāprameya-haya-vāhinī-khara-khurotkhāta- --><lb
 n="28" break="no"/>gantarālā<foreign>T</foreign><!-- 
-amwb Here I wrapped T in foreign because the glyph is really different see photo gantarālāT pa l28.png
---> parameśvara-sevā-samāyata-samasta-jam<choice><orig>v</orig><reg>b</reg></choice>ūdvīpa-bhūpālānanta-pādāta-bhara-namad-avaneḥ pāṭalipu<lb
+amwb: Here I wrapped T in foreign because the glyph is really different see photo gantarālāT pa l28.png
+argr: <foreign> can certainl;y not be use for any such purpose, as it is semantically inadequate; I think encoding without any tag is acceptable; see Kielhorn, p. 244 n. 1, for a description of the shape we see here; it will be necessary to summarize in <handDesc> what Kielhorn says in that note about the various shapes for final consonants
+argr: also, let's hyphenate, so in sum -dig-antarālāT
+--> parameśvara-sevā-samāyata-samasta-jamvūdvīpa-bhūpālānanta-pādāta-bhara-namad-avaneḥ pāṭalipu<lb
 n="29" break="no"/>tra-samāvāsita-śrīmaj-jayaskandhāvārā<foreign>T</foreign><!-- 
-amwb Here I wrapped T in foreign because the glyph is really different see photo vārāT pa l29.png
---> paramasaugato mahārājādhirāja-śrī-gopāladeva-pādānudhyātaḥ pa<lb
+amwb: Here I wrapped T in foreign because the glyph is really different see photo vārāT pa l29.png
+argr: same objection, a fortiori, because the shape of T here is quite normal 
+--> @@@@@paramasaugato mahārājādhirāja-śrī-gopāladeva-pādānudhyātaḥ pa<lb
 n="30" break="no"/>rameśvaraḥ paramabhaṭṭārako mahārājādhirājaḥ śrīmā<foreign>N</foreign><!-- 
 amwb Here I wrapped T in foreign because the glyph is really different see photo śrīmāN l30.png
 --> dharmmapāladevaḥ kuśalī<g type="ddanda">.</g><!-- amwb : the same shape as other double dandas --> śrī-puṇḍravarddhana-bhu<lb
@@ -538,8 +536,10 @@ boundary of the Udragrāma <foreign>maṇḍala</foreign>, on the south a <seg c
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="K"><ptr target="bib:Kielhorn1896-1897_03"/></bibl>
-			</listBibl>
+	  <bibl n="B"><ptr target="bib:Batavyal1894_01"/></bibl>
+	  <bibl n="K"><ptr target="bib:Kielhorn1896-1897_03"/></bibl>
+	  <bibl n="S"><ptr target="bib:Sircar1983_01"/><citedRange unit="page">63-70</citedRange><citedRange unit="book">1</citedRange><citedRange unit="entry">15</citedRange></bibl>
+	</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
