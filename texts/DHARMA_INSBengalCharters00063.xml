@@ -96,7 +96,7 @@
                     n="5" break="no"/>-jāvabhad<unclear>r</unclear><choice><sic>o</sic><corr>ā</corr></choice> <unclear>ma</unclear>hāmahattara-<space/>śarvvadeva-<space/>pāṭaka-mahattara-yaśodeva-<space/>praśastarudra-mittradeva-<space/>bhiloṭa-nivāsi-<space/>mahattara-nātharudra-<space/>pāṭaka-mahattara-<space/>śāntirudra-dharmmarudra<!-- 
 amwb : according to my own reading of the plate, I removed a space after mahattara
 --><lb
-                    n="6" break="no"/>-vār<unclear>ddhapriye</unclear>ya-mahattara-pavittrasoma-kṣemadeva-<space/>ṣaṇḍadvīpa-vāsi-mahattara-gorakakiraṇasvāmi-<space/>rudrasvāmi-<space/>pravaradvīpa-nivāsi-vrāhmaṇa-guyaśa<space/>navadevakula-nivāsi<lb
+                    n="6" break="no"/>-vār<unclear>ddhapriye</unclear>ya-mahattara-pavittrasoma-kṣemadeva-<space/>ṣaṇḍadvīpa-vāsi-mahattara-gorakakiraṇasvāmi-<space/>rudrasvāmi-<space/>pravaradvīpa-nivāsi-vrāhmaṇa-gu<supplied reason="omitted">ha</supplied>yaśa<space/>navadevakula-nivāsi<lb
                     n="7" break="no"/>-mahattara-śambhusvāmi-<space/>pippalivanikā-vāstavya-mahattara-bhākideva-<space/>pāttravāṭeya-mahattara<space/>-gopasoma-<space/>śāṅkarapallikeya-bhaṭṭadharmmasvāmi -<space/>śivanagara-vāstavya<!-- 
 amwb : according to my own reading of the plate, I added a space after mahattara --><lb
                     n="8" break="no"/>-bhadrasvāmi-śrīcandra<space/>-kṣemaśarmma-dvīpakīya-mahattarāmr̥taśāntanu-varāhakoṭṭaka-vāstavya-mahattara-dharmmakuṇḍa-<space/>śivagupta-khātaka-nivāsi<space/>-mahattara-jalla-<space/>Ārdraleya<!-- 
@@ -168,9 +168,9 @@ amwb: according to my own reading,  I added a space before the next pāda and a 
                   <app loc="1">
                      <lem>samvatsar<unclear>e</unclear> pañcama</lem>
                       <note>Or read -<foreign>samvatsarapañcama</foreign>? No trace of -<foreign>e</foreign> can be made out with certainty, and although it
-is possible to assume that it was originally written and since effaced, assuming its original absence could be supported, e.g., by the sequence <foreign>vijayarājyasaṁvatsaraśate</foreign> in the <ref target="https://siddham.network/inscription/in00025/">Karamdanda inscription of Kumāragupta</ref><!-- 
-Change the target when the inscription is encoded in DHARMABASE. For the moment, there is no reference number in Bengal Inscriptions Metadata (Googlesheets), but there is the file IN00025_TEI.xml 
---> (<bibl><ptr target="bib:Bhandarkar1981_01"/><citedRange unit="page">285</citedRange><citedRange unit="line">3</citedRange><citedRange unit="note">5</citedRange></bibl>).</note>
+is possible to assume that it was originally written and since effaced, assuming its original absence could be supported, e.g., by the sequence <foreign>vijayarājyasaṁvatsaraśate</foreign> in the Karamdanda inscription of Kumāragupta<!-- 
+amwb : add a tag ref when the inscription is encoded in DHARMABASE. For the moment, there is no reference number in Bengal Inscriptions Metadata (Googlesheets), but there is the file IN00025_TEI.xml; For I have included its bibliographical ref 
+--> (<bibl><ptr target="bib:Bhandarkar1981_01"/><citedRange unit="page">285</citedRange><citedRange unit="line">3</citedRange><citedRange unit="note">5</citedRange></bibl> and <bibl><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00025</citedRange></bibl>).</note>
                   </app>
                   <app loc="2">
                       <lem>matinaitad</lem>
@@ -197,7 +197,7 @@ Change the target when the inscription is encoded in DHARMABASE. For the moment,
                        <note>Perhaps emend <foreign>ṣaṇḍadvīpa-nivāsi-mahattara</foreign>.</note>
                    </app>
                    <app loc="6">
-                       <lem>guyaśa</lem>
+                       <lem>gu<supplied reason="omitted">ha</supplied>yaśa</lem>
                        <note>Emend <foreign>guhayaśa</foreign>. Cf. the <ref target="DHARMA_INSBengalCharters00002.xml">Kotalipada plate</ref>, line 5.</note>
                    </app>
                    <app loc="7">
@@ -207,7 +207,8 @@ Change the target when the inscription is encoded in DHARMABASE. For the moment,
                    <app loc="9">
                        <lem>-<choice><unclear>E</unclear><unclear>vā</unclear></choice>ḍita-<space/></lem>
                        <rdg source="bib:Griffiths2015_02">-Eḍita<unclear>nu</unclear>-</rdg>
-                      <!--<note><foreign>vāḍita(<unclear>nu</unclear>)</foreign>: the reading is very uncertain as a whole, the presence of a fourth <foreign>akṣara</foreign> even more so. Can we read <foreign>krīḍita</foreign>?</note>-->
+                      <!--amwb : I have removed the note from the 20135 article :  <note><foreign>vāḍita(<unclear>nu</unclear>)</foreign>: the reading is very uncertain as a whole, the presence of a fourth <foreign>akṣara</foreign> even more so. Can we read <foreign>krīḍita</foreign>?</note>
+                      -->
                    </app>
                    <app loc="12">
                        <lem>bhāvya<surplus>ṁ</surplus>-varṣiṇa<supplied reason="omitted">ḥ</supplied></lem>
@@ -356,7 +357,7 @@ And having ascertainedied it, ... they sold.
 </p>
 </div>
              <div type="textpart" n="D"><head xml:lang="eng">New Translation</head>
-                 <p n="1-3">Hail! In the fifth year of the victorious suzerainty of the suzerain of great kings Śrī Pradyumnabandhu,
+                 <p n="1-3">Hail! In the fifth year of the victorious suzerainty of the suzerain of great kings <foreign>mahārājādhirāja</foreign> Śrī Pradyumnabandhu,
                 on the twenty-second day of the month Āśvayuja, when his appointee as governor,
                 <supplied reason="explanation">named</supplied> Cellaka,
                 was managing affairs <supplied reason="explanation"><foreign>vyavaharati</foreign></supplied>
