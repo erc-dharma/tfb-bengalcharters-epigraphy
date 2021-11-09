@@ -154,8 +154,14 @@
                  <l n="c">lokeśa-pāda-sarasīruha-bhakti-śīlaḥ<surplus><unclear><g type="danda">.</g></unclear></surplus></l>
                  <l n="d"><unclear>śīl</unclear>ā<!-- argr2ryfu: on the photos I am looking at, I cannot read anything after bhakti-śīlaḥ, so I don't understand why you single out the ā as relatively clear, and suggest you may want to use <supplied reason="lost">śīlā</supplied> for the end of line 9 --><!-- ryfu2argr: see the relevant part of the photograph DSC_0034 provided by me. Some strokes constituting śīla visible but slight, except a vertical stroke constituting ā at the end, which is rather clear. So I put in this way.--><lb n="10" break="no"/>nvitaḥ parama-kāruṇikas tapasvī<g type="ddanda">.</g></l>
              </lg><!-- ryfu2argr: this stanza is inetresting in connecting padas by beginning it with the last word of the previous one, and it also support the reconstruction of  śīlā at the end of line 9. -->
-             <p>sthaviraḥ kuśala-nivāsaḥ prajñā-vala-kalpita-nikhila-śama-mārggaḥ<g type="danda">.</g> mañjuśrījñāna Idaṁ<g type="danda">.</g> <unclear>cakāra ru</unclear><lb n="11" break="no"/>ciraṁ mahādvāraṁ<g type="ddanda">.</g></p> 
-            <p>vanaśara-tanaye<unclear>neda</unclear>ṁ<g type="danda">.</g> <unclear>go</unclear>pāla-nr̥pasya vatsare navame<g type="danda">.</g> maṇḍanaśareṇa ghaṭitaṁ<g type="danda">.</g> vuddhimatā sva<unclear>rgga</unclear>dhā<lb n="12" break="no"/>reṇa<g type="ddanda">.</g></p>
+             <lg n="7" met="āryā">
+                <l n="ab">sthaviraḥ kuśala-nivāsaḥ prajñā-vala-kalpita-nikhila-śama-mārggaḥ<g type="danda">.</g></l> 
+                <l n="cd">mañjuśrījñāna Idaṁ<g type="danda">.</g> <unclear>cakāra ru</unclear><lb n="11" break="no"/>ciraṁ mahādvāraṁ<g type="ddanda">.</g></l>               
+             </lg> 
+             <lg n="8" met="āryā">
+                 <l n="ab">vanaśara-tanaye<unclear>neda</unclear>ṁ<g type="danda">.</g> <unclear>go</unclear>pāla-nr̥pasya vatsare navame<g type="danda">.</g></l> 
+                 <l n="cd">maṇḍanaśareṇa ghaṭitaṁ<g type="danda">.</g> vuddhimatā sva<unclear>rgga</unclear>dhā<lb n="12" break="no"/>reṇa<g type="ddanda">.</g></l>
+             </lg>
          </div>
          <div type="apparatus">
  	   <listApp>
@@ -209,8 +215,8 @@
             <p rend="stanza" n="4">His son was Śrīdharavardhana with expanding wealth. Also the son of this virtuous one was praiseworthy Pāhilavardhana. To him also was born the son occupied with law, discipline and donation, illustrious Vikramavardhana, having a beautiful body, who was the Pitcher-born <supplied reason="explanation">Agastya</supplied> for the ocean of battles.</p>
             <p rend="stanza" n="5">The heap of <supplied reason="subaudible">his</supplied> fame, clean like moon and very large, <supplied reason="subaudible">rose to</supplied> whole the sky by going <supplied reason="subaudible">around</supplied> the world. … then by the fortunate donor who has the mind fixed upon the action of vow and favour.</p>
             <p rend="stanza" n="6">He <supplied reason="explanation">Mañjuśrījñāna</supplied> is religious-minded, the only vessel of all the truth and faith. He has this poor world nourished, as suitable for <supplied reason="subaudible">such</supplied> a vessel. He is disposed to the devotion to the lotus that is feet of the lord of the world <supplied reason="explanation">the Buddha</supplied>. He is the ascetic accompanied by discipline and extremely compassionate.</p>
-            <p n="10-11">Mañjuśrījñāna, the elder, the abode of benevolence and having the way of tranquility prepared by the power of wisdom, made this radiant great gate.</p>
-            <p n="11-12">In the ninth year of the king Gopāla, this <supplied reason="subaudible">inscription</supplied> was accomplished by Maṇḍanaśara, the son of Vanaśara, having wisdom and holding the heaven.</p>
+            <p rend="stanza" n="7">Mañjuśrījñāna, the elder, the abode of benevolence and having the way of tranquility prepared by the power of wisdom, made this radiant great gate.</p>
+            <p rend="stanza" n="8">In the ninth year of the king Gopāla, this <supplied reason="subaudible">inscription</supplied> was accomplished by Maṇḍanaśara, the son of Vanaśara, having wisdom and holding the heaven.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
