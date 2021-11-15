@@ -142,10 +142,10 @@ amwb : see photo yasa? ya a? l14.png
                          <l n="a">svadattām paradatām vā</l>
                           <l n="b">yo hareta vasundharā<foreign>M</foreign> <space/> </l>
                          <l n="c">sa viṣṭhāyā<supplied reason="omitted">ṁ</supplied> krimir bhūtvā</l>
-                          <l n="d">pitṛbhi<supplied reason="omitted">s</supplied> saha pacya<lb n="24" break="no"/>te <space/> </l>
+                          <l n="d">pitr̥bhi<supplied reason="omitted">s</supplied> saha pacya<lb n="24" break="no"/>te <space/> </l>
                      </lg>
                       <lg n="3" met="anuṣṭubh">
-                         <l n="a">pūrvvadattā dvijātibhyo</l>
+                         <l n="a">pūrvvadattā<supplied reason="omitted">ṁ</supplied> dvijātibhyo</l>
                           <l n="b">yatnād rakṣa yudhiṣṭhira<surplus>ḥ</surplus></l>
                          <l n="c">mahī<supplied reason="omitted">ṁ</supplied> mah<choice><sic>i</sic><corr>ī</corr></choice>mat<choice><sic>ā cch</sic><corr>āṁ ś</corr></choice>reṣṭha</l>
                           <l n="d">dā<unclear>n</unclear>āc chreyo ’nupālana<foreign>M</foreign> <space/> </l>
@@ -466,6 +466,10 @@ amwb : by reading to this note, it appears to me that the tag unclear should be 
                        <note><bibl><ptr target="bib:Dubey+Acharya2014_01"/></bibl> read <foreign>ṣaṣṭiṁ variṣa°</foreign> with a correction to <foreign>varṣa°</foreign> which we adopt as well.</note>
                    </app>
                    <app loc="24">
+                       <lem>pūrvvadattā<supplied reason="omitted">ṁ</supplied></lem>
+                       <rdg source="bib:Griffiths2015_02">pūrvvadattā</rdg>
+                   </app>
+                   <app loc="24">
                        <lem>varuṇo</lem>
                        <rdg source="bib:Griffiths2015_02">varuṇā</rdg>
                    </app>
@@ -486,7 +490,10 @@ amwb : by reading to this note, it appears to me that the tag unclear should be 
                  graced by the feet of the Supreme Lord <supplied reason="explanation"><foreign>paramabhaṭṭāraka</foreign></supplied>, 
                  <supplied reason="explanation">i.e. king Budhagupta</supplied>, 
                  as well as the council, inform the householders both modest and prominent, etc.,<!-- je me demande si on ne pourrait pas comprendre le sa- dans le sens donné par Renou §83 voir aussi BengalCharters57 : il indique comme sens de sa- sam- "complet total" ici on pourrait comprendre "avec la totalité des propriétaires (aussi bien) pauvres et riches" et le ādi renforce l'idée de totalité --> 
-                 Brahmins being foremost among them,<!-- uttara ifc plutôt le sens de followed by or consisting of voir BengakCharters57 et 51 (MW p.178 col1 et Apte p.408 n°8...voir consisting chiefly of Brahmins Apte p.1174) et dans ce cas cela a une implication importante selon laquelle les propriétaires terriens seraient davantage des brahmanes? --> 
+                 consisting chiefly of Brahmins,<!-- 
+amwb : I replaced "Brahmins being foremost among them" by "consisting chiefly of Brahmins"
+uttara ifc plutôt le sens de followed by or consisting of voir BengakCharters57 et 51 (MW p.178 col1 et Apte p.408 n°8...voir consisting chiefly of Brahmins Apte p.1174) et dans ce cas cela a une implication importante selon laquelle les propriétaires terriens seraient davantage des brahmanes? 
+--> 
                  at Khuḍḍī-Raktamālikā <supplied reason="explanation">‘Minor Red Garland’</supplied>:</p>
 	<p n="2-3">‘Nandabhūti, Brahmin of the Vājasaneya <supplied reason="explanation">school of the Yajurveda</supplied> and Kautsa gotra, 
 	    belonging to the community of <supplied reason="subaudible">Brahmins</supplied> studying the four Vedas of the Mahatī-Raktamālā <foreign>agrahāra</foreign> 
@@ -648,8 +655,7 @@ amwb : by reading to this note, it appears to me that the tag unclear should be 
               </div>
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p>First edited by Arlo Griffiths. Re-edited here with small improvements based on direct inspection of the plate.</p><!-- est ce bien cela que je devais noter -->
+           <p>First edited by Arlo Griffiths. Re-edited here with small improvements based on direct inspection of the plate. The text has been encoded by Amandine Wattelier-Bricout adding some readings from <bibl><ptr target="bib:Dubey+Acharya2014_01"/></bibl> in the apparatus.</p>
         	<listBibl type="primary">
         	    <bibl n="DB"><ptr target="bib:Dubey+Acharya2014_01"/></bibl>
 				<bibl n="AG"><ptr target="bib:Griffiths2015_02"/><citedRange unit="item">I</citedRange><citedRange unit="page">16-27</citedRange></bibl>

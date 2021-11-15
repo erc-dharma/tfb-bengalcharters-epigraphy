@@ -150,7 +150,7 @@ amwb: according to my own reading,  I added a space before the next pāda
                     --><l n="d">pitr̥bhis saha pac<choice><sic>c</sic><corr>y</corr></choice>ate<g type="ddandaHooked">.</g></l></lg>
 
 <lg n="2" met="anuṣṭubh">
-                        <l n="a">ṣaṣṭi-varṣa-sahasrāṇi<space/></l><!-- 
+                        <l n="a">ṣaṣṭi<supplied reason="omitted">ṁ</supplied> varṣa-sahasrāṇi<space/></l><!-- 
 amwb: according to my own reading,  I added a space before the next pāda
                     --><l n="b">svargge modati bhūmi<lb n="20" break="no"/>daḥ</l>
     <l n="c">Ākṣeptā cānumantā ca<space/></l><!-- 
@@ -254,6 +254,10 @@ amwb : add a tag ref when the inscription is encoded in DHARMABASE. For the mome
                    <app loc="17">
                        <lem>śr̥ṅgāṭaka-villikānusāreṇa</lem>
                        <note>Correct <foreign>śr̥ṅgāṭaka-villikā tadanusāreṇa</foreign>?</note>
+                   </app>
+                   <app loc="19">
+                       <lem>ṣaṣṭi<supplied reason="omitted">ṁ</supplied> varṣa°</lem>
+                       <rdg source="bib:Griffiths2015_02">ṣaṣṭi-varṣa°</rdg>
                    </app>
                </listApp>
              </div>

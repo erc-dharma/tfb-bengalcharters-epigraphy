@@ -91,8 +91,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
-            <!--edition encoded as per EGD §§2−7-->
+         <div type="edition" xml:lang="san-Latn">
              <div type="textpart" n="A"><head xml:lang="eng">Primary Seal</head>
              <ab><lb n="1"/>maddhyamaṣaṇḍikavīthyāyuktakādhi
                  <lb n="2" break="no"/>karaṇasya
@@ -279,14 +278,20 @@ puṇyātṣaḍbhāgamādatte nyāyena paripālayan | sarvadānādhikaṁ yasm�
                  <p n="22-6">And it has been said:</p>
                      <p n="1" rend="stanza">The giver of land resides sixty thousand years in heaven;
                          the one who challenges <supplied reason="subaudible">a donation</supplied> as well as 
-                         the one who approves <supplied reason="subaudible">of the challenge</supplied> will reside as many <supplied reason="omitted">years</supplied> in hell.</p>
+                         the one who approves <supplied reason="subaudible">of the challenge</supplied> will reside as many <supplied reason="omitted">years</supplied> in hell.<note>
+                    This verse corresponds to the verse numbered 123 among the Bhūmi Stanzas listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1966_02"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+     </note></p>
                      <p n="2" rend="stanza">You, Yudhiṣṭhira, most excellent of kings,
                          must strenuously protect land previously given to Brahmins. 
-                         Safeguarding is even better than giving.
+                         Safeguarding is even better than giving.<note>
+                    This verse corresponds to the verse numbered 131 among the Bhūmi Stanzas listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1966_02"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+     </note>
                      </p>
                      <p n="3" rend="stanza">
                          The one who would steal land given by himself or another
-                         becomes a worm in excrement and is cooked with his ancestors.
+                         becomes a worm in excrement and is cooked with his ancestors.<note>
+                    This verse corresponds to the verse numbered 132 among the Bhūmi Stanzas listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1966_02"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+     </note>
                      </p>
                     <p>Year 1<gap reason="lost" unit="character" quantity="2"/>, day 13. Written by <gap reason="lost" quantity="2" unit="character"/>; heated by Keśavadatta.
                  </p>
