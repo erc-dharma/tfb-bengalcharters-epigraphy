@@ -124,7 +124,7 @@ According to your note in the app, I removed garu<unclear>ṭṭā</unclear> and
                      <p>yataḥ Evaṁ<!-- dans ton edition 2015 °evaṁvijñāpato collé, faut il le signaler dans l'apparat + lecture différente puisqu'on a °evaṁvijñāpatopala(b) suivi de 7 tirets?--> vijñāp<choice><sic>a</sic><corr>i</corr></choice>to <gap reason="lost" quantity="11" unit="character"/><!-- attention ici dans 2015 tu avais ajouté pala cad vijñāpatopala...doit-on l'ajouter dans l'apparat? 
 --><!-- 
 amwb : after checking again the plate, it is possible to read evaṁvijñāpato<unclear>pala</unclear><gap reason="lost" quantity="7" unit="character"/> 
---><supplied reason="subaudible">.</supplied></p>
+--></p>
                      <p><pb n="1v"/><lb 
                          n="13"/>Ādeśo d<unclear>ā</unclear>kam<!-- 
 je propose une correction de dakam en dākam MW474 "ici quel est le donneur approprié?", en plus sur photo possible de voir un trait au dessus confondu avec fissure de la plaque--><!-- 
@@ -625,12 +625,14 @@ uttara ifc plutôt le sens de followed by or consisting of voir BengakCharters57
                  <p>Year: 484 CE</p>
 	<p>Date: June 21</p>
 	<p>Weekday: Thursday</p>
-<p>As  <bibl><ptr target="bib:Fleet1891_06"/></bibl> indicates, the year also corresponds to 407 Śaka current <supplied reason="explanation"><foreign>vartamāna</foreign></supplied>. This in turn is equivalent to 406 Śaka elapsed (<supplied reason="explanation"><foreign>atīta</foreign></supplied>). The date of the inscription that concerns us here is six years before this:</p>
+<p>As  <bibl><ptr target="bib:Fleet1891_06"/></bibl> indicates, the year also corresponds to 407 Śaka current <supplied reason="explanation"><foreign>vartamāna</foreign></supplied>. This in turn is equivalent to 406 Śaka elapsed <supplied reason="explanation"><foreign>atīta</foreign></supplied>. The date of the inscription that concerns us here is six years before this:</p>
 	<p>Year: 159</p> 
 	<p>Date: Jyeṣṭha, 8</p>
 	<p>Weekday: not specified</p>
 <p>Thus 159 Gupta is 401 Śaka current or 400 Śaka elapsed, i.e. 478/9 CE. </p>
-                 <p>We lack several parameters that would be required to be able to determine with certainty the precise Julian date. The <foreign>pakṣa</foreign> (waxing or waning) is rarely specified in any Gupta-period inscriptions, and we do not have any explicit statement at all as to whether the system of month naming was <foreign>pūrṇimānta</foreign> or <foreign>amānta</foreign>.<note>See <bibl><ptr target="bib:Yano1994_01"/><citedRange unit="page">229</citedRange></bibl>.</note> It is also uncertain whether the system for day-numbering was continuous <supplied reason="explanation">from 1 through 30</supplied> or resumed from 1 at the second <foreign>pakṣa</foreign> <supplied reason="explanation">1–15+1–15</supplied>. Given these facts, three <foreign>prima facie</foreign> equally viable conversions may be obtained using the Pancanga program developed by Michio Yano and Makoto Fushimi (http://www.cc.kyoto-su.ac.jp/~yanom/pancanga/)<!-- il doit certainement y avoir un moyen de créer un lien hypertexte vers le site mais je n'ai pas trouvé dans le guide, sans doute avec balise ptr? -->, in which the years are reckoned as <foreign>atīta</foreign>:</p>
+                 <p>We lack several parameters that would be required to be able to determine with certainty the precise Julian date. The <foreign>pakṣa</foreign> (waxing or waning) is rarely specified in any Gupta-period inscriptions, and we do not have any explicit statement at all as to whether the system of month naming was <foreign>pūrṇimānta</foreign> or <foreign>amānta</foreign>.<note>
+                     See <bibl><ptr target="bib:Yano1994_01"/><citedRange unit="page">229</citedRange></bibl>.
+                 </note> It is also uncertain whether the system for day-numbering was continuous <supplied reason="explanation">from 1 through 30</supplied> or resumed from 1 at the second <foreign>pakṣa</foreign> <supplied reason="explanation">1–15+1–15</supplied>. Given these facts, three <foreign>prima facie</foreign> equally viable conversions may be obtained using the Pancanga program developed by Michio Yano and Makoto Fushimi (http://www.cc.kyoto-su.ac.jp/~yanom/pancanga/)<!-- il doit certainement y avoir un moyen de créer un lien hypertexte vers le site mais je n'ai pas trouvé dans le guide, sans doute avec balise ptr? -->, in which the years are reckoned as <foreign>atīta</foreign>:</p>
 <p><foreign>pūrṇimānta</foreign>: 478 5 11 Thursday, 400 Śaka, Nija-Jyaiṣṭha, <foreign>kr̥ṣṇapakṣa</foreign> 8</p>
   <p><foreign>pūrṇimānta</foreign>/<foreign>amānta</foreign>: 478 5 25 Thursday, 400 Śaka, Nija-Jyaiṣṭha, <foreign>śuklapakṣa</foreign> 8 </p>
 <p><foreign>amānta</foreign>: 478 6 9 Friday, 400 Śaka, Nija-Jyaiṣṭha <foreign>kr̥ṣṇapakṣa</foreign> 8 </p>
