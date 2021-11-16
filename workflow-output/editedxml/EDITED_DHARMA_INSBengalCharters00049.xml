@@ -615,23 +615,17 @@ A note is necessary on this translation. Predecessors have assumed Darvīkarma 
 in a place that does not conflict with your own cultivation; 
 shall limit them in the four directions 
 with long-lasting markers such as <supplied reason="explanation">pots filled with</supplied><note>
-This interpretation is based on the Smr̥ti passages cited in the commentary.<!-- 
-amwb : I am not sure that it is necessary to supply "pots filled with".
-See two references without pots 
-1. Manusmṛti here (Olivelle's translation):
-8.249 "Seeing that in the world controversies constantly arise due to people's ignorance of boundaries, he should also have other concealed boundary markers ensconced -8.250 stones, bones, cow's hair, chaff, ashes, potsherds, dried cow dung, bricks, coal (aṅgāra), pebbles, and sand. 
-upachannāni cānyāni sīmāliṅgāni kārayet |
-sīmājñāne nṛṇāṁ vīkṣya nityaṁ loke viparyayam || MDh 8.249 ||
-aśmano 'sthīni govālāṁs tuṣān bhasma kapālikāḥ |
-karīṣam iṣṭakāṅgārāṁś śarkarā vālukās tathā || MDh 8.250[M248] || 
-
-2. We can also quote Yājñavalkya 2.154-5 who uses nimna 
-sīmno vivāde kṣetrasya sāmantāḥ sthavirā gaṇāḥ |
-gopāḥ sīmnaḥ kṛśāno'nye sarve ca vanagocarāḥ || 154
-nayeyur ete sīmāntaṃ sthalāṅgāratuṣadrumaiḥ |
-setuvalmīkanimnāsthicaityādyair upalakṣitam || 155
-When there is a dispute regarding a boundary of a field, neighbours, elderly people, persons from an association, herdmen, others famers near the boundary, and all men roaming in the forest should ascertain the boundary revealed by mounds (sthala), charcoal (aṅgāra), chaff (tuṣa), and trees (druma), and by dikes (setu), anthills (valmīka), trenches (nimna), bones (asthan), shrines (caitya), and the like. 
-After writting this note, I realize that Sircar1965_02 (note 1p.345) had already quoted these passages (Manu + Yajna + Brhaspati quoted in the commentary)... so my contribution is only the addition of Olivelle's translation.-->
+This interpretation is based on the Smr̥ti passages cited in the commentary. Others sources give details about the manner to mark boundaries. For example, <title>Manusmr̥ti</title> 8.249-50 suggests demarcating boundaries by several objects (translation <bibl><ptr target="bib:Olivelle2005_01"/></bibl>): 
+<p rend="stanza" n="249"><foreign>upachannāni cānyāni sīmāliṅgāni kārayet</foreign> <g type="danda">.</g>
+<foreign>sīmājñāne nṛṇāṁ vīkṣya nityaṁ loke viparyayam</foreign> <g type="ddanda">.</g></p>
+<p rend="stanza" n="250"><foreign>aśmano ’sthīni govālāṁs tuṣān bhasma kapālikāḥ</foreign> <g type="danda">.</g>
+<foreign>karīṣam iṣṭakāṅgārāṁś śarkarā vālukās tathā</foreign> <g type="ddanda">.</g></p>
+<p rend="stanza">Seeing that in the world controversies constantly arise due to people’s ignorance of boundaries, he should also have other concealed boundary markers ensconced stones, bones, cow’s hair, chaff, ashes, potsherds, dried cow dung, bricks, coal <supplied reason="explanation"><foreign>aṅgāra</foreign></supplied>, pebbles, and sand.</p>
+<p>Yājñavalkya’s <title>Dharmaśāstra</title> 2.154-5 gives also a list of materials used to mark boundaries (translation <bibl><ptr target="bib:Olivelle2019_01"/></bibl>:</p>
+	<p rend="stanza" n="154"><foreign>sīmno vivāde kṣetrasya sāmantāḥ sthavirā gaṇāḥ</foreign> <g type="danda">.</g> <foreign>gopāḥ sīmnaḥ kṛśāno’nye sarve ca vanagocarāḥ</foreign> <g type="ddanda">.</g></p>
+	<p rend="stanza" n="155"><foreign>nayeyur ete sīmāntaṃ sthalāṅgāratuṣadrumaiḥ</foreign> <g type="danda">.</g> <foreign>setuvalmīkanimnāsthicaityādyair upalakṣitam</foreign> <g type="ddanda">.</g></p>
+	<p>When there is a dispute regarding a boundary of a field, neighbours, elderly people, persons from an association, herdmen, others famers near the boundary, and all men roaming in the forest should ascertain the boundary revealed by mounds <supplied reason="explanation"><foreign>sthala</foreign></supplied>, charcoal <supplied reason="explanation"><foreign>aṅgāra</foreign></supplied>, chaff <supplied reason="explanation"><foreign>tuṣa</foreign></supplied>, and trees, and by dikes, anthills, trenches, bones, shrines, and the like. </p>
+	<p>See also <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="note">7</citedRange><citedRange unit="page">358</citedRange></bibl></p>
 </note> 
 chaff or charcoal; shall make the donation and shall protect it in perpetuity according to the rule of a permanent endowment. And out of deference to this rule it is to be protected by present and future administrators, etc.
 </p>
@@ -693,7 +687,7 @@ These translated stanzas seem to correspond to the following in the <title>Br̥h
 </p>
 		</div>
 		<div type="bibliography">
-			 <p>First reported and edited in <bibl><ptr target="bib:Basak1931-1932_01"/></bibl>. Recorded in <bibl><ptr target="bib:ARIE1956-1957"/><citedRange unit="page">27</citedRange><citedRange unit="item">15</citedRange><citedRange unit="appendix">A</citedRange></bibl> and <bibl><ptr target="bib:ARIE1961-1962"/><citedRange unit="page">38</citedRange><citedRange unit="item">22</citedRange><citedRange unit="appendix">1</citedRange></bibl>. Re-edited by Arlo Griffiths, using photos furnished by Ryosuke Furui. The text has been encoded by Amandine Wattelier-Bricout using a digital edition created by Dániel Balogh for the Siddham project as starting point. Since some readings differ from this previous digital edition, they are reported in the apparatus.</p>
+			 <p>First reported and edited in <bibl><ptr target="bib:Basak1931-1932_01"/></bibl>. Recorded in <bibl><ptr target="bib:ARIE1956-1957"/><citedRange unit="page">27</citedRange><citedRange unit="item">15</citedRange><citedRange unit="appendix">A</citedRange></bibl> and <bibl><ptr target="bib:ARIE1961-1962"/><citedRange unit="page">38</citedRange><citedRange unit="item">22</citedRange><citedRange unit="appendix">1</citedRange></bibl>. Re-edited by Arlo Griffiths, using photos furnished by Ryosuke Furui. The text has been encoded by Amandine Wattelier-Bricout using a digital edition created by Dániel Balogh for the Siddham project as starting point. Since some readings differ from this previous digital edition, they are reported in the apparatus. Some notes in the translation has been added by Amandine Wattelier-Bricout.</p>
         	<listBibl type="primary">
 				<bibl n="RB"><ptr target="bib:Basak1931-1932_01"/></bibl>
                <bibl n="S"><ptr target="bib:Sircar1965_02"/><citedRange unit="item">III</citedRange><citedRange unit="entry">no. 41</citedRange><citedRange unit="page">355-9</citedRange><citedRange unit="figure">pl. L–LI</citedRange></bibl>
