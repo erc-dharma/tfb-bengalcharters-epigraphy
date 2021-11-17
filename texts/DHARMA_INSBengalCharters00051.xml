@@ -126,7 +126,7 @@
                  <l n="c">mahī<supplied reason="omitted">ṁ</supplied> mahīmatāṁ śre<lb n="21" break="no"/>ṣṭha</l>
                  <l n="d">dā<choice><sic>ṇ</sic><corr>n</corr></choice>āc chreyo 'nupāla<unclear>n</unclear>a<foreign>M</foreign></l>
              </lg>
-             <lg n="4" met="upodgāta">
+             <lg n="4" met="upodgātā">
                  <l n="a"><surplus>de</surplus> puruṣasya bha<unclear>va</unclear>n<unclear>t</unclear>i ye sahāy<choice><sic>ā</sic><corr>āḥ</corr></choice></l>
                  <l n="b">kaluṣe karmmaṇi dharmma-<unclear>sañcaye</unclear><gap reason="lost" unit="character" quantity="1"></gap></l>
                  <l n="c"><unclear>A</unclear>vagacchati <unclear>me</unclear> <lb n="22"/> ta<unclear>v</unclear>āntarā<unclear>tmā</unclear></l>
@@ -237,17 +237,25 @@ Dans Gautamadharmasūtra 10.24 au sujet des taxes on retrouve la notion d'un six
                  separate them off using two reeds, eight by ninefold according to the convention of the district, in a place that does not conflict with the cultivation of the landholders; shall make <supplied reason="explanation">the fields</supplied> delimited by markers of the four boundaries; shall make the donation and shall protect it in perpetuity according to the law on permanent endowments. </p>
              <p n="18-22">And there are also verses pronounced by Vyāsa and Manu: </p>
              <p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.<note>
-                    This verse corresponds to the verse numbered 132 among the Bhūmi Stanzas listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1966_02"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
      </note></p>
               <p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who condones <supplied reason="explanation">the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
-                    This verse corresponds to the verse numbered 123 among the Bhūmi Stanzas listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1966_02"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
      </note></p>
-              <p n="3" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.</p>
+              <p n="3" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.<note>
+                    This verse corresponds to the verse numbered 131 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
               <p n="4" rend="stanza">My inner spirit understands that those companions a man has in action that brings defilement or for collecting merit inevitably also get a share of it .<note>
-                  This verse matches with the verse 5.77 of Aśvaghoṣa's <title>Buddhacarita</title> (Cowell's edition with translation from <bibl><ptr target="bib:Johnston1936_01"/></bibl>) :
-                  <p rend="stanza" n="77"><foreign>iha caiva bhavanti ye sahāyāḥ  kaluṣe karmaṇi dharmaṇi dharma-saṃśraye vā</foreign> <g type="danda">.</g>
-<foreign>avagacchati me yathāntarātmā niyataṃ te 'pi janās tad-aṃśa-bhājaḥ</foreign> <g type="danda">.</g></p>
-                  <q>Moreover as for those who are companions in this world wether in action that brings defilement or in resort to <foreign>dharma</foreign>, undoubtedly they too, as my inner soul realises, take their share of the fruit.</q>
+                  This verse matches more or less with the verses 5.76-8 of Aśvaghoṣa's <title>Buddhacarita</title> (edition and translation <bibl><ptr target="bib:Johnston1935-1936_01"/></bibl>): 
+                  <q><foreign>sulabhāḥ khalu saṁyuge sahāyā viṣayāvāptasukhe dhanārjane vā</foreign> <g type="danda">.</g>
+<foreign>puruṣasya tu durlabhāḥ sahāyāḥ patitasyāpadi dharmasaṁśraye vā</foreign> <g type="ddanda">.</g> 76 <g type="ddanda">.</g>
+<foreign>iha caiva bhavanti ye sahāyāḥ kaluṣe karmaṇi dharmasaṁśraye vā</foreign> <g type="danda">.</g>
+<foreign>avagacchati me yathāntarātmā niyataṁ te ’pi janās tadaṁśabhājaḥ</foreign> <g type="ddanda">.</g> 77 <g type="ddanda">.</g>
+<foreign>tad idaṁ parigamya dharmayuktaṁ mama niryāṇam ito jagaddhitāya</foreign> <g type="danda">.</g>
+<foreign>turagottama vegavikramābhyāṁ prayatasvātmahite jagaddhite ca</foreign> <g type="ddanda">.</g> 78 <g type="danda">.</g></q>
+                  <q>75. Easy it is to find companions for battle, for the pleasure of acquiring objects of sense and for the accumulation of wealth; but hard it is for a man to find companions, when he has fallen into distress or attaches himself to dharma.
+76. Moreover as for those who are companions in this world whether in action that brings defilement or in resort to dharma, undoubtedly they too, as my inner soul realises, take their share of the fruit.
+77. Understand therefore, O best of steeds, this my departure from here to be connected with dharma for the benefit of the world, and strive with speed and courage in a matter which concerns your own good and the good of the world alike.</q>
               </note></p>
              <p n="22">Year 159, <supplied reason="explanation">month of</supplied> Jyeṣṭha, day 1. Written by that Sumati.
 </p>
