@@ -81,6 +81,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2021-11-17" status="draft">Line alignment of line 75 encoded as space.</change>
             <change who="part:ryfu" when="2021-11-12" status="draft">Text, Apparatus, Commentary and Bibliography encoded.</change>            
             <change who="part:ryfu" when="2021-11-11" status="draft">Initial encoding</change>
             <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
@@ -340,7 +341,7 @@
                 <lg n="41" met="vasantatilakā">
                     <l n="a">Etena sāndra-kali-kalmaṣa-taskareṇa</l>
                     <l n="b">tasyānavadya-yaśasaḥ sukr̥tādbhutena<g type="dandaStrokeLeft">.</g></l>
-                    <l n="c">sansāriṇām bhavatu sarvva-bha<lb n="75" break="no"/>ya-praśāntir</l>
+                    <l n="c">sansāriṇām bhavatu sarvva-bha<lb n="75" break="no"/><space unit="character" quantity="16"/>ya-praśāntir</l>
                     <l n="d">vviśvānukampini dr̥ḍhā sugate ca bhaktiḥ<g type="ddandaStrokeLeft">.</g></l>
                 </lg>
                 <lg n="42" met="anuṣṭubh">
@@ -395,7 +396,6 @@
          </div>
          <div type="commentary">
              <div type="textpart" n="D"><head xml:lang="eng">Plate</head>
-                 <p n="75">This line is shorter and aligned to the centre.</p>
                  <p n="76">This line is engraved at the bottom of the plate, with two lines of space between it and the penultimate line.</p>             
              </div>
          </div>
