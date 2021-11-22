@@ -106,13 +106,13 @@
              <p>
                  <lb n="15"/><supplied reason="lost">Ava</supplied>dhā<unclear>ra</unclear>ṇa<unclear>y</unclear><supplied reason="lost">ā</supplied><unclear>vadhr̥tya</unclear> nāgavaso<unclear>ḥ</unclear> sakāśād dīnāra-catuṣṭayam āy<unclear>ī</unclear>
                  <lb n="16" break="no"/>kr̥tya dīyatām iti</p> <p>śiṣīpuñja-śrīgohālī-grāmakūṭagohālyāñ ca vihāratrayy<supplied reason="lost">āṁ</supplied> 
-                 <lb n="17"/>kṣamanācāryya-jinadāsa-ka<unclear>r</unclear>ṇṇakābhyā<surplus>ṁ</surplus>m adhiṣṭhit<unclear>ayo</unclear> bhaga<unclear>va</unclear>tām arhatāṁ gandha
+                 <lb n="17"/>kṣamanācāryya-jinadāsa-ka<unclear>r</unclear>ṇṇakābhyā<surplus>ṁ</surplus>m adhiṣṭhit<choice><sic><unclear>ayo</unclear></sic><corr>āyāṁ</corr></choice> bhaga<unclear>va</unclear>tām arhatāṁ gandha
                  <lb n="18" break="no"/>-dhūpa-sumano-dīpa-bali-caru-nivedyādi-pravarttanāya ni<supplied reason="omitted">r</supplied>grantha-putra-jitānā
-                 <lb n="19" break="no"/>gatabhyāgatānān ta<choice><sic>n</sic><corr>n-n</corr></choice>ivāsināñ cā<supplied reason="lost">n</supplied>y<unclear>ā</unclear>dyapiṇḍa-pānipāt<choice><sic><unclear>r̥</unclear></sic><corr>ri</corr></choice>kādi-bhojya-khaṇḍa
-                 <lb n="20" break="no"/>-phuṭṭa-pratisaṁskārādyartth<choice><sic>a</sic><corr>aṁ</corr></choice> śiṣīpuñja-khila-kṣettrasyārddha-kulyavāp<choice><sic>a</sic><corr>aṁ</corr></choice> maddhyamasr̥
+                 <lb n="19" break="no"/>gat<choice><sic>a</sic><corr>ā</corr></choice>bhyāgatānān ta<choice><sic>n</sic><corr>n-n</corr></choice>ivāsināñ cā<supplied reason="lost">n</supplied>y<unclear>ā</unclear>dyapiṇḍa-pānipāt<choice><sic><unclear>r̥</unclear></sic><corr>ri</corr></choice>kādi-bhojya-khaṇḍa
+                 <lb n="20" break="no"/>-phuṭṭa-pratisaṁskārādyarttha<supplied reason="omitted">ṁ</supplied> śiṣīpuñja-khila-kṣettrasyārddha-kulyavāpa<supplied reason="omitted">ṁ</supplied> maddhyamasr̥
                  <lb n="21" break="no"/>gālikāyāṁ khila<unclear>kṣ</unclear>ettrasya kulyavāpaṁ grāmakū<choice><sic>p</sic><corr>ṭ</corr></choice>agohālyāṁ khila-kṣettrasyārddha-kulya
                  <lb n="22" break="no"/>vāpaṁ Evaṁ samudaya-bāhyāpratikara-khila-kṣettrasya kulyavāpadvayaṁ <surplus>da</surplus> 
-                 <lb n="23" break="no"/>vihāratra<unclear>ya</unclear> tad yuṣmābhiḥ sva-karṣaṇāvirodhisthāne ṣaṭ-kanalair apavi
+                 <lb n="23" break="no"/>vihāratra<choice><sic><unclear>ya</unclear></sic><corr>yyāṁ</corr></choice> tad yuṣmābhiḥ sva-karṣaṇāvirodhisthāne ṣaṭ-kanalair apavi
                  <lb n="24" break="no"/>ñ<unclear>cch</unclear>ya dātavy<choice><sic>ā</sic><corr>a</corr></choice>m akṣaya-nīvī-dharmmeṇa ca śaśvat-kālam anupālyam iti</p> <p>U<unclear>ktaṁ</unclear> 
                  <lb n="25"/><unclear>bhagava</unclear>tā vyāsena <space unit="character" quantity="1"/> 
              </p>
@@ -188,20 +188,20 @@
                    </app>
                    <app loc="16">
                        <lem>vihāratrayy<supplied reason="lost">āṁ</supplied> 
-                 <lb n="17"/>kṣamanācāryya-jinadāsa-ka<unclear>r</unclear>ṇṇakābhyā<surplus>ṁ</surplus>m adhiṣṭhit<unclear>ayo</unclear></lem>
+                 <lb n="17"/>kṣamanācāryya-jinadāsa-ka<unclear>r</unclear>ṇṇakābhyā<surplus>ṁ</surplus>m adhiṣṭhit<choice><sic><unclear>ayo</unclear></sic><corr>āyāṁ</corr></choice></lem>
                        <note>Emend <foreign>vihāratrayyāṁ kṣamaṇācāryya-jinadāsa-ka<unclear>r</unclear>ṇṇakābhyām adhiṣṭhitāyāṁ</foreign>. Cf. line 7–8 above, <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur</ref>, line 6 (<foreign>śramaṇācāryya</foreign>) and 6/13 (<foreign>adhiṣṭhita<supplied reason="lost">sad</supplied>vihāre</foreign>); see also discussion in <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="page">46-7</citedRange></bibl>. Confusion of <foreign>ṇ</foreign>/<foreign>n</foreign> is observed also elsewhere in this text, and throughout the corpus; but in line 7 it is clearly not -<foreign>trayyāṁ</foreign> that has been written. </note>
                    </app>
                    <app loc="18">
                        <lem>ni<supplied reason="omitted">r</supplied>grantha-putra-jitānā
-                 <lb n="19" break="no"/>gatabhyāgatānān</lem>
-                       <note>Emend <foreign>nirgrantha-putra-jitānāgatābhyāgatānān</foreign>. Cf. line 9.</note>
+                 <lb n="19" break="no"/>gat<choice><sic>a</sic><corr>ā</corr></choice>bhyāgatānān</lem>
+                       <note> Cf. line 9.</note>
                    </app>
                    <app loc="19">
                        <lem>cā<supplied reason="lost">n</supplied>y<unclear>ā</unclear>dyapiṇḍa-pānipāt<choice><sic><unclear>r̥</unclear></sic><corr>ri</corr></choice>kādi-bhojya-</lem>
                        <note>Cf. line 10.</note>
                    </app>
-                   <app loc="20">
-                       <lem>vihāratra<unclear>ya</unclear></lem>
+                   <app loc="23">
+                       <lem>vihāratra<choice><sic><unclear>ya</unclear></sic><corr>yyāṁ</corr></choice></lem>
                        <note>It is unclear whether the plate is very worn here, or whether the original engraving was not carried out properly; emend <foreign>vihāratrayyāṁ</foreign>?</note>
                    </app>
                </listApp>
@@ -294,7 +294,7 @@ amwb 2021-07-19: I suggest changing the translation "council of the capital" by 
              <p>Year 198, Śrāvaṇa, day <gap reason="lost" quantity="1" unit="character"/> .
              </p>
              </div>
-             <div type="textpart" n="B"><head xml:lang="eng">New translation 3-13</head>
+             <div type="textpart" n="B"><head xml:lang="eng">Translation modified with some suggestions of Amandine Wattelier-Bricout</head>
              <!-- Ici je propose une nouvelle trad de 3-13 parce que je n'ai pas compris comment tu interprétais le génitif vihaaratrayasya et l'accusatif vihaaradvayam -->
                  <p n="1-3">Hail! From Puṇḍravardhana, the officials and the city council <supplied reason="explanation"><foreign>adhiṣṭhānādhikaraṇa</foreign></supplied><note>
                      The expression <foreign>adhiṣṭhānādhikaraṇa</foreign> can be found in <ref target="DHARMA_INSBengalCharters00047.xml">Damodarpur plate #1</ref> line 4, <ref target="DHARMA_INSBengalCharters00048.xml">Damodarpur plate #2</ref> line 4, <ref target="DHARMA_INSBengalCharters00053.xml">Damodarpur #4</ref>, lines 3-4, <ref target="DHARMA_INSBengalCharters00056.xml">Damodarpur #5</ref> in the seal and line 4, and finally in <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur Charter of the Time of Budhagupta</ref> line 1. The different translations suggested for this expression are reported below :
@@ -326,7 +326,7 @@ amwb 2021-07-19: I suggest changing the translation "council of the capital" by 
                      <p n="5-13"><q>Thus <supplied reason="explanation">tad</supplied>, be so kind to use, <!-- l5 : tad arhatha anenaiva krameṇa -->
                      for me too,<!-- mamāpy : au sujet du génitif ici, on pourrait y voir un génitif d'intention décrit par Renou §222, D, petit b pa. 307 "génitif de la personne intéressée et qui apparaît préférablement dans les pronoms : que vous daignez arhatha pour ma personne aussi (user/utiliser/respecter) précisément cette procédure. Je propose de transformer l'idée contenue dans l'instrumental par le verbe "utiliser" + COD, puis de suppléer une coordination pour relier arhata et daatum. Sinon la phrase devient illisible... -->
                      this very procedure
-                     <note>Here the instrumental <foreign>anenaiva krameṇa</foreign> is rendered by the expression "use this very procedure".</note>
+                     <note>Here the instrumental <foreign>anenaiva krameṇa</foreign> is rendered by the expression "use this very procedure". By this way, the genitive <foreign>mamāpy</foreign> could be analysed as a genitive of purpose in a broader meaning. Nāgavasu asks the customary procedure be applied to him as well. This kind of genitive is usually used with the pronouns <supplied reason="explanation">see <bibl><ptr target="bib:Renou1975_01"/><citedRange unit="item">222.D.b</citedRange><citedRange unit="page">307</citedRange></bibl></supplied>.  </note>
                       between the monasteries of Śiṣīpuñja <supplied reason="subaudible">and of Śrīgohālī</supplied> <!--śiṣīpuñja<gap reason="lost" unit="character" quantity="9"/>vihāra-dvayaṁ : sinon je ne comprends pas l'accusatif ici je le prends en adv cf MW  ) je remplace ici Madhyamasr̥gālikā par Śrīgohālī pour suivre la logique de l'autre partie d'inscription -->
                      <supplied reason="subaudible">and</supplied> for the triple monasterie <!-- <gap reason="lost" unit="character" quantity="4"/>vihāra-trayasya: genitif adverbal Renou 222, D,b  p307 pour? -->
                      <supplied reason="subaudible">called...?</supplied> whose ornament <!--emendation maṇḍana? --> is made by a brāhmaṇa (?) <!--brāhmaṇā <gap reason="lost" unit="character" quantity="2"/>ṇḍanakār<unclear>i</unclear>taka-vihāra : j'avoue qu'ici le texte lacunaire pose pb on traya- et deux fois vihaara ce qui n'est pas très logique... -->
@@ -344,8 +344,8 @@ amwb 2021-07-19: I suggest changing the translation "council of the capital" by 
                      for morsels which were intended to be eaten by others, and others, <!--cany<unclear>ā</unclear>dyapiṇḍa-pānipātr̥kād<unclear>i</unclear>-bhojya-khaṇḍa-phuṭṭa-pratisaṁskārādy=-->
                      among the Nigranthaputras who have defeated past and future <supplied reason="explanation"><foreign>karman</foreign></supplied> <!---->
                      resident there, <!--tanivāsināñ-->
-                     [and be so kind] <supplied reason="explanation">arhatha l.5</supplied> <!-- répétition qui me semble nécessaire pour structurer la phrase et la rendre compréhensible -->
-                     to give <supplied reason="explanation">dātum l.13</supplied>
+                     <supplied reason="subaudible">and be so kind</supplied> <supplied reason="explanation"><foreign>arhatha</foreign> line 5</supplied> <!-- répétition qui me semble nécessaire pour structurer la phrase et la rendre compréhensible -->
+                     to give <supplied reason="explanation"><foreign>dātum</foreign> line 13</supplied>
                      two <foreign>kulyavāpa</foreign>s of waste land yielding no tax <!--Apratikarakhilakṣettrasya kuvāpadvayaṃ-->
                      <supplied reason="explanation">divided</supplied> as follows <supplied reason="explanation">evam l.12</supplied>,
                      a half <foreign>kulyavāpa</foreign> of waste land at Śiṣīpuñja,<!--śiṣīpuñja-khila-kṣettras<unclear>y</unclear>ār<unclear>ddha</unclear>-kulyavāpaṁ-->
@@ -365,28 +365,43 @@ amwb 2021-07-19: I suggest changing the translation "council of the capital" by 
                  </p>
                  <p n="16-24">
                       And <supplied reason="subaudible">they inform that</supplied> <supplied reason="explanation"><foreign>bodhayanti</foreign> l.3</supplied> <!-- pour moi le ca est à contruire avec le bodhayanti l.3 : ils informent que Nagavasu blablabla, ce qui a amené à une confirmation des record-keeper et que les 2 kulyavapa doivent être donnés  --> 
-                     the two <foreign>kulyavāpa</foreign>s of waste land without revenue charges and yielding no tax — precisely <supplied reason="explanation">evam</supplied> <supplied reason="explanation">made of</supplied> <!-- °evaṁ samudayabāhyāpratikarakhilakṣettrasya kulyavāpadvayaṁ da-->
+                     the two <foreign>kulyavāpa</foreign>s of waste land without revenue charges and yielding no tax — precisely <supplied reason="explanation">evam</supplied> <supplied reason="explanation">made of</supplied> <!-- °evaṁ samudayabāhyāpratikarakhilakṣettrasya kulyavāpadvayaṁ -->
                  a half <foreign>kulyavāpa</foreign> of waste land at Śiṣīpuñja, <!-- śiṣīpuñjakhilakṣettrasyārddhakulyavāpa -->
                  a <foreign>kulyavāpa</foreign> of waste land at Madhyamasr̥gālikā <!-- maddhyamasr̥(21)gālikāyāṁ khila(kṣ)ettrasya kulyavāpaṁ -->
                  <supplied reason="explanation">and</supplied> a half <foreign>kulyavāpa</foreign> of waste land at Grāmakūṭagohālī — <!-- grāmakūpagohālyāṁ khilakṣettrasyārddhakulya(22)vāpaṁ -->
                  for the regular performance of <supplied reason="explanation">offerings of</supplied> perfume, incense, flowers, 
                  lamps, grain oblation, rice oblation, food oblation, etc.,  <!-- gandha(18)dhūpasumanodīpabalicarunivedyādipravarttanāya  -->
                  to the venerable Arhants <!-- bhaga(va)tām arhatāṁ  -->
-                 at the three monasteries at Śiṣīpuñja, Śrīgohālī
+                 <supplied reason="subaudible">dwelling</supplied> in the three monasteries at Śiṣīpuñja, Śrīgohālī
                  <note>Note that this toponym, also found in the <ref target="DHARMA_INSBengalCharters00050.xml">fragment from Baigram</ref> and the <ref target="DHARMA_INSBengalCharters00049.xml">Baigram plate</ref>, here takes the place of Madhyamasr̥gālikā.</note> 
                  and Grāmakūṭagohālī, <!-- śiṣīpuñjaśrīgohālīgrāmakūṭagohālyāñ ca vihāratrayy[āṁ] -->
-                 superintended by the ascetic masters Jinadāsa and Karṇaka, <!-- kṣamanācāryyajinadāsaka(r)ṇṇakābhyāṁm adhiṣṭhit(ayo) -->
-                 and for the sake of food for those who use their <supplied reason="explanation">cupped</supplied> hands as bowl 
-                 for morsels which were intended to be eaten by others, <!-- cā[n]y(ā)dyapiṇḍapānipāt(r̥)kādibhojyakhaṇḍa(20)phuṭṭapratisaṁskārādyarttha  -->
-                 and others, among the Nigranthaputras 
-                 who have defeated past and future <supplied reason="explanation"><foreign>karman</foreign></supplied> resident there, <!-- nigranthaputrajitānā(19)gatabhyāgatānān tanivāsināñ  -->
-                 as well as repairs, etc., of what is broken into pieces, 
-                 are to be given <!-- dātavyām -->
+                 superintended by the two ascetic masters Jinadāsa and Karṇaka; <!-- kṣamanācāryyajinadāsaka(r)ṇṇakābhyāṁm adhiṣṭhit(ayo) -->
+                 and to their inhabitants who are the Nigranthaputras who have defeated past and future <supplied reason="explanation"><foreign>karman</foreign></supplied><!-- nigranthaputrajitānā(19)gatabhyāgatānān tanivāsināñ  -->
+                 for the sake of <supplied reason="subaudible">providing</supplied> their food by beginning <supplied reason="explanation">by the food of</supplied> those who use their <supplied reason="explanation">cupped</supplied> hands as bowl for morsels which were intended to be eaten by others, <!-- cā[n]y(ā)dyapiṇḍapānipāt(r̥)kādibhojyakhaṇḍa(20)phuṭṭapratisaṁskārādyarttha  -->
+                 <supplied reason="explanation">and for the sake of</supplied> repairing what is broken into pieces or cracked, 
+                 all of this <supplied reason="explanation"><foreign>tad</foreign></supplied> is to be given <!-- dātavyām -->
                  by you to the three monasteries, <!-- yuṣmābhiḥ + vihāratra(ya) (vihāratrayyāṁ?) -->
                  after you have separated them off with sixfold reeds <supplied reason="explanation"><foreign>ṣaṭkanala</foreign></supplied> <!-- ṣaṭkanalair apavi(24)ñ(cch)ya -->
                  in a place that does not conflict with your own cultivation, <!-- svakarṣaṇāvirodhisthāne -->
-                 and are to be protected in perpetuity in accordance with the law on permanent endowments.<!-- akṣayanīvīdharmmeṇa ca śaśvatkālam anupālyam iti -->
+                 and is to be protected in perpetuity in accordance with the law on permanent endowments.<!-- akṣayanīvīdharmmeṇa ca śaśvatkālam anupālyam iti -->
                  </p>
+                 <p n="24-6">
+                 It has been said by the venerable Vyāsa:
+             </p>
+             <p n="1" rend="stanza">
+                 The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.<note>
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note>
+             </p>
+             <p n="2" rend="stanza">
+                 The giver of land revels sixty thousand years in heaven; 
+                 the one who challenges <supplied reason="explanation">a donation</supplied> 
+                 as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note>
+             </p>
+             <p>Year 198, Śrāvaṇa, day <gap reason="lost" quantity="1" unit="character"/> .
+             </p>
              </div>
          </div>
          <div type="commentary">           
