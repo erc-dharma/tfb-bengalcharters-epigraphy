@@ -295,8 +295,9 @@ amwb : added a space according to Arlo's reading
 --></l>
 </lg>
 <lg n="2" met="anuṣṭubh">
-<l n="a">ṣaṣṭ<choice><sic>a</sic><corr>i</corr></choice>-varṣa-sahasrāṇi<!-- 
+<l n="a">ṣaṣṭ<choice><sic>a</sic><corr>iṁ</corr></choice>-varṣa-sahasrāṇi<!-- 
 amwb : removed Sircar's reading (ṣaṣṭiṁ varṣa-sahasrāṇi) and replaced it by Arlo's one 
+amwb : 2021-11-23 added the correction according to Sircar's list of Bhūmidāna stanzas
 --></l>
 <l n="b">svargge vasati bhūmi<lb n="26" break="no"/>-daḥ</l>
 <l n="c">Ākṣeptā c<choice><sic>a</sic><corr>ā</corr></choice>numantā<!-- 
@@ -706,7 +707,7 @@ n="24" break="no"/>kṣyākṣaya</lem>
 					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01 bib:Balogh+al2019_01"><choice><sic>nīvyānupālanīyā</sic><corr>nīvy anupālanīyā</corr></choice></rdg>
 				</app>
 				<app loc="25">
-					<lem>ṣaṣṭ<choice><sic>a</sic><corr>i</corr></choice>-varṣa-sahasrāṇi</lem>
+					<lem>ṣaṣṭ<choice><sic>a</sic><corr>iṁ</corr></choice>-varṣa-sahasrāṇi</lem>
 					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01 bib:Balogh+al2019_01">ṣaṣṭiṁ varṣa-sahasrāṇi</rdg>
 				</app>
 				<app loc="26">
@@ -817,10 +818,18 @@ amwb : I know that the reading of deva is not sure but shouldn't we translate it
 -->; and the boundary in the West is Nābhrakasataka <supplied reason="explanation">?</supplied>; the boundary in the North is the ... pit — the permanent endowment is to be protected, with a view to the fruit of land donation.
 </p>
 			<p n="24-28">And it has been said by the Lord Vyāsa: </p>
-			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors.</p>
-			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
-			<p n="3" rend="stanza">This <supplied reason="subaudible">land</supplied> given by hundreds of kings is given again and again. Whoever holds land at a given time, to him does the fruit belong.</p>
-			<p n="4" rend="stanza">Those who steal a land donation are born <supplied reason="explanation">again</supplied> as black snakes living in dry caves in the waterless Vindhya forests.</p>
+			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors.<note>
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+			<p n="3" rend="stanza">This <supplied reason="subaudible">land</supplied> given by hundreds of kings is given again and again. Whoever holds land at a given time, to him does the fruit belong.<note>
+                    This verse corresponds to the verse numbered 23 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, but shows a different reading of the two first <foreign>pāda</foreign>s. 
+                </note></p>
+			<p n="4" rend="stanza">Those who steal a land donation are born <supplied reason="explanation">again</supplied> as black snakes living in dry caves in the waterless Vindhya forests.<note>
+                    This verse corresponds to the verse numbered 150 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, but shows a slightlty different reading of the beginning of the <foreign>pāda</foreign> d. 
+                </note></p>
 			<p n="28-9">Year 128, <supplied reason="explanation">month of</supplied> Caitra, day 20. Written by Rudradāsa, heated by Susiṅha.</p>
 		</div>
 			<div type="textpart" n="B"><head xml:lang="eng">Amwb's suggestions</head>
@@ -892,10 +901,18 @@ The repartition of the droṇavāpas is not clear at all, and in order to obtain
 				</note> 
 				valley of Dhanaviṣṇu’s pond; and the boundary in the West is Nābhrakasataka (?); the boundary in the North is the … pit — is acquired on this day (I emended samupasthitaṁ kālaṁ) : whether it is they or others, the district chiefs, officers, peasant householders or councillors who in the near future will be administrating this land, after considering the fruit of land donation, will have to protect <supplied reason="explanation">this land</supplied> as a permanent endowment. </p>
 				<p n="24-28">And it has been said by the Lord Vyāsa: </p>
-			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors.</p>
-			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
-			<p n="3" rend="stanza">This <supplied reason="subaudible">land</supplied> given by hundreds of kings is given again and again. Whoever holds land at a given time, to him does the fruit belong.</p>
-			<p n="4" rend="stanza">Those who steal a land donation are born <supplied reason="explanation">again</supplied> as black snakes living in dry caves in the waterless Vindhya forests.</p>
+			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors.<note>
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+			<p n="3" rend="stanza">This <supplied reason="subaudible">land</supplied> given by hundreds of kings is given again and again. Whoever holds land at a given time, to him does the fruit belong.<note>
+                    This verse corresponds to the verse numbered 23 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, but shows a different reading of the two first <foreign>pāda</foreign>s. 
+                </note></p>
+			<p n="4" rend="stanza">Those who steal a land donation are born <supplied reason="explanation">again</supplied> as black snakes living in dry caves in the waterless Vindhya forests.<note>
+                    This verse corresponds to the verse numbered 150 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, but shows a slightly different reading of the beginning of the <foreign>pāda</foreign> d. 
+                </note></p>
 			<p n="28-9">Year 128, <supplied reason="explanation">month of</supplied> Caitra, day 20. Written by Rudradāsa, heated by Susiṅha.</p>
 				</div>
 		</div>

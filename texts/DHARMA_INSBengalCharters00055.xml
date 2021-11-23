@@ -92,11 +92,11 @@
                 <lb n="3"/>brāhmaṇādīn kuṭumbinaḥ kuśalam uk<supplied reason="lost">tvānu</supplied><unclear>bo</unclear>dhayanti</p> <p>vijñāpayati n<choice><sic>ā</sic><corr>o</corr></choice> nāgavasuḥ yu<unclear>ṣma</unclear>
                 <lb n="4" break="no"/>d-adhikaraṇ<unclear>e</unclear> dvi-dīnā<unclear>r</unclear>ikya-kulyavā<unclear>pe</unclear><supplied reason="lost">na</supplied> <unclear>śa</unclear>śvat-kālopabhojyākṣaya-nīvī-dharmmeṇa samuda
                 <lb n="5" break="no"/>ya-bāhyāpratikara-khila-kṣettra-vikra<unclear>yo</unclear> 'nuv<unclear>r̥</unclear>ttas tad arhatha mamāpy anenaiva krameṇa śiṣī
-                <lb n="6" break="no"/>puñja<gap reason="lost" unit="character" quantity="9"/>vihā<unclear>ra</unclear>-dvaya<unclear>ṁ</unclear> g<supplied reason="lost">rā</supplied><unclear>ma-</unclear>kūṭagohālyāṁ brāhma
-                 <lb n="7" break="no"/>ṇā <gap reason="lost" unit="character" quantity="2"/>ṇḍanakār<unclear>i</unclear>taka-vihāra<gap reason="lost" unit="character" quantity="4"/>vihāra-trayasya <unclear>kṣ</unclear>amaṇācāryya-jinadāsa-ka
+                <lb n="6" break="no"/>puñja<gap reason="lost" unit="character" quantity="9"/>vihā<unclear>ra</unclear>-dvay<choice><sic>a<unclear>ṁ</unclear></sic><corr>e</corr></choice> g<supplied reason="lost">rā</supplied><unclear>ma-</unclear>kūṭagohālyāṁ brāhma
+                 <lb n="7" break="no"/>ṇā <gap reason="lost" unit="character" quantity="2"/>ṇḍanakār<unclear>i</unclear>taka-vihāra<gap reason="lost" unit="character" quantity="4"/>vihāra-tray<choice><sic>asya</sic><corr>yāṁ</corr></choice> <unclear>kṣ</unclear>ama<choice><orig>n</orig><reg>ṇ</reg></choice>ācāryya-jinadāsa-ka
                  <lb n="8" break="no"/><unclear>r</unclear>ṇṇakābhyām adhiṣṭhitāyāṁ bhagavatām arhatāṁ ga<unclear>ndha-dh</unclear><supplied reason="lost">ūpa</supplied>-<unclear>s</unclear>uma<supplied reason="lost">no</supplied>-dīpa-bali-caru-ni
-                 <lb n="9" break="no"/>vedyādi-pravartta<unclear>nāya nigrantha-pu</unclear>tra-ji<unclear>tānāgatābhyāgatānān ta</unclear>nivās<unclear>i</unclear>nāñ cany<unclear>ā</unclear>
-                 <lb n="10" break="no"/>dyapiṇḍa-pānipātr̥kād<unclear>i</unclear>-bhojya-khaṇḍa-phuṭṭa-pratisaṁskārādyopayo<unclear>ka</unclear> <space unit="character" quantity="1"/><!-- attention ici c'est un espace laissé libre noté U dans article donc encodage à modifier --> matto dīnāra
+                 <lb n="9" break="no"/>vedyādi-pravartta<unclear>nāya ni</unclear><supplied reason="omitted">r</supplied><unclear>grantha-pu</unclear>tra-ji<unclear>tānāgatābhyāgatānān ta</unclear>nivās<unclear>i</unclear>nāñ c<choice><sic>a</sic><corr>ā</corr></choice>ny<unclear>ā</unclear>
+                 <lb n="10" break="no"/>dyapiṇḍa-pānipāt<choice><sic>r̥</sic><corr>ri</corr></choice>kād<unclear>i</unclear>-bhojya-khaṇḍa-phuṭṭa-pratisaṁskārādyopayo<unclear>ka</unclear> <space unit="character" quantity="1"/><!-- attention ici c'est un espace laissé libre noté U dans article donc encodage à modifier --> matto dīnāra
                  <lb n="11" break="no"/>catuṣṭayaṁ gr̥hītvā śiṣīpuñja-khila-kṣettras<unclear>y</unclear>ār<unclear>ddha</unclear>-kulyavāpaṁ maddhyamasr̥gālikāya 
                  <lb n="12"/>khila-kṣattresya kulyavāpaṁ grāmakūṭa<unclear>go</unclear>hālyāṁ <unclear>khila</unclear>-<supplied reason="lost">kṣe</supplied>ttrasyārddha-kulyavāpaṁ Evaṁ Aprati
                  <lb n="13" break="no"/>kara-khila-kṣettrasya kuvā<supplied reason="omitted">lya</supplied>padvayaṁ dātum iti</p><p><unclear>ya</unclear>taḥ <unclear>p</unclear>rathama-pustapāla-śarvvādya-pu<unclear>s</unclear><supplied reason="lost">ta</supplied>
@@ -151,10 +151,11 @@
                    </app>
                    <app loc="6">
                        <lem>puñja<gap reason="lost" unit="character" quantity="9"/></lem>
-                       <note>The part of the lacuna immediately after -<foreign>puñja</foreign> may be filled in with the string <foreign>maddhyamasr̥gālikāyā</foreign>.</note>
+                       <note>The part of the lacuna immediately after -<foreign>puñja</foreign> may be filled in with the string <foreign>maddhyamasr̥gālikāyā</foreign>.</note><!-- 
+                       amwb : here I suggest adding another possibility. As the three monasteries are mentioned by the compound <foreign>śiṣīpuñja-śrīgohālī-grāmakūṭagohālyāñ ca vihāratrayy<supplied reason="lost">āṁ</supplied></foreign> line 16 and as one can read the repetition of the word <foreign>vihāra</foreign> in the compound <foreign><gap reason="lost" unit="character" quantity="2"/>ṇḍanakār<unclear>i</unclear>taka-vihāra<gap reason="lost" unit="character" quantity="4"/>vihāra-tray<choice><sic>asya</sic><corr>yāṁ</corr></choice></foreign>, the part of the lacuna may also be filled in with °<foreign>vihāraśrīgohālī</foreign>°. -->
                    </app>
                    <app loc="6">
-                       <lem>vihā<unclear>ra</unclear>-dvaya<unclear>ṁ</unclear></lem>
+                       <lem>vihā<unclear>ra</unclear>-dvay<choice><sic>a<unclear>ṁ</unclear></sic><corr>e</corr></choice></lem>
                        <note>Read or emend <foreign>vihāradvaye</foreign>?</note>
                    </app>
                    <app loc="6">
@@ -163,18 +164,16 @@
                        <note>One has the impression that what stands before -<foreign>kāritakavihāre</foreign> must here be the name of a Brahmin, perhaps the founder of the <foreign>vihāra</foreign> in question, although when the sequence -<foreign>kāritakavihāre</foreign> is used in the <ref target="DHARMA_INSBengalCharters00034.xml">Jagadishpur plate</ref>, three times in lines 9 and 10, it is preceded each time by the beneficiary of the monastery’s foundation: see the passage quoted <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="page">46</citedRange></bibl>.</note>
                    </app>
                    <app loc="7">
-                       <lem>vihāra-trayasya <unclear>kṣ</unclear>amaṇācāryya-</lem>
-                       <note>Emend <foreign>vihāratrayyāṁ kṣamanācāryya</foreign>-, as in lines 16–17. On the word <foreign>kṣamaṇācārya</foreign>, see discussion in <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="page">47</citedRange></bibl>. In the lacuna before <foreign>vihāra</foreign>-, I expect evam, as in line 12.</note>
+                       <lem>vihāra-tray<choice><sic>asya</sic><corr>yāṁ</corr></choice> <unclear>kṣ</unclear>ama<choice><orig>n</orig><reg>ṇ</reg></choice>ācāryya-</lem>
+                       <note>Emend <foreign>vihāratrayyāṁ kṣamanācāryya</foreign>-, as in lines 16–17. On the word <foreign>kṣamaṇācārya</foreign>, see discussion in <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="page">47</citedRange></bibl>. In the lacuna before <foreign>vihāra</foreign>-, I expect <foreign>evam</foreign>, as in line 12.</note>
                    </app>
                    <app loc="9">
-                       <lem>-pravartta<unclear>nāya nigrantha-pu</unclear>tra-ji<unclear>tānāgatābhyāgatānān ta</unclear>nivās<unclear>i</unclear>nāñ</lem>
-                       <note>Emend -<foreign>pravarttanāya nirgrantha-putra-jitānāgatābhyāgatānān tan-nivāsināñ</foreign>.</note><!--
-                           amwb : I cannot include this emendation inside the edition because the inclusion of the tag supplied inside a tag unclear does not seem to be allowed
-                       -->
+                       <lem>-pravartta<unclear>nāya ni</unclear><supplied reason="omitted">r</supplied><unclear>grantha-pu</unclear>tra-ji<unclear>tānāgatābhyāgatānān ta</unclear>nivās<unclear>i</unclear>nāñ</lem>
+                       <note>See also line 18.</note>
                    </app>
                    <app loc="9">
-                       <lem>cany<unclear>ā</unclear>
-                 <lb n="10" break="no"/>dyapiṇḍa-pānipātr̥kād<unclear>i</unclear>-bhojya-</lem>
+                       <lem>c<choice><sic>a</sic><corr>ā</corr></choice>ny<unclear>ā</unclear>
+                 <lb n="10" break="no"/>dyapiṇḍa-pānipāt<choice><sic>r̥</sic><corr>ri</corr></choice>kād<unclear>i</unclear>-bhojya-</lem>
                        <note>Emend <foreign>cānyādyapiṇḍa-pāṇipātrikādi-bhojya</foreign>-. Cf. line 19. The emendation to -<foreign>pāṇipātrikādi</foreign>- is based on the occurrence of the same term in the Jaina image inscriptions cited in <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="page">47</citedRange></bibl>. The first two <foreign>akṣara</foreign>s are of uncertain reading both here and in line 19, where the first seems to be <foreign>cā</foreign> rather than <foreign>ca</foreign>; <foreign>c<choice><unclear>a</unclear><unclear>ā</unclear></choice>nyo</foreign>, <foreign>c<choice><unclear>a</unclear><unclear>ā</unclear></choice>tyo</foreign> are among other possibilities, none of them yielding recognizable words.</note>
                    </app>
                    <app loc="10">
@@ -208,18 +207,17 @@
          </div>
          <div type="translation" resp="part:argr">
              <div type="textpart" n="A"><head xml:lang="eng">Initial translation</head> 
-                 <p n="1-3">Hail! From Puṇḍravardhana, the officials and the council of the capital<!-- of the government? autre sens possible peut être l'évoquer en note, à moins que ce soit une expression épigraphique? 
-amwb 2021-07-19: I suggest changing the translation "council of the capital" by the one you have choosen in BC52 "the city/town council/board" cf the arguments in the commentary part in BC52  --> 
+                 <p n="1-3">Hail! From Puṇḍravardhana, the officials and the council of the capital
                  greet the landholders, beginning with the Brahmins, 
                  in <supplied reason="subaudible">the hamlets</supplied> Śiṣīpuñja and Madhyamasr̥gālikā, 
                  falling under <supplied reason="explanation"><foreign>prāveśya</foreign></supplied>
-                 <note>The term X-<foreign>prāveśya</foreign>-Y in cadastral contexts indicates that Y is part of the larger unit X. See the glossary in Schmiedchen forthcoming<!-- ce glossary est il désormais paru? -->.</note> 
+                 <note>The term X-<foreign>prāveśya</foreign>-Y in cadastral contexts indicates that Y is part of the larger unit X. See the glossary in Schmiedchen forthcoming.</note> 
                  the village Ārya, 
                  and in Grāmakūṭagohālī, 
                  falling under Abjataṭāpagaccha,
                  <note>This rather surprising toponym seems to mean ‘lotus <supplied reason="explanation"><foreign>abja</foreign></supplied> – shore <supplied reason="explanation"><foreign>taṭa</foreign></supplied> – leave <supplied reason="explanation"><foreign>apagaccha</foreign></supplied>’.</note> 
                  <supplied reason="explanation">all three</supplied> in the Ṣaṇḍika division,
-                 <note>Cf. the Madhyamaṣaṇḍika <foreign>vīthī</foreign> of the <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā grant #1</ref> and <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā grant #2</ref><!-- j'ai modifié la ref biblio (see <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="page">25-30</citedRange></bibl>) par les liens vers les deux inscriptions dans la base -->.</note> 
+                 <note>Cf. the Madhyamaṣaṇḍika <foreign>vīthī</foreign> of the <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā grant #1</ref> and <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā grant #2</ref>.</note> 
                  and they inform:</p>
              <p n="3-13">
                 Nāgavasu petitions us: 
@@ -251,7 +249,7 @@ amwb 2021-07-19: I suggest changing the translation "council of the capital" by 
    </p>
              <p n="13-16">
                  <q>Wherefore, after confirmation through an investigation by the first <supplied reason="explanation"><foreign>prathama</foreign></supplied> record-keeper Śarva 
-                     and the primary <supplied reason="explanation">ādya</supplied> record-keepers Prīti, Viṣṇudhara,<!-- pourquoi pas Prītiviṣṇudhara ? Cela me semble étrange un nom composé d'un seul mot?  --> Jayadatta, Rāmadatta, Sudarśanaśrīdāsa and Bhavadāsa, 
+                     and the primary <supplied reason="explanation">ādya</supplied> record-keepers Prīti, Viṣṇudhara, Jayadatta, Rāmadatta, Sudarśanaśrīdāsa and Bhavadāsa, 
                      and after having taken in cash four <foreign>dīnāra</foreign>s from the side of Nāgavasu, 
                      <supplied reason="explanation">the two <foreign>kulyavāpa</foreign>s</supplied> must be given.</q>
                  <note>I tentatively presume that this second quotation terminated by <foreign>iti</foreign> still forms part of the petition that began in line 3.</note>
@@ -294,8 +292,7 @@ amwb 2021-07-19: I suggest changing the translation "council of the capital" by 
              <p>Year 198, Śrāvaṇa, day <gap reason="lost" quantity="1" unit="character"/> .
              </p>
              </div>
-             <div type="textpart" n="B"><head xml:lang="eng">Translation modified with some suggestions of Amandine Wattelier-Bricout</head>
-             <!-- Ici je propose une nouvelle trad de 3-13 parce que je n'ai pas compris comment tu interprétais le génitif vihaaratrayasya et l'accusatif vihaaradvayam -->
+             <div type="textpart" n="B"><head xml:lang="eng">Translation modified with minor suggestions of Amandine Wattelier-Bricout</head>          
                  <p n="1-3">Hail! From Puṇḍravardhana, the officials and the city council <supplied reason="explanation"><foreign>adhiṣṭhānādhikaraṇa</foreign></supplied><note>
                      The expression <foreign>adhiṣṭhānādhikaraṇa</foreign> can be found in <ref target="DHARMA_INSBengalCharters00047.xml">Damodarpur plate #1</ref> line 4, <ref target="DHARMA_INSBengalCharters00048.xml">Damodarpur plate #2</ref> line 4, <ref target="DHARMA_INSBengalCharters00053.xml">Damodarpur #4</ref>, lines 3-4, <ref target="DHARMA_INSBengalCharters00056.xml">Damodarpur #5</ref> in the seal and line 4, and finally in <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur Charter of the Time of Budhagupta</ref> line 1. The different translations suggested for this expression are reported below :
 <list><item><ref target="DHARMA_INSBengalCharters00047.xml">Damodarpur plate #1</ref> line 4:	<foreign>adhiṣṭhāṇādhikaraṇañ ca nagaraśreṣṭhidhṛtipāla</foreign> translated by <bibl><ptr target="bib:Bhandarkar1981_01"/></bibl> "<q>the Board of the town presiding over the Nagara-śreṣṭhin Dhṛtipāla</q>"</item>
@@ -315,7 +312,7 @@ amwb 2021-07-19: I suggest changing the translation "council of the capital" by 
                  falling under Abjataṭāpagaccha,
                  <note>This rather surprising toponym seems to mean ‘lotus <supplied reason="explanation"><foreign>abja</foreign></supplied> – shore <supplied reason="explanation"><foreign>taṭa</foreign></supplied> – leave <supplied reason="explanation"><foreign>apagaccha</foreign></supplied>’.</note> 
                  <supplied reason="explanation">all three</supplied> in the Ṣaṇḍika division,
-                 <note>Cf. the Madhyamaṣaṇḍika <foreign>vīthī</foreign> of the <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā grant #1</ref> and <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā grant #2</ref><!-- j'ai modifié la ref biblio (see <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="page">25-30</citedRange></bibl>) par les liens vers les deux inscriptions dans la base -->.</note> 
+                 <note>Cf. the Madhyamaṣaṇḍika <foreign>vīthī</foreign> of the <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā grant #1</ref> and <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā grant #2</ref>.</note> 
                  and they inform:</p>
                     <p n="3-5">Nāgavasu petitions us: 
                  <q>The sale, in your council, of waste land that is without revenue charges and yields no tax, 
@@ -324,30 +321,36 @@ amwb 2021-07-19: I suggest changing the translation "council of the capital" by 
                      for <supplied reason="explanation">the price of</supplied> two <foreign>dīnāra</foreign>s.</q>
                     </p><!-- ici aucun changement hormis un découpage pour aider le lecteur à comparer texte skt et trad  -->        
                      <p n="5-13"><q>Thus <supplied reason="explanation">tad</supplied>, be so kind to use, <!-- l5 : tad arhatha anenaiva krameṇa -->
-                     for me too,<!-- mamāpy : au sujet du génitif ici, on pourrait y voir un génitif d'intention décrit par Renou §222, D, petit b pa. 307 "génitif de la personne intéressée et qui apparaît préférablement dans les pronoms : que vous daignez arhatha pour ma personne aussi (user/utiliser/respecter) précisément cette procédure. Je propose de transformer l'idée contenue dans l'instrumental par le verbe "utiliser" + COD, puis de suppléer une coordination pour relier arhata et daatum. Sinon la phrase devient illisible... -->
+                     for me too,
                      this very procedure
                      <note>Here the instrumental <foreign>anenaiva krameṇa</foreign> is rendered by the expression "use this very procedure". By this way, the genitive <foreign>mamāpy</foreign> could be analysed as a genitive of purpose in a broader meaning. Nāgavasu asks the customary procedure be applied to him as well. This kind of genitive is usually used with the pronouns <supplied reason="explanation">see <bibl><ptr target="bib:Renou1975_01"/><citedRange unit="item">222.D.b</citedRange><citedRange unit="page">307</citedRange></bibl></supplied>.  </note>
-                      between the monasteries of Śiṣīpuñja <supplied reason="subaudible">and of Śrīgohālī</supplied> <!--śiṣīpuñja<gap reason="lost" unit="character" quantity="9"/>vihāra-dvayaṁ : sinon je ne comprends pas l'accusatif ici je le prends en adv cf MW  ) je remplace ici Madhyamasr̥gālikā par Śrīgohālī pour suivre la logique de l'autre partie d'inscription -->
-                     <supplied reason="subaudible">and</supplied> for the triple monasterie <!-- <gap reason="lost" unit="character" quantity="4"/>vihāra-trayasya: genitif adverbal Renou 222, D,b  p307 pour? -->
-                     <supplied reason="subaudible">called...?</supplied> whose ornament <!--emendation maṇḍana? --> is made by a brāhmaṇa (?) <!--brāhmaṇā <gap reason="lost" unit="character" quantity="2"/>ṇḍanakār<unclear>i</unclear>taka-vihāra : j'avoue qu'ici le texte lacunaire pose pb on traya- et deux fois vihaara ce qui n'est pas très logique... -->
-                     at Grāmakūṭagohālī
-                         <supplied reason="subaudible">which is</supplied> superintended <!--adhiṣṭhitāyāṁ : se rapporte à Grāmakūṭagohālī-->
-                     by a couple of ascetics <supplied reason="explanation"><foreign>kṣamaṇa</foreign></supplied> masters, Jinadāsa and Karṇaka, <!--kṣamaṇācāryya-jinadāsa-karṇṇakābhyām : j'ajoute "a couple of" pour rendre le duel-->
-                     so that there is a regular performance of <!-- traduction du datif de destination pravarttanāya par une subordonnée introduite par so that --> 
+                     concerning the three monasteries  
+                     superintended 
+                     by a couple of ascetics <supplied reason="explanation"><foreign>kṣamaṇa</foreign></supplied> masters, Jinadāsa and Karṇaka, <!--kṣamaṇācāryya-jinadāsa-karṇṇakābhyām adhiṣṭhitāyāṁ --> 
+                      - the two monasteries 
+                     at Śiṣīpuñja <supplied reason="subaudible">and Madhyamasr̥gālikā</supplied><note>
+                         The lacuna consisting of nine <foreign>akṣara</foreign>s line 9 may be reconstructed in two different ways by taking the context into account. The first possibility, suggested in <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="page">38</citedRange></bibl>, is based on the beginining of the text and fills in the lacuna with <foreign>maddhyamasr̥gālikāyā</foreign>, place name founded in compound with Śiṣīpuñja in line 2. The second possibility is based on the continuation of the text. As the three monasteries are mentioned by the compound <foreign>śiṣīpuñja-śrīgohālī-grāmakūṭagohālyāñ ca vihāratrayy<supplied reason="lost">āṁ</supplied></foreign> line 16 and as one can read the repetition of the word <foreign>vihāra</foreign> in a compound <foreign><gap reason="lost" unit="character" quantity="2"/>ṇḍanakār<unclear>i</unclear>taka-vihāra<gap reason="lost" unit="character" quantity="4"/>vihāra-tray<choice><sic>asya</sic><corr>yāṁ</corr></choice></foreign>, the part of the lacuna may also be filled in with °<foreign>vihāraśrīgohālī</foreign>°. In this case, the translation would be <q>the two monasteries, the one located in and the other located in Śrīgohālī</q> in which the repetion of the word <foreign>vihāra</foreign> is rendered by <q>the one ... and the other</q>. </note> <!--śiṣīpuñja<gap reason="lost" unit="character" quantity="9"/>vihāra-dvayaṁ -->
+                     and the <supplied reason="explanation">third</supplied> one <supplied reason="subaudible">called...?</supplied>,<note>
+                          Maybe the four <foreign>akṣara</foreign>s illegible before <foreign>vihāra-trayasya</foreign> line 7 mentioned the name of the monastery.
+                      </note> a monasterie which is made <supplied reason="subaudible">well-ornated <foreign>su-maṇḍana</foreign></supplied><note>
+                          I suggest fill in the lacuna of two <foreign>akṣara</foreign>s line 7 by the syllable <foreign>suma</foreign> in order to reconstruct a compound <foreign>su-maṇḍana-kāritaka</foreign>. The <foreign>avakhaṇḍana</foreign> word could be suggested to fill in the lacuna and could be translated by <q>a monastery which has been made destroyed by a brāhmaṇa</q>. Whereas the destruction of a monastery by a brāhmaṇa seems less likely, it could be explained the need to repair what is broken or cracked in line 10.
+                      </note> by a brāhmaṇa  <!-- brāhma-7ṇā -->
+                     <supplied reason="explanation">and which is located</supplied> in Grāmakūṭagohālī -<!-- g[rā](ma-)kūṭagohālyāṁ  -->
+                     <supplied reason="subaudible">and be so kind to</supplied> give <supplied reason="explanation"><foreign>dātum</foreign> line 13</supplied> 
+                     to the venerable Arhants <!--bhagavatām arhatāṁ -->
+                     for the sake of the regular performance of
                      <supplied reason="explanation">offerings of</supplied> perfume, incense, flowers,
                      lamps, grain oblation <supplied reason="explanation"><foreign>bali</foreign></supplied>, 
                      rice oblation <supplied reason="explanation"><foreign>caru</foreign></supplied>, 
                      food oblation <supplied reason="explanation"><foreign>nivedya</foreign></supplied>, etc., <!--gandha-dhūpa-sumano-dīpa-bali-caru-nivedyādi-pravarttanāya-->
-                     to the venerable Arhants <!--bhagavatām arhatāṁ -->
-                     [and so that there is] an enjoyment <!--selon emend . =upayogāya, traduction du datif par so that there is -->
-                     for those  those who use their <supplied reason="explanation">cupped</supplied> hands as bowl 
-                     for morsels which were intended to be eaten by others, and others, <!--cany<unclear>ā</unclear>dyapiṇḍa-pānipātr̥kād<unclear>i</unclear>-bhojya-khaṇḍa-phuṭṭa-pratisaṁskārādy=-->
-                     among the Nigranthaputras who have defeated past and future <supplied reason="explanation"><foreign>karman</foreign></supplied> <!---->
-                     resident there, <!--tanivāsināñ-->
-                     <supplied reason="subaudible">and be so kind</supplied> <supplied reason="explanation"><foreign>arhatha</foreign> line 5</supplied> <!-- répétition qui me semble nécessaire pour structurer la phrase et la rendre compréhensible -->
-                     to give <supplied reason="explanation"><foreign>dātum</foreign> line 13</supplied>
+                     and to those resident there <!--ca + tanivāsināñ analysed as genitive plural-->
+                     who are Nigranthaputras who have defeated past and future <supplied reason="explanation"><foreign>karman</foreign></supplied><!-- nigrantha-pu)tra-ji(tānāgatābhyāgatānān -->
+                     for the use of <supplied reason="explanation">such things as</supplied> <!-- °upayogāya --> 
+                     providing their food by beginning by those who use their <supplied reason="explanation">cupped</supplied> hands as bowl 
+                     for morsels which were intended to be eaten by others<!-- cany<unclear>ā</unclear>dyapiṇḍa-pānipātr̥kād<unclear>i</unclear>-bhojya° -->  
+                     or repairing what is broken or cracked <!---khaṇḍa-phuṭṭa-pratisaṁskārādy=-->
                      two <foreign>kulyavāpa</foreign>s of waste land yielding no tax <!--Apratikarakhilakṣettrasya kuvāpadvayaṃ-->
-                     <supplied reason="explanation">divided</supplied> as follows <supplied reason="explanation">evam l.12</supplied>,
+                     <supplied reason="explanation">divided</supplied> as follows <supplied reason="explanation"><foreign>evam</foreign> line 12</supplied>,
                      a half <foreign>kulyavāpa</foreign> of waste land at Śiṣīpuñja,<!--śiṣīpuñja-khila-kṣettras<unclear>y</unclear>ār<unclear>ddha</unclear>-kulyavāpaṁ-->
                      a <foreign>kulyavāpa</foreign> of waste land at Madhyamasr̥gālikā,<!--maddhyamasr̥gālikāya khila-kṣattresya kulyavāpaṁ-->
                      a half <foreign>kulyavāpa</foreign> of waste land at Grāmakūṭagohālī, <!--grāmakūṭa<unclear>go</unclear>hālyāṁ <unclear>khila</unclear>-<supplied reason="lost">kṣe</supplied>ttrasyārddha-kulyavāpaṁ--> 
@@ -358,7 +361,7 @@ amwb 2021-07-19: I suggest changing the translation "council of the capital" by 
                      <q>Wherefore, <!-- (ya)taḥ -->
                          after confirmation through an investigation <!-- [°ava]dhā(ra)ṇa(y)[ā](vadhr̥tya) -->
                           by the first <supplied reason="explanation"><foreign>prathama</foreign></supplied> record-keeper Śarva 
-                     and the primary <supplied reason="explanation">ādya</supplied> record-keepers Prīti, Viṣṇudhara,<!-- pourquoi pas Prītiviṣṇudhara ? Cela me semble étrange un nom composé d'un seul mot?  --> Jayadatta, Rāmadatta, Sudarśanaśrīdāsa and Bhavadāsa, <!-- (p)rathamapustapālaśarvvādyapu(s)[ta](14)pāla(prī)tiviṣṇ(u)dharajayadattarāmadattasudarśaṇaśrīdāsabhavadāsānāṁ -->
+                     and the primary <supplied reason="explanation">ādya</supplied> record-keepers Prīti, Viṣṇudhara, Jayadatta, Rāmadatta, Sudarśanaśrīdāsa and Bhavadāsa, <!-- (p)rathamapustapālaśarvvādyapu(s)[ta](14)pāla(prī)tiviṣṇ(u)dharajayadattarāmadattasudarśaṇaśrīdāsabhavadāsānāṁ -->
                      and after having taken in cash four <foreign>dīnāra</foreign>s from the side of Nāgavasu, <!-- nāgavaso(ḥ) sakāśād dīnāracatuṣṭayam āy(ī)(16)kr̥tya -->
                      <supplied reason="explanation">the two <foreign>kulyavāpa</foreign>s</supplied> must be given.</q> <!-- dīyatām iti  -->
                  <note>I tentatively presume that this second quotation terminated by <foreign>iti</foreign> still forms part of the petition that began in line 3.</note>
@@ -377,10 +380,10 @@ amwb 2021-07-19: I suggest changing the translation "council of the capital" by 
                  and Grāmakūṭagohālī, <!-- śiṣīpuñjaśrīgohālīgrāmakūṭagohālyāñ ca vihāratrayy[āṁ] -->
                  superintended by the two ascetic masters Jinadāsa and Karṇaka; <!-- kṣamanācāryyajinadāsaka(r)ṇṇakābhyāṁm adhiṣṭhit(ayo) -->
                  and to their inhabitants who are the Nigranthaputras who have defeated past and future <supplied reason="explanation"><foreign>karman</foreign></supplied><!-- nigranthaputrajitānā(19)gatabhyāgatānān tanivāsināñ  -->
-                 for the sake of <supplied reason="subaudible">providing</supplied> their food by beginning <supplied reason="explanation">by the food of</supplied> those who use their <supplied reason="explanation">cupped</supplied> hands as bowl for morsels which were intended to be eaten by others, <!-- cā[n]y(ā)dyapiṇḍapānipāt(r̥)kādibhojyakhaṇḍa(20)phuṭṭapratisaṁskārādyarttha  -->
+                 for the sake of <supplied reason="subaudible">providing</supplied> their food by beginning by those who use their <supplied reason="explanation">cupped</supplied> hands as bowl for morsels which were intended to be eaten by others, <!-- cā[n]y(ā)dyapiṇḍapānipāt(r̥)kādibhojyakhaṇḍa(20)phuṭṭapratisaṁskārādyarttha  -->
                  <supplied reason="explanation">and for the sake of</supplied> repairing what is broken into pieces or cracked, 
                  all of this <supplied reason="explanation"><foreign>tad</foreign></supplied> is to be given <!-- dātavyām -->
-                 by you to the three monasteries, <!-- yuṣmābhiḥ + vihāratra(ya) (vihāratrayyāṁ?) -->
+                 by you to the three monasteries <supplied reason="explanation"><foreign>vihāratrayyāṁ</foreign> line 23</supplied>, <!-- yuṣmābhiḥ + vihāratra(ya) (vihāratrayyāṁ?) -->
                  after you have separated them off with sixfold reeds <supplied reason="explanation"><foreign>ṣaṭkanala</foreign></supplied> <!-- ṣaṭkanalair apavi(24)ñ(cch)ya -->
                  in a place that does not conflict with your own cultivation, <!-- svakarṣaṇāvirodhisthāne -->
                  and is to be protected in perpetuity in accordance with the law on permanent endowments.<!-- akṣayanīvīdharmmeṇa ca śaśvatkālam anupālyam iti -->
@@ -501,7 +504,7 @@ enter a new reference when the inscription is encoded in DHARMABASE; for the mom
              </div>
          </div>
         <div type="bibliography">
-           <p>First edited by Arlo Griffiths. Re-edited here with small improvements based on direct inspection of the plate. The text has been encoded by Amandine Wattelier-Bricout.</p><!-- vérifier si cela convient -->
+           <p>First edited by Arlo Griffiths. Re-edited here with small improvements based on direct inspection of the plate. The text has been encoded by Amandine Wattelier-Bricout.</p>
         	<listBibl type="primary">
 				<bibl n="G"><ptr target="bib:Griffiths2018_02"/><citedRange unit="item">II.3</citedRange><citedRange unit="page">35-9</citedRange></bibl>
 			</listBibl>
