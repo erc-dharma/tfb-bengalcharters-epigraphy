@@ -509,7 +509,9 @@ According to the table in <bibl><ptr target="bib:Willis2005_01"/><citedRange uni
 	greet the village tenants of <supplied reason="subaudible">the hamlets</supplied> Trivr̥tā and Śrī-Gohālī of <supplied reason="subaudible">the village</supplied> Vāyigrāma<note>
 		Vāyigrāma is also mentioned in <ref target="DHARMA_INSBengalCharters00032.xml">Damodarpur #3</ref>, line 9.
 	</note> 
-	— consisting chiefly of Brahmins,<!-- 
+	— consisting chiefly of Brahmins,<note>
+                     The expression <foreign>brāhmaṇottarān</foreign> occurs in several other plates: <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā Grant no. 1, year 159</ref>, line 2; <ref target="DHARMA_INSBengalCharters00051.xml">A grant of land in the Tāvīra district</ref>, line 6 ; <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur Charter of the Time of Budhagupta</ref>, line 3; <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur Plate of 169 GE</ref>, line 1 and <ref target="DHARMA_INSBengalCharters00057.xml">A second grant concerning the Raktamālā</ref> line 2. The translation suggested here corresponds to the specific meaning of the compound <foreign>brāhmaṇottara</foreign>- reported by <bibl><ptr target="bib:Apte1890_01"/><citedRange unit="page">1174</citedRange></bibl>. If we only follow the meaning given by <bibl><ptr target="bib:Apte1890_01"/><citedRange unit="item">8</citedRange><citedRange unit="page">408</citedRange></bibl> and <bibl><ptr target="bib:MonierWilliams1899_01"/><citedRange unit="page">178</citedRange></bibl> for the word -<foreign>uttara</foreign> <foreign>in fine compositi</foreign>, the translation would be <q>followed by Brahmins</q>.
+                 </note><!-- 
 amwb  I replaced "the most eminent among them being the Brahmins" by 
 amwb: here as in BC 39, BC57 and BC51, uttara ifc means "followed by" or "consisting of" MW p.178 col1 and Apte p.408 n°8...see "consisting chiefly of Brahmins" Apte p.1174) in this case, this means that landholders are brahmins?
 	--> 

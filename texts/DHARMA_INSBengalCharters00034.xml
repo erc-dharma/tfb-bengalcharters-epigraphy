@@ -190,7 +190,7 @@ amwb : removed <unclear>kaṁ</unclear> according to Arlo's reading. I confirm t
 <lb 
 n="14"/>dātum<!-- 
 amwb : removed the surplus in dā<surplus>ṁ</surplus>tum according to Arlo's reading, cf apparatus
---> iti</p>
+--> iti<supplied reason="subaudible">.</supplied></p>
 <p>yat<choice><sic>o</sic><corr>a</corr></choice><!-- 
 amwb : added choice sic corr for yato
 --> Etad vijñāpyam<!-- 
@@ -217,9 +217,9 @@ amwb : added an unclear according to Arlo's reading
 amwb : added an unclear according to Arlo's reading 
 -->-mahidāsayor hastā<unclear>t ku</unclear>lika-<!-- 
 amwb : added two unclear, see apparatus 
--->bhīmenopasaṁgr̥<unclear>h</unclear>ī<add place="below">ta</add><!-- 
+-->bhīmenopasaṁgr̥<unclear>h</unclear>ī<add place="below">ta</add>ka-dīnāra-<!-- 
 amwb : added add + below 
--->ka-dīnāra-
+-->
 <lb 
 n="17"/>dvayam etat krītvā kṣemāka-bhoyila-mahīdāsayo ṣaḍ-droṇa-vāpāḥ śra<choice><sic>va</sic><corr>ma</corr></choice>ṇakācārya<!-- 
 amwb : added choice and corr according to Arlo's apparatus --> balakuṇḍasya samā<!-- 
@@ -231,7 +231,7 @@ daba siddham :Note also mahidāsayo, which Sircar emends to mahidāsānāṁ, bu
 --><lb 
 n="18" break="no"/>v<choice><sic>i</sic><corr>e</corr></choice>śitāḥ<supplied reason="subaudible">.</supplied> bhoyilenāpi<!-- 
 amwb : replaced bhoyilen āpi by bhoyilenāpi (maybe a typing error)
---> sāmbapurasyārttha droṇa-vāpa-dvayaṁ tatrai<unclear>kava</unclear>ta-kula-samīpe<!-- 
+--> sāmbapurasyārttha droṇa-vāpa-dvayaṁ tatrai<unclear>kava</unclear>va-kula-samīpe<!-- 
 amwb : replaced tatra <unclear>ca de</unclear>vata-kula-samīpe by Arlo's reading, see apparatus 
 --> puṣpa-vāṭikā-tala-vā<!-- 
 daba siddham :Sircar emends °arttha to °artthe, but again, the intent was probably °artthaṁ. 
@@ -603,7 +603,7 @@ n="12" break="no"/>vyām apratikara-</lem>
 					<note>Emend °<foreign>purasyārtthe</foreign> (DCS) or °<foreign>purasyārtthaṁ</foreign>.</note>
 				</app>
 				<app loc="18">
-					<lem>tatrai<unclear>kava</unclear>ta-kula-samīpe</lem>
+					<lem>tatrai<unclear>kava</unclear>va-kula-samīpe</lem>
 					<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01 bib:Balogh+al2019_01">tatra <unclear>ca de</unclear>vata-kula-samīpe</rdg>
 					<note>For the shape of <foreign>trai</foreign>, see line 4. Emend <foreign>tatraiva <hi rend="bold">de</hi>va</foreign>- or <foreign>tatrai<hi rend="bold">vakārita</hi>ka<hi rend="bold">de</hi>va</foreign>-, after line 10?</note>
 				</app>
@@ -767,13 +767,8 @@ amwb : maybe add a note "on the meaning of this term, see <bibl><ptr target="Gri
 amwb : I am wondering if we could translate yathā by a periphrase : "Note the following request" / "Be the following request brought to your attention"  
 -->
 			</p>
-			<p>The peasant householder Kṣemāka residing in the habitation <supplied reason="explanation"><foreign>vāstuka</foreign></supplied> of the capital <supplied reason="explanation"><foreign>mūlaka</foreign></supplied><!-- 
-amwb : I don't understand why you did not translate "puṇḍravarddhaneya-" here? See my suggestions below. 
--->
-				; Bhoyila residing in Gulmagandhikā; and Mahīdāsa residing in the same place — <supplied reason="explanation">both of these locations</supplied> appertaining to Puṇḍravardhana —<!-- 
-amwb : according to the emendation proposed in apparatus 4, I suggest " the couple (of householders) Bhoyila and Mahīdāsa residing both in the same place, i.e. Gulmagandhikā" 
-amwb : from my earlier remark on °Kṣemāka compound, it seems to me that "<supplied reason="explanation">both of these locations</supplied> appertaining to Puṇḍravardhana" is not in a good place   
---> <supplied reason="subaudible">by them</supplied><!-- 
+			<p>The householder Kṣemāka residing in the habitation <supplied reason="explanation"><foreign>vāstuka</foreign></supplied> of the capital <supplied reason="explanation"><foreign>mūlaka</foreign></supplied>
+				; Bhoyila residing in Gulmagandhikā; and Mahīdāsa residing in the same place — <supplied reason="explanation">both of these locations</supplied> appertaining to Puṇḍravardhana — <supplied reason="subaudible">by them</supplied><!-- 
 amwb : this <supplied> is not very clear for me. I understand that, by adding it, you want to express the fact that the three householders addressed first their request to the two others groups before addressing acyuta and his council? 
 --> have been respectfully requested</p>
 			<list>
@@ -836,26 +831,34 @@ amwb : I know that the reading of deva is not sure but shouldn't we translate it
 				<p n="3-14">Be the following request brought to your attention :<!-- 
 amwb : "following" to translate what is included by yathā
 --></p>
-				<p n="3-8">The peasant householder Kṣemāka residing in an estate <supplied reason="explanation"><foreign>vāstuka</foreign></supplied> in the neighbourhood/in the vicinity <supplied reason="explanation"><foreign>mūlaka</foreign></supplied><note>For this meaning for <foreign>mūlaka</foreign>, see MW p.826 col.2 et Apte 8.p.1282</note> of Puṇḍravardhana<!-- 
-amwb : I don't understand why you did not translate "puṇḍravarddhaneya-" here? It seems to me that "puṇḍravarddhaneya-mūlaka-vastukāvāstavyakuṭumbikṣemāka" is an independant compound and that  "puṇḍravarddhaneya" is not distributive.
-You certainly based your translation "the habitation of the capital" on the compound "mūlakavitta' "original property, capital"  MW826
-From the different meanings found in the dictionnary, I suggest the following translations (there are listed in order of preference from my favourite to least convincing) : 
-The peasant householder Kṣemāka = residing in an estate (vāstuka) in the neighbourhood/in the vicinity (mūlaka : see MWp.826col.2 et Apte 8.p.1282) of Puṇḍravardhana
-								= residing in (a field) left remaining on the sacrificial ground (see MW vāstuka-p.949) (called) Mūlaka (mūlaka is also a name of a plant) belonging to Puṇḍravardhana
-								= residing in an estate (vāstuka) rooted in (mūlaka) (an area) belonging to Puṇḍravardhana (puṇḍravarddhaneya)
-								= residing in an estate (vāstuka) rooted in (mūlaka) (and) belonging to Puṇḍravardhana (puṇḍravarddhaneya)  
--->
+				<p n="3-8">The peasant householder Kṣemāka residing in an estate <supplied reason="explanation"><foreign>vāstuka</foreign></supplied> rooted in <supplied reason="explanation"><foreign>mūlaka</foreign></supplied> and belonging to Puṇḍravardhana
 				and the couple <supplied reason="subaudible">of householders</supplied> Bhoyila and Mahīdāsa residing both in the same place, i.e. Gulmagandhikā, 
-				preceded/accompagnied by <supplied reason="explanation">°<foreign>purogāḥ</foreign></supplied>
-				the notables of this division, <supplied reason="explanation">namely</supplied> Kumāradeva, Gaṇḍa, Prajāpati, Jyeṣṭhadāman, 
-				<supplied reason="explanation">and</supplied> by the peasant householders beginning with Yaśoviṣṇu, Umayaśas, Hariśarman, Sarpapālita, Hiraṇyagupta, Kumārayaśas, Kumārabhūti, Śivakuṇḍa, Śiva, another Śiva, Somaviṣṇu, Satyaviṣṇu, Kaṅkuṭi, Nandadāman, Vīranāga, Nārāyaṇadāsa, Rudra, Bhava, Guha, Acyuta, Kubera, Śarvanāga, Bhavanāga, Śrīdatta, Bhavadatta, Dhanaviṣṇu, Guṇaratha, Naradeva, 
-				as well as ourselves, 
-				respectfully requested <supplied reason="explanation"><foreign>vijñāpitāḥ</foreign></supplied>:
+				led by <supplied reason="explanation">°<foreign>purogāḥ</foreign></supplied>
+				<list>
+					<item>the notables of this territory <supplied reason="explanation"><foreign>iha-vithī</foreign></supplied>, <supplied reason="explanation">namely</supplied> Kumāradeva, Gaṇḍa, Prajāpati, Jyeṣṭhadāman,</item> 
+				<item><supplied reason="explanation">and</supplied> by the householders beginning with Yaśoviṣṇu, Umayaśas, Hariśarman, Sarpapālita, Hiraṇyagupta, Kumārayaśas, Kumārabhūti, Śivakuṇḍa, Śiva, another Śiva, Somaviṣṇu, Satyaviṣṇu, Kaṅkuṭi, Nandadāman, Vīranāga, Nārāyaṇadāsa, Rudra, Bhava, Guha, Acyuta, Kubera, Śarvanāga, Bhavanāga, Śrīdatta, Bhavadatta, Dhanaviṣṇu, Guṇaratha, Naradeva,</item> 
+				<item>as well as ourselves,</item> 
+				</list>
+				respectfully requested <supplied reason="explanation"><foreign>vijñāpitāḥ</foreign></supplied>:<!-- 
+				amwb : here I don't understand why you translate (I assume your understanding is based on the fact that, at the end of the plate, only Kṣemāka, Bhoyila and Mahīdāsa are mentioned):
+				- "puṇḍravarddhaneya-mūlakav¿a?⟨ā⟩stukā-vāstavya-kuṭu-4mbi-kṣemāka⟨ḥ⟩ gulmagandhikā-vāstavya-bhoyilaḥ tatraiva-vāstavya-mahīdāsāv" as subject of vijñāpitāḥ
+				-and "iha-vīthī-mahatta-5ra-kumāradeva-gaṇḍa-prajāpati-jeṣṭhadāmā-kuṭumbi-yaśoviṣṇu-Umayaśa-hariśa(r)mma-6sarp(pa)pālita-hiraṇyagupta-kumārayaśa⟨ḥ⟩ -kumārabhūti-śivakuṇḍa-śivāpara-śiva-somaviṣṇu-7satyaviṣṇu-kaṅkuṭi-nandadāma-vīranāga-nā⟨⟨rā⟩⟩yaṇadāsa-rudra-bhava-guha-Acyuta-kuvera-śarvvanāga-bhava-8nāga-śrīdatta-bhavadatta-dhanaviṣṇu-guṇaratha-naradeva-purogāḥ vayañ ca" as objet of vijñāpitāḥ. 
+				For me, all of these words are subject of vijñāpitāḥ, all are in nominative case? 
+				We have the same construction X-X-X-X-purogāḥ vayaṁ ca vijñāpitāḥ line 12 of Kalaikuri plate BC33
+				After searching occurrences of vijñāpitāḥ, I found that it is constructed in a regular way with an instrumental case (causative construction) as in Dhanaidaha BC31 line 7, BC39 line 8; sometimes with naḥ (so accusative, dative or gen) BC55 line 3 and BC 57 line 3 ; In the Pāla corpus the expression x-mukhena vayaṁ vijñāpatāḥ regularly occurs (Murshidabad
+line 20; Khalimpur line 49; in the ending prose part of Mahendrapāla 7th regnal year Jagajjibanpur and of grant of Gopāla II, Furui 2008, r. y. 3				
+				With this translation, it is not necessary to emend a "ca" after -mahīdāsāv-->
 				</p>
-				<p n="8-13">After purchasing it, we wish give one <foreign>kulyavāpa</foreign> of uncultivated land without revenue charges by way of permanent endowment to be enjoyed in perpetuity to these <supplied reason="explanation">three</supplied> recipients <!-- 
-amwb : I consider locative case as an indication of the destination of the gift (see Renou §223, c p.310)--> — the monastery built for the venerable Arhants in the shrine of Pecikāmrasiddhi in the Dakṣiṇāṅśaka division, the little peripheral monastery built for the purpose of worshipping the Arhants at Gulmagandhika and the temple built for the Lord Sahasraraśmi <supplied reason="explanation">i.e., Sūrya</supplied> in the same Gulmagandhika<!-- 
+				<p n="8-13">After purchasing it, we wish give one <foreign>kulyavāpa</foreign> of uncultivated land without revenue charges 
+					by way of permanent endowment to be enjoyed in perpetuity 
+					to these <supplied reason="explanation">three</supplied> recipients<note>
+					I consider the locative case as an indication of the destination of the gift <supplied reason="explanation">see <bibl><ptr target="bib:Renou1975_01"/><citedRange unit="item">223.C</citedRange><citedRange unit="page">310</citedRange></bibl></supplied>.
+				</note> — <list>
+					<item>the monastery built for the venerable Arhants in the shrine of Pecikāmrasiddhi in the Dakṣiṇāṅśaka territory,</item> 
+					<item>the little peripheral monastery built for the purpose of worshipping the Arhants at Gulmagandhika</item> 
+					<item>and the temple built for the Lord Sahasraraśmi <supplied reason="explanation">i.e., Sūrya</supplied> in the same Gulmagandhika</item><!-- 
 amwb : it is interesting to note that the logic followed to situate a place is to give indications from the most extensive ground to the least extensive one 
---> —  for these <supplied reason="explanation">three</supplied> achievements : <!-- 
+--></list> —  for these <supplied reason="explanation">three</supplied> achievements: <!-- 
 amwb : "for the three achievements" translated what is included by the three dative cases
 --> :
 					<list>
@@ -863,13 +866,14 @@ amwb : "for the three achievements" translated what is included by the three dat
 						<item>- carrying out the repairs of breaches <supplied reason="explanation"><foreign>khaṇḍa</foreign></supplied> and cracks <supplied reason="explanation"><foreign>phuṭṭa</foreign></supplied></item>
 						<item>- consuming of perfumes, incense, and oil.</item>
 					</list>
-					And as<!-- 
-amwb : "and as" tries to translate "ca" + "tad". Maybe add a note <note>We translate the intention of the syntactic structure <foreign>ca ... tad</foreign> (lines 12-3) by the expression "And as ...,...". </note>
---> in your division the custom is sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land that is without revenue charges, be so kind as to accept from our behalf<!-- 
+					And as<note>
+						The causal relationship contained in the syntactic structure <foreign>ca ... tad</foreign> <supplied reason="explanation">lines 12-3</supplied> is rendered by the synctactic construction <q>And as ...,...</q>.
+					</note>
+					in your territory the sale of a <foreign>kulyavāpa</foreign> of uncultivated land that is without revenue charges is customary for <supplied reason="explanation">the price of</supplied> two <foreign>dīnāra</foreign>s, be so kind as to accept from our behalf<!-- 
 amwb : or "be so kind as to accept 2 hand-delivered/hand-given dīnāra
 --> two <foreign>dīnāra</foreign>s and to give one <foreign>kulyavāpa</foreign> of land.
 				</p>
-				<p n="14-16">Wherefore, after receiving this respectful request,it has been established through the investigation of the record-keepers Siṁhanandin and Yaśodāman that : </p>
+				<p n="14-16">Wherefore, after receiving this respectful request, it has been established through the investigation of the record-keepers Siṁhanandin and Yaśodāman that : </p>
 				<list>
 					<item>- this sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land without revenue charges is customary in our territory, so that it ought to be given</item>
 					<item>- there is no conflict <supplied reason="explanation">with the interest of the king</supplied>.</item><!-- 
@@ -878,13 +882,13 @@ amwb : I suggest to cut the long sentence in several shortest sentences to respe
 				</list>
 				<p n="16-20">And after having purchased this <supplied reason="explanation">land</supplied> with the two <foreign>dīnāra</foreign>s received by the artisan <supplied reason="explanation"><foreign>kulika</foreign></supplied> Bhīma in person from Kṣemāka, Bhoyila and Mahīdāsa, six <foreign>droṇavāpa</foreign>s of <supplied reason="explanation">the land purchased by</supplied> Kṣemāka, Bhoyila and Mahīdāsa were entrusted <supplied reason="explanation">to the monasteries</supplied> of the <foreign>śramaṇaka</foreign> master Balakuṇḍa<!-- 
 amwb : according to the deduction made below about Bhoyila's place of residence and the count of drona, one could deduce that these monasteries managed by Balakuṇḍa correspond to "the monastery built for the venerable Arhants in the shrine of Pecikāmrasiddhi in the Dakṣiṇāṅśaka division" and "the little peripheral monastery built for the purpose of worshipping the Arhants at Gulmagandhika". These two places would be located in the Northeast of Gulmagandhikā 
--->, two <foreign>droṇavāpa</foreign>s were allocated (kāritam)<!-- 
+-->, two <foreign>droṇavāpa</foreign>s were allocated <supplied reason="explanation"><foreign>kāritam</foreign></supplied><!-- 
 amwb : here I don't follow the emendation krītam and conserve kāritam, because this causative seems to indicate the transformation of the use of the land by the gift made by the Bhoyila. Among the drona bought by Bhoyila, he dedicates 2 drona to Sambapura and one to the temple of the Lord Sahasraraśmi
--->by Bhoyila to <supplied reason="explanation">the temple situated at</supplied> Sāmbapura<!-- 
+-->precisely by Bhoyila to <supplied reason="explanation">the temple situated at</supplied> Sāmbapura<!-- 
 amwb : Sāmbapura seems to me to be rather a name of place than a name of temple 
---> - among these (two droṇavāpas) (tatra), one in the vicinity of the temple (e(kava)vakulasamīpe =ekam+devakulasamīpe) and one <foreign>droṇavāpa</foreign> was earkmarked (by Bhoyila) for <supplied reason="explanation">using as</supplied> flower-garden and adjacent park (<!--
+--> - among these <supplied reason="explanation">two <foreign>droṇavāpa</foreign>s</supplied> <supplied reason="explanation"><foreign>tatra</foreign></supplied>, one in the vicinity of the temple (e(kava)vakulasamīpe =ekam+devakulasamīpe) and one <foreign>droṇavāpa</foreign> was earkmarked <supplied reason="explanation">by Bhoyila</supplied> for <supplied reason="explanation">using as</supplied> flower-garden and adjacent park <!--
 amwb : it could be useful to indicate in a note that one can deduce from Bhoyila's place of residence (l.4) that this temple Sāmbapura corresponds to "the little peripheral monastery built for the purpose of worshipping the Arhants at Gulmagandhika" and that the other dronaparvan is allocated to "the temple built for the Lord Sahasraraśmi <supplied reason="explanation">i.e., Sūrya</supplied> in the same Gulmagandhika" ?
---> - so this land<!-- 
+--> - so <supplied reason="explanation"><foreign>iti</foreign></supplied> this land<!-- 
 amwb: I understand that the portion of text beginning by "kṣemākabhoyilamahīdāsayo ṣaḍdroṇavāpāḥ" and finishing by "kāritam" is what is included by iti
 --> <supplied reason="explanation">consists of</supplied> seven <foreign>droṇavāpa</foreign>s in the Northeast of Gulmagandhikā, and one <foreign>droṇavāpa</foreign> near the temple<note>
 						This temple may be the one built for the Lord Sahasraraśmi <supplied reason="explanation">i.e., Sūrya</supplied> mentioned as <foreign>devakula</foreign> in line 10.
@@ -895,7 +899,7 @@ Then one can deduce that the  "droṇa-vāpan ekaṁ" near the temple (l.20) ref
 and one droṇavāpa near the temple built for the Lord Sahasraraśmi (which is not situated in the Northeast of Gulmagandhikā)
 The repartition of the droṇavāpas is not clear at all, and in order to obtain a sum of 7+1 droṇavāpas with numbers present in the plate (6, 2 and 1), we have to assume that among the three droṇavāpas which are allocated by Bhoyila, two droṇavāpas have been bought by him alone in addition to the six droṇavāpas acquired by the three Kṣemāka, Bhoyila and Mahīdāsa. In these two droṇavāpas, one could be the one allocated to the temple built for the Lord Sahasraraśmi
 					--> </p>
-			<p n="20-24">In this respect, it is written that the land delimited by these four boundaries — the boundary in the East is the valley (<supplied reason="explanation"><foreign>kandara</foreign></supplied>) of lotus ponds ; and the boundary in the South is the <supplied reason="explanation">divine</supplied>
+			<p n="20-24">In this respect, it is written that the land delimited by these four boundaries — the boundary in the East is the valley <supplied reason="explanation"><foreign>kandara</foreign></supplied> of lotus ponds ; and the boundary in the South is the <supplied reason="explanation">divine</supplied>
 				<note>
 				The word "divine" tries to translate <foreign>deva</foreign>, even if its reading in line 21 is not sure. 
 				</note> 
