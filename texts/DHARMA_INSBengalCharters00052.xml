@@ -113,10 +113,13 @@ amwb : Replaced āyuktak<choice><unclear>ā</unclear><unclear>aḥ</unclear></ch
 --><lb 
 n="2" break="no"/>-māṇḍalika-palāśāṭṭa-pārśvika-vaṭa-gohālī-jambudeva-prāveśya-pr̥ṣṭhima-pottaka-goṣāṭapuñjaka-mūla-nāgiraṭṭa-prāveśya-
 <lb 
-n="3"/>vilva-gohālīṣu brāhmaṇottarān mahattarādi-kuṭumbinaḥ kuśalam anuvarṇṇyānubodhayanti <space/><supplied reason="subaudible">.</supplied>vijñāpayaty asmān brāhmaṇa-nātha<!-- 
+n="3"/>vilva-gohālīṣu brāhmaṇottarān mahattarādi-kuṭumbinaḥ kuśalam anuvarṇṇyānubodhayanti <space/><supplied reason="subaudible">.</supplied></p>
+				<p>vijñāpayaty asmān brāhmaṇa-nātha<!-- 
 amwb : removed nitva and replaced it by Arlo's reading = vilva
 --><!-- 
 amwb : added space after anuvarṇṇyānubodhayanti from Arlo's reading
+--><!-- 
+amwb : added a tag p
 --><lb 
 n="4" break="no"/>śarmmā Etad-bhāryyā rāmī ca <space/> <supplied reason="subaudible">.</supplied> yuṣmākam ihādhiṣṭhānādhikaraṇe dvi-dīnārikkya-kulya-vāpena śaśvat-kālopabhogyo 'kṣaya-nīvī-samudaya-vāhyā<!-- 
 amwb : added a space after rāmī ca arccording to Arlo's reading
@@ -473,9 +476,9 @@ Consequently I consider your translation "the city council" fits well and sugges
 amwb : ask Arlo if it is the good reference for B.D. Chattopadhyaya (1990: 39) 
 -->. <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">209</citedRange></bibl><!-- 
 amwb : I deduced that Sircar IEG = this reference
---> favors something like the former interpretation: <cit><quote>according to some, the city banker or guild president of the town; but actually, the chairman of a board of administration like the Panchāyat; same as the Nagarseṭh who was the chairman of the board called Cauthiyā in late medieval Rajasthan</quote></cit>. In view of the context in which the term occurs in two of the Damodarpur plates (<ref target="DHARMA_INSBengalCharters00047.xml">Damodarpur#1</ref>, line 4 and <ref target="DHARMA_INSBengalCharters00053.xml">#4</ref>, line 3)<!-- 
+--> favors something like the former interpretation: <q>according to some, the city banker or guild president of the town; but actually, the chairman of a board of administration like the Panchāyat; same as the Nagarseṭh who was the chairman of the board called Cauthiyā in late medieval Rajasthan</q>. In view of the context in which the term occurs in two of the Damodarpur plates <supplied reason="explanation"><ref target="DHARMA_INSBengalCharters00047.xml">Damodarpur#1</ref>, line 4 and <ref target="DHARMA_INSBengalCharters00053.xml">#4</ref>, line 3</supplied><!-- 
 amwb : In order to make more clarifications, I added the reference of the two plates and the lines where one can read "nagaraśreṣṭhin" 
--->, and in view of the fact that <foreign>śreṣṭhin</foreign> seems to designate a merchant or banker in the epigraphy of the Gupta period, as elsewhere, I tentatively decide against Sircar’s argument, although the matter is not clear-cut to my taste: the compound <foreign>nagaraśreṣṭhin</foreign> is too rare (none other than in this one and in two of the Damodarpur plates are known to me) to be sure whether the usual meaning of <foreign>śreṣṭhin</foreign> must be assumed to be pertinent in this compound too.. <!--
+-->, and in view of the fact that <foreign>śreṣṭhin</foreign> seems to designate a merchant or banker in the epigraphy of the Gupta period, as elsewhere, I tentatively decide against Sircar’s argument, although the matter is not clear-cut to my taste: the compound <foreign>nagaraśreṣṭhin</foreign> is too rare <supplied reason="explanation">none other than in this one and in two of the Damodarpur plates are known to me</supplied> to be sure whether the usual meaning of <foreign>śreṣṭhin</foreign> must be assumed to be pertinent in this compound too.. <!--
 amwb : I put this part of the note in commentary "Check what, if anything, Bakker, The World of the Skandapurāṇa, says about the term."
 amwb : I checked in Bakker's World of the SP . He does not comment the meaning of the word in particular and translates āryanagara-śreṣṭhin by "venerable mayor" : 
 see the translation of a part of Damodarpur Plate #5 p.242 and its note 688 p.242 : 
@@ -504,12 +507,6 @@ Another possibility would be to consider āryya as an adjective and the translat
 amwb : here as elsewhere I suggest the trasnlation "consisting chiefly of brahmins" cf my arguments in BC39 line 2, BC49 line 2, BC51 line 6, BC57 line 2, BC54 line 1. See MW p.178 col1 et Apte p.408 n°8...voir consisting chiefly of Brahmins Apte p.1174
 --> — in <supplied reason="subaudible">the hamlet of</supplied> Vaṭa-Gohālī by the side of Palāśāṭṭa, <supplied reason="subaudible">that of</supplied> Pr̥ṣṭhimapottaka under Jambudeva, <supplied reason="subaudible">that of</supplied> Goṣāṭapuñjaka, and <supplied reason="subaudible">that of</supplied> Bilva-Gohālī under Mūla-Nāgiraṭṭa, <supplied reason="explanation">all</supplied> in the Nāgiraṭṭa circle of the Dakṣiṇāṅśaka territory,<!-- 
 amwb : in order to make the text more explicit for the reader and to render the locative case, I would add "residing" or "living" in... 
-amwb : maybe it would be useful for the reader to add the note made in BC55 on the term prāveśya : The term X-<foreign>prāveśya</foreign>-Y in cadastral contexts indicates that Y is part of the larger unit X. See the glossary in Schmiedchen forthcoming.
-According to this note and in order to make the text more clear for someone who will not read the sanskrit text in paralell, I would translate the long compound as follows 
-(caution I analyse mūla as a word indicating the proximity as in my proposition of translation of puṇḍravarddhaneya-mūlaka-vastukāvāstavyakuṭumbikṣemāka in BC 
-see MW p.826 col.2 et Apte 8.p.1282) : 
-dakṣiṇāṁśaka-vītheya-nāgiraṭṭa-māṇḍalika + palāśāṭṭa-pārśvika-vaṭa-gohālī-jambudeva-prāveśya-pr̥ṣṭhima-pottaka + ((goṣāṭapuñjaka-mūla-nāgiraṭṭa))-prāveśya-vilva-gohālīṣu
-(residing) in vaṭa-gohālī (which is situated) by the side of Palāśāṭṭa, in Pr̥ṣṭhima-pottaka, (which is) a part of Jambudeva, in vilva-gohālī (which is) part of nāgiraṭṭa close to  goṣāṭapuñjaka, (all) situated in/attached to the Nāgiraṭṭa circle of the Dakṣiṇāṅśaka territory
 --> and inform them:
 </p>
 			<p n="3-9">The brahmin Nāthaśarman and his wife Ramī respectfully request us:<!-- 
@@ -557,22 +554,46 @@ amwb : for me,  "according to the rule for permanent endowments" must be placed 
 --> and protect it in perpetuity as long as moon, sun and stars will last. Year 159, <supplied reason="explanation">month of</supplied> Māgha, day 7.
 </p>
 			<p n="21-25">And it has been said by the Lord Vyāsa:</p>
-			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors.</p>
-			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
-			<p n="3" rend="stanza">Numerous kings have been and are giving land again and again. Whoever holds land at a given time, to him does the fruit belong.</p>
-			<p n="4" rend="stanza">You, excellent Yudhiṣṭhira, must strenuously protect land previously given to brahmins by kings. Safeguarding is even better than giving.</p>
-			<p n="5" rend="stanza">Those who steal a land donation are born (again) as black snakes living in dry caves in the waterless Vindhya forests.</p>
+			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors..<note>
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell..<note>
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+			<p n="3" rend="stanza">Numerous kings have been and are giving land again and again. Whoever holds land at a given time, to him does the fruit belong..<note>
+                    This verse corresponds to the verse numbered 2" among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+			<p n="4" rend="stanza">You, excellent Yudhiṣṭhira, must strenuously protect land previously given to brahmins by kings. Safeguarding is even better than giving..<note>
+                    This verse corresponds to the verse numbered 131 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+			<p n="5" rend="stanza">Those who steal a land donation are born (again) as black snakes living in dry caves in the waterless Vindhya forests.<note>
+                    This verse corresponds to the verse numbered 150 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, but shows some different readings of the <foreign>pāda</foreign>s c and d. 
+                </note></p>
 		</div>
 			<div type="textpart" n="B"><head xml:lang="eng">New translation suggested by amwb</head>
 			<p n="1-3">Hail! From Puṇḍravardhana, the officers and the city council led by the guild-president of the town <supplied reason="explanation">called</supplied> Ārya<note>
-I assume <foreign>Ārya</foreign> as a name of place from several reasons. First, in Damodarpur plates, when the expression <foreign>nagaraśreṣṭhin</foreign> is used, the name of the <foreign>nagaraśreṣṭhin</foreign> is placed after and not before (see <ref target="DHARMA_INSBengalCharters00047.xml">Damodarpur plate #1</ref>, line 4 :	<foreign>nagaraśreṣṭhidhṛtipāla</foreign> "Dhṛtipāla, the town's guild-president"; <ref target="DHARMA_INSBengalCharters00048.xml">Damodarpur plate #2</ref>, line 4 : <foreign>nagara<unclear>śre</unclear>ṣṭhidhṛtipāla</foreign> "Dhṛtipāla, the town's guild-president"; <ref target="DHARMA_INSBengalCharters00053.xml">Damodarpur plate #4</ref> lines 3-4 :  <foreign>nagaraśreṣṭhiribhupāla</foreign> "Ribhupāla, the town's guild-president"; in the <ref target="DHARMA_INSBengalCharters00056.xml">Damodarpur #5 plate</ref>, line 4, we are faced the same expression, <foreign>āryyya<unclear>na</unclear>gara<unclear>śreṣṭhi</unclear>ri<unclear>bhu</unclear>pāla</foreign>, that I suggest translating as here by "Ribhupāla, the guild-president of the town <supplied reason="explanation">called</supplied> Ārya). 
+I assume <foreign>Ārya</foreign> as a name of place from several reasons. First, in Damodarpur plates, when the expression <foreign>nagaraśreṣṭhin</foreign> is used, the name of the <foreign>nagaraśreṣṭhin</foreign> is placed after and not before :
+				<list>
+					<item><ref target="DHARMA_INSBengalCharters00047.xml">Damodarpur plate #1</ref>, line 4 :	<foreign>nagaraśreṣṭhidhṛtipāla</foreign> "Dhṛtipāla, the town's guild-president";</item> 
+				<item><ref target="DHARMA_INSBengalCharters00048.xml">Damodarpur plate #2</ref>, line 4 : <foreign>nagara<unclear>śre</unclear>ṣṭhidhṛtipāla</foreign> "Dhṛtipāla, the town's guild-president";</item> 
+				<item><ref target="DHARMA_INSBengalCharters00053.xml">Damodarpur plate #4</ref> lines 3-4 :  <foreign>nagaraśreṣṭhiribhupāla</foreign> "Ribhupāla, the town's guild-president";</item>
+				<item>in the <ref target="DHARMA_INSBengalCharters00056.xml">Damodarpur #5 plate</ref>, line 4, we are faced the same expression, <foreign>āryyya<unclear>na</unclear>gara<unclear>śreṣṭhi</unclear>ri<unclear>bhu</unclear>pāla</foreign>, that I suggest translating as here by "Ribhupāla, the guild-president of the town <supplied reason="explanation">called</supplied> Ārya.</item></list> 
 				Then, in <ref target="DHARMA_INSBengalCharters00055.xml">the grant of land to monasteries at Śiṣīpuñja, Madhyamasṛgālikā and Grāmakūṭagohālī</ref>, Ārya is the name of a village. In the compound used in this plate in lines 1-2 "<unclear>ṣa</unclear>ṇḍ<unclear>ika-</unclear>vīth<supplied reason="lost">e</supplied>yā<supplied reason="lost">r</supplied><unclear>y</unclear>ya<unclear>-g</unclear>r<supplied reason="lost">āma</supplied>-prāveśya-śiṣīpuñja-maddhyamasr̥gālikā<surplus>yā</surplus>bjataṭāpagaccha-prāveśya-grāma-kūṭagohāly<unclear>āṁ</unclear>, we can observe that the name of the village <foreign>Ārya</foreign> is placed before its designation as a village <foreign>grama</foreign>. In consequence of this, in the compound <foreign>Āryyanagaraśreṣṭhipurogañ</foreign>, it could be possible to construe <foreign>Ārya</foreign> as the name of the <foreign>nagara</foreign>. 
 			</note> 
 			<supplied reason="explanation"><foreign>nagaraśreṣṭhin</foreign></supplied> greet the peasant householders, 
 			beginning with the notables consisting chiefly of Brahmins,<note>
                      The expression <foreign>brāhmaṇottarān</foreign> occurs in several other plates: <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā Grant no. 1, year 159</ref>, line 2; <ref target="DHARMA_INSBengalCharters00049.xml">Baigram Charter of the Time of Kumāragupta I</ref>, line 2 ; <ref target="DHARMA_INSBengalCharters00051.xml">A grant of land in the Tāvīra district</ref>, line 6; <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur Plate of 169 GE</ref>, line 1 and <ref target="DHARMA_INSBengalCharters00057.xml">A second grant concerning the Raktamālā</ref> line 2. The translation suggested here corresponds to the specific meaning of the compound <foreign>brāhmaṇottara</foreign>- reported by <bibl><ptr target="bib:Apte1890_01"/><citedRange unit="page">1174</citedRange></bibl>. If we only follow the meaning given by <bibl><ptr target="bib:Apte1890_01"/><citedRange unit="item">8</citedRange><citedRange unit="page">408</citedRange></bibl> and <bibl><ptr target="bib:MonierWilliams1899_01"/><citedRange unit="page">178</citedRange></bibl> for the word -<foreign>uttara</foreign> <foreign>in fine compositi</foreign>, the translation would be <q>followed by Brahmins</q>.
                  </note> 
-			<supplied reason="explanation">residing</supplied> in Vaṭa-gohālī <supplied reason="explanation">which is situated</supplied> by the side of Palāśāṭṭa, in Pr̥ṣṭhima-pottaka, <supplied reason="explanation">which is</supplied> a part of Jambudeva, in Bilva-gohālī <supplied reason="explanation">which is</supplied> part of Nāgiraṭṭa close to  Goṣāṭapuñjaka, <supplied reason="explanation">all</supplied> attached to the Nāgiraṭṭa circle of the Dakṣiṇāṅśaka territory and inform them:			
+			<supplied reason="explanation">residing</supplied> in Vaṭa-gohālī <supplied reason="explanation">which is situated</supplied> by the side of Palāśāṭṭa, <supplied reason="explanation">residing</supplied> in Pr̥ṣṭhima-pottaka, <supplied reason="explanation">which is</supplied> a part of Jambudeva, <supplied reason="explanation">residing</supplied> in Bilva-gohālī <supplied reason="explanation">which is</supplied> part of Nāgiraṭṭa rooted in Goṣāṭapuñjaka, <supplied reason="explanation">all</supplied> attached to the Nāgiraṭṭa circle of the Dakṣiṇāṅśaka territory<note>
+				The term X-<foreign>prāveśya</foreign>-Y in cadastral contexts indicates that Y is part of the larger unit X. See the glossary in Schmiedchen forthcoming.
+			</note><!-- 
+amwb : maybe it would be useful for the reader to add the note made in BC55 on the term prāveśya : The term X-<foreign>prāveśya</foreign>-Y in cadastral contexts indicates that Y is part of the larger unit X. See the glossary in Schmiedchen forthcoming.
+According to this note and in order to make the text more clear for someone who will not read the sanskrit text in paralell, I would translate the long compound as follows 
+(caution I analyse mūla as a word indicating the proximity as in my proposition of translation of puṇḍravarddhaneya-mūlaka-vastukāvāstavyakuṭumbikṣemāka in BC 
+see MW p.826 col.2 et Apte 8.p.1282) : 
+dakṣiṇāṁśaka-vītheya-nāgiraṭṭa-māṇḍalika + palāśāṭṭa-pārśvika-vaṭa-gohālī-jambudeva-prāveśya-pr̥ṣṭhima-pottaka + ((goṣāṭapuñjaka-mūla-nāgiraṭṭa))-prāveśya-vilva-gohālīṣu
+(residing) in vaṭa-gohālī (which is situated) by the side of Palāśāṭṭa, in Pr̥ṣṭhima-pottaka, (which is) a part of Jambudeva, in vilva-gohālī (which is) part of nāgiraṭṭa rooted in  goṣāṭapuñjaka, (all) situated in/attached to the Nāgiraṭṭa circle of the Dakṣiṇāṅśaka territory
+			--> and inform them:			
 			</p>
 				<p n="3-5">The brahmin Nāthaśarman accompagnied with his wife Ramī respectfully requests us:</p>
 				<p>
@@ -610,7 +631,7 @@ amwb : I feel it is important that the protection is enjoined by the rule for pe
 		<div type="commentary">
 		</div>
 		<div type="bibliography">
-			<p>First edited by <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl>, who described the circumstances of its discovery on page 59. Re-edited here by Arlo Griffiths based on the facsimile published by <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl>. The text has been encoded by Amandine Wattelier-Bricout using a digital edition created by Dániel Balogh for the Siddham project as starting point. Since some readings differ from this previous digital edition, as well as those of <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> and of <bibl><ptr target="bib:Sircar1965_02"/></bibl>, these ones are reported in the apparatus.</p>
+			<p>First edited by <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl>, who described the circumstances of its discovery on page 59. Re-edited here by Arlo Griffiths based on the facsimile published by <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl>. The text has been encoded by Amandine Wattelier-Bricout using a digital edition created by Dániel Balogh for the Siddham project as starting point. Since some readings differ from this previous digital edition, as well as those of <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> and of <bibl><ptr target="bib:Sircar1965_02"/></bibl>, these ones are reported in the apparatus. The text has been translated by Arlo Griffiths and Amandine Wattelier-Bricout.</p>
 			<listBibl type="primary">
 				<bibl n="KND"><ptr target="bib:Dikshit1929-1930_01"/><citedRange unit="page">59-64</citedRange></bibl>
 				<bibl n="DCS"><ptr target="bib:Sircar1965_02"/><citedRange unit="part">III</citedRange><citedRange unit="entry">42</citedRange><citedRange unit="page">359-363</citedRange></bibl>
