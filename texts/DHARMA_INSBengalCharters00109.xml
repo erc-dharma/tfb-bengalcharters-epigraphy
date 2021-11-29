@@ -81,6 +81,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2021-11-30">Apparatus line assignment corrected.</change>
             <change who="part:ryfu" when="2021-11-17" status="draft">Line alignment of line 75 encoded as space.</change>
             <change who="part:ryfu" when="2021-11-12" status="draft">Text, Apparatus, Commentary and Bibliography encoded.</change>            
             <change who="part:ryfu" when="2021-11-11" status="draft">Initial encoding</change>
@@ -364,7 +365,7 @@
                   <app loc="19"><lem>-nirvbhugna-</lem><rdg source="bib:Furui2008_01">-nirvbhugṇa-</rdg></app>
                   <app loc="22"><lem>śa<unclear>y</unclear>i<supplied reason="lost">tā</supplied></lem><rdg source="bib:Furui2008_01">śa<unclear>yi</unclear><gap reason="lost" extent="unknown"/></rdg></app>
                   <app loc="23"><lem>ca kṣ<surplus>y</surplus>āntyā</lem><rdg source="bib:Furui2008_01">vakṣyāntyā</rdg></app>
-                  <app loc="23-24"><lem>-<unclear>kṣm</unclear><supplied reason="lost">ā-bhr̥</supplied><lb n="24" break="no"/>to</lem><rdg source="bib:Furui2008_01">-<unclear>kṣma</unclear><gap reason="lost" extent="unknown"></gap>to</rdg></app>
+                  <app loc="23"><lem>-<unclear>kṣm</unclear><supplied reason="lost">ā-bhr̥</supplied><lb n="24" break="no"/>to</lem><rdg source="bib:Furui2008_01">-<unclear>kṣma</unclear><gap reason="lost" extent="unknown"></gap>to</rdg></app>
                   <app loc="29"><lem>-utpalinī-</lem><rdg source="bib:Furui2008_01">-raty-alinī-</rdg></app>
                   <app loc="30"><lem>-turaṅgar-</lem><rdg source="bib:Furui2008_01">-turaṅga-</rdg></app>
                   <app loc="37"><lem>-jamv<choice><orig>ū</orig><corr>u</corr></choice>-</lem><rdg source="bib:Furui2008_01">-jamvu-</rdg></app>
@@ -374,8 +375,8 @@
                   <app loc="48"><lem>prajñāpāramitādi-</lem><rdg source="bib:Furui2008_01">prajñapāramitādi-</rdg></app>
                   <app loc="49"><lem>-śayanā<choice><orig>ś</orig><corr>s</corr></choice>ana-</lem><rdg source="bib:Furui2008_01">-śayanāsana-</rdg></app>
                   <app loc="61"><lem>śuddhāśayaḥ</lem><rdg source="bib:Furui2008_01">śraddhāśayaḥ</rdg></app>
-                  <app loc="62-63"><lem>-bhā<lb n="63" break="no"/>nta-</lem><rdg source="bib:Furui2008_01">-dā<lb n="63" break="no"/>nta-</rdg></app>
-                  <app loc="69-70"><lem>ayo<lb n="70"/><supplied reason="lost">dhyā</supplied>n</lem><rdg source="bib:Furui2008_01">ayo<lb n="70"/><gap reason="lost" extent="unknown"></gap>t</rdg></app>
+                  <app loc="62"><lem>-bhā<lb n="63" break="no"/>nta-</lem><rdg source="bib:Furui2008_01">-dā<lb n="63" break="no"/>nta-</rdg></app>
+                  <app loc="69"><lem>ayo<lb n="70"/><supplied reason="lost">dhyā</supplied>n</lem><rdg source="bib:Furui2008_01">ayo<lb n="70"/><gap reason="lost" extent="unknown"></gap>t</rdg></app>
                   <app loc="70"><lem>ārthitān</lem><rdg source="bib:Furui2008_01">arthitān</rdg></app>
                   <app loc="70"><lem>nāgamat·</lem><rdg source="bib:Furui2008_01">nāśamat</rdg></app>
                   <app loc="70"><lem>ā pratīcaḥ</lem><rdg source="bib:Furui2008_01">āpavīcaḥ</rdg></app>
@@ -385,11 +386,11 @@
                   <app loc="71"><lem>yad</lem><rdg source="bib:Furui2008_01">yan</rdg></app>
                   <app loc="71"><lem>gajāṁ</lem><rdg source="bib:Furui2008_01">nūjāṁ</rdg></app>
                   <app loc="71"><lem>sada<seg met="-"><gap reason="illegible" unit="character" quantity="1"/></seg>yo</lem><rdg source="bib:Furui2008_01">sadaṇayo</rdg></app>
-                  <app loc="71-72"><lem>mahā-<unclear>sa</unclear><lb n="72" break="no"/><seg met="+"><gap reason="lost" unit="character" quantity="1"/>ḥ</seg></lem><rdg source="bib:Furui2008_01">mahāṁ <gap reason="lost" extent="unknown"/><lb n="72" break="no"/>ḥ</rdg></app>
+                  <app loc="71"><lem>mahā-<unclear>sa</unclear><lb n="72" break="no"/><seg met="+"><gap reason="lost" unit="character" quantity="1"/>ḥ</seg></lem><rdg source="bib:Furui2008_01">mahāṁ <gap reason="lost" extent="unknown"/><lb n="72" break="no"/>ḥ</rdg></app>
                   <app loc="72"><lem>vidham ya</lem><rdg source="bib:Furui2008_01">vidhamya</rdg></app>
                   <app loc="72"><lem>prathe</lem><rdg source="bib:Furui2008_01">praddhe</rdg></app>
                   <app loc="72"><lem>yasyān</lem><rdg source="bib:Furui2008_01">yasyāt-</rdg></app>
-                  <app loc="73-74"><lem>vvibhramodbhe<lb n="74" break="no"/><supplied reason="lost">da</supplied>-</lem><rdg source="bib:Furui2008_01">vvibhūnodbhe<lb n="74" break="no" /><gap reason="lost" extent="unknown"></gap></rdg></app>
+                  <app loc="73"><lem>vvibhramodbhe<lb n="74" break="no"/><supplied reason="lost">da</supplied>-</lem><rdg source="bib:Furui2008_01">vvibhūnodbhe<lb n="74" break="no" /><gap reason="lost" extent="unknown"></gap></rdg></app>
                </listApp>
          </div>
          <div type="translation" resp="part:ryfu">
