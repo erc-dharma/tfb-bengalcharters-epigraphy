@@ -493,7 +493,9 @@ According to the table in <bibl><ptr target="bib:Willis2005_01"/><citedRange uni
 	greet the village tenants of <supplied reason="subaudible">the hamlets</supplied> Trivr̥tā and Śrī-Gohālī of <supplied reason="subaudible">the village</supplied> Vāyigrāma<note>
 		Vāyigrāma is also mentioned in <ref target="DHARMA_INSBengalCharters00032.xml">Damodarpur #3</ref>, line 9.
 	</note> 
-	— consisting chiefly of Brahmins,<!-- 
+	— consisting chiefly of Brahmins,<note>
+                     The expression <foreign>brāhmaṇottarān</foreign> occurs in several other plates: <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā Grant no. 1, year 159</ref>, line 2; <ref target="DHARMA_INSBengalCharters00051.xml">A grant of land in the Tāvīra district</ref>, line 6; <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur Charter of the Time of Budhagupta</ref>, line 3; <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur Plate of 169 GE</ref>, line 1 and <ref target="DHARMA_INSBengalCharters00057.xml">A second grant concerning the Raktamālā</ref> line 2. The translation suggested here corresponds to the specific meaning of the compound <foreign>brāhmaṇottara</foreign>- reported by <bibl><ptr target="bib:Apte1890_01"/><citedRange unit="page">1174</citedRange></bibl>. If we only follow the meaning given by <bibl><ptr target="bib:Apte1890_01"/><citedRange unit="item">8</citedRange><citedRange unit="page">408</citedRange></bibl> and <bibl><ptr target="bib:MonierWilliams1899_01"/><citedRange unit="page">178</citedRange></bibl> for the word -<foreign>uttara</foreign> <foreign>in fine compositi</foreign>, the translation would be <q>followed by Brahmins</q>.
+                 </note><!-- 
 amwb  I replaced "the most eminent among them being the Brahmins" by 
 amwb: here as in BC 39, BC57 and BC51, uttara ifc means "followed by" or "consisting of" MW p.178 col1 and Apte p.408 n°8...see "consisting chiefly of Brahmins" Apte p.1174) in this case, this means that landholders are brahmins?
 	--> 
@@ -570,8 +572,8 @@ amwb: here make changes if we have changed something in l.5 about ādya-stamba
 	there is no conflict with the interest of the king; 
 	there is only benefit, 
 	and obtainment by His Majesty the Sovereign of a sixth part of the merit <supplied reason="explanation">accruing from the donation</supplied>;<note>
-		Indeed, the king usually takes a sixth of each transaction as it is mentionned in <title>Manusmr̥ti</title> 7.131-132. Here, as the land yields no tax, the benefit for the king is only meritorious and due to his act of protection. This understanding is also confirmed by the final stanzas which emphasises the act of protection and by the vers I.331 from Yājñavalkya’s <title>Dharmaśāstra</title>:
-		<q><foreign>puṇyātṣaḍbhāgamādatte nyāyena paripālayan <g type="danda">.</g> sarvadānādhikaṁ yasmānnyāyena paripālanam <g type="ddanda">.</g></foreign></q>
+		Indeed, the king usually takes a sixth of each transaction as it is mentionned in <title>Manusmr̥ti</title> 7.131-132. Here, as the land yields no tax, the benefit for the king is only meritorious and due to his act of protection. This understanding is also confirmed by the final stanzas which emphasises the act of protection and by the verse I.331 from Yājñavalkya’s <title>Dharmaśāstra</title>:
+		<q><foreign>puṇyātṣaḍbhāgamādatte nyāyena paripālayan</foreign> <g type="danda">.</g> <foreign>sarvadānādhikaṁ yasmānnyāyena paripālanam</foreign> <g type="ddanda">.</g></q>
 		<q>He <supplied reason="explanation">the king</supplied> takes a sixth portion of the merits by providing protection justly, because providing protection justly greater than all gifts.</q> <supplied reason="explanation">Translation <bibl><ptr target="bib:Olivelle2019_01"/><citedRange unit="page">107</citedRange></bibl></supplied>.
 		
 	</note><!-- 
@@ -600,12 +602,7 @@ amwb : for the compound talavaṭakādyarttham and the meaning of ādi, here it 
 				<item>and in this very place to Bhāskara, one <foreign>droṇavāpa</foreign> of inhabitable terrain;
 </item>
 			</list>
-<p>in this way three <foreign>kulyavāpa</foreign>s and two <foreign>droṇavāpa</foreign>s have been given with a copper plate for a permanent endowment. Low:<!-- 
-amwb : I deduce that "low" translates "ninna", but here a note would be welcome in order to mention that one could find explanations in the commmentary part; I understand that Arlo follows Sircar who follows Shastri's suggestion in his note 5 p.344 which understands ninna as a mistake for nimna. 
-Apte p. 903 nimna 1. plunged, dipped into, immersed, submerged 2. gone down, set (as the sun) 3. overhelmed, covered 4. depressed, not proeminent
-For my part, i have the feeling that nimna could here have the third meaning in order to refer to the qualification "ādyastamva = originally covered" rather than to "khilakṣettra" and I will translate by "covered <supplied reason="explanation">land</supplied> : 3 ku" or "bush(land) : 3 ku" , "buildable <supplied reason="explanation">land</supplied> 2 dro"
---> 
-3 <foreign>ku<supplied reason="subaudible">lyavāpa</supplied></foreign>; inhabitable: 2 <foreign>dro<supplied reason="subaudible">ṇavāpa</supplied></foreign>.
+<p>in this way three <foreign>kulyavāpa</foreign>s and two <foreign>droṇavāpa</foreign>s have been given with a copper plate for a permanent endowment. Low <supplied reason="explanation"><foreign>ninna</foreign></supplied>: 3 <foreign>ku<supplied reason="subaudible">lyavāpa</supplied></foreign>; inhabitable: 2 <foreign>dro<supplied reason="subaudible">ṇavāpa</supplied></foreign>.
 </p>
 <p n="18-21">You there <supplied reason="explanation">mentioned at the start of the grant</supplied> 
 shall separate them off using two reeds, 
@@ -616,16 +613,16 @@ in a place that does not conflict with your own cultivation;
 shall limit them in the four directions 
 with long-lasting markers such as <supplied reason="explanation">pots filled with</supplied><note>
 This interpretation is based on the Smr̥ti passages cited in the commentary. Others sources give details about the manner to mark boundaries. For example, <title>Manusmr̥ti</title> 8.249-50 suggests demarcating boundaries by several objects (translation <bibl><ptr target="bib:Olivelle2005_01"/></bibl>): 
-<p rend="stanza" n="249"><foreign>upachannāni cānyāni sīmāliṅgāni kārayet</foreign> <g type="danda">.</g>
-<foreign>sīmājñāne nṛṇāṁ vīkṣya nityaṁ loke viparyayam</foreign> <g type="ddanda">.</g></p>
-<p rend="stanza" n="250"><foreign>aśmano ’sthīni govālāṁs tuṣān bhasma kapālikāḥ</foreign> <g type="danda">.</g>
-<foreign>karīṣam iṣṭakāṅgārāṁś śarkarā vālukās tathā</foreign> <g type="ddanda">.</g></p>
-<p rend="stanza">Seeing that in the world controversies constantly arise due to people’s ignorance of boundaries, he should also have other concealed boundary markers ensconced stones, bones, cow’s hair, chaff, ashes, potsherds, dried cow dung, bricks, coal <supplied reason="explanation"><foreign>aṅgāra</foreign></supplied>, pebbles, and sand.</p>
-<p>Yājñavalkya’s <title>Dharmaśāstra</title> 2.154-5 gives also a list of materials used to mark boundaries (translation <bibl><ptr target="bib:Olivelle2019_01"/></bibl>:</p>
-	<p rend="stanza" n="154"><foreign>sīmno vivāde kṣetrasya sāmantāḥ sthavirā gaṇāḥ</foreign> <g type="danda">.</g> <foreign>gopāḥ sīmnaḥ kṛśāno’nye sarve ca vanagocarāḥ</foreign> <g type="ddanda">.</g></p>
-	<p rend="stanza" n="155"><foreign>nayeyur ete sīmāntaṃ sthalāṅgāratuṣadrumaiḥ</foreign> <g type="danda">.</g> <foreign>setuvalmīkanimnāsthicaityādyair upalakṣitam</foreign> <g type="ddanda">.</g></p>
-	<p>When there is a dispute regarding a boundary of a field, neighbours, elderly people, persons from an association, herdmen, others famers near the boundary, and all men roaming in the forest should ascertain the boundary revealed by mounds <supplied reason="explanation"><foreign>sthala</foreign></supplied>, charcoal <supplied reason="explanation"><foreign>aṅgāra</foreign></supplied>, chaff <supplied reason="explanation"><foreign>tuṣa</foreign></supplied>, and trees, and by dikes, anthills, trenches, bones, shrines, and the like. </p>
-	<p>See also <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="note">7</citedRange><citedRange unit="page">358</citedRange></bibl></p>
+<q><foreign>upachannāni cānyāni sīmāliṅgāni kārayet</foreign> <g type="danda">.</g>
+<foreign>sīmājñāne nṛṇāṁ vīkṣya nityaṁ loke viparyayam</foreign> <g type="ddanda">.</g></q>
+<q><foreign>aśmano ’sthīni govālāṁs tuṣān bhasma kapālikāḥ</foreign> <g type="danda">.</g>
+<foreign>karīṣam iṣṭakāṅgārāṁś śarkarā vālukās tathā</foreign> <g type="ddanda">.</g></q>
+<q>Seeing that in the world controversies constantly arise due to people’s ignorance of boundaries, he should also have other concealed boundary markers ensconced stones, bones, cow’s hair, chaff, ashes, potsherds, dried cow dung, bricks, coal <supplied reason="explanation"><foreign>aṅgāra</foreign></supplied>, pebbles, and sand.</q>
+<p>Yājñavalkya’s <title>Dharmaśāstra</title> 2.154-5 gives also a list of materials used to mark boundaries (translation <bibl><ptr target="bib:Olivelle2019_01"/></bibl>):</p>
+	<q><foreign>sīmno vivāde kṣetrasya sāmantāḥ sthavirā gaṇāḥ</foreign> <g type="danda">.</g> <foreign>gopāḥ sīmnaḥ kṛśāno’nye sarve ca vanagocarāḥ</foreign> <g type="ddanda">.</g></q>
+	<q><foreign>nayeyur ete sīmāntaṃ sthalāṅgāratuṣadrumaiḥ</foreign> <g type="danda">.</g> <foreign>setuvalmīkanimnāsthicaityādyair upalakṣitam</foreign> <g type="ddanda">.</g></q>
+	<q>When there is a dispute regarding a boundary of a field, neighbours, elderly people, persons from an association, herdmen, others famers near the boundary, and all men roaming in the forest should ascertain the boundary revealed by mounds <supplied reason="explanation"><foreign>sthala</foreign></supplied>, charcoal <supplied reason="explanation"><foreign>aṅgāra</foreign></supplied>, chaff <supplied reason="explanation"><foreign>tuṣa</foreign></supplied>, and trees, and by dikes, anthills, trenches, bones, shrines, and the like. </q>.
+See also <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="note">7</citedRange><citedRange unit="page">358</citedRange></bibl>
 </note> 
 chaff or charcoal; shall make the donation and shall protect it in perpetuity according to the rule of a permanent endowment. And out of deference to this rule it is to be protected by present and future administrators, etc.
 </p>
@@ -633,18 +630,18 @@ chaff or charcoal; shall make the donation and shall protect it in perpetuity ac
 And it has been said by the magnanimous Lord Vedavyāsa:	
 </p>
 <p n="1" rend="stanza">
-The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors.<note>
-                    This verse corresponds to the verse numbered 132 among the Bhūmi Stanzas listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1966_02"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.<note>
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
                 </note>
 </p>
 <p n="2" rend="stanza">
 The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
-                    This verse corresponds to the verse numbered 123 among the Bhūmi Stanzas listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1966_02"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
                 </note>
 </p>
 <p n="3" rend="stanza">
 You, excellent Yudhiṣṭhira, must strenuously protect land previously given to brahmins by kings. Safeguarding is even better than giving.<note>
-                    This verse corresponds to the verse numbered 131 among the Bhūmi Stanzas listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1966_02"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, but shows a different reading of its first <foreign>pāda</foreign>. 
+                    This verse corresponds to the verse numbered 131 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, but shows a different reading of its first <foreign>pāda</foreign>. 
                 </note>			
 </p>
 <p n="25">Year 128, <supplied reason="explanation">month of</supplied> Māgha, day 19.</p>
@@ -652,15 +649,15 @@ You, excellent Yudhiṣṭhira, must strenuously protect land previously given t
 		<div type="commentary">
 			<p>Regarding the indication <foreign>ninna ku 3 sthala dro 2 </foreign>(line 17), in <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> one reads the following note: <cit><quote>This word (<foreign>ninna</foreign>) put before the abbreviated totalisation of the amount of land purchased does not appear to me explicable. [<foreign>Phuṭṭa</foreign> (= Skt. <foreign>sphuṭṭa</foreign>) in line 7 would suggest that it might stand for Skt. <foreign>nimna</foreign> meaning low land.—Ed.]</quote></cit>. The editor’s hypothesis is confirmed by the fact that <foreign>nimna</foreign> and <foreign>sthala</foreign> form a fixed pair. See <title>Rāmāyaṇa</title> 6.93.19 <foreign>sthalanimnāni bhūmeś ca</foreign>, but particularly these stanzas from the <title>Nāradasmr̥ti</title> (11.3–5):
 			</p>
-			<p><cit><quote><foreign>grāmasīmāsu ca bahir ye syus tatkṛṣijīvinaḥ |
+			<p><q><foreign>grāmasīmāsu ca bahir ye syus tatkṛṣijīvinaḥ |
 gopaśākunikavyādhā ye cānye vanagocarāḥ ||
 samunnayeyus te sīmāṃ lakṣaṇair upalakṣitām |
 <hi rend="bold">tuṣāṅgāra</hi>kapālaiś ca kumbhair āyatanair drumaiḥ ||
 abhijñātaiś ca valmīka<hi rend="bold">sthalanimno</hi>nnatādibhiḥ |
-kedārārāmamārgaiś ca purāṇaiḥ setubhis tathā ||</foreign></quote></cit>
+kedārārāmamārgaiś ca purāṇaiḥ setubhis tathā ||</foreign></q>
 </p>
-			<p><cit><quote>In the case of the village boundaries, those who make their living by farming outside it, cowherds, bord catchers, hunters and others who inhabit the forest should delineate the boundary which is marked by such things as pots–of chaff, charcoal or crockery–shrines, trees, and by familiar markers such as ant hills, <hi rend="bold">mounds, depressions</hi>, elevations, etc., and paddies, groves, roads, or old dikes</quote></cit> (ed. and transl. <bibl><ptr target="bib:Lariviere1989_01"/></bibl>)</p>
-			<p>In the context, the word <foreign>ninna</foreign> serves as an equivalent to <foreign>(khila)kṣetra</foreign>.
+			<p><q>In the case of the village boundaries, those who make their living by farming outside it, cowherds, bord catchers, hunters and others who inhabit the forest should delineate the boundary which is marked by such things as pots–of chaff, charcoal or crockery–shrines, trees, and by familiar markers such as ant hills, <hi rend="bold">mounds, depressions</hi>, elevations, etc., and paddies, groves, roads, or old dikes.</q> (edition and translqtion <bibl><ptr target="bib:Lariviere1989_01"/></bibl>)</p>
+			<p>In the context, the word <foreign>ninna</foreign> serves as an equivalent to <foreign><supplied reason="explanation">khila</supplied>kṣetra</foreign>.
 </p>
 			<p>The <title>Nāradasmr̥ti</title> passage just cited also clarifies another word figuring immediately after this indication in the inscription, viz. <foreign>tuṣāṅgāra</foreign>. The somewhat cryptic statement of the <title>Nāradasmr̥ti</title> passage is in turn clarified by the following passage translated from fragments of the <title>Br̥haspatismr̥ti</title> (<bibl><ptr target="bib:Jolly1889_01"/><citedRange unit="page">351</citedRange></bibl>):
 </p>
@@ -671,17 +668,17 @@ kedārārāmamārgaiś ca purāṇaiḥ setubhis tathā ||</foreign></quote></ci
 <p n="5" rend="stanza"> Dry cowdung, bones, chaff, charcoal, stones, potsherds, sand, bricks, cows’ tails, cotton seeds, and ashes:</p>
 <p n="6" rend="stanza">After having placed these substances in vessels, one should deposit them underground at the extremities of the boundary.<note>
 These translated stanzas seem to correspond to the following in the <title>Br̥haspatismṛti</title> as reconstructed by <bibl><ptr target="bib:Aiyangar1941_01"/></bibl>, <title>Vyavahārakāṇḍa</title>, chapter 19, pp. 159–162:
-<p n="1" rend="stanza"><foreign>krayavikrayānuśaye vidhir eṣa pradarśitaḥ</foreign> | 
+<p><foreign>krayavikrayānuśaye vidhir eṣa pradarśitaḥ</foreign> | 
 <foreign>grāmakṣetragr̥hādīnāṃ sīmāvādaṁ nibodhata</foreign> || 1 ||</p>
-<p n="7" rend="stanza"><foreign>niveśakāle kartavyaḥ sīmābandhaviniścayaḥ</foreign> | 
+<p><foreign>niveśakāle kartavyaḥ sīmābandhaviniścayaḥ</foreign> | 
 <foreign>prakāśopāṁśucihnaiś ca lakṣitaḥ saṁśayāpahaḥ</foreign> || 7 ||</p>
-<p n="8" rend="stanza"><foreign>vāpīkūpataḍāgāni caityārāmasurālayāḥ</foreign> || 8cd ||</p>
-<p n="9" rend="stanza"><foreign>sthalanimnanadīsrotaḥ śaragulmanagādayaḥ</foreign> | 
+<p><foreign>vāpīkūpataḍāgāni caityārāmasurālayāḥ</foreign> || 8cd ||</p>
+<p><foreign>sthalanimnanadīsrotaḥ śaragulmanagādayaḥ</foreign> | 
 <foreign>prakāśacihnāny etāni sīmāyāṁ kārayet sadā</foreign> || 9 ||</p>
-<p n="17" rend="stanza"><foreign>nihitāni tathānyāni yāni bhūmir na bhakṣayet</foreign> | 17ab |</p> 
-<p n="20" rend="stanza"><foreign>karīṣāsthituṣāṅgāraśarkarāśmakapālikāḥ</foreign> || 20ab ||
+<p><foreign>nihitāni tathānyāni yāni bhūmir na bhakṣayet</foreign> | 17ab |</p> 
+<p><foreign>karīṣāsthituṣāṅgāraśarkarāśmakapālikāḥ</foreign> || 20ab ||
 <foreign>sikateṣṭakagobālakārpāsāsthīni bhasma ca </foreign>|| 20cd ||</p> 
-<p n="21" rend="stanza"><foreign>prakṣipya kumbheṣv etāni sīmānteṣu nidhāpayet</foreign> | 21ab |</p>
+<p><foreign>prakṣipya kumbheṣv etāni sīmānteṣu nidhāpayet</foreign> | 21ab |</p>
 <p>On these stanzas, see <bibl><ptr target="bib:Renou1963_01"/><citedRange unit="page">99-100</citedRange></bibl>.</p>	
 </note>
 </p>

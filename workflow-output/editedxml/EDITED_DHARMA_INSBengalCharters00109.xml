@@ -93,6 +93,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2021-11-17" status="draft">Line alignment of line 75 encoded as space.</change>
          <change who="part:ryfu" when="2021-11-12" status="draft">Text, Apparatus, Commentary and Bibliography encoded.</change>
          <change who="part:ryfu" when="2021-11-11" status="draft">Initial encoding</change>
          <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
@@ -127,7 +128,7 @@
                 <lg n="4" met="sragdharā">
                     <l n="a">ye svī-kurvvanti śaureḥ śvasita-parimalaṁ yoga-nidrā-śayāloḥ</l>
                     <l n="b">yaiś cakre caṇḍa-velā-valana-kalakalaḥ kandare ma<lb n="9" break="no"/>ndarādreḥ<g type="danda">.</g></l>
-                    <l n="c">ye bhūvan sphāra-lakṣmī-nayana-kuvalaya-sragviṇas te taraṅgāḥ</l>
+                    <l n="c">ye ’bhūvan sphāra-lakṣmī-nayana-kuvalaya-sragviṇas te taraṅgāḥ</l>
                     <l n="d">kṣīrāvdher yac-camūnāṁ śrama-jalam apivan svānilaiḥ śīkarārdraiḥ<g type="ddandaStrokeLeft">.</g></l>
                 </lg>
                 <lg n="5" met="śārdūlavikrīḍita">
@@ -137,14 +138,14 @@
                     <l n="d">te grāmā ripu-ghasmareṇa hasatā yena prasādī-kr̥tāḥ<g type="ddandaStrokeLeft">.</g></l>
                 </lg>
                 <lg n="6" met="śārdūlavikrīḍita">
-                    <l n="a">preyaḥ satyam ananta-bhoga-nilayaṁ gopāla-dharmma-krama</l>
-                    <l n="b">-prāptāṅ gām paripālaya<lb n="12" break="no"/>ntam ajitaṁ sa prāpa lakṣmī-pati<g type="danda">.</g></l>
+                    <l n="a">preyaḥ-satyam ananta-bhoga-nilayaṁ gopāla-dharmma-krama</l>
+                    <l n="b">-prāptāṅ gām paripālaya<lb n="12" break="no"/>ntam ajitaṁ sa prāpa lakṣmī-pati<unclear>ṁ</unclear><g type="danda">.</g></l>
                     <l n="c">śrīmat-pāda-nakhendu-dīdhiti-bharodanvan-nimagnākhila</l>
                     <l n="d">-kṣoṇī-bhr̥n-mukuṭānta-patra-makaraṁ śrī-devapālaṁ sutaṁ<g type="ddandaStrokeLeft">.</g></l>
                 </lg>
                 <lg n="7" met="śārdūlavikrīḍita">
                     <l n="a"><lb n="13"/>śvāsās tāṇḍavita-ślathālaka-śikhāḥ śete kapola-sthalī</l>
-                    <l n="b">-talpe pāṇi-maye stanau stavakayanty akṣṇor apām vindavaḥ<g type="danda">.</g></l>
+                    <l n="b">talpe pāṇi-maye stanau stavakayanty akṣṇor apām vindavaḥ<g type="danda">.</g></l>
                     <l n="c">cetaḥ prāṇa-visr̥ṣṭaye<lb n="14"/> spr̥hayatīty utsādita-svāmino</l>
                     <l n="d">yad-vairi-pramadā-janasya na kadāpy eṣā dr̥śā proṣitā<g type="ddandaStrokeLeft">.</g></l>
                 </lg>
@@ -330,7 +331,7 @@
                 <lg n="41" met="vasantatilakā">
                     <l n="a">Etena sāndra-kali-kalmaṣa-taskareṇa</l>
                     <l n="b">tasyānavadya-yaśasaḥ sukr̥tādbhutena<g type="dandaStrokeLeft">.</g></l>
-                    <l n="c">sansāriṇām bhavatu sarvva-bha<lb n="75" break="no"/>ya-praśāntir</l>
+                    <l n="c">sansāriṇām bhavatu sarvva-bha<lb n="75" break="no"/><space unit="character" quantity="16"/>ya-praśāntir</l>
                     <l n="d">vviśvānukampini dr̥ḍhā sugate ca bhaktiḥ<g type="ddandaStrokeLeft">.</g></l>
                 </lg>
                 <lg n="42" met="anuṣṭubh">
@@ -349,6 +350,7 @@
                   <app loc="9"><lem>-sragviṇas</lem><rdg source="bib:Furui2008_01">-sraviṇas</rdg></app>
                   <app loc="9"><lem>yac-</lem><rdg source="bib:Furui2008_01">yat-</rdg></app>
                   <app loc="10"><lem>asūn</lem><rdg source="bib:Furui2008_01"/></app>
+                  <app loc="12"><lem>-pati<unclear>ṁ</unclear></lem><rdg source="bib:Furui2008_01">-pati</rdg></app>
                   <app loc="19"><lem>-nirvbhugna-</lem><rdg source="bib:Furui2008_01">-nirvbhugṇa-</rdg></app>
                   <app loc="22"><lem>śa<unclear>y</unclear>i<supplied reason="lost">tā</supplied></lem><rdg source="bib:Furui2008_01">śa<unclear>yi</unclear><gap reason="lost" extent="unknown"/></rdg></app>
                   <app loc="23"><lem>ca kṣ<surplus>y</surplus>āntyā</lem><rdg source="bib:Furui2008_01">vakṣyāntyā</rdg></app>
@@ -385,7 +387,6 @@
          </div>
          <div type="commentary">
              <div type="textpart" n="D"><head xml:lang="eng">Plate</head>
-                 <p n="75">This line is shorter and aligned to the centre.</p>
                  <p n="76">This line is engraved at the bottom of the plate, with two lines of space between it and the penultimate line.</p>             
              </div>
          </div>

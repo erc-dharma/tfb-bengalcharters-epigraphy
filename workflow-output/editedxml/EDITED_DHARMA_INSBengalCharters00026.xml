@@ -90,7 +90,8 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change when="2021-10-08" who="part:tyfu">Dandas encoded as glyphs.</change>
+         <change who="part:ryfu" when="2021-11-24">Stanza 2 translation corrected.</change>
+         <change when="2021-10-08" who="part:ryfu">Dandas encoded as glyphs.</change>
          <change when="2021-09-30" who="part:ryfu">Commentary added.</change>
          <change who="part:ryfu" when="2021-02-14" status="draft">Apparatus and Translation conpleted.</change>
          <change who="part:ryfu" when="2021-02-14" status="draft">Text and Apparatus conpleted.</change>
@@ -333,7 +334,7 @@
                         <p n="1">Success! Welfare!</p>
 		<p n="1">Success! Oṁ, salutation to the Buddha! Welfare!</p>
 		<p rend="stanza" n="1">The one with mind delighted by the jewel of compassion, who is united with beloved goddess Benevolence, whose dirt of ignorance is cleansed by pure water of the stream of knowledge of perfect enlightenment, who, after conquering the powerful cause of existence producing desire, acquired eternal tranquillity, may he, the illustrious Lord of the World <supplied reason="explanation"> the Buddha</supplied> possessing ten powers be victorious, otherwise also Gopāladeva<supplied reason="explanation">I</supplied>!</p>
-		<p rend="stanza" n="2">From him was born illustrious king Dharmapāla, who was the birth place of Lakṣmī <supplied reason="explanation">the ocean</supplied> with makaras<seg rend="pun">was levying fair tax on the origin of wealth</seg>, able to carry the burden of the earth, a sole refuge for mountains <seg rend="pun">kings</seg> approaching him in fear of cutting of their wings <seg rend="pun">destruction of their troops</seg>, devoted to the protection of custom, an abode of heroism and a dwelling of smile with beauty of milk ocean.</p>
+		<p rend="stanza" n="2">From him was born illustrious king Dharmapāla, who was the birth place of Lakṣmī <supplied reason="explanation">the ocean</supplied> with makaras<seg rend="pun">was levying fair tax on the origin of wealth</seg>, able to carry the burden of the earth, a sole refuge for mountains <seg rend="pun">kings</seg> approaching him in fear of cutting of their wings <seg rend="pun">destruction of their troops</seg>, devoted to the protection of custom, an abode of heroism and great by whiteness with beauty of milk ocean.</p>
 		<p rend="stanza" n="3">Of him, who gained genuine asceticism like Rāma, there was the brother named Vākpāla, similar <supplied reason="subaudible">to him</supplied> and born with virtues of the son of Sumitrā <supplied reason="explanation">Lakṣmaṇa</supplied>, having equal greatness. He was an illustrious sole abode of conduct and valour, adhered to the order of his brother and made quarters under one umbrella without enemy armies.</p>
 		<p rend="stanza" n="4">From him was born the son, the victor named Jayapāla, who cleansed the world by his deeds of Upendra <supplied reason="explanation">Viṣṇu</supplied>. He, the tranquiliser of enemies of Dharma in battle, brought comforts of world kingship to Devapāla, his elder.</p>
 		<p rend="stanza" n="5">Illustrious Vigrahapāla <supplied reason="explanation">I</supplied>, his son like Ajātaśatru<supplied reason="explanation">Indra</supplied>, was born. He was the stream of water that was the clean sword destroying decorations of wives of his enemies.</p>
