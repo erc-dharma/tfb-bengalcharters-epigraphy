@@ -309,12 +309,12 @@ amwb : I replaced mahā<unclear>bhā</unclear>ra<unclear>te by Arlo's reading bu
 --> bhagava<lb 
 n="30" break="no"/>tā vyāsena</p>
 <lg n="1" met="anuṣṭubh">
-<l n="a">sva-dattāṁ para-dattām bā</l>
+<l n="a">sva-dattāṁ para-dattām <choice><sic>b</sic><corr>v</corr></choice>ā</l>
 <l n="b">yo hare<supplied reason="omitted">ta</supplied> vasundharāṁ</l>
 <l n="c">sa viṣṭhāyāṁ k<sic>ri</sic>mir bhūtvā</l>
 <l n="d">pi<unclear>tr̥</unclear>bhiḥ<!-- 
 amwb : I replaced pi<unclear>tr̥bhiḥ</unclear> by Arlo's readding and added the different readings in app
---> saha pacyat<sic>ai</sic><!-- 
+--> saha pacyat<choice><sic>ai</sic><corr>e</corr></choice><!-- 
 amwb : I replaced pa<unclear reason="illegible">cyate</unclear> by Arlo's reading and added the different readings in app; I also addded the tag sic 
 	--></l>
 </lg>
@@ -356,9 +356,7 @@ amwb : I removed the unclear and did not mention in app
 </lg>
 <lg n="5" met="anuṣṭubh">
 <l n="a">pūrvva-dattāṁ dvijātibhyo</l>
-<l n="b">yatnād rakṣya<!-- 
-amwb : here Arlo does not mention to add a correction, so I removed <choice><sic>rakṣya</sic><corr>rakṣa</corr></choice> for the moment, see apparatus 
---> yudhiṣṭhira<!-- 
+<l n="b">yatnād rakṣ<surplus>y</surplus>a yudhiṣṭhira<!-- 
 amwb : I removed <unclear reason="illegible">yu</unclear><unclear>dhi</unclear>ṣṭhira because all three are able to read it --></l>
 <l n="c">mahīm mah<choice><sic>i</sic><corr>ī</corr></choice>matāṁ śreṣṭha</l>
 <l n="d">dānāc chreyo 'nu<unclear>pālanam</unclear><!-- 
@@ -732,13 +730,17 @@ n="24" break="no"/>bhītaka-</lem>
 					<rdg source="bib:Balogh+al2019_01">mahā<unclear>bhā</unclear>ra<unclear>te</unclear></rdg>
 				</app>
 				<app loc="30">
+					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01"><choice><sic>b</sic><corr>v</corr></choice>ā</lem>
+					<rdg source="bib:Sanyal1955-1956_01 bib:Balogh+al2019_01"></rdg>
+				</app>
+				<app loc="30">
 					<lem>pi<unclear>tr̥</unclear>bhiḥ</lem>
 					<rdg source="bib:Sircar1943_02"><supplied reason="lost">pitr̥bhiḥ</supplied></rdg>
 					<rdg source="bib:Sanyal1955-1956_01">pi<unclear>tr̥bhiḥ</unclear></rdg>
 					<rdg source="bib:Balogh+al2019_01">pi<unclear>tr̥bhiḥ</unclear></rdg>
 				</app>
 				<app loc="30">
-					<lem>pacyat<sic>ai</sic></lem>
+					<lem>pacyat<choice><sic>ai</sic><corr>e</corr></choice></lem>
 					<rdg source="bib:Sircar1943_02"><supplied reason="lost">pacyate</supplied></rdg>
 					<rdg source="bib:Sanyal1955-1956_01">pa<supplied reason="lost">cyate</supplied></rdg>
 					<rdg source="bib:Balogh+al2019_01">pa<unclear reason="illegible">cyate</unclear></rdg>
@@ -790,13 +792,8 @@ n="24" break="no"/>bhītaka-</lem>
 					<rdg source="bib:Balogh+al2019_01">ta<unclear>dā</unclear></rdg>
 				</app>
 				<app loc="33">
-					<lem>rakṣya</lem>
-					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01"><choice><sic>rakṣya</sic><corr>rakṣa</corr></choice></rdg>
-					<rdg source="bib:Balogh+al2019_01"><choice><sic>rakṣya</sic><corr>rakṣa</corr></choice></rdg>
+					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">rakṣ<surplus>y</surplus>a</lem>
 					<note>Read <foreign>rakṣa</foreign>, as one can read in <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>, line 24, <ref target="DHARMA_INSBengalCharters00049.xml">Baigram Charter of the Time of Kumāragupta I</ref>, line 24, <ref target="DHARMA_INSBengalCharters00051.xml">A grant of land in the Tāvīra district</ref>, line 20, <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur Charter of the Time of Budhagupta</ref>, line 24 and <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>, lines 23-24.</note>
-					<!-- 
-					amwb : for the moment I suggest reading rakṣa in a note, but if Arlo is Ok, we could be remove this app by adding rakṣ<surplus>y<surplus>a 
-					-->
 				</app>
 				<app loc="33">
 					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">yudhiṣṭhira</lem>
@@ -897,11 +894,21 @@ I translate the instrumental akṣayanīvyā by the expression 'is used for' and
 				The lines 28-29 are really close to the lines 22-24 of <ref target="DHARMA_INSBengalCharters00034.xml">the Jagadispur Charter of the Time of Kumāragupta I</ref>.
 			</note> after considering <supplied reason="explanation"><foreign>avekṣya</foreign></supplied> the benefits of land donation, will have to protect <supplied reason="explanation">this land</supplied> as a permanent endowment.</p>
 			<p n="29-30">And the venerable Vyāsa said in the <title>Mahābhārata</title>:</p>
-			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors.</p>
-			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
-			<p n="3" rend="stanza">A man who gives land to a miserable, to someone become poor, to someone emaciated by his way of life, to someone who is dying, by this conduct, he becomes happy and obtains all his desires.</p>
-			<p n="4" rend="stanza">Numerous holds land and it will be the case again and again. Whoever holds land at a given moment, to him does the fruit belong.</p>
-			<p n="5" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.</p>
+			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors.<note>
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+     </note></p>
+			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, except for the verb used in the <foreign>pāda</foreign> b.
+     </note></p>
+			<p n="3" rend="stanza">A man who gives land to a miserable, to someone become poor, to someone emaciated by his way of life, to someone who is dying, by this conduct, he becomes happy and obtains all his desires.<note>
+                    This verse corresponds to the verse numbered 78 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+     </note></p>
+			<p n="4" rend="stanza">Numerous holds land and it will be the case again and again. Whoever holds land at a given moment, to him does the fruit belong.<note>
+                    This verse corresponds to the verse numbered 23 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+     </note></p>
+			<p n="5" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.<note>
+                    This verse corresponds to the verse numbered 131 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+     </note></p>
 			<p n="34">Year 121, <supplied reason="explanation">month of</supplied> Vaiśakha, day 1.</p>
 		</div>
 		<div type="commentary">

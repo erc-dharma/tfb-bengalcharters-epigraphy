@@ -214,7 +214,7 @@ amwb : removed prārtthayate and replaced it by Arlo's reading =prārtthayete
 --><!-- 
 amwb : add supplied for dharmma according to Arlo's reading, checked DCS's and KND's readings and added them in apparatus
 --><lb 
-n="17" break="no"/>nañ ca bhavati tad evaṅ kriyatām<supplied reason="subaudible">.</supplied> ity anenāvadhāraṇā-kkrameṇāsmād brāhmaṇa-nātha-śarmmata Etad-bhāryyā-rāmiyāś ca dīnāra-tra<lb 
+n="17" break="no"/>nañ ca bhavati tad evaṅ kr<choice><sic>i</sic><corr>ī</corr></choice>yatām<supplied reason="subaudible">.</supplied> ity anenāvadhāraṇā-kkrameṇāsmād brāhmaṇa-nātha-śarmmata Etad-bhāryyā-rāmiyāś ca dīnāra-tra<lb 
 n="18" break="no"/>yam āyīkr̥tyaitābhyāṁ vijñāpitaka-kkramopayogāyopari-nirddiṣṭa-grāma-gohālikeṣu tala-vāṭaka-vāstunā saha kṣetra<!-- 
 amwb : added a k- in kkramopayogāyopari
 --><!-- 
@@ -443,7 +443,8 @@ n="15"/>goṣāṭa°</rdg>
 					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">dharmma-ṣaḍ-</rdg>
 				</app>
 				<app loc="17">
-					<lem source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">kriyatām</lem>
+					<lem>kr<choice><sic>i</sic><corr>ī</corr></choice>yatām</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">kriyatām</rdg>
 					<note>Emend <foreign>krīyatām</foreign>?</note>
 				</app>
 				<app loc="18">
@@ -547,8 +548,7 @@ amwb : I deduce that "itself" translates "ito". In this case, "tatraiva" emendat
 amwb : according to my previous suggestion, one could translate "from Pr̥ṣṭhimapottaka part of Jambudeva"
 -->: four <foreign>droṇavāpa</foreign>s of land;</item>
 				<item>from Goṣāṭapuñja: four <foreign>droṇavāpa</foreign>s of land;</item>
-				<item>from Bilva-Gohālī under Mūla-Nāgiraṭṭa<!-- 
-amwb : according to my previous suggestion, one could translate "from Bilva-Gohālī (which is) part of and close to Nāgiraṭṭa-->": a two-and-a-half <foreign>droṇavāpa</foreign>s;</item>
+				<item>from Bilva-Gohālī under Mūla-Nāgiraṭṭa: a two-and-a-half <foreign>droṇavāpa</foreign>s;</item>
 			</list>
 			thus one-and-a-half <foreign>kulyavāpa</foreign> of land.</p>
 			<p n="9-19">Wherefore, it has been established through the investigation of the chief record-keeper Divākaranandin, and the record-keepers Dhr̥tiviṣṇu, Virocana, Rāmadāsa, Haridāsa, Śaśinandin, Suprabha and Manudatta:</p>
@@ -564,7 +564,8 @@ amwb : in the translation I suggest below, I integrate my previous proposition o
 amwb : here as in BC57, BC49 and BC54, I suggest that the increase of merit is due to the protection of the land made by the king
 -->. So, let it be done <supplied reason="explanation">or: sold?</supplied> in this way.</p>
 			<p>On the basis of this procedure of investigation, in accordance with the rule for permanent endowments, after three <foreign>dīnāra</foreign>s had been received <supplied reason="explanation">by us</supplied> in cash from this brahmin Nāthaśarman and from his wife Ramī, the two have given one-and-a-half <foreign>kulyavāpa</foreign> of land with homestead land <supplied reason="explanation">for use</supplied> as adjoining parcel<!-- 
-	amwb : in the translation I suggest below, I integrate my previous proposition "adjacent park"-->, in the above-mentioned village <foreign>gohālika</foreign>s <supplied reason="explanation">hamlets?</supplied><!-- 
+amwb : in the translation I suggest below, I integrate my previous proposition "adjacent park"
+-->, in the above-mentioned village <foreign>gohālika</foreign>s <supplied reason="explanation">hamlets?</supplied><!-- 
 amwb : maybe add a note to your article 2018 p.40-2, for the meaning of this word? 
 amwb : here I understand grāmagohālikeṣu as a dvandva, see below.
 --> for the purpose of the requested procedure. 1 <abbr>ku</abbr>, 4 <abbr>dro</abbr>.</p>
@@ -573,16 +574,16 @@ amwb : for me,  "according to the rule for permanent endowments" must be placed 
 --> and protect it in perpetuity as long as moon, sun and stars will last. Year 159, <supplied reason="explanation">month of</supplied> Māgha, day 7.
 </p>
 			<p n="21-25">And it has been said by the Lord Vyāsa:</p>
-			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors..<note>
+			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in shit and is cooked with his ancestors.<note>
                     This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
                 </note></p>
-			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell..<note>
+			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
                     This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
                 </note></p>
-			<p n="3" rend="stanza">Numerous kings have been and are giving land again and again. Whoever holds land at a given time, to him does the fruit belong..<note>
+			<p n="3" rend="stanza">Numerous kings have been and are giving land again and again. Whoever holds land at a given time, to him does the fruit belong.<note>
                     This verse corresponds to the verse numbered 2" among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
                 </note></p>
-			<p n="4" rend="stanza">You, excellent Yudhiṣṭhira, must strenuously protect land previously given to brahmins by kings. Safeguarding is even better than giving..<note>
+			<p n="4" rend="stanza">You, excellent Yudhiṣṭhira, must strenuously protect land previously given to brahmins by kings. Safeguarding is even better than giving.<note>
                     This verse corresponds to the verse numbered 131 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
                 </note></p>
 			<p n="5" rend="stanza">Those who steal a land donation are born (again) as black snakes living in dry caves in the waterless Vindhya forests.<note>
@@ -618,7 +619,9 @@ dakṣiṇāṁśaka-vītheya-nāgiraṭṭa-māṇḍalika + palāśāṭṭa-p
 				<p>
 					In your city-council which is held here, the custom is sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land <supplied reason="explanation"><foreign>khilakṣetra</foreign></supplied> or homestead land <supplied reason="explanation"><foreign>vāstu</foreign></supplied> that is without revenue charges and yields no tax, as permanent endowment to be enjoyed in perpetuity.
 				</p>
-				<p n="5-9">Thus <supplied reason="explanation"><foreign>tad</foreign></supplied>, in this very manner, after receiving from both of us the sum of three <foreign>dīnāra</foreign>s, in order to increase the merit of the both of us, be so kind as to give to the venerable Arhants of the monastery in the same Vaṭa-Gohālī, overseen by the grand-disciple of the disciple of the Jaina <foreign>śramaṇa</foreign> master Guhanandin of the Kāśika-Pañcastūpa school, for the sake of perfume, incense, flowers and lamps, etc., , and for the purpose of <supplied reason="explanation">use as</supplied> an adjacent park, one-and-a-half <foreign>kulyavāpa</foreign> of land as permanent endowment <supplied reason="explanation">divided</supplied> exactly as it follows:<note>
+				<p n="5-9">Thus <supplied reason="explanation"><foreign>tad</foreign></supplied>, in this very manner, after receiving from both of us the sum of three <foreign>dīnāra</foreign>s, in order to increase the merit of the both of us, be so kind as to give to the venerable Arhants of the monastery in the same Vaṭa-Gohālī, overseen by the grand-disciple of the disciple of the Jaina <foreign>śramaṇa</foreign> master Guhanandin of the Kāśika-Pañcastūpa school,<note>
+					I see the part of the compound °<foreign>nigrantha-śramaṇācāryya-guhanandi-śiṣya-praśiṣyādhiṣṭhita</foreign>° in line 6 as a kind of guru-lineage whose function would be to proove the great age of this monastery or to assert the high standing of its leader. Consequently I translate both <foreign>śiṣya</foreign> and <foreign>praśiṣya</foreign> by a singular.				
+				</note> for the sake of perfume, incense, flowers and lamps, etc., , and for the purpose of <supplied reason="explanation">use as</supplied> an adjacent park, one-and-a-half <foreign>kulyavāpa</foreign> of land as permanent endowment <supplied reason="explanation">divided</supplied> exactly as it follows:<note>
 From the repartition given below, one can deduce that one <foreign>kulyavāpa</foreign> is worth eight <foreign>droṇavāpa</foreign>s, as <bibl><ptr target="bib:Dikshit1929-1930_01"/><citedRange unit="page">60-1</citedRange></bibl> had already underlined.
 				</note> 
 				<list>
@@ -628,23 +631,47 @@ From the repartition given below, one can deduce that one <foreign>kulyavāpa</f
 				<item>from Bilva-Gohālī <supplied reason="explanation">which is</supplied> part of Mūlanāgiraṭṭa: a two-and-a-half <foreign>droṇavāpa</foreign>s;</item>
 				</list></p>
 				<p n="9-17">Wherefore, it has been established through the investigation of the chief record-keeper Divākaranandin, and the record-keepers Dhr̥tiviṣṇu, Virocana, Rāmadāsa, Haridāsa, Śaśinandin, Suprabha and Manudatta:</p>
-			<p>That the custom in the council of our city is sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land or homestead land that is without revenue charges and yields no tax, as permanent endowment to be enjoyed in perpetuity. So <supplied reason="explanation"><foreign>tad</foreign></supplied>, concerning the one-and-a-half <foreign>kulyavāpa</foreign> of land that the brahmin Nāthaśarman and his wife Ramī ask you, in order to be used for perfume, incense, etc., and for the venerable Arhants of the  the virtuous monastery overseen by the grand-disciple of the disciple of the Jaina master Guhanandin of the Kāśika-Pañcastūpakula school located in Vaṭa-Gohālī by the side of Palāśāṭṭa<note>
-				Here, I conjecture two scribal errors in <foreign>palāśāṭṭapārśvikavaṭagohālīsva</foreign> : first a superfluous <foreign>a</foreign> at the end of the compound and a plural locative instead of a singular one. So I translate as if it was <foreign>palāśāṭṭapārśvikavaṭagohālyām</foreign>. </note>
-				and in order to be used as adjacent park — <supplied reason="explanation">dividing as follows</supplied> one-and-a-half <foreign>droṇavāpa</foreign> of homestead land in Vaṭa-Gohālī here itself, four <foreign>droṇavāpa</foreign>s in Pr̥ṣṭhimapottaka part of Jambudeva, two <foreign>droṇavāpa</foreign>s plus two <foreign>āḍhavāpa</foreign>s from Bilva-Gohālī <supplied reason="explanation">which is</supplied> part of and close to Nāgiraṭṭa —, there is no conflict <supplied reason="explanation">with the interest of the king</supplied>; on the contrary, there is virtue, since wealth will accrue to his Majesty by the additional coming of a sixth part of merit <supplied reason="explanation">accruing from the protection providing by the king</supplied><note>
-On the sixth part of the merit obtained by the king for his protection of the given lands, see <title>Yājñavalkya</title> I.331 (<bibl><ptr target="bib:Olivelle2019_01"/><citedRange unit="page">107</citedRange></bibl>): 
-<cit><quote><foreign>puṇyātṣaḍbhāgamādatte nyāyena paripālayan</foreign> | 
-<foreign>sarvadānādhikaṁ yasmānnyāyena paripālanam</foreign> ||331</quote></cit>
-<cit><quote>he <supplied reason="explanation">the king</supplied> takes a sixth portion of the merits by providing protection justly, because providing protection justly greater than all gifts.</quote></cit>
+			<p>That the custom in the council of our city is sale for two <foreign>dīnāra</foreign>s of a <foreign>kulyavāpa</foreign> of uncultivated land or homestead land that is without revenue charges and yields no tax, as permanent endowment to be enjoyed in perpetuity. So <supplied reason="explanation"><foreign>tad</foreign></supplied>, concerning the one-and-a-half <foreign>kulyavāpa</foreign> of land that the brahmin Nāthaśarman and his wife Ramī ask you, in order to be used for perfume, incense, etc., and for the venerable Arhants of the  the virtuous monastery overseen by the grand-disciple of the disciple of the Jaina master Guhanandin of the Kāśika-Pañcastūpakula school<note>
+				See the previous note <supplied reason="explanation">line 6</supplied> about the translation of the compound °<foreign>nigrantha-śramaṇācāryya-guhanandi-śiṣya-praśiṣyādhiṣṭhita</foreign>° as a guru-lineage. 
+			</note> located in Vaṭa-Gohālī by the side of Palāśāṭṭa<note>
+				Here, as the last <foreign>akṣara</foreign> in line 12 is illegible, I don't take into account this missing <foreign>akṣara</foreign> and conjecture two scribal errors in <foreign>palāśāṭṭapārśvikavaṭagohālīsva</foreign> : first a superfluous <foreign>a</foreign> at the end of the compound and a plural locative instead of a singular one. So I translate as if it was <foreign>palāśāṭṭapārśvikavaṭagohālyām</foreign>. </note>
+				and in order to be used as adjacent park — <supplied reason="explanation">dividing as follows</supplied> 
+				<list>
+					<item>one-and-a-half <foreign>droṇavāpa</foreign> of homestead land in Vaṭa-Gohālī here itself,</item>
+					<item>four <foreign>droṇavāpa</foreign>s in Pr̥ṣṭhimapottaka part of Jambudeva,</item> 
+					<item>four <foreign>droṇavāpa</foreign>s from Goṣāṭapuñja,</item>
+					<item>two <foreign>droṇavāpa</foreign>s plus two <foreign>āḍhavāpa</foreign>s from Bilva-Gohālī <supplied reason="explanation">which is</supplied> part of Mūlanāgiraṭṭa  —</item>
+				</list>; <supplied reason="explanation"> concerning this one-and-a-half <foreign>kulyavāpa</foreign> of land</supplied>, there is no conflict <supplied reason="explanation">with the interest of the king</supplied>; on the contrary, there is virtue, since wealth will accrue to his Majesty by the additional coming of a sixth part of merit <supplied reason="explanation">accruing from the protection providing by the king</supplied><note>
+On the sixth part of the merit obtained by the king for his protection of the given lands, see <title>Yājñavalkya</title> I.331 <supplied reason="explanation"><bibl><ptr target="bib:Olivelle2019_01"/><citedRange unit="page">107</citedRange></bibl></supplied>: 
+<q><foreign>puṇyātṣaḍbhāgamādatte nyāyena paripālayan</foreign> | 
+<foreign>sarvadānādhikaṁ yasmānnyāyena paripālanam</foreign> ||331</q>
+<q>he <supplied reason="explanation">the king</supplied> takes a sixth portion of the merits by providing protection justly, because providing protection justly greater than all gifts.</q>
 				</note>
-				So, let <supplied reason="explanation">this one-and-a-half <foreign>kulyavāpa</foreign> of land</supplied> be done <supplied reason="explanation">or: sold?</supplied> in this way.</p>
-				<p n="17-19">On the basis of this procedure of investigation, after three <foreign>dīnāra</foreign>s had been received <supplied reason="explanation">by us</supplied> in cash from this brahmin Nāthaśarman and from his wife Ramī, the two have given one-and-a-half <foreign>kulyavāpa</foreign> of land with homestead land <supplied reason="explanation">for use</supplied> as adjacent park, in the above-mentioned villages and <foreign>gohālika</foreign>s <supplied reason="explanation">hamlets?</supplied><!-- 
+				So, let <supplied reason="explanation">this transaction</supplied> be done in this way.</p>
+				<p n="17-19">On the basis of this procedure of investigation, after three <foreign>dīnāra</foreign>s had been received <supplied reason="explanation">by us</supplied> in cash from this brahmin Nāthaśarman and from his wife Ramī, the two have given one-and-a-half <foreign>kulyavāpa</foreign> of land with homestead land as well as an adjacent park, in the above-mentioned villages and <foreign>gohālika</foreign>s <supplied reason="explanation">hamlets?</supplied><!-- 
 amwb : I interpret grāmagohālikeṣu as a dvandva because we have only two names of place finishing by gohālī
 --> for the purpose of the requested procedure, in accordance with the rule for permanent endowments. 1 <abbr><foreign>ku</foreign></abbr>, 4 <abbr><foreign>dro</foreign></abbr>. </p>
 				<p n="19-21">So <supplied reason="explanation"><foreign>tad</foreign></supplied>, after separating them off using six reeds,<!-- 
 amwb : it seems to me that the obligation is about the act of donation, not specially on the preparation of the ground because they choose the land they want to give according their own cultivation
---> in a place that does not conflict with your own cultivation, you must make the donation and protect it according to the rule for permanent endowments<!-- 
+--> in a place that does not conflict with your own cultivation, you must make the donation and,according to the rule for permanent endowments<!-- 
 amwb : I feel it is important that the protection is enjoined by the rule for permanent endowments 
---> in perpetuity as long as moon, sun and stars will last. Year 159, <supplied reason="explanation">month of</supplied> Māgha, day 7. </p>
+-->, you must protect it  in perpetuity as long as moon, sun and stars will last. Year 159, <supplied reason="explanation">month of</supplied> Māgha, day 7. </p>
+				<p n="21-25">And it has been said by the Lord Vyāsa:</p>
+			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.<note>
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+			<p n="3" rend="stanza">Numerous kings have been and are giving land again and again. Whoever holds land at a given time, to him does the fruit belong.<note>
+                    This verse corresponds to the verse numbered 2" among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+			<p n="4" rend="stanza">You, excellent Yudhiṣṭhira, must strenuously protect land previously given to brahmins by kings. Safeguarding is even better than giving.<note>
+                    This verse corresponds to the verse numbered 131 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+			<p n="5" rend="stanza">Those who steal a land donation are born <supplied reason="explanation">again</supplied> as black snakes living in dry caves in the waterless Vindhya forests.<note>
+                    This verse corresponds to the verse numbered 150 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, but shows some different readings of the <foreign>pāda</foreign>s c and d. 
+                </note></p>
 			</div>
 		</div>
 		<div type="commentary">
