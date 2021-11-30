@@ -100,7 +100,7 @@ daba : The Siddham ID will need to be retained, probably as <altIdentifier>, whe
 <p><pb 
 
 n="1r"/><lb 
-n="1"/>svasti<supplied reason="subaudible">.</supplied> śr̥ṅgavera-vaitheya-pūrṇṇakośikāyāḥ<!--
+n="1"/>svasti<supplied reason="subaudible">.</supplied> śr̥ṅgavera-vaitheya-pūrṇṇak<choice><sic>o</sic><corr>au</corr></choice>śikāyāḥ<!--
 amwb: caution here ! because Arlo notes a different reading from Sircar's one : kośikāyāḥ. Need to check the plate. 2021-08-19 : from the photos, it seems to me that there is no difference between this akṣara and the one of the line 27 (koṭara)
 --> bhaṭṭāraka-pādānuddhyātaḥ Āyuktakācyuto
 <lb 
@@ -352,8 +352,9 @@ amwb : after checking the photo I will add a space between hana and mi
 				<div type="apparatus">
 			<listApp>
 				<app loc="1">
-				<lem>°kośikāyāḥ</lem>
+				<lem>°k<choice><sic>o</sic><corr>au</corr></choice>śikāyāḥ</lem>
 				<rdg source="bib:Sircar1969-1970_01 bib:Sircar1973_01 bib:Balogh+al2019_01">°kauśikāyāḥ</rdg>
+				<note>The place name <foreign>pūrṇṇakośikā</foreign> is regularised in Pūrṇakauśikā in the translation but it is found with the same spelling and with the same location in the territory of Śr̥ṅgavera  in the <ref target="DHARMA_INSBengalCharters00033.xml">Kalaikuri-Sultanpur Plate of the Time of Kumāragupta I</ref>, line 1.</note>
 				</app>
 				<app loc="2">
 					<lem>sagohālike</lem>
@@ -805,7 +806,7 @@ amwb : I know that the reading of deva is not sure but shouldn't we translate it
                     This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
                 </note></p>
 			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
-                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, except for the verb used in the <foreign>pāda</foreign> b. 
                 </note></p>
 			<p n="3" rend="stanza">This <supplied reason="subaudible">land</supplied> given by hundreds of kings is given again and again. Whoever holds land at a given time, to him does the fruit belong.<note>
                     This verse corresponds to the verse numbered 23 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, but shows a different reading of the two first <foreign>pāda</foreign>s. 
@@ -905,7 +906,7 @@ The repartition of the droṇavāpas is not clear at all, and in order to obtain
                     This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
                 </note></p>
 			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
-                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, except for the verb used in the <foreign>pāda</foreign> b. 
                 </note></p>
 			<p n="3" rend="stanza">This <supplied reason="subaudible">land</supplied> given by hundreds of kings is given again and again. Whoever holds land at a given time, to him does the fruit belong.<note>
                     This verse corresponds to the verse numbered 23 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, but shows a different reading of the two first <foreign>pāda</foreign>s. 
