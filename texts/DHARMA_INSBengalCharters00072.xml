@@ -87,6 +87,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2021-11-30" status="draft">Apparatus line assignment corrected.</change>
          <change who="part:ryfu" when="2021-10-11">Dandas encoded as glyphs.</change>
          <change who="part:ryfu" when="2021-02-01" status="draft">Text, apparatus and translation revised</change>
          <change who="part:ryfu" when="2020-12-20" status="draft">Apparatus, Translation and Bibliography completed.</change>
@@ -314,7 +315,7 @@
                    <app loc="34"><lem>-bh<choice><sic>uṁ</sic><corr>ū</corr></choice>mau</lem><rdg source="bib:Furui2015_02">-bhūṁmau</rdg></app>
                    <app loc="35"><lem>-bh<choice><sic>u</sic><corr>ū</corr></choice>mau</lem><rdg source="bib:Furui2015_02">-bhūmau</rdg></app>
                    <app loc="38"><lem>˚mahiṣy<choice><sic>ā</sic><corr>a</corr></choice>jā<choice><sic>c</sic><corr>v</corr></choice>ikā˚</lem><rdg source="bib:Furui2015_02">˚mahiṣyajāvikā˚</rdg></app>
-                   <app loc="42-43"><lem>-bhaṭṭa-</lem><note>Inscribed with narrower akṣaras. </note></app>
+                   <app loc="42"><lem>-bha<lb n="43" break="no"/>ṭṭa-</lem><note>Inscribed with narrower akṣaras. </note></app>
                    <app loc="43"><lem>Akiñcit<surplus>ar</surplus>-kara-</lem><rdg source="bib:Furui2015_02">Akiñcita-kara-</rdg></app>
                    <app loc="49"><lem>-phala-</lem><rdg source="bib:Furui2015_02">-hala-</rdg></app>
                    <app loc="51"><lem>-karmma-</lem><rdg source="bib:Furui2015_02">-karmmā-</rdg></app>
