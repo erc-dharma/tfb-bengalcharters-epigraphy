@@ -92,6 +92,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2021-11-30" status="draft">Apparatus line assignment corrected.</change>
          <change when="2021-10-23" who="part:ryfu">Dandas encoded as glyphs.</change>
          <change when="2021-09-30" who="part:ryfu">Commentary and bibliography completed</change>
          <change when="2021-09-30" who="part:ryfu">Apparatus and translation completed</change>
@@ -209,16 +210,16 @@
                <listApp>
                   <app loc="4-5"><lem>śrīmāl lokanātho</lem><rdg source="bib:Mishra1981_01">śrīmāṁ llokanātho</rdg> <rdg source="bib:SubramoniaIyer2011-2012_01">śrīmān lokanātho</rdg></app>
                   <app loc="5"><lem>!’nyaś</lem><rdg source="bib:SubramoniaIyer2011-2012_01">nyaś</rdg></app>
-                  <app loc="6-7"><lem>!’smād</lem><rdg source="bib:SubramoniaIyer2011-2012_01">smād</rdg></app>
-                  <app loc="8-9"><lem>-tapasas</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-tapas</rdg></app>
-                  <app loc="9-10"><lem><add place="inline">pra</add>sava-bhūr</lem><rdg source="bib:SubramoniaIyer2011-2012_01">prasav abhūd</rdg><note>The akṣara pra is squeezed to a narrow space, possibly added later.</note></app>
+                  <app loc="6"><lem>!’smā<lb n="7" break="no"/>d</lem><rdg source="bib:SubramoniaIyer2011-2012_01">smā<lb n="7" break="no"/>d</rdg></app>
+                  <app loc="8"><lem>-tapa<lb n="9" break="no"/>sas</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-tapa<lb n="9" break="no"/>s</rdg></app>
+                  <app loc="9"><lem>-<add place="inline">pra</add><lb n="10" break="no"/>sava-bhūr</lem><rdg source="bib:SubramoniaIyer2011-2012_01">pra<lb n="10" break="no"/>sav abhūd</rdg><note>The akṣara pra is squeezed to a narrow space, possibly added later.</note></app>
                   <app loc="12"><lem>yasmi<surplus>r</surplus>n</lem><rdg source="bib:SubramoniaIyer2011-2012_01">yasmin</rdg></app>
                   <app loc="13"><lem>Āsāñ</lem><rdg source="bib:SubramoniaIyer2011-2012_01">Āśañ</rdg></app>
                   <app loc="14"><lem>upaśamita-</lem><rdg source="bib:Mishra1981_01">upaśamit-</rdg></app>
                   <app loc="14"><lem>vigrahapālas</lem><rdg source="bib:SubramoniaIyer2011-2012_01">vigrahapāla</rdg></app>
                   <app loc="15"><lem>guṇān·</lem><rdg source="bib:SubramoniaIyer2011-2012_01">gunāṁ</rdg><note>The sign for ā takes a shape different from others, probably due to the limit of space.</note></app>
                   <app loc="16"><lem>˚āṅghri-</lem><rdg source="bib:SubramoniaIyer2011-2012_01">˚āṁghri-</rdg></app>
-                  <app loc="16-17"><lem>˚opalaṁ</lem><rdg source="bib:SubramoniaIyer2011-2012_01">˚opālaṁ</rdg></app>
+                  <app loc="16"><lem>-pīṭhopa<lb n="17" break="no"/>laṁ</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-pīṭhopā<lb n="17" break="no"/>laṁ</rdg></app>
                   <app loc="18"><lem>yasyās</lem><rdg source="bib:SubramoniaIyer2011-2012_01">yasyām</rdg></app>
                   <app loc="19"><lem>kalpāpāya-</lem><rdg source="bib:Mishra1981_01">kaly-āpāya-</rdg></app>
                   <app loc="19"><lem>-jālaiḥ</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-jālaḥ</rdg></app>
@@ -227,7 +228,7 @@
                   <app loc="21"><lem>viśvak pātāla-</lem><rdg source="bib:Mishra1981_01">viśvasyātāla-</rdg><rdg source="bib:SubramoniaIyer2011-2012_01">viśvam pātāla-</rdg></app>
                   <app loc="21"><lem>-paṅktin</lem><rdg source="bib:Mishra1981_01">-paṅktīn</rdg></app>
                   <app loc="21"><lem>timira-</lem><rdg source="bib:SubramoniaIyer2011-2012_01">ntimira-</rdg></app>
-                  <app loc="21-22"><lem>-parigatām</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-parigatān</rdg></app>
+                  <app loc="21"><lem>-pari<lb n="22" break="no"/>gatām</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-pari<lb n="22" break="no"/>gatān</rdg></app>
                   <app loc="22"><lem>ullaṅghya</lem><rdg source="bib:SubramoniaIyer2011-2012_01">ullaṅkhya</rdg></app>
                   <app loc="22"><lem>pr̥thvīm</lem><rdg source="bib:Mishra1981_01">pr̥thivīm</rdg></app>
                   <app loc="22"><lem>api</lem><rdg source="bib:SubramoniaIyer2011-2012_01">ani</rdg></app>

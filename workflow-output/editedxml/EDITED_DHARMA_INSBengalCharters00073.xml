@@ -92,6 +92,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2021-11-30" status="draft">Apparatus line assignment corrected.</change>
          <change who="part:ryfu" when="2021-10-14">Dandas encoded as glyphs.</change>
          <change who="part:ryfu" when="2021-09-30">break="no" added to lb.</change>
          <change who="part:ryfu" when="2021-09-21">Translation and Bibliography completed.</change>
@@ -317,7 +318,7 @@
                   <app loc="3"><lem>kṣāntimā<unclear>ṁ*</unclear></lem> <rdg source="bib:Bhattacharya2005-2006_01">kṣāntimān</rdg> <note>However, the shape is different from N in the previous line and closer to ṁ* in the other lines.</note></app>
                   <app loc="5"><lem>jāt<choice><sic>ā</sic><corr>a</corr></choice>ṁ</lem> <rdg source="bib:Bhattacharya2005-2006_01">jātā</rdg></app>
                   <app loc="7"><lem>durvvārā<unclear>ṁ</unclear></lem> <rdg source="bib:Bhattacharya2005-2006_01">durvvārā<supplied reason="omitted">n</supplied></rdg></app>
-                  <app loc="8-9"><lem>cakrāyudhā<supplied reason="omitted">yā</supplied>rthine</lem><note>Emended following the suggestion of SCB, based on the reading of the previous editor, which is metrically justified.</note></app>
+                  <app loc="8"><lem>cakrā<lb n="9" break="no"/>yudhā<supplied reason="omitted">yā</supplied>rthine</lem><note>Emended following the suggestion of SCB, based on the reading of the previous editor, which is metrically justified.</note></app>
                   <app loc="9"><lem>-śv<choice><sic>aṁ</sic><corr>ā</corr></choice>sa-</lem> <rdg source="bib:Bhattacharya2005-2006_01">-śvasa-</rdg></app>
                   <app loc="9"><lem>siñcanty</lem> <rdg source="bib:Bhattacharya2005-2006_01">siñcany</rdg></app>
                   <app loc="11"><lem>jagaty udadhīn</lem> <rdg source="bib:Bhattacharya2005-2006_01">jagat padavīn</rdg></app>
@@ -325,13 +326,13 @@
                   <app loc="14"><lem>-ghaṭā-</lem> <rdg source="bib:Bhattacharya2005-2006_01">-ṣaṭā-</rdg></app>
                   <app loc="14"><lem>-bhūbhr̥d-</lem> <rdg source="bib:Bhattacharya2005-2006_01">-bhubhr̥d-</rdg></app>
                   <app loc="15"><lem>yaiḥ</lem> <rdg source="bib:Bhattacharya2005-2006_01">yeḥ</rdg></app>
-                  <app loc="17-18"><lem>tr<choice><sic>ai</sic><corr>a</corr></choice>yīm</lem> <rdg source="bib:Bhattacharya2005-2006_01">traitīm</rdg> <note>Possibly modified due to metrical requirement to make this pada indravajrā.</note></app>
+                  <app loc="17"><lem>tr<choice><sic>ai</sic><corr>a</corr></choice><lb n="18" break="no"/>yīm</lem> <rdg source="bib:Bhattacharya2005-2006_01">trai<lb n="18" break="no"/>tīm</rdg> <note>Possibly modified due to metrical requirement to make this pada indravajrā.</note></app>
                   <app loc="18"><lem>o<supplied reason="omitted">dvā</supplied>ha</lem> <note>A long syllable necessary in between due to metrical requirement. Emend as such following <ptr target="bib:Ramesh+SubramoniaIyer1977-1978_01"/>.</note></app>
                   <app loc="18"><lem>-pati<choice><sic>s</sic><corr>m</corr></choice></lem> <rdg source="bib:Bhattacharya2005-2006_01">patim</rdg></app>
                   <app loc="19"><lem>-prayāṇa-</lem> <rdg source="bib:Bhattacharya2005-2006_01">-prayāṇe</rdg></app>
                   <app loc="19"><lem>-pūritā</lem> <rdg source="bib:Bhattacharya2005-2006_01">-puritā</rdg></app>
                   <app loc="24"><lem>-kāruṇ<supplied reason="omitted">y</supplied>air</lem> <note>Emendation necessary but metrically incorrect.</note></app>
-                  <app loc="24-25"><lem>āsaṁ*</lem> <rdg source="bib:Bhattacharya2005-2006_01">āsam</rdg></app>
+                  <app loc="24"><lem>ā<lb n="25" break="no"/>saṁ*</lem> <rdg source="bib:Bhattacharya2005-2006_01">ā<lb n="25" break="no"/>sam</rdg></app>
                   <app loc="29"><lem>ā<choice><sic>tta</sic><corr>nu</corr></choice>dhyātaḥ</lem> <rdg source="bib:Bhattacharya2005-2006_01">ānudhyātaḥ</rdg></app>
                   <app loc="31"><lem>-viṣaye</lem> <rdg source="bib:Bhattacharya2005-2006_01">-viṣaya-</rdg></app>
                   <app loc="31"><lem>nandadīrghiko</lem> <rdg source="bib:Bhattacharya2005-2006_01">naṁdadīrghiko</rdg></app>
@@ -345,7 +346,7 @@
                   <app loc="47"><lem>sarvvair</lem> <rdg source="bib:Bhattacharya2005-2006_01">sarvver</rdg></app>
                   <app loc="49"><lem>mahān</lem> <rdg source="bib:Bhattacharya2005-2006_01">mahā</rdg></app>
                   <app loc="49"><lem>parip<choice><sic>a</sic><corr>ā</corr></choice>lanīyam</lem> <rdg source="bib:Bhattacharya2005-2006_01">paripālanīyam</rdg></app>
-                  <app loc="53-54"><lem>-saṅgrāmatāreṇa</lem> <rdg source="bib:Bhattacharya2005-2006_01">-śaṅgrāmatāreṇa</rdg></app>
+                  <app loc="53"><lem>-saṅgrāmatā<lb n="54" break="no"/>reṇa</lem> <rdg source="bib:Bhattacharya2005-2006_01">-śaṅgrāmatā<lb n="54" break="no"/>reṇa</rdg></app>
                   <app loc="59"><lem>-pūrit<choice><sic>a</sic><corr>ā</corr></choice>rthi-</lem> <rdg source="bib:Bhattacharya2005-2006_01">-puritartthi-</rdg></app>
                   <app loc="59"><lem><choice><orig>s</orig><corr>ś</corr></choice>aurya<choice><sic>r</sic><corr>ṁ</corr></choice></lem> <rdg source="bib:Bhattacharya2005-2006_01">sauryaṁ</rdg></app>
                   <app loc="59"><lem>satyan</lem> <rdg source="bib:Bhattacharya2005-2006_01">satya-</rdg></app>

@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2021-11-30" status="draft">Apparatus line assignment corrected.</change>
          <change who="part:ryfu" when="2021-11-24">Stanza 2 translation corrected.</change>
          <change when="2021-10-08" who="part:ryfu">Dandas encoded as glyphs.</change>
          <change when="2021-09-30" who="part:ryfu">Commentary added.</change>
@@ -314,9 +315,9 @@
                   <app loc="52"><lem>sā<unclear>mā</unclear>nyo</lem><rdg source="bib:Furui2010_01">sāmānyo</rdg></app>
                   <app loc="53"><lem><unclear>kāle</unclear> pāla<unclear>nīyaḥ krame</unclear>ṇa</lem><rdg source="bib:Furui2010_01"><unclear>kāle pālanīyaḥ krame</unclear>ṇa</rdg></app>
                   <app loc="53"><lem>˚ām<unclear>vu</unclear>-v<unclear>i</unclear>ndu-</lem><rdg source="bib:Furui2010_01">˚ā<unclear>mvu</unclear>-vindu-</rdg></app>
-                  <app loc="54-55"><lem><unclear>mantri</unclear>-śrī-<unclear>p</unclear>r̥thivīsiṅha</lem><rdg source="bib:Furui2010_01">ya-gīdhr̥gi-</rdg></app>
+                  <app loc="54"><lem><unclear>mantri</unclear>-śrī-<unclear>p</unclear>r̥<lb n="55" break="no"/>thivīsiṅha</lem><rdg source="bib:Furui2010_01">ya-gīdhr̥<lb n="55" break="no"/>gi-</rdg></app>
                   <app loc="55"><lem>-<unclear>ś</unclear>ūdradevasya</lem><rdg source="bib:Furui2010_01">candrādityasya</rdg></app>
-                  <app loc="55-56"><lem>-dāmādi<unclear>tya</unclear>-śilpinā</lem><rdg source="bib:Furui2010_01">-dāmādi<unclear>tyena</unclear> śilpinā</rdg></app>
+                  <app loc="55"><lem>-dāmā<lb n="56" break="no"/>di<unclear>tya</unclear>-śilpinā</lem><rdg source="bib:Furui2010_01">-dāmādi<lb n="56" break="no"/><unclear>tyena</unclear> śilpinā</rdg></app>
                </listApp>
              </div>
          </div>
