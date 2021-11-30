@@ -208,7 +208,7 @@
          <div type="apparatus">
              <div type="textpart" n="C">
                <listApp>
-                  <app loc="4-5"><lem>śrīmāl lokanātho</lem><rdg source="bib:Mishra1981_01">śrīmāṁ llokanātho</rdg> <rdg source="bib:SubramoniaIyer2011-2012_01">śrīmān lokanātho</rdg></app>
+                  <app loc="4"><lem>śrī<lb n="5" break="no"/>māl lokanātho</lem><rdg source="bib:Mishra1981_01">śrī<lb n="5" break="no"/>māṁ llokanātho</rdg> <rdg source="bib:SubramoniaIyer2011-2012_01">śrī<lb n="5" break="no"/>mān lokanātho</rdg></app>
                   <app loc="5"><lem>!’nyaś</lem><rdg source="bib:SubramoniaIyer2011-2012_01">nyaś</rdg></app>
                   <app loc="6"><lem>!’smā<lb n="7" break="no"/>d</lem><rdg source="bib:SubramoniaIyer2011-2012_01">smā<lb n="7" break="no"/>d</rdg></app>
                   <app loc="8"><lem>-tapa<lb n="9" break="no"/>sas</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-tapa<lb n="9" break="no"/>s</rdg></app>
