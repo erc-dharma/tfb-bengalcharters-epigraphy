@@ -116,7 +116,7 @@ amwb : replaced IN00074 by filename dharma
 			<div type="edition" xml:lang="san-Latn">
 <p><pb n="1r"/><!-- 
 daba siddham : The editions of Sircar_1943a, Sanyal and Agrawala (who may be copying Sircar SI) differ in many small details, e.g. over what they show as clear and unclear. I'm keeping track only of major editorial differences, and mark the text up according to my reading of the facsimile. 
---><lb n="1"/>svasti<supplied reason="subaudible">.</supplied> śr̥ṅgavera-vaitheya-pūrṇṇakośikāyāḥ<!-- 
+--><lb n="1"/>svasti<supplied reason="subaudible">.</supplied> śr̥ṅgavera-vaitheya-pūrṇṇak<choice><sic>o</sic><corr>au</corr></choice>śikāyāḥ<!-- 
 amwb : in my opinion we can remove the unclear on i / 21-09-2021 : I removed pūrṇṇakoś<unclear>i</unclear>kāyāḥ and replaced it by my own reading
 amwb : replaced siddham's reading "k<unclear>au</unclear>ś<unclear>i</unclear>k<unclear>ā</unclear>yāḥ" by Arlo's one 
 --> Āyuktakācyutadāso ’dhikaraṇañ<!-- 
@@ -131,10 +131,10 @@ amwb : replaced <unclear>dhā</unclear>nyapāṭalikāyāṁ by Arlo's reading.
 amwb : replaced sa<unclear>ṁ</unclear>gohāl<sic>i</sic>ṣu by Arlo's reading 
 --> brāhmaṇādīn grāma-k<unclear>u</unclear>ṭumbina<unclear>ḥ k</unclear>uśalam<!-- 
 amwb: I replaced kuṭumbi<unclear reason="illegible">naḥ k</unclear>uśalam by Arlo's reading
---> anuvarṇya bodhayanti<supplied reason="subaudible">.</supplied><!--
+--> anuvarṇya bodhayanti<supplied reason="subaudible">.</supplied></p><!--
 amwb : replaced bo<unclear>dhayant</unclear>i by Arlo's reading
---> <unclear reason="illegible">vi</unclear>ditam bo
-<lb n="3"/>bhaviṣyati yathā Iha-vīthī-kulika-bhīma-kāyastha-prabhucandra-rudradāsa-devadatta-lakṣmaṇa-k<supplied reason="lost">āntide</supplied>va<!--
+--> <p><unclear reason="illegible">vi</unclear>ditam bo
+<lb n="3"/>bhaviṣyati yathā Iha-vīthī-kulika-bhīma-kāyastha-prabhucandra-rudradāsa-devadatta-lakṣmmaṇa-k<supplied reason="lost">āntide</supplied>va<!--
 amwb : I read lakṣmmaṇa with two m See photo 
 amwb : replaced kā<unclear>ntide</unclear>va by Arlo's reading
 -->-śambhudatta-kr̥ṣṇa<lb n="4" break="no"/>dāsa-pustapāla-si<sic>ṅ</sic>hanandi<!-- 
@@ -165,7 +165,7 @@ daba siddham : Editors readings for the end of the line - Sircar_1943a: svā(?my
 amwb : replaced bhaṭṭa-<unclear>ṣaṣṭhirā</unclear><unclear reason="illegible">ma</unclear>-<unclear>gu</unclear> by Arlo's reading and added in apparatus the different readings
 --><lb n="8" break="no"/>rmma-Uṇṭaśarmma-kr̥ṣṇadatta-nandadāma-bhavadatta-Ahiśarmma-somaviṣṇu<!-- 
 amwb: replaced s<unclear>o</unclear>maviṣṇu- by Arlo's reading
--->-lakṣmaṇaśar<unclear>mma</unclear>-kānti-dhovvoka-kṣemaśar<unclear>mma</unclear>-śu<!-- 
+-->-lakṣmmaṇaśar<unclear>mma</unclear>-kānti-dhovvoka-kṣemaśar<unclear>mma</unclear>-śu<!-- 
 amwb : as in line 3, I read lakṣmmaṇa with a double m see photo
 --><!-- 
 daba siddham : For uṇṭaśarmma, Sircar reads ruṣṭaśarmma. Both seem equally possible and this is at least meaningful. 
@@ -188,9 +188,9 @@ amwb : replaced ya<unclear cert="low">śo</unclear>vi<unclear>ṣṇu-taṅ</unc
 amwb : I replaced śrīgu<unclear>ha</unclear>viṣṇu by Arlo's reading but I did not mention it in the apparatus because DCS, NBS and Arlo are in agreement 
 -->-rāmasvāmi-kāmanakuṇḍa<!-- 
 amwb : I replaced kā<unclear>ma</unclear>nakuṇḍa by Arlo's reading but I did not mention it in the apparatus because DCS, NBS and Arlo are in agreement 
--->-ratibhadra-Acyutabhadra-loḍhaka-prabhukīrtti<!-- 
+-->-ratibhadra-Acyutabhadra-loḍhaka-prabhakīrtti<!-- 
 amwb I read prabha on the plate see photo 
-amwb : I replaced prabhakīrtti by Arlo's reading and added the different readings in the apparatus
+amwb : I didn't replace prabhakīrtti by Arlo's reading but I added the different readings in the apparatus
 -->-jayada<unclear cert="low">tta</unclear>-kāluka<!-- 
 amwb : I replaced jayada<unclear cert="low">tta</unclear>-<unclear>ko</unclear>bha<unclear cert="low">ka</unclear>- by Arlo's reading and added the different readings in the apparatus 
 -->-Acyuta-naradeva-bhava<!-- 
@@ -199,8 +199,8 @@ daba siddham : For the name I tentatively read as kobhaka, Sircar (uncertainly) 
 amwb : I replaced by Arlo's reading see apparatus
 -->-piccakuṇḍa-pravarakuṇḍa-śarvvadāsa-gopāla-purog<unclear>ā</unclear>ḥ<!-- 
 amwb : I replaced purogāḥ by Arlo's reading and added the different readings in app
---> vayaṁ ca vijñāpitāḥ</p>
-<p>Iha vīthyām apratikara-khila-kṣetra<!-- 
+--> vayaṁ ca vijñāpitāḥ<supplied reason="omitted">.</supplied></p>
+<p>Iha vīthyām apratikara-khila-kṣettra<!-- 
 amwb : for me the last akṣara could be ttra as in the line 13 see photos 
 --><lb n="13" break="no"/>sya śaśvat-kālopabhogāyākṣaya-nīvyā dvi-dīnārikya-khila-kṣettra-kulya-<choice><sic>b</sic><corr>v</corr></choice>āpa<!-- 
 amwb : I replaced by Arlo's reading and added different readings in app
@@ -230,7 +230,7 @@ daba siddham : The character ttra is quite unclear but it does seem to be ttra, 
 daba siddham : The gā in bhogāya is funny. The character was obviously intended as gā, so I'm transcribing it as such, but it looks (almost but not quite) like gra. The intent is probably an ā mātrā attached to the lower right. 
 --><!-- 
 amwb : I added DCS and NBS readings in app 	
---><lb n="19" break="no"/>rikya-kulya-<choice><sic>b</sic><corr>v</corr></choice>āpa-vikkrayo ’nuvr̥ttas tad dīyatāṁ nāsti virodhaḥ<!-- 
+--><lb n="19" break="no"/>rikya-kulya-<choice><sic>b</sic><corr>v</corr></choice>āpa-vikkrayo ’nuvr̥ttas tad dīyatāṁ nāsti vi<surplus>ḥ</surplus>rodhaḥ<!-- 
 amwb : it seems there is a visarga after vi ? See photo virodhaḥ or viḥrodhaḥ l19.png
 --> kaścid<supplied reason="subaudible">.</supplied> ity avasthāpya kulika-bhīmādibhyo Aṣṭāda<unclear>śa</unclear><!-- 
 amwb : I replaced Aṣṭādaśa by Arlo's reading and added different readings in app
@@ -243,8 +243,8 @@ amwb : I replaced kā-<unclear>gu</unclear><unclear reason="illegible">lma</uncl
 daba siddham : Agrawala attempts to reconstruct the end as viṣikhā-nadyāṁ (dyāṁ in the next line, that is). Earlier editors just transcribe a lacuna after grāmeṣu. I think the second vowel mātrā is ī, not i. The last character is absolutely illegible. I might hazard vibhītakyādyāṁ, but this doesn't really make sense. 
 --><!-- 
 amwb : I replaced <unclear>v</unclear>i<unclear>bh</unclear>ī<unclear cert="low">ta</unclear> <gap reason="illegible" quantity="1" unit="character"/> by Arlo's reading and added different readings in app
---><lb n="21" break="no"/>dyāṁ dakṣiṇoddeśeṣu Aṣṭau kulya-<choice><sic>b</sic><corr>v</corr></choice>āpāḥ dhānyapāṭalikā-grāmasya<!-- 
-amwb : here siddham has dhānyapāṭalikā-grāmasya with long ā as Sanyal1955-1956_01 ; Arlo has dhānyapāṭalika-grāmasya with short a as bib:Sircar1943_02 ; I 
+--><lb n="21" break="no"/>dyāṁ dakṣiṇoddeśeṣu Aṣṭau kulya-<choice><sic>b</sic><corr>v</corr></choice>āpāḥ dhānyapāṭalik<choice><sic>a</sic><corr>ā</corr></choice>-grāmasya<!-- 
+amwb : here siddham has dhānyapāṭalikā-grāmasya with long ā as Sanyal1955-1956_01 ; Arlo has dhānyapāṭalika-grāmasya with short a as bib:Sircar1943_02 ; I conserve Arlo reading and add a choice-sic-corr see apparatus 
 --> paścimottaroddeśe<unclear>ṣv ā</unclear>dyakhāta-<!-- 
 amwb : I replaced <gap reason="illegible" quantity="1" unit="character"/> dy<unclear>o</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>ta- by Arlo's reading and added different readings in app 
 -->-parikhā-veṣṭi<unclear>ta</unclear><!-- 
@@ -260,8 +260,8 @@ amwb : I replaced kulya-bāpa<unclear>m eko</unclear> by Arlo's reading and adde
 BUT i am not sure to have really well understand what Arlo means by kulyabāpa-m-eko. After checking the plate, it appears to me that we can clearly see the beginning of m- and then the plate is scratched and we see the ko. See photo kulya-bāpameko BC33 l22.png
 --> gulm<sic>ā</sic>gandhikāyāṁ pūrvv<unclear>e</unclear><!-- 
 amwb : I replaced pūrvv<unclear>e</unclear> by Arlo's reading but did not mention in app because all three are in agreement 
---><lb n="23" break="no"/>ṇ ādyapathaḥ paścima-pradeśe droṇa-<choice><sic>b</sic><corr>v</corr></choice>āpa-dvayaṁ hastiśīrṣa-prāveśya-tāpasa<supplied reason="lost">potta</supplied>ke dayitāpottake ca vi<lb n="24" break="no"/>bhītaka-prāveśya-citravātaṅgare cāva<!-- 
-amwb : I replaced <unclear>yāva</unclear><supplied reason="omitted">t</supplied> by Arlo's reading and added different readings in app
+--><lb n="23" break="no"/>ṇ ādyapathaḥ paścima-pradeśe droṇa-<choice><sic>b</sic><corr>v</corr></choice>āpa-dvayaṁ hastiśīrṣa-prāveśya-tāpasa<supplied reason="lost">potta</supplied>ke dayitāpottake ca vi<lb n="24" break="no"/>bhītaka-prāveśya-citravātaṅgare c<choice><sic>ā</sic><corr>ai</corr></choice>va<!-- 
+amwb : I replaced <unclear>yāva</unclear><supplied reason="omitted">t</supplied> by Arlo's reading and added different readings in app ; I added an emendation for cāva 
 --> kulya-<choice><sic>b</sic><corr>v</corr></choice>āpāḥ sapta droṇa-<choice><sic>b</sic><corr>v</corr></choice>āpāḥ ṣaṬ Eṣu<!-- 
 amwb : I replaced ṣat eṣu by Arlo's reading and added different readings in app
 --> yathopari-nirddiṣṭaka-grāma-pra<!-- 
@@ -362,13 +362,13 @@ daba siddham : Sircar and Agrawala read the date as 120. But N. B. Sanyal in Sen
 				<div type="apparatus">
 			<listApp>
 				<app loc="1">
-					<lem>kośikāyāḥ</lem>
+					<lem>k<choice><sic>o</sic><corr>au</corr></choice>śikāyāḥ</lem>
 					<!--amwb : here is arlo's reading :
 						<lem>°koś<unclear>i</unclear>kāyāḥ</lem>
 					-->
 					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">k<unclear>au</unclear>ś<unclear>i</unclear>kāyāḥ</rdg>
 					<rdg source="bib:Balogh+al2019_01">k<unclear>au</unclear>ś<unclear>i</unclear>k<unclear>ā</unclear>yāḥ</rdg>
-					<note><bibl><ptr target="bib:Sircar1943_02"/></bibl> notes that the reading may be -<foreign>kośikāyāḥ</foreign>.</note>
+					<note><bibl><ptr target="bib:Sircar1943_02"/></bibl> notes that the reading may be -<foreign>kośikāyāḥ</foreign>. The place name <foreign>pūrṇṇakośikā</foreign> is regularised in Pūrṇakauśikā in the translation but it is found with the same spelling and with the same location in the territory of Śr̥ṅgavera  in the <ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter of the Time of Kumāragupta I</ref> line 1.</note>
 				</app>
 				<app loc="1">
 					<lem>Āyuktakācyutadāso ’dhikaraṇañ ca</lem>
@@ -410,12 +410,11 @@ daba siddham : Sircar and Agrawala read the date as 120. But N. B. Sanyal in Sen
 					amwb : do you refer to line 19 of this plate?
 					-->
 				</app>
-				<!--amwb : add what follows if we accept my reading 
-					<app loc="3">
+				<app loc="3">
 					<lem>-lakṣmmaṇa-</lem>
 					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">-lakṣmaṇa-</rdg>
 				</app>
-				-->
+				<!--amwb : added it is my  own reading -->
 				<app loc="3">
 					<lem>-k<supplied reason="lost">āntide</supplied>va-vaśambhudatta-</lem>
 					<rdg source="bib:Sircar1943_02">-kā<gap reason="illegible" unit="character" quantity="2"/><supplied reason="lost" cert="low">vinayada</supplied>vatta-</rdg>
@@ -468,13 +467,11 @@ daba siddham : Sircar and Agrawala read the date as 120. But N. B. Sanyal in Sen
 				<app loc="8">
 					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">somaviṣṇu-</lem>
 					<rdg source="bib:Balogh+al2019_01">s<unclear>o</unclear>maviṣṇu-</rdg>
-				</app>
-				<!--amwb : 
-					<app loc="8">
+				</app> 
+				<app loc="8">
 					<lem>-lakṣmmaṇa-</lem>
 					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">-lakṣmmaṇa-</rdg>
-				</app>
-				-->
+				</app><!--amwb : added it is my  own reading -->
 				<app loc="8">
 					<lem>śar<unclear>mma</unclear>-kānti-dhovvoka-kṣemaśar<unclear>mma</unclear>-</lem>
 					<rdg source="bib:Sircar1943_02">śarmma-kīrttiviṣṇu-kramaśarmma-</rdg>
@@ -512,11 +509,11 @@ daba siddham : Sircar and Agrawala read the date as 120. But N. B. Sanyal in Sen
 					<rdg source="bib:Balogh+al2019_01">-kā<unclear>ma</unclear>nakuṇḍa-</rdg>
 				</app>
 				<app loc="11">
+					<lem source="bib:Sircar1943_02 bib:Balogh+al2019_01">-prabhakīrtti-</lem>
+					<rdg source="bib:Sanyal1955-1956_01">-prabhukīrtti-</rdg>
 					<!-- 
-						amwb : I read prabha as  bib:Sircar1943_02 bib:Balogh+al2019_01
+						amwb : I read prabha as  bib:Sircar1943_02 bib:Balogh+al2019_01 so I change the app
 					-->
-					<lem source="bib:Sanyal1955-1956_01">-prabhukīrtti-</lem>
-					<rdg source="bib:Sircar1943_02 bib:Balogh+al2019_01">-prabhakīrtti-</rdg>
 				</app>
 				<app loc="11">
 					<lem>-jayadatta-kāluka-Acyuta-</lem>
@@ -537,12 +534,10 @@ daba siddham : Sircar and Agrawala read the date as 120. But N. B. Sanyal in Sen
 					<lem>-purog<unclear>ā</unclear>ḥ</lem>
 					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">-purogāḥ</rdg>
 				</app>
-				<!--amwb : add this if we accept my reading 
-					<app loc="12">
+				<app loc="12">
 					<lem>khila-kṣettra</lem>
 					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 Balogh+al2019_01">khila-kṣetra</rdg>
-				</app>
-				-->
+				</app><!--amwb : added, it is my own reading -->
 				<app loc="13">
 					<lem>-kṣettra-kulya-<choice><sic>b</sic><corr>v</corr></choice>āpa-</lem>
 					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">kṣetra-kulya-<choice><sic>b</sic><corr>v</corr></choice>āpa-</rdg>
@@ -590,12 +585,10 @@ daba siddham : Sircar and Agrawala read the date as 120. But N. B. Sanyal in Sen
 					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">-dvi-dīnā°</rdg>
 					<rdg source="bib:Balogh+al2019_01">-dvi-dī<unclear>nā</unclear>°</rdg>
 				</app>
-				<!--amwb : add this if we accept my reading
-					<app loc="19">
+				 <app loc="19">
 					<lem>vi<surplus>ḥ</surplus>rodhaḥ</lem>
-					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01"></rdg>
-				</app>
-				-->
+					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">virodhaḥ</rdg>
+				</app><!--amwb : added it is my own reading-->
 				<app loc="19">
 					<lem>°dibhyo Aṣṭāda<unclear>śa</unclear></lem>
 					<rdg source="bib:Sircar1943_02">°di<supplied reason="lost">bhyo Aṣṭādaśa</supplied></rdg>
@@ -620,9 +613,10 @@ daba siddham : Sircar and Agrawala read the date as 120. But N. B. Sanyal in Sen
 					<rdg source="bib:Balogh+al2019_01">-grāmeṣu <unclear>v</unclear>i<unclear>bh</unclear>ī<unclear cert="low">ta</unclear> <gap reason="illegible" quantity="1" unit="character"/><lb n="21" break="no"/>dyāṁ</rdg>
 				</app>
 				<app loc="21"><!-- 
-				amwb : here it is my own emendation. Its relevance should be discussed with Arlo
+				amwb : I conserve Arlo's reading but I add a choice-sic-corr with the note
 				-->
-					<lem source="bib:Sircar1943_02">dhānyapāṭalika-grāmasya</lem>
+					<lem>dhānyapāṭalik<choice><sic>a</sic><corr>ā</corr></choice>-grāmasya</lem>
+					<rdg source="bib:Sircar1943_02">dhānyapāṭalika-grāmasya</rdg>
 					<rdg source="bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">dhānyapāṭalikā-grāmasya</rdg>
 					<note>According to its earlier mention in line 20, one could emend <foreign>dhānyapāṭalikā</foreign>.</note>
 				</app>
@@ -664,7 +658,7 @@ daba siddham : Sircar and Agrawala read the date as 120. But N. B. Sanyal in Sen
 				<app loc="24"><!-- 
 				amwb : here it is my own emendation. Its relevance should be discussed with Arlo
 				-->
-					<lem>cāva</lem>
+					<lem>c<choice><sic>ā</sic><corr>ai</corr></choice>va</lem>
 					<rdg source="bib:Sircar1943_02"><supplied reason="lost">ca</supplied></rdg>
 					<rdg source="bib:Sanyal1955-1956_01">yāva<supplied reason="omitted">t</supplied></rdg>
 					<rdg source="bib:Balogh+al2019_01"><unclear>yāva</unclear><supplied reason="omitted">t</supplied></rdg>
@@ -737,14 +731,6 @@ daba siddham : Sircar and Agrawala read the date as 120. But N. B. Sanyal in Sen
 					<rdg source="bib:Balogh+al2019_01">s<unclear reason="illegible">ukh</unclear>ī</rdg>
 				</app>
 				<app loc="32">
-					<lem>kāmada</lem>
-					<rdg source="bib:Sircar1943_02 bib:Sanyal1955-1956_01">kāmada<supplied reason="omitted">ḥ</supplied></rdg>
-					<rdg source="bib:Balogh+al2019_01">kāmada<supplied reason="omitted">ḥ</supplied></rdg>
-					<note>Emend <foreign>kāmadaḥ</foreign>.</note><!-- 
-					amwb : I add this suggestion following Sircar, maybe add it directly in the text by supplied omitted as in siddham?
-					-->
-				</app>
-				<app loc="32">
 					<lem source="bib:Sircar1943_02">punaḥ punaḥ</lem>
 					<rdg source="bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">punaḥ puna<supplied reason="omitted">ḥ</supplied></rdg>
 				</app>
@@ -791,10 +777,10 @@ daba siddham : Sircar and Agrawala read the date as 120. But N. B. Sanyal in Sen
 		</div>
 		<div type="translation" resp="part:amwb">
 			<head xml:lang="eng">Plate</head>
-			<p n="1-2">Hail! From Pūrṇakauśikā in the Śr̥ṅgavera territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>, the officer Acyuta<note>
-				The incipit of this plate is identical to the one of <ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter of the Time of Kumāragupta I</ref>. But we can notice that here there is no mention to the fact that Acyuta’s authority depends on the emperor.
+			<p n="1-2">Hail! From Pūrṇakauśikā in the Śr̥ṅgavera territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>, the officer Acyutadāsa<note>
+				The incipit of this plate is almost identical to the one of <ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter of the Time of Kumāragupta I</ref>. Nevertheless we can notice that here the officer is called Acyutadāsa and that here there is no mention to the fact that his authority depends on the emperor. As the localisation of these two plates is the same and as their dates are relatively close, one can ask if the two officers, called in one plate Acyutadāsa and in the other Acyuta, are the same person. If so, it is interesting to observe the loss of the name ending -<foreign>dāsa</foreign>.
 			</note>
-				and the council greet the peasant householders of the village beginning with the brahmins, <supplied reason="explanation">residing</supplied> next to Hasti, i.e. in Vibhītakā,<note>As the previous translations of this inscription show it, there are several possibilities to interpret <foreign>hastiśīrṣe</foreign>. The translation of <bibl><ptr target="bib:Sircar1943_02"/></bibl> is somewhat unclear. Indeed, in his translation of the line 1, he reads <foreign>hastiśīrṣavibhītakyāṁ</foreign> and translates ’residing in Hastiśīrṣavibhītakī’. In line 20, his translation of <foreign>hastiśīrṣa-vibhītakyāṁ</foreign> by ’Hastiśīrṣavibhītakī’ might be supported by the singular locative. But in lines 23-24, the text compells him to consider Hastiśīrṣa an independant place name. At the end of his translation, he adds a note and criticizes the understanding of the place names suggested by Sanyal: <quote>It will be seen from the note that Sanyal has failed to decipher many important passages of the record including several geographical names. His suggestion regarding the two villages Hastiśīrṣa and Vibhītakī is not supported by the passage <foreign>hastiśīrṣa-vibhītakyāṁ</foreign> of the text.</quote> 
+				and the council greet the village tenants beginning with the brahmins, <supplied reason="explanation">residing</supplied> next to Hasti, i.e. in Vibhītakā,<note>As the previous translations of this inscription show it, there are several possibilities to interpret <foreign>hastiśīrṣe</foreign>. The translation of <bibl><ptr target="bib:Sircar1943_02"/></bibl> is somewhat unclear. Indeed, in his translation of the line 1, he reads <foreign>hastiśīrṣavibhītakyāṁ</foreign> and translates ’residing in Hastiśīrṣavibhītakī’. In line 20, his translation of <foreign>hastiśīrṣa-vibhītakyāṁ</foreign> by ’Hastiśīrṣavibhītakī’ might be supported by the singular locative. But in lines 23-24, the text compells him to consider Hastiśīrṣa an independant place name. At the end of his translation, he adds a note and criticizes the understanding of the place names suggested by Sanyal: <quote>It will be seen from the note that Sanyal has failed to decipher many important passages of the record including several geographical names. His suggestion regarding the two villages Hastiśīrṣa and Vibhītakī is not supported by the passage <foreign>hastiśīrṣa-vibhītakyāṁ</foreign> of the text.</quote> 
 Indeed <bibl><ptr target="bib:Sanyal1955-1956_01"/><citedRange unit="page">58-9</citedRange></bibl> doesn’t follow <bibl><ptr target="bib:Sircar1943_02"/></bibl>’s understanding and consider Hastiśīrṣa and Vibhītakī two different names of village. 
 					To clarify the problem, I give below the three contexts where the word <foreign>hastiśīrṣa</foreign> appears in the text: 
 					<list rend="numbered">
@@ -809,16 +795,18 @@ Indeed <bibl><ptr target="bib:Sanyal1955-1956_01"/><citedRange unit="page">58-9<
 				and inform them: 
 			</p>
 			<p n="2-12">
-				It will be known by you that the artisan <supplied reason="explanation"><foreign>kulika</foreign></supplied> Bhīma, the scribes <supplied reason="explanation"><foreign>kāyastha</foreign></supplied> Prabhucandra, Rudradāsa, Devadatta, Lakṣmaṇa, Kāntideva, Śambhudatta, Kṛṣṇadāsa, the keeper-records <supplied reason="explanation"><foreign>pustapāla</foreign></supplied> Siṁhanandin and Yaśodāman, all belonging to this territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>, preceded by the territory-chiefs <supplied reason="explanation"><foreign>vīthīmahattara</foreign></supplied> Kumāradeva, Gaṇḍaprajāpati, Umayaśas, Rāmaśarman, Jyeṣṭhadāman, Svāmicandra and Harisiṁha, preceded by the peasant householders <supplied reason="explanation"><foreign>kuṭumbi</foreign></supplied> Yaśoviṣṇu, Kumāraviṣṇu, Kumārabhava, Kumārabhūti, Kumāra, Yaśagupta, Vailinaka, Śivakuṇḍa, Vasuśiva, Aparaśiva, Dāmarudra, Prabhamitra, Kṛṣṇamitra, Maghaśarman, Iśvaracandra, Rudrabhava, Svāmideva, Śrīnātha, Hariśarman, Guptaśarman, Suśarman, Hari, Alātasvāmin, Brahmasvāmin, Mahāsenabhaṭṭa, Ṣaṣṭhirāta, Gu _ _ _, _ _ śarman, Uṇṭaśarman, Kṛṣṇadatta, Nandadāman, Bhavadatta, Ahiśarman, Somaviṣṇu, Lakṣmaṇaśarman, Kāntidhovvoka, Kṣemaśarman, Śukraśarman, Sarppapālita, Kaṅkuṭi, Viśvaśaṅkara, Jayasvāmin, Kaivarttaśarman, Himaśarman, Purandara, Jayaviṣṇu, Uma. . . ,<!-- 
+				It will be known by you that 
+				the artisan <supplied reason="explanation"><foreign>kulika</foreign></supplied> Bhīma, the scribes <supplied reason="explanation"><foreign>kāyastha</foreign></supplied> Prabhucandra, Rudradāsa, Devadatta, Lakṣmaṇa, Kāntideva, Śambhudatta, Kṛṣṇadāsa, the keeper-records <supplied reason="explanation"><foreign>pustapāla</foreign></supplied> Siṁhanandin and Yaśodāman, all belonging to this territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>, 
+				preceded by the territory-chiefs <supplied reason="explanation"><foreign>vīthīmahattara</foreign></supplied> Kumāradeva, Gaṇḍaprajāpati, Umayaśas, Rāmaśarman, Jyeṣṭhadāman, Svāmicandra and Harisiṁha, <supplied reason="explanation">preceded by</supplied> the householders <supplied reason="explanation"><foreign>kuṭumbi</foreign></supplied> Yaśoviṣṇu, Kumāraviṣṇu, Kumārabhava, Kumārabhūti, Kumāra, Yaśagupta, Vailinaka, Śivakuṇḍa, Vasuśiva, Aparaśiva, Dāmarudra, Prabhamitra, Kṛṣṇamitra, Maghaśarman, Iśvaracandra, Rudrabhava, Svāmideva, Śrīnātha, Hariśarman, Guptaśarman, Suśarman, Hari, Alātasvāmin, Brahmasvāmin, Mahāsenabhaṭṭa, Ṣaṣṭhirāta, Gu _ _ _, _ _ śarman, Uṇṭaśarman, Kṛṣṇadatta, Nandadāman, Bhavadatta, Ahiśarman, Somaviṣṇu, Lakṣmaṇaśarman, Kāntidhovvoka, Kṣemaśarman, Śukraśarman, Sarppapālita, Kaṅkuṭi, Viśvaśaṅkara, Jayasvāmin, Kaivarttaśarman, Himaśarman, Purandara, Jayaviṣṇu, Uma. . . ,<!-- 
 Check the quantity of the gap
 amwb 2021-08-30: probably a loss of two ak.saras
 				--> Siṁhatta, Bonda, Nārāyanadāsa, Vīranāga, Rājyanāga, Guhamahi, Bhavanātha, Guhaviṣṇu, Śarva, Yaśoviṣṇu, Ṭakkakuladāma . . . . va,<!-- 
 Check the quantity of the gap and maybe suppose two names (the end of Ṭakkakuladāma.., ...va,)
 amwb 2021-08-30: probably a loss of only one
 				-->
-				Śrīguhaviṣṇu, Rāmasvāmin, Kāmanakuṇḍa, Ratibhadra, Acyutabhadra, Loḍhaka, Prabhukīrti,<!-- 
-amwb : change in prabhakīrti if my reading is corret
---> Jayadatta, Kāluka, Acyuta, Naradeva, Bhava, Bhavarakṣita, Piccakuṇḍa, Pravarakuṇḍa, Śarvadāsa and Gopāla, inform us:
+				Śrīguhaviṣṇu, Rāmasvāmin, Kāmanakuṇḍa, Ratibhadra, Acyutabhadra, Loḍhaka, Prabhakīrti,<!-- 
+amwb : prabhukīrti for Arlo
+--> Jayadatta, Kāluka, Acyuta, Naradeva, Bhava, Bhavarakṣita, Piccakuṇḍa, Pravarakuṇḍa, Śarvadāsa and Gopāla, as well as ourselves inform:
 			</p>
 			<p n="12-15">
 				In accordance of the rule allowable in this territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied> that the sale of one <foreign>kulyavāpa</foreign> of waste land in exchange of two <foreign>dīnāra</foreign>s is used for a permanent endowment of a waste land without revenue charges to be enjoyed in perpetuity,<!-- 
