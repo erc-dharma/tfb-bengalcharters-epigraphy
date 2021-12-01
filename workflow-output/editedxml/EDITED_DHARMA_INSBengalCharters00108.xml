@@ -92,6 +92,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2021-12-01" status="draft">Apparatus textpart head added.</change>
          <change who="part:ryfu" when="2021-11-30" status="draft">Apparatus line assignment corrected.</change>
          <change when="2021-10-23" who="part:ryfu">Dandas encoded as glyphs.</change>
          <change when="2021-09-30" who="part:ryfu">Commentary and bibliography completed</change>
@@ -206,7 +207,7 @@
              </div>            
          </div>
          <div type="apparatus">
-             <div type="textpart" n="C">
+             <div type="textpart" n="C"><head xml:lang="eng">Plate</head>
                <listApp>
                   <app loc="4"><lem>śrī<lb n="5" break="no"/>māl lokanātho</lem><rdg source="bib:Mishra1981_01">śrī<lb n="5" break="no"/>māṁ llokanātho</rdg> <rdg source="bib:SubramoniaIyer2011-2012_01">śrī<lb n="5" break="no"/>mān lokanātho</rdg></app>
                   <app loc="5"><lem>!’nyaś</lem><rdg source="bib:SubramoniaIyer2011-2012_01">nyaś</rdg></app>
