@@ -87,6 +87,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2021-12-01" status="draft">Apparatus textpart division and head added. Textpart B rearranged.</change>
          <change who="part:ryfu" when="2021-11-30" status="draft">Apparatus line assignment corrected.</change>
          <change who="part:ryfu" when="2021-10-11">Dandas encoded as glyphs.</change>
          <change who="part:ryfu" when="2021-02-01" status="draft">Text, apparatus and translation revised</change>
@@ -101,9 +102,9 @@
 	   <ab><lb n="1"/><unclear>śrī</unclear>-madanapāla<unclear>ḥ</unclear></ab>                 
 	</div>
 	<div type="textpart" n="B"><head xml:lang="eng">Left margin of obverse of the plate</head>
-         	<lb n="2"/><ab>ni</ab>
-         	<lb n="5"/><ab>ni</ab>
-         	<lb n="8"/><ab>ni</ab>
+         	<ab><lb n="2"/>ni
+         	<lb n="5"/>ni
+         	<lb n="8"/>ni</ab>
 	</div>
 	<div type="textpart" n="C"><head xml:lang="eng">Plate</head>
 	<pb n="1r"/><lb n="1"/><p><g type="spiral"/><!-- siddham -->Om̐ namo vuddhāya<g type="ddanda">.</g> svasti<g type="ddanda">.</g></p>
@@ -297,12 +298,12 @@
 	</div>	    
          </div>
          <div type="apparatus">
-             <div type="textpart" n="B">
+             <div type="textpart" n="B"><head xml:lang="en">Left margin of obverse of the plate</head>
                <listApp>
-                  <app loc="2, 5, 8"><lem>ni ni ni</lem><note> The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the left margin of the obverse of the plate, beside the lines 2, 5 and 8 respectively.</note></app>
+                  <app loc="2"><lem>ni<lb n="5"/> ni<lb n="8"/> ni</lem><note> The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the left margin of the obverse of the plate, beside the lines 2, 5 and 8 respectively.</note></app>
                </listApp>
              </div>
-             <div type="textpart" n="C">
+             <div type="textpart" n="C"><head xml:lang="en">Plate</head>
                <listApp>
                    <app loc="19"><lem>-kī<unclear>r</unclear>tti-</lem><rdg source="bib:Furui2015_02">-kītti-</rdg></app>
                    <app loc="21"><lem>-virbhūta-</lem><note>The correct form is vibhūta but the metre requires this form.</note></app>

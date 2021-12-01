@@ -87,6 +87,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2021-12-01" status="draft">Apparatus textparts heads added, line assignement corrected.</change>
          <change who="part:ryfu" when="2021-10-15">Dandas encoded as glyphs, some sics changed to origs.</change>
          <change who="part:ryfu" when="2021-03-31">Text in line 33 revised, accordingly apparatus and translation too.</change>
          <change who="part:ryfu" when="2021-01-29">Translation and bibliography completed</change>
@@ -285,12 +286,12 @@
             </div>
          </div>
          <div type="apparatus">
-           <div type="textpart" n="B">
+           <div type="textpart" n="B"><head xml:lang="eng">Upper left margin above line 1</head>
                <listApp>
                    <app loc="1"><lem>ni ni<space quantity="2" unit="character"/>ni ni</lem><note>The four characters of ni, which seems to be an abbreviation for nibaddha "confirmed", are engraved on the margin above the line 1 of the obverse.</note></app>
                </listApp>
            </div>
-           <div type="textpart" n="C">
+           <div type="textpart" n="C"><head xml:lang="eng">Plate</head>
                <listApp>
                   <app loc="2"><lem>śāśvatīṁ</lem><rdg source="bib:Vasu1900_01">śāśvatāṁ</rdg></app>
                   <app loc="6"><lem>ekāt<supplied reason="omitted">a</supplied>patrā</lem><rdg source="bib:Vasu1900_01">ekātpatro</rdg></app>
@@ -323,7 +324,7 @@
                   <app loc="29"><lem>-<choice><sic>th</sic><corr>kh</corr></choice>uro˚</lem><rdg source="bib:Vasu1900_01">-khuro˚</rdg></app>
                   <app loc="29"><lem>-dhū<choice><orig>ṣ</orig><corr>s</corr></choice>ari<choice><sic>h</sic><corr>t</corr></choice>a-</lem><rdg source="bib:Vasu1900_01">-dhūṣarita-</rdg></app>
                   <app loc="32"><lem>koṣṭhāgāra-</lem><rdg source="bib:Vasu1900_01"> <unclear>kāṣṭhagiri-</unclear></rdg></app>
-                  <app loc="32-33"><lem>-sukaivadya<unclear>dva</unclear>sāvaddhāraṭṭake</lem><rdg source="bib:Vasu1900_01"><unclear>-sakaivadārvvacaṭṭaraṭṭake</unclear></rdg></app>
+                  <app loc="32"><lem>-su<lb n="33" break="no"/>kaivadya<unclear>dva</unclear>sāvaddhāraṭṭake</lem><rdg source="bib:Vasu1900_01"><unclear>-sa</unclear><lb n="33" break="no"/><unclear>kaivadārvvacaṭṭaraṭṭake</unclear></rdg></app>
                   <app loc="33"><lem> triśatikāyāṁ</lem><rdg source="bib:Vasu1900_01"> tr̥<supplied reason="lost">ṁ</supplied>śatikāyāṁ</rdg></app>
                   <app loc="35"><lem>-āyuktaka-</lem><rdg source="bib:Vasu1900_01">-āyukta-</rdg></app>
                   <app loc="36"><lem>˚mahiṣy<choice><sic>ā</sic><corr>a</corr></choice>˚</lem><rdg source="bib:Vasu1900_01">-mahiṣā˚</rdg></app>

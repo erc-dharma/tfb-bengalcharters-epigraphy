@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2021-12-01" status="draft">Apparatus rearrannged with addition of heads and correction of line assignement, textpart B rearranged.</change>
          <change who="part:ryfu" when="2021-10-11">Dandas encoded as glyphs.</change>
          <change who="part:ryfu" when="2021-02-01" status="draft">Text, apparatus and translation corrected</change>
          <change who="part:ryfu" when="2020-12-17" status="draft">Text part B encoding modified</change>
@@ -106,9 +107,7 @@
 		<ab><lb n="1"/>śrīmaṅ-gopāladevasya</ab>        
 	</div>
 	<div type="textpart" n="B"><head xml:lang="eng">Left margin of obverse of the plate</head>
-         	<lb n="1"/><ab>ni</ab>
-         	<lb n="2"/><ab>ni</ab>
-         	<lb n="3"/><ab>ni</ab>
+         	<ab><lb n="1"/>ni <lb n="2"/>ni <lb n="3"/>ni</ab>
 	</div>
 	<div type="textpart" n="C"><head xml:lang="eng">Plate</head>
 	<pb n="1r"/><lb n="1"/><p><g type="spiralL"/><!-- siddham -->Om̐ namo vuddhāya<g type="ddanda">.</g> svasti<g type="ddanda">.</g></p>
@@ -281,14 +280,14 @@
 	</div>
          </div>
          <div type="apparatus">
-         <div type="textpart" n="B">
+         <div type="textpart" n="B"><head xml:lang="eng">Left margin of obverse of the plate</head>
                <listApp>
-                  <app loc="1-3">
-                     <lem>ni ni ni</lem><note> The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the left margin of the obverse of the plate, beside the lines 1, 2, and 3 and 4 respectively.</note>
+                  <app loc="1">
+                     <lem>ni <lb n="2"/> ni <lb n="3"/> ni</lem><note> The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the left margin of the obverse of the plate, beside the lines 1, 2, and 3 and 4 respectively.</note>
                   </app>
                </listApp>
          </div>
-         <div type="textpart" n="C">
+         <div type="textpart" n="C"><head xml:lang="eng">Plate</head>
                <listApp>
                	<app loc="2"><lem>śrīmāl</lem><rdg source="bib:Furui2015_02">śrīmal-</rdg></app>
                	<app loc="16"><lem>bh<choice><sic>ū</sic><corr>u</corr></choice>vanasya</lem><rdg source="bib:Furui2015_02">bhuvanasya</rdg></app>

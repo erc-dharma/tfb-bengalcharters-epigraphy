@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:ryfu" when="2021-12-01" status="draft">Apparatus textpart division head added.</change>
           <change who="part:ryfu" when="2021-11-30" status="draft">Apparatus line assignment corrected.</change>
           <change who="part:ryfu" when="2021-11-24">Stanza 2 translation corrected.</change> 
           <change when="2021-10-08" who="part:ryfu">Dandas encoded as glyphs.</change>
@@ -266,7 +267,7 @@
             </div>
          </div>
          <div type="apparatus">
-             <div type="textpart" n="D">
+             <div type="textpart" n="D"><head xml:lang="eng">Plate</head>
                <listApp>
                   <app loc="4"><lem>śrīmāl</lem><rdg source="bib:Furui2010_01">śrīmal-</rdg></app>
                   <app loc="8"><lem>-vasatir</lem><rdg source="bib:Furui2010_01">vasati<supplied reason="omitted">r</supplied></rdg></app>

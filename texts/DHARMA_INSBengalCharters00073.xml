@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2021-12-01" status="draft">Apparatus textpart division and head added.</change>
             <change who="part:ryfu" when="2021-12-01" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2021-11-30" status="draft">Apparatus line assignment corrected.</change>
             <change who="part:ryfu" when="2021-10-14">Dandas encoded as glyphs.</change>
@@ -326,6 +327,7 @@
          </div>             
          </div>
          <div type="apparatus">
+             <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="3"><lem>kṣāntimā<unclear>ṁ*</unclear></lem> <rdg source="bib:Bhattacharya2005-2006_01">kṣāntimān</rdg> <note>However, the shape is different from N in the previous line and closer to ṁ* in the other lines.</note></app>
@@ -377,6 +379,7 @@
                   <app loc="68"><lem>-giro</lem> <rdg source="bib:Bhattacharya2005-2006_01">-giror</rdg></app>
                   <app loc="68"><lem>āryāḥ</lem> <rdg source="bib:Bhattacharya2005-2006_01">ārthāḥ</rdg></app>
                </listApp>
+             </div>
          </div>
          <div type="translation" resp="part:ryfu">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
