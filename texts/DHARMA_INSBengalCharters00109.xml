@@ -196,15 +196,15 @@
                     <l n="d">yātrī cakāra bhuvanāni sa-vismayāni<g type="ddanda">.</g></l>
                 </lg>
                 <lg n="18" met="vasantatilakā">
-                    <l n="a">yasyādhata<lb n="29" break="no"/>n pracalad-utpalinī-vilāsa</l>
+                    <l n="a">yasyāpata<lb n="29" break="no"/>n pracalad-utpalinī-vilāsa</l>
                     <l n="b">-paryāsinaḥ smita-sudhā-śavalāḥ kaṭākṣāḥ<g type="danda">.</g></l>
                     <l n="c">sevā-nateṣu cala-mauli-mayūkha-lekhā</l>
                     <l n="d">-santāna-kanda<lb n="30" break="no"/>lita-dikṣu nareśvareṣu<g type="dandaStrokeLeft">.</g></l>
                 </lg>
                 <lg n="19" met="sragdharā">
-                    <l n="a">tvaṅgan-nānā-turaṅgar-gaja-khura-mr̥dita-kṣmā-rajo jāla-meghaṁ</l>
+                    <l n="a">tvaṅgan-nānā-turaṅgar-gaja-khura-mr̥dita-kṣmā-rajo-jāla-meghaṁ</l>
                     <l n="b">dik-cakrāyāta-bhū-bhr̥t-praṇati-cala-śiro-ratna-vidyu<lb n="31" break="no"/>t-prakāśaṁ*<g type="danda">.</g></l>
-                    <l n="c">mādyan-mātaṅga-vr̥nda-sruta-karaṭa-payaḥ paṅka-majjaj-janaughaṁ</l>
+                    <l n="c">mādyan-mātaṅga-vr̥nda-sruta-karaṭa-payaḥ-paṅka-majjaj-janaughaṁ</l>
                     <l n="d">nityaṁ prāvr̥ṭ-prayāṇaṁ sphuṭam avanipater yasya devendra-bhāsaḥ<g type="ddanda">.</g></l>
                 </lg>
                 <lg n="20" met="āryā">
@@ -368,6 +368,7 @@
                   <app loc="22"><lem>śa<unclear>y</unclear>i<supplied reason="lost">tā</supplied></lem><rdg source="bib:Furui2008_01">śa<unclear>yi</unclear><gap reason="lost" extent="unknown"/></rdg></app>
                   <app loc="23"><lem>ca kṣ<surplus>y</surplus>āntyā</lem><rdg source="bib:Furui2008_01">vakṣyāntyā</rdg></app>
                   <app loc="23"><lem>-<unclear>kṣm</unclear><supplied reason="lost">ā-bhr̥</supplied><lb n="24" break="no"/>to</lem><rdg source="bib:Furui2008_01">-<unclear>kṣma</unclear><gap reason="lost" extent="unknown"></gap>to</rdg></app>
+                  <app loc="28"><lem>yasyāpata<lb n="29" break="no"/>n</lem><rdg source="bib:Furui2008_01">yasyādhata<lb n="29" break="no"/>n</rdg></app>
                   <app loc="29"><lem>-utpalinī-</lem><rdg source="bib:Furui2008_01">-raty-alinī-</rdg></app>
                   <app loc="30"><lem>-turaṅgar-</lem><rdg source="bib:Furui2008_01">-turaṅga-</rdg></app>
                   <app loc="37"><lem>-jamv<choice><orig>ū</orig><corr>u</corr></choice>-</lem><rdg source="bib:Furui2008_01">-jamvu-</rdg></app>
