@@ -87,6 +87,7 @@ The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHA
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
+			<change when="2021-11-25" who="part:amwb">Revision of my own encoding and translation.</change>
 			<change when="2021-09-21" who="part:amwb" status="draft">Completed the epigrahic lemma in the bibliography part.</change>
 			<change who="part:amwb" when="2021-08-31" status="draft">Added Siddham bibliographical reference in the bibliography and added its readings in the apparatus.</change>
 			<change who="part:amwb" when="2021-07-15" status="draft">Import of Siddham file IN00065 and started initial encoding with Arlo's edtion and remarks.</change><!--
@@ -661,10 +662,10 @@ amwb : I feel it is important that the protection is enjoined by the rule for pe
                     This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
                 </note></p>
 			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
-                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, except for the verb used in the <foreign>pāda</foreign> b.
                 </note></p>
 			<p n="3" rend="stanza">Numerous kings have been and are giving land again and again. Whoever holds land at a given time, to him does the fruit belong.<note>
-                    This verse corresponds to the verse numbered 2" among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                    This verse corresponds to the verse numbered 23 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
                 </note></p>
 			<p n="4" rend="stanza">You, excellent Yudhiṣṭhira, must strenuously protect land previously given to brahmins by kings. Safeguarding is even better than giving.<note>
                     This verse corresponds to the verse numbered 131 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 

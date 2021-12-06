@@ -96,6 +96,7 @@ amwb: siddham idno IN00023
 		</encodingDesc>
 		<revisionDesc>
 <!-- argr2amwb: it is important at least to mark a <change> entry each for the start and end dates of your encoding (and translation) work -->
+			<change when="2021-12-06" who="part:amwb">Revision of my own encoding and translation.</change>
 			<change when="2021-09-22" who="part:amwb" status="draft">Added Epigraphic lemma</change>
 			<change who="part:amwb" when="2021-08-30" status="draft">Added Siddham bibliographic reference in the bibliography and added its readings in apparatus. Then added my own readings in comment.</change>
 			<change who="part:amwb" when="2021-08-24" status="draft">Start of the translation of the plate.</change>
@@ -107,13 +108,15 @@ amwb: siddham idno IN00023
 		<body>
 			<div type="edition" xml:lang="san-Latn">
 <p><lb 
-n="1"/><supplied reason="lost" cert="low">siddhaM| catur-udadhi-salilāsvādita-yaśaso mahārājādhirāja-śrī-kumāraguptasya</supplied> <supplied reason="lost">sa</supplied>mvatsara-śa<unclear reason="illegible">te</unclear><!-- argr2amwb: the śa seems wholly or at least partly lost, the t is entirely clear, the vowel -e is also lost  --><!-- 
-amwb2argr: agree so change it by <unclear reason="illegible">śa</unclear>t<supplied reason="lost">e</supplied>
+n="1"/><gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost">sa</supplied>mvatsara-<unclear reason="illegible">śa</unclear>t<supplied reason="lost">e</supplied><!-- argr2amwb: the śa seems wholly or at least partly lost, the t is entirely clear, the vowel -e is also lost  --><!-- 
+amwb2argr: agree so I change śa<unclear reason="illegible">te</unclear> by <unclear reason="illegible">śa</unclear>t<supplied reason="lost">e</supplied>
 --> trayodaśotta<!-- 
 daba: I adopt Sircar's conjecture for the beginning except hypothesising siddham instead of his oṁ. 
 --><!-- 
 amwb : i am not able to see the -tta in trayodaśotta. Maybe wrap tta in unclear or supplied
---><lb 
+--><!-- 
+amwb : for the moment, I delete the suggestion made by Daba in order to complete the gap <supplied reason="lost" cert="low">siddhaM <g type="danda">.</g> catur-udadhi-salilāsvādita-yaśaso mahārājādhirāja-śrī-kumāraguptasya</supplied> and I prefer encoding only the gap <gap reason="lost" unit="character" extent="unknown"/>
+	--><lb 
 n="2" break="no"/><supplied reason="lost">re</supplied> <gap reason="lost" precision="low" quantity="23" unit="character"/><!-- 
 daba: Sircar's conjecture for the beginning of this line is saṁ 100+10+3 (after re, I guess, though he may have read re at the end of the first line - which I consider very unlikely) 
 --><!-- 
@@ -241,15 +244,16 @@ daba: note that the final 5 lost characters are only there if the line extends t
 				<div type="apparatus">
 			<listApp>
 				<app loc="1">
-				<lem source="bib:Balogh+al2019_01"><supplied reason="lost" cert="low">siddhaM| catur-udadhi-salilāsvāditayaśaso mahārājādhirāja-śrī-kumāraguptasya</supplied> <supplied reason="lost">sa</supplied></lem>
+				<lem><gap reason="lost" unit="character" extent="unknown"/><supplied reason="lost">sa</supplied></lem>
 					<rdg source="bib:Bandyopadhyaya1909_01"><gap reason="lost" unit="character" extent="unknown"/><supplied reason="lost">śrī-kumāragupta-rāja-sa</supplied></rdg>
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/></rdg>
 					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02"><supplied reason="lost" cert="low">oṁ| catur-udadhi-salilāsvāditayaśaso mahārājādhirāja-śrī-kumāraguptasya</supplied></rdg>
 					<rdg source="bib:Agrawala1983_02"><gap reason="lost" unit="character" quantity="20" precision="low"/><supplied reason="lost">sa</supplied></rdg>
-					<note><bibl><ptr target="bib:Agrawala1983_02"/><citedRange unit="page">36</citedRange></bibl>, note 2: <quote>Most probably here preceded the date in numerals <foreign><abbr>saṁ</abbr> <num value="113"><g type="numeral">100</g> <g type="numeral">10</g> 3</num></foreign></quote>.</note>
+					<rdg source="bib:Balogh+al2019_01"><supplied reason="lost" cert="low">siddhaM| catur-udadhi-salilāsvāditayaśaso mahārājādhirāja-śrī-kumāraguptasya</supplied> <supplied reason="lost">sa</supplied></rdg>
+					<note><bibl><ptr target="bib:Agrawala1983_02"/><citedRange unit="page">36</citedRange></bibl>, note 2: <quote>Most probably here preceded the date in numerals <foreign><abbr>saṁ</abbr> <num value="113"><g type="numeral">100</g> <g type="numeral">10</g> 3</num></foreign></quote>. <bibl><ptr target="bib:Sircar1965_02"/></bibl> <bibl><ptr target="bib:Balogh+al2019_01"/></bibl> suggest the following reconstruction: <supplied reason="lost" cert="low"><foreign>siddhaM</foreign> <g type="danda">.</g> <foreign>catur-udadhi-salilāsvādita-yaśaso mahārājādhirāja-śrī-kumāraguptasya</foreign></supplied></note>
 				</app>
 				<app loc="1">
-					<lem>-<supplied reason="lost">śa</supplied>t<unclear reason="illegible">e</unclear></lem>
+					<lem>-<unclear reason="illegible">śa</unclear>t<supplied reason="lost">e</supplied></lem>
 					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh+al2019_01">-śa<unclear reason="illegible">te</unclear></rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01">śata-</rdg>
 					<rdg source="bib:Basak1923-1924_01">śat<supplied reason="lost">e</supplied></rdg>
@@ -671,9 +675,11 @@ n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap rea
 			</listApp>
 		</div>		<div type="translation" resp="part:amwb">
 			<head xml:lang="eng">Draft of translation</head>
-			<p n="1-7"><gap reason="ellipsis"/><supplied reason="lost">Success !</supplied><supplied reason="explanation"><foreign>siddhaM|</foreign></supplied> In the year one hundred exceeded by thirteen <gap reason="ellipsis"/><supplied reason="lost"> of the great king and emperor Śrī Kumāragupta whose splendour is enjoyed flowing beyond the four oceans</supplied> <supplied reason="explanation"><foreign>catur-udadhi-salilāsvādita-yaśaso mahārājādhirāja-śrī-kumāraguptasya</foreign></supplied><!-- 
-			amwb : I wrap this in supplied because the text is a hypothetical reconstruction.   
-			-->
+			<p n="1-7"><gap reason="ellipsis"/><note>
+				Here, several emendations are possible : <bibl><ptr target="bib:Sircar1965_02"/></bibl> suggests <foreign>oṁ</foreign>, while <bibl><ptr target="bib:Balogh+al2019_01"/></bibl> prefers <foreign>siddham</foreign> 
+			</note> in the year one hundred exceeded by thirteen <gap reason="ellipsis"/><note>
+				<bibl><ptr target="bib:Sircar1965_02"/></bibl>, followed by  <bibl><ptr target="bib:Balogh+al2019_01"/></bibl>, suggests emending <foreign>catur-udadhi-salilāsvādita-yaśaso mahārājādhirāja-śrī-kumāraguptasya</foreign>. Whereas he gives no explanation, one can assume his suggestion come from its occurences in the Karamdāndā Stone Liṅga Inscription of Kumāragupta I and in the Gaya Grant of Samudragupta line 2. The same expression is supplied in Bihar Sharif Pillar Inscription 2.  
+			</note>
 			from the <gap reason="lost"/><supplied reason="lost"> Xth</supplied> day <supplied reason="lost">of the month X</supplied><supplied reason="explanation">lost of about 23 <foreign>akṣara</foreign>s at the beginning of the line 2</supplied>,<note>
 				<bibl><ptr target="bib:Sircar1942_01"/></bibl><bibl><ptr target="bib:Sircar1965_02"/></bibl> suspects the numeral numbers of the year for the missing <foreign>akṣara</foreign>s at the beginning of the line 2. As far as I am concerned, I suggest assuming an ordinal number of the day and the name of the month, in the style of the line 1 of <ref target="DHARMA_INSBengalCharters00063.xml">Mastakaśvabhra Grant</ref>: <foreign>svasti ma<unclear>hā</unclear>rājādhirāja-śrī-pradyumnavandhor vvijayādhirājya-samvatsar<unclear>e</unclear> pañcama Āśvayuja-māsasya dvāviṁśatime divase</foreign>. It is also possible to assume a place name before the mention of the date. 
 			</note> 
@@ -760,10 +766,14 @@ n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap rea
 			<p n="14">
 				It has been said by the lord Dvaipāyana:
 			</p>
-			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.</p>
-			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
+			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.<note>
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+			<p n="2" rend="stanza">The giver of land resides sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+                </note></p>
 			<p n="3" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.<note>
-				Here I reproduced the translation of the same three verses from <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref> made by Arlo Griffiths (<bibl><ptr target="bib:Griffiths2015_02"/></bibl>).
+				Here I reproduced the translation of the same three verses from <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref> made by Arlo Griffiths <supplied reason="explanation">see also <bibl><ptr target="bib:Griffiths2015_02"/></bibl></supplied>. This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
 			</note>
 				</p>
 			<p n="17"><gap reason="lost" unit="character" quantity="10"/><supplied reason="explanation">line 17</supplied> <gap reason="ellipsis"/><supplied reason="explanation">yaṁ</supplied> engraved by the excellent Śrībhadra <supplied reason="explanation">suśrībhadrena</supplied> <supplied reason="lost">written by or heated by</supplied><note>
@@ -774,7 +784,7 @@ n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap rea
 		<div type="commentary">
 		</div>
 		<div type="bibliography">
-			<p>First noticed and edited in <bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl>. Re-edited in <bibl><ptr target="bib:Basak1923-1924_01"/></bibl>, <bibl><ptr target="bib:Sircar1942_01"/></bibl> (revised in <bibl><ptr target="bib:Sircar1965_02"/></bibl>), <bibl><ptr target="bib:Agrawala1983_02"/></bibl> and in <bibl><ptr target="bib:Balogh+al2019_01"/></bibl>. Discussed in <bibl><ptr target="bib:Basak1925_01"/><citedRange unit="page">475-496</citedRange></bibl>. The text is reedited here by Amandine Wattelier-Bricout based on the photos of the plate and RTI furnished by Arlo Griffiths and using a digital edition created by Dániel Balogh for the Siddham project as starting point. Since some readings differ from the previous editions, they are reported in the apparatus.</p>
+			<p>First noticed and edited in <bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl>. Re-edited in <bibl><ptr target="bib:Basak1923-1924_01"/></bibl>, <bibl><ptr target="bib:Sircar1942_01"/></bibl> <supplied reason="explanation">revised in <bibl><ptr target="bib:Sircar1965_02"/></bibl></supplied>, <bibl><ptr target="bib:Agrawala1983_02"/></bibl> and in <bibl><ptr target="bib:Balogh+al2019_01"/></bibl>. Discussed in <bibl><ptr target="bib:Basak1925_01"/><citedRange unit="page">475-496</citedRange></bibl>. The text is reedited here by Amandine Wattelier-Bricout based on the photos of the plate and RTI furnished by Arlo Griffiths and using a digital edition created by Dániel Balogh for the Siddham project as starting point. Since some readings differ from the previous editions, they are reported in the apparatus.</p>
 			<listBibl type="primary">
 				<bibl n="RDB"><ptr target="bib:Bandyopadhyaya1909_01"/></bibl><!-- 
 				amwb : caution here the reference seems to be broken Bandyopadhyaya1909_01 ? Missing 01???
