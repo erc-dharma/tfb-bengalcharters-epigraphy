@@ -142,28 +142,28 @@ amwb: for me <unclear>brā</unclear>hmaṇathe and maha is unclear
 daba: The conjectural filling-up is from Lielukhine, i.e. probably Sircar. Compare the Damodarpur plates. Bhandarkar reads ā(?) before kuṭumbi, I see nothing (not even kuṭumbi), but this could be part of an au mātrā. The broken-off gap after kuṭumbi is 2 or 3 characters in size, but I can't make out brāhmaṇa either on the facsimile, nor anything else really, except what may be śi of śivaśarmma. 
 --><lb n="4" break="no"/><gap reason="lost" precision="low" quantity="19" unit="character"/>vakīrtti-kṣemadatta-goṣṭhaka-varggapāla-piṅgala-śuṅkuka-kāla-<!-- 
 daba: Lielukhine (naming no source) proposes Śivakīrtti for the partially lost name and says Banerji reads kṣamavanta, presumably for kṣemadatta. 
---><lb n="5"/><gap reason="lost" precision="low" quantity="20" unit="character"/><unclear cert="low">pa</unclear>viṣṇu-<unclear>deva</unclear><!-- 
+--><lb n="5"/><gap reason="lost" precision="low" quantity="21" unit="character"/>viṣṇu-<unclear>deva</unclear><!-- 
 amwb : pa totally illegible, viṣṇu is clear, de unclear, va clear 
 -->śarmma-viṣṇubhadra-khāsaka-rāmaka<!-- 
 amwb : not sure but if I compare with BC33 I will read Umaka / rumaka rather than rāmaka, see photo rāmaka
 	-->-gopāla-<!-- 
 daba: Lielukhine says Banerji reads viṣyabhadra instead of viṣṇubhadra. 
---><lb n="6"/><gap reason="lost" precision="low" quantity="18" unit="character"/><unclear cert="low">sasu</unclear><!-- 
+--><lb n="6"/><gap reason="lost" precision="low" quantity="18" unit="character"/><unclear cert="low">sa</unclear>su<!-- 
 amwb : for me sa is illegible but su is clear. This clear su allows to imagine a locative here as I suggest in my translation
---> śrībhadra-somapāla-rāmā<unclear cert="low">dyāḥ</unclear><!-- 
-amwb : I will change the cert="low" by cert="high" for dyā ; the visarga is not readable but there is clearly the space and it is very likely that the visarga was here
---> grāmāṣṭa-kulādhikaraṇañ ca<!-- 
-amwb : here I will note a space or a illegible akṣara at the end of the line
+--> śrībhadra-somapāla-rāmā<unclear>dyāḥ</unclear><!-- 
+amwb : I  delete the cert="low" for dyā because it is legible; the visarga is not readable but there is clearly the space and it is very likely that the visarga was here
+--> grāmāṣṭa-kulādhikaraṇañ ca <space/><!-- 
+amwb : here I  note a space or a illegible akṣara at the end of the line
 --><!-- 
 daba: Bhandarkar reads Rām-ādyāḥ(?); no way to tell if the question mark is meant just for the visarga or for more. Lielukhine (Sircar?) has rāmādyaka, also with a question mark. 
 --><!-- 
 daba: Lielukhine also has °karaṇaśca at the end. 
 --><!-- 
 daba: And while we're at it, Bhandarkar's sa(?) su(?) may represent two alternatives rather than two successive characters? I can't make out anything on the photo. 
---><lb n="7"/><gap reason="lost" precision="low" quantity="15" unit="character"/>viṣṇu<unclear cert="low">nā</unclear><!-- 
+--><lb n="7"/><gap reason="lost" precision="low" quantity="15" unit="character"/>viṣṇu<unclear>ṇā</unclear><!-- 
 amwb : for viṣṇu<unclear cert="low">nā</unclear>, i am able to read v <unclear cert="medium">ṣṇu</unclear><unclear cert="low">ṇā</unclear>. It seems my reading (retroflex and not dental nasal) confirms daba's conjecture about the original 
---> vijñāpitā<!-- 
-amwb : I will add a space before Iha
+--> vijñāpitā<supplied reason="omitted">.</supplied></p><p> <space/><!-- 
+amwb : I  add a space before Iha
 --> Iha khādā<unclear cert="low">ṭa</unclear>pāra-viṣaye ’nuvr̥tta-maryyādā-sthi<unclear>ti</unclear>-<!-- 
 amwb : ti is illegible for me
 --><!-- 
@@ -269,9 +269,7 @@ daba: note that the final 5 lost characters are only there if the line extends t
 					<rdg source="bib:Bandyopadhyaya1909_01 bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/></rdg>
 					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02"><supplied reason="lost" cert="low"><abbr>saṁ</abbr> <num value="123"><g type="numeral">100</g> <g type="numeral">20</g> 3</num></supplied><gap reason="lost" unit="character" extent="unknown"/></rdg>
 					<rdg source="bib:Agrawala1983_02"><gap reason="lost" unit="character" quantity="20" precision="low"/></rdg>
-					<!--amwb
-						<note>I suggest assuming an ordinal number of the day and the name of the month or a place name here, see my note in the translation</note>
-					-->
+					<note>I suggest assuming an ordinal number of the day and the name of the month or a place name here, see my note in the translation.</note>
 				</app>
 				<app loc="2">
 					<!--amwb : the reality of the plate is an illegible akṣara (maybe na) + a gap of 3 akṣaras + nd*vasa
@@ -304,10 +302,7 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase 
 					<rdg source="bib:Basak1923-1924_01">-para<lb n="3" break="no"/> <gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost" cert="low">ā</supplied> kuṭu<unclear>mbi</unclear> <gap reason="lost" unit="character" extent="unknown"/> brāhmaṇa-</rdg>
 					<rdg source="bib:Sircar1942_01"><supplied reason="lost">ma-bhaṭṭāraka-mahārājādhirāja-śrī-kumāraguptaḥ</supplied> <gap reason="lost" unit="character" extent="unknown"/> kuṭu<unclear>mbi</unclear></rdg>
 					<rdg source="bib:Agrawala1983_02">-para<lb n="3" break="no"/><supplied reason="lost">ma-bhaṭṭāraka-mahārājādhirāja-śrī-kumāragupte pr̥thivīpatau</supplied>  <gap reason="lost" unit="character" extent="unknown"/>  kuṭu<unclear>mbi</unclear> <gap reason="lost" unit="character" extent="unknown"/> brāhmaṇa-</rdg>
-					<note><bibl><ptr target="bib:Sircar1942_01"/></bibl> first suggests reading <foreign>samavetānkuṭumbinaḥ grāmika-brāhmaṇa°</foreign>.</note>
-					<!--amwb
-						<note>In my translation, I suggest another conjecture for the gap.</note>
-					-->
+					<note><bibl><ptr target="bib:Sircar1942_01"/></bibl> first suggests reading <foreign>samavetānkuṭumbinaḥ grāmika-brāhmaṇa°</foreign>. In my translation, I suggest another conjecture for the gap.</note>
 				</app>
 				<!--
 					amwb : if I include my own reading, add what follows. But if so, change the above app 3 
@@ -339,10 +334,8 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase 
 					<note><bibl><ptr target="bib:Bandyopadhyaya1909_01"/><citedRange unit="page">461</citedRange></bibl> adds in note 2: <quote>The word may also be read <foreign><unclear cert="low">bru</unclear> ṅkuka</foreign></quote>.</note>
 				</app>
 				<app loc="5">
-					<!--amwb:
-						<lem><gap reason="lost" precision="low" quantity="21" unit="character"/>viṣṇu-</lem>
-					-->
-					<lem source="bib:Balogh+al2019_01"><gap reason="lost" precision="low" quantity="20" unit="character"/><unclear cert="low">pa</unclear>viṣṇu-</lem>
+					<lem><gap reason="lost" precision="low" quantity="21" unit="character"/>viṣṇu-</lem>
+					<rdg source="bib:Balogh+al2019_01"><gap reason="lost" precision="low" quantity="20" unit="character"/><unclear cert="low">pa</unclear>viṣṇu-</rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01"><gap reason="lost" unit="character" extent="unknown"/> vīṣya-</rdg>
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost" cert="low">pa</supplied>viṣṇu-</rdg>
 					<rdg source="bib:Sircar1942_01"><gap reason="lost" unit="character" extent="unknown"/> paviṣṇu-</rdg>
@@ -367,10 +360,8 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase 
 					<rdg source="bib:Bandyopadhyaya1909_01">Upaka-</rdg>
 				</app>
 				<app loc="6">
-					<!--amwb:
-						<lem><unclear cert="low">sa</unclear>su</lem>
-					-->
-					<lem source="bib:Balogh+al2019_01"><gap reason="lost" precision="low" quantity="18" unit="character"/><unclear cert="low">sasu</unclear></lem>
+					<lem><unclear cert="low">sa</unclear>su</lem>
+					<rdg source="bib:Balogh+al2019_01"><gap reason="lost" precision="low" quantity="18" unit="character"/><unclear cert="low">sasu</unclear></rdg>
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost" cert="low">sasu</supplied></rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01 bib:Sircar1942_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/></rdg>
 					<rdg source="bib:Agrawala1983_02"><gap reason="lost" precision="low" quantity="20" unit="character"/></rdg>
@@ -384,26 +375,24 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase 
 					<rdg source="bib:Bandyopadhyaya1909_01">°stham-apaha°</rdg>
 				</app>
 				<app loc="6">
-					<!--amwb:
-						<lem>-rāmā<unclear cert="high">dyāḥ</unclear></lem>
-					-->
-					<lem source="bib:Agrawala1983_02 bib:Balogh+al2019_01">-rāmā<unclear cert="low">dyāḥ</unclear></lem>
+					<lem>-rāmā<unclear>dyāḥ</unclear></lem>
+					<rdg source="bib:Agrawala1983_02 bib:Balogh+al2019_01">-rāmā<unclear cert="low">dyāḥ</unclear></rdg>
 					<rdg source="bib:Basak1923-1924_01">-rām<supplied reason="lost" cert="low">ādyāḥ</supplied></rdg>
 					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02">-<unclear cert="low">rāmādyāka</unclear></rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01">°ra<supplied reason="lost" cert="low">ṇa</supplied>bhyā-</rdg>
 				</app>
 				<app loc="6">
-					<!--amwb:
-						<lem>°dhikaraṇañ ca <space/></lem>
-					-->
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh+al2019_01">°dhikaraṇañ ca</lem>
+					<lem>°dhikaraṇañ ca <space/></lem>
+					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh+al2019_01">°dhikaraṇañ ca</rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01">°dhikaraṇ<gap reason="lost" unit="character" extent="unknown"/></rdg>
 				</app>
 				<app loc="7">
-					<!--amwb:
-						<lem>viṣṇu<unclear cert="high">ṇā</unclear></lem>
-					-->
-					<lem source="bib:Balogh+al2019_01"><gap reason="lost" precision="low" quantity="15" unit="character"/>viṣṇu<unclear cert="low">nā</unclear></lem>
+					<lem><gap reason="lost" precision="low" quantity="15" unit="character"/></lem>
+					<note>I suggest emending the expression <foreign>kuśalam anuvarṇya bodhayanti</foreign>. In support of this suggestion, one can compare it with these seven following examples, which are all contemporary with the present inscription: <ref target="DHARMA_INSBengalCharters00033.xml">Kalaikuri-Sultanpur Plate</ref>, line 2: <foreign><unclear>k</unclear>uśalam anuvarṇya bodhayanti</foreign>, <ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter</ref>, lines 2-3: <foreign>kuśalam āśāsya bodhayanti</foreign>, <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>, line 2: <foreign>bodhayanti</foreign>, <ref target="DHARMA_INSBengalCharters00049.xml">Baigram Charter</ref>, lines 2-3: <foreign> kuśalam anuvarṇya bodhayanti</foreign>, <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur Plate</ref>, line 2 : <foreign>kuśalam anuvarṇṇya bodhayanti</foreign>, <ref target="DHARMA_INSBengalCharters00055.xml">grant of land to monasteries at Śiṣīpuñja, Madhyamasṛgālikā and Grāmakūṭagohālī</ref>, line 3: <foreign>kuśalam uk<supplied reason="lost">tvānu</supplied><unclear>bo</unclear>dhayanti </foreign>, <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>, line 2: <foreign>k<unclear>u</unclear><supplied reason="lost">śa</supplied><unclear>la</unclear>m uktvā bodhayanti</foreign>. </note>
+				</app>
+				<app loc="7">
+					<lem>viṣṇu<unclear>ṇā</unclear></lem>
+					<rdg source="bib:Balogh+al2019_01"><gap reason="lost" precision="low" quantity="15" unit="character"/>viṣṇu<unclear cert="low">nā</unclear></rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01"><gap reason="lost" unit="character" extent="unknown"/> caraṇa-</rdg>
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/> <unclear cert="low">viṣṇunā</unclear></rdg>
 					<rdg source="bib:Sircar1942_01"><gap reason="lost" unit="character" extent="unknown"/> viṣṇu<unclear cert="low">nā</unclear></rdg>
@@ -411,7 +400,8 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase 
 					<rdg source="bib:Agrawala1983_02"><gap reason="lost" precision="low" quantity="20" unit="character"/>viṣṇu<unclear cert="low">nā</unclear></rdg>
 				</app>
 				<app loc="7">
-					<lem source="bib:Balogh+al2019_01">vijñāpitā Iha khādā<unclear cert="low">ṭa</unclear>-</lem>
+					<lem>vijñāpitā <supplied reason="omitted">.</supplied> <space/> Iha khādā<unclear cert="low">ṭa</unclear>-</lem>
+					<rdg source="bib:Balogh+al2019_01">vijñāpitā Iha khādā<unclear cert="low">ṭa</unclear>-</rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01">vijñāpita<gap reason="lost" unit="character" extent="unknown"/>mahā khuṣā°</rdg>
 					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02">vijñāpitā Iha khādā<unclear cert="low">ṭā</unclear>-</rdg>
 					<rdg source="bib:Agrawala1983_02">vijñāpitā Iha khā<unclear cert="low">dyāṭa</unclear>-</rdg>
@@ -705,7 +695,7 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase
 amwb : add a ref if this plate is encoded in DHARMAdatabase
 				-->: <foreign><sic>samva</sic> <num value="124"><g type="numeral">100</g> <g type="numeral">20</g> 4</num> phālgu<sic>ṇ</sic>a di <num value="7">7</num></foreign>, see <bibl><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00026</citedRange></bibl></supplied>. 
 			</note> 
-			 <gap reason="ellipsis"/><supplied reason="lost"> the officer</supplied><supplied reason="explanation"><foreign>āyukta</foreign></supplied> <gap reason="lost" unit="character" quantity="3"/><supplied reason="explanation">probably: named XXX</supplied>, <supplied reason="lost">graced by the feet of</supplied> <supplied reason="explanation"><foreign>pādānuddhyātaḥ</foreign>/<foreign>ta</foreign></supplied> the Supreme Majesty and Supreme <supplied reason="explanation"><foreign>parama-daivata-para</foreign></supplied> Lord<note>
+			 <gap reason="ellipsis"/><supplied reason="lost"> the officer</supplied><supplied reason="explanation"><foreign>āyukta</foreign></supplied> <gap reason="lost" unit="character" quantity="3"/><supplied reason="explanation">probably: named XXX</supplied>, <supplied reason="lost">graced by the feet of</supplied> <supplied reason="lost" cert="low"><foreign>pādānuddhyāta</foreign></supplied> the Supreme Majesty and Supreme <supplied reason="explanation"><foreign>parama-daivata-para</foreign></supplied><supplied reason="lost" cert="low">ma-bhaṭṭāraka-</supplied> Lord<note>
 							In the line 3, <bibl><ptr target="bib:Balogh+al2019_01"/></bibl> suggests filling in the gap by <foreign>mahārājādhirāja-śrī-kumāragupte pr̥thivīpatau</foreign>. This expression can be found in the Damodarpur Charter 2 (GE 128) of Kumaragupta I<!-- 
 amwb : add a ref if this plate is encoded in DHARMAdatabase
 				--> <supplied reason="explanation">see <bibl><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00028</citedRange></bibl>, lines 1-2</supplied> and in the Damodarpur Charter 1 (GE 124) of Kumaragupta I<!-- 
@@ -743,15 +733,17 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase
 						<item><ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>, line 2: <foreign>k<unclear>u</unclear><supplied reason="lost">śa</supplied><unclear>la</unclear>m uktvā bodhayanti</foreign></item>
 					</list>
 				</note> the householder <gap reason="lost" unit="character" quantity="3"/><supplied reason="explanation">line 3</supplied> <supplied reason="explanation">named X</supplied><note>
-					One may suppose that the 3 missing <foreign>akṣara</foreign>s in line 3 following <foreign>kuṭumbi</foreign> were the name of the househoulder. The reading found in the <title>editio princeps</title> <supplied reason="explanation"><bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl></supplied> is quite difficult to interpret. Indeed, according to his introduction, <bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl> had taken photos of plate before it lost some of its fragments, which occured during its display at the Calcutta Industrial Exhibition in 1906-7. From his reading <foreign>kṣudra <supplied reason="lost">ka nivāsinaḥ</supplied> brāhmaṇa</foreign>, it is not clear if <foreign>kṣudra</foreign> corresponds to what others read as <foreign>kuṭu</foreign>. From the photo I have at my disposal, I read <foreign><unclear cert="high">dra</unclear>kaṭu<unclear cert="low">mb</unclear><gap reason="lost" unit="character" quantity="3"/>brāhmaṇa</foreign>. Therefore we have to be cautious because a compound having both <foreign>kṣudra</foreign> and <foreign>kuṭumbi</foreign> inside is very likely when comparing the present line with lines 2 of <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>, 6 of <ref target="DHARMA_INSBengalCharters00051.xml">Tāvīra</ref> and 2 of <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>. 
-				</note> and the brahmins Śivaśarman, Nāgaśarman, Maha<gap reason="lost" quantity="18" unit="character"/>, <gap reason="lost" quantity="1" unit="character"/>vakīrtti, Kṣemadatta,<note>
+					One may suppose that the 3 missing <foreign>akṣara</foreign>s in line 3 following <foreign>kuṭumbi</foreign> contain the name of the househoulder. The reading found in the <title>editio princeps</title> <supplied reason="explanation"><bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl></supplied> is quite difficult to interpret. Indeed, according to his introduction, <bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl> had taken photos of plate before it lost some of its fragments, which occurred during its display at the Calcutta Industrial Exhibition in 1906-7. From his reading <foreign>kṣudra <supplied reason="lost">ka nivāsinaḥ</supplied> brāhmaṇa</foreign>, it is not clear if <foreign>kṣudra</foreign> corresponds to what others read as <foreign>kuṭu</foreign>. From the photo I have at my disposal, I read <foreign><unclear>dra</unclear>kaṭu<unclear cert="low">mb</unclear><gap reason="lost" unit="character" quantity="3"/>brāhmaṇa</foreign>. Therefore we have to be cautious because a compound having both <foreign>kṣudra</foreign> and <foreign>kuṭumbi</foreign> inside is very likely when comparing the present line with lines 2 of <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>, 6 of <ref target="DHARMA_INSBengalCharters00051.xml">Tāvīra</ref> and 2 of <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>. 
+				</note> and the brahmins Śivaśarman, Nāgaśarman, Maha<gap reason="lost" quantity="18" unit="character"/><supplied reason="explanation"> beginning of the line 4</supplied>, <gap reason="lost" quantity="1" unit="character"/>vakīrtti, Kṣemadatta,<note>
 					<bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl> reads Kṣamavanta.
-				</note> Goṣṭhaka, Vargapāla, Piṅgala, Śuṅkuka, Kāla<gap reason="lost" unit="character" extent="unknown"/>, <gap reason="lost" unit="character" extent="unknown"/>paviṣṇu, Devaśarman, Viṣṇubhadra, Khāsaka, Rāmaka, Gopāla, <gap reason="lost" quantity="18" unit="character"/><supplied reason="explanation">line 6</supplied> <gap reason="ellipsis"/><supplied reason="lost">residing in</supplied><supplied reason="explanation"><foreign>sasu</foreign></supplied><note>
+				</note> Goṣṭhaka, Vargapāla, Piṅgala, Śuṅkuka, Kāla<gap reason="lost" unit="character" extent="unknown"/>, <gap reason="lost" quantity="21" unit="character"/><supplied reason="explanation"> beginning of the line 5</supplied><gap reason="lost" unit="character" extent="unknown"/>viṣṇu,<note>
+					The <bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl>, the first editor of the plate, reads <foreign>viṣya</foreign> at the beginning of the line 5 and he is not able to see an <foreign>akṣara</foreign> before this word. <bibl><ptr target="bib:Basak1923-1924_01"/></bibl> suggests reading <foreign><supplied reason="lost" cert="low">pa</supplied>viṣṇu</foreign>-, but for me the <foreign>akṣara</foreign> <foreign>pa</foreign> is totally illegible and I follow the opinion of the <foreign>editio princeps</foreign>.
+				</note> Devaśarman, Viṣṇubhadra, Khāsaka, Rāmaka, Gopāla, <gap reason="lost" quantity="18" unit="character"/><supplied reason="explanation">line 6</supplied> <gap reason="ellipsis"/><supplied reason="lost">residing in</supplied><supplied reason="explanation"><foreign>sasu</foreign></supplied><note>
 					Maybe we have to emend <foreign>sāsu</foreign> for a feminine plural locative? 
 					It would be logical to have the names of the eight villages mentionned by the expression <foreign>grāmāṣṭakulādhiraṇañ ca</foreign> at the beginning of the line 6. 
 				</note> </p>
 			<p n="7">
-				<gap reason="ellipsis"/><supplied reason="explanation">4 last missing <foreign>akṣara</foreign>s at the beginning of the line 7</supplied>viṣṇu petition as follows:
+				<gap reason="lost" quantity="15" unit="character"/><supplied reason="explanation">line 7</supplied><gap reason="ellipsis"/>viṣṇu <supplied reason="explanation">4 last missing <foreign>akṣara</foreign>s at the beginning of the line 7</supplied> petition as follows:
 			</p>
 			<p n="7-10">
 				Here, in the district of Khāḍāṭapāra, the established custom is <gap reason="lost" unit="character" quantity="15"/><supplied reason="explanation">line 8</supplied>  there is destruction of the law of <supplied reason="lost">permanent</supplied> endowment<note>
@@ -779,7 +771,7 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase
 					Here I have choosen the reading of <bibl><ptr target="bib:Sircar1942_01"/></bibl>, <bibl><ptr target="bib:Sircar1965_02"/></bibl> and <bibl><ptr target="bib:Agrawala1983_02"/></bibl>. I emend <foreign>tadbhavaṁ</foreign>.
 				</note>
 				is given to the brahmin Varāhasvāmin <supplied reason="explanation">belonging to the</supplied> Chandoga <supplied reason="explanation">tradition</supplied><note>
-					According to the note 7 of <bibl><ptr target="bib:Basak1923-1924_01"/><citedRange unit="page">348</citedRange></bibl>, chandoga means one studying the <title>Sāmaveda</title>.
+					According to the note 7 of <bibl><ptr target="bib:Basak1923-1924_01"/><citedRange unit="page">348</citedRange></bibl>, <foreign>chandoga</foreign> means one studying the <title>Sāmaveda</title>.
 				</note> residing in Kaṭaka <supplied reason="explanation">the royal camp?</supplied>, brother <supplied reason="explanation">bhātṛ</supplied> <gap reason="lost" unit="character" quantity="14"/><supplied reason="explanation">line 12</supplied> 
 			</p>
 			<p n="13-14">
