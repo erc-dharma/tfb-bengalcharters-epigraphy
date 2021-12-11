@@ -303,11 +303,11 @@
                 <lg n="36" met="śārdūlavikrīḍita">
                     <l n="a">Agrāmyaṁ sadasi smitam praṇayinām āśā<lb n="69"/> na dīrghīkr̥tās</l>
                     <l n="b">tyaktāḍamvaram eva yena ripavo dhāreṇa saṅkocitāḥ<g type="danda">.</g></l>
-                    <l n="c">ante yā viphala<supplied reason="omitted">d</supplied>-giraḥ śruti-sukhāḥ svapne ’pi tāne ritās</l>
-                    <l n="d">tad-viśrāṇitam artthine punar ayo<lb n="70"/><supplied reason="lost">dhyā</supplied>n ārthitān nāgamat·<g type="ddanda">.</g></l>
+                    <l n="c">Ante yā viphala<supplied reason="omitted">d</supplied>-giraḥ śruti-sukhāḥ svapne ’pi tā neritās</l>
+                    <l n="d">tad-viśrāṇitam artthine punar asau<lb n="70"/><supplied reason="lost">ye</supplied>nārthitān nāgamat·<g type="ddanda">.</g></l>
                 </lg>
                 <lg n="37" met="sragdharā">
-                    <l n="a">Ā śailād īśa-cūḍā-bharaṇa-śaśikarādhyāpita-śveta-bhāvād</l>
+                    <l n="a">Ā śailād īśa-cūḍābharaṇa-śaśi-karādhyāpita-śveta-bhāvād</l>
                     <l n="b">ā vindhyān narmmadāmbhaḥ-śiśirita-dr̥ṣadaḥ sāgarād ā pratīcaḥ<g type="danda">.</g></l>
                     <l n="c">Ā prāco vaṅgataḥ<lb n="71"/> <supplied reason="lost">ā</supplied>nayana-kuvalaya-nyāsa-nīlormma-dāmnaḥ</l>
                     <l n="d">sāmantās te na ke cin nija-śirasi dadhe yair na tat-pāda-pansuḥ<g type="ddanda">.</g></l>
@@ -372,8 +372,8 @@
                   <app loc="49"><lem>-śayanā<choice><orig>ś</orig><corr>s</corr></choice>ana-</lem><rdg source="bib:Furui2008_01">-śayanāsana-</rdg></app>
                   <app loc="61"><lem>śuddhāśayaḥ</lem><rdg source="bib:Furui2008_01">śraddhāśayaḥ</rdg></app>
                   <app loc="62"><lem>-bhā<lb n="63" break="no"/>nta-</lem><rdg source="bib:Furui2008_01">-dā<lb n="63" break="no"/>nta-</rdg></app>
-                  <app loc="69"><lem>ayo<lb n="70"/><supplied reason="lost">dhyā</supplied>n</lem><rdg source="bib:Furui2008_01">ayo<lb n="70"/><gap reason="lost" extent="unknown"/>t</rdg></app>
-                  <app loc="70"><lem>ārthitān</lem><rdg source="bib:Furui2008_01">arthitān</rdg></app>
+                  <app loc="69"><lem>aso</lem><rdg source="bib:Furui2008_01">ayo</rdg></app>
+                  <app loc="70"><lem><supplied reason="lost">ye</supplied>nārthitān</lem><rdg source="bib:Furui2008_01"><gap reason="lost" extent="unknown"/>t arthitān</rdg></app>
                   <app loc="70"><lem>nāgamat·</lem><rdg source="bib:Furui2008_01">nāśamat</rdg></app>
                   <app loc="70"><lem>ā pratīcaḥ</lem><rdg source="bib:Furui2008_01">āpavīcaḥ</rdg></app>
                   <app loc="70"><lem>prāco</lem><rdg source="bib:Furui2008_01">prale</rdg></app>
