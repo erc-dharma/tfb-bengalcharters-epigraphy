@@ -331,7 +331,7 @@
                 <lg n="39" met="vasantatilakā">
                     <l n="a">śastrānale hutavato dviṣatām anīkaṁ</l>
                     <l n="b">rājopavāhyam adhirūḍhavato gajendraṁ*<g type="dandaStrokeLeft">.</g></l>
-                    <l n="c">yasyān apakrama-va<lb n="73" break="no"/><seg met="+"><gap reason="lost" unit="character" quantity="1"></gap></seg>-patir ādideśa</l>
+                    <l n="c">yasyānapakramava<lb n="73" break="no"/><supplied reason="lost">taḥ</supplied> patir ādideśa</l>
                     <l n="d">śvetāvja-puñja-nibham ujvala-hema-daṇḍaṁ*<g type="ddandaStrokeLeft">.</g></l>
                 </lg>
                 <lg n="40" met="śālinī">
@@ -394,7 +394,7 @@
                   <app loc="71"><lem>sada<unclear>si</unclear> yo</lem><rdg source="bib:Furui2008_01">sadaṇayo</rdg></app>
                   <app loc="71"><lem>maho<unclear>da</unclear><lb n="72" break="no"/><supplied reason="lost">dhi</supplied>ḥ</lem><rdg source="bib:Furui2008_01">mahāṁ <gap reason="lost" extent="unknown"/><lb n="72" break="no"/>ḥ</rdg></app>
                   <app loc="72"><lem>vidham paprathe</lem><rdg source="bib:Furui2008_01">vidhamya praddhe</rdg></app>
-                  <app loc="72"><lem>yasyān</lem><rdg source="bib:Furui2008_01">yasyāt-</rdg></app>
+                  <app loc="72"><lem>yasyānapakramava<lb n="73" break="no"/><supplied reason="lost">taḥ</supplied></lem><rdg source="bib:Furui2008_01">yasyātapakramataḥ <lb n="73"/><gap reason="lost" extent="unknown"/></rdg></app>
                   <app loc="73"><lem>vvibhramodbhe<lb n="74" break="no"/><supplied reason="lost">da</supplied>-</lem><rdg source="bib:Furui2008_01">vvibhūnodbhe<lb n="74" break="no" /><gap reason="lost" extent="unknown"></gap></rdg></app>
                </listApp>
              </div>
