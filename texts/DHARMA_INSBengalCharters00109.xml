@@ -324,9 +324,9 @@
                 </lg>
                 <lg n="38" met="rathoddhatā">
                     <l n="a"><unclear>p</unclear>ratyapadyata mahārham āsanam</l>
-                    <l n="b">yad gajāṁ sada<seg met="-"><gap reason="illegible" unit="character" quantity="1"/></seg>yo mahā-<unclear>sa</unclear><lb n="72" break="no"/><seg met="+"><gap reason="lost" unit="character" quantity="1"/>ḥ</seg><g type="dandaStrokeleft">.</g></l>
+                    <l n="b"><unclear>bhū</unclear>-bhujāṁ sada<unclear>si</unclear> yo maho<unclear>da</unclear><lb n="72" break="no"/><supplied reason="lost">dhi</supplied>ḥ<g type="dandaStrokeleft">.</g></l>
                     <l n="c">yasya cānyad api tat tathā vidham</l>
-                    <l n="d">ya prathe kakuda-jātam ādr̥taṁ*<g type="ddandaStrokeLeft">.</g></l>
+                    <l n="d">paprathe kakuda-jātam ādr̥taṁ*<g type="ddandaStrokeLeft">.</g></l>
                 </lg>
                 <lg n="39" met="vasantatilakā">
                     <l n="a">śastrānale hutavato dviṣatām anīkaṁ</l>
@@ -390,12 +390,10 @@
                   <app loc="71"><lem>-nyāsa-</lem><rdg source="bib:Furui2008_01">-nyāya-</rdg></app>
                   <app loc="71"><lem><unclear>p</unclear>ratyapadyata</lem><rdg source="bib:Furui2008_01">raty apadyata</rdg></app>
                   <app loc="71"><lem>āsanam</lem><rdg source="bib:Furui2008_01">āsanan</rdg></app>
-                  <app loc="71"><lem>yad</lem><rdg source="bib:Furui2008_01">yan</rdg></app>
-                  <app loc="71"><lem>gajāṁ</lem><rdg source="bib:Furui2008_01">nūjāṁ</rdg></app>
-                  <app loc="71"><lem>sada<seg met="-"><gap reason="illegible" unit="character" quantity="1"/></seg>yo</lem><rdg source="bib:Furui2008_01">sadaṇayo</rdg></app>
-                  <app loc="71"><lem>mahā-<unclear>sa</unclear><lb n="72" break="no"/><seg met="+"><gap reason="lost" unit="character" quantity="1"/>ḥ</seg></lem><rdg source="bib:Furui2008_01">mahāṁ <gap reason="lost" extent="unknown"/><lb n="72" break="no"/>ḥ</rdg></app>
-                  <app loc="72"><lem>vidham ya</lem><rdg source="bib:Furui2008_01">vidhamya</rdg></app>
-                  <app loc="72"><lem>prathe</lem><rdg source="bib:Furui2008_01">praddhe</rdg></app>
+                  <app loc="71"><lem><unclear>bhū</unclear>-bhujāṁ </lem><rdg source="bib:Furui2008_01">yan nūjāṁ</rdg></app>
+                  <app loc="71"><lem>sada<unclear>si</unclear> yo</lem><rdg source="bib:Furui2008_01">sadaṇayo</rdg></app>
+                  <app loc="71"><lem>maho<unclear>da</unclear><lb n="72" break="no"/><supplied reason="lost">dhi</supplied>ḥ</lem><rdg source="bib:Furui2008_01">mahāṁ <gap reason="lost" extent="unknown"/><lb n="72" break="no"/>ḥ</rdg></app>
+                  <app loc="72"><lem>vidham paprathe</lem><rdg source="bib:Furui2008_01">vidhamya praddhe</rdg></app>
                   <app loc="72"><lem>yasyān</lem><rdg source="bib:Furui2008_01">yasyāt-</rdg></app>
                   <app loc="73"><lem>vvibhramodbhe<lb n="74" break="no"/><supplied reason="lost">da</supplied>-</lem><rdg source="bib:Furui2008_01">vvibhūnodbhe<lb n="74" break="no" /><gap reason="lost" extent="unknown"></gap></rdg></app>
                </listApp>
