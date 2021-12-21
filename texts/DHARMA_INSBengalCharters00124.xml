@@ -51,7 +51,9 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                        	<p>An ornamental -ti is used to indicate clause end in lines 4, 7, 13. Barnett (<bibl rend="omitname"><ptr target="bib:Barnett1925-1926_01"/><citedRange>61</citedRange></bibl>) interprets these as actually containing a punctuation sign, but since the same shape is rather often followed in manuscripts and inscriptions by an explicit punctuation sign, I believe it only implies one.
+<!-- Nepalese Sarvatathāgatatattvasaṁgraha ms.; Arakan inscriptions; the inscription ciyted by Barnett -->
+<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -85,59 +87,62 @@
 <p>
 <lb n="1"/><g type="spiralR"/> svasti karṇṇa<unclear>s</unclear>uvarṇṇakāvasthitasya mahārājādhirāja<surplus>ḥ</surplus><space/>-parama-bhāgavata<lb n="2" break="no"/>-śrī-jayanāga-<unclear>d</unclear>evasya <gap reason="illegible" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ī</seg><gap reason="illegible" quantity="1" unit="character"/><unclear>bh</unclear>yudaya-sāmbatsare tat-pādānuddhyāta-śrī-sāmanta<lb 
 n="3" break="no"/>nārāyaṇabhadrasy<unclear>au</unclear>dumvarīka-<unclear>viṣa</unclear>ya-sambhogakāle ca <supplied reason="omitted">ta</supplied>d-vyavahāri-mahāpratihāra-sū<seg type="component" subtype="body">r</seg>ya<lb n="4" break="no"/>sene vyavaharati<supplied reason="omitted"><g type="danda">.</g></supplied> tad asyājñā śrī-sāmanta-pādaiḥ pradattāḥ kāśyapa-sagottrāya chā<lb n="5" break="no"/>ndoga-savrahmacāriṇe bhaṭṭa-vrahmavīrasvāmine mayā mātā-pittror ātma<unclear>na</unclear><lb 
-n="6" break="no"/>ś ca puṇyābhivr̥ddhaye vappaghoṣavāṭa-grāma Ākṣayaṇī<supplied reason="omitted">vī</supplied>-dharmmaṇā pradattaḥ viṣa<lb 
+n="6" break="no"/>ś ca puṇyābhivr̥ddhaye vappaghoṣavāṭa-grāma <choice><sic>Ā</sic><corr>A</corr></choice>kṣayaṇī<supplied reason="omitted">vī</supplied>-dharmmaṇā pradattaḥ viṣa<lb 
 n="7" break="no"/>ya-mudrālaṅ-k<choice><orig>ri</orig><reg>r̥</reg></choice>ta-tāmra-śāsanaṁ sīmāghāṭa-paricchinna<supplied reason="omitted">ṁ</supplied> dāsyatheti<supplied reason="omitted"><g type="danda">.</g></supplied> Attra sīmā<lb 
 n="8" break="no"/>liṅgāni yattra paścimasyān diśi kutkuṭagrāmīṇa-vrāhmaṇānāṁ satka-tāmra-paṭṭa<lb 
 n="9" break="no"/>sīmā Utta<unclear>ra</unclear>syāṁ gaṅginikā<g type="dotMid">.</g> pūrvvasyām iyam eva gaṅginikā<g type="dotMid">.</g> tato nissr̥to
-<lb n="10"/>Āmalapautikagrāma-paścimā-sīmnānugatas sarṣapa-yānakaḥ<g type="dotMid">.</g> tenaiva <supplied reason="omitted">sī</supplied>- 
-<lb n="11"/>[mn]ā (sa)mparicchinno yāvad bhaṭṭonmīlanasvāmi-tāmrapaṭṭa Iti tasmāc ca dakṣiṇa-diṅ-bhāgā-
-<lb n="12"/>d bhūyas tenaiva simnā Uttarān diśam anuvalamānas tāvad āgato yāva⟨d⟩ bharaṇisvāmi-
-<lb n="13"/>tāmrapaṭṭa-sīmeti<supplied reason="omitted"><g type="danda">.</g></supplied> tato ’pi praguṇena bhaṭṭonmīlanasvāmi-tāmrapaṭṭasīmni vakhaṭas(ū)mā-
-<lb n="14"/>likādeva-khātam praviśya tāva⟨d⟩ gato yāva⟨t⟩ sa Eva kutkuṭagrāmīṇa-vrāhmaṇasīmeti {3 aks. effaced} 
-<lb n="15"/>{22 akṣ. effaced}
+<lb n="10"/>Āmalapautikagrāma-paścimā-sīmnānugatas sarṣapa-yānakaḥ<g type="dotMid">.</g> tenaiva 
+<lb n="11"/><unclear>kāṣāt</unclear> paricchinno yāvad bhaṭṭonmīlanasvāmi-tāmrapaṭṭa Iti tasmāc ca dakṣiṇa-diṅ-bhāgā<lb 
+n="12" break="no"/>d bhūyas tenaiva simnā Uttarān diśam anuvalamānas tāvad āgato yāva<supplied reason="omitted">d</supplied> bharaṇisvāmi<lb 
+n="13" break="no"/>-tāmrapaṭṭa-sīmeti<supplied reason="omitted"><g type="danda">.</g></supplied> tato ’pi praguṇena bhaṭṭonmīlanasvāmi-tāmrapaṭṭa-sīmni vakhaṭasūmā<lb 
+n="14"/>likādeva-khātam praviśya tāva<supplied reason="omitted">d</supplied> gato yāva<supplied reason="omitted">t</supplied> sa Eva kutkuṭagrāmīṇa-vrāhmaṇasīmeti <del><gap reason="illegible" quantity="3" unit="character"/><lb 
+n="15"/><gap reason="illegible" quantity="1" unit="line"/></del>
 </p>
  </div>
          </div>
          <div type="apparatus">
 <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-<listApp><!-- one <app> for each apparatus entry -->
+<listApp>
                   <app loc="1">
-	       <lem></lem>
-                     <note>Seal legend unread by Barrett?</note>
+	       <lem><supplied reason="lost">Audu</supplied><unclear>mva</unclear>rīka<gap reason="illegible" unit="character" quantity="2"/><unclear>sya</unclear> <gap reason="illegible" unit="character" quantity="5" precision="low"/></lem>
+                     <note>The legend was left entirely unread by Barnett.</note>
                   </app>
 </listApp>
 </div>
 <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
-           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:Barnett1925-1926_01"><!-- update the @source value, fill in variant reading here --></rdg>
-                  </app>
+               <listApp>
+	<app loc="2">
+                     <lem source="bib:Barnett1925-1926_01"><gap reason="illegible" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ī</seg><gap reason="illegible" quantity="1" unit="character"/><unclear>bh</unclear>yudaya-</lem>
+                     <note>None of the restitutions I have considered — <foreign>tr̥tīyābhyudaya-</foreign>, <foreign>tadīyābhyudaya</foreign></note>
 <!-- 
-	2. (tr̥t)ī(yābh)yudaya-: .. ī . (bh)yudaya- Barnett.
-		tadīyā?
 daba: "1. I'm very hesitant about tṛtīya/dvitīya in line 2. It seems pretty certain that there was no i on the first obliterated character, so I think dvi can be ruled out. But with the ī of rī below, I also can't quite see where the ṛ of tṛ might have been placed. However, what's left of this first character does suggest the consonant t. And the third obliterated character seems to have been pretty wide, and may well have had a subscript y. Perhaps yyā rather than yā? Do you think svakīyyā° may be possible? (Though sva is also a bit problematic because of the presence of ī below.) Or svādhīnyā°? Or svavīryyā°? I can't think of anything plausible without an initial sva, it seems :) At any rate, I think that in addition to tṛtīyyā (or tṛtīyā), which I can't rule out, it's possible that there was no number (so "first" is to be understood), and the damaged word qualified abhyudaya, not sāmvatsara."
-	4, 7, 13 Barrett reads -ti |, but the sentence-end is expressed in each case by a final -ti.
-	6. Ākṣayaṇī⟨vī⟩-: Ākṣayaṇī- Barnett.
-	7. -krita-: norm. -kr̥ta-.
-	910. [sīmnā sam]: kārṣan?
  -->
+	</app>
+	<app loc="6">
+                     <lem><choice><sic>Ā</sic><corr>A</corr></choice>kṣayaṇī<supplied reason="omitted">vī</supplied>-dharmmaṇā</lem>
+                     <rdg source="bib:Barnett1925-1926_01">Ākṣayaṇī-dharmmaṇā</rdg>
+                  </app>
+                  <app loc="10">
+                     <lem>tenaiva <lb n="11"/><unclear>kāṣāt</unclear> paricchinno</lem>
+                     <rdg source="bib:Barnett1925-1926_01">tenai<unclear>va sī</unclear><lb n="11"/><unclear>mn</unclear>ā <unclear>sa</unclear>mparicchinno</rdg>
+		<note>Barnett's reading is not confirmed by consultation of the plate. The bisyllabic word to be read before <foreign>paricchinno</foreign> almost certainly begins with <foreign>kā</foreign> and ends with <foreign>n</foreign> or <foreign>t</foreign>.</note>
+                  </app>
                </listApp>
 </div>
          </div>
          <div type="translation" source="bib:Barnett1925-1926_01">
- 	<!--translation encoded as per EGD §9.2 -->
+ <p n="1-7">Hail! In the year of the rise ... of the Great Emperor, the supreme worshipper of the Lord, the fortunate king Jayanāga, when he is resident at Karṇasuvarṇaka, at the time that the Baron Nārāyaṇabhadra, who meditates upon his feet, is in the enjoyment of the Audumbarīka province, his commissioner the Mahāpratihāra Sūryasena. acting as administrator: the command given to him by the noble Baron is as follows: <q>The village of Vappaghoṣavāṭa has been given by me to Bhaṭṭa Brahmavīra Svāmin, a member of the Kāśyapa gotra and colleague of the Chāndogas, for the increase of the merit of my mother, my father, and myself, as a perpetual endowment: you are to give (a deed engraved on) a copper-plate adorned with the seal of the province and specifying the boundaries.</q></p>
+	<p n="7-14">The signs of the boundary therein are: on the west, the boundary of the grant belonging to the Brāhmaṇs of Kuṭkuta-grāma; on the north, the river-bed; on the east, the same river-bed; issuing thence and running along the western boundary of Āmalapautika-grāma, (the boundary) is the Sarṣapa-yānaka; it is limited by the same [boundary], as far as Bhaṭṭa Unmīlana-svāmin's grant; from the south thereof, (the boundary), turning along further by the same boundary to the north, proceeds as far as the boundary of Bharaṇi-svāmin's grant, thence in a straight line enters the pond of Vakhaṭa-Sūmālikā on the boundary of Bhaṭṭa Unmīlana-svāmin grant, and goes as far as the same boundary of the Brāhmaṇs of Kutkuṭa-grāma.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>Edited and translated by L. D. Barnett (<bibl rend="omitname"><ptr target="bib:Barnett1925-1926_01"/></bibl>). Re-edited by Arlo Griffiths from photos of the plate.</p>
         	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
-			</listBibl>
+		<bibl n="B"><ptr target="bib:Barnett1925-1926_01"/></bibl>
+	</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
