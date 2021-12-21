@@ -128,8 +128,10 @@ amwb : <unclear>yaḥ</unclear> <uncleat>puṁ</unclear><supplied reason="lost">
 <l n="cd">satya-tapo-maya-mūrttir lloka-dvaya-sādhano dharmmaḥ</l>
 </lg><!--
 daba: For the lost beginning, Sircar conjecturally supplies a mangala symbol, followed by svasti| jayati śrī. This is unmetrical (hypermetrical to begin with, and the pattern .-. is not permitted in the third foot). He also notes that "some" suggest trilokanātha for Viṣṇu, but with homage to dharma in the second half of this verse and santaḥ (~saṁgha) in the next verse, the flavour seems to be Buddhist, so one would expect homage to the Buddha here. However, trilokanātha is metrically correct. Alternatively one could hypothesize sa lokanāthaḥ.
+--><!-- 
+amwb : one can find the expression  satya-tapo-maya  in Sursruta Saṁhitā 5.5.9 where it qualifies mantra ; the expression satyataponidhi is used to qualify Vyāsa in Kṣemandra's Bharatamañjari 19.1485         
 --><lg n="2" met="upagīti">
-<l n="ab">tad-anu jita-a<choice><sic>n</sic><corr>m</corr></choice>bha-lobhā jaya<lb n="2" break="no"/><supplied reason="lost">nti</supplied> <gap reason="lost" precision="low" quantity="1" unit="character"/> <seg type="component" subtype="consonant"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear cert="low">ya</unclear> <unclear>pa</unclear>rah<supplied reason="lost">i</supplied>tārthāḥ</l><!--
+<l n="ab">tad-anu jita-da<choice><sic>n</sic><corr>m</corr></choice>bha-lobhā jaya<lb n="2" break="no"/><supplied reason="lost">nti</supplied> <supplied reason="lost">nit</supplied><unclear cert="low">ya</unclear><supplied reason="lost">ṁ</supplied> <unclear>pa</unclear>rah<supplied reason="lost">i</supplied>tārthāḥ</l><!--
     amwb <supplied reason="lost">yapa</supplied><unclear>ra</unclear>h<supplied reason="lost">i</supplied>tārthāḥ
 -->
 <l n="cd">ni<supplied reason="lost">rmma</supplied>tsarāḥ sucaritaiḥ para-loka-jigīṣavaḥ santaḥ</l>
@@ -145,14 +147,15 @@ daba: For the beginning of l3, Majumdar feels "no hesitation in restoring" gopac
 --></p>
 <p>pūjya<surplus>ṁ</surplus>-mahārāja-vijayasenena vayam abhyarthitā<!-- 
 amwb : do we introduce a tag p for the beginning of the discourse?
---> Icche ’ham eta<supplied reason="omitted">d</supplied>-vīthī-samvaddha-vettragarttā-grāme yuṣmabhyo ya<!-- 
+--> Icche ’ham eta<supplied reason="omitted">d</supplied>-vīthī-samvaddha-vettragarttā-grāme yuṣma<choice><sic>bhyo</sic><corr>bhir</corr></choice> ya<!-- 
 amwb : Icche'ham is also present in BC63
+amwb . I corrected yuṣmabhyo into yuṣmabhir see apparatus 
 --><lb n="9" break="no"/>thā-nyāy<choice><sic>a</sic><corr>e</corr></choice>nopakrīyāṣṭau kulyavāpān mātā-pittror<!-- 
 amwb Maybe change here because it is noted kulyavāpān n with virama and then  mātā see photo kulyavapaN virama mātāpitro l9.png
 --> ātmanaś ca puṇyābhivr̥ddhaye kalpāntara-sthāyinyā pravr̥ttyā puttra-pauttrānvaya-bhogyatvena kauṇḍinya-sagottrāya <lb n="10"/>vāhvr̥ca-vatsasvāmin<choice><sic>o</sic><corr>e</corr></choice> pañca-mahā-yajña-pravarttanāya pratipā<choice><sic>v</sic><corr>d</corr></choice>ayitum iti<!--
 daba: For iccheham in l8, Majumdar corrects to iccheyam, and Sircar to icchaye or icchāmi. I don't know what is wrong with icche [']ham, which Sircar prints in his main text - perhaps not standard but I'm sure I've seen this form. It's correct in class 6 ātmanepada.
 --></p>
-<p>yato ’smābhir asyābhyartha<supplied reason="omitted">na</supplied>yāvadhr̥tam asty <choice><sic>o</sic><corr>e</corr></choice>ṣo ’nukramaḥ Ubhaya-loka-vijigīṣu<unclear>bhi</unclear><lb n="11" break="no"/><supplied reason="lost">s</supplied> <unclear>s</unclear><supplied reason="lost">ā</supplied>dhubhiḥ kriyamāṇa-puṇya-skandheṣu śrī-param<choice><sic>ā</sic><corr>a</corr></choice>-bhaṭṭāraka-p<choice><sic>a</sic><corr>ā</corr></choice>dānāṁ dharmma-ṣaḍ-bhāgo<supplied reason="omitted">pa</supplied>cayo ’smākam api pratipālayatāṁ kīrtti-śreyobhyāṁ yogaḥ<supplied reason="subaudible">.</supplied> Uktañ ca<!--
+<p>yato ’smābhir asyābhyartha<supplied reason="omitted">na</supplied>yāvadhr̥tam asty <choice><sic>o</sic><corr>e</corr></choice>ṣo ’nukramaḥ Ubhaya-loka-vijigīṣu<unclear>bhi</unclear><lb n="11" break="no"/><supplied reason="lost">s</supplied> <unclear>s</unclear><supplied reason="lost">ā</supplied>dhubhiḥ kriyamāṇa-puṇya-skandheṣu<supplied reason="omitted">.</supplied> śrī-param<choice><sic>ā</sic><corr>a</corr></choice>-bhaṭṭāraka-p<choice><sic>a</sic><corr>ā</corr></choice>dānāṁ dharmma-ṣaḍ-bhāgo<supplied reason="omitted">pa</supplied>cayo ’smākam api pratipālayatāṁ kīrtti-śreyobhyāṁ yogaḥ<supplied reason="subaudible">.</supplied> Uktañ ca<!--
 daba: Majumdar reads asyoṣo in l10, correcting to asyaiṣo. Sircar is correct in reading astyoṣo and emending to asty eṣo.
 --><!--
 daba: Majumdar and Sircar supply a visarga at the end of l10 and print an unclear (sā) in l11. Not that it matters much, but I think part of a subscript s (but nothing more) is visible at the beginning of l11, which means that the first character must have been ssā and there is no need to supply a visarga.
@@ -248,9 +251,11 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
                       <note><bibl><ptr target="bib:Sircar1965_02"/></bibl> suggests reading <foreign>loka-nātho</foreign>.</note>
                   </app>
                    <app loc="2">
-                       <lem source="bib:Balogh+al2019_01"><gap reason="lost" precision="low" quantity="1" unit="character"/> <seg type="component" subtype="consonant"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear cert="low">ya</unclear> <unclear>pa</unclear>ra°</lem>
+                       <lem><supplied reason="lost">nit</supplied><unclear cert="low">ya</unclear><supplied reason="lost">ṁ</supplied></lem>
+                       <rdg source="bib:Balogh+al2019_01"><gap reason="lost" precision="low" quantity="1" unit="character"/> <seg type="component" subtype="consonant"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear cert="low">ya</unclear> <unclear>pa</unclear>ra°</rdg>
                        <rdg source="bib:Majumdar1935-1936_02"><gap reason="lost" unit="character" extent="unknown"/> <unclear>pa</unclear>ra°</rdg>
                        <rdg source="bib:Sircar1965_02"><supplied reason="lost">cirā</supplied>ya <supplied reason="lost">para°</supplied></rdg>
+                       <note>I insert and follow the restoration suggested in a note by <bibl><ptr target="bib:Balogh+al2019_01"/></bibl> <foreign>jayanti nityaṁ</foreign> which is metrically correct and fits in with what remains legible.</note>
                    </app>
                    <app loc="2">
                        <lem source="bib:Balogh+al2019_01">°h<supplied reason="lost">i</supplied>tārthāḥ</lem><!-- amwb : I agree with Balogh -->
@@ -277,11 +282,6 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
                        -->
                        <rdg source="bib:Sircar1965_02">-śau<supplied reason="lost">ryye</supplied></rdg>
                    </app>
-                  <!-- amwb:
-                   <app loc="2">
-                       <lem>mahārājādhirāja-<unclear>śrī</unclear>-</lem>
-                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">mahārājādhirāja-śrī-</rdg>
-                   </app>-->
                    <app loc="3">
                        <lem source="bib:Balogh+al2019_01">°<supplied reason="lost">can</supplied><unclear cert="low">dr</unclear><supplied reason="lost">e</supplied></lem>
                        <rdg source="bib:Majumdar1935-1936_02">°c<supplied reason="lost">and</supplied><unclear>r</unclear><supplied reason="lost">e</supplied></rdg>
@@ -363,11 +363,17 @@ daba: For the second digit of the day, Sircar reads 4 and says in his note that 
                        amwb : agree with this reading and this understanding of the text
                        -->
                        <rdg source="bib:Majumdar1935-1936_02">Icche <choice><sic>’h</sic><corr>y</corr></choice>am </rdg>
+                       <note>See also <ref target="DHARMA_INSBengalCharters00063.xml">Mastakaśvabhra Plate of the time of Pradyumnabandhu, year 5</ref> line 3.</note>
                    </app>
                    <app loc="8">
                        <lem source="bib:Balogh+al2019_01">-samvaddha-</lem>
                        <rdg source="bib:Majumdar1935-1936_02">-sam<choice><sic>v</sic><corr>b</corr></choice>addha-</rdg>
                        <rdg source="bib:Sircar1965_02">-sambaddha-</rdg>
+                   </app>
+                   <app loc="8">
+                       <lem>yuṣma<choice><sic>bhyo</sic><corr>bhir</corr></choice></lem>
+                       <rdg source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh+al2019_01">yuṣmabhyo</rdg>
+                       <note>As one can observe in the <ref target="DHARMA_INSBengalCharters00063.xml">Mastakaśvabhra Grant of the time of Pradyumnabandhu, year 5</ref> line 3, the absolutive <foreign>upakrīya</foreign> is constructed with the instrumental case. Here I suggest correcting this <foreign>yuṣmabhyo</foreign> which is grammaticcaly incorrect into <foreign>yuṣmabhir</foreign> in order to have the instrumental case expected. </note>
                    </app>
                   <!-- amwb : there is a clear virama under na
                      <app loc="9">
@@ -668,7 +674,7 @@ amwb : I agree with this reading
  	    -->
 
  	</note> who gives the fruits of good deeds to men, whose appearance is full of truth and ascetism, who produces the two worlds, who is the law —</p>
- 	<p n="2" rend="stanza">After Him, the good men who seek the highest goal, who have defeated their deceit and their cupidity, unselfish, they who desire the highest world, are victorious <gap reason="lost"/><supplied reason="explanation">line 2</supplied> through their good deeds.</p>
+ 	<p n="2" rend="stanza">After Him, the good men who seek the highest goal, who have defeated their deceit and their cupidity, unselfish, they who desire the highest world, are <supplied reason="subaudible">always</supplied> <supplied reason="explanation">nityaṁ</supplied> victorious through their good deeds.</p>
      <p n="2-8">While the <foreign>mahārājādhirāja</foreign> Śrī Gopacandra whose power, conduct and heroism are well-known, is governing the earth as another Pr̥thu, in the province of Vardhamāna <supplied reason="explanation">litt. the prosperous one</supplied> which is prospering thanks to the constant practice of Dharma,<note>Here one can observe the attempt to give meaning to the name of the province by an semantical etymology.
      </note> where supremely people have been settled with his <supplied reason="explanation">i.e. Gopacandra’s</supplied> authorisation,
         Himadatta, the notable <supplied reason="explanation"><foreign>mahattara</foreign></supplied> residing in the Ardhakaraka <foreign>agrahāra</foreign> belonging to the Vakkattaka territory <supplied reason="explanation"><foreign>vīthīsambaddha</foreign></supplied>;
@@ -689,27 +695,45 @@ amwb : I am wondering if we have to introduce a correction of the name with a lo
          Goika, the swordsman belonging to/residing in Madhuvāṭaka,
          Bhadranandin, the swordsman residing in Khaṇḍajōtika,
          the deliverers, conducteurs, carriers and so on <supplied reason="explanation"><foreign>vāha-nāyaka-hari-prabhr̥tayo</foreign></supplied><note>
-             I consider these three words as types of profession. For the moment, my translation is a somewhat awkward attempt which needs to be improved. One can also understand: the men residing in vindhyapura beginning with Hari the chariot-driver <supplied reason="explanation"><foreign>vāha-nāyaka</foreign></supplied>. But there is another Hari just before. 
+             I consider these three words as types of profession. For the moment, my translation is a somewhat awkward attempt which needs to be improved. One can also understand: the men residing in Vindhyapura beginning with Hari the chariot-driver <supplied reason="explanation"><foreign>vāha-nāyaka</foreign></supplied>. But there is another Hari just before. 
          </note> residing in Vindhyapura
          and the council of the territory
-          greatly honored according to the rules <supplied reason="explanation"><foreign>vidhivat sampūjya</foreign> line 5</supplied>
-         and informed
+          greatly honour according to the rules <supplied reason="explanation"><foreign>vidhivat sampūjya</foreign> line 5</supplied>
+         and inform
          the following venerables beginning with those who are dwelling here in the present <!--varttamānopasthita--> 
-         the <supplied reason="explanation"><foreign>kārttākr̥tika</foreign></supplied><!-- 
+         the recorder <supplied reason="explanation"><foreign>kārttākr̥tika</foreign></supplied><!-- 
 amwb : kārttākr̥tika occurs in this plate line 3; in Jayarampur plate in line 11 ; Panchrol plate line 6 ; Nālandā cp., Dharmapāla unknown r. y. BC95 line 8; 
 it seems to be a technical name I don't know its meaning and if we have to consider it in plural or in singular
-         -->, the princely advisor <supplied reason="explanation"><foreign>kumārāmatya</foreign></supplied>,
-         the one who takes up the thieves <supplied reason="explanation"><foreign>cauroddharaṇika</foreign></supplied><!-- 
+         -->,<note>
+             <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">149</citedRange></bibl> suggests the word <foreign>kārttākr̥tika</foreign> probably qualifies <q>an officer who reported to the king qbout the progress of important undertakings</q>. The word occurs in the <ref target="DHARMA_INSBengalCharters00064.xml">Panchrol Plate of the time of Śaśāṅka</ref> line 6, in the <ref target="DHARMA_INSBengalCharters00095.xml">Nālandā Plate of Dharmapāla</ref> line 8 and in the <ref target="DHARMA_INSBengalCharters00076.xml">Jayarampur plate</ref> line 11.
+         </note> the princely advisor <supplied reason="explanation"><foreign>kumārāmatya</foreign></supplied>,
+         the police officer <supplied reason="explanation"><foreign>cauroddharaṇika</foreign></supplied><!-- 
 amwb : term used in DEO BARANARK INSCRIPTION OF JIVITAGUPTA [ PLATE XV] line 9 ; Murshidabad or Indian Museum cp., Dharmapāla r. y. 26 after the verse 19; Nālandā cp., Dharmapāla unknown r. y. line 12; Mungher cp.; Devapāla r. y. 33 at the end ; Mahendrapāla 7th regnal year Jagajjibanpur (or Tulabhita) cp. EI 42, no. 2 Ramesh \& Iyer at the end ;  Manahali Plate of Madanapāla, year 8 line35 and 40; Bharat Kala Bhavan Plate of Rājyapāla, year 2 line 35 and 42 , KHALIMPUR line45
-         -->, his superior <supplied reason="explanation"><foreign>uparika</foreign></supplied>, 
-         the one who divides the water <supplied reason="explanation"><foreign>audraṅgika</foreign></supplied>, 
-         the one who <supplied reason="subaudible">supervises</supplied> the royal donation of lands <supplied reason="explanation"><foreign>āgrahārika</foreign></supplied>, 
-         the one who established <supplied reason="subaudible">the price of</supplied> the whool <supplied reason="explanation"><foreign>aurṇasthānika</foreign></supplied>, 
-         the tax collector <supplied reason="explanation"><foreign>bhogapatika</foreign></supplied>, 
+         -->,<note>
+             <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">72</citedRange></bibl> suggests the word <foreign>cauroddharaṇika</foreign> refers to <q>an official designation indicating an officer in charge of the recovery of stolen property; a police officer</q>. The word occurs in the Deo Baranark Inscription of Jivitagupta, Plate XV, line 9, in the <ref target="DHARMA_INSBengalCharters00099.xml">Murshidabad or Indian Museum copper plate</ref> after the verse 19, in the <ref target="DHARMA_INSBengalCharters00095.xml">Nālandā Plate of Dharmapāla</ref> line 12, in the <ref target="DHARMA_INSBengalCharters00125.xml">Mudgagiri grant of Devapāla, regnal year 33</ref> lines 33 and 40, in the <ref target="DHARMA_INSBengalCharters00073.xml">Mahendrapāla 7th regnal year Jagajjibanpur (or Tulabhita) copper plate</ref> lines 36 and 46, in the <ref target="DHARMA_INSBengalCharters00075.xml">Manahali Plate of Madanapāla, year 8</ref> lines 35 and 40, in the <ref target="DHARMA_INSBengalCharters00108.xml">Bharat Kala Bhavan Plate of Rājyapāla, year 2</ref> line 35 and 42 and in the<ref target="DHARMA_INSBengalCharters00088.xml"> Khalimpur Plate of Dharmapāla, year 32</ref> line 45. 
+         </note> the governor of the province <supplied reason="explanation"><foreign>uparika</foreign></supplied>, 
+         the collector of the <foreign>udraṅga</foreign> tax <supplied reason="explanation"><foreign>audraṅgika</foreign></supplied>,<note>
+             <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">37</citedRange></bibl> suggests the following meaning for the word <foreign>audraṅgika</foreign>: <q>collector of the <foreign>udraṅga</foreign> tax meaning <q>tax on permanent tenants or the principal tax</q>; sometimes mentioned side by side with the <foreign>hiraṇyasāmudāyika</foreign> or the collector of tax in cash</q>.
+         </note> 
+         the one who <supplied reason="subaudible">supervises</supplied> the royal donation of lands <supplied reason="explanation"><foreign>āgrahārika</foreign></supplied>,<note>
+              <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">11</citedRange></bibl> suggests the <foreign>āgrahārika</foreign> is <q>the owner of an <foreign>agrahāra</foreign>; sometimes probably, the superintendent of <foreign>agrahāra</foreign>s</q>. Here I opt for the second meaning. 
+         </note> 
+         the officer in charge of the wool factories <supplied reason="explanation"><foreign>aurṇasthānika</foreign></supplied>,<note>
+             <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">38</citedRange></bibl> explains the word <foreign>aurṇasthānika</foreign> in this way: <q>officer in charge of an <foreign>ūrṇasthāna</foreign> <supplied reason="explanation">wool factory</supplied> or of all the <foreign>ūrṇasthāna</foreign>s</q>.
+         </note> 
+         the officer in charge of the territorial unit called <foreign>bhoga</foreign> <supplied reason="explanation"><foreign>bhogapatika</foreign></supplied>,<note>
+             See <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">55</citedRange></bibl>.
+         </note> 
          the chief of the district <supplied reason="explanation"><foreign>viṣayapati</foreign></supplied> and its officer <supplied reason="explanation"><foreign>tadāyuktaka</foreign></supplied>, 
-         the gold collector <supplied reason="explanation"><foreign>hiraṇyasāmudāyika</foreign></supplied>, 
-         the householders of the district <supplied reason="explanation"><foreign>pattalakāvasathika</foreign></supplied> 
-         and the one who arranges idol processions <supplied reason="explanation"><foreign>devadroṇisambaddha</foreign></supplied>:
+         the collector of tax in cash <supplied reason="explanation"><foreign>hiraṇyasāmudāyika</foreign></supplied>, <note>
+             See <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">130</citedRange></bibl>.
+         </note> 
+         the superindentent of the territorial division called <foreign>pattalaka</foreign> <supplied reason="explanation"><foreign>pattalakāvasathika</foreign></supplied><!-- Sircar p.245 pattalaka a territorial divi-
+sion; adistrict.
+ --><note>
+             I deduce this meaning of <foreign>pattalakāvasathika</foreign> from the explanations given by <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">245 and 40</citedRange></bibl> for the words <foreign>pattalaka</foreign> and <foreign>avasathika</foreign>.
+         </note>
+         and the officer in charge of temple property <supplied reason="explanation"><foreign>devadroṇisambaddha</foreign></supplied>:
          <note>
              This translation could be supported by the different occurrences of the words <foreign>kumārāmatya</foreign>, <foreign>viṣayapati</foreign> and <foreign>āyukta</foreign> or <foreign>āyuktaka</foreign> as technical vocabulary to designate several positions in the hierarchical administration of lands. One can find the word  <foreign>kumārāmatya</foreign> such employed in
              <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā Grant no. 1, year 159</ref> in line 1,
@@ -735,24 +759,25 @@ amwb : term used in DEO BARANARK INSCRIPTION OF JIVITAGUPTA [ PLATE XV] line 9 ;
              <ref target="DHARMA_INSBengalCharters00057.xml">A second grant concerning the Raktamālā estate</ref> in the first line of the seal,
              <ref target="DHARMA_INSBengalCharters00071.xml">Rajibpur Plate of Gopāla IV, year 2 and Madanapāla, year 2</ref> line 40 and
              <ref target="DHARMA_INSBengalCharters00075.xml">Manahali Plate of Madanapāla, year 8</ref> in line 35.
-             Thus I deduce from this that the others words are also names of types of profession. For the moment, my attempt to translate these names is somewhat awkward and needs to be improved in the future. So my understanding totally differs from the suggestion of <bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> who interprets <foreign>kumārāmatya</foreign>, <foreign>viṣayapati</foreign> and <foreign>tadāyuktaka</foreign> and all others words as proper names.
+             Thus I deduce from this that the others words are also names of types of profession. This deduction is confirmed by the meanings given of these words by <bibl><ptr target="bib:Sircar1966_01"/></bibl> <supplied reason="explanation">for the word <foreign>devadroṇisambaddha</foreign>, see <bibl><ptr target="bib:Sircar1966_01"/><citedRange unit="page">88</citedRange></bibl></supplied>. So my understanding totally differs from the suggestion of <bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> who interprets <foreign>kumārāmatya</foreign>, <foreign>viṣayapati</foreign> and <foreign>tadāyuktaka</foreign> and all others words as proper names.
          </note>
      </p>
              <p n="8">
                  We have been sollicited by the venerable <foreign>mahārāja</foreign> Vijayasena as follows:
              </p>
-             <p n="8-10">After having purchased it from you according to the legal proceeding <supplied reason="explanation"><foreign>yathānyāyena</foreign></supplied>,I wish to give eight <foreign>kulyavāpa</foreign>s in the village Vettragarttā belonging to this territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>  in the sake of the increase of my own merit and the one of both my mother and my father to be enjoyed in succession by sons and grandsons, thanks the practice of permanent endowment, to Vatsasvāmin, belonging to the R̥gveda tradition <supplied reason="explanation">Bāhvṛca</supplied>, disciple of Kauṇḍinya,<!--
+             <p n="8-10">After having purchased it according to your <supplied reason="explanation">yuṣmabhir</supplied> legal proceeding <supplied reason="explanation"><foreign>yathānyāyena</foreign></supplied>,I wish to bestow eight <foreign>kulyavāpa</foreign>s in the village Vettragarttā belonging to this territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>  in the sake of the increase of my own merit and the one of both my mother and my father to be enjoyed in succession by sons and grandsons, thanks the practice of permanent endowment, to Vatsasvāmin, belonging to the R̥gveda tradition <supplied reason="explanation">Bāhvṛca</supplied>, disciple of Kauṇḍinya,<!--
              amwb : or belonging to Kauṇḍinya lineage... could it be a reference to Kauṇḍinya author of the pañcārthabhāṣya, the commentator of the pāśupatasūtra
              -->in order to perform the five great sacrifices.  </p>
-             <p n="10-11">Therefore, due to his requesting it has been ascertained by us: this <supplied reason="subaudible">request</supplied> is a customary deed among the numerous pious ones to perform for the virtuous men who want to conquest the world in both ways <supplied reason="subaudible">and</supplied> a sixth part of merit <supplied reason="subaudible">produced by it</supplied> is vested in His Majesty the sovereign Lord. Thus for us also who are protecting <supplied reason="subaudible">this gift</supplied>, there is a conjunction of fame and welfare. </p>
-             <p n="11">It has been said</p>
-             <p n="1" rend="stanza">The man who approves a deed endowed with Dharma, even in mind, he increases at pleasure <supplied reason="explanation"><foreign>yaṭheṣṭam</foreign></supplied> as the moon <supplied reason="explanation">uḍurāj</supplied> during the bright fortnight.  </p>
-             <p n="12-13">Thus <supplied reason="explanation"><foreign>tad</foreign></supplied>, considering <supplied reason="explanation"><foreign>iti</foreign></supplied> his request is granted, after having distributed within <supplied reason="subaudible">the officials of this</supplied> territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied> the <foreign>dīnāra</foreign>s <supplied reason="subaudible">paid</supplied> by him according to the meritorious acts made by us, the gift as it has been described must be honestly <supplied reason="explanation"><foreign>prāṇāyyaṁ</foreign></supplied> conveyed in the income of this territory of up to <supplied reason="explanation">the expected income of</supplied> the eight <foreign>kulyavāpa</foreign>s belonging to our village Vettragarta.</p>
-             <p n="13-14">After having sprinkled with powder <supplied reason="explanation"><foreign>avacūrṇya</foreign></supplied> the eight <foreign>kulyavāpa</foreign>s,
-               the <foreign>mahārāja</foreign> Vijayasena and also <supplied reason="lost">this</supplied><supplied reason="explanation">gap at the beginning of the line 14 <foreign>anena</foreign></supplied><note>
+             <p n="10-11">Therefore, due to his requesting it has been ascertained by us: this is the method for the virtuous men who want to conquest the two worlds <supplied reason="subaudible">and</supplied> who have a lot of meritorious deeds. A sixth part of merit <supplied reason="subaudible">produced by it</supplied> is vested in His Majesty the sovereign Lord and also for us who are protecting <supplied reason="subaudible">this gift</supplied> from the conjunction of fame and welfare. </p>
+             <p n="11">It has been said:</p>
+             <p n="1" rend="stanza">The man who, even in mind, approves a deed endowed with Dharma, he increases at pleasure <supplied reason="explanation"><foreign>yaṭheṣṭam</foreign></supplied> as the moon <supplied reason="explanation">uḍurāj</supplied> during the bright fortnight.<note>
+                    This verse corresponds to the verse numbered 151 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, except for the final comparison in the <foreign>pāda</foreign> d. The meaning remains identical nonetheless.
+                </note>  </p>
+             <p n="12-13">Thus <supplied reason="explanation"><foreign>tad</foreign></supplied>, considering <supplied reason="explanation"><foreign>iti</foreign></supplied> his request is granted, after having distributed within <supplied reason="subaudible">the officials of this</supplied> territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied> the <foreign>dīnāra</foreign>s paid by him according to the meritorious acts made by us, the gift as it has been described must be honestly <supplied reason="explanation"><foreign>prāṇāyyaṁ</foreign></supplied> conveyed precisely in the income of this territory of up to <supplied reason="explanation">the expected income of</supplied> the eight <foreign>kulyavāpa</foreign>s belonging to our village Vettragarta.</p>
+             <p n="13-14">After having them sprinkled with powder <supplied reason="explanation"><foreign>avacūrṇya</foreign></supplied>, the eight <foreign>kulyavāpa</foreign>s of the <foreign>mahārāja</foreign> Vijayasena are given.  They are also bestowed by the king  <supplied reason="explanation">ie Gopacandra</supplied> and also <supplied reason="lost">him</supplied><supplied reason="explanation">gap at the beginning of the line 14 <foreign>anena</foreign></supplied><note>
                  I follow the suggestion made by <bibl><ptr target="bib:Sircar1965_02"/></bibl>: <foreign>anenāpi</foreign>°.
              </note>
-                king <supplied reason="explanation">ie Gopacandra</supplied> give them to Vatsasvāmin, belonging to the R̥gveda tradition <supplied reason="explanation">Bāhvr̥ca</supplied>, disciple of Kauṇḍinya,<!--
+                to Vatsasvāmin, belonging to the R̥gveda tradition <supplied reason="explanation">Bāhvr̥ca</supplied>, disciple of Kauṇḍinya,<!--
              amwb : or belonging to Kauṇḍinya lineage... could it be a reference to Kauṇḍinya author of the pañcārthabhāṣya, the commentator of the pāśupatasūtra
              -->in order to perform the five great sacrifices and this is established by a copper-plate. </p>
              <p n="14-17">Then here follow the frontiers of this land in the four directions:
@@ -768,24 +793,38 @@ amwb : term used in DEO BARANARK INSCRIPTION OF JIVITAGUPTA [ PLATE XV] line 9 ;
              <p n="17-18">This having been ascertained, he who does that, will be slained and will be marred by the five great sins and by all other little sins. Moreover: </p>
                <p n="4" rend="stanza"><!-- 
 amwb : I cannot find this stanza in Sircar; it seems to be somewhat original
--->The Gods and his Ancestors will never receive his offering <supplied reason="explanation"><foreign>havis</foreign></supplied> and his oblation <supplied reason="explanation"><foreign>piṇḍa</foreign></supplied>. Like a palm tree with his tuft of leaves cut, deprived of stability, he will fall <supplied reason="subaudible">in hell</supplied>.</p>
+-->The Gods and his Ancestors will never receive his offering <supplied reason="explanation"><foreign>havis</foreign></supplied> and his oblation <supplied reason="explanation"><foreign>piṇḍa</foreign></supplied>. Like a palm tree with his tuft of leaves cut, deprived of stability, he will fall <supplied reason="subaudible">in hell</supplied>.<note>
+                    For the moment, I didn’t find any correspondence for this verse. 
+                </note> </p>
              <p n="19">The sacred verses describing the virtue and the dishonor of the confiscation and protection of a gift of land are:</p>
-             <p n="5" rend="stanza">The giver of land enjoys sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p><!--
+             <p n="5" rend="stanza">The giver of land enjoys sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p><!--
               amwb : listed in Sircar's stanzas on Bhūmidāna n°123
               -->
-              <p n="6" rend="stanza">The Fathers are agitating and the Grand-Fathers are bounding <supplied reason="subaudible">when they can say</supplied> <q>A giver of land is born within our lineage, he alone will all deliver us!</q> </p><!--
+              <p n="6" rend="stanza">The Fathers are agitating and the Grand-Fathers are bounding <supplied reason="subaudible">when they can say</supplied> <q>A giver of land is born within our lineage, he alone will all deliver us!</q>.<note>
+                    This verse corresponds to the verse numbered 20 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, except for the final verb in the <foreign>pāda</foreign> d. 
+                </note> </p><!--
               amwb : listed in Sircar's stanzas on Bhūmidāna n°20
               -->
-              <p n="7" rend="stanza">A miserly man, whatever the sins he has committed, is purified by a gift of land, even measuring the size of a cow’s skin. </p><!--
+              <p n="7" rend="stanza">A miserly man, whatever the sins he has committed, is purified by a gift of land, even measuring the size of a cow’s skin.<note>
+                    This verse corresponds to the verse numbered 159 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note> </p><!--
               amwb : listed in Sircar's stanzas on Bhūmidāna n°159
               -->
-              <p n="8" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.</p><!--
+              <p n="8" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.<note>
+                    This verse corresponds to the verse numbered 131 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p><!--
               amwb : listed in Sircar's stanzas on Bhūmidāna n°131
               -->
-              <p n="9" rend="stanza">Earth has been given by hundreds of kings and it will be given again and again. Whoever holds land at a given moment, to him does the fruit belong.</p><!--
+              <p n="9" rend="stanza">Earth has been given by hundreds of kings and it will be given again and again. Whoever holds land at a given moment, to him does the fruit belong.<note>
+                    This verse corresponds to the verse numbered 23 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, but the <foreign>pāda</foreign>s a and b present a different reading. 
+                </note></p><!--
               amwb : pada cd = Sircar's stanzas on Bhūmidāna n°23
               -->
-              <p n="10" rend="stanza">Considering the fortune of mortels is full of waves <supplied reason="subaudible">and passed</supplied> in a flash, the deeds devoted to <foreign>dharma</foreign> by wise men should not be destroyed in this world.</p><!--
+              <p n="10" rend="stanza">Considering the fortune of mortels is full of waves <supplied reason="subaudible">and passed</supplied> in a flash, the deeds devoted to <foreign>dharma</foreign> by wise men should not be destroyed in this world.<note>
+                    This verse expresses the same meaning with a different wording than the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p><!--
               amwb : listed in Sircar's stanzas on Bhūmidāna n°71
               -->
              <p n="24-25">Eight <abbr><foreign>ku</foreign></abbr> <supplied reason="explanation"><foreign>kulyavāpa</foreign>s</supplied>, the messenger <supplied reason="subaudible">of this gift</supplied> is Śubhadatta. It has been written by Bhogacandra, the minister presiding in negociating affairs <supplied reason="explanation"><foreign>sāndhivigrahika</foreign></supplied>, heated by the record-keeper Jayadāsa. Year 3, Śrāvaṇa <supplied reason="explanation">month</supplied> day 27.</p>

@@ -102,6 +102,7 @@ amwb : replaced IN00044 by dharma file name
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2021-12-13" who="part:amwb">Revision of my own encoding</change>
          <change when="2021-09-22" who="part:amwb">Some corrections in the translation, added Bhandarkar1981_01’s readings in the apparatus and correction of some lemmas, added epigraphic lemma in bibliography</change>
          <change when="2021-09-03" who="part:amwb">Draft of translation and revision of the edition according to it till line 6.</change>
          <change who="part:amwb" when="2021-09-01" status="draft">Completed the apparatus with the readings of five previous editions, ie. bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Sircar1965_02 bib:Goyal1993_01 bib:Balogh+al2019_01</change>
@@ -118,21 +119,24 @@ amwb : removed Daba's reading : <unclear reason="illegible">saṁ</unclear> <num
 --> <num value="13"><g type="numeral">10</g> 3</num> parama-daivata-parama-bhaṭṭ<unclear>ā</unclear>raka-mahārājādhirāja-śrī-budhagupte <unclear>pr̥thi</unclear>vī-patau tat-pāda-<unclear>pa</unclear>rigr̥hīte puṇḍra<unclear>va</unclear><!-- 
 amwb : I removed Daba's reading for -bhaṭṭā<unclear>ra</unclear>ka- and replaced it by -bhaṭṭ<unclear>ā</unclear>raka
 amwb : Removed Daba's reading pāda-<unclear>pari</unclear>gr̥hīte and replaced it by da-<unclear>pa</unclear>rigr̥hī
---><lb n="2" break="no"/><supplied reason="lost">rddhana</supplied>-bhuktāv uparika-mahārāja-brahmadatte saṁvyavaharati<!-- 
+--><lb n="2" break="no"/><supplied reason="lost">rddhana</supplied>-bhuktāv uparika-mahārāja-brahmadatte saṁvyavaharati<supplied reason="omitted">.</supplied><!-- 
 daba: The numeral may be marked up with a list of possible values. 
 --><!-- 
 daba: For the month, Bhandarkar prints aṣāḍha, which may be a typo. Agrawala prints āṣāḍha. Basak has आषाढ़, but the nuqta is clearly not meant to be a reflection of anything in the original plate. Lielukhine's etext had āṣāḍhāṁ, which may be an OCR error or Sircar's reading, which I haven't checked. 
 --><!-- 
 daba: In A2-3, reading °adhikaraṇaṁ instead of Basak's °adhikaraṇa- (which Agrawala retains) is Bhandarkar's suggestion to make the text syntactically more correct. It may be better to show the anusvāra as an editorial addition or restoration. The photo in Agrawala is illegible before grā; the print in Bhandarkar even more so. 
 --><!-- 
-amwb : I removed Daba's reading <unclear>rddhana</unclear>-bhuktāv because it is lost on the photos I have at my disposal 
+amwb : I removed Daba's reading <unclear>rddhana</unclear>-bhuktāv because it is lost on the photos I have at my disposal
+amwb: I add a punctuation mark after saṁvyavaharati
 --></p>
 <p>svast<unclear>i</unclear><supplied reason="subaudible">.</supplied> palāśavr̥ndakāt sa-viśvāsaṁ mahattarādy-aṣṭakulādhi<unclear reason="illegible">ka</unclear><!-- 
 amwb : I added reason illegible for the unclear ka 
---><lb n="3" break="no"/><supplied reason="lost">ra</supplied>ṇa<unclear>ṁ</unclear> grāmika-kuṭumvinaś ca caṇḍagrāmake brāhmaṇādhyānna-kṣudra-prakr̥ti-kuṭumvinaḥ kuśalam uktvānudarśayanti <unclear reason="illegible">yathā</unclear><!-- 
+--><lb n="3" break="no"/><supplied reason="lost">ra</supplied>ṇa<unclear>ṁ</unclear> grāmika-kuṭumvinaś ca caṇḍagrāmake brāhmaṇādyānna-kṣudra-prakr̥ti-kuṭumvinaḥ kuśalam uktvānudarśayanti <unclear reason="illegible">yathā</unclear><supplied reason="omitted">.</supplied></p>
+<p> <!-- 
 daba: For the time being I follow Bhandarkar here. Basak reads caṇḍagrāmake brāhmaṇādy-ānna-kṣudra-prakr̥ti-kuṭumvinaḥ (so quoted by Bhandarkar; Basak's text is in Devanagari, so he may have meant brāhmaṇādyān na-kṣudra-prakr̥ti-kuṭumvinaḥ). This (especially if we can read or emend brāhmaṇādyān akṣudra°) sounds to me a lot more plausible than Bhandarkar's version, which he translates "inform the husbandmen of the village Caṇḍaka who are inferior Ryots and are presided over by the Brāhmaṇas" 
---></p>
-<p><!-- 
+--><!-- 
+amwb : I replace brāhmaṇādhyānna-kṣudra- by my own reading
+--><!-- 
 daba: In line 4, icche should properly be icchaye, icchāmi or (Bhandarkar:) iccheyaṁ. 
 --><!-- 
 daba: Instead of vijñāpayati no in 5, Basak emends to vijñāpayatīto (not to vijñāpayatīti as cited by Lielukhine). 
@@ -206,7 +210,7 @@ amwb : replaced <unclear reason="illegible">tadā</unclear> by the actual state 
 						<lem><supplied reason="lost">saṁ</supplied> <num value="163"><supplied reason="lost"><g type="numeral">100</g></supplied> <supplied reason="lost"><g type="numeral">60</g></supplied> <unclear>3</unclear></num></lem>
 						<rdg source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Balogh+al2019_01"><unclear reason="illegible">saṁ</unclear> <num value="163"><unclear reason="illegible"><g type="numeral">100</g></unclear> <unclear><g type="numeral">60</g></unclear> 3</num></rdg>
 					<rdg source="bib:Sircar1965_02 bib:Bhandarkar1981_01 bib:Goyal1993_01"><supplied reason="lost">saṁ <num value="163"><g type="numeral">100</g></num></supplied><unclear><g type="numeral">60</g></unclear> <num>3</num></rdg>
-					<note>On the photos I have at my disposal, <foreign>saṁ 100 60</foreign> is lost. It is possible that there is a 3 number where the plate begins but I can not confirm it. As the previous editors of the plate should have it in a better state of preservation, I keep their reading.</note> <!-- 
+					<note>On the photos I have at my disposal, <foreign>saṁ 100 60</foreign> is lost. It is possible that there is a 3 number where the plate begins but I cannot confirm it. As the previous editors of the plate should have it in a better state of preservation, I keep their reading.</note> <!-- 
 					amwb : see DHARMA_tfb_SADABengalCharters00032-1_image_art_10.jpg
 					-->
 				</app>
@@ -224,11 +228,9 @@ amwb : replaced <unclear reason="illegible">tadā</unclear> by the actual state 
 					<rdg source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Sircar1965_02 bib:Bhandarkar1981_01 bib:Goyal1993_01 bib:Balogh+al2019_01"><unclear>rddhana</unclear>-</rdg>
 					<note>On the photos I have at my disposal, all of this is lost, but I keep the reading of the previous editions .</note>
 				</app>
-				<app loc="2"><!-- 
-				amwb : decide if we add a <supplied reason="subaudible">.</supplied> or not
-				-->
-				<lem source="bib:Basak1919-1920_01 bib:Balogh+al2019_01">saṁvyavaharati</lem>
-				<rdg source="bib:Pandey1962_01 bib:Sircar1965_02 bib:Bhandarkar1981_01 bib:Goyal1993_01">saṁvyavaharati<supplied reason="subaudible">.</supplied></rdg>
+				<app loc="2">
+				<lem source="bib:Pandey1962_01 bib:Sircar1965_02 bib:Bhandarkar1981_01 bib:Goyal1993_01">saṁvyavaharati<supplied reason="subaudible">.</supplied></lem>
+				<rdg source="bib:Basak1919-1920_01 bib:Balogh+al2019_01">saṁvyavaharati</rdg>
 				</app>
 				<app loc="2">
 					<lem source="bib:Pandey1962_01 bib:Sircar1965_02 bib:Goyal1993_01 bib:Balogh+al2019_01">svast<unclear>i</unclear><supplied reason="subaudible">.</supplied></lem>
@@ -239,6 +241,7 @@ amwb : replaced <unclear reason="illegible">tadā</unclear> by the actual state 
 					amwb : added an hyphen sa-viśvāsa and preserve the final ṁ ; on the photos I have at my disposal, it is not clear if it is an engraved point or a corrosion spot. Moreover the position of this point or spot is not really above the sa... I compared how the ṁ is engraved on this plate. Its position and its shape are not regular. See photos sādaṁ l6.png saṁgṛhya l5.png saṁgṛhya l8.png saṁvya l2.png taṁ l6.png. Finally, the text is more consistent with a ṁ
 					-->
 					<rdg source="bib:Pandey1962_01">sa-viśvāsa-</rdg>
+					<note>On the photos I have at my disposal, it is not clear if it is an engraved point or a corrosion spot. Moreover the position of this point or spot is not really above the <foreign>sa</foreign>. I compared how the <foreign>ṁ</foreign> is engraved on this plate and I observed that its position and its shape are not regular.</note>
 				</app>
 				<app loc="2">
 					<lem>kulādhi<unclear reason="illegible">ka</unclear></lem>
@@ -497,35 +500,42 @@ amwb : replaced <unclear reason="illegible">tadā</unclear> by the actual state 
 			during <supplied reason="explanation">the reign of</supplied><note>
 				I translated the locative absolute by the expression <q>during the reign of</q> in order to obtain a nominal sentence complying with the sanskrit syntax. I consider that the final iti in line 13 includes what begins by <foreign>svasti</foreign> to the end.  
 			</note> His Majesty <supplied reason="explanation"><foreign>śrī</foreign></supplied> Budhagupta, Great King and Emperor <supplied reason="explanation"><foreign>mahārājādhirāja</foreign></supplied>, Supreme Majesty and Supreme Lord <supplied reason="explanation"><foreign>parama-daivata-parama-bhaṭṭāraka</foreign></supplied>, the Lord of the Earth, when the Mahārāja Brahmadatta, governor designated by His Majesty <supplied reason="explanation"><foreign>tat-pāda-parigr̥hīta</foreign></supplied> was managing affairs in Puṇḍravardhana province, it has been said <supplied reason="explanation"><foreign>iti</foreign>, line 13</supplied>: </p>
-			<p n="2-3">Hail! The council composed by the eight communities <supplied reason="explanation"><foreign>kula</foreign></supplied> beginning with the trustworthy notables <supplied reason="explanation"><foreign>viśvāsa-mahattara</foreign></supplied><note>
-				<bibl><ptr target="bib:Bhandarkar1981_01"/></bibl> translates <foreign>sa-viśvāsaṁ</foreign> by <q>in conjunction with Viśvāsa</q>. He argues in note 7 that Viśvāsa could originally denoted the village accountant. 
+			<p n="2-3">Hail! From the Palāśa grove <supplied reason="explanation"><foreign>Palāśavṛndaka</foreign></supplied>, the council composed by the eight communities <supplied reason="explanation"><foreign>kula</foreign></supplied> beginning with the notables <supplied reason="explanation">mahattara</supplied>
+				and the village landholders  <supplied reason="explanation">grāmika-kuṭumbin-</supplied>
+				greet with confidence <supplied reason="explanation">sa-viśvāsaṁ</supplied><note>
+				<bibl><ptr target="bib:Bhandarkar1981_01"/></bibl> translates <foreign>sa-viśvāsaṁ</foreign> by <q>in conjunction with Viśvāsa</q>. He argues in note 7 that Viśvāsa could originally denoted the village accountant. The expression <foreign>sa-viśvāsaṁ</foreign> can be found in <bibl><ptr target="bib:MonierWilliams1872_01"/><citedRange unit="page">1191</citedRange></bibl> <q>with confidence</q>.
 			</note>
-				coming from the Palāśa grove <supplied reason="explanation"><foreign>Palāśavṛndaka</foreign></supplied> 
-				greet <supplied reason="subaudible">and</supplied> inform
-				the village landholders and the landholders whose nature is modest and those who get food, beginning with the brahmins<note>
+				<supplied reason="subaudible">and</supplied> inform
+				 the landholders whose nature is modest and those who get food, beginning with the brahmins<note>
 				Here I translate my own reading: <foreign>brāhmaṇādyānna-kṣudra-prakr̥ti-kuṭumvinaḥ</foreign>. The reading <foreign>brāhmaṇādhyānna-kṣudra-prakr̥ti-kuṭumvinaḥ</foreign> suggested by <bibl><ptr target="bib:Basak1919-1920_01"/></bibl>, <bibl><ptr target="bib:Pandey1962_01"/></bibl> and <bibl><ptr target="bib:Sircar1965_02"/></bibl> must be corrected by <foreign>brāhmaṇāḍhyānna-kṣudra-prakr̥ti-kuṭumvinaḥ</foreign> and its translation will be <q>the landholders whose nature is modest and those who get food along with the Brahmins</q>.
 			</note> in the small village Caṇḍa <supplied reason="explanation"><foreign>caṇḍagrāmake</foreign></supplied> as follows:  </p>
-			<p n="4-6">The villager Nābhaka petitions us: for the sake of the increase of my own merit and that of both my mother and my father, I wish to cause to dwell several noble Brahmins. Thus, be so kind as to make a gift of waste lands that are without revenue charges<!-- 
+			<p n="4-6">The villager Nābhaka petitions us: for the sake of the increase of my own merit and that of both my mother and my father, I wish to cause to dwell several noble Brahmins. Thus, be so kind as to make the favour of waste lands that are without revenue charges<!-- 
 				amwb l5 : here I translated kśetrāṇām , if we conserve daba's reading (kṣetrasya), change the plural into a singular   
 			--> after receiving gold from me according to the custom of sale followed in the villages. </p>
-			<p n="6-7">Wherefore, through the investigation made by the record-keeper Patradāsa, it has been ascertained that this custom of sale applies. Thus it ought to be given for the sake of his merit by the supreme lord favored by the Great King <supplied reason="explanation">ie. Brahmadatta</supplied> <supplied reason="explanation"><foreign>parama-bhaṭṭāraka-mahārāja-pādena</foreign></supplied>.<!-- 
+			<p n="6-7">Since it has been ascertained through the investigation made by the record-keeper Patradāsa that it is appropriate, he informs this custom of sale applies. Thus it ought to be given for the sake of his merit by the supreme lord favored by the Great King <supplied reason="explanation">ie. Brahmadatta</supplied> <supplied reason="explanation"><foreign>parama-bhaṭṭāraka-mahārāja-pādena</foreign></supplied>.<!-- 
 			amwb :  This translation does not refer to daba's reading but seems to me more consistent parama-bhaṭṭāraka-mahārāja-pādena could refer to Brahmadatta line 1 upari-mahārāja-brahmadatte
 			l7: translation for daba's reading "it ought to be given for the sake of increase of his merit <supplied reason="subaudible">and</supplied> that of the supreme lords favored by the Great King <supplied reason="explanation"><foreign>parama-bhaṭṭāraka-mahārāja-pādānāṁ</foreign></supplied>." but if we accept the others, translate "it ought to be given for the sake of his merit by the supreme lord favored by the Great King <supplied reason="explantion">ie. Brahmadatta</supplied>
 			Basak has a different understanding and considers the genitive as the recipient of the gift : so be it given to him by his Majesty, the parama-bhaṭṭāraka for the increase of merits
 			--></p>
 			<p n="7-11">After having again considered the certification given by the aforementioned <supplied reason="explanation"><foreign>asyaiva</foreign></supplied> Patradāsa, after having collected from the hands of Nābhaka two <foreign>dīnāra</foreign>s and after it has been received in cash <supplied reason="explanation"><foreign>āyīkṛtya</foreign></supplied> by the two appointed guardians <supplied reason="explanation">sthāyapāla</supplied> Kapila and Śrībhadra<!--
 			amwb : for the meaning I suggest for sthāyapāla See Monier-Williams p.1262 and 1264. In my opinion it refers to the local guardians
-			-->, and after the landholders and the council beginning with the notables have looked for one <foreign>kulya-vāpa</foreign> of waste land that is without revenue charges on the south, west and east of the real boundary and also of the one that neighbours/borders the north of Vāyigrāma, after <supplied reason="subaudible">this land</supplied> was separating by the measurement of eight per nine reeds and has been limited by four marks, it is given<!-- 
+			-->, and after the landholders and the council beginning with the notables have looked for one <foreign>kulya-vāpa</foreign> of waste land that is without revenue charges on the south, west and east of the boundary of Satya and also near to the north of Vāyigrāma, after <supplied reason="subaudible">this land</supplied> was separating by the measurement of eight per nine reeds and has been limited by four marks, it is given<!-- 
 				amwb : translation of daba's reading : it ought be given--> to Nāgadeva <supplied reason="explanation">ie. Nābhaka</supplied><note>
 					The name of the recipient of the gift is spelt Nābhaka in lines 4 and 8 and here Nāgadeva.<!-- 
-					amwb : for me, the genitive case here corresponds to the attributive function of a dative cas as described by Renou in §222, D.a, p.306
+					amwb : for me, the genitive case here corresponds to the attributive function of a dative case as described by Renou in §222, D.a, p.306
 					Mukherji and Maity 1967 consider Nāgadeva as the first owner of the land given now to Nābhaka
 					-->
-				</note> and shall be protected by those who will manage <supplied reason="subaudible">this province</supplied> in the future after considering the merit <supplied reason="subaudible">of protection</supplied></p>
+				</note> and it shall be protected by those who will manage <supplied reason="subaudible">this province</supplied> in the future after considering the merit <supplied reason="subaudible">of protection</supplied></p>
 			<p n="11-13">It has been said by the great sages:</p>
-			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.</p>
-			<p n="2" rend="stanza">Land has been given by several kings beginning with Sagara. Whoever holds land at a given time, to him does the fruit belong.</p>
-			<p n="3" rend="stanza">The giver of land delights sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.</p>
+			<p n="1" rend="stanza">The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.<note>
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+			<p n="2" rend="stanza">Land has been given by several kings beginning with Sagara. Whoever holds land at a given time, to him does the fruit belong.<note>
+                    This verse corresponds to the verse numbered 23 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+			<p n="3" rend="stanza">The giver of land delights sixty thousand years in heaven; the one who challenges <supplied reason="explanation">a donation</supplied> as well as the one who approves <supplied reason="explanation">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
 		</div>
 		<div type="commentary">
 		</div>
@@ -536,7 +546,7 @@ amwb : replaced <unclear reason="illegible">tadā</unclear> by the actual state 
 				<bibl n="P"><ptr target="bib:Pandey1962_01"/><citedRange unit="page">104-5</citedRange></bibl>
 				<bibl n="DCS"><ptr target="bib:Sircar1965_02"/><citedRange unit="page">332-4</citedRange><citedRange unit="entry">34</citedRange></bibl>
 				<!--
-					amwb : I checked this reference and decided not to include their readings in the apparatus. Indeed they seem to reproduce an existant edition without noting its uncertainities. The translation reveals omission and grammatical errors 
+					amwb : I checked the reference below and decided not to include their readings in the apparatus. Indeed they seem to reproduce an existant edition without noting its uncertainities. The translation reveals omission and grammatical errors 
 					<bibl><ptr target="Mukherji+Maity1967_01"/><citedRange unit="page">58-61</citedRange></bibl>
 				-->
 				<bibl n="B"><ptr target="bib:Bhandarkar1981_01"/><citedRange unit="page">335-9</citedRange><citedRange unit="entry">38</citedRange></bibl>
@@ -545,10 +555,7 @@ amwb : replaced <unclear reason="illegible">tadā</unclear> by the actual state 
 				<bibl n="DB"><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00044</citedRange></bibl>
 			</listBibl>
 			<listBibl type="secondary">
-				<bibl><ptr target="bib:Basak1925_01"/><citedRange unit="page">475-96</citedRange></bibl><!-- 
-					amwb : the short title in Zotero is somewhat strange for the book Ritti1971_01 : Basak, Radhagovinda. (1925). Land-Sale Documents of Ancient Bengal. In: Sir Asutosh Mookerjee Silver Jubilee Volumes, Vol. III. Orientalia — Part 2. Calcutta: Calcutta University.
-					amwb : 2021-09-22 problem solved  by axja : Ritti1971_01 changed in Basak1925_01 
-				-->
+				<bibl><ptr target="bib:Basak1925_01"/><citedRange unit="page">475-96</citedRange></bibl>
 				<bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="page">175</citedRange><citedRange unit="entry">1286</citedRange></bibl>
 			</listBibl>
 		</div>

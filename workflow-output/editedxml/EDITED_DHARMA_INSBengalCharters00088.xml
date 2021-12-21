@@ -145,8 +145,8 @@ argr: I really don't see the repha and think Kielhorn may have supplied it silen
        <l n="a">śītāṁśor iva rohiṇī hutabhujaḥ svāheva tejo-nidheḥ</l><!-- 
 argr: if tejo-nidhi were a name here — we shouldn't hyphenate it, just like we don't hyphenate Hutabhuj. but maybe it is just an epithet with Agni? see guhyaka-pater in next pāda. Kielhorn gives no note, and seems to ignore the word in translation. —
 -->
-       <l n="b">śarvāṇī<lb n="9" break="no"/>va śivasya guhyakya-pater bhadreva bhadrātmajā<g type="danda">.</g></l>
-       <l n="c">paulomīva purandarasya dayītā śrī-deddadevīty abhūd</l>
+       <l n="b">śarvāṇī<lb n="9" break="no"/>va śivasya guhyaka-pater bhadreva bhadrātmajā<g type="danda">.</g></l>
+       <l n="c">paulomīva purandarasya dayitā śrī-deddadevīty abhūd</l>
        <l n="d">devī tasya vino<lb n="10" break="no"/>da-bhūr mura-ripor lakṣmīr iva kṣmā-pateḥ<g type="ddandaStrokeLeft">.</g></l>
 </lg>
 <lg n="6" met="sragdharā">
@@ -159,6 +159,8 @@ argr: I have just learned that bhūmīpati is an attested form besides bhūmipat
 --> akhila-vasumatī-maṇḍalaṁ śāsad ekaḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l><!-- 
 amwb : I removed the original danda reported by Kielhorn <g type="danda">.</g>. See photo śāsadekaḥca l11.png
 argr: good, but we need to supply it then, as the pattern in this text is is mark the end of the first hemistich with a single danda. I don't think it is necessary to dedicate an apparatus entry to this tiny improvement upon K's edition
+how to parse śāsad ekaḥ?
+emend śāsan ekaḥ
 -->
        <l n="c">catvāras tīra-majjat-kari-gaṇa-caraṇa-nyasta-mudrāḥ samudrā</l>
        <l n="d">yātrāṁ ya<lb n="12" break="no"/>sya kṣamante na bhuvana-parikhā vi<choice><sic>śv</sic><corr>ṣv</corr></choice>ag āśā jigīṣoḥ<g type="ddandaStrokeLeft">.</g></l>
@@ -188,12 +190,12 @@ argr: the txt file correctly had dhūlī-pūraiḥ which you must have changed t
 amwb : I am not sure that there is really an anusvāra here as before line11... there is a little point but not a circle. If I encounter other cases, it would be possible that sometimes the anusvāra is noted only with a point instead of a circle, see photo phaṇānaṁ ma or phaṇānama l15.png
 argr: yes, I am inclined to admit that two allographs of anusvāra were available to the scribe
        --></l>
-       <l n="d">magnonmīlan-maṇi phaṇipater lā<lb n="16"/>ghavād ullalāsa<g type="ddandaStrokeLeft">.</g></l>
+       <l n="d">magnonmīlan-maṇi phaṇipater lā<lb n="16" break="no"/>ghavād ullalāsa<g type="ddandaStrokeLeft">.</g></l>
 </lg>
 <lg n="9" met="anuṣṭubh">
        <l n="a">viruddha-viṣaya-kṣobhād</l>
        <l n="b">yasya kopāgnir aurvavaT<g type="danda">.</g></l>
-       <l n="c">Ani<surplus>r</surplus>vr̥t<supplied reason="omitted">t</supplied>i prajajvāla</l>
+       <l n="c">Anirvr̥ti prajajvāla</l>
        <l n="d">catur-ambhodhi-vāritaḥ<g type="ddandaStrokeLeft">.</g></l>
 </lg>
 <lg n="10" met="śārdūlavikrīḍita">
@@ -201,17 +203,16 @@ argr: yes, I am inclined to admit that two allographs of anusvāra were availabl
 <!-- argr: you had prāya — does the txt file need correction? -->
        <l n="b">tān ekatra didr̥kṣuṇeva nicitān· sarvāN samam vedhasā<g type="danda">.</g></l>
        <l n="c">dhva<lb n="18" break="no"/>stāśeṣa-narendra-māna-mahimā śrī-dharmmapālaḥ kalau</l>
-       <l n="d">lola-śrīkariṇī-nivandhana-mahāstambhaḥ samuttambhitaḥ<g type="ddandaStrokeLeft">.</g></l> 
+       <l n="d">lola-śrī-kariṇī-nivandhana-mahāstambhaḥ samuttambhitaḥ<g type="ddandaStrokeLeft">.</g></l> 
 <!-- argr: I have trouble recognizing lau and lo in kalau lola — are any alternative readings imaginable? --> 
 </lg>
 <lg n="11" met="sragdharā">
        <l n="a">yāsāṁ<lb n="19"/>nāsīra-dhūlī-dhavala-daśa-diśāṁ drāg apaśyann iyattāṁ</l>
 <!-- argr: you had drag-apaśyann — does the txt file need correction? -->
        <l n="b">dhatte māndhātr̥-sainya-vyatikara-cakito dhyāna-tandrīm mahendraḥ<g type="danda">.</g></l>
-       <l n="c"><lb n="20"/>tāsām apy āhavecchā-pulakita-vapuṣām vāhinīnā<choice><orig>m</orig><reg>ṁ</reg></choice> vidhātuṁ<!-- 
+       <l n="c"><lb n="20"/>tāsām apy āhavecchā-pulakita-vapuṣām vāhinīnām vidhātuṁ<!-- 
    amwb : here anusvāra seems to be noted by a single point and not by a circle see photo dhātuṁ l20.png
    argr: are you sure there is an anuvāra? the edition states that the reading is m to be normalized as ṁ
-   argr: anyhow, I would just edit m here without any further ado
 --></l>
        <l n="d">sāhāyyaṁ yasya vāhvor nikhila-ripu-kula-dhvaṁsinor nā<lb n="21" break="no"/>vakāśaḥ<g type="ddandaStrokeLeft">.</g></l>
 </lg>
@@ -220,10 +221,7 @@ argr: yes, I am inclined to admit that two allographs of anusvāra were availabl
        <l n="b">bhūpair vyālola-mauli-praṇati-pariṇataiḥ<lb n="22"/>sādhu saṅgīryamānaḥ<g type="danda">.</g></l>
        <l n="c">hr̥ṣyat-pañcāla-vr̥ddhoddhr̥ta-kanakamaya-svābhiṣekodakumbho</l>
 <!-- argr: I would hyphenate -svābhiṣekoda-kumbho -->
-       <l n="d">dattaḥ śrī-kany<choice><sic>a</sic><corr>ā</corr></choice>kuvjas<!-- 
-amwb : Kielhorn correct kanya by kanyā and not by kānya, I think it would be a careless mistake ; so I introduced the other correction and reported this in the apparatus
-argr: what you say about Kielhorn is wrong — he edits kanya and says we expect kānya, and he is correct; the text as you have edited it is  metrically impossible; we should have k<choice><sic>a</sic><corr>ā</corr></choice>nyakuvjas instead of kany<choice><sic>a</sic><corr>ā</corr></choice>kuvjas; please make the necessary change, and delete the apparatus entry
---> sa-lalita-ca<lb n="23"/>lita-bhrūlatā-lakṣma yena<g type="ddandaStrokeLeft">.</g></l>
+       <l n="d">dattaḥ śrī-k<choice><sic>a</sic><corr>ā</corr></choice>nyakuvjas sa-lalita-ca<lb n="23"/>lita-bhrū-latā-lakṣma yena<g type="ddandaStrokeLeft">.</g></l>
 </lg>
 <!-- argr: you have forgotten break="no" on <lb n="23"/>; I would hyphenate bhrū-latā- -->
 <lg n="13" met="śārdūlavikrīḍita">
@@ -240,7 +238,7 @@ sa khalu bhāgīrathīpatha-pravarttamāna-nānāvidha-nau-vāṭaka-sampādita-
 amwb: Here I wrapped T in foreign because the glyph is really different see photo gantarālāT pa l28.png
 argr: <foreign> can certainl;y not be use for any such purpose, as it is semantically inadequate; I think encoding without any tag is acceptable; see Kielhorn, p. 244 n. 1, for a description of the shape we see here; it will be necessary to summarize in <handDesc> what Kielhorn says in that note about the various shapes for final consonants
 argr: also, let's hyphenate, so in sum -dig-antarālāT
---> parameśvara-sevā-samāyata-samasta-jamvūdvīpa-bhūpālānanta-pādāta-bhara-namad-avaneḥ pāṭalipu<lb n="29" break="no"/>tra-samāvāsita-śrīmaj-jayaskandhāvārā<foreign>T</foreign><!-- 
+--> parameśvara-sevā-samāyāta-samasta-jamvūdvīpa-bhūpālānanta-pādāta-bhara-namad-avaneḥ pāṭalipu<lb n="29" break="no"/>tra-samāvāsita-śrīmaj-jayaskandhāvārā<foreign>T</foreign><!-- 
 amwb: Here I wrapped T in foreign because the glyph is really different see photo vārāT pa l29.png
 argr: same objection, a fortiori, because the shape of T here is quite normal 
 --> @@@@@paramasaugato mahārājādhirāja-śrī-gopāladeva-pādānudhyātaḥ pa<lb n="30" break="no"/>rameśvaraḥ paramabhaṭṭārako mahārājādhirājaḥ śrīmā<foreign>N</foreign><!-- 
@@ -443,6 +441,10 @@ amwb : here the double danda has another shape: the first danda looks like J see
 	   <lem>yāntyā<supplied reason="omitted">ṁ</supplied> <lb n="13"/><unclear>v</unclear>iśvambharāyāṁ</lem>
 	   <rdg source="bib:Kielhorn1896-1897_03">yāntyā<lb n="13"/><choice><orig><unclear>m v</unclear></orig><reg>ṁ v</reg></choice>iśvambharāyāṁ</rdg>
 	</app>
+<app loc="16">
+<lem>Anirvr̥ti</lem>
+<rdg source="bib:Kielhorn1896-1897_03">Ani<surplus>r</surplus>vr̥t<supplied reason="omitted">t</supplied>i</rdg>
+</app>
                    <app loc="22">
                        <lem>śrī-kany<choice><sic>a</sic><corr>ā</corr></choice>°</lem>
                        <rdg source="bib:Kielhorn1896-1897_03">śrī-k<choice><sic>a</sic><corr>ā</corr></choice>nya°</rdg>
@@ -480,13 +482,26 @@ amwb : here the double danda has another shape: the first danda looks like J see
              <p n="5" rend="stanza">As Rohiṇī is the beloved of the Moon, Svāhā of the Sacrificial Fire, Śarvāṇī of Śiva, and Bhadrā of the lord of the Guhyakas; as the daughter of Puloman is of Purandara, and Lakṣmī of Mura’s foe, so the illustrious Deddadevī, a daughter of the Bhadra king, became the queen of that brilliant ruler of the earth, to him a source of joy.</p>
              <p n="6" rend="stanza">From them was born the glorious Dharmapāla, whose achievements are praised by the good, a master of kings who alone is ruling the entire orb of the earth; whose progress when he is about to conquer the quarters all round, the four oceans, marked by the footprints of the arrays of his elephants that bathe on their shores, patiently permit, being no longer fosses of the earth.</p>
              <p n="7" rend="stanza">When, with his ponderous army marching with unbounded glee, he proceeds to conquer the regions, and when the earth thereby slides down as if the mountains on it were marching, Śeṣa hurriedly follows him, always exactly beneath him, with his arms raised to support the circle of his heads, hurt by the jewels that sink into them, bent down by the weight.</p>
+<!-- When he -->
              <p n="8" rend="stanza">When, on his setting forth, the whole sky is covered with the masses of dust, cast up by the stamping of his marching army, and the earth thereby is reduced to a minute size, then, on account of its light weight, the circle of the hoods of the serpent-king springs up, with the jewels, that had sunk into them, reappearing.</p>
              <p n="9" rend="stanza">The fire of his wrath, stirred up when he finds himself opposed, like the submarine fire, blazes up unceasingly, checked <supplied reason="subaudible">only</supplied> by the four oceans.</p>
-             <p n="10" rend="stanza">Desirous, as it were, of seeing collected together in one place such kings of old as Pr̥thu, Rāma, the descendant of Raghu, and Nala, the Creator in this Kali-age set up the glorious Dharmapāla, who has humbled the great conceit of all rulers, as a mighty post to which to fasten that elephant- the fickle goddess of fortune.</p>
+<!-- 
+"agitated because of his territory being obstructed"
+Aurva's anger is controlled by one ocean, Dharmapāla's by four
+reading anirvṛti we can translate "without [any possibility of] exctinction -->
+             <p n="10" rend="stanza">Desirous, as it were, of seeing collected together in one place such kings of old as Pr̥thu, Rāma, the descendant of Raghu, and Nala, the Creator in this Kali-age set up the glorious Dharmapāla, who has humbled the great conceit of all rulers, as a mighty post to which to fasten that elephant — the fickle goddess of fortune.</p>
              <p n="11" rend="stanza">For those armies of his,- not seeing at once how large they are, because the ten regions are whitened by the dust of their van-guard, the great Indra, afraid of what might happen to the armies of Māndhātr̥, exhausts himself in conjectures,- for them even, thrilled as they are with eagerness to fight, there is no chance of rendering assistance to his arms, which <supplied reason="subaudible">alone</supplied> annihilate the whole host of his adversaries.</p>
              <p n="12" rend="stanza">With a sign of his gracefully moved eye-brows he installed the illustrious king of Kanyākubja, who readily was accepted by the Bhoja, Matsya, Madra, Kuru, Yadu, Yavana, Avanti, Gandhāra and Kīra kings, bowing down respectfully with their diadems trembling, and for whom his own golden coronation jar was lifted up by the delighted elders of Pañcāla.</p>
-             <p n="13" rend="stanza">Hearing his praises sung by the cowherds on the borders, by the foresters in the forests, by the villagers on the outskirts of villages, by the playing groups of children in every courtyard, in every market by the guardians of the weights, and in pleasure-houses by the parrots in the cages, he always bashfully turns aside and bows down his face.</p>
-             <p n="25-29">Now-from his royal camp of victory, pitched at Pāṭaliputra, where the manifold fleets of boats proceeding on the path of the Bhāgīrathī make it seem as if a series of mountain-tops had been sunk to build another causeway <supplied reason="subaudible">for Rāma’s passage</supplied>; where, the brightness of daylight being darkened by densely packed arrays of rutting elephants, the rainy season <supplied reason="explanation">with its masses of black clouds</supplied> might be taken constantly to prevail; where the firmament is rendered grey by the dust, dug up by the hard hoofs of unlimited troops of horses presented by many kings of the north; and where the earth is bending beneath the weight of the innumerable foot-soldiers of all the kings of Jambūdvīpa, assembled to render homage to their supreme lord; - the devout worshipper of Sugata, the <foreign>parameśvara</foreign> <foreign>paramabhaṭṭāraka</foreign> <foreign>mahārājādhirāja</foreign>, the glorious Dharmapāladeva, who meditates on the feet of the <foreign>mahārājādhirāja</foreign>, the glorious Gopāladeva, being in good health,-</p>
+<!-- -lakṣma: neuter form used as adverb.
+Kanyakubja is capital of Pancala country: see wikipedia
+  -->
+<p n="13" rend="stanza">Hearing his praises sung by the cowherds on the borders, by the foresters in the forests, by the villagers on the outskirts of villages, by the playing groups of children in every courtyard, in every market by the guardians of the weights, and in pleasure-houses by the parrots in the cages, he always bashfully turns aside and bows down his face.</p>
+<!-- "children at every crossroads"
+"by men on every market" 
+Daniel: "my first intuition would be that the līlā-veśman is not a brothel but e.g. a garden gazebo or suchlike."
+Csaba D.: "līlāveśman is perhaps a synonym of līlāgāra / līlāgṛha / līlāgeha, and I would also think it is a pavilion or belvedere in a garden where all sorts of pleasurable activities can take place."
+-->
+             <p n="25-29">Now—from his royal camp of victory, pitched at Pāṭaliputra, where the manifold fleets of boats proceeding on the path of the Bhāgīrathī make it seem as if a series of mountain-tops had been sunk to build another causeway <supplied reason="subaudible">for Rāma’s passage</supplied>; where, the brightness of daylight being darkened by densely packed arrays of rutting elephants, the rainy season <supplied reason="explanation">with its masses of black clouds</supplied> might be taken constantly to prevail; where the firmament is rendered grey by the dust, dug up by the hard hoofs of unlimited troops of horses presented by many kings of the north; and where the earth is bending beneath the weight of the innumerable foot-soldiers of all the kings of Jambūdvīpa, assembled to render homage to their supreme lord; - the devout worshipper of Sugata, the <foreign>parameśvara</foreign> <foreign>paramabhaṭṭāraka</foreign> <foreign>mahārājādhirāja</foreign>, the glorious Dharmapāladeva, who meditates on the feet of the <foreign>mahārājādhirāja</foreign>, the glorious Gopāladeva, being in good health,-</p>
              <p n="30-42">In the Mahantāprakāśa district <supplied reason="explanation"><foreign>viṣaya</foreign></supplied>, which belongs to the Vyāghrataṭī <foreign>maṇḍala</foreign> within the prosperous Puṇḍravardhana <foreign>bhukti</foreign>, is the village named Krauñcaśvabhra. Its boundary on the west is Gaṅginikā; on the north it is the small temple of Kādambarī and a date tree; on the north-east the dike made by the <foreign>rājaputra</foreign> Devaṭa; <seg cert="low">it goes to and enters a citron grove</seg>; on the east it is the dike of Viṭaka, <gap reason="ellipsis"/><supplied reason="explanation">Here need to reproduce the text not translated</supplied>. Also the village named Māḍhāśāmmalī. On the north its boundary is Gaṅginikā; from there, on the east, <gap reason="ellipsis"/><supplied reason="explanation">Here need to reproduce the text not translated</supplied>; from there again, on the south, it is Kālikāśvabhra, proceeding thence as far as <gap reason="ellipsis"/><supplied reason="explanation">Here need to reproduce the text not translated</supplied>; on the west, from there again, <gap reason="ellipsis"/><supplied reason="explanation">Here need to reproduce the text not translated</supplied> it enters Gaṅginikā. At Pālitaka the boundary on the south is the small island of Kāṇā; on the east the river Koṇṭhiyā; on the north Gaṅginikā; on the west Jenandāyikā. On the island <seg cert="low">the funeral rites of this village are performed</seg>. Of the village. of Gopippalī, which is within the Āmraṣaṇḍikā <foreign>maṇḍala</foreign> belonging to the Sthālīkkaṭa district <supplied reason="explanation"><foreign>viṣaya</foreign></supplied>, the boundaries are, on the east the western
 boundary of the Udragrāma <foreign>maṇḍala</foreign>, on the south a <seg cert="low"><foreign>jolaka</foreign></seg>, on the west the <seg cert="low"><foreign>khāṭikā</foreign></seg> named Vesanikā, on the north the cattle-path running on the borders of the Udragrāma <foreign>maṇḍala</foreign>.</p>
              <p n="43-47">To all the people assembled at these four villages, the <foreign>rājan</foreign>s, <foreign>rājanaka</foreign>s, <foreign>rājaputra</foreign>s, <foreign>rājāmātya</foreign>s, <foreign>senāpati</foreign>s, <foreign>viṣayapati</foreign>s, <foreign>bhogapati</foreign>s, <foreign>ṣaṣṭhādhikr̥ta</foreign>s, <foreign>daṇḍaśakti</foreign>s, <foreign>dāṇḍapāśika</foreign>s, <foreign>cauroddharaṇika</foreign>s, <foreign>dauḥsādhasādhanika</foreign>s, <foreign>dūta</foreign>s, <foreign>khola</foreign>s, <foreign>gamāgamika</foreign>s, <foreign>abhitvaramāṇa</foreign>s, inspectors of elephants, horses, cows, buffalo-cows, goats and sheep, inspectors of boats, inspectors of the forces, <foreign>tarika</foreign>s, <foreign>śaulkika</foreign>s, <foreign>gaulmika</foreign>s, <foreign>tadāyuktaka</foreign>s, <foreign>viniyuktaka</foreign>s and other dependants of the king’s feet, and to the others not specially named, to those belonging to the irregular and regular troops as they may be present from time to time, to the <foreign>jyeṣṭhakāyastha</foreign>s, <foreign>mahāmahattara</foreign>s, <foreign>mahattara</foreign>s, <foreign>daśagrāmika</foreign>s and other district officers, including the <foreign>karaṇa</foreign>s, and to the resident cultivators,- to all these, especially honouring the Brāhmaṇas,he pays due respect, makes known, and issues these commands: -</p>
