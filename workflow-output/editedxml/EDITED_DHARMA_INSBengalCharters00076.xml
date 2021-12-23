@@ -87,6 +87,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2021-12-23" who="part:amwb">Added the translation of the quoted verses</change>
          <change when="2021-09-20" who="part:amwb">Start of the encoding of the apparatus with two previous editions (ie. Srinivasan1972_01 and Tripathy1997_01) and Furui’s readings.</change>
          <change when="2021-09-16" who="part:amwb" status="draft">Start of the encoding with the document transmitted by Ryosuke Furui</change>
       </revisionDesc>
@@ -95,16 +96,13 @@
       <body>
          <div type="edition" xml:lang="san-Latn">
             <p>
-                 <pb n="1r"/><lb n="1"/>svasti<supplied reason="subaudible">.</supplied> catur-udadhi-salila-sīmāntāyām aneka-dvīpa-nagara-pattanādhiṣṭhānādri-saro<unclear>vara-pravāha</unclear>-siddha-devatāyatana-śreṣṭha<unclear>mā</unclear>nyāṁ sva-dha<lb n="2" break="no"/>rmma-karmma-nirata-cātu<supplied reason="lost">r</supplied>-varṇyāsrama-prakr̥ti-janapada-samagrāyām aneka-dvija-gr̥heśvarāgnihottra-havana-havir-dhūma-surabhī-kr̥ta-pavana<lb n="3" break="no"/>-Arkkendu-mayūkhāvabhāsitāyām avirata-vedādhyaya<choice><sic>nā</sic><corr>na</corr></choice>-nyāsa-dhvani-nnirasta-dūritāyāṁ t<choice><sic>r</sic><corr>ri</corr></choice>̥-bh<choice><sic>ū</sic><corr>u</corr></choice>vana-sādhāraṇān arkka-vipanna<choice><sic>s</sic><corr>ś</corr></choice>asya sa<unclear>rvva</unclear><lb n="4" break="no"/>ttr<choice><sic>ā</sic><corr>a</corr></choice>-surabhi-svādu-kusuma-phala-bhār<choice><sic>e</sic><corr>a</corr></choice>-vividha-tar<choice><sic>a</sic><corr>u</corr></choice>-viṭapa-latā-pratānavatyāṁ sudr̥<choice><sic>s</sic><corr>ś</corr></choice>ya-<choice><sic>ś</sic><corr>s</corr></choice>ārasa-rūpa-gandha-guṇa-sampat-<choice><sic>si</sic><corr>sthi</corr></choice>tāyāṁ pr̥thivyāṁ catuḥ<lb n="5" break="no"/>-samudrātikrānta-yaśasām udāra-guṇa-samudayāruḍha-gauravāṇām asaṁbhinna-dhyāmaya-dānāva<unclear cert="low">lī</unclear> <unclear cert="low">mā</unclear> yad-ācāra-par<choice><sic>o</sic><corr>i</corr></choice>graha<lb n="6" break="no"/>-pratyant<choice><sic>ā</sic><corr>a</corr></choice>śe<choice><sic>s</sic><corr>ś</corr></choice>a-kali-do<choice><sic>s</sic><corr>ṣ</corr></choice>āc chrīmato dhanacandrāt sakala-jana-sādhāraṇa-dharmma-pratilabdhāvigrahā<unclear>t sukṣa</unclear>ttrāryyāḥ śrī-giridevyā<supplied reason="omitted">ṁ</supplied><!-- 
-amwb check if it is lost or subaudible or omitted
---> va<lb n="7" break="no"/>rṇṇāśrama-vyavasthā-hetuḥ sākṣ<unclear>ā</unclear>d dharmma ivopātta-janmā samastābhikāmika-guṇa-yogā<!--
-amwb here a ? in Ryosuke
---> <unclear cert="low">A</unclear>mānasābhi<choice><sic>rmmā</sic><corr>mā</corr></choice>nar iva pra<lb n="8"/>jābhir āropitādhirājyaḥ śakti-tray<choice><sic>a</sic><corr>o</corr></choice>pahatārā<choice><sic>tri</sic><corr>ti</corr></choice>-pakṣe tv antāpakārāṣv api prāṇā<unclear>ddha-māttra</unclear>-<unclear cert="low">ma</unclear>ddharotsāritāmarṣānuraktāpra<lb n="9" break="no"/>ti-dveśāsopanatāśeṣa-rāja-maṇḍalaḥ paropakā<unclear>reṣu</unclear> <unclear>A</unclear>bhiniviṣṭa-cetāḥ parama-māheśvar<choice><sic>o</sic><corr>e</corr></choice> mahārājādhirāja-śrī-gopa<lb n="10" break="no"/>candre rājyaṁ praśāsat<choice><sic>a</sic><corr>i</corr></choice> pravarddhamāna-vijaya-rājya-<unclear>samva</unclear>tsare prathame phālguṇ<unclear>e</unclear> māse viṁśatitame divase śvetavālikā<lb n="11" break="no"/>-vīthī-samupagatā<unclear>m</unclear> varttamāna-bhaviṣyat-kālīyā<unclear>ṁ</unclear> kārttākr̥tik<unclear>opari</unclear>ka-kumārāmātya-rājānaka-vijayavarmma-viṣayapati-tad-āyuktakān anyāṁś ca rāja<lb n="12" break="no"/>-pāda-prasādopajīvino yathārhaṁ mānayitvā śirobhiś ca praṇamyāsmad-adhivāsa-viṁśatyāgrahāra-tāmra-paṭṭa-paṭa-śāsana-hiraṇya-<unclear cert="low">lābha</unclear><lb n="13" break="no"/>sāmudāyika-grāma-vāṭakebhyo mahāmahattara-mahattara-pradhāna-<!--
-amwb here a ? noted by Ryosuke I understand he is not sure of his reading 
---><unclear>sītā</unclear>la Adhikaraṇañ ca vijñāpayanti<supplied reason="subaudible">.</supplied> Astu vas samviditaṁ prārthitā <lb n="14"/>vayaṁ śrī-mahāsāmanta-mahārājācyutena yuṣmad-vīthyāṁ sādhubhir anekair ācandrārkka-kālīna-tāmra-paṭṭa-paṭa-śāsana-sthityā satā-mūlyena<lb n="15"/>grāma-kṣettra-vāstūni yuṣmaT<!--
+                 <pb n="1r"/><lb n="1"/>svasti<supplied reason="subaudible">.</supplied> catur-udadhi-salila-sīmāntāyām aneka-dvīpa-nagara-pattanādhiṣṭhānādri-saro<unclear>vara-pravāha</unclear>-siddha-devatāyatana-śreṣṭha<unclear>mā</unclear>nyāṁ sva-dha<lb n="2" break="no"/>rmma-karmma-nirata-cātu<supplied reason="lost">r</supplied>-varṇyāsrama-prakr̥ti-janapada-samagrāyām aneka-dvija-gr̥heśvarāgnihottra-havana-havir-dhūma-surabhī-kr̥ta-pavana<lb n="3" break="no"/>-Arkkendu-mayūkhāvabhāsitāyām avirata-vedādhyaya<choice><sic>nā</sic><corr>na</corr></choice>-nyāsa-dhvani-nnirasta-dūritāyāṁ t<choice><sic>r̥</sic><corr>ri</corr></choice>-bh<choice><sic>ū</sic><corr>u</corr></choice>vana-sādhāraṇān arkka-vipanna<choice><sic>s</sic><corr>ś</corr></choice>asya sa<unclear>rvva</unclear><lb n="4" break="no"/>ttr<choice><sic>ā</sic><corr>a</corr></choice>-surabhi-svādu-kusuma-phala-bhār<choice><sic>e</sic><corr>a</corr></choice>-vividha-tar<choice><sic>a</sic><corr>u</corr></choice>-viṭapa-latā-pratānavatyāṁ sudr̥<choice><sic>s</sic><corr>ś</corr></choice>ya-<choice><sic>ś</sic><corr>s</corr></choice>ārasa-rūpa-gandha-guṇa-sampat-<choice><sic>si</sic><corr>sthi</corr></choice>tāyāṁ pr̥thivyāṁ catuḥ<lb n="5" break="no"/>-samudrātikrānta-yaśasām udāra-guṇa-samudayāruḍha-gauravāṇām asaṁbhinna-dhyāmaya-dānāva<unclear cert="low">lī</unclear> <unclear cert="low">mā</unclear> yad-ācāra-par<choice><sic>o</sic><corr>i</corr></choice>graha<lb n="6" break="no"/>-pratyant<choice><sic>ā</sic><corr>a</corr></choice>śe<choice><sic>s</sic><corr>ṣ</corr></choice>a-kali-do<choice><sic>s</sic><corr>ṣ</corr></choice>āc chrīmato dhanacandrāt sakala-jana-sādhāraṇa-dharmma-pratilabdhāvigrahā<unclear>t sukṣa</unclear>ttrāryyāḥ śrī-giridevyā<supplied reason="omitted">ṁ</supplied> va<lb n="7" break="no"/>rṇṇāśrama-vyavasthā-hetuḥ sākṣ<unclear>ā</unclear>d dharmma ivopātta-janmā samastābhikāmika-guṇa-<unclear cert="low">yogā</unclear> <unclear cert="low">A</unclear>mānasābhi<choice><sic>rmmā</sic><corr>mā</corr></choice>nar iva pra<lb n="8"/>jābhir āropitādhirājyaḥ śakti-tray<choice><sic>a</sic><corr>o</corr></choice>pahatārā<choice><sic>tri</sic><corr>ti</corr></choice>-pakṣe tv antāpakārāṣv api prāṇā<unclear>ddha-māttra</unclear>-<unclear cert="low">ma</unclear>ddharotsāritāmarṣānuraktāpra<lb n="9" break="no"/>ti-dveśāsopanatāśeṣa-rāja-maṇḍalaḥ paropakā<unclear>reṣu</unclear> <unclear>A</unclear>bhiniviṣṭa-cetāḥ parama-māheśvar<choice><sic>o</sic><corr>e</corr></choice> mahārājādhirāja-śrī-gopa<lb n="10" break="no"/>candre rājyaṁ praśāsat<choice><sic>a</sic><corr>i</corr></choice> pravarddhamāna-vijaya-rājya-<unclear>samva</unclear>tsare prathame phālguṇ<unclear>e</unclear> māse viṁśatitame divase śvetavālikā<lb n="11" break="no"/>-vīthī-samupagatā<unclear>m</unclear> varttamāna-bhaviṣyat-kālīyā<unclear>ṁ</unclear> kārttākr̥tik<unclear>opari</unclear>ka-kumārāmātya-rājānaka-vijayavarmma-viṣayapati-tad-āyuktakān anyāṁś ca rāja<lb n="12" break="no"/>-pāda-prasādopajīvino yathārhaṁ mānayitvā śirobhiś ca praṇamyāsmad-adhivāsa-viṁśatyāgrahāra-tāmra-paṭṭa-paṭa-śāsana-hiraṇya-<unclear cert="low">lābha</unclear><lb n="13" break="no"/>-sāmudāyika-grāma-vāṭakebhyo mahāmahattara-mahattara-pradhāna-<unclear cert="low">sītā</unclear>la Adhikaraṇañ ca vijñāpayanti<supplied reason="subaudible">.</supplied></p>
+             <p>Astu vas samviditaṁ prārthitā <lb n="14"/>vayaṁ śrī-mahāsāmanta-mahārājācyutena yuṣmad-vīthyāṁ sādhubhir anekair ācandrārkka-kālīna-tāmra-paṭṭa-paṭa-śāsana-sthityā satā-mūlyena<lb n="15"/>grāma-kṣettra-vāstūni yuṣmaT<!--
 amwb : here Ryosuke noted t(·), I don't know what it means. Maybe he wants to indicate a virama? 
---> krītvakr̥tvā deva-dvija-maṭha-vihārāvasathebhyo ’tisr̥ṣṭhā<choice><sic>t</sic><corr>n</corr></choice>y atisr̥jyamānāni <unclear>ta</unclear>th<unclear>ai</unclear>va samyak prati<lb n="16"/>pālyamānā<choice><sic>ny e</sic><corr>nī</corr></choice>ti samīkṣya ma<unclear>hati ca</unclear> saṁsārārṇṇave sarvva-prāṇināṃ jala-budbudāvaśyāya-preṣita-gaja-kal<choice><sic>ā</sic><corr>a</corr></choice>bha-kaṇṭhāgra-bhujaga-jihva-taḍi<lb n="17" break="no"/>t-sampāta-capalāni jīvitā<supplied reason="lost">ni</supplied> tyāja<unclear>vañ ca vi</unclear>bhāva<unclear>ñ ca</unclear> dr̥ṣtvā mamāpi dharmma-n<unclear>i</unclear>mittam utsāho jāta so ’ham i<unclear>cche</unclear> ratna-caityodbhava-khyāpitāśeṣa-ttri-bhuvana-pratāpa<lb n="18" break="no"/>-māhātmyātiśaya-bhagavad-āryyāvalokiteśvarāddhyāsita-śrī-vodhipadraka-mahāvihāre vihāra-karaṇāya tasmiṁś ca vali-caru-gandha-puṣpa-pradīpā<lb n="19" break="no"/>di-kriyā-pravarttanāyāryya-saṁghāya ca yathākālaṁ <unclear>cī</unclear>va<unclear>ra</unclear>-piṇḍapāta-śayanāsana-glāna-pratyaya-bhaiṣajya-pariṣkārāyātis<choice><sic>ra</sic><corr>r̥</corr></choice>ṣṭuṁ tad arhatha<lb n="20"/>śvetavālikā-grāmaṁ krayeṇa dātuṁ tāmra-śāsanī-kr̥tyeti<supplied reason="subaudible">.</supplied> yato ’smābhir yyuktamayā prārthayati <unclear>sa</unclear> ca grāmas samudr<choice><sic>a</sic><corr>o</corr></choice>pasarppita-pratyantatvāt saha da<unclear>tto</unclear><lb n="21"/>guṇāddhyāsana te pratibhayānāstha-sañcitārtheya-deyārthāḥ kāś cāṭa-bha<unclear>ṭa</unclear>-dāsayituṁ naditthaṁ bhūtena tas tata<supplied reason="subaudible">ḥ</supplied> ko ’rthaḥ Asti cā<choice><sic>s</sic><corr>ś</corr></choice>uddha-nyāsāḥ <supplied reason="lost">U</supplied><lb n="22" break="no"/>tpadyamānātyaika-prayojana-prata-sama-dhāna-grāma-kṣettra-vāstunāṁ vā samasta-pravr̥tti-suddhāyatām asmai dīyam<unclear>ā</unclear>na punaḥ paramabhaṭṭārakasyāpi<lb n="23"/>dharmma-ṣaḍ-bhāgopacayo nirde<choice><sic>s</sic><corr>ś</corr></choice>āyeti yataḥ pustapāla-bhogibhaṭenā<unclear>vadhāraṇa</unclear>yā <unclear>I</unclear>t<unclear>y</unclear> avadhr̥tya daṇḍa-bhukty-ādhikr̥ta-mahāsāmanta-mahārāja-śrī-<unclear>graha</unclear><lb n="24" break="no"/>varmma-viniyuktaka-kumārāmātya-rājānaka-vijayavarmmā<unclear>trā</unclear>dhikr̥ta-śvetavālikā-vīthī-vyāvahāri-prāptavyam parivodhya deśācā<unclear>rā</unclear>rtha-<gap reason="illegible" unit="character" quantity="5"/><lb n="25"/>śvetavālikāgrāmas sakala-samudayaḥ kraye<choice><sic>n</sic><corr>ṇ</corr></choice>a viṣayādhikaraṇa-mahāmahattara-gr̥hasvāmyādibhiḥ yatra mahāmaha<unclear>ttara-guha</unclear>svāmi-mahattara<pb n="1v"/><lb n="26" break="no"/>-<gap reason="illegible" unit="character" quantity="2"/><unclear>svāmi-mahatta</unclear>ra-bhavarata<unclear cert="low">svāmi</unclear> ta-<unclear>maha</unclear>ttara-dharmmasvāmi-mahattara-devasvāmi-mahattarendrasvāmi-Aśunapadrakīya-pradhāna-yogrīdā<unclear>sa-dharmma</unclear><lb n="27" break="no"/>-padrakīya-tanr̥ka-pra<choice><sic>th</sic><corr>dh</corr></choice>āna-<unclear>maṇi</unclear>ta<unclear>pa</unclear>drakī<unclear>ya</unclear>-vauddhasvāmi-hulavaṇajeya-cittrakarmaṇi-mukhīya-pra<choice><sic>th</sic><corr>dh</corr></choice>ānā-sāhu-śvetavālakī<unclear>ya</unclear>-pra<unclear>tyako</unclear>narāḥ-<gap reason="illegible" unit="character" quantity="4"/><lb n="28"/><supplied reason="lost">pra</supplied>bhūṣuṇḍa-dharmmaṣeṇa-pradhāna-dharmmagonamak<choice><sic>a</sic><corr>ā</corr></choice>ya-bhavarāta-vantokaś ca karaṇika-da<choice><orig>t</orig><reg>tt</reg></choice>anandi-karaṇika-Anudatta-karaṇikādityadāsa-pusta<surplus>sta</surplus><unclear>pāla</unclear>-nāga-sthāyapā<unclear>la</unclear><lb n="29" break="no"/>-prabha<unclear>ve</unclear>ṣṭā<unclear>di</unclear>bhiḥ vikrītena niṣpa<choice><sic>tt</sic><corr>nn</corr></choice>aḥ krītvā mātā-pittror ātmanaś ca sarvva-satvānāṁ ca puṇyābhivr̥ddhaye da<choice><sic>kṣa</sic><corr>kṣi</corr></choice>ṇā<choice><sic>ya</sic><corr>yāṁ</corr></choice>-diśi sa śrī-vodhipadrak<unclear>īya</unclear>-<gap reason="illegible" unit="character" quantity="2"/>-mahāyānika<lb n="30" break="no"/><gap reason="illegible" unit="character" quantity="1"/>bhi<unclear>kṣu</unclear>-saṁghāya pratipāditaḥ yatra śrī-bhārolāṅgalā-vaitheya-pustapāla-candradharmmā-karaṇikājatāḍhya-sthāyapāla-khaghāś ceti sarvāde<lb n="31" break="no"/>ya-varjjitaḥ prativarṣañ cāripiṇḍaka-cūrṇṇikā-śatam ekaṁ deyam ity upanivaddhya śrī-mahāsāmantācyutasya dattam asya ca grāmasya sīmā-liṅgāni<lb n="32"/>Utkira-khāṭikā pūrvvataḥ dakṣiṇasyā<supplied reason="lost">ṁ</supplied> diśy aprameya-dyuti-v<unclear>e</unclear>l<unclear>ā</unclear>-dharaḥ nān<choice><sic>e</sic><corr>ā</corr></choice>-nidhānāptāpamācintyāmr̥tādyayāparama-sthira-va<unclear>nā</unclear>pt<unclear>ādi</unclear>-pravala<lb n="33" break="no"/>m āhatoddhūta-kṣubhita-jala-tara<surplus>ṁ</surplus>ṅga-saṁṭasaṭṭa-janita-kalakalā-rāva-phe<choice><orig>ṇ</orig><reg>n</reg></choice>a-puñjāṭṭahāsaḥ kari-makara-jhaṣa-<choice><sic>v</sic><corr>n</corr></choice>akra-gr<unclear>ā</unclear>ma-va<unclear>nitā</unclear>di-vivi<lb n="34" break="no"/>dha-vihaga-gaṇ<choice><sic>ā</sic><corr>a</corr></choice>-virutopagīta-pulinas surāsura-muni-gaṇa-siddha-cāraṇa-manuja-mānujendrādibhis saṁstutānyānya-<unclear>ni</unclear>v<unclear>e</unclear>śācita-puṇya<lb n="35" break="no"/>-salila-kali-kalu<choice><sic>s</sic><corr>ṣ</corr></choice>āpahara-vividha-ratna-nicayo bhagavāñ jalanidhiḥ paścimato ḍaṅga-grām<choice><sic>i</sic><corr>ī</corr></choice>ya-guṇadeva-maṇḍala-vāstu paścimotta<choice><sic>tta</sic><corr>ra</corr></choice><lb n="36" break="no"/>ta<supplied reason="lost">ḥ</supplied> sr̥gālapadrikā-nāmoddeśaḥ tato py uttarataḥ gr̥hādhi<unclear>ṣṭha</unclear>kādityadāsasya vr̥tti-kṣettra<foreign>M</foreign> yāvaT<g type="ddanda">.</g> tato ’pi bhagavato goveśvarasya maṇḍala-kṣettra<unclear>ṁ</unclear> <lb n="37"/>pūrvvottarasyāṁ diśi vaṭa-vr̥kṣa-cchara-pota-dvayam <choice><sic>ā</sic><corr>a</corr></choice>nte pūrvvasyā<unclear>ṁ</unclear> dig-bhāge <unclear>vana</unclear>ra-puṣkiraṇyaḥ pūrvādir <choice><sic>ī</sic><corr>i</corr></choice>ti<supplied reason="subaudible">.</supplied> tad etad uddeśa-samudayañ ca pra<choice><sic>vi</sic><corr>ti</corr></choice>vibhajya ya<lb n="38" break="no"/>thā śarīram asmābhir voḍhavyaṁ tad yuṣmābhir api yathopari-likhitako dharmma-gauravā<unclear>t</unclear> viṣayādhikaraṇaṁ vijñāpyānya-pratipālanānugrahaparair tato <unclear>tasya</unclear><lb n="39"/>Asmāś ca bhūmi-dāne yo ’sma<choice><sic>k</sic><corr>t</corr></choice>-kulyo ’nyatamo vā <unclear>rā</unclear>ga-dve<unclear>ṣa-lobha</unclear>-moha-prerito ’nyathā kuryyāt sa pañca-mahāpātakopapātakādi-saṁyukta<!-- 
-amwb : here the two previous editors suggested a sandhi omission and emended either a visarga (Tripathy) or a -s (Srinivasan) at the end of the word saṁyukta ; Maybe follow one of their suggestion?
+--> krītv<sic>a</sic>kr̥tvā<!-- 
+amwb : here I added  sic ; the three editions have krītvakr̥tvā with a short a but it seems impossible for me ; in apparatus I suggest some possibilities without certainty
+--> deva-dvija-maṭha-vihārāvasathebhyo ’tisr̥ṣṭhā<choice><sic>t</sic><corr>n</corr></choice>y atisr̥jyamānāni <unclear>ta</unclear>th<unclear>ai</unclear>va samyak prati<lb n="16"/>pālyamānā<choice><sic>ny eti</sic><corr>nīti</corr></choice> samīkṣya ma<unclear>hati ca</unclear> saṁsārārṇṇave sarvva-prāṇināṃ jala-budbudāvaśyāya-preṣita-gaja-kal<choice><sic>ā</sic><corr>a</corr></choice>bha-kaṇṭhāgra-bhujaga-jihva-taḍi<lb n="17" break="no"/>t-sampāta-capalāni jīvitā<supplied reason="lost">ni</supplied> tyāja<unclear>vañ ca vi</unclear>bhāva<unclear>ñ ca</unclear> dr̥ṣtvā mamāpi dharmma-n<unclear>i</unclear>mittam utsāho jāta so ’ham i<unclear>cche</unclear> ratna-caityodbhava-khyāpitāśeṣa-ttri-bhuvana-pratāpa<lb n="18" break="no"/>-māhātmyātiśaya-bhagavad-āryyāvalokiteśvarāddhyāsita-śrī-vodhipadraka-mahāvihāre vihāra-karaṇāya tasmiṁś ca vali-caru-gandha-puṣpa-pradīpā<lb n="19" break="no"/>di-kriyā-pravarttanāyāryya-saṁghāya ca yathākālaṁ <unclear>cī</unclear>va<unclear>ra</unclear>-piṇḍapāta-śayanāsana-glāna-pratyaya-bhaiṣajya-pariṣkārāyātis<choice><sic>ra</sic><corr>r̥</corr></choice>ṣṭuṁ tad arhatha<lb n="20"/>śvetavālikā-grāmaṁ krayeṇa dātuṁ tāmra-śāsanī-kr̥tyeti<supplied reason="subaudible">.</supplied> yato ’smābhir yyuktamayā prārthayati <unclear>sa</unclear> ca grāmas samudr<choice><sic>a</sic><corr>o</corr></choice>pasarppita-pratyantatvāt saha da<unclear>tto</unclear><lb n="21"/>guṇāddhyāsana te pratibhayānāstha-sañcitārtheya-deyārthāḥ kāś cāṭa-bha<unclear>ṭa</unclear>-dāsayituṁ naditthaṁ bhūtena tas tata<supplied reason="subaudible">ḥ</supplied> ko ’rthaḥ Asti cā<choice><sic>s</sic><corr>ś</corr></choice>uddha-nyāsāḥ <supplied reason="lost">U</supplied><lb n="22" break="no"/>tpadyamānātyaika-prayojana-prata-sama-dhāna-grāma-kṣettra-vāstunāṁ vā samasta-pravr̥tti-suddhāyatām asmai dīyam<unclear>ā</unclear>na punaḥ paramabhaṭṭārakasyāpi<lb n="23"/>dharmma-ṣaḍ-bhāgopacayo nirde<choice><sic>s</sic><corr>ś</corr></choice>āyeti yataḥ pustapāla-bhogibhaṭenā<unclear>vadhāraṇa</unclear>yā <unclear>I</unclear>t<unclear>y</unclear> avadhr̥tya daṇḍa-bhukty-ādhikr̥ta-mahāsāmanta-mahārāja-śrī-<unclear>graha</unclear><lb n="24" break="no"/>varmma-viniyuktaka-kumārāmātya-rājānaka-vijayavarmmā<unclear>trā</unclear>dhikr̥ta-śvetavālikā-vīthī-vyāvahāri-prāptavyam parivodhya deśācā<unclear>rā</unclear>rtha-<gap reason="illegible" unit="character" quantity="5"/><lb n="25"/>śvetavālikāgrāmas sakala-samudayaḥ kraye<choice><sic>n</sic><corr>ṇ</corr></choice>a viṣayādhikaraṇa-mahāmahattara-gr̥hasvāmyādibhiḥ yatra mahāmaha<unclear>ttara-guha</unclear>svāmi-mahattara<pb n="1v"/><lb n="26" break="no"/>-<gap reason="illegible" unit="character" quantity="2"/><unclear>svāmi-mahatta</unclear>ra-bhavarata<unclear cert="low">svāmi</unclear> ta-<unclear>maha</unclear>ttara-dharmmasvāmi-mahattara-devasvāmi-mahattarendrasvāmi-Aśunapadrakīya-pradhāna-yogrīdā<unclear>sa-dharmma</unclear><lb n="27" break="no"/>-padrakīya-tanr̥ka-pra<choice><sic>th</sic><corr>dh</corr></choice>āna-<unclear>maṇi</unclear>ta<unclear>pa</unclear>drakī<unclear>ya</unclear>-vauddhasvāmi-hulavaṇajeya-cittrakarmaṇi-mukhīya-pra<choice><sic>th</sic><corr>dh</corr></choice>ānā-sāhu-śvetavālakī<unclear>ya</unclear>-pra<unclear>tyako</unclear>narāḥ-<gap reason="illegible" unit="character" quantity="4"/><lb n="28"/><supplied reason="lost">pra</supplied>bhūṣuṇḍa-dharmmaṣeṇa-pradhāna-dharmmagonamak<choice><sic>a</sic><corr>ā</corr></choice>ya-bhavarāta-vantokaś ca karaṇika-da<choice><orig>t</orig><reg>tt</reg></choice>anandi-karaṇika-Anudatta-karaṇikādityadāsa-pusta<surplus>sta</surplus><unclear>pāla</unclear>-nāga-sthāyapā<unclear>la</unclear><lb n="29" break="no"/>-prabha<unclear>ve</unclear>ṣṭā<unclear>di</unclear>bhiḥ vikrītena niṣpa<choice><sic>tt</sic><corr>nn</corr></choice>aḥ krītvā mātā-pittror ātmanaś ca sarvva-satvānāṁ ca puṇyābhivr̥ddhaye da<choice><sic>kṣa</sic><corr>kṣi</corr></choice>ṇā<choice><sic>ya</sic><corr>yāṁ</corr></choice>-diśi sa śrī-vodhipadrak<unclear>īya</unclear>-<gap reason="illegible" unit="character" quantity="2"/>-mahāyānika<lb n="30" break="no"/><gap reason="illegible" unit="character" quantity="1"/>bhi<unclear>kṣu</unclear>-saṁghāya pratipāditaḥ yatra śrī-bhārolāṅgalā-vaitheya-pustapāla-candradharmmā-karaṇikājatāḍhya-sthāyapāla-khaghāś ceti sarvāde<lb n="31" break="no"/>ya-varjjitaḥ prativarṣañ cāripiṇḍaka-cūrṇṇikā-śatam ekaṁ deyam ity upanivaddhya śrī-mahāsāmantācyutasya dattam asya ca grāmasya sīmā-liṅgāni<lb n="32"/>Utkira-khāṭikā pūrvvataḥ dakṣiṇasyā<supplied reason="lost">ṁ</supplied> diśy aprameya-dyuti-v<unclear>e</unclear>l<unclear>ā</unclear>-dharaḥ nān<choice><sic>e</sic><corr>ā</corr></choice>-nidhānāptāpamācintyāmr̥tādyayāparama-sthira-va<unclear>nā</unclear>pt<unclear>ādi</unclear>-pravala<lb n="33" break="no"/>m āhatoddhūta-kṣubhita-jala-tara<surplus>ṁ</surplus>ṅga-saṁṭasaṭṭa-janita-kalakalā-rāva-phe<choice><orig>ṇ</orig><reg>n</reg></choice>a-puñjāṭṭahāsaḥ kari-makara-jhaṣa-<choice><sic>v</sic><corr>n</corr></choice>akra-gr<unclear>ā</unclear>ma-va<unclear>nitā</unclear>di-vivi<lb n="34" break="no"/>dha-vihaga-gaṇ<choice><sic>ā</sic><corr>a</corr></choice>-virutopagīta-pulinas surāsura-muni-gaṇa-siddha-cāraṇa-manuja-mānujendrādibhis saṁstutānyānya-<unclear>ni</unclear>v<unclear>e</unclear>śācita-puṇya<lb n="35" break="no"/>-salila-kali-kalu<choice><sic>s</sic><corr>ṣ</corr></choice>āpahara-vividha-ratna-nicayo bhagavāñ jalanidhiḥ paścimato ḍaṅga-grām<choice><sic>i</sic><corr>ī</corr></choice>ya-guṇadeva-maṇḍala-vāstu paścimotta<choice><sic>tta</sic><corr>ra</corr></choice><lb n="36" break="no"/>ta<supplied reason="lost">ḥ</supplied> sr̥gālapadrikā-nāmoddeśaḥ tato py uttarataḥ gr̥hādhi<unclear>ṣṭha</unclear>kādityadāsasya vr̥tti-kṣettra<foreign>M</foreign> yāvaT<g type="ddanda">.</g> tato ’pi bhagavato goveśvarasya maṇḍala-kṣettra<unclear>ṁ</unclear> <lb n="37"/>pūrvvottarasyāṁ diśi vaṭa-vr̥kṣa-cchara-pota-dvayam <choice><sic>ā</sic><corr>a</corr></choice>nte pūrvvasyā<unclear>ṁ</unclear> dig-bhāge <unclear>vana</unclear>ra-puṣkiraṇyaḥ pūrvādir <choice><sic>ī</sic><corr>i</corr></choice>ti<supplied reason="subaudible">.</supplied> tad etad uddeśa-samudayañ ca pra<choice><sic>vi</sic><corr>ti</corr></choice>vibhajya ya<lb n="38" break="no"/>thā śarīram asmābhir voḍhavyaṁ tad yuṣmābhir api yathopari-likhitako dharmma-gauravā<unclear>t</unclear> viṣayādhikaraṇaṁ vijñāpyānya-pratipālanānugrahaparair tato <unclear>tasya</unclear><lb n="39"/>Asmāś ca bhūmi-dāne yo ’sma<choice><sic>k</sic><corr>t</corr></choice>-kulyo ’nyatamo vā <unclear>rā</unclear>ga-dve<unclear>ṣa-lobha</unclear>-moha-prerito ’nyathā kuryyāt sa pañca-mahāpātakopapātakādi-saṁyukta<supplied reason="omitted">s</supplied><!-- 
+amwb : here the two previous editors suggested a sandhi omission and emended either a visarga (Tripathy) or a -s (Srinivasan) at the end of the word saṁyukta ; Maybe follow one of their suggestion. After observation of the sandhi rules within this plate, I suggest following Srinivasan's emendation, see apparatus 
 --> syād eva<lb n="40"/>cānuśrūyate dharmma-ś<choice><sic>a</sic><corr>ā</corr></choice>stre<g type="ddanda">.</g></p>
 <lg n="1" met="anuṣṭubh">
              <l n="a">ṣaṣṭ<unclear>iṁ</unclear> varṣa-<unclear>saha</unclear><supplied reason="lost">srā</supplied>ṇi</l>
@@ -144,7 +142,9 @@ amwb : here the two previous editors suggested a sandhi omission and emended eit
 </lg>
 <lg n="7" met="">
              <l n="ab">bhūmy-u<unclear>pāsāyā</unclear>m āśr<choice><sic>ū</sic><corr>u</corr></choice>ta-rasyāya dadyāt sasyavatī sa<unclear>tī</unclear></l>
-             <l n="cd">sa cāvaddhate gr̥hītyaś ca punā<choice><sic>my</sic><corr>ty</corr></choice> ubhayata<unclear>ḥ</unclear><lb n="45"/>śataṁ<g type="ddanda">.</g></l>
+             <l n="cd">sa cāvaddhate gr̥hītyaś ca punā<choice><sic>my</sic><corr>ty</corr></choice> ubhayata<unclear>ḥ</unclear><lb n="45"/>śataṁ<g type="ddanda">.</g></l><!-- 
+amwb : there are some problems in this verse I made an attempt of translation but we need make some emendations
+-->
 </lg>
 <lg n="8" met="anuṣṭubh">
              <l n="a">Ā-janman ā-sahasreṣu</l>
@@ -184,11 +184,12 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
              </p>   
          </div>
          <div type="apparatus">
+             <p>Here I reported only the readings of the first edition; i.e. <bibl><ptr target="bib:Srinivasan1972_01"/></bibl> when they differ to our reading. In this case, I also report the reading of the edition of <bibl><ptr target="bib:Tripathy1997_01"/></bibl>. </p>
                <listApp>
-                  <app loc="1">
+                <!--  <app loc="1">
                      <lem source="bib:Srinivasan1972_01">aneka-</lem>
                      <rdg source="bib:Tripathy1997_01">āneka-</rdg>
-                  </app>
+                  </app>-->
                    <app loc="1">
                        <lem source="bib:Tripathy1997_01">-saro<unclear>vara-pravāha</unclear>-</lem>
                        <rdg source="bib:Srinivasan1972_01">saro<gap reason="illegible" unit="character" quantity="2"/>-prava<unclear>ha</unclear>-</rdg>
@@ -216,10 +217,10 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <lem source="bib:Tripathy1997_01">°hottra-</lem>
                        <rdg source="bib:Srinivasan1972_01">°hotra-</rdg>
                    </app>
-                   <app loc="2">
+                  <!-- <app loc="2">
                        <lem source="bib:Srinivasan1972_01">-surabhī-kr̥ta-pavana-</lem>
                        <rdg source="bib:Tripathy1997_01">-surabh<choice><sic>i</sic><corr>ī</corr></choice>-kr̥<supplied reason="omitted">ta</supplied>tapovana-</rdg>
-                   </app>
+                   </app>-->
                    <app loc="3">
                        <lem>-mayūkhāvabhāsitāyām</lem>
                        <rdg source="bib:Srinivasan1972_01">-mayūkh<supplied reason="lost">eva</supplied> bhāsi<supplied reason="lost">tāyām</supplied></rdg>
@@ -230,7 +231,7 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <rdg source="bib:Srinivasan1972_01">°nānyāsanvanany-<gap reason="illegible" unit="character" extent="unknown"/> yā</rdg>
                    </app>
                    <app loc="3">
-                       <lem>t<choice><sic>r</sic><corr>ri</corr></choice>̥-bh<choice><sic>ū</sic><corr>u</corr></choice>vana-</lem>
+                       <lem>t<choice><sic>r̥</sic><corr>ri</corr></choice>-bh<choice><sic>ū</sic><corr>u</corr></choice>vana-</lem>
                        <rdg source="bib:Srinivasan1972_01">tr̥-bhuvana</rdg>
                        <rdg source="bib:Tripathy1997_01">tr̥-bh<choice><sic>ū</sic><corr>u</corr></choice>vana</rdg>
                    </app>
@@ -266,10 +267,10 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <rdg source="bib:Srinivasan1972_01">-<supplied reason="lost">sā</supplied>rasa-</rdg>
                        <rdg source="bib:Tripathy1997_01">-sārasa-</rdg>
                    </app>
-                   <app loc="4">
+                  <!-- <app loc="4">
                        <lem source="bib:Srinivasan1972_01">-gandha-</lem>
                        <rdg source="bib:Tripathy1997_01">-ganddha-</rdg>
-                   </app>
+                   </app>-->
                    <app loc="4">
                        <lem source="bib:Tripathy1997_01">-sampat-<choice><sic>si</sic><corr>sthi</corr></choice>tāyāṁ</lem>
                        <rdg source="bib:Srinivasan1972_01">-sampatsthitāyāṁ</rdg>
@@ -280,8 +281,8 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <rdg source="bib:Tripathy1997_01">asaṁbhāraprameyadānāva <supplied reason="lost">lī</supplied><gap reason="illegible" unit="character" extent="unknown"/> yad-</rdg>
                    </app>
                    <app loc="6">
-                       <lem>-pratyant<choice><sic>ā</sic><corr>a</corr></choice>śe<choice><sic>s</sic><corr>ś</corr></choice>a-</lem>
-                       <rdg source="bib:Tripathy1997_01">-pratyantāśe<choice><sic>s</sic><corr>ś</corr></choice>a-</rdg>
+                       <lem>-pratyant<choice><sic>ā</sic><corr>a</corr></choice>śe<choice><sic>s</sic><corr>ṣ</corr></choice>a-</lem>
+                       <rdg source="bib:Tripathy1997_01">-pratyantāśe<choice><sic>s</sic><corr>ṣ</corr></choice>a-</rdg>
                        <rdg source="bib:Srinivasan1972_01">-pratyantāśeṣa-</rdg>
                    </app>
                    <app loc="6">
@@ -292,28 +293,30 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <lem source="bib:Tripathy1997_01">vigrahā<unclear>t sukṣa</unclear>ttrāryyāḥ</lem>
                        <rdg source="bib:Srinivasan1972_01">vigrahā<gap reason="illegible" unit="character" extent="unknown"/>ttrāryyāḥ</rdg>
                    </app>
-                   <app loc="6">
+                   <!--<app loc="6">
                        <lem source="bib:Srinivasan1972_01">-giridevyā<supplied reason="omitted">ṁ</supplied></lem>
                        <rdg source="bib:Tripathy1997_01">-giridevyā<supplied reason="omitted">D</supplied></rdg>
-                   </app>
+                   </app>-->
                    <app loc="7">
                        <lem>sākṣ<unclear>ā</unclear>d</lem>
                        <rdg source="bib:Srinivasan1972_01">sākṣād</rdg>
                        <rdg source="bib:Tripathy1997_01">sākṣ<choice><sic>a</sic><corr>ā</corr></choice>d</rdg>
                    </app>
-                   <app loc="7">
+                   <!--<app loc="7">
                        <lem source="bib:Srinivasan1972_01">ivopātta-</lem>
                        <rdg source="bib:Tripathy1997_01">ivopānta</rdg>
-                   </app>
+                   </app>-->
                    <app loc="7">
-                       <lem>-yogā <unclear cert="low">A</unclear>mānasābhi<choice><sic>rmmā</sic><corr>mā</corr></choice>nar iva pra</lem>
+                       <lem>-<unclear cert="low">yogā</unclear> <unclear cert="low">A</unclear>mānasābhi<choice><sic>rmmā</sic><corr>mā</corr></choice>nar iva pra</lem>
                        <rdg source="bib:Srinivasan1972_01">-yogā <gap reason="illegible" unit="character" extent="unknown"/>sātyormya ari<gap reason="illegible" unit="character" extent="unknown"/> <unclear>pra</unclear></rdg>
                        <rdg source="bib:Tripathy1997_01">-yaśa <gap reason="illegible" unit="character" extent="unknown"/>mānasābhir<choice><sic>mmā</sic><corr>mā</corr></choice>nar iva pra</rdg>
                    </app>
-                   <app loc="7">
-                       <lem source="bib:Srinivasan1972_01">pra<lb n="8"/>jābhir</lem>
-                       <rdg source="bib:Tripathy1997_01">pra<lb n="8"/>jñābhir</rdg>
-                   </app>
+                   <!--<app loc="7">
+                       <lem source="bib:Srinivasan1972_01">pra<lb
+n="8"/>jābhir</lem>
+                       <rdg source="bib:Tripathy1997_01">pra<lb
+n="8"/>jñābhir</rdg>-->
+                   <!--</app>-->
                    <app loc="8">
                        <lem source="bib:Tripathy1997_01">-tray<choice><sic>a</sic><corr>o</corr></choice>pahatārā<choice><sic>tri</sic><corr>ti</corr></choice>-</lem>
                        <rdg source="bib:Srinivasan1972_01">-tray<supplied reason="lost">o</supplied>pahatārā<gap reason="illegible" unit="character" quantity="1"/>-</rdg>
@@ -374,8 +377,8 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <rdg source="bib:Tripathy1997_01">-hiraṇya-<gap reason="illegible" unit="character" quantity="2"/></rdg>
                    </app>
                    <app loc="13">
-                       <lem>-<unclear>sītā</unclear>la</lem><!-- 
-                        amwb : here I have wrapped by an unclear because Ryosuke inscribed a ? before the word but I am not sure that I understand what he means by this ?   
+                       <lem>-<unclear cert="low">sītā</unclear>la</lem><!-- 
+                        amwb : here I have wrapped by an unclear and cert low because Ryosuke inscribed a interrogation point ? before the word but I am not sure that I understand what he means by this ?   
                        -->
                        <rdg source="bib:Srinivasan1972_01">-<gap reason="illegible" unit="character" extent="unknown"/>la</rdg>
                        <rdg source="bib:Tripathy1997_01">-sītāla</rdg>
@@ -385,8 +388,8 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <rdg source="bib:Srinivasan1972_01">-vīthyā<unclear>ṁ</unclear></rdg>
                        <rdg source="bib:Tripathy1997_01">-vodhyāṁ</rdg>
                    </app>
-                   <app loc="14">
-                       <lem source="bib:Srinivasan1972_01">-śāsana-sthityā</lem>
+                   <!-- <app loc="14">
+                      <lem source="bib:Srinivasan1972_01">-śāsana-sthityā</lem>
                        <rdg source="bib:Tripathy1997_01">-śāsanaṁ sthitvā</rdg>
                    </app>
                    <app loc="14">
@@ -394,8 +397,16 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <rdg source="bib:Tripathy1997_01">-mūlye<unclear>ṣu</unclear></rdg>
                    </app>
                    <app loc="15">
-                       <lem source="bib:Srinivasan1972_01">’tisr̥ṣṭhā<choice><sic>t</sic><corr>n</corr></choice>y ati°</lem>
-                       <rdg source="bib:Tripathy1997_01">’bhisr̥ṣṭātyati°</rdg>
+                       <lem source="bib:Srinivasan1972_01">'tisr̥ṣṭhā<choice><sic>t</sic><corr>n</corr></choice>y ati°</lem>
+                       <rdg source="bib:Tripathy1997_01">'bhisr̥ṣṭātyati°</rdg>
+                   </app>-->
+                   <app loc="15">
+                       <lem>krītv<sic>a</sic>kr̥tvā</lem>
+                       <rdg source="bib:Srinivasan1972_01 bib:Tripathy1997_01"><unclear>krītva-kr̥tvā</unclear></rdg>
+                       <note>Here it seems to have a problem in the text. The expression <foreign>krītva-kr̥tvā</foreign> seems impossible. Several possibilities of emandation can be suggested: a juxtaposition of two absolutives <foreign>krītvā kr̥tvā</foreign>, a scribal error with a repetition in which one of the two absolutives would be superfluous, an attempt of correction made by the scribe in order to change <foreign>krītvā</foreign> into <foreign>kr̥tvā</foreign>. As <foreign>yuṣmaT</foreign> precedes, I would conserve the absolutive <foreign>krītvā</foreign>.</note><!-- 
+                       amwb : I added this note and indicated by a sic that there is here a problem to solve
+                       -->
+                     
                    </app>
                    <app loc="15">
                        <lem><unclear>ta</unclear>th<unclear>ai</unclear>va</lem>
@@ -403,14 +414,14 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <rdg source="bib:Tripathy1997_01">vithaiva</rdg>
                    </app>
                    <app loc="16">
-                       <lem>pālyamānā<choice><sic>ny e</sic><corr>nī</corr></choice>ti</lem>
+                       <lem>pālyamānā<choice><sic>ny eti</sic><corr>nīti</corr></choice></lem>
                        <rdg source="bib:Srinivasan1972_01">pālyamānānīti</rdg>
                        <rdg source="bib:Tripathy1997_01">pālyamānānyeti</rdg>
                    </app>
-                   <app loc="16">
+                 <!--  <app loc="16">
                        <lem source="bib:Srinivasan1972_01">samīkṣya</lem>
                        <rdg source="bib:Tripathy1997_01">samakṣa</rdg>
-                   </app>
+                   </app>-->
                    <app loc="16">
                        <lem>ma<unclear>hati ca</unclear></lem>
                        <rdg source="bib:Srinivasan1972_01">maha<unclear>tāñ ca</unclear></rdg>
@@ -420,19 +431,19 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <lem source="bib:Tripathy1997_01">saṁsārārṇṇave sarvva-</lem>
                        <rdg source="bib:Srinivasan1972_01"><gap reason="illegible" unit="character" extent="unknown"/>īsarvva-</rdg>
                    </app>
-                   <app loc="16">
+                 <!--  <app loc="16">
                        <lem source="bib:Srinivasan1972_01">-preṣita-</lem>
                        <rdg source="bib:Tripathy1997_01">-preṣito</rdg>
-                   </app>
+                   </app>-->
                    <app loc="16">
                        <lem>kal<choice><sic>ā</sic><corr>a</corr></choice>bha</lem>
                        <rdg source="bib:Srinivasan1972_01">kalabha</rdg>
                        <rdg source="bib:Tripathy1997_01">kalābha</rdg>
                    </app>
-                   <app loc="17">
+                   <!--<app loc="17">
                        <lem source="bib:Srinivasan1972_01">-sampāta-</lem>
                        <rdg source="bib:Tripathy1997_01">-sampāT-</rdg>
-                   </app>
+                   </app>-->
                    <app loc="17">
                        <lem><unclear>vañ ca vi</unclear>bhāva<unclear>ñ ca</unclear> dr̥ṣtvā mamāpi dharmma-n<unclear>i</unclear>mittam u°</lem>
                        <rdg source="bib:Srinivasan1972_01">va<gap reason="illegible" unit="character" extent="unknown"/> u°</rdg>
@@ -451,15 +462,15 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <lem source="bib:Tripathy1997_01">-śrī-vodhipadraka-mahāvihāre</lem>
                        <rdg source="bib:Srinivasan1972_01"><gap reason="illegible" unit="character" extent="unknown"/>hāre</rdg>
                    </app>
-                   <app loc="18">
+                  <!-- <app loc="18">
                        <lem source="bib:Srinivasan1972_01">tasmiṁś ca</lem>
                        <rdg source="bib:Tripathy1997_01">tasmaiś ca</rdg>
-                   </app>
-                   <app loc="18">
+                   </app>-->
+                   <!--<app loc="18">
                        <lem>-pradīpā°</lem>
                        <rdg source="bib:Srinivasan1972_01">-pradīpanā°</rdg>
                        <rdg source="bib:Tripathy1997_01">-pradī<choice><sic>pyā</sic><corr>pā</corr></choice></rdg>
-                   </app>
+                   </app>-->
                    <app loc="19">
                        <lem source="bib:Tripathy1997_01">-saṁghāya</lem>
                        <rdg source="bib:Srinivasan1972_01">-saṁghasya</rdg>
@@ -469,18 +480,18 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <rdg source="bib:Srinivasan1972_01">bhaviṣya-piṇḍa°</rdg>
                        <rdg source="bib:Tripathy1997_01">havi<choice><sic>sa</sic><corr>sya</corr></choice>-piṇḍa°</rdg>
                    </app>
-                   <app loc="19">
+                   <!--<app loc="19">
                        <lem source="bib:Srinivasan1972_01">-pariṣkārā°</lem>
                        <rdg source="bib:Tripathy1997_01">-pari<choice><sic>s</sic><corr>ṣ</corr></choice>kārā°</rdg>
-                   </app>
+                   </app>-->
                    <app loc="19">
                        <lem source="bib:Tripathy1997_01">°ātis<choice><sic>ra</sic><corr>r̥</corr></choice>ṣṭuṁ</lem>
                        <rdg source="bib:Srinivasan1972_01">°ā<unclear>ti</unclear>sraṣṭu<unclear>ṁ</unclear></rdg>
                    </app>
-                   <app loc="20">
+                  <!-- <app loc="20">
                        <lem source="bib:Srinivasan1972_01">grāmas sa°</lem>
                        <rdg source="bib:Tripathy1997_01">grāma sa°</rdg>
-                   </app>
+                   </app>-->
                    <app loc="20">
                        <lem>saha da<unclear>tto</unclear></lem>
                        <rdg source="bib:Srinivasan1972_01">sa<gap reason="illegible" unit="character" extent="unknown"/></rdg>
@@ -490,10 +501,10 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <lem>guṇā°</lem>
                        <rdg source="bib:Srinivasan1972_01 bib:Tripathy1997_01">gaṇā°</rdg>
                    </app>
-                   <app loc="21">
+                  <!-- <app loc="21">
                        <lem source="bib:Srinivasan1972_01">°bhayānāstha-</lem>
                        <rdg source="bib:Tripathy1997_01">°bhayānāsu</rdg>
-                   </app>
+                   </app>-->
                    <app loc="21">
                        <lem>-sañcitārtheya-deyārthāḥ kāś cāṭa-bha<unclear>ṭa</unclear>-dāsayituṁ nadi°</lem>
                        <rdg source="bib:Srinivasan1972_01"><gap reason="illegible" unit="character" extent="unknown"/><unclear>ād</unclear>i°</rdg>
@@ -513,10 +524,10 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <rdg source="bib:Srinivasan1972_01"><gap reason="illegible" unit="character" extent="unknown"/></rdg>
                        <rdg source="bib:Tripathy1997_01">°nyāsaḥ</rdg>
                    </app>
-                   <app loc="22">
+                  <!-- <app loc="22">
                        <lem source="bib:Srinivasan1972_01">-prayojana-prata-</lem>
                        <rdg source="bib:Tripathy1997_01">-prayojane<choice><sic>pra</sic><corr>pye</corr></choice>ta-</rdg>
-                   </app>
+                   </app>-->
                    <app loc="22">
                        <lem>vā</lem>
                        <rdg source="bib:Srinivasan1972_01"><gap reason="illegible" unit="character" extent="unknown"/></rdg>
@@ -570,19 +581,19 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <rdg source="bib:Srinivasan1972_01"><gap reason="illegible" unit="character" extent="unknown"/></rdg>
                        <rdg source="bib:Tripathy1997_01">-vīthi-</rdg>
                    </app>
-                   <app loc="24">
+                  <!-- <app loc="24">
                        <lem source="bib:Srinivasan1972_01">-vyāvahāri-</lem>
                        <rdg source="bib:Tripathy1997_01">-vyavahāri-</rdg>
-                   </app>
+                   </app>-->
                    <app loc="26">
                        <lem>-<gap reason="illegible" unit="character" quantity="2"/><unclear>svāmi-mahatta</unclear>ra-</lem>
                        <rdg source="bib:Srinivasan1972_01">-<gap reason="illegible" unit="character" extent="unknown"/></rdg>
                        <rdg source="bib:Tripathy1997_01">-<gap reason="illegible" unit="character" extent="unknown"/>-mahattara-</rdg>
                    </app>
-                   <app loc="26">
+                   <!--<app loc="26">
                        <lem source="bib:Srinivasan1972_01">-mahattarendrasvāmi-</lem>
                        <rdg source="bib:Tripathy1997_01">-mahattarendusvāmi-</rdg>
-                   </app>
+                   </app>-->
                    <app loc="27">
                        <lem>-tanr̥ka-</lem>
                        <rdg source="bib:Srinivasan1972_01 bib:Tripathy1997_01">-tanuka-</rdg>
@@ -635,10 +646,10 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <rdg source="bib:Srinivasan1972_01">-<unclear>ta</unclear>varāta-</rdg>
                        <rdg source="bib:Tripathy1997_01">°ta-varāta-</rdg>
                    </app>
-                   <app loc="28">
+                  <!-- <app loc="28">
                        <lem source="bib:Srinivasan1972_01">-vantokaś</lem>
                        <rdg source="bib:Tripathy1997_01">-vantīkaś</rdg>
-                   </app>
+                   </app>-->
                    <app loc="28">
                        <lem>-pusta<surplus>sta</surplus><unclear>pāla</unclear>-</lem>
                        <rdg source="bib:Srinivasan1972_01">-pu<unclear>stapāla</unclear>-</rdg>
@@ -649,27 +660,27 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <rdg source="bib:Srinivasan1972_01">-prabhave<unclear>ṣṭa</unclear>bhiḥ</rdg>
                        <rdg source="bib:Tripathy1997_01">-prabhaveṣṭabhiḥ</rdg>
                    </app>
-                   <app loc="29">
+                  <!-- <app loc="29">
                        <lem source="bib:Srinivasan1972_01">vikrītena</lem>
                        <rdg source="bib:Tripathy1997_01">vikritena</rdg>
-                   </app>
+                   </app>-->
                    <app loc="29">
                        <lem>niṣpa<choice><sic>tt</sic><corr>nn</corr></choice>aḥ</lem>
                        <rdg source="bib:Srinivasan1972_01 bib:Tripathy1997_01">niṣpannaḥ</rdg>
                    </app>
-                   <app loc="29">
+                   <!--<app loc="29">
                        <lem source="bib:Srinivasan1972_01">da<choice><sic>kṣa</sic><corr>kṣi</corr></choice>ṇā<choice><sic>ya</sic><corr>yāṁ</corr></choice></lem>
                        <rdg source="bib:Tripathy1997_01">da<choice><sic>kṣa</sic><corr>kṣi</corr></choice>ṇā<choice><sic>ya</sic><corr>yā</corr></choice></rdg>
-                   </app>
+                   </app>-->
                    <app loc="29">
                        <lem>śrī-</lem>
                        <rdg source="bib:Srinivasan1972_01"><gap reason="illegible" unit="character" extent="unknown"/></rdg>
                        <rdg source="bib:Tripathy1997_01">dhi-</rdg>
                    </app>
-                   <app loc="30">
+                  <!-- <app loc="30">
                        <lem source="bib:Srinivasan1972_01">-bhārolāṅgalā-</lem>
                        <rdg source="bib:Tripathy1997_01">-bhārolāṅgolā-</rdg>
-                   </app>
+                   </app>-->
                    <app loc="30">
                        <lem>-khaghāś</lem>
                        <rdg source="bib:Srinivasan1972_01">-<gap reason="illegible" unit="character" extent="unknown"/>ś</rdg>
@@ -745,10 +756,10 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <rdg source="bib:Srinivasan1972_01">ganara-</rdg>
                        <rdg source="bib:Tripathy1997_01">grāma-</rdg>
                    </app>
-                   <app loc="38">
+                  <!-- <app loc="38">
                        <lem source="bib:Srinivasan1972_01">-likhitako</lem>
                        <rdg source="bib:Tripathy1997_01">-likhitaṁ yad-</rdg>
-                   </app>
+                   </app>-->
                    <app loc="38">
                        <lem>-gauravā<unclear>t</unclear></lem>
                        <rdg source="bib:Srinivasan1972_01">-gauravā<supplied reason="lost">t</supplied></rdg>
@@ -764,14 +775,20 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <rdg source="bib:Srinivasan1972_01"><gap reason="illegible" unit="character" extent="unknown"/></rdg>
                        <rdg source="bib:Tripathy1997_01">tato <unclear>hi</unclear></rdg>
                    </app>
-                   <app loc="39">
+                  <!-- <app loc="39">
                        <lem source="bib:Srinivasan1972_01">Asmāś</lem>
                        <rdg source="bib:Tripathy1997_01">sasmāś</rdg>
-                   </app>
+                   </app>-->
                    <app loc="39">
                        <lem>yo ’sma<choice><sic>k</sic><corr>t</corr></choice>-kulyo</lem>
                        <rdg source="bib:Srinivasan1972_01">yo ’sma<choice><sic>k-krū</sic><corr>t-ku</corr></choice>lyo</rdg>
                        <rdg source="bib:Tripathy1997_01">ye ’smat-kulyo°</rdg>
+                   </app>
+                   <app loc="39">
+                       <lem>-saṁyukta<supplied reason="omitted">s</supplied></lem>
+                       <rdg source="bib:Srinivasan1972_01">-sa<supplied reason="lost">ṁ</supplied>yukta<supplied reason="omitted">s</supplied></rdg>
+                       <rdg source="bib:Tripathy1997_01">-saṁyukta<supplied reason="omitted">ḥ</supplied></rdg>
+                       <note>Here I follow the emendation made by <bibl><ptr target="bib:Srinivasan1972_01"/></bibl> and restore a final -<foreign>s</foreign> in accordance of the sandhi rules observed in this plate. Indeed, in this plate, when a final -<foreign>aḥ</foreign> meets a word begining with <foreign>s</foreign>-m the visarga is replaced by a <foreign>s</foreign>-, see for example in line 13 <foreign>vas samviditaṁ</foreign> and other occurrences of this sandhi in lines 20, 25, 34, 41 and 42.</note>
                    </app>
                    <app loc="39">
                        <lem>eva</lem>
@@ -805,9 +822,11 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                    </app>
                    <app loc="44">
                        <lem>gr̥hītyaś</lem>
-                       <rdg source="bib:Srinivasan1972_01 bib:Tripathy1997_01">gr̥hītuś</rdg>
+                       <rdg source="bib:Srinivasan1972_01 bib:Tripathy1997_01">gr̥hītuś</rdg><!-- 
+                       amwb : here I think we need a long a gr̥hītyāś in order to have an ablative/genitive singular
+                       -->
                    </app>
-                   <app loc="44">
+                   <!--<app loc="44">
                        <lem source="bib:Srinivasan1972_01">punā<choice><sic>my</sic><corr>ty</corr></choice></lem>
                        <rdg source="bib:Tripathy1997_01">punomy</rdg>
                    </app>
@@ -818,15 +837,15 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                    <app loc="45">
                        <lem source="bib:Srinivasan1972_01">Ā-janman ā-sahasreṣu</lem>
                        <rdg source="bib:Tripathy1997_01">Ā-janmani sahasre<choice><sic>s</sic><corr>ṣ</corr></choice>u</rdg>
-                   </app>
+                   </app>-->
                    <app loc="45">
                        <lem>śuddhy<choice><sic>o</sic><corr>a</corr></choice>ti</lem>
                        <rdg source="bib:Srinivasan1972_01 bib:Tripathy1997_01">śuddhyati</rdg>
                    </app>
-                   <app loc="46">
+                   <!--<app loc="46">
                        <lem source="bib:Srinivasan1972_01">-dātā</lem>
                        <rdg source="bib:Tripathy1997_01">-dānaṁ</rdg>
-                   </app>
+                   </app>-->
                    <app loc="46">
                        <lem>yyuktayā</lem>
                        <rdg source="bib:Srinivasan1972_01 bib:Tripathy1997_01">yyunuyā</rdg>
@@ -836,10 +855,10 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
                        <rdg source="bib:Srinivasan1972_01"><gap reason="illegible" unit="character" extent="unknown"/></rdg>
                        <rdg source="bib:Tripathy1997_01">mā<gap reason="illegible" unit="character" quantity="3"/>marloha°</rdg>
                    </app>
-                   <app loc="48">
+                  <!-- <app loc="48">
                        <lem source="bib:Srinivasan1972_01">-<choice><sic>y</sic><corr>ph</corr></choice>alāṇi</lem>
                        <rdg source="bib:Tripathy1997_01">-phalāṇi</rdg>
-                   </app>
+                   </app>-->
                    <app loc="50">
                        <lem><abbr>phālgu</abbr></lem>
                        <rdg source="bib:Srinivasan1972_01">ph<choice><sic>o</sic><corr>ā</corr></choice>lguṇa</rdg>
@@ -849,13 +868,49 @@ Iti <choice><sic>etanya</sic><corr>etac ca</corr></choice> śāsanaṁ tāpita�
          </div>
          <div type="translation">
  	<!--translation encoded as per EGD §9.2 -->
+             <!-- 
+             amwb : here I insert the translation used in other plates of the bhumi stansas
+             -->
+             <p n="40">And it is well-known in the treatise on Dharma:</p>
+             <p n="1" rend="stanza">The giver of land enjoys sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+             <p n="2" rend="stanza">The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.<note>
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+             <p n="3" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.<note>
+				 This verse corresponds to the verse numbered 131 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+			</note>
+				</p>
+             <p n="4" rend="stanza">Land has been given by several kings beginning with Sagara. Whoever holds land at a given time, to him does the fruit belong.<note>
+                    This verse corresponds to the verse numbered 23 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+             <p n="5" rend="stanza">The Fathers are agitating and the Grand-Fathers are bounding <supplied reason="subaudible">when they can say</supplied> <q>A giver of land is born within our lineage, sure, he will deliver us!</q>.<note>
+                    This verse corresponds to the verse numbered 20 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, except for the final verb in the <foreign>pāda</foreign> d. 
+                </note> </p>
+             <p n="6" rend="stanza">The Ādityas, the Vasus, the Rudras, Soma, Viṣṇu, Hutāśana <supplied reason="explanation">Agni</supplied> and the lord Daṇḍapāṇi <supplied reason="explanation">Yama</supplied> approve a giver of land.<note>
+                    This verse is almost the same as the verse numbered 20 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note> </p>
+             <p n="7" rend="stanza">If a virtuous wife with qualities makes a gift to someone whose blood is well-known and the one who applies it, by this perception, I purify both hundred times.<note>
+                 The text of this verse is very uncertain and I didn’t find any occurrence of it. So here it is just an attempt of translation which needs to be improved.
+             </note></p>
+             <p n="8" rend="stanza">The man who have committed sins since his <supplied reason="explanation">first</supplied> birth <supplied reason="subaudible">and</supplied> for the next thousand <supplied reason="explanation">births</supplied>, is purified by a gift of land, even measuring the size of a <foreign>gocarman</foreign> <supplied reason="explanation">literally a cow’s skin, here it is a unit of measurement</supplied>.<note>
+                    This verse corresponds to the verse numbered 159 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>m except for the two first <foreign>pāda</foreign>s. 
+                </note> </p>
+             <p n="9" rend="stanza">Where a triad of one bull, one hundred of milk cows with their calves firmly stands, this is called a <foreign>gocarman</foreign>.<note>
+                 The translation is based on the meaning given by <bibl><ptr target="bib:MonierWilliams1872_01"/><citedRange unit="page">364</citedRange></bibl>, which seems to be found on the <title>Gr̥hyasūtra</title>. For the moment, I didn’t find any occurrence of this verse.
+             </note></p>
+             <p n="10" rend="stanza">No translation available for the moment.<note>No parallel found. The state of preservation of this verse doesn’t permit an appropriate translation.</note></p>
+             <p n="11" rend="stanza">No translation available for the moment.</p>
+             <p n="12" rend="stanza">No translation available for the moment.</p>
+             <p n="13" rend="stanza">No translation available for the moment.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>According to <bibl><ptr target="bib:Rajaguru1963_01"/></bibl>, the copperplate has been discovered in 1960 near a mound in the village Jayarāmpur in the Bhogorao sub-division, Balasore District, Orissa. First published by <bibl><ptr target="bib:Rajaguru1963_01"/></bibl>. Re-edited here by Ryosuke Furui, Arlo Griffiths and Amandine Wattelier-Bricout based on photos of the plate furnished by Ryosuke Furui. The text has been encoded by Amandine Wattelier-Bricout using a draft edition created by Ryosuke Furui as starting point.</p>
         	<listBibl type="primary">
         	    <bibl n="R"><ptr target="bib:Rajaguru1963_01"/></bibl>
         	    <bibl n="SDC"><ptr target="bib:Sircar1965_02"/><citedRange unit="page">530-1</citedRange></bibl>
