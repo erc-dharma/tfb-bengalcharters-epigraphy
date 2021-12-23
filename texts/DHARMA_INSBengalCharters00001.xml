@@ -92,6 +92,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change when="2021-12-23" who="part:amwb">Added the translation of the quoted verses</change>
             <change when="2021-10-14" who="part:amwb">Encoding the apparatus part by comparing Daniel's edition with the five previous editions and the plate.</change>
             <change when="2021-10-11" who="part:amwb">Creation of the file according to the template version 03 by copying parts from file prepared by Dániel Balogh.</change>
         </revisionDesc>
@@ -161,7 +162,7 @@ n="14"/>pūrva-dattāṁ dvijātibhyo</l>
 daba : pūrva sic (not rvv) in all editions; Bhattacharyya actually has purva. 
 --></l>
     <l n="c">mahīṁ mahimatāṁ śreṣtha</l>
-    <l n="d">dānā<sic>t ś</sic>reyo 'nupālanaṁ<!-- 
+    <l n="d">dānā<choice><sic>t ś</sic><corr>c ch</corr></choice>reyo 'nupālanaṁ<!-- 
 daba : dānāt śreyo apparently with a tśr ligature? Bhattacharyya talks about halanta consonants in his introduction and does not mention this line. 
 --></l>
     </lg>
@@ -269,9 +270,9 @@ daba : Bhattacharyya reads the month as possya; Sircar and Agrawala as poṣṣa
                        -->
                    </app>
                    <app loc="14">
-                       <lem source="bib:Balogh+al2019_01">dānā<sic>t ś</sic>reyo</lem>
+                       <lem source="bib:Sircar1965_02 bib:Agrawala1983_02">dānā<choice><sic>t ś</sic><corr>c ch</corr></choice>reyo</lem>
+                       <rdg source="bib:Balogh+al2019_01">dānā<sic>t ś</sic>reyo</rdg>
                        <rdg source="bib:Bhattacharyya1930_01 bib:Goyal1993_01">dānāt śreyo</rdg>
-                       <rdg source="bib:Sircar1965_02 bib:Agrawala1983_02">dānā<choice><sic>t ś</sic><corr>c ch</corr></choice>reyo</rdg>
                    </app>
                    <app loc="14">
                        <lem source="bib:Bhattacharyya1930_01 bib:Agrawala1983_02 bib:Balogh+al2019_01">varttamānāṣṭāśīty-u°</lem>
@@ -307,6 +308,16 @@ daba : Bhattacharyya reads the month as possya; Sircar and Agrawala as poṣṣa
          </div>
          <div type="translation">
  	<!--translation encoded as per EGD §9.2 -->
+             <p  n="1" rend="stanza">The giver of land enjoys sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+             <p n="2" rend="stanza">The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.<note>
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+             <p n="3" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.<note>
+				 This verse corresponds to the verse numbered 131 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+			</note>
+				</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->

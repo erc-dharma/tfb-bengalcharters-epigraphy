@@ -78,6 +78,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change when="2021-12-23" who="part:amwb">Added the translation of the quoted verses</change>
             <change when="2021-09-20" who="part:amwb">Start of the encoding of the apparatus with two previous editions (ie. Srinivasan1972_01 and Tripathy1997_01) and Furui's readings.</change>
            <change when="2021-09-16" who="part:amwb" status="draft">Start of the encoding with the document transmitted by Ryosuke Furui</change>
         </revisionDesc>
@@ -105,10 +106,10 @@ n="13" break="no"/>-sāmudāyika-grāma-vāṭakebhyo mahāmahattara-mahattara-p
 n="14"/>vayaṁ śrī-mahāsāmanta-mahārājācyutena yuṣmad-vīthyāṁ sādhubhir anekair ācandrārkka-kālīna-tāmra-paṭṭa-paṭa-śāsana-sthityā satā-mūlyena<lb
 n="15"/>grāma-kṣettra-vāstūni yuṣmaT<!--
 amwb : here Ryosuke noted t(·), I don't know what it means. Maybe he wants to indicate a virama? 
---> krītv<choice><sic>a</sic><corr>ā</corr></choice>kr̥tvā<!-- 
-amwb : here I added a choice sic corr ; the three editions have krītvakr̥tvā with a short a but it seems impossible for me
+--> krītv<sic>a</sic>kr̥tvā<!-- 
+amwb : here I added  sic ; the three editions have krītvakr̥tvā with a short a but it seems impossible for me ; in apparatus I suggest some possibilities without certainty
 --> deva-dvija-maṭha-vihārāvasathebhyo 'tisr̥ṣṭhā<choice><sic>t</sic><corr>n</corr></choice>y atisr̥jyamānāni <unclear>ta</unclear>th<unclear>ai</unclear>va samyak prati<lb
-n="16"/>pālyamānā<choice><sic>ny e</sic><corr>nī</corr></choice>ti samīkṣya ma<unclear>hati ca</unclear> saṁsārārṇṇave sarvva-prāṇināṃ jala-budbudāvaśyāya-preṣita-gaja-kal<choice><sic>ā</sic><corr>a</corr></choice>bha-kaṇṭhāgra-bhujaga-jihva-taḍi<lb
+n="16"/>pālyamānā<choice><sic>ny eti</sic><corr>nīti</corr></choice> samīkṣya ma<unclear>hati ca</unclear> saṁsārārṇṇave sarvva-prāṇināṃ jala-budbudāvaśyāya-preṣita-gaja-kal<choice><sic>ā</sic><corr>a</corr></choice>bha-kaṇṭhāgra-bhujaga-jihva-taḍi<lb
 n="17" break="no"/>t-sampāta-capalāni jīvitā<supplied reason="lost">ni</supplied> tyāja<unclear>vañ ca vi</unclear>bhāva<unclear>ñ ca</unclear> dr̥ṣtvā mamāpi dharmma-n<unclear>i</unclear>mittam utsāho jāta so 'ham i<unclear>cche</unclear> ratna-caityodbhava-khyāpitāśeṣa-ttri-bhuvana-pratāpa<lb
 n="18" break="no"/>-māhātmyātiśaya-bhagavad-āryyāvalokiteśvarāddhyāsita-śrī-vodhipadraka-mahāvihāre vihāra-karaṇāya tasmiṁś ca vali-caru-gandha-puṣpa-pradīpā<lb 
 n="19" break="no"/>di-kriyā-pravarttanāyāryya-saṁghāya ca yathākālaṁ <unclear>cī</unclear>va<unclear>ra</unclear>-piṇḍapāta-śayanāsana-glāna-pratyaya-bhaiṣajya-pariṣkārāyātis<choice><sic>ra</sic><corr>r̥</corr></choice>ṣṭuṁ tad arhatha<lb
@@ -134,8 +135,8 @@ n="35" break="no"/>-salila-kali-kalu<choice><sic>s</sic><corr>ṣ</corr></choice
 n="36" break="no"/>ta<supplied reason="lost">ḥ</supplied> sr̥gālapadrikā-nāmoddeśaḥ tato py uttarataḥ gr̥hādhi<unclear>ṣṭha</unclear>kādityadāsasya vr̥tti-kṣettra<foreign>M</foreign> yāvaT<g type="ddanda">.</g> tato 'pi bhagavato goveśvarasya maṇḍala-kṣettra<unclear>ṁ</unclear> <lb
 n="37"/>pūrvvottarasyāṁ diśi vaṭa-vr̥kṣa-cchara-pota-dvayam <choice><sic>ā</sic><corr>a</corr></choice>nte pūrvvasyā<unclear>ṁ</unclear> dig-bhāge <unclear>vana</unclear>ra-puṣkiraṇyaḥ pūrvādir <choice><sic>ī</sic><corr>i</corr></choice>ti<supplied reason="subaudible">.</supplied> tad etad uddeśa-samudayañ ca pra<choice><sic>vi</sic><corr>ti</corr></choice>vibhajya ya<lb
 n="38" break="no"/>thā śarīram asmābhir voḍhavyaṁ tad yuṣmābhir api yathopari-likhitako dharmma-gauravā<unclear>t</unclear> viṣayādhikaraṇaṁ vijñāpyānya-pratipālanānugrahaparair tato <unclear>tasya</unclear><lb 
-n="39"/>Asmāś ca bhūmi-dāne yo 'sma<choice><sic>k</sic><corr>t</corr></choice>-kulyo 'nyatamo vā <unclear>rā</unclear>ga-dve<unclear>ṣa-lobha</unclear>-moha-prerito 'nyathā kuryyāt sa pañca-mahāpātakopapātakādi-saṁyukta<!-- 
-amwb : here the two previous editors suggested a sandhi omission and emended either a visarga (Tripathy) or a -s (Srinivasan) at the end of the word saṁyukta ; Maybe follow one of their suggestion?
+n="39"/>Asmāś ca bhūmi-dāne yo 'sma<choice><sic>k</sic><corr>t</corr></choice>-kulyo 'nyatamo vā <unclear>rā</unclear>ga-dve<unclear>ṣa-lobha</unclear>-moha-prerito 'nyathā kuryyāt sa pañca-mahāpātakopapātakādi-saṁyukta<supplied reason="omitted">s</supplied><!-- 
+amwb : here the two previous editors suggested a sandhi omission and emended either a visarga (Tripathy) or a -s (Srinivasan) at the end of the word saṁyukta ; Maybe follow one of their suggestion. After observation of the sandhi rules within this plate, I suggest following Srinivasan's emendation, see apparatus 
 --> syād eva<lb 
 n="40"/>cānuśrūyate dharmma-ś<choice><sic>a</sic><corr>ā</corr></choice>stre<g type="ddanda">.</g></p>
 <lg n="1" met="anuṣṭubh">
@@ -181,7 +182,9 @@ n="44"/>daṇḍapāṇiś ca bhagavān</l>
 <lg n="7" met="">
              <l n="ab">bhūmy-u<unclear>pāsāyā</unclear>m āśr<choice><sic>ū</sic><corr>u</corr></choice>ta-rasyāya dadyāt sasyavatī sa<unclear>tī</unclear></l>
              <l n="cd">sa cāvaddhate gr̥hītyaś ca punā<choice><sic>my</sic><corr>ty</corr></choice> ubhayata<unclear>ḥ</unclear><lb
-n="45"/>śataṁ<g type="ddanda">.</g></l>
+n="45"/>śataṁ<g type="ddanda">.</g></l><!-- 
+amwb : there are some problems in this verse I made an attempt of translation but we need make some emendations
+-->
 </lg>
 <lg n="8" met="anuṣṭubh">
              <l n="a">Ā-janman ā-sahasreṣu</l>
@@ -449,9 +452,12 @@ n="9" break="no"/>bhir-viśrāmo°</rdg>
                        <rdg source="bib:Tripathy1997_01">'bhisr̥ṣṭātyati°</rdg>
                    </app>-->
                    <app loc="15">
-                       <lem>krītv<choice><sic>a</sic><corr>ā</corr></choice>kr̥tvā</lem>
-                       <rdg source="bib:Srinivasan1972_01"><unclear>krītva-kr̥tvā</unclear></rdg>
-                       <rdg source="bib:Tripathy1997_01"></rdg>
+                       <lem>krītv<sic>a</sic>kr̥tvā</lem>
+                       <rdg source="bib:Srinivasan1972_01 bib:Tripathy1997_01"><unclear>krītva-kr̥tvā</unclear></rdg>
+                       <note>Here it seems to have a problem in the text. The expression <foreign>krītva-kr̥tvā</foreign> seems impossible. Several possibilities of emandation can be suggested : a juxtaposition of two absolutives <foreign>krītvā kr̥tvā</foreign>, a scribal error with a repetition in which one of the two absolutives would be superfluous, an attempt of correction made by the scribe in order to change <foreign>krītvā</foreign> into <foreign>kr̥tvā</foreign>. As <foreign>yuṣmaT</foreign> precedes, I would conserve the absolutive <foreign>krītvā</foreign>.</note><!-- 
+                       amwb : I added this note and indicated by a sic that there is here a problem to solve
+                       -->
+                     
                    </app>
                    <app loc="15">
                        <lem><unclear>ta</unclear>th<unclear>ai</unclear>va</lem>
@@ -459,7 +465,7 @@ n="9" break="no"/>bhir-viśrāmo°</rdg>
                        <rdg source="bib:Tripathy1997_01">vithaiva</rdg>
                    </app>
                    <app loc="16">
-                       <lem>pālyamānā<choice><sic>ny e</sic><corr>nī</corr></choice>ti</lem>
+                       <lem>pālyamānā<choice><sic>ny eti</sic><corr>nīti</corr></choice></lem>
                        <rdg source="bib:Srinivasan1972_01">pālyamānānīti</rdg>
                        <rdg source="bib:Tripathy1997_01">pālyamānānyeti</rdg>
                    </app>
@@ -830,6 +836,12 @@ n="9" break="no"/>bhir-viśrāmo°</rdg>
                        <rdg source="bib:Tripathy1997_01">ye 'smat-kulyo°</rdg>
                    </app>
                    <app loc="39">
+                       <lem>-saṁyukta<supplied reason="omitted">s</supplied></lem>
+                       <rdg source="bib:Srinivasan1972_01">-sa<supplied reason="lost">ṁ</supplied>yukta<supplied reason="omitted">s</supplied></rdg>
+                       <rdg source="bib:Tripathy1997_01">-saṁyukta<supplied reason="omitted">ḥ</supplied></rdg>
+                       <note>Here I follow the emendation made by <bibl><ptr target="bib:Srinivasan1972_01"/></bibl> and restore a final -<foreign>s</foreign> in accordance of the sandhi rules observed in this plate. Indeed, in this plate, when a final -<foreign>aḥ</foreign> meets a word begining with <foreign>s</foreign>-m the visarga is replaced by a <foreign>s</foreign>-, see for example in line 13 <foreign>vas samviditaṁ</foreign> and other occurrences of this sandhi in lines 20, 25, 34, 41 and 42.</note>
+                   </app>
+                   <app loc="39">
                        <lem>eva</lem>
                        <rdg source="bib:Srinivasan1972_01"><unclear>iti</unclear></rdg>
                        <rdg source="bib:Tripathy1997_01"><unclear>api</unclear></rdg>
@@ -861,7 +873,9 @@ n="9" break="no"/>bhir-viśrāmo°</rdg>
                    </app>
                    <app loc="44">
                        <lem>gr̥hītyaś</lem>
-                       <rdg source="bib:Srinivasan1972_01 bib:Tripathy1997_01">gr̥hītuś</rdg>
+                       <rdg source="bib:Srinivasan1972_01 bib:Tripathy1997_01">gr̥hītuś</rdg><!-- 
+                       amwb : here I think we need a long a gr̥hītyāś in order to have an ablative/genitive singular
+                       -->
                    </app>
                    <!--<app loc="44">
                        <lem source="bib:Srinivasan1972_01">punā<choice><sic>my</sic><corr>ty</corr></choice></lem>
@@ -905,6 +919,42 @@ n="9" break="no"/>bhir-viśrāmo°</rdg>
          </div>
          <div type="translation">
  	<!--translation encoded as per EGD §9.2 -->
+             <!-- 
+             amwb : here I insert the translation used in other plates of the bhumi stansas
+             -->
+             <p n="40">And it is well-known in the treatise on Dharma:</p>
+             <p  n="1" rend="stanza">The giver of land enjoys sixty thousand years in heaven; the one who challenges <supplied reason="subaudible">a donation</supplied> as well as the one who approves <supplied reason="subaudible">of the challenge</supplied> will reside as many <supplied reason="subaudible">years</supplied> in hell.<note>
+                    This verse corresponds to the verse numbered 123 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+             <p n="2" rend="stanza">The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.<note>
+                    This verse corresponds to the verse numbered 132 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+             <p n="3" rend="stanza">You, Yudhiṣṭhira, most excellent of kings, must strenuously protect land previously given to brahmins. Safeguarding is even better than giving.<note>
+				 This verse corresponds to the verse numbered 131 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>.
+			</note>
+				</p>
+             <p n="4" rend="stanza">Land has been given by several kings beginning with Sagara. Whoever holds land at a given time, to him does the fruit belong.<note>
+                    This verse corresponds to the verse numbered 23 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note></p>
+             <p  n="5" rend="stanza">The Fathers are agitating and the Grand-Fathers are bounding <supplied reason="subaudible">when they can say</supplied> <q>A giver of land is born within our lineage, sure, he will deliver us !</q>.<note>
+                    This verse corresponds to the verse numbered 20 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>, except for the final verb in the <foreign>pāda</foreign> d. 
+                </note> </p>
+             <p  n="6" rend="stanza">The Ādityas, the Vasus, the Rudras, Soma, Viṣṇu, Hutāśana <supplied reason="explanation">Agni</supplied> and the lord Daṇḍapāṇi <supplied reason="explanation">Yama</supplied> approve a giver of land.<note>
+                    This verse is almost the same as the verse numbered 20 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>. 
+                </note> </p>
+             <p n="7" rend="stanza">If a virtuous wife with qualities makes a gift to someone whose blood is well-known and the one who applies it, by this perception, I purify both hundred times.<note>
+                 The text of this verse is very uncertain and I didn't find any occurrence of it. So here it is just an attempt of translation which needs to be improved.
+             </note></p>
+             <p  n="8" rend="stanza">The man who have committed sins since his <supplied reason="explanation">first</supplied> birth <supplied reason="subaudible">and</supplied> for the next thousand <supplied reason="explanation">births</supplied>, is purified by a gift of land, even measuring the size of a <foreign>gocarman</foreign> <supplied reason="explanation">literally a cow's skin, here it is a unit of measurement</supplied>.<note>
+                    This verse corresponds to the verse numbered 159 among the Stanzas on Bhūmidāna listed by Sircar <supplied reason="explanation">see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="page">170-200</citedRange></bibl></supplied>m except for the two first <foreign>pāda</foreign>s. 
+                </note> </p>
+             <p n="9" rend="stanza">Where a triad of one bull, one hundred of milk cows with their calves firmly stands, this is called a <foreign>gocarman</foreign>.<note>
+                 The translation is based on the meaning given by <bibl><ptr target="bib:MonierWilliams1872_01"/><citedRange unit="page">364</citedRange></bibl>, which seems to be found on the <title>Gr̥hyasūtra</title>. For the moment, I didn't find any occurrence of this verse.
+             </note></p>
+             <p n="10" rend="stanza">No translation available for the moment.<note>No parallel found. The state of preservation of this verse doesn't permit an appropriate translation.</note></p>
+             <p n="11" rend="stanza">No translation available for the moment.</p>
+             <p n="12" rend="stanza">No translation available for the moment.</p>
+             <p n="13" rend="stanza">No translation available for the moment.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
