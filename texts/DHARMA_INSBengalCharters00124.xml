@@ -5,79 +5,80 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Vappaghosavata Grant of the time of Jayanāga</title>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:argr">
-                        <forename>Arlo</forename>
-                        <surname>Griffiths</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <persName ref="part:argr">
-                    	<forename>Arlo</forename>
-                    	<surname>Griffiths</surname>
-                    </persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <authority>DHARMA</authority>
-                <pubPlace>Lyon</pubPlace>
-            	<idno type="filename">DHARMA_INSBengalCharters00124</idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-                            Licence. To view a copy of the licence, visit
-                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
-                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-                            California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/><!-- don't modify this -->
-                    </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                        	<p>An ornamental -ti is used to indicate clause end in lines 4, 7, 13. Barnett (<bibl rend="omitname"><ptr target="bib:Barnett1925-1926_01"/><citedRange>61</citedRange></bibl>) interprets these as actually containing a punctuation sign, but since the same shape is rather often followed in manuscripts and inscriptions by an explicit punctuation sign, I believe it only implies one.
-<!-- Nepalese Sarvatathāgatatattvasaṁgraha ms.; Arakan inscriptions; the inscription ciyted by Barnett -->
-<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-            </projectDesc>
-            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
-            <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-                </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-                </prefixDef>
-            </listPrefixDef>
-        </encodingDesc>
-        <revisionDesc>
-        	<change when="2021-12-21" who="part:argr">created the file and started encoding the edition.</change>
-        </revisionDesc>
-    </teiHeader>
-    <text xml:space="preserve">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vappaghosavata Grant of the time of Jayanāga</title>
+				<respStmt>
+					<resp>EpiDoc Encoding</resp>
+					<persName ref="part:argr">
+						<forename>Arlo</forename>
+						<surname>Griffiths</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:argr">
+						<forename>Arlo</forename>
+						<surname>Griffiths</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Lyon</pubPlace>
+				<idno type="filename">DHARMA_INSBengalCharters00124</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- only the handDesc can be filled in at this stage -->
+				<msDesc>
+					<!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+						<!-- don't modify this -->
+					</msIdentifier>
+					<msContents>
+						<!-- describe the intellectual content of an inscription -->
+						<summary><!-- //// NOT MANDATORY  ////--></summary>
+						<!-- offers the possibility to give a summary of the inscription's content -->
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>An ornamental -ti is used to indicate clause end in lines 4, 7, 13. Barnett (<bibl rend="omitname"><ptr target="bib:Barnett1925-1926_01"/><citedRange>61</citedRange></bibl>) interprets these as actually containing a punctuation sign, but since the same shape is rather often followed in manuscripts and inscriptions by an explicit punctuation sign, I believe it only implies one. <!-- Nepalese Sarvatathāgatatattvasaṁgraha ms.; Arakan inscriptions; the inscription ciyted by Barnett -->
+								<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<!-- UPDATE the link once the release is made official -->
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change when="2021-12-21" who="part:argr">created the file and started encoding the edition.</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
 <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
@@ -85,18 +86,9 @@
  </div>
  <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
 <p>
-<lb n="1"/><g type="spiralR"/> svasti karṇṇa<unclear>s</unclear>uvarṇṇakāvasthitasya mahārājādhirāja<surplus>ḥ</surplus><space/>-parama-bhāgavata<lb n="2" break="no"/>-śrī-jayanāga-<unclear>d</unclear>evasya <gap reason="illegible" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ī</seg><gap reason="illegible" quantity="1" unit="character"/><unclear>bh</unclear>yudaya-sāmbatsare tat-pādānuddhyāta-śrī-sāmanta<lb 
-n="3" break="no"/>nārāyaṇabhadrasy<unclear>au</unclear>dumvarīka-<unclear>viṣa</unclear>ya-sambhogakāle ca <supplied reason="omitted">ta</supplied>d-vyavahāri-mahāpratihāra-sū<seg type="component" subtype="body">r</seg>ya<lb n="4" break="no"/>sene vyavaharati<supplied reason="omitted"><g type="danda">.</g></supplied> tad asyājñā śrī-sāmanta-pādaiḥ pradattāḥ kāśyapa-sagottrāya chā<lb n="5" break="no"/>ndoga-savrahmacāriṇe bhaṭṭa-vrahmavīrasvāmine mayā mātā-pittror ātma<unclear>na</unclear><lb 
-n="6" break="no"/>ś ca puṇyābhivr̥ddhaye vappaghoṣavāṭa-grāma <choice><sic>Ā</sic><corr>A</corr></choice>kṣayaṇī<supplied reason="omitted">vī</supplied>-dharmmaṇā pradattaḥ viṣa<lb 
-n="7" break="no"/>ya-mudrālaṅ-k<choice><orig>ri</orig><reg>r̥</reg></choice>ta-tāmra-śāsanaṁ sīmāghāṭa-paricchinna<supplied reason="omitted">ṁ</supplied> dāsyatheti<supplied reason="omitted"><g type="danda">.</g></supplied> Attra sīmā<lb 
-n="8" break="no"/>liṅgāni yattra paścimasyān diśi kutkuṭagrāmīṇa-vrāhmaṇānāṁ satka-tāmra-paṭṭa<lb 
-n="9" break="no"/>sīmā Utta<unclear>ra</unclear>syāṁ gaṅginikā<g type="dotMid">.</g> pūrvvasyām iyam eva gaṅginikā<g type="dotMid">.</g> tato nissr̥to
+<lb n="1"/><g type="spiralR"/> svasti karṇṇa<unclear>s</unclear>uvarṇṇakāvasthitasya mahārājādhirāja<surplus>ḥ</surplus><space/>-parama-bhāgavata<lb n="2" break="no"/>-śrī-jayanāga-<unclear>d</unclear>evasya <gap reason="illegible" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ī</seg><gap reason="illegible" quantity="1" unit="character"/><unclear>bh</unclear>yudaya-sāmbatsare tat-pādānuddhyāta-śrī-sāmanta<lb n="3" break="no"/>nārāyaṇabhadrasy<unclear>au</unclear>dumvarīka-<unclear>viṣa</unclear>ya-sambhogakāle ca <supplied reason="omitted">ta</supplied>d-vyavahāri-mahāpratihāra-sū<seg type="component" subtype="body">r</seg>ya<lb n="4" break="no"/>sene vyavaharati<supplied reason="omitted"><g type="danda">.</g></supplied> tad asyājñā śrī-sāmanta-pādaiḥ pradattāḥ kāśyapa-sagottrāya chā<lb n="5" break="no"/>ndoga-savrahmacāriṇe bhaṭṭa-vrahmavīrasvāmine mayā mātā-pittror ātma<unclear>na</unclear><lb n="6" break="no"/>ś ca puṇyābhivr̥ddhaye vappaghoṣavāṭa-grāma <choice><sic>Ā</sic><corr>A</corr></choice>kṣayaṇī<supplied reason="omitted">vī</supplied>-dharmmaṇā pradattaḥ viṣa<lb n="7" break="no"/>ya-mudrālaṅ-k<choice><orig>ri</orig><reg>r̥</reg></choice>ta-tāmra-śāsanaṁ sīmāghāṭa-paricchinna<supplied reason="omitted">ṁ</supplied> dāsyatheti<supplied reason="omitted"><g type="danda">.</g></supplied> Attra sīmā<lb n="8" break="no"/>liṅgāni yattra paścimasyān diśi kutkuṭagrāmīṇa-vrāhmaṇānāṁ satka-tāmra-paṭṭa<lb n="9" break="no"/>sīmā Utta<unclear>ra</unclear>syāṁ gaṅginikā<g type="dotMid">.</g> pūrvvasyām iyam eva gaṅginikā<g type="dotMid">.</g> tato nissr̥to
 <lb n="10"/>Āmalapautikagrāma-paścimā-sīmnānugatas sarṣapa-yānakaḥ<g type="dotMid">.</g> tenaiva 
-<lb n="11"/><unclear>t</unclear>ā<unclear>va</unclear>t paricchinno yāvad bhaṭṭonmīlanasvāmi-tāmrapaṭṭa Iti tasmāc ca dakṣiṇa-diṅ-bhāgā<lb 
-n="12" break="no"/>d bhūyas tenaiva simnā Uttarān diśam anuvalamānas tāvad āgato yāva<supplied reason="omitted">d</supplied> bharaṇisvāmi<lb 
-n="13" break="no"/>-tāmrapaṭṭa-sīmeti<supplied reason="omitted"><g type="danda">.</g></supplied> tato ’pi praguṇena bhaṭṭonmīlanasvāmi-tāmrapaṭṭa-sīmni vakhaṭasūmā<lb 
-n="14"/>likādeva-khātam praviśya tāva<supplied reason="omitted">d</supplied> gato yāva<supplied reason="omitted">t</supplied> sa Eva kutkuṭagrāmīṇa-vrāhmaṇasīmeti <del><gap reason="illegible" quantity="3" unit="character"/><lb 
-n="15"/><gap reason="illegible" quantity="1" unit="line"/></del>
+<lb n="11"/><unclear>t</unclear>ā<unclear>va</unclear>t paricchinno yāvad bhaṭṭonmīlanasvāmi-tāmrapaṭṭa Iti tasmāc ca dakṣiṇa-diṅ-bhāgā<lb n="12" break="no"/>d bhūyas tenaiva simnā Uttarān diśam anuvalamānas tāvad āgato yāva<supplied reason="omitted">d</supplied> bharaṇisvāmi<lb n="13" break="no"/>-tāmrapaṭṭa-sīmeti<supplied reason="omitted"><g type="danda">.</g></supplied> tato ’pi praguṇena bhaṭṭonmīlanasvāmi-tāmrapaṭṭa-sīmni vakhaṭasūmā<lb n="14"/>likādeva-khātam praviśya tāva<supplied reason="omitted">d</supplied> gato yāva<supplied reason="omitted">t</supplied> sa Eva kutkuṭagrāmīṇa-vrāhmaṇasīmeti <del><gap reason="illegible" quantity="3" unit="character"/><lb n="15"/><gap reason="illegible" quantity="1" unit="line"/></del>
 </p>
  </div>
          </div>
@@ -113,7 +105,7 @@ n="15"/><gap reason="illegible" quantity="1" unit="line"/></del>
                <listApp>
 	<app loc="2">
                      <lem source="bib:Barnett1925-1926_01"><gap reason="illegible" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ī</seg><gap reason="illegible" quantity="1" unit="character"/><unclear>bh</unclear>yudaya-</lem>
-                     <note>None of the restitutions I have considered — <foreign>tr̥tīyābhyudaya-</foreign>, <foreign>tadīyābhyudaya</foreign></note>
+                     <note>None of the restitutions I have considered — <foreign>tr̥tīyābhyudaya-</foreign>, <foreign>tadīyābhyudaya</foreign> — can be made with certainty. It is possible that there was no number (in which case <q>first</q> is to be understood), and that the damaged word qualified <foreign>abhyudaya</foreign>, not <foreign>sāmvatsara</foreign>.</note>
 <!-- 
 daba: "1. I'm very hesitant about tṛtīya/dvitīya in line 2. It seems pretty certain that there was no i on the first obliterated character, so I think dvi can be ruled out. But with the ī of rī below, I also can't quite see where the ṛ of tṛ might have been placed. However, what's left of this first character does suggest the consonant t. And the third obliterated character seems to have been pretty wide, and may well have had a subscript y. Perhaps yyā rather than yā? Do you think svakīyyā° may be possible? (Though sva is also a bit problematic because of the presence of ī below.) Or svādhīnyā°? Or svavīryyā°? I can't think of anything plausible without an initial sva, it seems :) At any rate, I think that in addition to tṛtīyyā (or tṛtīyā), which I can't rule out, it's possible that there was no number (so "first" is to be understood), and the damaged word qualified abhyudaya, not sāmvatsara."
  -->
@@ -129,6 +121,10 @@ daba: "1. I'm very hesitant about tṛtīya/dvitīya in line 2. It seems pretty 
                   </app>
                </listApp>
 </div>
+         </div>
+	<div type="translation" resp="part:argr">
+ <p n="1-7">Hail! In the year of the rise ... of the Great Emperor, the supreme worshipper of the Lord, the fortunate king Jayanāga, when he is resident at Karṇasuvarṇaka, at the time that the Baron Nārāyaṇabhadra, who meditates upon his feet, is in the enjoyment of the Audumbarīka province, his commissioner the Mahāpratihāra Sūryasena. acting as administrator: the command given to him by the noble Baron is as follows: <q>The village of Vappaghoṣavāṭa has been given by me to Bhaṭṭa Brahmavīra Svāmin, a member of the Kāśyapa gotra and colleague of the Chāndogas, for the increase of the merit of my mother, my father, and myself, as a perpetual endowment: you are to give (a deed engraved on) a copper-plate adorned with the seal of the province and specifying the boundaries.</q></p>
+	<p n="7-14">The signs of the boundary therein are: on the west, the boundary of the grant belonging to the Brāhmaṇs of Kuṭkuta-grāma; on the north, the river-bed; on the east, the same river-bed; issuing thence and running along the western boundary of Āmalapautika-grāma, (the boundary) is the Sarṣapa-yānaka; it is limited by the same [boundary], as far as Bhaṭṭa Unmīlana-svāmin's grant; from the south thereof, (the boundary), turning along further by the same boundary to the north, proceeds as far as the boundary of Bharaṇi-svāmin's grant, thence in a straight line enters the pond of Vakhaṭa-Sūmālikā on the boundary of Bhaṭṭa Unmīlana-svāmin grant, and goes as far as the same boundary of the Brāhmaṇs of Kutkuṭa-grāma.</p>
          </div>
          <div type="translation" source="bib:Barnett1925-1926_01">
  <p n="1-7">Hail! In the year of the rise ... of the Great Emperor, the supreme worshipper of the Lord, the fortunate king Jayanāga, when he is resident at Karṇasuvarṇaka, at the time that the Baron Nārāyaṇabhadra, who meditates upon his feet, is in the enjoyment of the Audumbarīka province, his commissioner the Mahāpratihāra Sūryasena. acting as administrator: the command given to him by the noble Baron is as follows: <q>The village of Vappaghoṣavāṭa has been given by me to Bhaṭṭa Brahmavīra Svāmin, a member of the Kāśyapa gotra and colleague of the Chāndogas, for the increase of the merit of my mother, my father, and myself, as a perpetual endowment: you are to give (a deed engraved on) a copper-plate adorned with the seal of the province and specifying the boundaries.</q></p>
