@@ -84,6 +84,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2021-12-27" who="part:argr">finished encoding the edition.</change>
          <change when="2021-12-21" who="part:argr">created the file and started encoding the edition.</change>
       </revisionDesc>
    </teiHeader>
