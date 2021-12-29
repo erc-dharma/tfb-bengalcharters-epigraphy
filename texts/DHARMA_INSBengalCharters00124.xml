@@ -106,7 +106,7 @@
                <listApp>
 	<app loc="2">
                      <lem source="bib:Barnett1925-1926_01"><gap reason="illegible" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ī</seg><gap reason="illegible" quantity="1" unit="character"/><unclear>bh</unclear>yudaya-</lem>
-                     <note>None of the restitutions we have considered — <foreign>tr̥tīyābhyudaya-</foreign>, <foreign>tadīyābhyudaya</foreign> — can be made with certainty. It is possible that there was no number (in which case <q>first</q> is to be understood), and that the damaged word qualified <foreign>abhyudaya</foreign>, not <foreign>sāmvatsara</foreign>. But <foreign>tr̥tīyābhyudaya-</foreign> seems most likely, and this possibility is reflected in my translation.</note>
+                     <note>None of the restitutions we have considered — <foreign>tr̥tīyābhyudaya-</foreign>, <foreign>tadīyābhyudaya</foreign> — can be made with certainty. It is possible that there was no number (in which case <q>first</q> is to be understood), and that the damaged word qualified <foreign>abhyudaya</foreign>, not <foreign>sāmvatsara</foreign>. But <foreign>tr̥tīyābhyudaya-</foreign> seems most likely, and this possibility is reflected in our translation.</note>
 <!-- 
 daba: "1. I'm very hesitant about tṛtīya/dvitīya in line 2. It seems pretty certain that there was no i on the first obliterated character, so I think dvi can be ruled out. But with the ī of rī below, I also can't quite see where the ṛ of tṛ might have been placed. However, what's left of this first character does suggest the consonant t. And the third obliterated character seems to have been pretty wide, and may well have had a subscript y. Perhaps yyā rather than yā? Do you think svakīyyā° may be possible? (Though sva is also a bit problematic because of the presence of ī below.) Or svādhīnyā°? Or svavīryyā°? I can't think of anything plausible without an initial sva, it seems :) At any rate, I think that in addition to tṛtīyyā (or tṛtīyā), which I can't rule out, it's possible that there was no number (so "first" is to be understood), and the damaged word qualified abhyudaya, not sāmvatsara."
  -->
@@ -118,7 +118,7 @@ daba: "1. I'm very hesitant about tṛtīya/dvitīya in line 2. It seems pretty 
                   <app loc="10">
                      <lem>tenaiva <lb n="11"/><unclear>t</unclear>ā<unclear>va</unclear>t paricchinno</lem>
                      <rdg source="bib:Barnett1925-1926_01">tenai<unclear>va sī</unclear><lb n="11"/><unclear>mn</unclear>ā <unclear>sa</unclear>mparicchinno</rdg>
-		<note>Barnett's reading is not confirmed by consultation of the plate. The bisyllabic word to be read before <foreign>paricchinno</foreign> must be <foreign>tāvat</foreign>, as the repeated paring <foreign>tāvat ... yāvat</foreign> in the following lines makes clear.</note>
+		<note>Barnett's reading is not confirmed by consultation of the plate. The bisyllabic word to be read before <foreign>paricchinno</foreign> must be <foreign>tāvat</foreign>, as the repeated pairing <foreign>tāvat ... yāvat</foreign> in the following lines makes clear.</note>
                   </app>
                </listApp>
 </div>
