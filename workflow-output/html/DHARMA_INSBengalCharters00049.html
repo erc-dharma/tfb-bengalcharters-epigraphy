@@ -4,8 +4,9 @@
       <title>DHARMA_INSBengalCharters00049 DHARMA_INSBengalCharters00049. Baigram Charter of the Time of Kumāragupta I</title>
       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@latest/stylesheets/inscriptions/global.css">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
    </head>
-   <body>
+   <body class="font-weight-light" data-spy="scroll" data-target="#myScrollspy" data-offset="5">
       <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://erc-dharma.github.io/">ERC-DHARMA</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                <li class="nav-item active"><a class="nav-link" href="https://erc-dharma.github.io/">Home <span class="sr-only">(current)</span></a></li>
@@ -18,17 +19,37 @@
                      Controlled Vocabularies
                      </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_artefactControlledVoc">Artefacts – Controlled Vocabularies</a><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_artefactClosedLists">Artefacts – Closed List</a><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_textControlledVoc">Texts – Controlled Vocabularies</a><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_textClosedLists">Texts – Closed List for texts</a></div>
                </li>
-               <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+               <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdownDoc" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                      Documentation
-                     </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtom_v01">Starting with Atom</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomGit_v01">Starting with Atom &amp; Git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomTeletype_v01">Starting with Atom Teletype</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/git/DHARMA_git_guide_v01">Starting with git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingGitHubIssueTracker.pdf">Starting with GitHub issues</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingMarkdownSyntax_v01">Starting with markdown</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/encoding-diplomatic/DHARMA%20EGD%20v1%20release.pdf">Encoding Guide for Diplomatic editions</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/FNC/DHARMA_FNC_v01.1.pdf">File Naming Conventions</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/transliteration/DHARMA%20Transliteration%20Guide%20v3%20release.pdf">Transliteration Guide</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/zotero/DHARMA_ZoteroGuide_v01.1.1.pdf">Zotero Guide</a></div>
+                     </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/encoding-diplomatic/DHARMA%20EGD%20v1%20release.pdf">Encoding Guide for Diplomatic editions</a><a class="dropdown-item" href="critEd_elements">Critical Editions Memo</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/FNC/DHARMA_FNC_v01.1.pdf">File Naming Conventions</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/transliteration/DHARMA%20Transliteration%20Guide%20v3%20release.pdf">Transliteration Guide</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/zotero/DHARMA_ZoteroGuide_v01.1.1.pdf">Zotero Guide</a></div>
+               </li>
+               <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdownDoc" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                     Training
+                     </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtom_v01">Starting with Atom</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomGit_v01">Starting with Atom &amp; Git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomTeletype_v01">Starting with Atom Teletype</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/git/DHARMA_git_guide_v01">Starting with git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingGitHubIssueTracker.pdf">Starting with GitHub issues</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingMarkdownSyntax_v01">Starting with markdown</a><a class="dropdown-item" href="https://erc-dharma.github.io/digital-areal/">Starting with XML in French</a></div>
                </li>
                <li class="nav-item"><a class="nav-link" href="https://erc-dharma.github.io/arie">ARIE</a></li>
                <li class="nav-item"><a class="nav-link" href="https://www.zotero.org/groups/1633743/erc-dharma/library">Zotero Library</a></li>
+               <li class="nav-item"><a class="nav-link" href="https://dharma.hypotheses.org/">Blog</a></li>
             </ul>
          </div>
       </nav>
       <div class="container">
-         <div class="edition-content col-10">
+         <div id="sidebar-wrapper" class="collapse">
+            <nav id="myScrollspy">
+               <ul class="nav nav-pills flex-column">
+                  <li class="nav-item"><a class="nav-link" href="#metadatadiv">Metadata</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#edition">Edition</a><ul class="nav-second nav-pills">
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#1r">Folio 1r</a></li>
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#1v">Folio 1v</a></li>
+                     </ul>
+                  </li>
+                  <li class="nav-item"><a class="nav-link" href="#apparatus">Apparatus</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#translation">English Translation</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#commentary">Commentary</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#bibliography">Bibliography</a></li>
+               </ul>
+            </nav>
+         </div><a class="btn btn-info" data-toggle="collapse" href="#sidebar-wrapper" role="button" aria-expanded="false" aria-controls="sidebar-wrapper" id="toggle-table-contents">☰ Document Outline</a><div class="edition-content col-10">
             <h1>Baigram Charter of the Time of Kumāragupta I</h1>
             <div id="metadatadiv">
                <h2>Metadata</h2>
@@ -39,7 +60,7 @@
             </div>  
             <div id="edition" lang="san-Latn">
                <h2>Edition</h2>  
-               <p>  <a id="al1"></a><sup>⎘ plate 1r </sup><sup class="linenumber">1</sup>svasti[.] pañcanagaryyā bhaṭṭāraka-pādānuddhyātaḥ _ kumārāmātya-kulavr̥ddhir etad-viṣayādhikaraṇañ
+               <p>  <a id="al1"></a><sup id="1r">⎘ plate 1r </sup><sup class="linenumber">1</sup>svasti[.] pañcanagaryyā bhaṭṭāraka-pādānuddhyātaḥ _ kumārāmātya-kulavr̥ddhir etad-viṣayādhikaraṇañ
                   ca _ <br id="al2"><sup class="linenumber">2</sup>vāyigrāmika-trivr̥t<span class="sic">¿a?</span><span class="corr">⟨ā⟩</span>-śrīgohālyoḥ _ brāhmaṇottarān samvyavahāri-pramukhān grāma-kuṭumbinaḥ _ kuśalam anu-
                   <br id="al3"><sup class="linenumber">3</sup>varṇya bodhayanti[.] _</p>  
                <p><span class="sic">¿vijñāpayator atraiva?</span><span class="corr">⟨vijñāpayato ’traiva⟩</span>-vāstavya-kuṭumbi-bhoyila-bhāskarāv[.] āvayoḥ _ pitrā śivanandi- <br id="al4"><sup class="linenumber">4</sup>nā kāritak<span class="sic">¿a?</span><span class="corr">⟨o⟩</span> bhagavato govindasvāminaḥ deva-kulas tad-asāv alpa-vr̥ttikaḥ[.] Iha viṣaye samudaya-
@@ -50,7 +71,7 @@
                   ca na kaścid rājārttha- <br id="al13"><sup class="linenumber">13</sup>virodha Upacaya Eva _ bhaṭṭāraka-pādānāṁ dharmma-phala-ṣaḍ-bhāgāvāptiś ca [.] _ tad
                   dīyatām iti Etayoḥ <br id="al14"><sup class="linenumber">14</sup>bhoyila-bhāskarayos sakā⟨śā⟩t ṣaḍ dīnārān aṣṭa ca rūpakān āyīkr̥tya bhagavato govindasvāmino
                   <br id="al15"><sup class="linenumber">15</sup>deva-kulasyārtthe bhoyilasya trivr̥tāyāṁ _ khila-kṣettra-kulya-vāpa-trayaṁ tala-v<span class="sic">¿a?</span><span class="corr">⟨ā⟩</span>ṭakādy-artthaM [.]</p>  
-               <p>  <br id="al16"><sup>⎘ plate 1v </sup><sup class="linenumber">16</sup>śrīgohālyā⟨ṁ⟩ sthala-vāstuno droṇa-vāpaṁ _ bhāskarasyāpy atrai va sthal<span class="sic">¿i?</span><span class="corr">⟨a⟩</span>-v<span class="sic">¿a?</span><span class="corr">⟨ā⟩</span>stuno droṇa-vāpa _ - <br id="al17"><sup class="linenumber">17</sup><span class="sic">¿p?</span><span class="corr">⟨m⟩</span>[.]</p>  
+               <p>  <br id="al16"><sup id="1v">⎘ plate 1v </sup><sup class="linenumber">16</sup>śrīgohālyā⟨ṁ⟩ sthala-vāstuno droṇa-vāpaṁ _ bhāskarasyāpy atrai va sthal<span class="sic">¿i?</span><span class="corr">⟨a⟩</span>-v<span class="sic">¿a?</span><span class="corr">⟨ā⟩</span>stuno droṇa-vāpa _ - <br id="al17"><sup class="linenumber">17</sup><span class="sic">¿p?</span><span class="corr">⟨m⟩</span>[.]</p>  
                <p>eva⟨ṁ⟩ kulya-vāpa-trayaṁ sthala-droṇa-vāpa-dvayañ ca _ Akṣaya-nīvyās tāmra-paṭṭena
                   dattaM[.] ninna <br id="al18"><sup class="linenumber">18</sup>ku 3 sthala-dro 2[.] </p>  
                <p>te yūyaṁ sva-karṣaṇāvirodhi-sthāne darvvīkarmma-hastenāṣṭaka-navaka-naḷābhyā - <br id="al19"><sup class="linenumber">19</sup>m apaviñcchya ⊔ cira-kāla-sthāyi-tuṣāṅgārādinā cihnaiś cāturddiśo niyamya dāsyathākṣaya-
@@ -71,7 +92,7 @@
                   <div class="first-line">pūrvva<sup class="versenumber">24</sup>-dattāṁ dvijātibhyo </div>  
                   <div class="verse-line">yatnād rakṣa yudhiṣṭhira_</div>  
                   <div class="verse-line">mahī⟨ṁ⟩ mah<span class="sic">¿i?</span><span class="corr">⟨ī⟩</span>matāṁ śreṣṭha</div>  
-                  <div class="verse-line">dānāc chreyo ’nupāla <sup class="versenumber">25</sup>nam</div>  </div>  
+                  <div class="verse-line">dānāc chreyo ’nupāla <sup class="versenumber">25</sup>nam</div>  </div><br>  
                <p>iti[.] <span class="abbreviation">saṁ</span> 100 20 8 māgha <span class="abbreviation">di</span> 10 9[.] </p>  </div>  
             <div id="apparatus">
                <h2>Apparatus</h2>
@@ -131,12 +152,16 @@
                      </span><br><a id="to-app-note33" href="#from-app-note33">↑2.</a>  <span class="tooltiptext-notes"> The expression <span class="lang" lang="eng"><i>bhaṭṭāraka-pādānuddhyātaḥ</i></span> can also be found in <a href="https://github.com/erc-dharma/tfb-bengalcharters-epigraphy">Raktamālā #1</a> line 1: <span class="lang" lang="eng"><i>paramabhaṭṭāraka-pādānuddhyātaḥ kumārāmātya-yūthapatir</i></span>. </span><br><a id="to-app-note34" href="#from-app-note34">↑3.</a>  <span class="tooltiptext-notes"> According to the table in <a href="http://zotero.org/groups/1633743/items/UU7PGTFF">Willis 2005</a>: page 135, Kumāragupta’s reign lasted till 477, after which date we enter Skandagupta’s
                      reign.&nbsp;</span><br><a id="to-app-note35" href="#from-app-note35">↑4.</a>  <span class="tooltiptext-notes"> Vāyigrāma is also mentioned in <a href="https://github.com/erc-dharma/tfb-bengalcharters-epigraphy">Damodarpur #3</a>, line 9. </span><br><a id="to-app-note36" href="#from-app-note36">↑5.</a>  <span class="tooltiptext-notes"> The expression <span class="lang" lang="eng"><i>brāhmaṇottarān</i></span> occurs in several other plates: <a href="https://github.com/erc-dharma/tfb-bengalcharters-epigraphy">Raktamālā Grant no. 1, year 159</a>, line 2; <a href="https://github.com/erc-dharma/tfb-bengalcharters-epigraphy">A grant of land in the Tāvīra district</a>, line 6; <a href="https://github.com/erc-dharma/tfb-bengalcharters-epigraphy">Paharpur Charter of the Time of Budhagupta</a>, line 3; <a href="https://github.com/erc-dharma/tfb-bengalcharters-epigraphy">Nandapur Plate of 169 GE</a>, line 1 and <a href="https://github.com/erc-dharma/tfb-bengalcharters-epigraphy">A second grant concerning the Raktamālā</a> line 2. The translation suggested here corresponds to the specific meaning of the
                      compound <span class="lang" lang="eng"><i>brāhmaṇottara</i></span>- reported by <a href="http://zotero.org/groups/1633743/items/4TT7EMTQ">Apte 1890</a>: page 1174. If we only follow the meaning given by <a href="http://zotero.org/groups/1633743/items/4TT7EMTQ">Apte 1890</a>: № 8, page 408 and <a href="http://zotero.org/groups/1633743/items/G8J3PTH3">Monier-Williams 1899</a>: page 178 for the word -<span class="lang" lang="eng"><i>uttara</i></span>  <span class="lang" lang="eng"><i>in fine compositi</i></span>, the translation would be ‘followed by Brahmins’. </span><br><a id="to-app-note37" href="#from-app-note37">↑6.</a>  <span class="tooltiptext-notes"> Presumably in Vāyigrāma. </span><br><a id="to-app-note38" href="#from-app-note38">↑7.</a>  <span class="tooltiptext-notes"> See <a href="http://zotero.org/groups/1633743/items/PHS9KFGZ">Sircar 1965</a>: page 356, note 9 for this interpretation of <span class="lang" lang="eng"><i>ādya-stamba</i></span>. </span><br><a id="to-app-note39" href="#from-app-note39">↑8.</a>  <span class="tooltiptext-notes">  <span class="lang" lang="eng"><i>āyīkr̥tya</i></span> is derived from <span class="lang" lang="eng"><i>āya</i></span> in the sense of ‘income’, so ‘having made income from …’. This expression can be
-                     found in <a href="https://github.com/erc-dharma/tfb-bengalcharters-epigraphy">Kalaikuri Copper-plate of Kumāragupta I</a> (line 20), in <a href="https://github.com/erc-dharma/tfb-bengalcharters-epigraphy">Paharpur plate</a> (line 18) and in <a href="https://github.com/erc-dharma/tfb-bengalcharters-epigraphy">Damodapur Plate #3</a> (line 8). </span><br><a id="to-app-note40" href="#from-app-note40">↑9.</a>  <span class="tooltiptext-notes"> Article <a href="">Goris 1929(Davies and Bhattacharya 2019(“Davies and Bhattacharya - 2019 - Copper,
-                        Parchment, and Stone Studies in the Sourc.Pdf,” n.d.(Wogihara 1979(Tournier 2019–May(Tournier
-                        2018–June(Thapar 1981(Thapar 2000(Sivaramamurti 1942(Sircar 1939(“[Reprinted from
-                        the Journal of the Department of Letters, Vol. XXVI].,” n.d.(Sakaki 1916(Kurita 2003(Kshirsagar
-                        1946(Glass 2008(Falk 2013(Falk 2013(Falk 2013(Falk 2013(Wickremasinghe 1904–1912(Wickremasinghe
-                        1912–1927(Shastri 2002(Pupphābhikkhū 1953(Pupphābhikkhū 1952(Pupphābhikkhū 1954</a>von Hinüber . Originally Buddhist terms used in Vaiṣṇava context! See also other trace
+                     found in <a href="https://github.com/erc-dharma/tfb-bengalcharters-epigraphy">Kalaikuri Copper-plate of Kumāragupta I</a> (line 20), in <a href="https://github.com/erc-dharma/tfb-bengalcharters-epigraphy">Paharpur plate</a> (line 18) and in <a href="https://github.com/erc-dharma/tfb-bengalcharters-epigraphy">Damodapur Plate #3</a> (line 8). </span><br><a id="to-app-note40" href="#from-app-note40">↑9.</a>  <span class="tooltiptext-notes"> Article <a href="">“Titi Surti Nastiti - 2018 - Watu Sīma in Java Marker Stones as Boundar.Pdf,” n.d.(“Hadi
+                        Sidomulyo - 2018 - Notes on the Topography of Ancient Java Identifyi.Pdf,” n.d.(Hadi
+                        Sidomulyo 2018(Vincent 2012(“Library Catalog Entry Snapshot” n.d.(“Worldcat Link”
+                        n.d.(“Link to Library Catalog Entry” n.d.(“Titre Provenant de l’écran-Titre. - Ecole(s
+                        Doctorale(s : École Doctorale L,” n.d.(Acharya 2014(“Acharya - 2022 - THE ‘GIFT AFTER
+                        GIFT’ IN THE INSCRIPTIONS OF EARLY.Pdf” n.d.(Vong 2016(“ARDAM1986-1987_01” n.d.(Krishna
+                        Sastry 1990(“ARDAM1981-1982_01” n.d.(Krishna Sastry 1987(“ARDAM1980-1981_01” n.d.(Krishna
+                        Sastry 1988(“ARDAM1979-1980_01” n.d.(Krishna Sastry 1988(“ARDAM1977-1978_01” n.d.(Krishna
+                        Sastry 1982(“ARDAM1976-1977_01” n.d.(Krishna Sastry 1978(“ARDAM1975-1976_01” n.d.(Krishna
+                        Sastry 1986</a>von Hinüber . Originally Buddhist terms used in Vaiṣṇava context! See also other trace
                      of Prakrit as administrative language in <span class="lang" lang="eng"><i>ninna</i></span> = <span class="lang" lang="eng"><i>diṇṇa</i></span> l. 17. See also <a href="http://zotero.org/groups/1633743/items/PHS9KFGZ">Sircar 1965</a>: note 2, page 357. </span><br><a id="to-app-note41" href="#from-app-note41">↑10.</a>  <span class="tooltiptext-notes"> Note on <span class="lang" lang="eng"><i>talavāṭaka</i></span>: see <a href="http://zotero.org/groups/1633743/items/HSK823X4">Sircar 1966</a>: pages 334–335. </span><br><a id="to-app-note42" href="#from-app-note42">↑11.</a>  <span class="tooltiptext-notes"> Indeed, the king usually takes a sixth of each transaction as it is mentionned in
                      <span class="italic">Manusmr̥ti</span> 7.131-132. Here, as the land yields no tax, the benefit for the king is only meritorious
                      and due to his act of protection.&nbsp;This understanding is also confirmed by the final
@@ -236,5 +261,5 @@
       </div>
       <footer class="footer mt-auto py-3">
          <div>Copyright © 2019-2025 by Dániel Balogh &amp; Arlo Griffiths.</div>
-      </footer><script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@master/stylesheets/criticalEditions/loader.js"></script></body>
+      </footer><script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script><script src="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@latest/stylesheets/criticalEditions/loader.js"></script></body>
 </html>
