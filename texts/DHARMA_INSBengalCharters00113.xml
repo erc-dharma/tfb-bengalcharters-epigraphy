@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2022-01-31">Translation added.</change>
             <change who="part:ryfu" when="2022-01-28">Initial Encoding</change>
         </revisionDesc>
     </teiHeader>
@@ -326,8 +327,23 @@
                   <app loc="35"><lem>'khanac</lem><rdg source="bib:Sircar1980-1982_01">'khanc</rdg></app>
                </listApp>
          </div>
-         <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
+         <div type="translation" resp="part:ryfu">
+             <p n="1">Success! Oṁ, salutation to Carcikā!</p>
+             <p rend="stanza" n="1"> May dust on the feet of Carcā who wears the raw of the heads of deities and demons as equivalent of a petticoat protect the world!</p>
+             <p rend="stanza" n="2">“How do I eat this world in one mouthful concealed by the union of fangs? How does one drink water of the seven oceans protected in the hollow of hand?” With such perplexity due to indigence of food, may Carcikā, who possesses a drying body and has human skulls as means of decoration, protect the world at the end of a Kalpa!</p>
+             <p rend="stanza" n="3">He, king Nayapāla, who is the enemy of elephants warding off a multitude of enemy elephants, beautiful like the moon, and the thought-gem with thought fulfilling the purpose of supplicants, is victorious!</p>
+             <p rend="stanza" n="4">“Oh, Mother Sarasvatī, this salutation was made at <supplied reason="subaudible">my</supplied> head! By this, then, oh, Goddess, would you be the way for me?” Thinking like this, may you, the daring act of creation of the eulogy of Mūrtiśiva in me, be successful even slightly!</p>
+             <p rend="stanza" n="5">There surely was that Durvāsas. Just by thinking upon him again even now, tremor arises in my whole body with goosebumps, swelling and projecting teeth. Due to his favour, the monkey with adamantine tail <supplied reason="explanation">Hanumat</supplied> became the one with valour renowned in the three worlds, and due to his ill will, this world of the king of deities <supplied reason="explanation">Indra</supplied> became wealth-less.</p>
+             <p rend="stanza" n="6">In his lineage was born the ornamental jewel on whole the terrestrial globe, that well-arranged great monastery of Goragī, another Mount Kailāsa. From it <supplied reason="subaudible">the monastery</supplied> earlier sprang up the ascetics like Rudra himself, wearing ash, having a bull as only one vehicle and honoured by enjoyers and kings for the great wonder of Mahāsena.</p>
+             <p rend="stanza" n="7">His rosaries rivalling fruits of lasting eelgrasses sprinkled with water of place of pilgrimage counterbalanced uneven immovable wealth in all the matters. This sage named illustrious Vidyāśiva, who had limitless deeds, by a multitude of hundreds of branches of whose good fame the sky was covered and whose lineage matched the meaning <supplied reason="subaudible">of his name</supplied>, was born from that <supplied reason="subaudible">monastery</supplied>.</p>
+             <p rend="stanza" n="8">There was his disciple Dharmaśiva, the storehouse of asceticism. He established a wonderful lofty palace of the teacher with three eyes <supplied reason="explanation">Śiva</supplied>, the ornament of Vārāṇaṣī. All the people remembered the asceticism of Mount Mandara intending to conquer Mount Kailāsa, whose pride as the perpetual abode of the maddened Moon-crested <supplied reason="explanation">Śiva</supplied> was shaking after seeing it.</p>
+             <p rend="stanza" n="9">His disciple illustrious Indraśiva, pure-souled bearing the shape of Śiva and Indra resembling Hari and Hara, partook of the clear splendour of the lineage. To him, king Mahīpāla <supplied reason="subaudible">I</supplied>, knowing the truth, gave here a monastery similar to Kailāsa, glittering like Meru with a lofty palace constructed beautifully with a mass of gold.</p>
+             <p rend="stanza" n="10">“If, after putting their bodily manifestation in all the directions, these seven oceans and those eight mountain ranges assemble, there would be similarity with these diverse temples and oblong ponds due to the ones resembling <supplied reason="subaudible">them</supplied>.” Thus, I think, the four-faced god poet <supplied reason="explanation">Brahmā</supplied> <supplied reason="subaudible">might consider</supplied>.</p>
+             <p rend="stanza" n="11">He <supplied reason="explanation">Indraśiva</supplied> donated the earth, Mount Meru, the ocean with the world-wheel, the Brahma egg, the wish fulfilling tree, <supplied reason="subaudible">the image of?</supplied> illustrious Nandīśvara <supplied reason="explanation">Śiva</supplied>, the wish-granting cow, houses and villages, and also mountain-like cattle, the vase of fortune, the wish-fulfilling tree along with the wish-fulfilling creeper, golden horse and elephant, golden embryo and a flock of horses, and <supplied reason="subaudible">gold</supplied> weighed against a person.</p>
+             <p rend="stanza" n="12">There was his disciple illustrious Sarvaśiva, the ornament of the earth, who was the preceptor of the king illustrious Nayapāla and the best among knowers of the truth.</p>
+             <p rend="stanza" n="13">Shining blazes of poverty of supplicants, which are cooled by billows caused by flow of stream of water of his donations, assemble, and the wish-fulfilling cow is concealed by people. That Rohaṇa Mountain, with own body covered with thick garment of light made of a net of blazing jewels, will now continue to be ashamed, I think.</p>
+             <p rend="stanza" n="14">By him, who himself desired a residence in forest after causing the inherited fortune of being the preceptor of the Gauḍa king marry his own brother illustrious Mūrtiśiva, was undertaken the deed of Paśupati, who took poison after depositing Lakṣmī born and appearing from churning of the milk ocean to his disciple Hari.</p>
+ 
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
