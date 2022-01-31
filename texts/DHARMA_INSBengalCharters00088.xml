@@ -81,6 +81,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change when="2022-01-31" who="part:amwb">Corrections according to argr's comments</change>
             <change when="2021-10-06" who="part:argr">Corrections to the transliteration</change>
             <change when="2021-09-30" who="part:amwb">Reading the plate with the facsimile of the Journal of the Asiatic Society of Bengal vol LXIII Part I 1894.</change>
             <change when="2021-09-24" who="part:amwb">Creation of the file and start of encoding the text based on Kielhorn1896-1897_03.</change>
@@ -107,10 +108,7 @@ amwb :  it is a spiral matching BL4 of the table found in the part "discussion" 
       <l n="d">rakṣantu vo daśa valāni <space type="feature"/> diśo jayanti<g type="ddandaStrokeLeft">.</g></l>
 </lg>
 <lg n="2" met="mālinī">
-      <l n="a">śriya Iva subhagā<lb n="4" break="no"/>yāḥ sambhavo vāri-rāśiś</l><!-- 
-amwb : here one can observe an infrequent use of sandhi *iḥ + śa => iś śa
-argr: I don't think it is infrequent in those spelling tradition where the use of visarga is limited to sentence-final position. I think spelling norms were not so fixed in early medieval Bengal, but in Cambodia, for instance, spelling -ś ś- is the clear norm.
--->
+      <l n="a">śriya Iva subhagā<lb n="4" break="no"/>yāḥ sambhavo vāri-rāśiś</l>
       <l n="b">śaśadhara Iva bhāso viśvam āhlādayantyāḥ<g type="danda">.</g></l>
       <l n="c">prakr̥tir avanipānāṁ santater uttamāyā</l>
       <l n="d">A<lb n="5" break="no"/>jani dayita-viṣṇuḥ sarvva-vidyāvadātaḥ<g type="ddandaStrokeLeft">.</g></l>
@@ -118,18 +116,20 @@ argr: I don't think it is infrequent in those spelling tradition where the use o
 <lg n="3" met="anuṣṭubh">
       <l n="a">Āsīd ā sāgarād urvvīṁ</l>
       <l n="b">gurvvībhiḥ kīrttibhiḥ kr̥tī<g type="danda">.</g></l>
-      <l n="c">maṇḍayaN<!-- 
-argr: I hardly see anything to differentiate N from na; should we perhaps read n<unclear>·</unclear>?
- --> <lb n="6"/>khaṇḍitārātiḥ</l>
+      <l n="c">maṇḍayan<unclear>·</unclear> <lb n="6"/>khaṇḍitārātiḥ</l>
       <l n="d">ślāghyaḥ śrī-vapyaṭas tataḥ<g type="ddandaStrokeLeft">.</g></l><!-- 
 argr: is any alternative reading of the name imaginable? 
 	vudhyaṭas? 
+--><!-- 
+amwb : comparing the akṣara "vu" line 58 it seems to me that here it is likely a "va", but I agree with you and think "dhya" is possible (I compared with several dhya in the plate).
 -->
 </lg>
 <lg n="4" met="śārdūlavikrīḍita">
-       <l n="a">mātsya-nyāyam apohituṁ prakr̥tibhir<!-- 
+       <l n="a">mātsya-nyāyam apohituṁ prakr̥tibhi<supplied reason="omitted">r</supplied><!-- 
 argr: I really don't see the repha and think Kielhorn may have supplied it silently
- --> lakṣmyāḥ karaṅ grāhitaḥ</l>
+ --><!-- 
+amwb : I agree with you and added a supplied omitted
+           --> lakṣmyāḥ karaṅ grāhitaḥ</l>
        <l n="b">śrī-gopā<lb n="7" break="no"/>la Iti kṣitīśa-śirasāṁ cūḍā-maṇis tat-sutaḥ<g type="danda">.</g></l>
        <l n="c">yasyānukriyate sanātana-yaśo-rāśir diśām āśaye</l>
        <l n="d">śvetimnā ya<lb n="8" break="no"/>di paurṇṇamāsa-rajanī jyotsnātibhāra-śriyā<g type="ddandaStrokeLeft">.</g></l> 
@@ -168,10 +168,11 @@ argr: the slightly unclear vi seems to me identical to the one in vi<choice><sic
 argr: I interpret K's note "Read yāntyāṁ vi° as intending basically the same result after editorial intervention as the one my reading yields.
 argr: although again we might well decide that none of this requires an apparatus entry, I have created one nonetheless
  -->
-       <l n="c">bhārābhugnāvamajjan-maṇi-vidhura-śiraś-cakra-sāhāyakā<supplied reason="omitted">r</supplied>thaṁ<!-- 
+       <l n="c">bhārābhugnāvamajjan-maṇi-vidhura-śiraś-cakra-sāhāyakārthaṁ<!-- 
 amwb : i don't see the r of rthaṁ see photo sāhāyakāthaṁśeṣe l13.png
 argr: I think it is the triangle shape including the headline. In many varieties of Pala-period script, rephas can be integrated in this way into the aksara suspended from the headline — so I think we can remove <supplied>; see also Kielhorn's remark on the special shape of rtha (p. 244).
-   --></l>
+   --><!-- 
+amwb : agree : i removed the supplied --></l>
        <l n="d">śeṣe<lb n="14" break="no"/>ṇodasta-doṣṇā tvaritataram adhodhas tam evānuyātaM<g type="ddandaStrokeLeft">.</g></l>
 </lg>
 <lg n="8" met="mandākrāntā">
@@ -193,7 +194,6 @@ argr: yes, I am inclined to admit that two allographs of anusvāra were availabl
 </lg>
 <lg n="10" met="śārdūlavikrīḍita">
        <l n="a"><lb n="17"/>ye 'bhūvaN pr̥thu-rāma-rāghava-nala-prāyā dharitrī-bhujas</l>
-<!-- argr: you had prāya — does the txt file need correction? -->
        <l n="b">tān ekatra didr̥kṣuṇeva nicitān· sarvāN samam vedhasā<g type="danda">.</g></l>
        <l n="c">dhva<lb n="18" break="no"/>stāśeṣa-narendra-māna-mahimā śrī-dharmmapālaḥ kalau</l>
        <l n="d">lola-śrī-kariṇī-nivandhana-mahāstambhaḥ samuttambhitaḥ<g type="ddandaStrokeLeft">.</g></l> 
@@ -201,25 +201,22 @@ argr: yes, I am inclined to admit that two allographs of anusvāra were availabl
 </lg>
 <lg n="11" met="sragdharā">
        <l n="a">yāsāṁ<lb n="19"/>nāsīra-dhūlī-dhavala-daśa-diśāṁ drāg apaśyann iyattāṁ</l>
-<!-- argr: you had drag-apaśyann — does the txt file need correction? -->
        <l n="b">dhatte māndhātr̥-sainya-vyatikara-cakito dhyāna-tandrīm mahendraḥ<g type="danda">.</g></l>
        <l n="c"><lb n="20"/>tāsām apy āhavecchā-pulakita-vapuṣām vāhinīnām vidhātuṁ<!-- 
    amwb : here anusvāra seems to be noted by a single point and not by a circle see photo dhātuṁ l20.png
    argr: are you sure there is an anuvāra? the edition states that the reading is m to be normalized as ṁ
+   amwb : all the m followed by sa in the plate are noted by an anusvāra and here I don't see msa but tuṁ + sa
 --></l>
        <l n="d">sāhāyyaṁ yasya vāhvor nikhila-ripu-kula-dhvaṁsinor nā<lb n="21" break="no"/>vakāśaḥ<g type="ddandaStrokeLeft">.</g></l>
 </lg>
 <lg n="12" met="sragdharā">
        <l n="a">bhojair matsyaiḥ sa-madraiḥ kuru-yadu-yavanāvanti-gandhāra-kīrair</l>
        <l n="b">bhūpair vyālola-mauli-praṇati-pariṇataiḥ<lb n="22"/>sādhu saṅgīryamānaḥ<g type="danda">.</g></l>
-       <l n="c">hr̥ṣyat-pañcāla-vr̥ddhoddhr̥ta-kanakamaya-svābhiṣekodakumbho</l>
-<!-- argr: I would hyphenate -svābhiṣekoda-kumbho -->
-       <l n="d">dattaḥ śrī-k<choice><sic>a</sic><corr>ā</corr></choice>nyakuvjas sa-lalita-ca<lb n="23"/>lita-bhrū-latā-lakṣma yena<g type="ddandaStrokeLeft">.</g></l>
+       <l n="c">hr̥ṣyat-pañcāla-vr̥ddhoddhr̥ta-kanakamaya-svābhiṣekoda-kumbho</l>
+       <l n="d">dattaḥ śrī-k<choice><sic>a</sic><corr>ā</corr></choice>nyakuvjas sa-lalita-ca<lb break="no" n="23"/>lita-bhrū-latā-lakṣma yena<g type="ddandaStrokeLeft">.</g></l>
 </lg>
-<!-- argr: you have forgotten break="no" on <lb n="23"/>; I would hyphenate bhrū-latā- -->
 <lg n="13" met="śārdūlavikrīḍita">
-        <l n="a">gopaiḥ sīmni vanecarair vanabhuvi grāmopakaṇṭhe janaiḥ</l>
-<!-- argr: I would hyphenate vana-bhuvi -->
+        <l n="a">gopaiḥ sīmni vanecarair vana-bhuvi grāmopakaṇṭhe janaiḥ</l>
         <l n="b">krīḍadbhi<supplied reason="omitted">ḥ</supplied> praticatvaraṁ śiśu-gaṇaiḥ<lb n="24"/>pratyāpaṇa<unclear>m</unclear><!-- 
 amwb : totally lost for me 
 argr: I can recognize vestiges of both consonants in the ligature mma, but neither is perfectly clear, so I'd edited <unclear> also on the m of māna
@@ -228,19 +225,16 @@ argr: I can recognize vestiges of both consonants in the ligature mma, but neith
         <l n="d">yasyākarṇṇayatas trapāvivalitānamraṁ sa<lb n="25" break="no"/>daivānanaM<g type="ddandaStrokeLeft">.</g></l>
 </lg>
 sa khalu bhāgīrathīpatha-pravarttamāna-nānāvidha-nau-vāṭaka-sampādita-setu-vandha-nihita-śaila-śi<lb
-n="26" break="no"/>khara-śreṇi-vibhramā<choice><sic>t</sic><corr>n</corr></choice><!-- argr: instead of t  in <sic> and n in <corr>, it should be T and N --> niratiśaya-ghana-ghanāghana-ghaṭā-śyāmāyamāna-vāsara-lakṣmī-samāravdha-santata-jalada-sa<lb
-n="27" break="no"/>maya-sandehā<choice><sic>t</sic><corr>d</corr></choice><!-- argr: in prose context, as here, I do not favor such "corrections" which affect a feature that is typical of Sanskrit prose, namely the non application of sandhi rules, which are not mandatory even for classical grammarians, as far as I know — and the final consonant should be transliterated as T instead of t, so let us encode -sandehāT Udīcīnāneka-  --> Udīcīnāneka-narapati-prābhr̥tīkr̥tāprameya-hayavāhinī-kharakhurotkhāta-dhūlī-dhūsarita-di<!-- argr: I would hyphenate prābhr̥tī-kr̥tāprameya-haya-vāhinī-khara-khurotkhāta- --><lb
-n="28" break="no"/>gantarālā<foreign>T</foreign><!-- 
-amwb: Here I wrapped T in foreign because the glyph is really different see photo gantarālāT pa l28.png
-argr: <foreign> can certainl;y not be use for any such purpose, as it is semantically inadequate; I think encoding without any tag is acceptable; see Kielhorn, p. 244 n. 1, for a description of the shape we see here; it will be necessary to summarize in <handDesc> what Kielhorn says in that note about the various shapes for final consonants
-argr: also, let's hyphenate, so in sum -dig-antarālāT
---> parameśvara-sevā-samāyāta-samasta-jamvūdvīpa-bhūpālānanta-pādāta-bhara-namad-avaneḥ pāṭalipu<lb
-n="29" break="no"/>tra-samāvāsita-śrīmaj-jayaskandhāvārā<foreign>T</foreign><!-- 
-amwb: Here I wrapped T in foreign because the glyph is really different see photo vārāT pa l29.png
-argr: same objection, a fortiori, because the shape of T here is quite normal 
---> @@@@@paramasaugato mahārājādhirāja-śrī-gopāladeva-pādānudhyātaḥ pa<lb
-n="30" break="no"/>rameśvaraḥ paramabhaṭṭārako mahārājādhirājaḥ śrīmā<foreign>N</foreign><!-- 
-amwb Here I wrapped T in foreign because the glyph is really different see photo śrīmāN l30.png
+n="26" break="no"/>khara-śreṇi-vibhramāTN<!-- argr: instead of t  in <sic> and n in <corr>, it should be T and N 
+amwb : I replaced <choice><sic>t</sic><corr>n</corr></choice> by TN but I'm not sure if it was what you suggested
+--> niratiśaya-ghana-ghanāghana-ghaṭā-śyāmāyamāna-vāsara-lakṣmī-samāravdha-santata-jalada-sa<lb
+n="27" break="no"/>maya-sandehāT<!-- argr: in prose context, as here, I do not favor such "corrections" which affect a feature that is typical of Sanskrit prose, namely the non application of sandhi rules, which are not mandatory even for classical grammarians, as far as I know — and the final consonant should be transliterated as T instead of t, so let us encode -sandehāT Udīcīnāneka- 
+amwb : all the corrections reproduced K's edition
+--> Udīcīnāneka-narapati-prābhr̥tī-kr̥tāprameya-haya-vāhinī-khara-khurotkhāta-dhūlī-dhūsarita-di<lb
+n="28" break="no"/>g-antarālāT parameśvara-sevā-samāyāta-samasta-jamvūdvīpa-bhūpālānanta-pādāta-bhara-namad-avaneḥ pāṭalipu<lb
+n="29" break="no"/>tra-samāvāsita-śrīmaj-jayaskandhāvārāT @@@@@paramasaugato mahārājādhirāja-śrī-gopāladeva-pādānudhyātaḥ pa<lb
+n="30" break="no"/>rameśvaraḥ paramabhaṭṭārako mahārājādhirājaḥ śrīmāN<!-- 
+amwb Here the glyph is really different see photo śrīmāN l30.png
 --> dharmmapāladevaḥ kuśalī<g type="ddanda">.</g><!-- amwb : the same shape as other double dandas --> śrī-puṇḍravarddhana-bhu<lb
 n="31" break="no"/>kty-antaḥpāti-vyāghrataṭī-maṇḍala-sam<choice><orig>v</orig><reg>b</reg></choice>addha-mahantāprakāśavi<choice><sic>ś</sic><corr>ṣ</corr></choice>aye krauñcaśvabhra-nāma-grāmo '!sya<!-- 
 amwb : the avagraha is original see photo mo avagraha sya l31.png
@@ -282,7 +276,7 @@ amwb : from my reading of the facsimile I am not sure that it is written tta I h
 amwb : I have removed the danda noted by Kielhorn because there is no trace of a single danda
 --> gatā nala<unclear>ca</unclear>rmma<space unit="character" quantity="18"/><!-- 
 amwb : the space is due to the attachment point of the seal. I have created an issue on this question and I'm waiting the answer to encode this correctly. I have suggested type="sealattachmentpoint" 
--->ṭā<foreign>T</foreign><!-- 
+-->ṭāT<!-- 
 amwb : here one can observe a sandhi break => actually it is a symbol for T 
 --> dakṣiṇena nāmuṇḍikāpi<unclear>he</unclear><lb
 n="36" break="no"/><unclear cert="low">sadūmmi</unclear>kāyāḥ<g type="danda">.</g><!-- 
@@ -379,7 +373,7 @@ amwb the same shape as before for M and regular shape for danda see photo phalaM
 n="57" break="no"/>dati bhūmi-daḥ</l>
     <l n="c">Ākṣeptā cānumantā ca</l>
     <l n="d">tāny eva narake vaseT<g type="ddanda">.</g><!-- 
-amwb here we really have a t with virāma so I'm wondering if I have to note foreign for the M mentioned before. Photo T ddanda l57
+amwb here we really have a t with virāma  Photo T ddanda l57
  --></l>
 </lg>
 <lg n="16" met="anuṣṭubh">
@@ -415,7 +409,7 @@ amwb . danda regular shape
     <l n="b">bhavo duḥkhaikāntaḥ<!-- 
 amwb : it is possible to hesitate between duḥkhaikāntaḥ and duḥkhaikāntaṁ as in other cases where we encounter this glyph see photo duḥkhaikāntaḥ or duḥkhaikāntaṁ l59.png
 --> para-kr̥tim akīrtti<supplied reason="omitted">ḥ</supplied> kṣapayatāM<!-- 
-amwb : need to compare all M to decide if some are foreign or not. See photo kṣapayatāM l59.png
+amwb : need to compare all M . See photo kṣapayatāM l59.png
 --></l>
     <l n="c">yaśā<lb
 n="60" break="no"/><choice><orig>n</orig><reg>ṁ</reg></choice>sy ācandrārkka<supplied reason="omitted">ṁ</supplied> niyatam avatām atra ca nṛpāḥ</l>
@@ -424,7 +418,7 @@ amwb ; Here I don't follow Kielhorn's edition I read kaviṣyante. So I add this
     --> <choice><orig>v</orig><reg>b</reg></choice>uddhvā yad abhirucitaṁ kim pravacanaiḥ<g type="ddanda">.</g></l>
 </lg>
 Abhi<space type="defect"/>varddhamāna-vijayarājye<lb
-n="61"/>sa<choice><orig>m</orig><reg>ṁ</reg></choice>va<foreign>T</foreign><!-- 
+n="61"/>sa<choice><orig>m</orig><reg>ṁ</reg></choice>vaT<!-- 
 amwb : see photo samvaT l61.png
 --> <num value="32">32</num> mārga-din<choice><sic>āni</sic><corr>e</corr></choice> <num value="12">12</num><g type="ddanda">.</g> <gap reason="illegible" unit="character" quantity="5"/><!-- 
 amwb : here there is a big space since the last line is written at the bottom of the plate. I need to search how encoding this in theEGD
@@ -545,7 +539,11 @@ boundary of the Udragrāma <foreign>maṇḍala</foreign>, on the south a <seg c
              <p n="62">This was engraved by the skilful Tātaṭa, the son of the worthy Subhaṭa and son's son of the worthy Bhogaṭa.</p>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <!--
+            amwb : I reported here the remark on sandhi line 4  (*iḥ + śa => iś śa) and reproduced Arlo's comment because it could be useful for the description of the plate (argr: I don't think it is infrequent in those spelling tradition where the use of visarga is limited to sentence-final position. I think spelling norms were not so fixed in early medieval Bengal, but in Cambodia, for instance, spelling -ś ś- is the clear norm.)
+            amwb : line 15 : two allographs to note the anusvāra see argr's remarks
+            amwb: line 28 : according to argr, it is necessary to reproduce what Kielhorn said about the final consonants in this plate
+            -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
