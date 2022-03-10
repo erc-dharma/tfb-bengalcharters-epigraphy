@@ -78,6 +78,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2022-03-10" status="draft">Bibliography completed.</change>
             <change who="part:ryfu" when="2022-02-26" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2022-02-23" status="draft">Text, Apparatus and Translation completed.</change>
             <change who="part:ryfu" when="2022-02-23" status="draft">Text and Apparatus half finished.</change>
@@ -345,16 +346,16 @@
                  <p rend="stanza" n="23">Here the edict was engraved by artisan Haradāsa. The likeness of his work was formed by the creator at some time <supplied reason="subaudible">only</supplied>.</p>
                  <p n="65"><supplied reason="subaudible">Confirmed by</supplied> sandhi<supplied reason="subaudible">vigrahika</supplied>.</p>
              </div>
- 	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>First published by Kamalakanta Gupta (Chaudhury)<bibl rend="omitname"><ptr target="bib:GuptaChaudhury1966_01"/></bibl> and republished in his collection of inscriptions<bibl rend="omitname"><ptr target="bib:Gupta1967_01"/><citedRange unit="page">81-152</citedRange></bibl>. Then re-edited by Dines Chandra Sircar<bibl rend="omitname"><ptr target="bib:Sircar1968_03"/></bibl>, and republished in his lecture series<bibl rend="omitname"><ptr target="bib:Sircar1973_01"/><citedRange unit="page">63-69</citedRange></bibl> and collection of inscriptions<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/><citedRange unit="page">92-100</citedRange></bibl>. Now re-edited based on the impressions attached to Sircar's first edition<bibl rend="omitname"><ptr target="bib:Sircar1968_03"/></bibl> and second publication<bibl rend="omitname"><ptr target="bib:Sircar1973_01"/><citedRange unit="page">63-69</citedRange></bibl>.</p>
         	<listBibl type="primary">
-        	    <bibl n="KC"><ptr target="bib:Gupta1967_01"/><citedRange unit="page">81-152</citedRange></bibl>
+        	    <bibl n="KC1"><ptr target="bib:GuptaChaudhury1966_01"/></bibl>
+        	    <bibl n="KC2"><ptr target="bib:Gupta1967_01"/><citedRange unit="page">81-152</citedRange></bibl>
 	    <bibl n="DCS1"><ptr target="bib:Sircar1968_03"/></bibl>
         	    <bibl n="DCS2"><ptr target="bib:Sircar1973_01"/><citedRange unit="page">63-69</citedRange></bibl>
         	    <bibl n="DCS3"><ptr target="bib:Sircar1983_01"/><citedRange unit="page">92-100</citedRange></bibl>
