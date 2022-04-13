@@ -52,7 +52,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <p><bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">77</citedRange></bibl>: <q>eastern variety of northern class of alphabet of about the sixth century AD</q><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
                             <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -78,6 +78,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change when="2022-04-13" who="part:amwb">Added a missing bibliographic reference</change>
             <change when="2021-12-23" who="part:amwb">Added the translation of the quoted verses</change>
             <change when="2021-09-20" who="part:amwb">Start of the encoding of the apparatus with two previous editions (ie. Srinivasan1972_01 and Tripathy1997_01) and Furui's readings.</change>
            <change when="2021-09-16" who="part:amwb" status="draft">Start of the encoding with the document transmitted by Ryosuke Furui</change>
@@ -958,6 +959,8 @@ n="9" break="no"/>bhir-viśrāmo°</rdg>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
+             <!-- 
+             amwb : in Tripathy2010_01 : single plate measuring 11'' x 7,5''. A circular seal measuring about 2'' in diameter-->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
@@ -969,7 +972,7 @@ n="9" break="no"/>bhir-viśrāmo°</rdg>
         	    <bibl n="T"><ptr target="bib:Tripathy1997_01"/><citedRange unit="page">174-9</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="page">76-77</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>
