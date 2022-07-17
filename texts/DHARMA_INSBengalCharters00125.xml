@@ -112,7 +112,7 @@
              </lg>
              <lg n="4" met="upajāti">
                  <l n="a">ca<lb n="7" break="no"/>latsv ananteṣu valeṣu yasya</l>
-                 <l n="b">viśvambharāyā nicitaṁ rajobhiḥ<g type="dandaSerif">.</g></l>
+                 <l n="b">viśvambharāyā<unclear>ṁ</unclear> nicitaṁ rajobhiḥ<g type="dandaSerif">.</g></l>
                  <l n="c">pāda-pracāra-kṣamam antarikṣam</l>
                  <l n="d">vihaṅgamānāṁ suciram vabhūva<g type="ddandaSerif">.</g></l>
              </lg>
@@ -237,6 +237,7 @@
          <div type="apparatus">
                <listApp>
                   <app loc="1"><lem>-susthita</lem><rdg source="bib:Barnett1925-1926_02">-susthira</rdg></app>
+                  <app loc="7"><lem>viśvambharāyā<unclear>ṁ</unclear></lem><rdg source="bib:Barnett1925-1926_02">viśvambharāyā</rdg></app>
                   <app loc="11"><lem>uddhr̥tya</lem><rdg source="bib:Barnett1925-1926_02">uddh<supplied reason="omitted">r̥</supplied>tya</rdg></app>
                   <app loc="29"><lem>mahārājādhirājaḥ</lem><note>ḥ squeezed in a narrow space between ja and subsequent śrī.</note></app>
                   <app loc="29"><lem>-devaḥ</lem><note>ḥ squeezed in a narrow space between va and subsequent ku.</note></app>
