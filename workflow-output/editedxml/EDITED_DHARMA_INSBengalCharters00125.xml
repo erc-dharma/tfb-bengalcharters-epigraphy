@@ -91,6 +91,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2022-07-21" status="draft">Bibliography completed</change>
          <change who="part:ryfu" when="2022-07-21" status="draft">Translation completed</change>
          <change who="part:ryfu" when="2022-07-15" status="draft">Initial encoding</change>
       </revisionDesc>
@@ -123,7 +124,7 @@
              </lg>
              <lg n="4" met="upajāti">
                  <l n="a">ca<lb n="7" break="no"/>latsv ananteṣu valeṣu yasya</l>
-                 <l n="b">viśvambharāyā<unclear>ṁ</unclear> nicitaṁ rajobhiḥ<g type="dandaSerif">.</g></l>
+                 <l n="b">viśvambharāyā nicitaṁ rajobhiḥ<g type="dandaSerif">.</g></l>
                  <l n="c">pāda-pracāra-kṣamam antarikṣam</l>
                  <l n="d">vihaṅgamānāṁ suciram vabhūva<g type="ddandaSerif">.</g></l>
              </lg>
@@ -250,7 +251,7 @@
                  <p rend="stanza" n="1">May the accomplishment of that venerable one, the one who accomplished the aim, who has mind firmly set on the benefit of others, who practices the good way, make the excellent accomplishment among people! After winning the roads to the accomplishment of true essence consisting of three substances by the rise of very ferocious valour, that Sugata <supplied reason="explanation">the Buddha</supplied>, the good, the lord of the entire earth, reached the emancipation.</p>
                  <p rend="stanza" n="2">There was Gopāla <supplied reason="explanation">I</supplied>, the husband of the Earth and the Fortune, having unequalled good luck. When he, the good king, was the true example, even those <supplied reason="subaudible">kings</supplied> beginning with Pr̥thu and Sagara were trustable <supplied reason="subaudible">of their existence</supplied> for leaned people.</p>
                  <p rend="stanza" n="3">After conquering the earth limited by the ocean, because the enclosing fence was loosened by him, <supplied reason="subaudible">his</supplied> elephants, with tears, met <supplied reason="subaudible">their</supplied> relatives, whose eyes were shedding tears, again in forests.</p>
-                 <p rend="stanza" n="4">When his innumerable armies roam around on the earth, the sky, which was covered by dust, became fit for the use by feet of birds for a long time.</p>
+                 <p rend="stanza" n="4">When his innumerable armies roam around, the sky, which was covered by dust from the earth, became fit for the use by feet of birds for a long time.</p>
                  <p rend="stanza" n="5">By illustrious Dharmapāla, <supplied reason="subaudible">his</supplied> son, who was devoted to the meaning of the śāstras and fixed the trembling <supplied reason="subaudible">four</supplied> varṇas to <supplied reason="subaudible">their</supplied> own dharma after directing <supplied reason="subaudible">them</supplied>, he <supplied reason="explanation">Gopāla I</supplied> became free from debt to his forefathers staying in the heaven.</p>
                  <p rend="stanza" n="6">The Earth, being tormented by roaming elephants belonging to him, which were like moving mountains, resorted to a refuge of untroubled sky in the form of dust.</p>
                  <p rend="stanza" n="7">After raising up pleasure among his servants, who enjoyed water in a basin at the Ocean accompanied by the Gaṅgā <supplied reason="explanation">the confluence of both</supplied> according to the rule and also accomplished religious acts at the places of pilgrimage beginning with Gokarṇa, the perfection born from consequences, which conquered all these wicked people, was born in the other world.</p>
@@ -277,8 +278,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>First edited and published by Franz Kielhorn<bibl rend="omitname"><ptr target="bib:Kielhorn1892_02"/></bibl> and then re-edited by Lionel D. Barnett<bibl rend="omitname"><ptr target="bib:Barnett1925-1926_02"/></bibl>. Chected by Arlo Griffiths  after the edition of Barnett against photos of the plate furnished by Annabel Gallop of the British Library. Checked again by Ryosuke Furui against the same photos, and transcribed and encoded according to DHARMA guidelines.</p>
         	<listBibl type="primary">
         	    <bibl n="FK"><ptr target="bib:Kielhorn1892_02"/></bibl>
         	    <bibl n="LB"><ptr target="bib:Barnett1925-1926_02"/></bibl>
