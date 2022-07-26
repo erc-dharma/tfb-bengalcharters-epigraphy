@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Mongyr/Munger Copperplate Inscription of Devapāla, year 33</title>
+                <title>Mongyr/Munger Plate of Devapāla, year 33</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <persName ref="part:ryfu">
@@ -107,7 +107,7 @@
                  <l n="d">śraddheyāḥ pr̥thu-sagarādayo 'py abhūvan·<g type="ddandaSerif">.</g></l>
              </lg>
              <lg n="3" met="vaṁśastha">
-                 <l n="a">vijitya yenā-jaladher vasundha<lb n="6" break="no"/>rāṁ</l>
+                 <l n="a">vijitya yenā jaladher vasundha<lb n="6" break="no"/>rāṁ</l>
                  <l n="b">vimocitā mogha-parigrahā Iti<g type="dandaSerif">.</g></l>
                  <l n="c">sa-vāṣpam udvāṣpa-vilocanān punar</l>
                  <l n="d">vvaneṣu vandhūn dadr̥<choice><orig>ṣ</orig><corr>ś</corr></choice>ur mmataṅgajāḥ<g type="ddandaSerif">.</g></l>
