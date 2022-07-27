@@ -83,6 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2022-07-27" status="draft">Text and Apparatus completed.</change>
             <change who="part:ryfu" when="2022-07-27" status="draft">Initial encoding</change>
             <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
         </revisionDesc>
@@ -209,6 +210,106 @@
                  </p>
                  <p>samvaT <num value="35">35</num> karttika dine <num value="21">21</num></p>
                  <pb n="1v"/><lb n="43"/><p>tathā ca dharmānuśansana-ślokāḥ</p>
+                 <lg n="16" met="anuṣṭubh">
+                     <l n="ab">vahubhir vasudhā dattā rājabhiḥ<lb n="44" break="no"/> sagarādibhiḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                     <l n="cd">yasya yasya yadā bhūmis tasya tasya tadā phalaṁ<g type="ddanda">.</g></l>
+                 </lg>
+                 <lg n="17" met="anuṣṭubh">
+                     <l n="ab"><lb n="45"/>sva-dattām para-dattām vā yo hareta vasundharāṁ<g type="danda">.</g></l>
+                     <l n="cd">sa viṣṭhāyāṁ kr̥mir bhūtvā pitr̥bhiḥ<lb n="46"/> saha pacyate<g type="ddandaStrokeLeft">.</g></l>
+                 </lg>
+                 <lg n="18" met="anuṣṭubh">
+                     <l n="ab">ṣaṣṭim varṣa-sahasrāṇi svarge modati bhūmidaḥ<g type="danda">.</g></l>
+                     <l n="cd">Ākṣeptā cānumantā ca tāny eva<lb n="47"/> narake vaseT<g type="ddandaStrokeLeft">.</g></l>
+                 </lg>
+                 <lg n="19" met="anuṣṭubh">
+                     <l n="ab">Anya-dattāṁ dvijātibhyo yatnād rakṣa yudhiṣṭhira<g type="danda">.</g></l>
+                     <l n="cd">mahīṁ ma<surplus>ṁ</surplus>hībhr̥tāṁ śreṣṭha dā<lb n="48" break="no"/>nāc chreyo 'nupālanaṁ*<g type="ddandaStrokeLeft">.</g></l>
+                 </lg>
+                 <lg n="20" met="vasantatilakā">
+                     <l n="a">Asmat-kula-kramam udāram udāharadbhir</l>
+                     <l n="b">anyaiś ca dānam idam abhyanumodanīyaṁ<g type="commaSmall">.</g></l>
+                     <l n="c">lakṣmyās taḍit-salila-vudvuda-ca<lb n="49" break="no"/>ñcalāyā</l>
+                     <l n="d">dāna<unclear>ṁ</unclear> phalaṁ para-yaśaḥ-paripālanaṁ ca<g type="ddandaStrokeLeft">.</g></l>
+                 </lg>
+                 <lg n="21" met="puṣpitāgrā">
+                     <l n="a">Iti kamala-dalāmvu-vindu-lolāṁ</l>
+                     <l n="b">śriyam anucintya manuṣya-jīvitaṁ ca<supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                     <l n="c">sakalam i<lb n="50" break="no"/>dam udāhr̥taṁ ca vudhvā</l>
+                     <l n="d">na hi puruṣaiḥ para-kīrttayo vilopyāḥ<g type="ddandaStrokeLeft">.</g></l>
+                 </lg>
+                 <lg n="22" met="āryā">
+                     <l n="ab">dakṣiṇa-bhuja Iva rājñaḥ para-vala-dalane sahāya-nirapekṣaḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                     <l n="cd"><lb n="51"/>dūtyaṁ śrī-valavarmmā vidadhe dharmmādhikāre !’smin·<g type="ddanda">.</g></l>
+                 </lg>
+                 <lg n="23" met="āryā">
+                     <l n="ab">Asmin<unclear>·</unclear> dharmmārambhe dūtyaṁ śrī-devapāla-devasya<g type="danda">.</g></l>
+                     <l n="cd">vidadhe śrī-valavarmmā vyāghrataṭī-maṇḍalādhipatiḥ<g type="ddanda">.</g></l>
+                 </lg>
+                 <lg n="24" met="vasantatilakā">
+                     <l n="a"><lb n="52"/>Āsīd aśeṣa-nara-pāla-vilola-mauli</l>
+                     <l n="b">-mālā-maṇi-dyuti-vivodhita-pāda-padmaḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                     <l n="c">śailendra-vaṁśa-tilako yavabhūmi-pālaḥ</l>
+                     <l n="d">śrī-vīravairimathanā<lb n="53" break="no"/>nugatābhidhānaḥ<g type="ddandaStrokeLeft">.</g></l>
+                 </lg>
+                 <lg n="25" met="vasantatilakā">
+                     <l n="a">harmya-sthaleṣu kumudeṣu mr̥ṇālinīṣu</l>
+                     <l n="b">śaṅkhendu-kunda-tuhineṣu padan dadhānā<g type="dandaStrokeLeft">.</g></l>
+                     <l n="c">niḥśeṣa-diṅ-mukha-nirantara-lavdha-gīti<lb n="54" break="no"/>r</l>
+                     <l n="d">mūrtteva yasya bhuvanāni jagāma kīrttiḥ<g type="ddandaStrokeLeft">.</g></l>
+                 </lg>
+                 <lg n="26" met="praharṣiṇī">
+                     <l n="a">bhrūbhaṅge bhavati nr̥pa<surplus><g type="danda">.</g></surplus>sya yasya kopān</l>
+                     <l n="b">nirbhinnāḥ saha hr̥dayair dviṣāṁ śriyo 'pi<g type="dandaStrokeLeft">.</g></l>
+                     <l n="c">vakrāṇām i<lb n="55" break="no"/>ha hi paropaghāta-dakṣā</l>
+                     <l n="d">jāyante jagati bhr̥<choice><orig>ṣ</orig><corr>ś</corr></choice>aṅgati-prakārāḥ<g type="ddandaStrokeLeft">.</g></l>
+                 </lg>
+                 <lg n="27" met="vasantatilakā">
+                     <l n="a">tasyābhavan naya-parākrama-śīla-śālī</l>
+                     <l n="b">rājendra-mauli-śata-durllaḍitāṅghri<lb n="56" break="no"/>-yugmaḥ<g type="danda">.</g></l>
+                     <l n="c">sūnur yudhiṣṭhira-parāśara-bhīmasena</l>
+                     <l n="d">-karṇṇārjjunārjjita-yaśāḥ samarāgra-vīraḥ<choice><sic><g type="danda">.</g></sic><corr><g type="ddanda">.</g></corr></choice></l>
+                 </lg>
+                 <lg n="28" met="vasantatilakā">
+                     <l n="a">Uddhūtam amvara-talā<unclear>d</unclear> y<unclear>u</unclear>dhi sañcarantyā</l>
+                     <l n="b">yat-senayāvani-rajaḥ-pa<lb n="57" break="no"/>ṭalaṁ paṭīyaḥ<g type="danda">.</g></l>
+                     <l n="c">karṇṇānilena kariṇāṁ śanakam vitīrṇṇair</l>
+                     <l n="d">gaṇḍa-sthalī-mada-jalaiḥ śamayām vabhūva<g type="ddandaStrokeLeft">.</g></l>
+                 </lg>
+                 <lg n="29" met="anuṣṭubh">
+                     <l n="ab">Akr̥ṣṇa-pakṣam evedam abhūd bhuvana-maṇḍalaṁ<g type="danda">.</g></l>
+                     <l n="cd"><lb n="58"/>valan daityādhipasyeva yad-yaśobhir anārataṁ*<g type="ddandaStrokeLeft">.</g></l>
+                 </lg>
+                 <lg n="30" met="śārdūlavikrīḍita">
+                     <l n="a">paulomīva surādhipasya viditā saṅkalpa-yoner iva</l>
+                     <l n="b"><unclear>prī</unclear>tiḥ śaila-suteva manmatha-ri<lb n="59" break="no"/>por llakṣmīr murārer iva<g type="danda">.</g></l>
+                     <l n="c">rājñaḥ soma-kulānvayasya mahataḥ śrī-varmasetoḥ sutā</l>
+                     <l n="d">tasyābhūd avanī-bujo !’gra-mahiṣī tāreva tārāhvayā<g type="ddandaStrokeLeft">.</g></l>
+                 </lg>
+                 <lg n="31" met="śārdūlavikrīḍita">
+                     <l n="a">māyā<lb n="60" break="no"/>yām iva kāmadeva-vijayī śuddhodanasyātmajaḥ</l>
+                     <l n="b">skando nandita-deva-vr̥nda-hr̥dayaḥ śambhor umāyām iva<g type="danda">.</g></l>
+                     <l n="c">tasyān tasya narendra-vr̥nda-vinamat-pādāravi<lb n="61" break="no"/>ndāsanaḥ</l>
+                     <l n="d">sarvvorvvī-pati-garvva-kharvvaṇa-caṇaḥ śrī-vālaputro !’bhavaT<g type="ddanda">.</g></l>
+                 </lg>
+                 <lg n="32" met="śārdūlavikrīḍita">
+                     <l n="a">nālandā-guṇa-vr̥nda-luvdha-manasā bhaktyā ca śauddhodhaner</l>
+                     <l n="b">vuddhvā śaila-sarit-taraṁga-taralāṁ<lb n="62"/> <unclear>la</unclear>kṣmīm imāṅ kṣobhanām·<g type="danda">.</g></l>
+                     <l n="c">yas tenonnata-saudhadhāma-dhavalaḥ saṅghārtha-mittra-śriyā</l>
+                     <l n="d">nānā-sad-guṇa-bhikṣu-saṅgha-vasatis tasyām vihāraḥ kr̥taḥ<g type="ddandaStrokeLeft">.</g></l>
+                 </lg>
+                 <lg n="33" met="śārdūlavikrīḍita">
+                     <l n="a">bhaktyā<lb n="63"/> tatra samasta-śatru-vanitā-vaidhavya-dīkṣā-guru<unclear>ṁ</unclear></l>
+                     <l n="b">kr̥tvā śāsanam āhitādaratayā samprārthya dūtair asau<g type="danda">.</g></l>
+                     <l n="c">grāmāṁ* pañca vipañcitopari-yathoddeśā<lb n="64" break="no"/>n imān ātmanaḥ</l>
+                     <l n="d">pitro<unclear>r llo</unclear>ka-hitodayāya ca dadau śrī-devapālaṁ nr̥paṁ<g type="ddandaStrokeLeft">.</g></l>
+                 </lg>
+                 <lg n="34" met="sragdharā">
+                     <l n="a">yāvat sindhoḥ pravandhaḥ pr̥thula-hara-jaṭā-kṣobhitāṅgā ca gaṅgā</l>
+                     <l n="b">gurvvīṁ<lb n="65"/> <unclear>dha</unclear>tte phaṇīndraḥ prati-dinam acalo helayā yāvad urvvīṁ<g type="danda">.</g></l>
+                     <l n="c">yāvac cāstodayādrī ravi-turaga-khurodghr̥ṣṭa-cūḍāmaṇī stas</l>
+                     <l n="d">tāvat sat-kīrttir eṣā prabhava<lb n="66" break="no"/>tu jagatām sat-kriyā ropayantī<g type="ddanda">.</g></l>
+                 </lg>
              </div>
          </div>
          <div type="apparatus">
@@ -216,9 +317,9 @@
                   <app loc="4"><lem>san sarvva-bhūmīśvaraḥ</lem><rdg source="bib:Shastri1923-1924_01">sarvvārthabhūmīśvaraḥ</rdg> <rdg source="bib:Sircar1983_01">sarvārthabhūmīśvaraḥ</rdg></app>
                   <app loc="8"><lem>!’nuśāsya</lem><rdg source="bib:Shastri1923-1924_01;bib:Majumdar1926_01;bib:Sircar1983_01">'nuśāsya</rdg></app>
                   <app loc="9"><lem>-dharme</lem><rdg source="bib:Majumdar1926_01">-dharmme</rdg></app>
-                  <app loc="10"><lem>anuṣṭhi<lb n="11" break="no"/>tavatā<choice><sic>t</sic><corr>n</corr></choice> tīrtheṣu</lem><rdg source="bib:Shastr1923-1924_01;bib:Sircar1983_01">anuṣṭhi<lb n="11" break="no"/>tavatān tīrtheṣu</rdg></app>
+                  <app loc="10"><lem>anuṣṭhi<lb n="11" break="no"/>tavatā<choice><sic>t</sic><corr>n</corr></choice> tīrtheṣu</lem><rdg source="bib:Shastri1923-1924_01;bib:Sircar1983_01">anuṣṭhi<lb n="11" break="no"/>tavatān tīrtheṣu</rdg></app>
                   <app loc="11"><lem>uddhr̥tya</lem><rdg source="bib:Shastri1923-1924_01">udvr̥tya</rdg></app>
-                  <app loc="13"><lem>hr̥dayan</lem><rdg source="bib:Shastri1923-1924_01;bibSircar1983_01">hr̥dayaṁ</rdg></app>
+                  <app loc="13"><lem>hr̥dayan</lem><rdg source="bib:Shastri1923-1924_01;bib:Sircar1983_01">hr̥dayaṁ</rdg></app>
                   <app loc="15"><lem>prakr̥ti<surplus>r</surplus>-</lem><rdg source="bib:Shastri1923-1924_01;bib:Majumdar1926_01;bib:Sircar1983_01">prakr̥ti-</rdg></app>
                   <app loc="16"><lem>-vr̥ttaṁ</lem><rdg source="bib:Shastri1923-1924_01;bib:Majumdar1926_01;bib:Sircar1983_01">-vaktraṁ</rdg></app>
                   <app loc="17"><lem>-krameṇa</lem><rdg source="bib:Shastri1923-1924_01;bib:Majumdar1926_01;bib:Sircar1983_01">-krameṇa<g type="danda">.</g></rdg></app>
@@ -250,16 +351,46 @@
                   <app loc="35"><lem>Akiñcit-</lem><rdg source="bib:Shastri1923-1924_01;bib:Sircar1983_01">Akiṁcit-</rdg></app>
                   <app loc="35"><lem>-pragrāhy<choice><sic>a</sic><corr>ā</corr></choice> raja-</lem><rdg source="bib:Shastri1923-1924_01">-pragrā<unclear>hya</unclear>-rāja-</rdg><rdg source="bib:Majumdar1926_01">-pragrā<unclear>hyā</unclear> rāja-</rdg><rdg source="bib:Sircar1983_01">-pragrā<unclear>hya</unclear> rāja-</rdg></app>
                   <app loc="36"><lem>-samakālaṁ*</lem><rdg source="bib:Shastri1923-1924_01">-samakālam</rdg></app>
-                  <app loc="38"><lem>-sthānasyāryāvaivartti</lem><rdg source="bib:Majumdar1926_01">-sthānasyārcārthe tātra</rdg><rdg source="bib:Shastri1923\1924_01">-sthānasyāyārthe tāṁttra</rdg><rdg source="bib:Sircar1983_01">-sthānasyāyārthe tāṁtra</rdg></app>
+                  <app loc="38"><lem>-sthānasyāryāvaivartti</lem><rdg source="bib:Majumdar1926_01">-sthānasyārcārthe tātra</rdg><rdg source="bib:Shastri1923-1924_01">-sthānasyāyārthe tāṁttra</rdg><rdg source="bib:Sircar1983_01">-sthānasyāyārthe tāṁtra</rdg></app>
                   <app loc="39"><lem>-bhai<lb n="40" break="no"/>ṣajyādy-</lem><rdg source="bib:Shastri1923-1924_01">-bhe<lb n="40" break="no"/>ṣajyādy-</rdg></app>
                   <app loc="40"><lem>lekhanādy-arthaṁ</lem><rdg source="bib:Sircar1983_01">lekhanādy-artha</rdg></app>
                   <app loc="40"><lem>bhavadbhiḥ</lem><rdg source="bib:Sircar1983_01">bhavadbhi</rdg></app>
-                  <app loc="41"><lem>-phala-</lem><rdg source="bib:Shastri1923\1924_01;bib:Sircar1983_01">-pāla<supplied reason="omitted">na</supplied>-</rdg></app>
+                  <app loc="41"><lem>-phala-</lem><rdg source="bib:Shastri1923-1924_01;bib:Sircar1983_01">-pāla<supplied reason="omitted">na</supplied>-</rdg></app>
                   <app loc="41"><lem>pālanīyaṁ<g type="dandaStrokeLeft">.</g> prativāsibhir</lem><rdg source="bib:Shastri1923-1924_01;bib:Sircar1983_01">pālanīyaṁ prativāsibhir</rdg></app>
                   <app loc="42"><lem><num value="35">35</num></lem><rdg source="bib:Shastri1923-1924_01;bib:Majumdar1926_01"><num value="39">39</num></rdg></app>
+                  <app loc="44"><lem>phalaṁ</lem><rdg source="bib:Shastri1923-1924_01">phalam·</rdg></app>
+                  <app loc="45"><lem>viṣṭhāyāṁ</lem><rdg source="bib:Shastri1923-1924_01;bib:Majumdar1926_01">viṣṭāyāṁ</rdg></app>
+                  <app loc="47"><lem>mahīṁ</lem><rdg source="bib:Sircar1983_01">maṁhī</rdg></app>
+                  <app loc="47"><lem>ma<surplus>ṁ</surplus>hībhr̥tāṁ</lem><rdg source="bib:Shastri1923-1924_01">mahīsr̥tāṁ</rdg><rdg source="bib:Majumdar1926_01">mahībhr̥tāṁ</rdg></app>
+                  <app loc="48"><lem>-ca<lb n="49" break="no"/>ñcalāyā</lem><rdg source="bib:Shstri1923-1924_01;bib:Majumdar1926_01">-<unclear>caṁ</unclear><lb n="49" break="no"/>calāyā</rdg></app>
+                  <app loc="50"><lem>-kīrttayo</lem><rdg source="bib:Sircar1983_01">-kīrtayo</rdg></app>
+                  <app loc="51"><lem>dharmmārambhe</lem><rdg source="bib:Sircar1983_01">dharmārambhe</rdg></app>
+                  <app loc="52"><lem>vīravairimathanā<lb n="53" break="no"/>nugatābhidhānaḥ</lem><rdg source="bib:Majumdar1926_01">vīravairimathanā<lb n="53" break="no"/>vagatābhidhānaḥ</rdg></app>
+                  <app loc="53"><lem>-gīti<lb n="54" break="no"/>r</lem><rdg source="bib:Shastri1923-1924_01;bib:Sircar1983_01">-gītiḥ</rdg><rdg source="bib:Majumdar1926_01">-gīti<unclear>ḥ</unclear></rdg></app>
+                  <app loc="54"><lem>nr̥pa<surplus><g type="danda">.</g></surplus>sya</lem><rdg source="bib:Sircar1983_01">nr̥pāsya</rdg></app>
+                  <app loc="55"><lem>hi</lem><rdg source="bib:Sircar1983_01"/></app>
+                  <app loc="56"><lem>-talā<unclear>d</unclear> y<unclear>u</unclear>dhi</lem><rdg source="bib:Shastri1923-1924_01"> talā<choice><sic>gha</sic><corr>d yu</corr></choice>dhi</rdg><rdg source="bib:Majumdar1926_01">-talā<unclear>d yu</unclear>dhi</rdg></app>
+                  <app loc="57"><lem>paṭīyaḥ</lem><rdg source="bib:Shastri1923-1924_01">padottham</rdg><rdg source="bib:Sircar1983_01">paṭīyaṁ</rdg></app>
+                  <app loc="57"><lem>vitīrṇṇair</lem><rdg source="bib:Shastri1923-1924_01">vitīṇṇar</rdg><rdg source="bib:Sircar1983_01">vitīrṇṇa-</rdg></app>
+                  <app loc="57"><lem>-sthalī-mada-jalaiḥ</lem><rdg source="bib:Sircar1983_01">-sthalī madajalai</rdg></app>
+                  <app loc="57"><lem>bhuvana-</lem><rdg source="bib:Shastri1923-1924_01">bhavana-</rdg></app>
+                  <app loc="58"><lem>valan</lem><rdg source="bib:Shastri1923-1924_01;bib:Sircar1983_01">kulan</rdg><rdg source="bib:Majumdar1926_01"><unclear>ku</unclear>lan</rdg></app>
+                  <app loc="58"><lem>anārataṁ*<g type="ddandaStrokeLeft">.</g></lem><rdg source="bib:Shastri1923-1924_01;bib:Sircar1983_01">anāratam·</rdg></app>
+                  <app loc="58"><lem><unclear>prī</unclear>tiḥ</lem><rdg source="bib:Shastri1923-1924_01;bib:Majumdar1926_01"><unclear>prītiḥ</unclear></rdg><rdg source="bib:Sircar1983_01">p<choice><sic>r̥</sic><corr>rī</corr></choice>tiḥ</rdg><note>ī mātra of prī is squeezed in a narrow space.</note></app>
+                  <app loc="59"><lem>-varmasetoḥ</lem><rdg source="bib:Shastri1923-1924_01">-dharmasetoḥ</rdg><note>N. G. Majumdar<bibl rend="omitname"><ptr target="bib:Majumdar1926_01"/></bibl> and D. C. Sircar<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/></bibl> have correctly observed that the akṣara va is clear, but nevertheless it seems inevitable to emend this reading to -dharmasetoḥ, because dharmasetu is a recurrent theme in the inscriptions of this period and Varmasetu is not a plausible name.</note></app>
+                  <app loc="61"><lem>sarvvorvvī-</lem><rdg source="bib:Shastri1923-1924_01">sarvvorvvo-</rdg></app>
+                  <app loc="61"><lem>vuddhvā</lem><rdg source="bib:Shastri1923-1924_01;bib:Majumdar1926_01;bib:Sircar1983_01">vudhvā</rdg></app>
+                  <app loc="61"><lem>-taraṁga-</lem><rdg source="bib:Shastri1923-1924_01;bib:Sircar1983_01">-taraṅga-</rdg></app>
+                  <app loc="62"><lem>imāṅ</lem><rdg source="bib:Shastri1923-1924_01;bib:Majumdar1926_01;bib:Sircar1983_01">imāṁ</rdg></app>
+                  <app loc="62"><lem>kṣobhanām·</lem><rdg source="bib:Majumdar1926_01;bib:Sircar1983_01">kṣobhanāṁ</rdg></app>
+                  <app loc="62"><lem>-mittra-</lem><rdg source="bib:Shastri1923-1924_01">-mitra-</rdg></app>
+                  <app loc="63"><lem>samprārthya</lem><rdg source="bib:Shastri1923-1924_01">yam prārthya</rdg></app>
+                  <app loc="63"><lem>grāmāṁ*</lem><rdg source="bib:Shastri1923-1924_01;bib:Sircar1983_01">grāmān·</rdg><rdg source="bib:Majumdar1926_01">grāmāṁ</rdg></app>
+                  <app loc="64"><lem>pitro<unclear>r llo</unclear>ka-</lem><rdg source="bib:Sircar1983_01">pitro<unclear>r lo</unclear>ka-</rdg></app>
+                  <app loc="66"><lem>ropayantī</lem><rdg source="bib:Shastri1923-1924_01">ropayaṁtī</rdg></app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:ryfu">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
