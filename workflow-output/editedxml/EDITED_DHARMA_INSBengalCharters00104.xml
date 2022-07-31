@@ -104,7 +104,7 @@
       <body>
          <div type="edition" xml:lang="san-Latn">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-                 <ab><lb n="1">śrī-devapāla-devasya</lb></ab>
+                 <ab><lb n="1"/>śrī-devapāla-devasya</ab>
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                  <pb n="1r"/><lb n="1"/><p><g type="spiralL"/><!--siddham--> svasti<g type="dandaStrokeLeft">.</g></p>
