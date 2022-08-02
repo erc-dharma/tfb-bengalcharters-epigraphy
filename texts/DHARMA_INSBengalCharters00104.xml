@@ -83,10 +83,10 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2022-08-02" status="draft">Bibliography completed.</change>
             <change who="part:ryfu" when="2022-08-01" status="draft">Translation completed.</change>
             <change who="part:ryfu" when="2022-07-27" status="draft">Text and Apparatus completed.</change>
             <change who="part:ryfu" when="2022-07-27" status="draft">Initial encoding</change>
-            <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -441,15 +441,14 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>The inscription was first edited by Hirandanda Sastri<bibl rend="omitname"><ptr target="bib:Shastri1923-1924_01"/></bibl>, an edition subsequently reprinted by him in his Nālandā and Its Epigraphic Material<bibl rend="omitname"><ptr target="bib:Sastri1942_01"/><citedRange unit="page">92-102</citedRange></bibl>. In the meantime, however, a more reliable edition had appeared from the hands of Nanigopal Majumdar<bibl rend="omitname"><ptr target="bib:Majumdar1926_01"/></bibl>. This has been ignored not only by Hirandanda Sastri but also by most other scholars, including Dines Chandra Sircar<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/></bibl> who re-edited the inscription. The present edition is based on the reading by Arlo Griffiths, who consulted all the thee editions against the estampage of the plate, which was further checked by Ryosuke Furui against the digital photographs obtained from Natinal Museum, New Delhi.</p>
         	<listBibl type="primary">
         	    <bibl n="HS"><ptr target="bib:Shastri1923-1924_01"/></bibl>
         	    <bibl n="NGM"><ptr target="bib:Majumdar1926_01"/></bibl>
         	    <bibl n="DCS"><ptr target="bib:Sircar1983_01"/><citedRange unit="page">71-79</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl><ptr target="bib:Sastri1942_01"/><citedRange unit="page">92-102</citedRange></bibl>
            </listBibl>
         </div>
       </body>
