@@ -281,7 +281,7 @@
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
            <listBibl type="primary">
-            <bibl n="RM"><ptr target="bib:Mitra1878_02"/></bibl>
+            <bibl n="RM"><ptr target="bib:Mitra1878_02"/><citedRange unit="page">404-410</citedRange></bibl>
             <bibl n="AKM"><ptr target="bib:Maitreya1912_01"/><citedRange unit="page">55-69</citedRange></bibl>
             <bibl n="DCS"><ptr target="bib:Sircar1983_01"/><citedRange unit="page">80-86</citedRange></bibl>
            </listBibl>
