@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2022-09-27" status="draft">Texparts division rearranged.</change>
          <change who="part:ryfu" when="2021-12-01" status="draft">Apparatus rearrannged with addition of heads and correction of line assignement, textpart B rearranged.</change>
          <change who="part:ryfu" when="2021-10-11">Dandas encoded as glyphs.</change>
          <change who="part:ryfu" when="2021-02-01" status="draft">Text, apparatus and translation corrected</change>
@@ -106,11 +107,9 @@
 	<div type="textpart" n="A"><head xml:lang="eng">Seal</head>
 		<ab><lb n="1"/>śrīmaṅ-gopāladevasya</ab>        
 	</div>
-	<div type="textpart" n="B"><head xml:lang="eng">Left margin of obverse of the plate</head>
-         	<ab><lb n="1"/>ni <lb n="2"/>ni <lb n="3"/>ni</ab>
-	</div>
-	<div type="textpart" n="C"><head xml:lang="eng">Plate</head>
-	<pb n="1r"/><lb n="1"/><p><g type="spiralL"/><!-- siddham -->Om̐ namo vuddhāya<g type="ddanda">.</g> svasti<g type="ddanda">.</g></p>
+	<div type="textpart" n="B"><head xml:lang="eng">Plate</head>
+	<pb n="1r"/><ab><lb n="01" rend="tb-upright"/> ni ni ni</ab>
+		<lb n="1"/><p><g type="spiralL"/><!-- siddham -->Om̐ namo vuddhāya<g type="ddanda">.</g> svasti<g type="ddanda">.</g></p>
 	<lg n="1" met="sragdharā">
 		<l n="a">maitrīṁ kāruṇya-ratna-pramudita-hr̥dayaḥ preyasīṁ sandadhānaḥ </l>
 		<l n="b">samyag-samvodhi-vidyā-sarid-amala-jala-kṣā¦<lb n="2" break="no"/>litājñāna-paṅkaḥ<supplied reason="omitted"><g type="danda">.</g></supplied> </l>
@@ -280,15 +279,9 @@
 	</div>
          </div>
          <div type="apparatus">
-         <div type="textpart" n="B"><head xml:lang="eng">Left margin of obverse of the plate</head>
+         <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                <listApp>
-                  <app loc="1">
-                     <lem>ni <lb n="2"/> ni <lb n="3"/> ni</lem><note> The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the left margin of the obverse of the plate, beside the lines 1, 2, and 3 and 4 respectively.</note>
-                  </app>
-               </listApp>
-         </div>
-         <div type="textpart" n="C"><head xml:lang="eng">Plate</head>
-               <listApp>
+               	<app loc="01"><lem>ni ni ni</lem><note> The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the left margin of the obverse of the plate, beside the lines 1, 2, and 3 and 4 respectively</note></app>
                	<app loc="2"><lem>śrīmāl</lem><rdg source="bib:Furui2015_02">śrīmal-</rdg></app>
                	<app loc="16"><lem>bh<choice><sic>ū</sic><corr>u</corr></choice>vanasya</lem><rdg source="bib:Furui2015_02">bhuvanasya</rdg></app>
                	<app loc="17"><lem>bh<choice><sic>u</sic><corr>ū</corr></choice>-bhr̥tāṁ</lem><rdg source="bib:Furui2015_02">bhū-bhr̥tāṁ</rdg></app>
@@ -311,10 +304,8 @@
  	<div type="textpart" n="A"><head xml:lang="eng">Seal</head>
  		<ab>Of illustrious Gopāladeva</ab>
  	</div>
-	 <div type="textpart" n="B"><head xml:lang="eng">Left margin of obverse of the plate</head>
-	 	<ab><lb n="1"/>Confirmed. <lb n="2"/>Confirmed. <lb n="3"/>Confirmed.</ab>
-	 </div>
-	<div type="textpart" n="C"><head xml:lang="eng">Plate</head>
+	<div type="textpart" n="B"><head xml:lang="eng">Plate</head>
+		<p n="01">Confirmed. Confirmed. Confirmed. </p>
 		<p n="1">Success! Oṁ, salutation to the Buddha! Welfare!</p>
 		<p rend="stanza" n="1">The one with mind delighted by the jewel of compassion, who is united with beloved goddess Benevolence, whose dirt of ignorance is cleansed by pure water of the stream of knowledge of perfect enlightenment, who, after conquering the powerful cause of existence producing desire, acquired eternal tranquillity, may he, the illustrious Lord of the World <supplied reason="explanation"> the Buddha</supplied> possessing ten powers be victorious, otherwise also Gopāladeva<supplied reason="explanation">I</supplied>!</p>
 		<p rend="stanza" n="2">From him was born illustrious king Dharmapāla, who was the birth place of Lakṣmī <supplied reason="explanation">the ocean</supplied> with makaras<seg rend="pun">was levying fair tax on the origin of wealth</seg>, able to carry the burden of the earth, a sole refuge for mountains <seg rend="pun">kings</seg> approaching him in fear of cutting of their wings <seg rend="pun">destruction of their troops</seg>, devoted to the protection of custom, an abode of heroism and a dwelling of smile with beauty of milk ocean.</p>

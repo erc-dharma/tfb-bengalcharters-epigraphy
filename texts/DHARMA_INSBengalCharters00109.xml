@@ -81,6 +81,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2022-09-27" status="draft">Texparts division rearranged.</change>
             <change who="part:ryfu" when="2022-07-29" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2021-12-14" status="draft">Translation completed.</change>
             <change who="part:ryfu" when="2021-12-01">Apparatus textpart division and head added.</change>
@@ -352,9 +353,7 @@
                     <l n="ab"><lb n="76"/>śrīmatā dakkadāsena jayadāsasya sūnunā<g type="danda">.</g></l>
                     <l n="cd">Idaṁ śāsanam utkīrṇṇaṁ sat-sāmataṭa-janmanā<g type="ddanda">.</g></l>
                 </lg>
-            </div>
-            <div type="textpart" n="C"><head xml:lang="eng">Reverse, lower left corner</head>
-                <ab>ni</ab>
+                <ab><lb n="01"/>ni</ab>
             </div>
          </div>
          <div type="apparatus">
@@ -398,6 +397,7 @@
                   <app loc="72"><lem>vidham paprathe</lem><rdg source="bib:Furui2008_01">vidhamya praddhe</rdg></app>
                   <app loc="72"><lem>yasyānapakramava<lb n="73" break="no"/><supplied reason="lost">taḥ</supplied></lem><rdg source="bib:Furui2008_01">yasyātapakramataḥ <lb n="73"/><gap reason="lost" extent="unknown"/></rdg></app>
                   <app loc="73"><lem>vvibhramodbhe<lb n="74" break="no"/><supplied reason="lost">da</supplied>-</lem><rdg source="bib:Furui2008_01">vvibhūnodbhe<lb n="74" break="no" /><gap reason="lost" extent="unknown"></gap></rdg></app>
+                  <app loc="01"><lem>ni</lem><note>he character ni,which seems to be an abbreviation for nibaddha "confirmed", is engraved at the lower left corner of the reverse of the plate.</note></app>
                </listApp>
              </div>
          </div>
@@ -452,9 +452,7 @@
                  <p rend="stanza" n="40">By him, with limitless devotion to the lotus feet of the Buddha, this vihāra, white like moonlight, was established. It assumes the girdle of the milk ocean, which shares appearance of restlessness, by bhikṣus clothed in red.</p>
                  <p rend="stanza" n="41">By this stealer of thick stain of the Kali age, the wonder of good deed of him who has faultless fame, may there for living beings be pacification of all the fears and firm devotion to Sugata, who sympathises with all!</p>
                  <p rend="stanza" n="42">By illustrious Dakkadāsa, the son of Jayadāsa, born to a good one belonging to Samataṭa, this edict was engraved.</p>
-             </div>
-             <div type="textpart" n="C"><head xml:lang="eng">Reverse, lower left corner</head>
-                 <ab>Confirmed.</ab>             
+                 <p n="01">Confirmed.</p>
              </div>
          </div>
          <div type="commentary">
