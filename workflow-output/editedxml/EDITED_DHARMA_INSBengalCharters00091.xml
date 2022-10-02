@@ -92,6 +92,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2022-09-27" status="draft">Textparts division rearranged.</change>
          <change who="part:ryfu" when="2022-09-22" status="draft">Text and Apparatus encoded.</change>
          <change who="part:ryfu" when="2022-09-21" status="draft">Initial encoding</change>
       </revisionDesc>
@@ -102,14 +103,9 @@
             <div type="textpart" n="A"> <head xml:lang="eng">Seal</head>
              <ab><lb n="1"/>śrī-nārā<unclear>yaṇapāla</unclear>-deva<unclear>sya</unclear></ab>
             </div> 
-            <div type="textpart" n="B"><head xml:lang="eng">Upper Left Corner</head>
-                <ab>ni</ab>            
-            </div>
-            <div type="textpart" n="C"><head xml:lang="eng">Upper Right Corner</head>
-                <ab>ni</ab>
-            </div>
-            <div type="textpart" n="D"><head xml:lang="eng">Plate</head>
-                <pb n="1r"/><lb n="1"/><p><g type="spiralL"/><!-- siddham --> svasti<g type="danda">.</g></p>
+            <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
+                <pb n="1r"/><ab><lb n="0"/>ni<space extent="unknown"/>ni</ab>
+                <lb n="1"/><p><g type="spiralL"/><!-- siddham --> svasti<g type="danda">.</g></p>
                 <lg n="1" met="sragdharā">
                     <l n="a">maitrīṅ kāruya-ratna<space/>-pramudita-hr̥dayaḥ<lb n="2"/> preyasīṁ sandadhānaḥ</l>
                     <l n="b">samyak-samvodhi-vidyā-sarid-ama<lb n="3" break="no"/>la-jala-kṣālitājñāna-paṅkaḥ<g type="comma">.</g></l>
@@ -243,7 +239,9 @@
             </div>
          </div>
          <div type="apparatus">
+             <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                <listApp>
+                   <app loc="0"><lem>ni<space extent="unknown"/>ni</lem><note>The character ni, which seems to be an abbreviation for nibaddha “confirmed”, is engraved on the upper left and right margins of the obverse of the plate.</note></app>
                   <app loc="6"><lem>maryādā-</lem><rdg source="bib:Sircar1983_01">maryyādā-</rdg></app>
                   <app loc="6"><lem>śauryālayo</lem><rdg source="bib:Sircar1983_01">śauryyālayo</rdg></app> 
                   <app loc="13"><lem>-sūnur</lem><rdg source="bib:Sircar1983_01">-sūn<choice><sic>a</sic><corr>u</corr></choice>r</rdg></app>
@@ -270,8 +268,9 @@
                   <app loc="53"><lem>sa guravo</lem><note>Akṣaras sa and gu squeezed in a narrow space.</note></app>
                   <app loc="53"><lem>-kīrtt<choice><sic>i</sic><corr>e</corr></choice>ḥ</lem><rdg source="bib:Sircar1983_01">-kīrtteḥ</rdg></app>
                </listApp>
+             </div>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:ryfu">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
