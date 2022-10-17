@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -272,10 +272,10 @@
                   <app loc="37"><lem>-medāndhra-</lem><rdg source="bib:Sircar1983_01">-medāndha-</rdg></app>
                   <app loc="38"><lem>-sahasrā<lb n="39" break="no"/>yatanasya</lem><rdg source="bib:Sircar1983_01">-sahasrā<lb n="39" break="no"/>yanasya</rdg></app>
                   <app loc="39"><lem>-Ācārya-</lem><rdg source="bib:Sircar1983_01">-Ācāryya-</rdg></app>
-                  <app loc="41"><lem>-pūti-</lem><rdg source="bib:Sircar1983_-1">-yūti-</rdg></app>
+                  <app loc="41"><lem>-pūti-</lem><rdg source="bib:Sircar1983_01">-yūti-</rdg></app>
                   <app loc="45"><lem>-naraka-</lem><note>Squeezed in a narrow space.</note></app>
                   <app loc="46"><lem>kā<lb n="47" break="no"/>rya</lem><rdg source="bib:Sircar1983_01">kā<lb n="47" break="no"/>ryya</rdg></app>
-                  <app loc="47"><lem><num value="5">5</num></lem><rdg source="bib:Sircar1983"><num value="6">6</num></rdg></app>
+                  <app loc="47"><lem><num value="5">5</num></lem><rdg source="bib:Sircar1983_01"><num value="6">6</num></rdg></app>
                   <app loc="53"><lem>sa guravo</lem><note>Akṣaras sa and gu squeezed in a narrow space.</note></app>
                   <app loc="53"><lem>-kīrtt<choice><sic>i</sic><corr>e</corr></choice>ḥ</lem><rdg source="bib:Sircar1983_01">-kīrtteḥ</rdg></app>
                </listApp>
