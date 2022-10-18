@@ -288,7 +288,7 @@
          <div type="apparatus">
            <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                <listApp>
-                  <app loc="0"><lem>ni ni<space quantity="2" unit="character"/>ni ni</lem>&gt;<note>The four characters of ni, which seems to be an abbreviation for nibaddha “confirmed”, are engraved on the margin above the line 1 of the obverse.</note></app>
+                  <app loc="0"><lem>ni ni<space quantity="2" unit="character"/>ni ni</lem><note>The four characters of ni, which seems to be an abbreviation for nibaddha “confirmed”, are engraved on the margin above the line 1 of the obverse.</note></app>
                   <app loc="2"><lem>śāśvatīṁ</lem><rdg source="bib:Vasu1900_01">śāśvatāṁ</rdg></app>
                   <app loc="6"><lem>ekāt<supplied reason="omitted">a</supplied>patrā</lem><rdg source="bib:Vasu1900_01">ekātpatro</rdg></app>
                   <app loc="6"><lem>di<choice><orig>ṣ</orig><corr>ś</corr></choice>aḥ</lem><rdg source="bib:Vasu1900_01">diśaḥ</rdg></app>

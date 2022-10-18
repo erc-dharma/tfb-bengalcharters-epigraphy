@@ -164,7 +164,7 @@
                 </lg>
                 <lg n="11" met="anuṣṭubh">
                     <l n="ab">cetaḥ purāṇa-lekhyāni catur-vvargga-nidhīni ca<g type="comma">.</g></l>
-                    <l n="cd">Ārispante yatas tyāni caritāni mahībhr̥taḥ<g type="ddanda">.</g></l>
+                    <l n="cd">Āripsante yatas tyāni caritāni mahībhr̥taḥ<g type="ddanda">.</g></l>
                 </lg>
                 <lg n="12" met="āryā">
                     <l n="ab"><lb n="19"/>svī-kr̥ta-sujana-manobhiḥ satyāpita-sātivāhanaḥ sūktaih<g type="danda">.</g></l>
@@ -176,7 +176,7 @@
                 </lg>
                 <lg n="14" met="vasantatilakā">
                     <l n="a">yaḥ prajñayā ca dhanuṣā ca jagad vinīya</l>
-                    <l n="b">nityaṁ nyavīviśada<lb n="21" break="no"/>nā-kulam ātma-dharmme<g type="comma">.</g></l>
+                    <l n="b">nityaṁ nyavīviśad a<lb n="21" break="no"/>nākulam ātma-dharmme<g type="comma">.</g></l>
                     <l n="c">yasyārthinaḥ savidham etya bhr̥śaṁ kr̥tārthā</l>
                     <l n="d">naivārthitāṁ prati punar vvidadhur mmanīṣāṁ<g type="ddandaStrokeLeft">.</g></l>
                 </lg>
@@ -261,10 +261,10 @@
                   <app loc="37"><lem>-medāndhra-</lem><rdg source="bib:Sircar1983_01">-medāndha-</rdg></app>
                   <app loc="38"><lem>-sahasrā<lb n="39" break="no"/>yatanasya</lem><rdg source="bib:Sircar1983_01">-sahasrā<lb n="39" break="no"/>yanasya</rdg></app>
                   <app loc="39"><lem>-Ācārya-</lem><rdg source="bib:Sircar1983_01">-Ācāryya-</rdg></app>
-                  <app loc="41"><lem>-pūti-</lem><rdg source="bib:Sircar1983_-1">-yūti-</rdg></app>
+                  <app loc="41"><lem>-pūti-</lem><rdg source="bib:Sircar1983_01">-yūti-</rdg></app>
                   <app loc="45"><lem>-naraka-</lem><note>Squeezed in a narrow space.</note></app>
                   <app loc="46"><lem>kā<lb n="47" break="no"/>rya</lem><rdg source="bib:Sircar1983_01">kā<lb n="47" break="no"/>ryya</rdg></app>
-                  <app loc="47"><lem><num value="5">5</num></lem><rdg source="bib:Sircar1983"><num value="6">6</num></rdg></app>
+                  <app loc="47"><lem><num value="5">5</num></lem><rdg source="bib:Sircar1983_01"><num value="6">6</num></rdg></app>
                   <app loc="53"><lem>sa guravo</lem><note>Akṣaras sa and gu squeezed in a narrow space.</note></app>
                   <app loc="53"><lem>-kīrtt<choice><sic>i</sic><corr>e</corr></choice>ḥ</lem><rdg source="bib:Sircar1983_01">-kīrtteḥ</rdg></app>
                </listApp>

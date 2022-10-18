@@ -294,12 +294,12 @@
                   <app loc="19"><lem>y<choice><sic>a</sic><corr>ā</corr></choice>camanāṁ*</lem><rdg source="bib:Sircar1973_02">yacamanāḥ</rdg></app>
                   <app loc="20"><lem>-patiṁ*</lem><rdg source="bib:Sircar1973_02">-patiḥ</rdg></app>
                   <app loc="23"><lem>turagāN<g type="danda">.</g></lem><rdg source="bib:Sircar1973_02">turagān</rdg><note>A danda, which DCS omitted, is clear.</note></app>
-                  <app loc="24"><lem>taraṇeḥ</lem><rdg source="Sircar1973_02">taraṅeḥ</rdg><note>Probably a printing mistake.</note></app>
+                  <app loc="24"><lem>taraṇeḥ</lem><rdg source="bib:Sircar1973_02">taraṅeḥ</rdg><note>Probably a printing mistake.</note></app>
                   <app loc="24"><lem>-lakṣm<subst><del rend="corrected">i</del><add place="right">ī</add></subst></lem><note>An erased stroke makes it look like -lākṣmī.</note></app>
                   <app loc="28"><lem>śailātmajāruddhatī</lem><rdg source="bib:Sircar1973_02">śailātamajāru<supplied reason="omitted">ṁ</supplied>dhatī</rdg></app>
                   <app loc="29"><lem>jayānujātām</lem><rdg source="bib:Sircar1973_02">jayānujatām</rdg></app>
                   <app loc="32"><lem>vāmanaṁ</lem><rdg source="bib:Sircar1973_02">vamanaṁ</rdg></app>
-                  <app loc="32"><lem>se<lb n="33" break="no"/>ṣam</lem><rdg source="Sircar1973_02">se<lb n="33" break="no"/><supplied reason="omitted">r</supplied>ṣa<supplied reason="omitted">ya</supplied>m</rdg><note>Emdenment is impermissible in view of metre.</note></app>
+                  <app loc="32"><lem>se<lb n="33" break="no"/>ṣam</lem><rdg source="bib:Sircar1973_02">se<lb n="33" break="no"/><supplied reason="omitted">r</supplied>ṣa<supplied reason="omitted">ya</supplied>m</rdg><note>Emdenment is impermissible in view of metre.</note></app>
                   <app loc="33"><lem>-nirbhu<lb n="34" break="no"/>gna-</lem><rdg source="bib:Sircar1973_02">-nirbhu<lb n="34" break="no"/>gṇa-</rdg><note>Probably a printing mistake.</note></app>
                   <app loc="34"><lem>-vāla<unclear>ṁ*</unclear></lem><rdg source="bib:Sircar1973_02">-vālaṁ</rdg><note>DCS notes that there is what looks like an unnecessary daṇḍa.</note></app>
                   <app loc="36"><lem>-dhrāḥ</lem><rdg source="bib:Sircar1973_02">-dharāḥ</rdg></app>
@@ -311,13 +311,13 @@
                   <app loc="49"><lem>paramabhaṭṭārako</lem><rdg source="bib:Sircar1973_02">paramabhaṭṭāraka<unclear>ḥ</unclear></rdg></app>
                   <app loc="53"><lem>dāśāparādhika</lem><rdg source="bib:Sircar1973_02">dāśaparādhika</rdg><note>Probably a printing mistake.</note></app>
                   <app loc="57"><lem>bhavatān·</lem><rdg source="bib:Sircar1973_02">bhavatām</rdg></app>
-                  <app loc="59"><lem>’bhivr̥ddhaye</lem><rdg source="bib:Sircar1973_02"/>bhivr̥ddhaye<g type="danda">.</g></app>
+                  <app loc="59"><lem>’bhivr̥ddhaye</lem><rdg source="bib:Sircar1973_02">bhivr̥ddhaye<g type="danda">.</g></rdg></app>
                   <app loc="60"><lem>grāmā</lem><rdg source="bib:Sircar1973_02">grāma</rdg></app>
                   <app loc="60"><lem>-yūti-</lem><rdg source="bib:Sircar1973_02">-yuti-</rdg></app>
                   <app loc="62"><lem>-nyāye<unclear>n</unclear>ā-</lem><rdg source="bib:Sircar1973_02">-nyāye<choice><sic>t</sic><corr>n</corr></choice>a<g type="danda">.</g></rdg></app>
                   <app loc="67"><lem>vu<supplied reason="omitted">d</supplied>dhvā</lem><rdg source="bib:Sircar1973_02">vuddh<supplied reason="omitted">v</supplied>ā</rdg></app>
                   <app loc="68"><lem>-kula-</lem><rdg source="bib:Sircar1973_02">-k<choice><sic>ū</sic><corr>u</corr></choice>la-</rdg></app>
-                  <app loc="68"><lem>abhyan<unclear>u</unclear>modanīyaṁ*</lem><rdg source="Sircar1973_02">abhyan<choice><sic>ū</sic><corr>u</corr></choice>modanīya<choice><sic>ṁ</sic><corr>m</corr></choice></rdg></app>
+                  <app loc="68"><lem>abhyan<unclear>u</unclear>modanīyaṁ*</lem><rdg source="bib:Sircar1973_02">abhyan<choice><sic>ū</sic><corr>u</corr></choice>modanīya<choice><sic>ṁ</sic><corr>m</corr></choice></rdg></app>
                </listApp>
          </div>
          <div type="translation">
