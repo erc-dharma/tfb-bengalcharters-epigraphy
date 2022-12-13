@@ -11,10 +11,15 @@
             <title>Mainamati Plate of Vīradharadeva, year 15</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:ryfu"><!-- Update the id -->
+               <persName ref="part:ryfu">
                   <forename>Ryosuke</forename>
-                  <!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                  <surname>Furui</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:ryfu">
+                  <forename>Ryosuke</forename>
                   <surname>Furui</surname>
                </persName>
             </respStmt>

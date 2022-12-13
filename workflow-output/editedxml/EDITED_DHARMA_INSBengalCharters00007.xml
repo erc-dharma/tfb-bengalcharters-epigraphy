@@ -11,6 +11,12 @@
             <title>Chittagong Plate of Kāntideva</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
