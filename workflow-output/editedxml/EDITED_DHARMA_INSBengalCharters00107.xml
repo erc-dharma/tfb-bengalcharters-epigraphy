@@ -149,19 +149,19 @@
                      <l n="a">ye <choice><sic>ṣ</sic><corr>s</corr></choice>vī-kurvvanti śaureḥ śvasita-parimalaṁ yoga-nidrā-śayāloḥ</l>
                      <l n="b">yaiś cakre caṇḍa-velā-valana-kalakalaḥ kandare<lb n="19"/> mandarādreḥ<g type="danda">.</g></l>
                      <l n="c">ye ’bhūvan<supplied reason="omitted">·</supplied> sphāra-lakṣmī-nayana-kuvalaya-sragvinas te taraṅgāḥ</l>
-                     <l n="d">kṣīrāvdher y<choice><sic>a</sic><corr>ā</corr></choice>cam<choice><sic>a</sic><corr>ā</corr></choice>n<choice><sic>ā</sic><corr>a</corr></choice>ṁ* śrama-jalam apivat svānilaiḥ śīkarārdraih<g type="ddandaStrokeLeft">.</g></l>
+                     <l n="d">kṣīrāvdher yac-<unclear>c</unclear>am<unclear>ū</unclear>nāṁ* śrama-jalam apivat svānilaiḥ śīkarārdraih<g type="ddandaStrokeLeft">.</g></l>
                  </lg>
                  <lg n="9" met="śārdūlavikrīḍita">
-                     <l n="a"><lb n="20"/>preyas satyam ananta-bhoga-nilayaṁ gopāla-dharmma-krama</l>
+                     <l n="a"><lb n="20"/>preyas-satyam ananta-bhoga-nilayaṁ gopāla-dharmma-krama</l>
                      <l n="b">-prāptāṅ gām paripālayantam ajitaṁ sa prāpa lakṣmī-patiṁ*<g type="danda">.</g></l>
                      <l n="c">śrīmat-pāda-nakhendu-dīdhiti<lb n="21" break="no"/>-bharodanvan-nimagnākhila</l>
                      <l n="d">-kṣoṇī-bhr̥n-mukuṭānta-patra-makaraṁ śrī-devapāla<unclear>ṁ</unclear> sutaṁ<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="10" met="śārdūlavikrīḍita">
                      <l n="a">śvāsās tāṇḍavita-ślathālaka-śikhāḥ śete kapola<lb n="22" break="no"/>-sthalī</l>
-                     <l n="b">-talpe pāṇimaye stanau stavakayanty akṣṇor apām vi<subst><del rend="corrected">va</del><add place="overstrike">nda</add></subst>vaḥ<g type="danda">.</g></l>
+                     <l n="b">talpe pāṇimaye stanau stavakayanty akṣṇor apām vi<subst><del rend="corrected">va</del><add place="overstrike">nda</add></subst>vaḥ<g type="danda">.</g></l>
                      <l n="c">cetaḥ prāṇa-visr̥ṣṭaye spr̥hayatīty <choice><sic>a</sic><corr>ā</corr></choice>cchādita-svāmino</l>
-                     <l n="d">yad-vairi-pra<lb n="23" break="no"/>madā-janasya na kadāpy eṣā daśā proṣitā<g type="ddanda">.</g></l>
+                     <l n="d">yad-vairi-pra<lb n="23" break="no"/>madā-janasya na kadāpy eṣā d<choice><sic>a</sic><corr>r̥</corr></choice>śā proṣitā<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="11" met="āryā">
                      <l n="ab">nirbhara-bharit-vihāyasi yad-yaśasi kṣaṇam adīdharat turagāN<g type="danda">.</g></l>
@@ -292,7 +292,7 @@
                   <app loc="16"><lem>ihā<lb n="17" break="no"/>vadhīn</lem><rdg source="bib:Sircar1973_02">ihāvadhin</rdg></app>
                   <app loc="18"><lem>vahūn<unclear>·</unclear></lem><rdg source="bib:Sircar1973_02">vabhūn</rdg></app>
                   <app loc="19"><lem>kṣīrāvdher</lem><rdg source="bib:Sircar1973_02">kṣīravdher</rdg></app>
-                  <app loc="19"><lem>y<choice><sic>a</sic><corr>ā</corr></choice>cam<choice><sic>a</sic><corr>ā</corr></choice>n<choice><sic>ā</sic><corr>a</corr></choice>ṁ*</lem><rdg source="bib:Sircar1973_02">yacamanāḥ</rdg></app>
+                  <app loc="19"><lem>yac-<unclear>c</unclear>am<unclear>ū</unclear>nāṁ*</lem><rdg source="bib:Sircar1973_02">yacamanāḥ</rdg></app>
                   <app loc="20"><lem>-patiṁ*</lem><rdg source="bib:Sircar1973_02">-patiḥ</rdg></app>
                   <app loc="23"><lem>turagāN<g type="danda">.</g></lem><rdg source="bib:Sircar1973_02">turagān</rdg><note>A danda, which DCS omitted, is clear.</note></app>
                   <app loc="24"><lem>taraṇeḥ</lem><rdg source="bib:Sircar1973_02">taraṅeḥ</rdg><note>Probably a printing mistake.</note></app>
