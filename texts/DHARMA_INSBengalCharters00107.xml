@@ -152,26 +152,26 @@
                      <l n="d">yad-vairi-pra<lb n="23" break="no"/>madā-janasya na kadāpy eṣā d<choice><sic>a</sic><corr>r̥</corr></choice>śā proṣitā<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="11" met="āryā">
-                     <l n="ab">nirbhara-bharit-vihāyasi yad-yaśasi kṣaṇam adīdharat turagāN<g type="danda">.</g></l>
+                     <l n="ab">nirbhara-bharita-vihāyasi yad-yaśasi kṣaṇam adīdharat turagāN<g type="danda">.</g></l>
                      <l n="cd">kṣīrodha-taraṇa-śa<lb n="24" break="no"/>ṅkā-samākulaḥ sārathis taraṇeḥ<g type="ddandaStrokeLeft">.</g></l>
                  </lg>
                  <lg n="12" met="vasantatilakā">
                      <l n="a">yo jāta-rūpa-mayam āyatanaṁ jinasya</l>
-                     <l n="b">jāmbūnadādi-śikhara-prati-pakṣa-lakṣm<subst><del rend="corrected">i</del><add place="right">ī</add></subst><supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                     <l n="b">jāmbūnadādi-śikhara-prati-pakṣa-lākṣmi<g type="danda">.</g></l>
                      <l n="c">nepāla-nātha<lb n="25" break="no"/>-vijayī vidadhe suvarṇṇa</l>
-                     <l n="d">-dīpādhipa-praṇati-lambhita-tuṅga-kīrttiḥ<g type="ddandaStrokeLeft">.</g></l>
+                     <l n="d">-d<unclear>v</unclear>īpādhipa-praṇati-lambhita-tuṅga-kīrttiḥ<g type="ddandaStrokeLeft">.</g></l>
                  </lg>
                  <lg n="13" met="śārdūlavikrīḍita">
                      <l n="a">Ā vindhyāT śavarī-ratotsava-suhr̥d-vaṅgī-vana-śyāmalāT</l>
                      <l n="b">Ā<lb n="26" break="no"/> prāleya-girer umā-smita-sudhā-srotaḥ-plutādhityakāT<g type="danda">.</g></l>
                      <l n="c">Ā sūryodaya-sākṣiṇo jala-nidheḥ sārasvatīnām apāṁ</l>
-                     <l n="d">pūrṇṇād ā ca yad-a<lb n="27" break="no"/>ṅ<choice><sic>h</sic><corr>gh</corr></choice>rī-paṅka-ja-yuge bhr̥ṅgatvam āpur nr̥pāḥ<g type="ddandaStrokeLeft">.</g></l>
+                     <l n="d">pūrṇṇād ā ca yad-a<lb n="27" break="no"/>ṅ<choice><sic>h</sic><corr>gh</corr></choice>rī-paṅkaja-yuge bhr̥ṅgatvam āpur nr̥pāḥ<g type="ddandaStrokeLeft">.</g></l>
                  </lg>
                  <lg n="14" met="śārdūlavikrīḍita">
                      <l n="a">śrīmad-durllabharāja-rāja-tanayā śrī-māhaṭākhyābhavad</l>
                      <l n="b">devī tasya kara-graha-praṇayinī ślāghyā dvitīyeva<lb n="28"/> bhūḥ<choice><sic><g type="ddanda">.</g></sic><corr><g type="danda">.</g></corr></choice></l>
-                     <l n="c">pratyetavya-pativratā-guṇa-kathāḥ śailātmajāruddhatī</l>
-                     <l n="d">sāvitrīr api yā cakāra caritaiḥ puṇyāmr̥ta-syandibhiḥ<g type="ddanda">.</g></l>
+                     <l n="c">pratyetavya-pativratā-guṇa-kathāḥ śailātmajāru<choice><sic>d</sic><corr>n</corr></choice>dhatī</l>
+                     <l n="d">-sāvitrīr api yā cakāra caritaiḥ puṇyāmr̥ta-syandibhiḥ<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="15" met="upajāti">
                      <l n="a">Āryām asau rāma-parāji<lb n="29" break="no"/>tāṁ satīṁ</l>
@@ -303,8 +303,9 @@
                   <app loc="20"><lem>-patiṁ*</lem><rdg source="bib:Sircar1973_02">-patiḥ</rdg></app>
                   <app loc="23"><lem>turagāN<g type="danda">.</g></lem><rdg source="bib:Sircar1973_02">turagān</rdg><note>A danda, which DCS omitted, is clear.</note></app>
                   <app loc="24"><lem>taraṇeḥ</lem><rdg source="bib:Sircar1973_02">taraṅeḥ</rdg><note>Probably a printing mistake.</note></app>
-                  <app loc="24"><lem>-lakṣm<subst><del rend="corrected">i</del><add place="right">ī</add></subst></lem><note>An erased stroke makes it look like -lākṣmī.</note></app>
-                  <app loc="28"><lem>śailātmajāruddhatī</lem><rdg source="bib:Sircar1973_02">śailātamajāru<supplied reason="omitted">ṁ</supplied>dhatī</rdg></app>
+                  <app loc="24"><lem>-lākṣmi<g type="danda">.</g></lem><rdg source="bib:Sircar1973_02">lakṣmī<supplied reason="omitted"><g type="danda">.</g></supplied></rdg></app>
+                  <app loc="25"><lem>-d<unclear>v</unclear>īpādhipa-</lem><rdg source="bib:Sircar1973_02">-dīpādhipa-</rdg></app>
+                  <app loc="28"><lem>śailātmajāru<choice><sic>d</sic><corr>n</corr></choice>dhatī</lem><rdg source="bib:Sircar1973_02">śailātamajāru<supplied reason="omitted">ṁ</supplied>dhatī</rdg></app>
                   <app loc="29"><lem>jayānujātām</lem><rdg source="bib:Sircar1973_02">jayānujatām</rdg></app>
                   <app loc="32"><lem>vāmanaṁ</lem><rdg source="bib:Sircar1973_02">vamanaṁ</rdg></app>
                   <app loc="32"><lem>se<lb n="33" break="no"/>ṣam</lem><rdg source="bib:Sircar1973_02">se<lb n="33" break="no"/><supplied reason="omitted">r</supplied>ṣa<supplied reason="omitted">ya</supplied>m</rdg><note>Emdenment is impermissible in view of metre.</note></app>
