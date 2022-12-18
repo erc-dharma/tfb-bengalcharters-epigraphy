@@ -192,14 +192,14 @@
                  <lg n="18" met="śārdūlavikrīḍita">
                      <l n="a">māyā-mūla-gr̥haṁ purāṇa-puruṣaṁ kroḍānanam vāmanaṁ</l>
                      <l n="b">nityodīrṇṇa-gadaṁ vināyaka-yutaṁ divyāṅganālo<choice><sic>ṭ</sic><corr>k</corr></choice>itaṁ<g type="danda">.</g></l>
-                     <l n="c">paśyantyā vahu se<lb n="33" break="no"/>ṣam eva hi hariṁ* tyaktvā virāgād iva</l>
+                     <l n="c">paśyantyā vahu se<lb n="33" break="no"/><supplied reason="omitted">r</supplied>ṣam eva hi hariṁ* tyaktvā virāgād iva</l>
                      <l n="d">śrīmad-yauvana-rūpa-sad-guṇa-tr̥ṣā devyā ś<unclear>r</unclear>iyāśleṣi<unclear>ta</unclear>ḥ<g type="ddandaStrokeLeft">.</g></l>
                  </lg>
                  <lg n="19" met="sragdharā">
                      <l n="a">prasthāne yasya senā-bhara-vidhura-dharā-bhāra-nirbhu<lb n="34" break="no"/>gna-bhoga</l>
                      <l n="b">-śrāmyat·-śeṣāhi-muktā viṣa-śikhi-paruṣa-śvāsa-dhūma-cchateva<g type="danda">.</g></l>
                      <l n="c">Udgacchantī samantād vahala-vila-pathair vvyāpa dik-cakra-vāla<unclear>ṁ*</unclear></l>
-                     <l n="d">tat-kālonmīli<lb n="35" break="no"/>tāśmā jaraṭha-bhara-kharā dhūsarā dhūli-lekhā<g type="ddanda">.</g></l>
+                     <l n="d">tat-kālonmīli<lb n="35" break="no"/>tāśmā jaraṭha-tara-kharī dhūsarā dhūli-rekhā<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="20" met="anuṣṭubh">
                      <l n="ab">yasya nist<choice><sic>r̥ṅ</sic><corr>riṁ</corr></choice>śa-pānīye nīlotpala-vanoj<supplied reason="omitted">j</supplied>vale<g type="danda">.</g></l>
@@ -311,6 +311,8 @@
                   <app loc="32"><lem>se<lb n="33" break="no"/>ṣam</lem><rdg source="bib:Sircar1973_02">se<lb n="33" break="no"/><supplied reason="omitted">r</supplied>ṣa<supplied reason="omitted">ya</supplied>m</rdg><note>Emdenment is impermissible in view of metre.</note></app>
                   <app loc="33"><lem>-nirbhu<lb n="34" break="no"/>gna-</lem><rdg source="bib:Sircar1973_02">-nirbhu<lb n="34" break="no"/>gṇa-</rdg><note>Probably a printing mistake.</note></app>
                   <app loc="34"><lem>-vāla<unclear>ṁ*</unclear></lem><rdg source="bib:Sircar1973_02">-vālaṁ</rdg><note>DCS notes that there is what looks like an unnecessary daṇḍa.</note></app>
+                  <app loc="35"><lem>-tara-kharī</lem><rdg source="bib:Sircar1973_02">-bhara-kharā</rdg></app>
+                  <app loc="35"><lem>-rekhā</lem><rdg source="bib:Sircar1973_02">-lekhā</rdg></app>
                   <app loc="36"><lem>-dhrāḥ</lem><rdg source="bib:Sircar1973_02">-dharāḥ</rdg></app>
                   <app loc="36"><lem>-bhrāntibhi<lb n="37" break="no"/>r</lem><rdg source="bib:Sircar1973_02">-bhrāntibhir<lb n="37"/></rdg></app>
                   <app loc="37"><lem>kasyāṁ</lem><rdg source="bib:Sircar1973_02">k<choice><sic>asy</sic><corr>āṣṭh</corr></choice>āṁ</rdg></app>
