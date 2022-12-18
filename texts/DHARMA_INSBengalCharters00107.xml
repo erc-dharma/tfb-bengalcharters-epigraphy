@@ -207,9 +207,9 @@
                  </lg>
                  <lg n="21" met="mandākrāntā">
                      <l n="a">prāle<lb n="36" break="no"/>yāṅśoḥ praśamita-mr̥ga-śyāmikair ānayadbhir</l>
-                     <l n="b">lakṣmīṁ kṣīrodadhi-himavatoḥ śeṣa-sindhu-kṣiti-dhrāḥ<g type="danda">.</g></l>
-                     <l n="c">nāgo mū<unclear>r</unclear>ddha-pratata-palita-bhrāntibhi<lb n="37" break="no"/>r yad-yaśobhiḥ</l>
-                     <l n="d">prāg-bhūpānāṁ vata ma<choice><sic>l</sic><corr>ṇ</corr></choice>i-nibhāḥ kīrttayaḥ kunda-bhāsaḥ<g type="ddanda">.</g></l>
+                     <l n="b">lakṣmīṁ kṣīrodadhi-himavatoḥ śeṣa-sindhu-kṣiti-dhrāṁ*<g type="danda">.</g></l>
+                     <l n="c">nāgī-mū<unclear>r</unclear>ddha-pratata-palita-bhrāntibhi<lb n="37" break="no"/>r yad-yaśobhiḥ</l>
+                     <l n="d">prāg-bhūpānāṁ vata malinitāḥ kīrttayaḥ kunda-bhāsaḥ<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="22" met="śārdūlavikrīḍita">
                      <l n="a">Antar-vyoma-samudram aurvva-śikhinaḥ kasyāṁ samārodhatā</l>
@@ -313,8 +313,10 @@
                   <app loc="34"><lem>-vāla<unclear>ṁ*</unclear></lem><rdg source="bib:Sircar1973_02">-vālaṁ</rdg><note>DCS notes that there is what looks like an unnecessary daṇḍa.</note></app>
                   <app loc="35"><lem>-tara-kharī</lem><rdg source="bib:Sircar1973_02">-bhara-kharā</rdg></app>
                   <app loc="35"><lem>-rekhā</lem><rdg source="bib:Sircar1973_02">-lekhā</rdg></app>
-                  <app loc="36"><lem>-dhrāḥ</lem><rdg source="bib:Sircar1973_02">-dharāḥ</rdg></app>
+                  <app loc="36"><lem>-dhrāṁ*</lem><rdg source="bib:Sircar1973_02">-dharāḥ</rdg></app>
+                  <app loc="36"><lem>nāgī-</lem><rdg source="bib:Sircar1973_02">nāgo</rdg></app>
                   <app loc="36"><lem>-bhrāntibhi<lb n="37" break="no"/>r</lem><rdg source="bib:Sircar1973_02">-bhrāntibhir<lb n="37"/></rdg></app>
+                  <app loc="37"><lem>malinitāḥ</lem><rdg source="bib:Sircar1973_02">ma<choice><sic>l</sic><corr>ṇ</corr></choice>i-nibhāḥ</rdg></app>
                   <app loc="37"><lem>kasyāṁ</lem><rdg source="bib:Sircar1973_02">k<choice><sic>asy</sic><corr>āṣṭh</corr></choice>āṁ</rdg></app>
                   <app loc="41"><lem>-niṣṭhyūta-</lem><rdg source="bib:Sircar1973_02">-ni<choice><sic>p</sic><corr>ṣṭh</corr></choice>yūta-</rdg></app>
                   <app loc="43"><lem>vikīrṇṇaḥ</lem><rdg source="bib:Sircar1973_02">vikīrṇ<choice><sic>ṇa</sic><corr>ā</corr></choice>ḥ</rdg></app>
