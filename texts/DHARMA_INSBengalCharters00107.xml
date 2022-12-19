@@ -212,9 +212,9 @@
                      <l n="d">prāg-bhūpānāṁ vata malinitāḥ kīrttayaḥ kunda-bhāsaḥ<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="22" met="śārdūlavikrīḍita">
-                     <l n="a">Antar-vyoma-samudram aurvva-śikhinaḥ kasyāṁ samārodhatā</l>
+                     <l n="a">Antar-vyoma-samudram aurvva-śikhinaḥ k<choice><orig>asy</orig><corr>āṣṭh</corr></choice>āṁ samārodhatā</l>
                      <l n="b">yasya vyāpta-di<pb n="1v" break="no"/><lb n="38" break="no"/>śā dviṣan-nr̥patayas taptāḥ pratāpoṣmaṇā<g type="danda">.</g></l>
-                     <l n="c">bhejuḥ sā<lb n="39" break="no"/>ndra-s<choice><sic>a</sic><corr>u</corr></choice>g<choice><sic>u</sic><corr>a</corr></choice>n<choice><sic>t</sic><corr>dh</corr></choice>i-candana-dhana-cchāyā-patha-śyāmalāN</l>
+                     <l n="c">bhejuḥ sā<lb n="39" break="no"/>ndra-s<choice><sic>a</sic><corr>u</corr></choice>g<choice><sic>u</sic><corr>a</corr></choice>n<choice><sic>t</sic><corr>dh</corr></choice>i-candana-<choice><sic>dh</sic><corr>v</corr></choice>ana-cchāyā-patha-śyāmalāN</l>
                      <l n="d">Utsaṅgān ma<lb n="40" break="no"/>layasya santata-himāN prāleya-śailasya ca<g type="ddadaStrokeLeft">.</g></l>
                  </lg>
                  <lg n="23" met="vasantatilakā">
@@ -317,7 +317,7 @@
                   <app loc="36"><lem>nāgī-</lem><rdg source="bib:Sircar1973_02">nāgo</rdg></app>
                   <app loc="36"><lem>-bhrāntibhi<lb n="37" break="no"/>r</lem><rdg source="bib:Sircar1973_02">-bhrāntibhir<lb n="37"/></rdg></app>
                   <app loc="37"><lem>malinitāḥ</lem><rdg source="bib:Sircar1973_02">ma<choice><sic>l</sic><corr>ṇ</corr></choice>i-nibhāḥ</rdg></app>
-                  <app loc="37"><lem>kasyāṁ</lem><rdg source="bib:Sircar1973_02">k<choice><sic>asy</sic><corr>āṣṭh</corr></choice>āṁ</rdg></app>
+                  <app loc="37"><lem>k<choice><orig>asy</orig><corr>āṣṭh</corr></choice>āṁ</lem><note>Emended following D. C. Sircar.</note></app>
                   <app loc="41"><lem>-niṣṭhyūta-</lem><rdg source="bib:Sircar1973_02">-ni<choice><sic>p</sic><corr>ṣṭh</corr></choice>yūta-</rdg></app>
                   <app loc="43"><lem>vikīrṇṇaḥ</lem><rdg source="bib:Sircar1973_02">vikīrṇ<choice><sic>ṇa</sic><corr>ā</corr></choice>ḥ</rdg></app>
                   <app loc="48"><lem>para<supplied reason="omitted">ma</supplied>saugata-</lem><rdg source="bib:Sircar1973_02">paramasaugata-</rdg></app>
