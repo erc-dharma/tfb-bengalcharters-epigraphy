@@ -221,11 +221,11 @@
                      <l n="a">yasyāsi<lb n="41" break="no"/>-kr̥tta-ripu-kuñjara-kumbha-pīṭha</l>
                      <l n="b">-niṣṭhyūta-mauktika-saṭāḥ sama<lb n="42" break="no"/>re virejuḥ<g type="danda">.</g></l>
                      <l n="c">lājā Ivākhila-jagaj-jayino jaya-śrī</l>
-                     <l n="d"><lb n="43" break="no"/>-pāṇi-graha-prakaraṇāvasare vikīrṇṇaḥ<g type="ddanda">.</g></l>
+                     <l n="d"><lb n="43" break="no"/>-pāṇi-graha-prakaraṇāvasare vikīrṇṇ<choice><sic>aḥ</sic><corr>ā</corr></choice><g type="ddanda">.</g></l>
                  </lg>
                  <lg n="24" met="sragdharā">
                      <l n="a"><choice><sic>A</sic><corr>Ā</corr></choice> vindhyād danti-danta<lb n="44" break="no"/>-kṣata-viṣama-śilā-śīrṇṇa-revā-taraṅgāT</l>
-                     <l n="b">Ā kailāsād daśāsya-prakaṭa-bhuja-vala-kṣobha-visrasta-<choice><sic>s</sic><corr>ś</corr></choice>akteḥ<g type="danda">.</g></l>
+                     <l n="b">Ā kailāsād daśāsya-prakaṭa-bhuja-vala-kṣobha-visrasta-sakteḥ<g type="danda">.</g></l>
                      <l n="c">Ā śailābhyām ubhābhyām aśi<lb n="45" break="no"/>śira-kiraṇotpatti-pātāspadābhyām</l>
                      <l n="d">ājñāṁ yasyottamāṅgaiḥ srajam api vibharāñ cakrire bhūmi-pālāḥ<g type="ddanda">.</g></l>
                  </lg>
@@ -319,7 +319,7 @@
                   <app loc="37"><lem>malinitāḥ</lem><rdg source="bib:Sircar1973_02">ma<choice><sic>l</sic><corr>ṇ</corr></choice>i-nibhāḥ</rdg></app>
                   <app loc="37"><lem>k<choice><orig>asy</orig><corr>āṣṭh</corr></choice>āṁ</lem><note>Emended following D. C. Sircar.</note></app>
                   <app loc="41"><lem>-niṣṭhyūta-</lem><rdg source="bib:Sircar1973_02">-ni<choice><sic>p</sic><corr>ṣṭh</corr></choice>yūta-</rdg></app>
-                  <app loc="43"><lem>vikīrṇṇaḥ</lem><rdg source="bib:Sircar1973_02">vikīrṇ<choice><sic>ṇa</sic><corr>ā</corr></choice>ḥ</rdg></app>
+                  <app loc="43"><lem>vikīrṇṇ<choice><sic>aḥ</sic><corr>ā</corr></choice></lem><rdg source="bib:Sircar1973_02">vikīrṇ<choice><sic>ṇa</sic><corr>ā</corr></choice>ḥ</rdg></app>
                   <app loc="48"><lem>para<supplied reason="omitted">ma</supplied>saugata-</lem><rdg source="bib:Sircar1973_02">paramasaugata-</rdg></app>
                   <app loc="49"><lem>paramabhaṭṭārako</lem><rdg source="bib:Sircar1973_02">paramabhaṭṭāraka<unclear>ḥ</unclear></rdg></app>
                   <app loc="53"><lem>dāśāparādhika</lem><rdg source="bib:Sircar1973_02">dāśaparādhika</rdg><note>Probably a printing mistake.</note></app>
