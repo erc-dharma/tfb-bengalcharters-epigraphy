@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2022-12-21" status="draft">Translation in progress.</change>
             <change who="part:ryfu" when="2022-10-02" status="draft">Minor modifications.</change>
             <change who="part:ryfu" when="2022-10-02" status="draft">Initial encoding</change>
         </revisionDesc>
@@ -244,7 +245,7 @@
                      n="57" break="no"/>dāndhra-caṇḍāla-paryantāN yathārhaṁ mānayati vodhayati samādiśati ca<g type="danda">.</g>                     
                  </p>
                  <p>viditam astu bhavatān·<g type="danda">.</g> mahādevī-śrī-māhaṭā-bhaṭṭārikayā dūta<lb 
-                     n="58" break="no"/>ka-mukhena vaya<unclear>ṁ</unclear> śrāvitāḥ yathāsmad-vārāṇasīya-śrī-māhaṭeśvarasya<g type="danda">.</g> Aṅgāgarttikā-vāsantikā-grāmau<g type="danda">.</g> tathā Asmad-<choice><sic>ā</sic><corr>a</corr></choice>bhipre<lb 
+                     n="58" break="no"/>ka-mukhena vaya<unclear>ṁ</unclear> śrāvitāḥ yathāsmad-vārāṇasīya-śrī-māhaṭeśvarasya<g type="danda">.</g> Aṅgāgarttikā-vāsantikā-grāmau<g type="danda">.</g> tathā Asmad-<choice><sic>ā</sic><corr>a</corr></choice>bhi<unclear>pre</unclear><lb 
                      n="59" break="no"/>ta-śaivācārya-parṣada<unclear>ḥ</unclear><g type="danda">.</g> kukaputraka-navallikā-grāmau ca Asmat-puṇya-yaśo 'bhivr̥ddhaye pūjā-satrādy-arthaṁ śāsanī-kr̥tya śrīmā<unclear>n·</unclear> mahārājo dada<lb 
                      n="60" break="no"/>tv iti tac-chiṣya-praśiṣyebhyaś ca<g type="danda">.</g> Ato 'smābhis tadīya-śrāvaṇikayā Ete grāmā yathopari-likhitās sva-sīmā-tr̥ṇa-yūti-gocara-paryantās sa-talā<lb 
                      n="61" break="no"/>s soddeśās sāmra-madhūkās sa-jala-sthalās sa-garttoṣarās soparikarāḥ<g type="danda">.</g> sa-daśāparādhās sa-cauro<supplied reason="omitted">d</supplied>dha<supplied reason="omitted">ra</supplied>ṇā<supplied reason="omitted">ḥ</supplied> parihr̥ta-sarvva-pīḍā A-cāṭa-bhaṭa-prave<lb 
@@ -289,7 +290,7 @@
                      <l n="cd">harir yudhi<unclear>ṣṭh</unclear>ir<unclear>e</unclear>ṇeva valavarmmātra dūtakaḥ<g type="ddanda">.</g></l>
                  </lg>
                  <ab><lb n="71"/><space quantity="4" unit="character"/>ni<space quantity="40" unit="character"/><unclear>ni</unclear><space quantity="4" unit="character"/></ab>
-                 <p><lb n="72"/>Utk<choice><sic>i</sic><corr>ī</corr></choice>rṇṇam idaṁ śāśanaṁ sāmanta-dakkadāsa-v<unit>ai</unit>rocanadāsabhyāṁ<g type="ddandaStrokeLeft">.</g></p>
+                 <p><lb n="72"/>Utk<choice><sic>i</sic><corr>ī</corr></choice>rṇṇam idaṁ śāśanaṁ sāmanta-dakkadāsa-v<unit>ai</unit>rocanadāsābhyāṁ<g type="ddandaStrokeLeft">.</g></p>
              </div>
          </div>
          <div type="apparatus">
@@ -332,8 +333,30 @@
                   <app loc="68"><lem>abhyan<unclear>u</unclear>modanīyaṁ*</lem><rdg source="bib:Sircar1973_02">abhyan<choice><sic>ū</sic><corr>u</corr></choice>modanīya<choice><sic>ṁ</sic><corr>m</corr></choice></rdg></app>
                </listApp>
          </div>
-         <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
+         <div type="translation" resp="part:ryfu">
+             <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
+                 <p n="1">Of illustrious Śūrapāladeva.</p>                 
+             </div>
+             <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
+                 <p n="1">Success! Welfare!</p>
+                 <p rend="stanza" n="1">The lord of the whole earth renowned by being a blazing mark of the lineage of illustrious king <seg rend="pun">Gopāla</seg>, holding heroism and power, relieved from the sin of dangerous limitless lust, always instructing the conduct <seg rend="pun">controlling the tax</seg> of people and showing the righteous way bringing out both results, may the illustrious best of victors <supplied reason="explanation">the Buddha</supplied>, who has fulfilled all the aims, and also the king Śūrapāla <supplied reason="subaudible">I</supplied>, be victorious!</p>
+                 <p rend="stanza" n="2">There was a king named illustrious Gopāla <supplied reason="explanation">I</supplied>. The circle of directions was cleansed by his own white fame, and the world rested on the stone pillar which was his strong arm equaling Śeṣa. At his march, due to enclosing by dust raised by the weight of feet of his own army, the hot-rayed sun, devoid of heat, like moonlight awakened owls.</p>
+                 <p rend="stanza" n="3">Lustres of spotless nails from him, of which colours were mixed with accumulation of mass of rays from red jewels on crowns of kings devoted to bowing, gained the state of the crest of the flower of five-leaved chaste tree with its stalk.</p>
+                 <p rend="stanza" n="4">From him was born illustrious king Dharmapāla, who was the birthplace of Lakṣmī <supplied reason="explanation">the ocean</supplied> with makaras <seg rend="pun">was levying fair tax on the origin of wealth</seg>, able to carry the burden of the earth, a sole refuge for mountains <seg rend="pun">kings</seg> approaching him in fear of cutting of their wings <seg rend="pun">destruction of their troops</seg>, devoted to the protection of custom, an abode of heroism and a dwelling of smile with beauty of milk ocean.</p>
+                 <p rend="stanza" n="5">“He is the good dharma.” “He is the dharma of the enemy of Khara <supplied reason="explanation">Rāma</supplied> here and there,” “<supplied reason="subaudible">He is</supplied> the dharma of Śambhu,” “He is the dharma of the enemy of Mura <supplied reason="explanation">Kr̥ṣna</supplied>.” By learning his name and appearance in such ways, the proud enemy troop, which was accustomed to roaming everyday, did not get firmness, with a mind shaking by fear.</p>
+                 <p rend="stanza" n="6">The white swan, which was his fame, the naturally white streak of foams of the four oceans, the rain removing burning of lotus-like faces of wives of his enemies, the splendour of the body of the serpent chief doubled inside the nether-world, proceeded in the cage which was the world.</p>
+                 <p rend="stanza" n="7">“Kāla <supplied reason="explanation">time/death</supplied> was united with Jarā <supplied reason="explanation">old age</supplied> in this place, Bāṇa was made a gaṇa by the conqueror of Love <supplied reason="explanation">Śiva</supplied> in this place, Viṣṇu slayed Kaṁsa here, Bhīma killed Duḥśāsana there, Rāma made a bridge here.” Thus conquering the quarters after marching forward to them, he, who made extension of good stories announced by bards, saw many countries.</p>
+                 <p rend="stanza" n="8">These waves of the milk ocean, which took the breathed fragrance of Śauri <supplied reason="explanation">Kr̥ṣṇa</supplied> drowsy in Yoganidrā, by which uproar of furious tidal wave was made at the valley of the Mandara mountain, and which got wearing the garland of water-lily of the wide eyes of Lakṣmī, drank perspiration of his army by their own wind wet by spray.</p>
+                 <p rend="stanza" n="9">He obtained the son illustrious Devapāla, the master of wealth <seg rend="pun">husband of Lakṣmī <supplied reason="explanation">Viṣṇu</supplied></seg> who was the truth for his dear friends, abode of infinite enjoyment <seg rend="pun">having the food of Ananta as his abode</seg>, protecting the earth gained through the succession of Gopāla <supplied reason="explanation">I</supplied> and Dharma<supplied reason="subaudible">pāla</supplied> <seg rend="pun">cow gained through the right effort of cowherd</seg>, unsurpassed, having leaves at the end of crowns of all the kings immersed in the ocean of mass of moon-like brightness of his illustrious foot-nails as makaras.</p>
+                 <p rend="stanza" n="10">“Sighs, turfs of hair with locks loosen by violent movements, the prominence of cheek lies on the bed made of hands, drops of tears bring out blossoms on breasts, and the heart longs for emission of life-breath <supplied reason="explanation">death</supplied>”, such a vision was never effaced from the group of women of his enemies whose husbands were destroyed <supplied reason="subaudible">by him</supplied>.</p>
+                 <p rend="stanza" n="11">When his fame excessively filled the sky, the charioteer of the sun, full of the fear of crossing the milk-ocean, instantly held the horses.</p>
+                 <p rend="stanza" n="12">He, the conqueror of the lord of Nepāla, having lofty fame obtained by bowing of the lord of Suvarṇadvīpa, built a golden abode of the Victor <supplied reason="explanation">the Buddha</supplied> which was made of wealth of enemies including spires of gold and so on.</p>
+                 <p rend="stanza" n="13">As far as the Vindhya Mountain where bamboo forest, the friend of the feast of sexual enjoyment of Śavara women, is black, as far as the Snow Mountain where its tableland is flooded by the stream of nectar which is the smile of Umā, as far as the ocean witnessing the rise of the sun, and as far as <supplied reason="subaudible">the ocean</supplied> filled with water of Sarasvatī rivers, the kings got the status of being bees on a pair of lotuses which were his feet.</p>
+                 <p rend="stanza" n="14">There was the daughter of illustrious king Durlabharāja named illustrious Māhaṭā, his queen desirous of <supplied reason="subaudible">his</supplied> holding <supplied reason="subaudible">her</supplied> hand, praiseworthy and like the second earth. She made stories of acknowledged virtues of devoted wives like the daughter of Mountain <supplied reason="explanation">Umā</supplied>, Arundhatī and Sāvitrī by her deeds emitting nectar of merits.</p>
+                 <p rend="stanza" n="15"><supplied reason="subaudible">Like</supplied> that Sadāśiva then <supplied reason="subaudible">having gained</supplied> noble Satī, who was conquered by love, born following victory, auspicious in all accounts, born from a good family and beautiful, he, the supreme lord <supplied reason="explanation">Devapāla</supplied>, was comfortable after gaining her.</p>
+                 <p rend="stanza" n="16">Even by a hundred of her wish, the other women of good families do not gain progress in gifts, wisdom, fame and good conducts <supplied reason="subaudible">like her</supplied>.</p>
+                 <p rend="stanza" n="17">From them, as if from Śiva couple, was born in this world the son, king illustrious Śūrapāla <supplied reason="explanation">I</supplied>, in no other time, exactly the second Mahāsena <supplied reason="explanation">Skanda</supplied>, coming to stability due to his nature as master, holding a fearsome energy <seg rend="pun">spear</seg> very sharp making pride of kings low, getting the initiation which was the only one ceremony granting non-fear to deities possessing fear.</p>
+             </div>
          </div>
          <div type="commentary">
              <p n="72">This line is engraved at the bottom of the reverse and aligned to the centre.</p>
