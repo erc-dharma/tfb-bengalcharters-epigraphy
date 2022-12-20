@@ -199,20 +199,20 @@
                      <l n="a">prasthāne yasya senā-bhara-vidhura-dharā-bhāra-nirbhu<lb n="34" break="no"/>gna-bhoga</l>
                      <l n="b">-śrāmyat·-śeṣāhi-muktā viṣa-śikhi-paruṣa-śvāsa-dhūma-cchateva<g type="danda">.</g></l>
                      <l n="c">Udgacchantī samantād vahala-vila-pathair vvyāpa dik-cakra-vāla<unclear>ṁ*</unclear></l>
-                     <l n="d">tat-kālonmīli<lb n="35" break="no"/>tāśmā jaraṭha-tara-kharī dhūsarā dhūli-rekhā<g type="ddanda">.</g></l>
+                     <l n="d">tat-kālonmīli<lb n="35" break="no"/>tāśmā jaraṭha-tara-kharī dhūsarā dhūli-lekhā<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="20" met="anuṣṭubh">
                      <l n="ab">yasya nist<choice><sic>r̥ṅ</sic><corr>riṁ</corr></choice>śa-pānīye nīlotpala-vanoj<supplied reason="omitted">j</supplied>vale<g type="danda">.</g></l>
-                     <l n="cd">nimajjya rāja-hansānām unmamajja punaḥ kulaṁ<g type="ddanda">.</g></l>
+                     <l n="cd">nimajjya rāja-hansānā<unclear>ṁ</unclear> nonmamajja punaḥ kulaṁ<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="21" met="mandākrāntā">
                      <l n="a">prāle<lb n="36" break="no"/>yāṅśoḥ praśamita-mr̥ga-śyāmikair ānayadbhir</l>
                      <l n="b">lakṣmīṁ kṣīrodadhi-himavatoḥ śeṣa-sindhu-kṣiti-dhrāṁ*<g type="danda">.</g></l>
-                     <l n="c">nāgī-mū<unclear>r</unclear>ddha-pratata-palita-bhrāntibhi<lb n="37" break="no"/>r yad-yaśobhiḥ</l>
+                     <l n="c">nāg<unclear>ī</unclear>-mū<unclear>r</unclear>ddha-pratata-palita-bhrāntibhi<lb n="37" break="no"/>r yad-yaśobhiḥ</l>
                      <l n="d">prāg-bhūpānāṁ vata malinitāḥ kīrttayaḥ kunda-bhāsaḥ<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="22" met="śārdūlavikrīḍita">
-                     <l n="a">Antar-vyoma-samudram aurvva-śikhinaḥ k<choice><orig>asy</orig><corr>āṣṭh</corr></choice>āṁ samārodhatā</l>
+                     <l n="a">Antar-vyoma-samudram aurvva-śikhinaḥ k<choice><sic>a</sic><corr>ā</corr></choice>ṣṭhāṁ samārodhatā</l>
                      <l n="b">yasya vyāpta-di<pb n="1v" break="no"/><lb n="38" break="no"/>śā dviṣan-nr̥patayas taptāḥ pratāpoṣmaṇā<g type="danda">.</g></l>
                      <l n="c">bhejuḥ sā<lb n="39" break="no"/>ndra-s<choice><sic>a</sic><corr>u</corr></choice>g<choice><sic>u</sic><corr>a</corr></choice>n<choice><sic>t</sic><corr>dh</corr></choice>i-candana-<choice><sic>dh</sic><corr>v</corr></choice>ana-cchāyā-patha-śyāmalāN</l>
                      <l n="d">Utsaṅgān ma<lb n="40" break="no"/>layasya santata-himāN prāleya-śailasya ca<g type="ddadaStrokeLeft">.</g></l>
@@ -312,12 +312,12 @@
                   <app loc="33"><lem>-nirbhu<lb n="34" break="no"/>gna-</lem><rdg source="bib:Sircar1973_02">-nirbhu<lb n="34" break="no"/>gṇa-</rdg><note>Probably a printing mistake.</note></app>
                   <app loc="34"><lem>-vāla<unclear>ṁ*</unclear></lem><rdg source="bib:Sircar1973_02">-vālaṁ</rdg><note>DCS notes that there is what looks like an unnecessary daṇḍa.</note></app>
                   <app loc="35"><lem>-tara-kharī</lem><rdg source="bib:Sircar1973_02">-bhara-kharā</rdg></app>
-                  <app loc="35"><lem>-rekhā</lem><rdg source="bib:Sircar1973_02">-lekhā</rdg></app>
+                  <app loc="35"><lem>-hansānā<unclear>ṁ</unclear> nonmamajja</lem><rdg source="bib:Sircar1973_02">-hansānām unmamajja</rdg></app>
                   <app loc="36"><lem>-dhrāṁ*</lem><rdg source="bib:Sircar1973_02">-dharāḥ</rdg></app>
-                  <app loc="36"><lem>nāgī-</lem><rdg source="bib:Sircar1973_02">nāgo</rdg></app>
+                  <app loc="36"><lem>nāg<unclear>ī</unclear></lem><rdg source="bib:Sircar1973_02">nāgo</rdg></app>
                   <app loc="36"><lem>-bhrāntibhi<lb n="37" break="no"/>r</lem><rdg source="bib:Sircar1973_02">-bhrāntibhir<lb n="37"/></rdg></app>
                   <app loc="37"><lem>malinitāḥ</lem><rdg source="bib:Sircar1973_02">ma<choice><sic>l</sic><corr>ṇ</corr></choice>i-nibhāḥ</rdg></app>
-                  <app loc="37"><lem>k<choice><orig>asy</orig><corr>āṣṭh</corr></choice>āṁ</lem><note>Emended following D. C. Sircar.</note></app>
+                  <app loc="37"><lem>k<choice><sic>a</sic><corr>ā</corr></choice>ṣṭhāṁ</lem><rdg source="bib:Sircar1973_02">kasyāṁ</rdg></app>
                   <app loc="41"><lem>-niṣṭhyūta-</lem><rdg source="bib:Sircar1973_02">-ni<choice><sic>p</sic><corr>ṣṭh</corr></choice>yūta-</rdg></app>
                   <app loc="43"><lem>vikīrṇṇ<choice><sic>aḥ</sic><corr>ā</corr></choice></lem><rdg source="bib:Sircar1973_02">vikīrṇ<choice><sic>ṇa</sic><corr>ā</corr></choice>ḥ</rdg></app>
                   <app loc="48"><lem>para<supplied reason="omitted">ma</supplied>saugata-</lem><rdg source="bib:Sircar1973_02">paramasaugata-</rdg></app>
