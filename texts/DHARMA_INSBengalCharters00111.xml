@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2022-12-24" status="draft">Text, Apparatus, Translation and Bibliography completed.</change>
             <change who="part:ryfu" when="2022-12-23" status="draft">Initial encoding</change>
         </revisionDesc>
     </teiHeader>
@@ -143,9 +144,9 @@
                      n="23" break="no"/>lānanta-pādāta-bhara-namad-avaneḥ<g type="danda">.</g> mahāsāla-samāvāsita-śrīmaj-jaya-skandhāvārāt·<g type="danda">.</g> paramasaugata-parameśva<lb 
                      n="24" break="no"/>ra-paramabhaṭṭāraka-mahārājādhirāja-śrī-śūrapāla-deva-pādānudhyātaḥ paramasaugataḥ parameśvaraḥ parama<lb 
                      n="25" break="no"/>bhaṭṭārako mahārājādhirājaḥ śrīmān<unclear>·</unclear> gopāla-devaḥ kuśalī<g type="ddanda">.</g> śrī-puṇḍravarddhana-bhuktau<g type="danda">.</g> caṇḍagrāma-viṣaya-sa<lb 
-                     n="26" break="no"/>mvaddha-suvarṇṇakārikā-daṇḍāt· catuḥ-sahasra-pramāṇād aṅśe daśa-gaṇḍakādhikā-nava-paṇopeta-sapta-pañc<unclear>ā</unclear>śad-anvita-catu<lb 
-                     n="27" break="no"/>ś-śata-pramāṇe<g type="danda">.</g> bhūtabhadrāT pādādhika-sārddha-nava-kulya-pramāṇād añśe kākinī-dvayādhikodamāṇa-trayopeta-pā<lb 
-                     n="28" break="no"/>da-dvayānvitāḍhavāpa-yuta-droṇa-sahita-kulya-pramāṇe<g type="ddandaStrokeLeft">.</g> samupagatān·<g type="danda">.</g> sarvvān eva rāja-puruṣān<unclear>·</unclear> <supplied reason="lost">rāja</supplied>-rājanaka<lb 
+                     n="26" break="no"/>mvaddha-suvarṇṇakārikā-daṇḍāt· <num value="4000">catuḥ-sahasra</num>-pramāṇād aṅśe <num value="10">daśa</num>-gaṇḍakādhikā-<num value="9">nava</num>-paṇopeta-<num value="457">sapta-pañc<unclear>ā</unclear>śad-anvita-catu<lb 
+                     n="27" break="no"/>ś-śata</num>-pramāṇe<g type="danda">.</g> bhūtabhadrāT <num value="1">pādā</num>dhika-<num value="9.5">sārddha-nava</num>-kulya-pramāṇād añśe kākinī-<num value="2">dvayā</num>dhikodamāṇa-<num value="3">trayo</num>peta-pā<lb 
+                     n="28" break="no"/>da-<num value="2">dvayā</num>nvit<num value="1">āḍhavāpa</num>-yuta-<num value="1">droṇa</num>-sahita-<num value="1">kulya</num>-pramāṇe<g type="ddandaStrokeLeft">.</g> samupagatān·<g type="danda">.</g> sarvvān eva rāja-puruṣān<unclear>·</unclear> <supplied reason="lost">rāja</supplied>-rājanaka<lb 
                      n="29" break="no"/>-rājaputra-rājāmātya-mahāsāmanta-mahāsenāpati<g type="danda">.</g> mahāsāndhivigrahika<g type="danda">.</g> mahāk<unclear>ṣa</unclear><supplied reason="lost">paṭalika</supplied><gap reason="lost" unit="character" quantity="2"/>
                     <pb n="1v"/><lb n="30"/><unclear>mahā</unclear>pratīhāra<g type="danda">.</g> mahādaṇḍanāyaka<g type="danda">.</g> rājasthān<choice><sic>i</sic><corr>ī</corr></choice>yoparika<g type="danda">.</g><lb 
                      n="31"/>daśāparādhika<g type="danda">.</g> cauroddharaṇika<g type="comma">.</g> daṇḍika<g type="danda">.</g> daṇḍapāśika<g type="danda">.</g> śaulkika<g type="danda">.</g><lb 
@@ -164,6 +165,26 @@
                      n="44" break="no"/>bhir bhūmer ddāna-phala-gauravād apaharaṇe mahā-naraka-pāta-bhayāc c<choice><sic>a</sic><corr>ā</corr></choice>numodya paripālanīyaṁ* prativāsibhiḥ kṣetra-karai<unclear>ś cā</unclear><lb 
                      n="45" break="no"/>jñā-śravaṇa-vidheyī-bhūya sarvva-pratyāyopanayaḥ kārya Iti                     
                  </p>
+                 <p n="45">samvaT <num value="4">4</num> phālguna-dine <num value="4">4</num></p>
+                 <p n="45">tathātra dharmmānuśāsana-ślokāḥ</p>
+                 <lg n="9" met="anuṣṭubh">
+                     <l n="ab"><lb n="46"/>vahubhir vasudhā dattā rājabhiḥ sagarādibhiḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                     <l n="cd">yasya yasya yadā bhūmis tastya tasya tadā phalaM<g type="ddanda">,</g></l>
+                 </lg>
+                 <lg n="10" met="anuṣṭubh">
+                     <l n="ab">ṣaṣṭim varṣa-sahasrāṇi sva<unclear>rgge</unclear><lb n="47"/> modati bhūmidaḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                     <l n="cd">Ākṣeptā cānumantā ca tāny eva narake vaset·<g type="ddandaStrokeLeft">.</g></l>
+                 </lg>
+                 <lg n="11" met="anuṣṭubh">
+                     <l n="ab">sva-dattām para-dattām vā yo hareta vasundharā<supplied reason="omitted">ṁ</supplied><g type="danda">.</g></l>
+                     <l n="cd">sa viṣṭhā<lb n="48" break="no"/>yā<supplied reason="omitted">ṁ</supplied> kr̥mir bhūtvā pitr̥bhiḥ saha pacyate<g type="ddanda">.</g></l>
+                 </lg>
+                 <lg n="12" met="puṣpitāgrā">
+                     <l n="a">Iti kamala-dalāmvu-vindu-lolāṁ*</l>
+                     <l n="b">śriyam anucintya manuṣya-jīvitañ ca<g type="danda">.</g></l>
+                     <l n="c"><unclear>saka</unclear><lb n="49" break="no"/>lam idam udāhr̥tañ ca vudhvā</l>
+                     <l n="d">na hi puruṣaiḥ para-kīrttayo vilopyāḥ<g type="ddandaStrokeLeft">.</g></l>
+                 </lg>
              </div>
          </div>
          <div type="apparatus">
@@ -186,17 +207,39 @@
                   <app loc="30"><lem>rājasthān<choice><sic>i</sic><corr>ī</corr></choice>yoparika</lem><rdg source="bib:Furui2009_01">rājasthaniyoparika</rdg></app>
                   <app loc="35"><lem>Anyā<unclear>ṁ</unclear>ś</lem><rdg source="bib:Furui2009_01">anyā<supplied reason="omitted">ṁ</supplied>ś</rdg></app>
                   <app loc="44"><lem>-karai<unclear>ś</unclear></lem><rdg source="bib:Furui2009_01">-kalaiḥ</rdg></app>
+                  <app loc="45"><lem>dharmmānuśāsana-</lem><rdg source="bib:Furui2009_01">dharmmānuśa<unclear>ṁ</unclear>sana-</rdg></app>
+                  <app loc="46"><lem>phalaM</lem><rdg source="bib:Furui2009_01">phalaṁ</rdg></app>
+                  <app loc="48"><lem>-jīvitañ</lem><rdg source="bib:Furui2009_01">-jīvitāñ</rdg></app>
                </listApp>
              </div>
          </div>
-         <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
+         <div type="translation" resp="part:ryfu">
+             <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
+                 <p n="1">Success! Welfare!</p>
+                 <p rend="stanza" n="1">The one with mind delighted by the jewel of compassion, who is united with beloved goddess Benevolence, whose dirt of ignorance is cleansed by pure water of the stream of knowledge of perfect enlightenment, who, after conquering the powerful cause of existence producing desire, acquired eternal tranquillity, may he, the illustrious Lord of the World <supplied reason="explanation">the Buddha</supplied> possessing ten powers be victorious, otherwise also Gopāladeva <supplied reason="explanation">II</supplied>!</p>
+                 <p rend="stanza" n="2">There was illustrious king Dharmapāla, who was the birthplace of Lakṣmī <supplied reason="explanation">the ocean</supplied> with makaras <seg rend="pun">was levying fair tax on the origin of wealth</seg>, able to carry the burden of the earth, a sole refuge for mountains <seg rend="pun">kings</seg> approaching him in fear of cutting of their wings <seg rend="pun">destruction of their troops</seg>, devoted to the protection of custom, an abode of heroism and great by whiteness with beauty of milk ocean.</p>
+                 <p rend="stanza" n="3">By these villages beginning with Kuśasthala <supplied reason="explanation">Kānyakubja</supplied>, Hari sought peace and the son of the daughter of Gandhāra king <supplied reason="explanation">Duryodhana</supplied> comfortably abandoned his life, bowing brothers and names. After conquering <supplied reason="subaudible">them</supplied>, these villages were bestowed on the friend, the grandson of Yaśovarman <supplied reason="explanation">Cakrāyudha</supplied>, by him <supplied reason="explanation">Dharmapāla</supplied>, praiseworthy in war, desiring enemy and laughing.</p>
+                 <p rend="stanza" n="4">He obtained the son illustrious Devapāla, the master of wealth <seg rend="pun">husband of Lakṣmī <supplied reason="explanation">Viṣṇu</supplied></seg> who was the truth for his dear friends, abode of infinite enjoyment <seg rend="pun">having the hood of Ananta as his abode</seg>, protecting the earth gained through the succession of Gopāla <supplied reason="explanation">I</supplied> and Dharma<supplied reason="subaudible">pāla</supplied> <supplied reason="explanation">cow gained through the right effort of cowherd</supplied>, unsurpassed, having leaves at the end of crowns of all the kings immersed in the ocean of mass of moon-like brightness of his illustrious foot-nails as makaras.</p>
+                 <p rend="stanza" n="5">From him, as if from the bull-marked one <supplied reason="explanation">Śiva</supplied>, was born in this world the son, king illustrious Śūrapāla, in no other time, exactly the second Mahāsena <supplied reason="explanation">Skanda</supplied>, coming to stability due to his nature as master, holding a fearsome energy <seg rend="pun">spear</seg> very sharp making pride of kings low, getting the initiation which was the only one ceremony granting non-fear to deities possessing fear.</p>
+                 <p rend="stanza" n="6">She, called Māṇikyadevī, the daughter’s daughter of the lord of Tramaṇa and the daughter of king Āmannaka, was the queen of him who loved virtues. In her was born to him, the father on the earth, the son Gopāladeva <supplied reason="explanation">II</supplied> who exhibited in himself, “This house is not devoid of good conduct.”</p>
+                 <p rend="stanza" n="7">His splendour born only from the flood of water of his consecration spread in every direction like <supplied reason="subaudible">the splendour</supplied> of the sun. The march of excesses of tears, tremor and rise of horripilation of joy surprised living beings.</p>
+                 <p rend="stanza" n="8">His fame, which is <supplied reason="subaudible">like</supplied> a line of swans white like conch-shell on the shores of the peripheral oceans in all the quarters, the moonlight in the sky, the river Bhāgīrathī on the laps of the Snow Mountain, and embraced by a mass of foams through the accomplished crossing of the seven oceans, almost reminds the siddhas of the beauty of loud laughter in the great undertaking of Bhairava.</p>
+                 <p n="19-23">From the illustrious military camp of victory pitched at Mahāsāla, where the group of mountain peaks laid by the bridge produced by various kinds of large ships going around the path of river Bhāgīrathī are rolling, where the doubt of the time of lasting cloud occurred because of daylight darkened by the assembly of unsurpassed dark rutting elephants, where the intermediate space of directions is made grey by dust dug up by the hard hooves of innumerable horse troops gifted by many northern kings and where the earth bows to the weight of innumerable foot soldiers of all the kings of Jambudvīpa coming for the service to the supreme lord.</p>
+                 <p n="23-37">Parameśvara paramabhaṭṭāraka mahārājādhirāja illustrious Gopāladeva <supplied reason="explanation">II</supplied>, healthy, the devout worshipper of Sugata, who was accepted by his majesty parameśvara paramabhaṭṭāraka mahārājādhirāja illustrious Śūrapāladeva <supplied reason="explanation">I</supplied>, the devout worshipper of Sugata, honours, announces and orders according to order all the approached royal officials beginning with rāja, rājanaka, rājaputra, rājāmātya, mahāsāmanta, mahāsenāpati, mahāsāndhivigrahika, mahākṣa<supplied reason="lost">paṭalika</supplied>, … mahāpratīhāra, mahādaṇḍanāyaka, rājasthānīya, uparika, daśāparādhika, cauroddharaṇika. daṇḍika, daṇḍapāśika, śaulkika, gaulmika, kṣetrapa, prāntapāla, koṭṭapāla, khaṇḍapāla, their āyuktakas and viniyuktakas, hastyaśvoṣṭranauvalavyāpr̥taka, kiśoravaḍavāgomahiṣyajāvikādhyakṣa, dūta, preṣaṇika, gamāgamika, abhitvaramāṇa, viṣayapati, tarapati, tarika, Gauḍa, Mālava, Khaṣa, Hūṇa, Kulika, Karṇāṭa, Lāṭa cāṭa, bhaṭa and sevaka, and the other unnamed dependants on the royal feet, and the residents accompanied by brāhmaṇas, led by mahattaras, the ones associated with them and kuṭumbins, reaching to medas, andhraas, kaivartas and caṇḍālas, at the portion of the standard of four hundred and fifty-seven accompanied by nine paṇas and added with ten gaṇḍakas from Suvarṇakārikā daṇḍa of the standard of four thousand, <supplied reason="subaudible">and</supplied> at the portion of the standard of one kulya, accompanied by one droṇa, added with one āḍhavāpa, along with two pādas, united with three udamānas and added with two kākinīs from Bhūtabhadra of the standard of nine and a half kulya added with one pāda, <supplied reason="subaudible">both</supplied> belonging to Caṇḍagrāma viṣaya in illustrious Puṇḍravardhana bhukti <supplied reason="subaudible">as follows</supplied>:</p>
+                 <p n="37-45">“It should be known to you. The both portions as written above, as far as their own borders, grasslands and pastures, were given after making a royal grant, with flat land, with raised ground, with additional tax, with mango and jackfruit trees, with watering place, with ditch and saline land, with fine of ten offences, with the right to catch thieves, exempted from all the burdens, without entry of cāṭas and bhaṭas, without anything taken away, accompanied by contribution belonging to the royal family, by the rule of land reclamation, as long as the moon, the sun and the earth exist, for the increase of merit and fame of mother and father and myself, to bhaṭṭaputra illustrious Līlākara, the śāntivārika attached to the śāntigr̥ha, of Paippalāda School belonging to Atharva<supplied reason="subaudible">veda</supplied>, belonging to Kauṭhari gotra, Bhārgava, Cyāvana, Āpnuvāna, Aurva and Jāmadagni pravara of five r̥ṣis, the grandson of bhaṭṭa Dinakara originating from Campā and residing in Samudrāndāli and the son of bhaṭṭa Yaśaskara. Hence this donation should be consented to by you all. It should also be protected by future kings after approving it out of respect for merit of donation of land and from fear of falling to the great hell in case of its violation. And the practice of all the contributions should be made by residing cultivators after becoming subject to hearing the order <supplied reason="subaudible">of donee</supplied>.”</p>
+                 <p n="45">Year 4 month Phālguna day 4.</p>
+                 <p n="45">And here are verses instructing dharma <supplied reason="subaudible">as follows</supplied>:</p>
+                 <p rend="stanza" n="9">The earth was given by many kings beginning with Sagara. To the one to whom the land belongs, belongs then the merit.</p>
+                 <p rend="stanza" n="10">For sixty thousand years, a giver of land rejoices in heaven. The one who denies it and the one who agrees with him live in hell for the same period.</p>
+                 <p rend="stanza" n="11">Either given by himself or given by the others, the one who stole land, he would be boiled with his ancestors after becoming an insect in excreta.</p>
+                 <p rend="stanza" n="12">After thus considering wealth and human life fragile as a drop of water on lotus petal, also after knowing all that is said, the meritorious deeds of others should not be destroyed by human beings.</p>
+             </div>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>First notified by Gouriswar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1996_02"/></bibl> and improperly edited by S. C. Mukherji<bibl rend="omitname"><ptr target="bib:Mukherji1997-1999_02"/></bibl>. Re-edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2009_01"/>/></bibl>. Now re-edited with proper rendering of stanzas and translation based on the same set of photographs used in <bibl rend="omitname"><ptr target="bib:Furui2009_01"/>/></bibl>, provided by Gerd J. R. Mevissen.</p>
         	<listBibl type="primary">
 	   <bibl n="RF"><ptr target="bib:Furui2009_01"/></bibl>
 	</listBibl>
