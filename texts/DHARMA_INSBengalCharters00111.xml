@@ -151,7 +151,7 @@
                     <pb n="1v"/><lb n="30"/><unclear>mahā</unclear>pratīhāra<g type="danda">.</g> mahādaṇḍanāyaka<g type="danda">.</g> rājasthān<choice><sic>i</sic><corr>ī</corr></choice>yoparika<g type="danda">.</g><lb 
                      n="31"/>daśāparādhika<g type="danda">.</g> cauroddharaṇika<g type="comma">.</g> daṇḍika<g type="danda">.</g> daṇḍapāśika<g type="danda">.</g> śaulkika<g type="danda">.</g><lb 
                      n="32"/>gaulmika<g type="danda">.</g> kṣetrapa<g type="danda">.</g> prāntapāla-koṭṭapāla<g type="danda">.</g> khaṇḍapāla<g type="danda">.</g> tad-āyukta<lb 
-                     n="33" break="no"/>ka<g type="danda">.</g> viniyuktaka<g type="danda"/> hastyaśvoṣṭranauvalavyāpr̥taka<g type="danda">.</g> kiśoravaḍavāgoma<lb 
+                     n="33" break="no"/>ka<g type="danda">.</g> viniyuktaka<g type="danda">.</g> hastyaśvoṣṭranauvalavyāpr̥taka<g type="danda">.</g> kiśoravaḍavāgoma<lb 
                      n="34" break="no"/>hiṣyajāvikādhyakṣa-dūta-preṣa<supplied reason="omitted">ṇi</supplied>ka<g type="danda">.</g> gamāgamikābhitvaramāṇa<g type="danda">.</g> viṣayapati<g type="danda">.</g> tarapati<g type="danda">.</g> tarika<g type="danda">.</g> g<choice><sic>o</sic><corr>au</corr></choice>ḍa-māla<lb 
                      n="35" break="no"/>va-khaṣa-hūṇa-kulika<g type="danda">.</g> karṇṇāṭa-lā<supplied reason="omitted">ṭa</supplied>-cāṭa-bhaṭa-sevakādī<surplus>nā</surplus>N<g type="danda">.</g> Anyā<unclear>ṁ</unclear>ś cākīrttitā<supplied reason="omitted">ṁ</supplied><g type="danda">.</g> rāja-pādopajīvina<supplied reason="omitted">ḥ</supplied><lb 
                      n="36" break="no"/> prativāsinaś ca vrāhmaṇottarān·<g type="danda">.</g> mahattara-tat-sahita<g type="danda">.</g> kuṭumvi<g type="comma">.</g> puroga-medāndhra-kaivartta-caṇḍāla-paryantān<unclear>·</unclear><lb 
@@ -239,7 +239,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First notified by Gouriswar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1996_02"/></bibl> and improperly edited by S. C. Mukherji<bibl rend="omitname"><ptr target="bib:Mukherji1997-1999_02"/></bibl>. Re-edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2009_01"/>/></bibl>. Now re-edited with proper rendering of stanzas and translation based on the same set of photographs used in <bibl rend="omitname"><ptr target="bib:Furui2009_01"/>/></bibl>, provided by Gerd J. R. Mevissen.</p>
+           <p>First notified by Gouriswar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1996_02"/></bibl> and improperly edited by S. C. Mukherji<bibl rend="omitname"><ptr target="bib:Mukherji1997-1999_02"/></bibl>. Re-edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2009_01"/></bibl> without proper rendering of stanzas and translation. Now properly re-edited bu Ryosuke Furui based on the same set of photographs used in Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2009_01"/>/></bibl>, provided by Gerd J. R. Mevissen.</p>
         	<listBibl type="primary">
 	   <bibl n="RF"><ptr target="bib:Furui2009_01"/></bibl>
 	</listBibl>
