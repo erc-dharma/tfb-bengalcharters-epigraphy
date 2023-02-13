@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2023-02-14" status="draft">Text, Apparatus and Bibliography completed.</change>
             <change who="part:ryfu" when="2023-02-13" status="draft">Initial encoding</change>
         </revisionDesc>
     </teiHeader>
