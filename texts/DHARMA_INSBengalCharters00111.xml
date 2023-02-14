@@ -241,7 +241,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First notified by Gouriswar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1996_02"/></bibl> and improperly edited by S. C. Mukherji<bibl rend="omitname"><ptr target="bib:Mukherji1997-1999_02"/></bibl>. Re-edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2009_01"/></bibl> without proper rendering of stanzas and translation. Now properly re-edited by Ryosuke Furui based on the same set of photographs used in Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2009_01"/>/></bibl>, provided by Gerd J. R. Mevissen.</p>
+           <p>First notified by Gouriswar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1996_02"/></bibl> and improperly edited by S. C. Mukherji<bibl rend="omitname"><ptr target="bib:Mukherji1997-1999_02"/></bibl>. Re-edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2009_01"/></bibl> without proper rendering of stanzas and translation. Now properly re-edited by Ryosuke Furui based on the same set of photographs used in Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2009_01"/></bibl>, provided by Gerd J. R. Mevissen.</p>
         	<listBibl type="primary">
 	   <bibl n="RF"><ptr target="bib:Furui2009_01"/></bibl>
 	</listBibl>
