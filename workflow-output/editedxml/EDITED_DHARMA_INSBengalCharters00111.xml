@@ -92,6 +92,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2023-02-10" status="draft">Stanza 4 text modified.</change>
          <change who="part:ryfu" when="2022-12-24" status="draft">Text, Apparatus, Translation and Bibliography completed.</change>
          <change who="part:ryfu" when="2022-12-23" status="draft">Initial encoding</change>
       </revisionDesc>
@@ -121,7 +122,7 @@
                  </lg>
                  <lg n="4" met="śārdūlavikrīḍit">
                      <l n="a">preyaḥ-satyam ananta-bhoga-nilayaṁ gopāla-dha<lb n="10" break="no"/>rmma-krama</l>
-                     <l n="b">-prāptāṅ gām paripālayantam ajitaṁ sa prāpa lakṣmīpati<g type="danda">.</g></l>
+                     <l n="b">-prāptāṅ gām paripālayantam ajitaṁ sa prāpa lakṣmī-pati<supplied reason="omitted">ṁ<g type="danda">.</g></supplied></l>
                      <l n="c">śrīmat-pāda-nakhendu-dīdhiti-bharodanvan-ni<lb n="11" break="no"/>magnākhila</l>
                      <l n="d">-kṣoṇī-bhr̥n-mukuṭānta-patra-makara<unclear>M</unclear> śrī-devapālaṁ sutaṁ*<g type="ddanda">.</g></l>
                  </lg>
@@ -179,6 +180,7 @@
                <listApp>
                   <app loc="6"><lem>-bhr̥tā<unclear>ṁ</unclear><supplied reason="omitted"><g type="danda">.</g></supplied></lem><rdg source="bib:Furui2009_01">bhr̥tā<supplied reason="omitted">ṁ</supplied></rdg></app>
                   <app loc="6"><lem>’bhavaT<surplus><g type="danda">.</g></surplus></lem><rdg source="bib:Furui2009_01">bhavat</rdg></app>
+                  <app loc="10"><lem>-pati<supplied reason="omitted">ṁ<g type="danda">.</g></supplied></lem><rdg source="bib:Furui2009_01">-pati<supplied reason="omitted"><g type="danda">.</g></supplied></rdg></app>
                   <app loc="11"><lem>-makara<unclear>M</unclear></lem><rdg source="bib:Furui2009_01">-makara<unclear>ṁ</unclear></rdg></app>
                   <app loc="14"><lem>g<unclear>u</unclear>ṇa-</lem><rdg source="bib:Furui2009_01">gaṇa-</rdg></app>
                   <app loc="15"><lem>-kr̥ta<unclear>ṁ</unclear></lem><rdg source="bib:Furui2009_01">-kr̥ta<supplied reason="omitted">ṁ</supplied></rdg></app>
@@ -226,7 +228,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First notified by Gouriswar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1996_02"/></bibl> and improperly edited by S. C. Mukherji<bibl rend="omitname"><ptr target="bib:Mukherji1997-1999_02"/></bibl>. Re-edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2009_01"/></bibl> without proper rendering of stanzas and translation. Now properly re-edited by Ryosuke Furui based on the same set of photographs used in Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2009_01"/>/&gt;</bibl>, provided by Gerd J. R. Mevissen.</p>
+           <p>First notified by Gouriswar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1996_02"/></bibl> and improperly edited by S. C. Mukherji<bibl rend="omitname"><ptr target="bib:Mukherji1997-1999_02"/></bibl>. Re-edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2009_01"/></bibl> without proper rendering of stanzas and translation. Now properly re-edited by Ryosuke Furui based on the same set of photographs used in Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2009_01"/></bibl>, provided by Gerd J. R. Mevissen.</p>
         	<listBibl type="primary">
 	   <bibl n="RF"><ptr target="bib:Furui2009_01"/></bibl>
 	</listBibl>
