@@ -851,7 +851,7 @@ amwb : I cannot find this stanza in Sircar; it seems to be somewhat original
         	    <bibl n="DB"><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00132</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-               <bibl><ptr target="bib:Chhabra1953-1954_01"/></bibl>
+               <bibl n="BC"><ptr target="bib:Chhabra1953-1954_01"/></bibl>
               <bibl><ptr target="bib:Siddham_Chhabra_1956"/><citedRange unit="page">122-124</citedRange></bibl>
            </listBibl>
         </div>
