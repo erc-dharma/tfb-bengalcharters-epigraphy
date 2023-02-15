@@ -109,7 +109,7 @@
 		<ab><lb n="1"/>śrīmaṅ-gopāladevasya</ab>        
 	</div>
 	<div type="textpart" n="B"><head xml:lang="eng">Plate</head>
-	<pb n="1r"/><ab><lb n="01" rend="tb-upright"/> ni ni ni</ab>
+	<pb n="1r"/><lb n="01" rend="tb-upright"/><ab> ni ni ni</ab>
 		<lb n="1"/><p><g type="spiralL"/><!-- siddham -->Om̐ namo vuddhāya<g type="ddanda">.</g> svasti<g type="ddanda">.</g></p>
 	<lg n="1" met="sragdharā">
 		<l n="a">maitrīṁ kāruṇya-ratna-pramudita-hr̥dayaḥ preyasīṁ sandadhānaḥ </l>
