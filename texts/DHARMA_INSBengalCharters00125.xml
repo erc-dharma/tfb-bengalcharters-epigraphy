@@ -15,6 +15,10 @@
                         <forename>Ryosuke</forename>
                         <surname>Furui</surname>
                     </persName>
+                    <persName ref="part:argr"><!-- Update the id -->
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
                 </respStmt>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>

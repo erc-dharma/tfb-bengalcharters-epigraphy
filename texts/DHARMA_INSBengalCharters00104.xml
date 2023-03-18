@@ -27,6 +27,10 @@
                         <forename>Ryosuke</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
                         <surname>Furui</surname>
                     </persName>
+                    <persName ref="part:argr"><!-- Update the id -->
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
