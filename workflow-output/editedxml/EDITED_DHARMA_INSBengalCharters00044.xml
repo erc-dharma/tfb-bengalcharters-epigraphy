@@ -217,7 +217,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First notified by Swapan Kumar Biswas<bibl rend="omitname"><ptr target="bib:Biswas1994_01"/></bibl>, then edited by Gouriwar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1997_01"/></bibl>. Edited again by Gouriswar Bhattacharya/&gt;<bibl rend="omitname"><ptr target="bib:Bhattacharya1999_01"/></bibl>. Transcribed by Arlo Griffiths based on GB’s 1999 edition, checked against the photographs taken by Ryosuke Furui on 22/7/2017. Revised by Ryosuke Furui from the same set of photographs and the other set taken by Adeline Levevier on 11/11/2019.</p>
+           <p>First notified by Swapan Kumar Biswas<bibl rend="omitname"><ptr target="bib:Biswas1994_01"/></bibl>, then edited by Gouriwar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1997_01"/></bibl>. Edited again by Gouriswar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1999_01"/></bibl>. Transcribed by Arlo Griffiths based on GB’s 1999 edition, checked against the photographs taken by Ryosuke Furui on 22/7/2017. Revised by Ryosuke Furui from the same set of photographs and the other set taken by Adeline Levevier on 11/11/2019.</p>
             <listBibl type="primary">
             	<bibl n="GB1"><ptr target="bib:Bhattacharya1999_01"/></bibl>
 		<bibl n="GB2"><ptr target="bib:Bhattacharya1997_01"/></bibl>

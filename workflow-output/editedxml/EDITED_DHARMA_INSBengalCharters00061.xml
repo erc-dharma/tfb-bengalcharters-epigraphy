@@ -210,7 +210,7 @@
             <p n="20">This line is aligned to the centre.</p>
          </div>
         <div type="bibliography">
-           <p>First edited by Siva Prasanna Lahiry<bibl rend="omitname"><ptr target="bib:Lahiry1955_01"/></bibl> and then re-edited by Dines Chandra Sircar<bibl rend="omitname">ptr target= “bib: Sircar1959-1960_08”/&gt;</bibl>. Now re-edited by Ryosuke Furui based on the reading from the photographs taken by Adeline Levivier.</p>
+           <p>First edited by Siva Prasanna Lahiry<bibl rend="omitname"><ptr target="bib:Lahiry1955_01"/></bibl> and then re-edited by Dines Chandra Sircar<bibl rend="omitname"><ptr target="bib:Sircar1959-1960_08"/></bibl>. Now re-edited by Ryosuke Furui based on the reading from the photographs taken by Adeline Levivier.</p>
         	<listBibl type="primary">
 	   <bibl n="SPL"><ptr target="bib:Lahiry1955_01"/></bibl>
         	   <bibl n="DCS"><ptr target="bib:Sircar1959-1960_08"/></bibl>
