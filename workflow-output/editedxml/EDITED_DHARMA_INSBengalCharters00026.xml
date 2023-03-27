@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2023-03-27" status="draft">Text, apparatus and translation modified sue to re-reading of this and other plates.</change>
          <change who="part:ryfu" when="2023-02-05" status="draft">Translation modified on the input of Dominic Goodall.</change>
          <change who="part:ryfu" when="2022-10-19" status="draft">Translation of stanza 6 modified.</change>
          <change who="part:ryfu" when="2022-09-27" status="draft">Texparts and lines rearranged.</change>
@@ -259,7 +260,7 @@
                     <l n="cd"><unclear>mantri</unclear>-śrī-<unclear>p</unclear>r̥<lb n="55" break="no"/>thivīsiṅha śāsane dūtakaḥ kr̥taḥ<g type="ddanda">.</g></l>
                 </lg>
                 <lg n="21" met="anuṣṭubh">
-                    <l n="ab">poṣa<unclear>lī</unclear>grāma-niryāta-<unclear>ś</unclear>ūdradevasya sūnunā<g type="danda">.</g></l>
+                    <l n="ab"><unclear>gh</unclear>oṣa<unclear>lī</unclear>-grāma-niryāta-<unclear>ś</unclear>ūdradevasya sūnunā<g type="danda">.</g></l>
                     <l n="cd">Idaṁ śāsanam utkīrṇṇaṁ śrī-dāmā<lb n="56" break="no"/>di<unclear>tya</unclear>-śilpinā<g type="ddanda">.</g></l>
                 </lg>
             </div>
@@ -316,6 +317,7 @@
                   <app loc="53"><lem><unclear>kāle</unclear> pāla<unclear>nīyaḥ krame</unclear>ṇa</lem><rdg source="bib:Furui2010_01"><unclear>kāle pālanīyaḥ krame</unclear>ṇa</rdg></app>
                   <app loc="53"><lem>˚ām<unclear>vu</unclear>-v<unclear>i</unclear>ndu-</lem><rdg source="bib:Furui2010_01">˚ā<unclear>mvu</unclear>-vindu-</rdg></app>
                   <app loc="54"><lem><unclear>mantri</unclear>-śrī-<unclear>p</unclear>r̥<lb n="55" break="no"/>thivīsiṅha</lem><rdg source="bib:Furui2010_01">ya-gīdhr̥<lb n="55" break="no"/>gi-</rdg></app>
+                  <app loc="55"><lem><unclear>gh</unclear>oṣa<unclear>lī</unclear>-</lem><rdg source="bib:Furui2010_01">poṣa<unclear>lī</unclear></rdg></app>
                   <app loc="55"><lem>-<unclear>ś</unclear>ūdradevasya</lem><rdg source="bib:Furui2010_01">candrādityasya</rdg></app>
                   <app loc="55"><lem>-dāmā<lb n="56" break="no"/>di<unclear>tya</unclear>-śilpinā</lem><rdg source="bib:Furui2010_01">-dāmādi<lb n="56" break="no"/><unclear>tyena</unclear> śilpinā</rdg></app>
                </listApp>
@@ -353,7 +355,7 @@
                         <p rend="stanza" n="18">To all these future kings, this Rāma demands repeatedly. “This common bridge of dharma for kings should be always protected with effort.”</p>
                         <p rend="stanza" n="19">After thus considering wealth and human life fragile as a drop of water on lotus petal, also after knowing all that is said, the meritorious deeds of others should not be destroyed by human beings.</p>
                         <p rend="stanza" n="20">In this edict given to the best of twice-born, mantrin illustrious Pr̥thivīsiṁha was made messenger by Mahīpāladeva.</p>
-                        <p rend="stanza" n="21">This edict was engraved by illustrious Dāmāditya, the artisan, the son of Śūdradeva originating from Poṣalīgrāma.</p>
+                        <p rend="stanza" n="21">This edict was engraved by illustrious Dāmāditya, the artisan, the son of Śūdradeva originating from Ghoṣalīgrāma.</p>
             </div>
          </div>
          <div type="commentary">
