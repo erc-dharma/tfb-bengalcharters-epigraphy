@@ -280,13 +280,13 @@ amwb : add abbr
 				</app>
 				<app loc="6">
 					<lem source="bib:Balogh+al2019_01">ṣ<choice><sic>ī</sic><corr>a</corr></choice>ḍ</lem>
-					<note><bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads <foreign>ṣaḍ</foreign> but this is clearly not what the plate shows; cf. line 14, where <foreign>ṣaḍ</foreign> is clear.
+					<note><bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads <foreign>ṣaḍ</foreign> but this is clearly not what the plate shows; cf. line 14, where <foreign>ṣaḍ</foreign> is clear.
 </note>
 				</app>
 				<app loc="7">
 					<lem source="bib:Balogh+al2019_01">-kr̥tya</lem>
 					<rdg source="bib:Basak1931-1932_01">-<supplied reason="lost">kr̥</supplied>tya</rdg>
-					<note>On this shape of <foreign>kr̥</foreign>, recurring also below in line 14, cf. the <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur plate</ref>, line 15.
+					<note>On this shape of <foreign>kr̥</foreign>, recurring also below in line 14, cf. the <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur plate</ref>, line 15.
 </note>
 				</app>
 				<app loc="7">
@@ -402,7 +402,7 @@ amwb : add abbr
 				<app loc="16">
 					<lem source="bib:Balogh+al2019_01">sthal<choice><sic>i</sic><corr>a</corr></choice>-v<choice><sic>a</sic><corr>ā</corr></choice>stuno</lem>
 					<rdg source="bib:Basak1931-1932_01">sthalevastuno</rdg>
-					<note>Correct <foreign>sthalavāstuno</foreign>. RB reads <foreign>sthalevastuno</foreign> and makes the same correction. The <foreign>akṣara</foreign> he reads <foreign>le</foreign> has a slightly different shape than the <foreign>le</foreign> in line 7.</note>
+					<note>Correct <foreign>sthalavāstuno</foreign>. RB reads <foreign>sthalevastuno</foreign> and makes the same correction. The <foreign>akṣara</foreign> he reads <foreign>le</foreign> has a slightly different shape than the <foreign>le</foreign> in line 7.</note>
 				</app>
 				<app loc="16">
 					<lem>-vāpa <space/><lb n="17" break="no"/><choice><sic>p</sic><corr>m</corr></choice></lem><!-- 
@@ -430,11 +430,11 @@ amwb : add abbr
 				</app>
 				<app loc="19">
 					<lem source="bib:Balogh+al2019_01">-sthāyi-tuṣāṅgār-ādinā</lem>
-					<note>Correct -<foreign>sthāyituṣāṅgārādināṁ</foreign> or -<foreign>sthāyituṣāṅgārādi</foreign>- (thus <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur</ref>, line 14)? The latter option is reflected in the translation. <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads -<foreign>sthāyi</foreign>-.</note>
+					<note>Correct -<foreign>sthāyituṣāṅgārādināṁ</foreign> or -<foreign>sthāyituṣāṅgārādi</foreign>- (thus <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur</ref>, line 14)? The latter option is reflected in the translation. <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads -<foreign>sthāyi</foreign>-.</note>
 				</app>
 				<app loc="19">
 					<lem source="bib:Balogh+al2019_01">cāturddiśo</lem>
-					<note>Corr. <foreign>caturdiśo</foreign> or <foreign>cāturddiśe</foreign>? Cf. <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur</ref>, line 14–15 <foreign>caturddiṅniyamitasīmānaṁ kr̥tvā</foreign>.</note>
+					<note>Corr. <foreign>caturdiśo</foreign> or <foreign>cāturddiśe</foreign>? Cf. <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur</ref>, line 14–15 <foreign>caturddiṅniyamitasīmānaṁ kr̥tvā</foreign>.</note>
 				</app>
 				<app loc="20">
 					<lem source="bib:Balogh+al2019_01">dharmme<choice><sic>n</sic><corr>ṇ</corr></choice>a</lem>

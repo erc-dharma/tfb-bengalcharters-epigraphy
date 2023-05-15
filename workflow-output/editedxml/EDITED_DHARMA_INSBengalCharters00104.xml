@@ -137,7 +137,7 @@
                      <l n="d">vihaṅgamānāṁ suciram vabhūva<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="5" met="indravajrā">
-                     <l n="a">śāstrārtha-bhājā calato!’nuśāsya</l>
+                     <l n="a">śāstrārtha-bhājā calato !’nuśāsya</l>
                      <l n="b">varṇṇān pratiṣṭhāpaya<lb n="9" break="no"/>tā sva-dharme<g type="danda">.</g></l>
                      <l n="c">śrī-dharmapālena sutena so ’bhūt</l>
                      <l n="d">svarga-sthitānām anr̥ṇaḥ pitṝṇāṁ*<g type="ddandaStrokeLeft">.</g></l>
@@ -235,7 +235,7 @@
                  </lg>
                  <lg n="22" met="āryā">
                      <l n="ab">dakṣiṇa-bhuja Iva rājñaḥ para-vala-dalane sahāya-nirapekṣaḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
-                     <l n="cd"><lb n="51"/>dūtyaṁ śrī-valavarmmā vidadhe dharmmādhikāre!’smin·<g type="ddanda">.</g></l>
+                     <l n="cd"><lb n="51"/>dūtyaṁ śrī-valavarmmā vidadhe dharmmādhikāre !’smin·<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="23" met="āryā">
                      <l n="ab">Asmin<unclear>·</unclear> dharmmārambhe dūtyaṁ śrī-devapāla-devasya<g type="danda">.</g></l>
@@ -279,13 +279,13 @@
                      <l n="a">paulomīva surādhipasya viditā saṅkalpa-yoner iva</l>
                      <l n="b"><unclear>prī</unclear>tiḥ śaila-suteva manmatha-ri<lb n="59" break="no"/>por llakṣmīr murārer iva<g type="danda">.</g></l>
                      <l n="c">rājñaḥ soma-kulānvayasya mahataḥ śrī-varmasetoḥ sutā</l>
-                     <l n="d">tasyābhūd avanī-bujo!’gra-mahiṣī tāreva tārāhvayā<g type="ddandaStrokeLeft">.</g></l>
+                     <l n="d">tasyābhūd avanī-bujo !’gra-mahiṣī tāreva tārāhvayā<g type="ddandaStrokeLeft">.</g></l>
                  </lg>
                  <lg n="31" met="śārdūlavikrīḍita">
                      <l n="a">māyā<lb n="60" break="no"/>yām iva kāmadeva-vijayī śuddhodanasyātmajaḥ</l>
                      <l n="b">skando nandita-deva-vr̥nda-hr̥dayaḥ śambhor umāyām iva<g type="danda">.</g></l>
                      <l n="c">tasyān tasya narendra-vr̥nda-vinamat-pādāravi<lb n="61" break="no"/>ndāsanaḥ</l>
-                     <l n="d">sarvvorvvī-pati-garvva-kharvvaṇa-caṇaḥ śrī-vālaputro!’bhavaT<g type="ddanda">.</g></l>
+                     <l n="d">sarvvorvvī-pati-garvva-kharvvaṇa-caṇaḥ śrī-vālaputro !’bhavaT<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="32" met="śārdūlavikrīḍita">
                      <l n="a">nālandā-guṇa-vr̥nda-luvdha-manasā bhaktyā ca śauddhodaner</l>
@@ -435,7 +435,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>The inscription was first edited by Hirandanda Sastri<bibl rend="omitname"><ptr target="bib:Shastri1923-1924_01"/></bibl>, an edition subsequently reprinted by him in his Nālandā and Its Epigraphic Material<bibl rend="omitname"><ptr target="bib:Sastri1942_01"/><citedRange unit="page">92-102</citedRange></bibl>. In the meantime, however, a more reliable edition had appeared from the hands of Nanigopal Majumdar<bibl rend="omitname"><ptr target="bib:Majumdar1926_01"/></bibl>. This has been ignored not only by Hirandanda Sastri but also by most other scholars, including Dines Chandra Sircar<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/></bibl> who re-edited the inscription. The present edition is based on the reading by Arlo Griffiths, who consulted all the thee editions against the estampage of the plate, which was further checked by Ryosuke Furui against the digital photographs obtained from Natinal Museum, New Delhi.</p>
+           <p>The inscription was first edited by Hirandanda Sastri<bibl rend="omitname"><ptr target="bib:Shastri1923-1924_01"/></bibl>, an edition subsequently reprinted by him in his Nālandā and Its Epigraphic Material<bibl rend="omitname"><ptr target="bib:Sastri1942_01"/><citedRange unit="page">92-102</citedRange></bibl>. In the meantime, however, a more reliable edition had appeared from the hands of Nanigopal Majumdar<bibl rend="omitname"><ptr target="bib:Majumdar1926_01"/></bibl>. This has been ignored not only by Hirandanda Sastri but also by most other scholars, including Dines Chandra Sircar<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/></bibl> who re-edited the inscription. The present edition is based on the reading by Arlo Griffiths, who consulted all the thee editions against the estampage of the plate, which was further checked by Ryosuke Furui against the digital photographs obtained from Natinal Museum, New Delhi.</p>
         	<listBibl type="primary">
         	    <bibl n="HS"><ptr target="bib:Shastri1923-1924_01"/></bibl>
         	    <bibl n="NGM"><ptr target="bib:Majumdar1926_01"/></bibl>

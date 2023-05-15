@@ -218,7 +218,7 @@ amwb : add a tag ref when the inscription is encoded in DHARMABASE. For the mome
                    </app>
                    <app loc="6">
                        <lem>gu<supplied reason="omitted">ha</supplied>yaśa</lem>
-                       <note>Emend <foreign>guhayaśa</foreign>. Cf. the <ref target="DHARMA_INSBengalCharters00002.xml">Kotalipada plate</ref>, line 5.</note>
+                       <note>Emend <foreign>guhayaśa</foreign>. Cf. the <ref target="DHARMA_INSBengalCharters00002.xml">Kotalipada plate</ref>, line 5.</note>
                    </app>
                    <app loc="7">
                        <lem>śāṅkara</lem>

@@ -114,12 +114,12 @@
                      <l n="a">maitrīṁ kāruṇya-ratna-pramudita-hr̥dayaḥ<lb n="2"/> preyasīṁ sandadhānaḥ</l>
                      <l n="b">samyak-samvodhi-vidyā-sarid-a<lb n="3" break="no"/>mala-jala-kṣālitājñāna-paṅkaḥ<g type="dandaStrokeLeft">.</g></l>
                      <l n="c">jitvā yaḥ kāma<lb n="4" break="no"/>-kāri-prabhavam abhibhavaṁ śā<choice><sic>s</sic><corr>ś</corr></choice>vatīṁ prāpa śāntiṁ</l>
-                     <l n="d">sa śrī<lb n="5" break="no"/>māl lokanātho jayati daśavalo!’nyaś ca gopāladevaḥ<g type="ddandaStrokeLeft">.</g></l>
+                     <l n="d">sa śrī<lb n="5" break="no"/>māl lokanātho jayati daśavalo !’nyaś ca gopāladevaḥ<g type="ddandaStrokeLeft">.</g></l>
                  </lg>
                  <lg n="2" met="śārdūlavikrīḍita">
                      <l n="a">lakṣmī-janma-niketanaṁ sama-karo voḍhuṁ kṣamaḥ kṣmā<lb n="6" break="no"/>-bharaṁ</l>
                      <l n="b">pakṣa-ccheda-bhayād upasthitavatām ekāśrayo bhūbhr̥tāṁ<g type="commaSmall">.</g></l>
-                     <l n="c">maryādā-paripālanaika-nirataḥ śauryālayo!’smā<lb n="7" break="no"/>d abhūd</l>
+                     <l n="c">maryādā-paripālanaika-nirataḥ śauryālayo !’smā<lb n="7" break="no"/>d abhūd</l>
                      <l n="d">dugdhāmbhodhi-vilāsa-hāsi-mahimā śrī-dharmmapālo nr̥paḥ<g type="ddandaStrokeLeft">.</g></l>
                  </lg>
                  <lg n="3" met="upajāti">
@@ -199,7 +199,7 @@
                  <lg n="16" met="śālinī">
                      <l n="a">sarvvān etān· bhāvinaḥ pārthivendrān·</l>
                      <l n="b">bhūyo bhūyaḥ prārthayaty eṣa<lb n="55"/> rāmaḥ<g type="commaSmall">.</g></l>
-                     <l n="c">sāmānyo!‘yaṁ dharma-setur nr̥pāṇāṁ</l>
+                     <l n="c">sāmānyo !‘yaṁ dharma-setur nr̥pāṇāṁ</l>
                      <l n="d">kāle kāle pālanīyaḥ krameṇa<g type="ddandaStrokeLeft">.</g> <space unit="character" quantity="1"/></l>
                  </lg>
                  <p>
@@ -211,7 +211,7 @@
          <div type="apparatus">
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                <listApp>
-                  <app loc="0"><lem>ni<space extent="unknown"/>ni</lem><note>The character ni, which seems to be an abbreviation for nibaddha “confirmed”, is engraved on the upper left and right margins of the obverse of the plate.</note></app>
+                  <app loc="0"><lem>ni<space extent="unknown"/>ni</lem><note>The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the upper left and right margins of the obverse of the plate.</note></app>
                   <app loc="4"><lem>śrī<lb n="5" break="no"/>māl lokanātho</lem><rdg source="bib:Mishra1981_01">śrī<lb n="5" break="no"/>māṁ llokanātho</rdg> <rdg source="bib:SubramoniaIyer2011-2012_01">śrī<lb n="5" break="no"/>mān lokanātho</rdg></app>
                   <app loc="5"><lem>!’nyaś</lem><rdg source="bib:SubramoniaIyer2011-2012_01">nyaś</rdg></app>
                   <app loc="6"><lem>!’smā<lb n="7" break="no"/>d</lem><rdg source="bib:SubramoniaIyer2011-2012_01">smā<lb n="7" break="no"/>d</rdg></app>
@@ -279,7 +279,7 @@
                   <app loc="42"><lem>-pīḍ<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst></lem><rdg source="bib:SubramoniaIyer2011-2012_01">-pīḍo</rdg></app>
                   <app loc="42"><lem>-praveś<subst><del rend="corrected">aḥ</del><add place="overstrike"><unclear>au</unclear></add></subst></lem><rdg source="bib:Mishra1981_01">-praveśo</rdg><rdg source="bib:SubramoniaIyer2011-2012_01">-praveśo</rdg></app>
                   <app loc="42"><lem>-pragrāhy<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst></lem><rdg source="bib:SubramoniaIyer2011-2012_01">-pragrāhyo</rdg></app>
-                  <app loc="43"><lem>-samet<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst></lem><rdg source="bib:SubramoniaIyer2011-2012_01">-sameto</rdg><note>The two akṣaras for “same” squeezed in a narrow space.</note></app>
+                  <app loc="43"><lem>-samet<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst></lem><rdg source="bib:SubramoniaIyer2011-2012_01">-sameto</rdg><note>The two akṣaras for "same" squeezed in a narrow space.</note></app>
                   <app loc="43"><lem>-<surplus>n</surplus>nyāyenā˚</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-nyāsenā˚</rdg></app>
                   <app loc="43"><lem>˚ārkka-</lem><rdg source="bib:SubramoniaIyer2011-2012_01">˚ārikka-</rdg></app>
                   <app loc="43"><lem>yāvat</lem><rdg source="bib:SubramoniaIyer2011-2012_01"/></app>

@@ -461,7 +461,7 @@ daba siddham : Sircar and Agrawala read the date as 120. But N. B. Sanyal in Sen
 					<rdg source="bib:Sircar1943_02">-bhava<gap reason="illegible" unit="character" quantity="4"/></rdg>
 					<rdg source="bib:Sanyal1955-1956_01">-bhavanā<supplied reason="lost">tha</supplied><gap reason="illegible" unit="character" quantity="2"/>-</rdg>
 					<rdg source="bib:Balogh+al2019_01">-bhava<unclear>svā</unclear><unclear cert="low">mideva</unclear>-</rdg>
-					<note><bibl><ptr target="bib:Sanyal1955-1956_01"/></bibl> adds in a note: <cit><quote>the reading seems to be <foreign>Rudrabhava-svāmi<supplied reason="lost">deva</supplied></foreign>. -Ed.</quote></cit>.</note>
+					<note><bibl><ptr target="bib:Sanyal1955-1956_01"/></bibl> adds in a note : <cit><quote>the reading seems to be <foreign>Rudrabhava-svāmi<supplied reason="lost">deva</supplied></foreign>. -Ed.</quote></cit>.</note>
 				</app>
 				<app loc="7">
 					<lem>bhaṭṭa-ṣaṣṭhirā<supplied reason="lost">ta</supplied>-gu<gap reason="illegible" quantity="5" unit="character"/><supplied reason="lost">śa</supplied></lem>
@@ -675,7 +675,7 @@ amwb : I added this app with this note and this suggestion
 					<rdg source="bib:Sircar1943_02"><supplied reason="lost">ca</supplied></rdg>
 					<rdg source="bib:Sanyal1955-1956_01">yāva<supplied reason="omitted">t</supplied></rdg>
 					<rdg source="bib:Balogh+al2019_01"><unclear>yāva</unclear><supplied reason="omitted">t</supplied></rdg>
-					<note>Emend <foreign>caiva</foreign>?</note>
+					<note>Emend <foreign>caiva</foreign> ?</note>
 				</app>
 				<app loc="24">
 					<lem>ṣaṬ Eṣu</lem>

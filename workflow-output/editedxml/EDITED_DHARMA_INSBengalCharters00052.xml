@@ -299,7 +299,7 @@ amwb : change the reading of anambhassu for Arlo's one, see apparatus
 				<app loc="6">
 					<lem>vaṭa-gohālyām <choice><sic>a</sic><corr>e</corr></choice>vā<choice><sic>ś</sic><corr>s</corr></choice>yāṅ</lem>
 					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">vaṭagohālyāmavāsyāṅ</rdg>
-					<note>KND DCS emended to <foreign>vaṭagohālyām evāsyāṅ</foreign>. But the <foreign>akṣara</foreign> they read <foreign>syā</foreign> really looks more like <foreign>śyā</foreign>. Cf. the problem at the end of line 12. I provisionally assume that one must indeed emend <foreign>vaṭagohālyām evāsyāṅ</foreign> here.</note>
+					<note>KND DCS emended to <foreign>vaṭagohālyām evāsyāṅ</foreign>. But the <foreign>akṣara</foreign> they read <foreign>syā</foreign> really looks more like <foreign>śyā</foreign>. Cf. the problem at the end of line 12. I provisionally assume that one must indeed emend <foreign>vaṭagohālyām evāsyāṅ</foreign> here.</note>
 				</app>
 				<app loc="7">
 					<lem>dīpādy-arttha<sic>n</sic></lem>
@@ -319,7 +319,7 @@ amwb : change the reading of anambhassu for Arlo's one, see apparatus
 				<app loc="8">
 					<lem>kṣetra-droṇa-vāpa-catuṣṭayaṁ</lem>
 					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">kṣetraṁ droṇa-vāpa-catuṣṭayaṁ</rdg>
-					<note>Cf. <foreign>kṣetrakulyavāpam</foreign> in lines 9, 16 and 18–19.</note>
+					<note>Cf. <foreign>kṣetrakulyavāpam</foreign> in lines 9, 16 and 18–19.</note>
 				</app>
 				<app loc="9">
 					<lem source="bib:Sircar1965_02">-prāveśya-</lem>
@@ -337,7 +337,7 @@ amwb : change the reading of anambhassu for Arlo's one, see apparatus
 				<app loc="9">
 					<lem>kṣetra-kulya-vāpam</lem>
 					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">kṣetra-<subst><del rend="corrected">droṇa</del><add place="overstrike">kulya</add></subst>-vāpam</rdg>
-					<note><bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> notes that ‘The engraver first wrote <foreign>droṇavāpam</foreign> but finding his mistake later, appears to have made an attempt at correction. The erased letters <foreign>droṇa</foreign> are clearly visible below <foreign>kulya</foreign>.’ <bibl><ptr target="bib:Sircar1965_02"/></bibl>DCS has an equivalent note.
+					<note><bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> notes that ‘The engraver first wrote <foreign>droṇavāpam</foreign> but finding his mistake later, appears to have made an attempt at correction. The erased letters <foreign>droṇa</foreign> are clearly visible below <foreign>kulya</foreign>.’ <bibl><ptr target="bib:Sircar1965_02"/></bibl>DCS has an equivalent note.
 </note>
 				</app>
 				<app loc="9">
@@ -380,7 +380,7 @@ amwb : change the reading of anambhassu for Arlo's one, see apparatus
 					<lem>-gohālī<unclear>sva</unclear> <gap reason="illegible" unit="character" quantity="1"/>-</lem>
 					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh+al2019_01">-gohālī<unclear cert="low">stha</unclear>ya-</rdg>
 					<rdg source="bib:Sircar1965_02">-gohālīsth<supplied reason="lost">āyi</supplied>-</rdg>
-					<note>For the penultimate <foreign>akṣara</foreign>, <foreign>sva</foreign> (or <foreign>ṣva</foreign>) seems the most evident choice; see the shape of the same <foreign>akṣara</foreign> in line 25. Cf. the problem in line 6.
+					<note>For the penultimate <foreign>akṣara</foreign>, <foreign>sva</foreign> (or <foreign>ṣva</foreign>) seems the most evident choice; see the shape of the same <foreign>akṣara</foreign> in line 25. Cf. the problem in line 6.
 </note>
 				</app>
 				<app loc="13">

@@ -207,12 +207,12 @@ amwb : see photo yasa? ya a? l14.png
                    <app loc="4">
                        <lem>puṇḍra<lb n="5"/>varddhaneya-</lem>
                        <!--<rdg source="bib:Dubey+Acharya2014_01">puṇḍravarddhane <choice><sic>ya</sic><supplied reason="omitted">ḥ</supplied></choice></rdg><!-\- pas sur que ce soit le bon encodage -\->-->
-                       <note>Cf. perhaps the <ref target="DHARMA_INSBengalCharters00034.xml">Jagadishpur plate of the Gupta Year 128</ref>, line 3, although <bibl><ptr target="bib:Sircar1969-1970_01"/></bibl>, there read <foreign>puṇḍravarddhane ya</foreign>, emending <foreign>ya</foreign> to <foreign>ye</foreign> (and explicitly rejecting the reading <foreign>puṇḍravarddhaneya</foreign>).</note>
+                       <note>Cf. perhaps the <ref target="DHARMA_INSBengalCharters00034.xml">Jagadishpur plate of the Gupta Year 128</ref>, line 3, although <bibl><ptr target="bib:Sircar1969-1970_01"/></bibl>, there read <foreign>puṇḍravarddhane ya</foreign>, emending <foreign>ya</foreign> to <foreign>ye</foreign> (and explicitly rejecting the reading <foreign>puṇḍravarddhaneya</foreign>).</note>
                    </app>
                    <app loc="5">
                        <lem>-suvarccasadatt<choice><sic>o</sic><corr>ā</corr></choice>d d<unclear>ī</unclear>nārān</lem>
                       <!-- <rdg source="bib:Dubey+Acharya2014_01">-suvarcca<choice><orig>sadatto ddi</orig><corr>se datta di</corr></choice>nārān</rdg><!-\- pas sur que ce soit le bon encodage -\->-->
-                       <note>To us it seems likely that the engraver actually wrote <foreign>dī</foreign>, as is required. Several parallels in the Gupta corpus suggest that we need an ablative ending before <foreign>dīnārān</foreign>. The obvious emendation is <foreign>suvarcasadattād</foreign>. Cf. line 9.</note>
+                       <note>To us it seems likely that the engraver actually wrote <foreign>dī</foreign>, as is required. Several parallels in the Gupta corpus suggest that we need an ablative ending before <foreign>dīnārān</foreign>. The obvious emendation is <foreign>suvarcasadattād</foreign>. Cf. line 9.</note>
                    </app>
                    <!--<app loc="5">
                        <lem>upasaṁgṛhya</lem>
@@ -336,12 +336,12 @@ amwb : by reading to this note, it appears to me that the tag unclear should be 
                    <app loc="15">
                        <lem>-bhūtiṣyaitat</lem>
                        <!--<rdg source="bib:Dubey+Acharya2014_01">bhūtisyetat</rdg>-->
-                       <note><foreign>bhūtiṣya</foreign> <supplied reason="explanation">indistinguishable graphically from <foreign>bhūtisya</foreign></supplied> is a substandard gen. sg. form which ought to have been <foreign>bhūteḥ</foreign> in chaste Sanskrit.</note>
+                       <note><foreign>bhūtiṣya</foreign> <supplied reason="explanation">indistinguishable graphically from <foreign>bhūtisya</foreign></supplied> is a substandard gen. sg. form which ought to have been <foreign>bhūteḥ</foreign> in chaste Sanskrit.</note>
                    </app>
                    <app loc="15">
                        <lem>-varttanānyatra</lem>
                        <!--<rdg source="bib:Dubey+Acharya2014_01">-vartananyatra</rdg>-->
-                       <note>Emend <foreign>-varttenānyatra</foreign>? Cf. lines 13 and 18.</note>
+                       <note>Emend <foreign>-varttenānyatra</foreign>? Cf. lines 13 and 18.</note>
                    </app>
                    <app loc="15">
                        <lem>°yi<unclear>ṣya</unclear><supplied reason="lost">sīti</supplied> <unclear>ya</unclear>ta<unclear>ḥ</unclear></lem>
@@ -434,7 +434,7 @@ amwb : by reading to this note, it appears to me that the tag unclear should be 
                    </app>
                    <app loc="20">
                        <lem>evopalabhyetona preṣitakenā°</lem>
-                       <note>Cf. Khoh Plates of Mahārāja Śarvanātha (see <bibl><ptr target="bib:Fleet1888_01"/><citedRange unit="item">31</citedRange></bibl> and <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="item">1201</citedRange></bibl>)<!-- 
+                       <note>Cf. Khoh Plates of Mahārāja Śarvanātha (see <bibl><ptr target="bib:Fleet1888_01"/><citedRange unit="item">31</citedRange></bibl> and <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="item">1201</citedRange></bibl>)<!-- 
                            amwb : not sure it matches with Fl. No. 31; Bh. No. 1201 
                        -->, plate 1, lines 14–15: <foreign>te yūyam evopalabhyājñāśravaṇa-vidheyā bhūtvā samucita-bhāga-bhoga-kara-hiraṇyāvātāy<supplied reason="lost">ā</supplied>dipratyāyān upaneṣyatha</foreign>. Read -<foreign>°nupreṣita</foreign>-?
 </note>
@@ -450,7 +450,7 @@ amwb : by reading to this note, it appears to me that the tag unclear should be 
                    <app loc="21">
                        <lem><unclear>pa</unclear>riniyamya</lem>
                       <!-- <rdg source="bib:Dubey+Acharya2014_01">pārineyasya(pāriṇāyyaṁ ?)</rdg>-->
-                       <note>Cf. <ref target="DHARMA_INSBengalCharters00049.xml">Baigram plate</ref>, line 19 <foreign>niyamya</foreign> and <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur plate</ref>, lines 14–15.</note>
+                       <note>Cf. <ref target="DHARMA_INSBengalCharters00049.xml">Baigram plate</ref>, line 19 <foreign>niyamya</foreign> and <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur plate</ref>, lines 14–15.</note>
                    </app>
                    <app loc="22">
                        <lem>akṣa<supplied reason="omitted">ya</supplied>-nīvī-dharmmeṇānu°</lem>

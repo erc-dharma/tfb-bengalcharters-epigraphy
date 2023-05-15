@@ -184,11 +184,11 @@
                    <app loc="9">
                        <lem>c<choice><sic>a</sic><corr>ā</corr></choice>ny<unclear>ā</unclear>
                  <lb n="10" break="no"/>dyapiṇḍa-pānipāt<choice><sic>r̥</sic><corr>ri</corr></choice>kād<unclear>i</unclear>-bhojya-</lem>
-                       <note>Emend <foreign>cānyādyapiṇḍa-pāṇipātrikādi-bhojya</foreign>-. Cf. line 19. The emendation to -<foreign>pāṇipātrikādi</foreign>- is based on the occurrence of the same term in the Jaina image inscriptions cited in <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="page">47</citedRange></bibl>. The first two <foreign>akṣara</foreign>s are of uncertain reading both here and in line 19, where the first seems to be <foreign>cā</foreign> rather than <foreign>ca</foreign>; <foreign>c<choice><unclear>a</unclear><unclear>ā</unclear></choice>nyo</foreign>, <foreign>c<choice><unclear>a</unclear><unclear>ā</unclear></choice>tyo</foreign> are among other possibilities, none of them yielding recognizable words.</note>
+                       <note>Emend <foreign>cānyādyapiṇḍa-pāṇipātrikādi-bhojya</foreign>-. Cf. line 19. The emendation to -<foreign>pāṇipātrikādi</foreign>- is based on the occurrence of the same term in the Jaina image inscriptions cited in <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="page">47</citedRange></bibl>. The first two <foreign>akṣara</foreign>s are of uncertain reading both here and in line 19, where the first seems to be <foreign>cā</foreign> rather than <foreign>ca</foreign>; <foreign>c<choice><unclear>a</unclear><unclear>ā</unclear></choice>nyo</foreign>, <foreign>c<choice><unclear>a</unclear><unclear>ā</unclear></choice>tyo</foreign> are among other possibilities, none of them yielding recognizable words.</note>
                    </app>
                    <app loc="10">
                        <lem>-pratisaṁskārādyopayo<unclear>ka</unclear><space unit="character" quantity="1"/></lem>
-                       <note>The normal formula is -<foreign>pratisaṁskārakaraṇāya</foreign> (see the <ref target="DHARMA_INSBengalCharters00049.xml">Baigram plate</ref>, line 11; <ref target="DHARMA_INSBengalCharters00056.xml">Damodarpur #5</ref>, line 8; the Gunaighar grant edited by <bibl><ptr target="bib:Bhattacharyya1930_01"/><citedRange unit="line">7</citedRange></bibl>; the plate edited in <bibl><ptr target="bib:Furui2016_01"/><citedRange unit="line">13</citedRange></bibl> — see also <bibl><ptr target="bib:Hinueber2013_01"/><citedRange unit="page">373</citedRange></bibl>. In line 20 we see -<foreign>pratisaṁskārādyarttha</foreign>; emend here -<foreign>pratisaṁskārādyupayogāya</foreign> (cf. <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur</ref>, line 13 <foreign>gandha-<supplied reason="lost">dhūp</supplied>ādy-upayogāya</foreign> and <ref target="DHARMA_INSBengalCharters00056.xml">Damodarpur #5</ref>, line 9 <foreign>madhu-parkkadīpādyupa<supplied reason="lost">yo</supplied>gā<supplied reason="lost">ya</supplied></foreign>).</note>
+                       <note>The normal formula is -<foreign>pratisaṁskārakaraṇāya</foreign> (see the <ref target="DHARMA_INSBengalCharters00049.xml">Baigram plate</ref>, line 11; <ref target="DHARMA_INSBengalCharters00056.xml">Damodarpur #5</ref>, line 8; the Gunaighar grant edited by <bibl><ptr target="bib:Bhattacharyya1930_01"/><citedRange unit="line">7</citedRange></bibl>; the plate edited in <bibl><ptr target="bib:Furui2016_01"/><citedRange unit="line">13</citedRange></bibl> — see also <bibl><ptr target="bib:Hinueber2013_01"/><citedRange unit="page">373</citedRange></bibl>. In line 20 we see -<foreign>pratisaṁskārādyarttha</foreign>; emend here -<foreign>pratisaṁskārādyupayogāya</foreign> (cf. <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur</ref>, line 13 <foreign>gandha-<supplied reason="lost">dhūp</supplied>ādy-upayogāya</foreign> and <ref target="DHARMA_INSBengalCharters00056.xml">Damodarpur #5</ref>, line 9 <foreign>madhu-parkkadīpādyupa<supplied reason="lost">yo</supplied>gā<supplied reason="lost">ya</supplied></foreign>).</note>
                    </app>
                    <app loc="11">
                        <lem>°sr̥gālikāya 
@@ -198,16 +198,16 @@
                    <app loc="16">
                        <lem>vihāratrayy<supplied reason="lost">āṁ</supplied> 
                  <lb n="17"/>kṣamanācāryya-jinadāsa-ka<unclear>r</unclear>ṇṇakābhyā<surplus>ṁ</surplus>m adhiṣṭhit<choice><sic><unclear>ayo</unclear></sic><corr>āyāṁ</corr></choice></lem>
-                       <note>Emend <foreign>vihāratrayyāṁ kṣamaṇācāryya-jinadāsa-ka<unclear>r</unclear>ṇṇakābhyām adhiṣṭhitāyāṁ</foreign>. Cf. line 7–8 above, <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur</ref>, line 6 (<foreign>śramaṇācāryya</foreign>) and 6/13 (<foreign>adhiṣṭhita<supplied reason="lost">sad</supplied>vihāre</foreign>); see also discussion in <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="page">46-7</citedRange></bibl>. Confusion of <foreign>ṇ</foreign>/<foreign>n</foreign> is observed also elsewhere in this text, and throughout the corpus; but in line 7 it is clearly not -<foreign>trayyāṁ</foreign> that has been written. </note>
+                       <note>Emend <foreign>vihāratrayyāṁ kṣamaṇācāryya-jinadāsa-ka<unclear>r</unclear>ṇṇakābhyām adhiṣṭhitāyāṁ</foreign>. Cf. line 7–8 above, <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur</ref>, line 6 (<foreign>śramaṇācāryya</foreign>) and 6/13 (<foreign>adhiṣṭhita<supplied reason="lost">sad</supplied>vihāre</foreign>); see also discussion in <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="page">46-7</citedRange></bibl>. Confusion of <foreign>ṇ</foreign>/<foreign>n</foreign> is observed also elsewhere in this text, and throughout the corpus; but in line 7 it is clearly not -<foreign>trayyāṁ</foreign> that has been written. </note>
                    </app>
                    <app loc="18">
                        <lem>ni<supplied reason="omitted">r</supplied>grantha-putra-jitānā
                  <lb n="19" break="no"/>gat<choice><sic>a</sic><corr>ā</corr></choice>bhyāgatānān</lem>
-                       <note> Cf. line 9.</note>
+                       <note> Cf. line 9.</note>
                    </app>
                    <app loc="19">
                        <lem>cā<supplied reason="lost">n</supplied>y<unclear>ā</unclear>dyapiṇḍa-pānipāt<choice><sic><unclear>r̥</unclear></sic><corr>ri</corr></choice>kādi-bhojya-</lem>
-                       <note>Cf. line 10.</note>
+                       <note>Cf. line 10.</note>
                    </app>
                    <app loc="23">
                        <lem>vihāratra<choice><sic><unclear>ya</unclear></sic><corr>yyāṁ</corr></choice></lem>

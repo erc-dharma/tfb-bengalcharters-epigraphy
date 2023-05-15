@@ -159,7 +159,7 @@ samva <num value="100">100</num> <num><gap reason="lost" quantity="2" unit="char
                   <app loc="3">
                      <lem>Iha-vīthy<choice><sic><unclear>ā </unclear></sic><corr>āṁ</corr></choice> pa<surplus>ṁ</surplus>
                  <lb n="4" break="no"/>ṇya-vastuṣu</lem>
-                    <note>Cf. line 10 below, and similar passages in the <ref target="DHARMA_INSBengalCharters00033.xml">Kalaikuri-Sultanpur plate</ref>: <foreign>iha-vīthyām apratikara-khila-kṣetrasya śaśvat-kālopabhogāyākṣaya-nīvyā dvi-dīnārikya-khila-kṣetra-kulyabāpa-vikraya-maryādayā</foreign> (lines 12–13); <foreign>iha-vīthyām apratikara-khila-kṣettrasya śaśvat-kālopabhogāyākṣaya-nīvyā dvi-dīnārikya-kulyabāpa-vikkrayo ’nuvr̥ttas</foreign> (lines 18–19).</note>
+                    <note>Cf. line 10 below, and similar passages in the <ref target="DHARMA_INSBengalCharters00033.xml">Kalaikuri-Sultanpur plate</ref>: <foreign>iha-vīthyām apratikara-khila-kṣetrasya śaśvat-kālopabhogāyākṣaya-nīvyā dvi-dīnārikya-khila-kṣetra-kulyabāpa-vikraya-maryādayā</foreign> (lines 12–13); <foreign>iha-vīthyām apratikara-khila-kṣettrasya śaśvat-kālopabhogāyākṣaya-nīvyā dvi-dīnārikya-kulyabāpa-vikkrayo ’nuvr̥ttas</foreign> (lines 18–19).</note>
                   </app>
                    <app loc="4">
                        <lem>’kṣaya-<choice><orig>ṇ</orig><reg>n</reg></choice>īvī-</lem>
@@ -176,23 +176,24 @@ samva <num value="100">100</num> <num><gap reason="lost" quantity="2" unit="char
                    </app>
                    <app loc="12">
                        <lem><choice><sic>u</sic><corr>a</corr></choice>rtthopaca<unclear>yo</unclear></lem>
-                       <note>Cf. the <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur plate</ref>, line 16.</note>
+                       <note>Cf. the <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur plate</ref>, line 16.</note>
                    </app>
                    <app loc="16">
                        <lem>vāpa <gap reason="lost" quantity="5" unit="character"/> rakta-</lem>
-                       <note>The word <foreign>khuḍḍī</foreign> can almost certainly be filled in to restore part of the lacuna (cf. line 9). The remaining gap can be filled with less certainty. My translation presumes -<foreign>kulyavāpa<supplied reason="lost">m ekaṁ khuḍḍī</supplied>-rakta-mālikāgrāme</foreign>.</note>
+                       <note>The word <foreign>khuḍḍī</foreign> can almost certainly be filled in to restore part of the lacuna (cf. line 9). The remaining gap can be filled with less certainty. My translation presumes -<foreign>kulyavāpa<supplied reason="lost">m ekaṁ khuḍḍī</supplied>-rakta-mālikāgrāme</foreign>.</note>
                    </app>
                    <app loc="17">
                        <lem>anena yathopari-likhitaka-vijñāpitakā <gap reason="lost" quantity="2" unit="character"/><unclear>r</unclear>ita <gap reason="lost" quantity="4" unit="character"/></lem>
-                       <note>Possibly restore <foreign>anena yathoparilikhitaka-vijñāpitakāvadhārita-krameṇa</foreign>. Cf. the <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur plate</ref>, line 18: <foreign>vijñāpitaka-kramopayogāyoparinirddiṣṭa-grāma-gohālikeṣu</foreign>; the <ref target="DHARMA_INSBengalCharters00032.xml">Damodarpur plate #3</ref>, line 6 <foreign>yataḥ pustapāla-patradāsenāvadhāritaṁ yuktam anena vijñāpitam</foreign>; the <ref target="DHARMA_INSBengalCharters00002.xml">Kotalipada plate</ref> (<bibl><ptr target="bib:Furui2013_03"/></bibl>), lines 13–14 <foreign>yata Etad abhyarthanam adhikr̥tyāsmābhiḥ pustapāla-jayatsena-kr̥tāvadharaṇayāvadhāritam astīha viṣaye …</foreign><!-- ici je ne sais pas ce que tu notes par les ... un gap? -->. My translation presumes this restoration.</note>
+                       <note>Possibly restore <foreign>anena yathoparilikhitaka-vijñāpitakāvadhārita-krameṇa</foreign>. Cf. the <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur plate</ref>, line 18: <foreign>vijñāpitaka-kramopayogāyoparinirddiṣṭa-grāma-gohālikeṣu</foreign>; the <ref target="DHARMA_INSBengalCharters00032.xml">Damodarpur plate #3</ref>, line 6 <foreign>yataḥ pustapāla-patradāsenāvadhāritaṁ yuktam anena vijñāpitam</foreign>; the <ref target="DHARMA_INSBengalCharters00002.xml">Kotalipada plate</ref> (<bibl><ptr target="bib:Furui2013_03"/></bibl>), lines 13–14 <foreign>yata Etad abhyarthanam adhikr̥tyāsmābhiḥ pustapāla-jayatsena-kr̥tāvadharaṇayāvadhāritam astīha viṣaye …</foreign><!-- ici je ne sais pas ce que tu notes par les ... un gap? -->. My translation presumes this restoration.</note>
                    </app>
                    <app loc="18">
                        <lem><gap reason="lost" quantity="8" unit="character"/></lem>
-                       <note>It seems likely that the illegible sequence at the end of the line is to be restored with <foreign>Akṣaya-nīvī-dharmmeṇa</foreign>. Despite the redundancy that results with the expression that occurs again in lines 21–22, I presume this restoration in my translation. </note>
+                       <note>It seems likely that the illegible sequence at the end of the line is to be restored with <foreign>Akṣaya-nīvī-dharmmeṇa</foreign>. Despite the redundancy that results with the expression that occurs again in lines 21–22, I presume this restoration in my translation.
+</note>
                    </app>
                    <app loc="19">
                        <lem>karṣṣaṇ<unclear>ā</unclear>viro<supplied reason="lost">dhisthā</supplied>ne</lem>
-                       <note>The restoration is based on numerous parallel passages, e.g. the <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur plate</ref>, line 13.</note>
+                       <note>The restoration is based on numerous parallel passages, e.g. the <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur plate</ref>, line 13.</note>
                    </app>
                </listApp>
          </div>
