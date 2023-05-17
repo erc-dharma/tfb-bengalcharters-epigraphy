@@ -131,7 +131,7 @@ amwb : according to my own reading I added one space after śambhudatta
                     n="19" break="no"/>ranti sma<space/><supplied reason="subaudible">.</supplied></p><!-- 
 amwb: according to my own reading,  I added a space before the stanza
                     -->
-<lg n="1" met="anuṣṭubh">
+<lg n="1" met="anuṣṭubh" corresp="#Sircar1965_st0132">
                         <l n="a">sva-dattāṁ para<unclear>da</unclear><choice><sic>tt</sic><corr>t</corr></choice>ām vā<space/></l><!-- 
 amwb: according to my own reading,  I added a space before the next pāda
                     --><l n="b">yo hareta vasundharā<choice><sic>ṁ</sic><corr>m</corr></choice><space/></l><!-- 
@@ -141,7 +141,7 @@ amwb: according to my own reading,  I added a space before the next pāda
 amwb: according to my own reading,  I added a space before the next pāda
                     --><l n="d">pitr̥bhis saha pac<choice><sic>c</sic><corr>y</corr></choice>ate<g type="ddandaHooked">.</g></l></lg>
 
-<lg n="2" met="anuṣṭubh">
+<lg n="2" met="anuṣṭubh" corresp="#Sircar1965_st0123">
                         <l n="a">ṣaṣṭi<supplied reason="omitted">ṁ</supplied> varṣa-sahasrāṇi<space/></l><!-- 
 amwb: according to my own reading,  I added a space before the next pāda
                     --><l n="b">svargge modati bhūmi<lb 
@@ -149,7 +149,7 @@ n="20" break="no"/>daḥ</l>
     <l n="c">Ākṣeptā cānumantā ca<space/></l><!-- 
 amwb: according to my own reading,  I added a space before the next pāda
                     --><l n="d">tāny eva narake vaseT<g type="ddandaHooked">.</g></l></lg>
-<lg n="3" met="anuṣṭubh">
+<lg n="3" met="anuṣṭubh" corresp="#Sircar1965_st0023">
     <l n="a">vahubhir vasudhā dattā<space/></l><!-- 
 amwb: according to my own reading,  I added a space before the next pāda
                     --><l n="b">rājabhis sagarādibhiḥ</l>
