@@ -113,7 +113,7 @@ Note daba modified by argr: "There is a space of about one character after bhūm
 <l n="b">svarge<!-- argr2daba: it rather looks like we have svargge, doesn't it? --> modati bhūmidaḥ <space/></l>
 <l n="c">Ākṣeptā cānumantā ca</l>
 <l n="d">tāny eva na<lb n="19" break="no"/>rake vaseT</l><!-- argr2daba: you here had the note "The halanta T again seems to be a special form, looking like ta, but with the top bending left and down to the baseline." I suggest removing, because this seems to me like the standard T in this corpus. Or shall I move to handDesc? --></lg>
-<p><space/><!-- argr2daba: you already had this space in your encoding. Shall we move it before the closing </lg> --> <abbr>saṁ</abbr> <space/> <num value="169"><g type="numeral">100</g> <g type="numeral">60</g> 9</num> <space/> <abbr>vai</abbr> <abbr>śu</abbr> <abbr>di</abbr> <num value="7">7</num></p>
+<p><space/><!-- argr2daba: you already had this space in your encoding. Shall we move it before the closing </lg> --> <abbr>saṁ</abbr> <space/> <num value="169">100 60 9</num> <space/> <abbr>vai</abbr> <abbr>śu</abbr> <abbr>di</abbr> <num value="7">7</num></p>
 	</div>
 	<div type="apparatus"><!-- argr2daba: I have decided not (yet) to encode rdg's from your Siddham edition -->
 	<listApp>

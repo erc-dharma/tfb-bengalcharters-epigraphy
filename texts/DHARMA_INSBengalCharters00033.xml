@@ -377,7 +377,7 @@ daba siddham : I'm pretty sure there are 3 or 4 further characters after the end
 --><lb 
 n="34"/>saMvvaT<!-- 
 amwb : I removed sa<unclear>ṁ</unclear> <del><unclear cert="low">mba</unclear></del><sic>vv</sic>aT <space/> and added Arlo's reading
---> <num value="120"><g type="numeral">100</g> <g type="numeral">20</g> <g type="numeral">1</g></num> <space quantity="6" unit="character"/><!-- 
+--> <num value="120">100 20 1</num> <space quantity="6" unit="character"/><!-- 
 amwb : here Arlo does not mention a space????? and Arlo reads the number 1, not present in siddham file
 --> vaiśākha <abbr>di</abbr> <num value="1">1</num><!-- 
 daba siddham : Line 34 is squeezed into very little vertical space and contains characters only in two places, near the centre of the line and near the end. The word sa(ṁ)vvat begins below ma of mahīm; vaiśākha begins below the yo of chreyo. 
@@ -816,8 +816,8 @@ n="24" break="no"/>bhītak<choice><sic>a</sic><corr>ī</corr></choice>-</lem>
 					<rdg source="bib:Balogh+al2019_01">sa<unclear>ṁ</unclear> <del><unclear cert="low">mba</unclear></del><sic>vv</sic>aT</rdg>
 				</app>
 				<app loc="34">
-					<lem source="bib:Sanyal1955-1956_01 bib:Balogh+al2019_01"><num value="120"><g type="numeral">100</g> <g type="numeral">20</g> <g type="numeral">1</g></num></lem>
-					<rdg source="bib:Sircar1943_02"><num value="120"><g type="numeral">100</g> <g type="numeral">20</g></num></rdg>
+					<lem source="bib:Sanyal1955-1956_01 bib:Balogh+al2019_01"><num value="120">100 20 1</num></lem>
+					<rdg source="bib:Sircar1943_02"><num value="120">100 20</num></rdg>
 				</app>
 			</listApp>
 		</div>

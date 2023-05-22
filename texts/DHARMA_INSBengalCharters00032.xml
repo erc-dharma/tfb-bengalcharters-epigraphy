@@ -105,10 +105,10 @@ amwb : replaced IN00044 by dharma file name
 <p><pb 
 
 n="1r"/><lb 
-n="1"/><supplied reason="lost">saṁ</supplied> <num value="163"><supplied reason="lost"><g type="numeral">100</g></supplied> <supplied reason="lost"><g type="numeral">60</g></supplied> <unclear>3</unclear></num> Āṣāḍha <abbr>di</abbr><!-- 
+n="1"/><supplied reason="lost">saṁ</supplied> <num value="163"><supplied reason="lost">100</supplied> <supplied reason="lost">60</supplied> <unclear>3</unclear></num> Āṣāḍha <abbr>di</abbr><!-- 
 amwb : added the tag abbr
-amwb : removed Daba's reading : <unclear reason="illegible">saṁ</unclear> <num value="163"><unclear reason="illegible"><g type="numeral">100</g></unclear> <unclear><g type="numeral">60</g></unclear> 3</num> 
---> <num value="13"><g type="numeral">10</g> 3</num> parama-daivata-parama-bhaṭṭ<unclear>ā</unclear>raka-mahārājādhirāja-śrī-budhagupte <unclear>pr̥thi</unclear>vī-patau tat-pāda-<unclear>pa</unclear>rigr̥hīte puṇḍra<unclear>va</unclear><!-- 
+amwb : removed Daba's reading : <unclear reason="illegible">saṁ</unclear> <num value="163"><unclear reason="illegible">100</unclear> <unclear>60</unclear> 3</num> 
+--> <num value="13">10 3</num> parama-daivata-parama-bhaṭṭ<unclear>ā</unclear>raka-mahārājādhirāja-śrī-budhagupte <unclear>pr̥thi</unclear>vī-patau tat-pāda-<unclear>pa</unclear>rigr̥hīte puṇḍra<unclear>va</unclear><!-- 
 amwb : I removed Daba's reading for -bhaṭṭā<unclear>ra</unclear>ka- and replaced it by -bhaṭṭ<unclear>ā</unclear>raka
 amwb : Removed Daba's reading pāda-<unclear>pari</unclear>gr̥hīte and replaced it by da-<unclear>pa</unclear>rigr̥hī
 --><lb 
@@ -211,9 +211,9 @@ amwb : replaced <unclear reason="illegible">tadā</unclear> by the actual state 
 				<div type="apparatus" resp="part:amwb">
 			<listApp>
 				<app loc="1">
-						<lem><supplied reason="lost">saṁ</supplied> <num value="163"><supplied reason="lost"><g type="numeral">100</g></supplied> <supplied reason="lost"><g type="numeral">60</g></supplied> <unclear>3</unclear></num></lem>
-						<rdg source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Balogh+al2019_01"><unclear reason="illegible">saṁ</unclear> <num value="163"><unclear reason="illegible"><g type="numeral">100</g></unclear> <unclear><g type="numeral">60</g></unclear> 3</num></rdg>
-					<rdg source="bib:Sircar1965_02 bib:Bhandarkar1981_01 bib:Goyal1993_01"><supplied reason="lost">saṁ <num value="163"><g type="numeral">100</g></num></supplied><unclear><g type="numeral">60</g></unclear> <num>3</num></rdg>
+						<lem><supplied reason="lost">saṁ</supplied> <num value="163"><supplied reason="lost">100</supplied> <supplied reason="lost">60</supplied> <unclear>3</unclear></num></lem>
+						<rdg source="bib:Basak1919-1920_01 bib:Pandey1962_01 bib:Balogh+al2019_01"><unclear reason="illegible">saṁ</unclear> <num value="163"><unclear reason="illegible">100</unclear> <unclear>60</unclear> 3</num></rdg>
+					<rdg source="bib:Sircar1965_02 bib:Bhandarkar1981_01 bib:Goyal1993_01"><supplied reason="lost">saṁ <num value="163">100</num></supplied><unclear>60</unclear> <num>3</num></rdg>
 					<note>On the photos I have at my disposal, <foreign>saṁ 100 60</foreign> is lost. It is possible that there is a 3 number where the plate begins but I cannot confirm it. As the previous editors of the plate should have it in a better state of preservation, I keep their reading.</note> <!-- 
 					amwb : see DHARMA_tfb_SADABengalCharters00032-1_image_art_10.jpg
 					-->

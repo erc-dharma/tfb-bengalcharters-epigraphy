@@ -103,8 +103,8 @@
                  <lb n="12" break="no"/>-kālopabhogyo <surplus>viṣayo</surplus> 'kṣaya<unclear>n</unclear>īvī<unclear>kh</unclear>ilakṣettravikkra<unclear>yo</unclear> 'nuvr̥ttas tad a<unclear>s</unclear>ya tāvīra-viṣaya-pati-dvīpa<unclear>so</unclear>masya sva-puttra<unclear>-va</unclear>rā<unclear>ha</unclear>
                  <lb n="13" break="no"/>somena vijñāpayato na kaścid virodhaḥ kebal<choice><sic>a</sic><corr>aṁ</corr></choice> bhaṭṭāraka-pādānā<unclear>n dha</unclear>rmma-ṣaḍ-bhāg<unclear>o</unclear> viṣayena ca śaśvat-kālam anupālanīy<unclear>o</unclear>
                  <lb n="14"/>tad dīyatām iti<supplied reason="omitted">.</supplied> yata Etad-avadhāraṇā-<unclear>k</unclear>ramā<surplus>ṇyā</surplus>d etasmād viṣaya-pati-dvīpasoma-puttra-varāhasomāc catuś-catvārinśaT 
-                 <lb n="15"/>d<unclear>ī</unclear>nārān upasa<unclear>ṁ</unclear>gr̥<unclear>h</unclear>y<unclear>o</unclear>bhayor <unclear>b</unclear>vi<unclear>da</unclear>laka-sannāhakuṭumbakayor dvā-vinśatir apratikara-khila-kṣettra-kulyavāp<unclear>ā</unclear> dattā<unclear>ḥ</unclear> <abbr>ku</abbr> <num value="22"><g type="numeral">20</g> 2</num> yatra 
-                 <lb n="16"/>vidalake kulyavāpā dvādaśa <abbr>ku</abbr> <num value="12"><g type="numeral">10</g> 2</num> sannāhakuṭumbake kulyavāpā daśa <abbr>ku</abbr> <num value="10">10</num> Evaṁ <abbr>ku</abbr> <num value="22"><g type="numeral">20</g> 2</num><supplied reason="omitted">.</supplied></p> <p><space/> yūyaṁ viṣaya-maryyādayā 
+                 <lb n="15"/>d<unclear>ī</unclear>nārān upasa<unclear>ṁ</unclear>gr̥<unclear>h</unclear>y<unclear>o</unclear>bhayor <unclear>b</unclear>vi<unclear>da</unclear>laka-sannāhakuṭumbakayor dvā-vinśatir apratikara-khila-kṣettra-kulyavāp<unclear>ā</unclear> dattā<unclear>ḥ</unclear> <abbr>ku</abbr> <num value="22">20 2</num> yatra 
+                 <lb n="16"/>vidalake kulyavāpā dvādaśa <abbr>ku</abbr> <num value="12">10 2</num> sannāhakuṭumbake kulyavāpā daśa <abbr>ku</abbr> <num value="10">10</num> Evaṁ <abbr>ku</abbr> <num value="22">20 2</num><supplied reason="omitted">.</supplied></p> <p><space/> yūyaṁ viṣaya-maryyādayā 
                  <lb n="17"/>Aṣṭaka-navaka-nalābhyām apavi<unclear>ñ</unclear>cchya kuṭumvināṁ karṣaṇāvirodhisthāne <unclear>ca</unclear>tus-sīma-cihna-niyamitāni kr̥tvā dāsyatha 
                  <lb n="18"/>Akṣaya-nīvī-dharmmena ca śaśvat-kālam anupālayiṣya<unclear>the</unclear>ty<supplied reason="omitted">.</supplied></p> <p>ap<choice><sic>e</sic><corr>i</corr></choice> ca vyāsa-manubhyām uktā ślo<unclear>kā</unclear> <supplied reason="lost">bha</supplied><unclear>vanti</unclear><supplied reason="omitted">.</supplied>
                </p>  
@@ -132,7 +132,7 @@
                  <l n="c"><unclear>A</unclear>vagacchati <unclear>me</unclear> <lb n="22"/> ta<unclear>v</unclear>āntarā<unclear>tmā</unclear></l>
                  <l n="d">niyataṁ te 'pi janā<unclear>s ta</unclear>d-a<choice><sic>n</sic><corr>ṁ</corr></choice>śa-bhāja Iti <space/></l>
              </lg>
-             <p><abbr>saṁ</abbr> <num value="159"><g type="numeral">100</g> <unclear><g type="numeral">50</g></unclear> 9</num> <space/> j<unclear>e</unclear>ṣ<unclear>ṭha</unclear><abbr>di</abbr> <unclear><g type="numeral">1</g></unclear> <space/> li<unclear>khitaṁ</unclear> teṇa <surplus>to</surplus> sumatinā<supplied reason="omitted">.</supplied></p>
+             <p><abbr>saṁ</abbr> <num value="159">100 <unclear>50</unclear> 9</num> <space/> j<unclear>e</unclear>ṣ<unclear>ṭha</unclear><abbr>di</abbr> <unclear>1</unclear> <space/> li<unclear>khitaṁ</unclear> teṇa <surplus>to</surplus> sumatinā<supplied reason="omitted">.</supplied></p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -179,7 +179,7 @@
                        <note>Emend <foreign>yathāntarātmā</foreign>.</note>
                    </app>
                    <app loc="22">
-                       <lem><abbr>saṁ</abbr> <num value="159"><g type="numeral">100</g> <unclear><g type="numeral">50</g></unclear> 9</num></lem>
+                       <lem><abbr>saṁ</abbr> <num value="159">100 <unclear>50</unclear> 9</num></lem>
                        <note>The sign here read as 50 appears to have a somewhat different shape from that seen in the <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā grant #1</ref> (see <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="figure">10</citedRange></bibl> and the <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur plate</ref> <!--(fig. 11) je supprime cette référence-->. But no other sign for any of the multiples of 10 seems to be more plausible.
 </note>
                    </app>
