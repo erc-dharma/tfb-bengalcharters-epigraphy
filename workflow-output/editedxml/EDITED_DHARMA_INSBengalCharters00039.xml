@@ -156,7 +156,7 @@ amwb : see photo yasa? ya a? l14.png
                          <l n="c">candrādityagrahās sarvve</l>
                           <l n="d">Abhinandanti bhūmida<foreign>M</foreign> <space/> </l>
                      </lg>
-                     <p><pb n="1v"/>likhitaṁ kāyastha-Āryyadāsena <space/> tāpitaṁ pusta-pāla-manorathadāse<lb n="26" break="no"/>na <space/> samba <num value="159"><g type="numeral">100</g> <g type="numeral">50</g> 9</num> <abbr>jyeṣṭha</abbr> <abbr>di</abbr> <num value="8">8</num><supplied reason="subaudible">.</supplied></p>
+                     <p><pb n="1v"/>likhitaṁ kāyastha-Āryyadāsena <space/> tāpitaṁ pusta-pāla-manorathadāse<lb n="26" break="no"/>na <space/> samba <num value="159">100 50 9</num> <abbr>jyeṣṭha</abbr> <abbr>di</abbr> <num value="8">8</num><supplied reason="subaudible">.</supplied></p>
                  </div>
          </div>
          <div type="apparatus">
@@ -474,8 +474,8 @@ amwb : by reading to this note, it appears to me that the tag unclear should be 
                        <rdg source="bib:Griffiths2015_02">varuṇā</rdg>
                    </app>
                    <app loc="26">
-                       <lem><num value="159"><g type="numeral">100</g> <g type="numeral">50</g> 9</num> <abbr>jyeṣṭha</abbr> <abbr>di</abbr> <num value="8">8</num></lem>
-                       <rdg source="bib:Dubey+Acharya2014_01"><num value="180"><g type="numeral">100</g> <g type="numeral">50</g> <g type="numeral">30</g></num> jyeṣṭha di <num value="9">9</num></rdg>
+                       <lem><num value="159">100 50 9</num> <abbr>jyeṣṭha</abbr> <abbr>di</abbr> <num value="8">8</num></lem>
+                       <rdg source="bib:Dubey+Acharya2014_01"><num value="180">100 50 30</num> jyeṣṭha di <num value="9">9</num></rdg>
                        <note>The reading of the numeral signs is quite clear if one consults the table of <bibl><ptr target="bib:Chakravarti1938_01"/><citedRange unit="page">389</citedRange></bibl>, and is moreover confirmed by the reading in line 6. See the <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur CPI</ref>  dated to the same year, with these same numerals, in line 20.</note>
                    </app>
                </listApp>

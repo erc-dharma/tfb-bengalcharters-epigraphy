@@ -224,9 +224,9 @@ amwb : add '
 </lg>
 <p>iti<supplied reason="subaudible">.</supplied><!-- 
 amwb : add a space ? See phto namiti SPACE saṁ l25.png
---> <abbr>saṁ</abbr> <num value="128"><g type="numeral">100</g> <g type="numeral">20</g> 8</num> māgha <abbr>di</abbr><!-- 
+--> <abbr>saṁ</abbr> <num value="128">100 20 8</num> māgha <abbr>di</abbr><!-- 
 amwb : add abbr 
---> <num value="19"><g type="numeral">10</g> 9</num><supplied reason="subaudible">.</supplied>
+--> <num value="19">10 9</num><supplied reason="subaudible">.</supplied>
 </p>
 			</div>
 				<div type="apparatus">
