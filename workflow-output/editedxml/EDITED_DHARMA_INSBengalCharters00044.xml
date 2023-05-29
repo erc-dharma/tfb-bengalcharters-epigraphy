@@ -15,6 +15,21 @@
                   <forename>Ryosuke</forename>
                   <surname>Furui</surname>
                </persName>
+               <persName ref="part:argr"><!-- Update the id -->
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:ryfu"><!-- Update the id -->
+                  <forename>Ryosuke</forename>
+                  <surname>Furui</surname>
+               </persName>
+               <persName ref="part:argr"><!-- Update the id -->
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -83,6 +98,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2023-05-30">intellectula authorship of the edition added.</change>
          <change who="part:ryfu" when="2021-10-08">Dandas encoded as glyphs.</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:ryfu" when="2020-10-13">Markups added to translation.</change>
