@@ -45,7 +45,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Ryosuke Furui & Arlo Griffiths.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                        <p>Copyright (c) 2019-2025 by Ryosuke.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -127,15 +127,16 @@
                  <p>tena prāpta-pañcamahāśavdena mahāpratihāra-śrī-sa<unclear>ha</unclear>devena mātā-pitror ātmanaḥ sakalasya ca<lb 
                      n="7"/> satva-rāśer anuttarāyāḥ samyak-samvodher adhigamaika-hetoḥ puṇyasyābhivr̥ddhyai bhagavantaṁ sakala-surāsurendra-vr̥nda<surplus>ṁ</surplus>-vandita<surplus>ṁ</surplus>-caraṇāravinda-yugalaṁ munīndra-bhaṭṭārakam uddiśya maṭhikā kāritā<g type="commaHigh">.</g> ta<lb 
                      n="8" break="no"/>syāṁ sthāpitasya tathāgata-bhaṭṭārakasya yathā-vidhi pūjā-pravarttanāya vela-vihāra-s<choice><sic>r̥</sic><corr>a</corr></choice>mvaddha-sthāvirīya-nikāya-pratipannārya-bhikṣu-saṁghasya cīvara-piṇḍapāta-śayanāsana-glāna-bhaiṣajyādi-sampādanā<lb 
-                     n="9" break="no"/>ya tad-āyatanasya ca pratisaṁskārāya larāvr̥hat-tad-upāṅge nava-caṭa-samvaddhāśīti-padika-mera-trayaM<g type="commaHigh">.</g> Asya sīmānaḥ pūrvveṇa kuvāsī jolā<unclear cert="low">bhimās</unclear> paścimayor muñcan muñcan nava-caṭo                     
+                     n="9" break="no"/>ya tad-āyatanasya ca pratisaṁskārāya larāvr̥hat-tad-upāṅge nava-caṭa-samvaddhāśīti-padika-mera-trayaM<g type="commaHigh">.</g> Asya sīmānaḥ pūrvveṇa kuvāsī jolā<unclear cert="low">bhimās</unclear> paścimayor muñcan muñcan nava-caṭo<lb 
+                     n="10" break="no"/>pa<unclear>jā</unclear>yamāna-kṣetrañ ca<g type="commaHigh">.</g> Uttareṇa śilā mahiḥ<g type="ddanda">.</g> turpuṅga-puṣke vr̥<unclear>ddha</unclear>-<choice><sic>r</sic><corr>n</corr></choice>ava-caṭa-samvaddha-kṣetram ekaM<g type="commaHigh">.</g> Asya sī<gap reason="illegible" unit="character" quantity="1"/> <unclear cert="low">śaśa<g type="danda">.</g> paśū</unclear><gap reason="illegible" unit="character" quantity="2"/><unclear cert="low">mye</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">śrīmānu</unclear><gap reason="illegible" unit="character" quantity="2"/><unclear cert="low">vīṭhi</unclear><gap reason="illegible" unit="character" quantity="1"/> paści<unclear cert="low">ma</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">rta</unclear><gap reason="illegible" unit="character" quantity="2"/>nāñ ca nava                     
                  </p>
              </div>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <div type="textpart" n="A"><head xml:lang="eng">Main Body</head>
-                      <app loc="1"><lem>-śāsanopah<choice><sic>ātm</sic><corr>aty</corr></choice>ā</lem><rdg source="bib:Bhattacharya1993_01">-śāsanāpahatātmā</rdg>
+             <div type="textpart" n="A"><head xml:lang="eng">Main Body</head>
+               <listApp><!-- one <app> for each apparatus entry -->                  
+                      <app loc="1"><lem>-śāsanopah<choice><sic>ātm</sic><corr>aty</corr></choice>ā</lem><rdg source="bib:Bhattacharya1993_01">-śāsanāpahatātmā</rdg></app>
                       <app loc="1"><lem>jayati ca</lem><rdg source="bib:Bhattacharya1993_01"> jayati sa</rdg></app>
                       <app loc="1"><lem>-tapaś</lem><rdg source="bib:Bhattacharya1993_01">-dhāmaś</rdg></app>
                       <app loc="2"><lem>ūrjjita-</lem><rdg source="bib:Bhattacharya1993_01">urjjita-</rdg></app>
@@ -147,11 +148,13 @@
                       <app loc="8"><lem>-s<choice><sic>r̥</sic><corr>a</corr></choice>mvaddha-</lem><rdg source="bib:Bhattacharya1993_01">-samvaddha-</rdg></app>
                       <app loc="9"><lem>larāvr̥hat-tad-upāṅge</lem><rdg source="bib:Bhattacharya1993_01">narāvr̥hattadvaṇṇāṅge</rdg></app>
                       <app loc="9"><lem>-caṭa-</lem><rdg source="bib:Bhattacharya1993_01">-caṭṭa-</rdg></app>
-                      <app loc="9"><lem>-samvaddhāśīti-padika-mera-trayaM</lem><rdg source="bib:Bhattacharya1993_01">samvaddhāśā ...</rdg></app>
+                      <app loc="9"><lem>-samvaddhāśīti-padika-mera-trayaM</lem><rdg source="bib:Bhattacharya1993_01">samvaddhāśā<gap reason="illegible" extent="unknown"/></rdg></app>
                       <app loc="9"><lem><unclear cert="low">bhimās</unclear></lem><rdg source="bib:Bhattacharya1993_01"/><note>seemingly later overwriting, original could be <g type="danda">.</g> dakṣiṇa-</note></app>
                       <app loc="9"><lem>muñcan muñcan</lem><rdg source="bib:Bhattacharya">puñcan-puñcan-</rdg></app>
-                  </div>
+                      <app loc="10"><lem>mahiḥ</lem><rdg source="bib:Bhattacharya1993_01">-pāhiḥ</rdg></app>
+                      <app loc="10"><lem>turpuṅga-puṣke vr̥<unclear>ddha</unclear>-<choice><sic>r</sic><corr>n</corr></choice>ava-</lem><rdg source="bib:Bhattacharya1993_01">turpuṅgama-kṣetra<gap reason="illegible" extent="unknown"/> .. nava-</rdg></app>
                </listApp>
+             </div>
          </div>
          <div type="translation">
  	<!--translation encoded as per EGD §9.2 -->
@@ -166,7 +169,7 @@
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
             <listBibl type="primary">
-	  <bibl n="GB"><ptr target="bib:Bhattacharya1993_01"</bibl>
+	  <bibl n="GB"><ptr target="bib:Bhattacharya1993_01"/></bibl>
 	</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
