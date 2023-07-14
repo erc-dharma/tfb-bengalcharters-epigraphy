@@ -244,9 +244,9 @@ amwb : after reading §4.4.1 et 4.4.3 EGD, it seems to me that the o could be cr
 --> pāści<lb
 n="32" break="no"/>mena gaṅginikā<g type="danda">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l32.png
---> Uttareṇa kādam<choice><orig>v</orig><reg>b</reg></choice>arī-devakulikā kharjjūra-vr̥̥kṣaś ca<g type="danda">.</g><!-- 
+--> Uttareṇa kādam<choice><orig>v</orig><reg>b</reg></choice>arī-devakulikā kharjjūra-vr̥kṣaś ca<g type="danda">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l32 bis.png
---> pūrvvottareṇa rājaputtra-devaṭakr̥̥tāliḥ<g type="danda">.</g> <choice><orig>v</orig><reg>b</reg></choice>ī<!-- 
+--> pūrvvottareṇa rājaputtra-devaṭakr̥tāliḥ<g type="danda">.</g> <choice><orig>v</orig><reg>b</reg></choice>ī<!-- 
 amwb : here Kielhorn does not regularise bīja ? I regularise as recommended in EGD app F table 10 
 --><lb
 n="33"/>japūrakaṅ gatvā praviṣṭā<g type="danda">.</g><!-- 
@@ -263,13 +263,13 @@ amwb : Kielhorn notes <unclear>ṁ</unclear> but I think there is no anusvāra S
 n="1v"/><lb
 n="34"/>gatā<g type="danda">.</g><!-- 
 amwb : th shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l34.png
---> tato <choice><sic>ni</sic><corr>niḥ</corr></choice>sr̥̥tya<!-- 
+--> tato <choice><sic>ni</sic><corr>niḥ</corr></choice>sr̥tya<!-- 
 amwb : Kielhorn tells here that some corrections no doubt are necessary in the following lines but he doesn't understand the texte properly
 --> puṇyārāma<space unit="character" quantity="18"/><!-- 
 amwb : the space is due to the attachment point of the seal. I have created an issue on this question and I'm waiting the answer to encode this correctly. I have suggested type="sealattachmentpoint" 
 -->-<choice><orig>v</orig><reg>b</reg></choice>ilvārddha<choice><sic>śro</sic><corr>sro</corr></choice>tikā<unclear cert="low">ṁ</unclear> <g type="danda">.</g><!-- 
 amwb : danda with a regular shape
---> tato 'pi <choice><sic>ni</sic><corr>niḥ</corr></choice>sr̥̥tya na<lb
+--> tato 'pi <choice><sic>ni</sic><corr>niḥ</corr></choice>sr̥tya na<lb
 n="35" break="no"/>lacarmma<unclear>ṭ-o</unclear>tta<!-- 
 amwb : from my reading of the facsimile I am not sure that it is written tta I have compared with other double tt and it seems to me it would be written varānta
 -->rāntaṁ<!-- 
