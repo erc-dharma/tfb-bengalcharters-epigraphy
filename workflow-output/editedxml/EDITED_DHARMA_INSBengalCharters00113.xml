@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2023-08-13">Minor correction of text.</change>
          <change who="part:ryfu" when="2022-02-01">Translation and Bibliography completed.</change>
          <change who="part:ryfu" when="2022-01-31">Translation added.</change>
          <change who="part:ryfu" when="2022-01-28">Initial Encoding</change>
@@ -219,7 +220,7 @@
              </lg>
              <lg n="22" met="śārdūlavikrīḍita">
                  <l n="a">śaśvat-pīta-digamvarā !‘rtha-viraha-bhrāntiṁ tiras-kurvvatī</l>
-                 <l n="b">kr̥ṣṇādvaita-kathān nirasya vahuśo vr̥ddher abhāvaṁ guṇe<g type="danda">.</g></l>
+                 <l n="b">kr̥ṣṇādvaita-kathān nirasya vahuśo vr̥ddher abhāvaṁ<lb n="22"/> guṇe<g type="danda">.</g></l>
                  <l n="c">Ācchādyaiva bhr̥gu-prabhākara-gurūn· yat-kīrttir ujjr̥mbhiṇī</l>
                  <l n="d">yat-prajñeva visāriṇī sumanasāṁ vr̥ndair mmudā gīyate<g type="ddanda">.</g></l>
              </lg>
