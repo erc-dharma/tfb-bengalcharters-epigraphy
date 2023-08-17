@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2023-08-18" status="draft">Text and apparatus modified.</change>
             <change who="part:ryfu" when="2023-08-16" status="draft">Text and translation modified.</change>
             <change who="part:ryfu" when="2023-08-14" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2023-08-13" status="draft">Text, apparatus and translation revised.</change>
@@ -231,7 +232,7 @@
              </lg>
              <lg n="25" met="śārdūlavikrīḍita">
                  <l n="a">teneyaṁ hima-kāñcanāca<lb n="25" break="no"/>la-mahā-kautūhalāveśita</l>
-                 <l n="b">-svīyā<choice><orig>rddhā</orig><corr>dhya</corr></choice>rddha-vapuṣmatīva vaḍabhī puṇyātmanā nirmmitā<g type="danda">.</g></l>
+                 <l n="b">-svīyā<choice><sic>rddhā</sic><corr>dhya</corr></choice>rddha-vapuṣmatīva vaḍabhī puṇyātmanā nirmmitā<g type="danda">.</g></l>
                  <l n="c">yat-siṁha-prativimvam amvara-dhunī-toyeṣu manye !’dbhutaṁ</l>
                  <l n="d">dr̥ṣṭvā saṁkucad-aṅghrir adya na jalāny airāvataḥ pāsyati<g type="ddanda">.</g></l>
              </lg>
@@ -324,7 +325,7 @@
                   <app loc="19"><lem><unclear>bhr̥</unclear>to</lem><rdg source="bib:Sircar1980-1982_01">gato</rdg></app>
                   <app loc="21"><lem>-digamvarā !‘rtha-</lem><rdg source="bib:Sircar1980-1982_01">-digamvarārtha-</rdg></app>
                   <app loc="23"><lem>sr̥<seg met="--"><gap reason="illegible" quantity="2" unit="character"></gap></seg>r ābhūj jānu-daghnāmvudhiḥ</lem><rdg source="bib:Sircar1980-1982_01">ya <seg met="--"><gap reason="illegible" quantity="2" unit="character"></gap></seg> rābhr̥jjān udastāmvudhiḥ</rdg></app>
-                  <app loc="25"><lem>-svīyā<choice><orig>rddhā</orig><corr>dhya</corr></choice>rddha-</lem><note>The emendation suggested by DCS2, which makes a better sense.</note></app>
+                  <app loc="25"><lem>-svīyā<choice><sic>rddhā</sic><corr>dhya</corr></choice>rddha-</lem><note>The emendation suggested by <bibl n="DCS2"><ptr target="bib:Sircar1980-1982_01"/></bibl>, which makes a better sense.</note></app>
                   <app loc="29"><lem>na</lem><rdg source="bib:Sircar1980-1982_01">n<choice><sic>ū</sic><corr>a</corr></choice></rdg></app>
                   <app loc="30"><lem>-<unclear>śa</unclear>ra-</lem><rdg source="bib:Sircar1980-1982_01">-<choice><sic>g</sic><corr>ś</corr></choice>ara-</rdg></app>
                   <app loc="31"><lem><choice><sic>ka</sic><corr>vā</corr></choice>ṭaka-</lem><rdg source="bib:Sircar1980-1982_01">vāṭaka-</rdg></app>
