@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2023-09-17" status="draft">Text structure modified.</change>
             <change who="part:ryfu" when="2023-08-23" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2022-10-19" status="draft">Translation of stanza 8 modified.</change>
             <change who="part:ryfu" when="2022-09-27" status="draft">Textparts division rearranged.</change>
@@ -181,7 +182,10 @@
                      n="37" break="no"/>ḍavā<surplus><g type="commaSmall">.</g></surplus>gomahiṣyajāvikādhyakṣa<g type="commaSmall">.</g> dūta-preṣaṇika<g type="commaSmall">.</g> gamāgamika<g type="commaSmall">.</g> Abhitvaramāṇa<g type="commaSmall">.</g> viṣayapati<g type="commaSmall">.</g> grāmapati<g type="commaSmall">.</g><lb 
                      n="38"/> tarika<g type="commaSmall">.</g> gauḍa<g type="commaSmall">.</g> mālava<g type="commaSmall">.</g> khaśa<g type="commaSmall">.</g> hūṇa<g type="commaSmall">.</g> kulika<g type="commaSmall">.</g> karṇṇāṭa<g type="commaSmall">.</g> lāṭa<g type="commaSmall">.</g> cāṭa<g type="commaSmall">.</g> bhaṭa<g type="commaSmall">.</g> sevakādīn· <supplied reason="omitted">A</supplied>nyāṁś cākīrttitān·<lb 
                      n="39"/> rāja-pādopajīvinaḥ prativāsino vrāhmaṇottarān· mahattamottama<del rend="corrected">ḥ</del>-puroga-medāndhra-caṇḍāla-paryantān·<lb 
-                     n="40"/> yathārhaṁ mānayati vodhayati<surplus><g type="commaSmall">.</g></surplus> samādiśati ca<supplied reason="omitted"><g type="danda">.</g></supplied> matam astu bhavatāṁ<g type="ddandaStrokeLeft">.</g> yathopari-li<supplied reason="omitted">khi</supplied>ta-grām<subst><del rend="corrected">o 'yaṁ</del><add place="overstrike">āv <unclear>e</unclear>tau</add></subst> sva-sīmā-tr̥ṇa<lb 
+                     n="40"/> yathārhaṁ mānayati vodhayati<surplus><g type="commaSmall">.</g></surplus> samādiśati ca<supplied reason="omitted"><g type="danda">.</g></supplied> 
+                 </p>
+                 <p>
+                     matam astu bhavatāṁ<g type="ddandaStrokeLeft">.</g> yathopari-li<supplied reason="omitted">khi</supplied>ta-grām<subst><del rend="corrected">o 'yaṁ</del><add place="overstrike">āv <unclear>e</unclear>tau</add></subst> sva-sīmā-tr̥ṇa<lb 
                      n="41" break="no"/>-pūti-gocara-paryant<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst><g type="commaSmall">.</g> sa-tal<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst><g type="commaSmall">.</g> soddeś<subst><del rend="corrected">aḥ</del><add place="overstrike"><unclear>au</unclear></add></subst> sāmra-madh<choice><sic>u</sic><corr>ū</corr></choice>k<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst> sa-jala-sthal<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst> sa-garttoṣar<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst><g type="commaSmall">.</g> soparikar<subst ><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst><g type="commaSmall">.</g> sa-daśāpacār<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst><g type="commaSmall">.</g><lb 
                      n="42"/> sa-cauroddharaṇ<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst><g type="commaSmall">.</g> parihr̥ta-sarvva-pīḍ<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst><g type="commaSmall">.</g> A-cāṭa-bhaṭa-praveś<subst><del rend="corrected">aḥ</del><add place="overstrike"><unclear>au</unclear></add></subst><g type="commaSmall">.</g> Akiñcit·-pragrāhy<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst><g type="commaSmall">.</g> samasta-rāja-bhāga-bhoga-kara<lb 
                      n="43" break="no"/>-hiraṇyādi-pratyāya-samet<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst><g type="commaSmall">.</g> bhūmi-cchidra-<surplus>n</surplus>nyāyenācandrārkka-kṣiti-sama-kālaṁ yāvat mātāpitror ātmanaś ca puṇya-ya<lb 
@@ -190,8 +194,11 @@
                      n="46" break="no"/>ra-putrāya<g type="commaSmall">.</g> bhaṭṭaputra-śālavāhanaśarmmaṇe<g type="commaSmall">.</g> vi<choice><orig>ś</orig><corr>ṣ</corr></choice>uvat-saṁkrāntau<g type="commaSmall">.</g> snātvā<g type="commaSmall">.</g> vidhivad udaka-pūrvvakaṁ kr̥tvā<g type="commaSmall">.</g> śāsanī-kr̥tya<lb 
                      n="47"/> pradatt<choice><sic>aḥ</sic><corr>au</corr></choice><g type="commaSmall">.</g> Ato bhavadbhiḥ sarvvair evānumantavyaṁ<g type="commaSmall">.</g> bhāvibhir api bhūpatibhiḥ bhūmer dāna-phala-gauravād apaharaṇe ca<lb 
                      n="48"/> mahā-naraka-pāta-bhayād dānam idam anumodya pālanīyaṁ<supplied reason="omitted"><g type="danda">.</g></supplied> prativāsibhiḥ kṣetrakaraiś cājñā-śravaṇa-vidh<choice><sic>a</sic><corr>e</corr></choice><lb 
-                     n="49" break="no"/>yī-bhūya yathā-kālaṁ samucita-bhāga-bhoga-kara-hiraṇyādi-sarvva-pratyāyopanayaḥ kārya Iti<g type="commaSmall">.</g> samvat· <num value="2">2</num><lb 
-                     n="50"/> vaiśākha-dine <num value="18">18</num><supplied reason="omitted"><g type="danda">.</g></supplied> <space unit="character" quantity="1"/> tathā ca dharmmānuśa<choice><orig>ṅś</orig><corr>ṁs</corr></choice>inaḥ ślokāḥ<g type="ddandaStrokeLeft">.</g>
+                     n="49" break="no"/>yī-bhūya yathā-kālaṁ samucita-bhāga-bhoga-kara-hiraṇyādi-sarvva-pratyāyopanayaḥ kārya Iti<g type="commaSmall">.</g> 
+                 </p>
+                 <p>samvat· <num value="2">2</num><lb 
+                     n="50"/> vaiśākha-dine <num value="18">18</num><supplied reason="omitted"><g type="danda">.</g></supplied> <space unit="character" quantity="1"/> </p>
+                 <p>tathā ca dharmmānuśa<choice><orig>ṅś</orig><corr>ṁs</corr></choice>inaḥ ślokāḥ<g type="ddandaStrokeLeft">.</g>
                  </p>
                  <lg n="12" met="anuṣṭubh">
                      <l n="ab">vahubhir vvasudhā dattā rājabhiḥ sagarādibhiḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
