@@ -86,7 +86,7 @@
       <body>
          <div type="edition" xml:lang="san-Latn">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-                 <p><lb n="1">śrīmān dharmapāla-devaḥ</lb></p>
+                 <p><lb n="1"/>śrīmān dharmapāla-devaḥ</p>
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                  <pb n="1r"/><lb n="1"/><p><g type="spiralL"/><!-- siddham --> <unclear>svasti</unclear></p>
