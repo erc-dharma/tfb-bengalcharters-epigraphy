@@ -78,7 +78,8 @@
                 </prefixDef>
             </listPrefixDef>
         </encodingDesc>
-        <revisionDesc>         
+        <revisionDesc>
+            <change who="part:ryfu" when="2023-09-26">Translation started.</change>
             <change who="part:ryfu" when="2023-09-17" status="draft">Initial encoding</change>
         </revisionDesc>
     </teiHeader>
@@ -359,7 +360,15 @@
                </listApp>
              </div>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:ryfu">
+             <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
+                 <p><lb n="1"/>Illustrious Dharmapāladeva.</p>
+             </div>
+             <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
+                 <p n="1">Success! Welfare!</p>
+                 <p rend="stanza" n="1">As if the perceptions of a group of many māras <supplied reason="subaudible">protect</supplied> the illustrious omniscience of the firmly standing Vajrāsana, may the ten powers <supplied reason="subaudible">of the Buddha</supplied> protected by the <supplied reason="subaudible">goddess</supplied> Great Compassion protect you, and conquer the quarters!</p>
+                 
+             </div>
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
