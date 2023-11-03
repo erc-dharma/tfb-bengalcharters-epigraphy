@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2023-11-03" status="draft">Encoding corrections made.</change>
             <change who="part:ryfu" when="2023-08-21" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2022-07-29" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2021-12-01" status="draft">Apparatus textpart division and head added.</change>
@@ -216,7 +217,7 @@
                 n="40" break="no"/>khena vayam vijñāpitāḥ<g type="dandaStrokeLeft">.</g> yathā mātā-pittror ātmanaḥ sakalasya ca satvarāśeḥ puṇyābhivr̥ddhaye nandadīrghikodraṅge mayā vi
         <pb n="1v" break="no"/><lb n="41" break="no"/>hāraḥ kāritaḥ tattra yathopari-likhita-nandadīrghikodraṅgaṁ* bhagavato vuddha-bhaṭṭārakasya prajñāpāramitādi-sakala<lb 
                 n="42" break="no"/>-dharmma-nettrī-sthānasya Āryāvaivarttika-vodhisatva-gaṇasyāṣṭa-mahāpuruṣa-pudgalārya-bhikṣu-saṁghasya yathārhaṁ pūjana-lekha<lb 
-                n="43" break="no"/>nādy-arthaṁ* cīvara-piṇḍapāta-śayanā<choice><orig>ś</orig><corr>s</corr></choice>ana-glāna-pratyaya-bhaiṣajya-pariṣkārādy-arthaṁ khaṇḍa-sphuṭita-samādhān-ārtha<supplied reason="omitted">m</supplied>_<space unit="character" quantity="2"/> Anye<lb 
+                n="43" break="no"/>nādy-arthaṁ* cīvara-piṇḍapāta-śayanā<choice><orig>ś</orig><reg>s</reg></choice>ana-glāna-pratyaya-bhaiṣajya-pariṣkārādy-arthaṁ khaṇḍa-sphuṭita-samādhān-ārtha<supplied reason="omitted">m</supplied>_<space unit="character" quantity="2"/> Anye<lb 
                 n="44" break="no"/>ṣām api mamābhimatānām mat-parikalpita-vibhāgenānavadya-bhogārthaṁ śrīmad-bhaṭṭāraka-pād<choice><sic>ā</sic><corr>o</corr></choice> dadatv iti<supplied reason="omitted"><g type="danda">.</g></supplied> Ato !'smābhi<lb 
                 n="45" break="no"/>s tadīya-vijñaptyā Ayaṁ yathopari-likhita-Udraṅgaḥ sva-samvaddha-bhūmi-sametaś catus-sīmā-paryantaḥ sa-talaḥ soddeśaḥ sopa<lb 
                 n="46" break="no"/>rikaraḥ sa-ghaṭṭa-taropetaḥ sa-daśāpacāraḥ sa-cauroddharaṇaḥ parihr̥ta-sarvva-pīḍaḥ<g type="dandaStrokeLeft">.</g>  A-cāṭa-bhaṭa-praveś<choice><sic>ā</sic><corr>o</corr></choice> !'kiñcit-pragrāhyaḥ<g type="dandaStrokeLeft">.</g><lb 
@@ -226,7 +227,7 @@
                 n="50" break="no"/>ti<g type="dandaStrokeLeft">.</g>                
             </p>
             <p>samvat· <num value="7">7</num> vaiśākha-dine <num value="2">2</num><supplied reason="omitted"><g type="danda">.</g></supplied></p>
-            <p>tathā ca dharmmānuśa<choice><orig>n</orig><corr>ṁ</corr></choice>s<choice><sic>a</sic><corr>i</corr></choice>na<supplied reason="omitted">ḥ</supplied> ślokāḥ<g type="dandaStrokeLeft">.</g></p>
+            <p>tathā ca dharmmānuśa<choice><orig>n</orig><reg>ṁ</reg></choice>s<choice><sic>a</sic><corr>i</corr></choice>na<supplied reason="omitted">ḥ</supplied> ślokāḥ<g type="dandaStrokeLeft">.</g></p>
             <lg n="17" met="anuṣṭubh">
                 <l n="ab">vahubhir vasudhā dattā rājabhiḥ sagarādibhiḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
                 <l n="cd">yasya yasya ya<lb n="51" break="no"/>dā bhūmis tasya tasya tadā phalaṁ*<choice><sic><g type="dandaStrokeLeft">.</g></sic><corr><g type="ddandaStrokeLeft">.</g></corr></choice></l>
@@ -272,14 +273,14 @@
                 <l n="d">diśi diśi sitimānaṁ*<lb n="59"/> yasya kīrttis tatāna<unclear><g type="ddandaStrokeLeft">.</g></unclear></l>
             </lg>
             <lg n="26" met="śārdūlavikrīḍita">
-                <l n="a">tyāgo nirbhara-pūrit<choice><sic>a</sic><corr>ā</corr></choice>rthi-hr̥dayaḥ <choice><orig>s</orig><corr>ś</corr></choice>aurya<choice><sic>r</sic><corr>ṁ</corr></choice> jitārātikaṁ*</l>
+                <l n="a">tyāgo nirbhara-pūrit<choice><sic>a</sic><corr>ā</corr></choice>rthi-hr̥dayaḥ <choice><orig>s</orig><reg>ś</reg></choice>aurya<choice><sic>r</sic><corr>ṁ</corr></choice> jitārātikaṁ*</l>
                 <l n="b">satyan nirmmita-nāka-dhāma<supplied reason="omitted">ṁ</supplied> dhiṣaṇā vijñā<lb n="60" break="no"/>ta-vastu-sthiti<supplied reason="omitted">ḥ</supplied><g type="dandaStrokeLeft">.</g></l>
                 <l n="c">rūpa<supplied reason="omitted">ṁ</supplied> netra-vinoda-dāna-caturaṁ* śīlaṁ janānanda-kr̥T<surplus><g type="dandaStrokeLeft">.</g></surplus></l>
                 <l n="d">kīrttir ddi<space unit="character" quantity="1"></space>k-sarasīṣu kairava-vana-cchāyeva yasyābhavat·<g type="ddandaStrokeLeft">.</g></l>
             </lg>
             <lg n="27" met="sragdharā">
                 <l n="a"> <lb n="61"/>vahnir vvairīn<choice><sic>d</sic><corr>dh</corr></choice>anānān nr̥pa-śata-mukuṭodghr̥ṣṭa-pādāravindaḥ</l>
-                <l n="b">pātā loka-sthitīnāṁ* praṇayi-jana-sarojākarārkāyamā<choice><orig>ṇ</orig><corr>n</corr></choice>aḥ<g type="dandaStrokeLeft">.</g></l>
+                <l n="b">pātā loka-sthitīnāṁ* praṇayi-jana-sarojākarārkāyamā<choice><orig>ṇ</orig><reg>n</reg></choice>aḥ<g type="dandaStrokeLeft">.</g></l>
                 <l n="c">yaṁ* pr̥<lb n="62" break="no"/>th<supplied reason="omitted">v</supplied>yām eka-nāthaḥ prathita-nija-guṇa-ślāghayā varjjitātmā</l>
                 <l n="d">cakre śrī-dharmmapālo nr̥patir adhipatim maṇḍale darddaraṇḍyāṁ<g type="ddandaStrokeLeft">.</g></l>
             </lg>
@@ -365,7 +366,7 @@
                   <app loc="49"><lem>parip<choice><sic>a</sic><corr>ā</corr></choice>lanīyam</lem> <rdg source="bib:Bhattacharya2005-2006_01">paripālanīyam</rdg></app>
                   <app loc="53"><lem>-saṅgrāmatā<lb n="54" break="no"/>reṇa</lem> <rdg source="bib:Bhattacharya2005-2006_01">-śaṅgrāmatā<lb n="54" break="no"/>reṇa</rdg></app>
                   <app loc="59"><lem>-pūrit<choice><sic>a</sic><corr>ā</corr></choice>rthi-</lem> <rdg source="bib:Bhattacharya2005-2006_01">-puritartthi-</rdg></app>
-                  <app loc="59"><lem><choice><orig>s</orig><corr>ś</corr></choice>aurya<choice><sic>r</sic><corr>ṁ</corr></choice></lem> <rdg source="bib:Bhattacharya2005-2006_01">sauryaṁ</rdg></app>
+                  <app loc="59"><lem><choice><orig>s</orig><reg>ś</reg></choice>aurya<choice><sic>r</sic><corr>ṁ</corr></choice></lem> <rdg source="bib:Bhattacharya2005-2006_01">sauryaṁ</rdg></app>
                   <app loc="59"><lem>satyan</lem> <rdg source="bib:Bhattacharya2005-2006_01">satya-</rdg></app>
                   <app loc="59"><lem>-dhāma<supplied reason="omitted">ṁ</supplied></lem> <note>Emendation necessary but metrically incorrect.</note></app>
                   <app loc="60"><lem>rūpa<supplied reason="omitted">ṁ</supplied></lem> <rdg source="bib:Bhattacharya2005-2006_01">rūpaṁ</rdg></app>
