@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:ryfu" when="2023-11-03" status="draft">Encoding corrections made.</change>
           <change who="part:ryfu" when="2023-07-23" status="draft">Translation of stanza 11 modified.</change>
           <change who="part:ryfu" when="2023-03-27" status="draft">Text, apparatus and translation modified sue to re-reading of this and other plates.</change>
           <change who="part:ryfu" when="2023-02-05" status="draft">Translation modified on the input of Dominic Goodall.</change>
@@ -116,7 +117,7 @@
                  <ab><lb n="1"/>śrī-mahīpāladevasya</ab>
             </div>
             <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
-                <pb n="1r"/><lb n="01"/><ab>ni<space extent="unknown"/>ni</ab>
+                <pb n="1r"/><lb n="01"/><ab>ni<space type="vacat" unit="character" quantity="32"/>ni<space type="vacat" unit="character" quantity="2"/></ab>
                 <lb n="1"/><p><g type="spiralR"/><!-- siddham -->svasti</p>
                 <lg n="1" met="sragdharā">
                     <l n="a">maitrīṅ kāruṇya-ratna-pramudita-hr̥dayaḥ pre<lb n="2" break="no"/>yasīṁ saṁdadh<choice><sic>a</sic><corr>ā</corr></choice>naḥ</l>
@@ -269,7 +270,7 @@
          <div type="apparatus">
              <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                <listApp>
-                  <app loc="01"><lem>ni<space extent="unknown"/>ni</lem><note>The character ni,which seems to be an abbreviation for nibaddha "confirmed", is engraved at the both ends of the line 1.</note></app>
+                  <app loc="01"><lem>ni<space type="vacat" unit="character" quantity="32"/>ni<space type="vacat" unit="character" quantity="2"/></lem><note>The character ni,which seems to be an abbreviation for nibaddha "confirmed", is engraved at the both ends of the line 1.</note></app>
                   <app loc="4"><lem>śrīmāl</lem><rdg source="bib:Furui2010_01">śrīmal-</rdg></app>
                   <app loc="8"><lem>-vasatir</lem><rdg source="bib:Furui2010_01">vasati<supplied reason="omitted">r</supplied></rdg></app>
                   <app loc="9"><lem>jagatīṁ</lem><rdg source="bib:Furui2010_01"><unclear>ja</unclear>gatīṁ</rdg></app>
