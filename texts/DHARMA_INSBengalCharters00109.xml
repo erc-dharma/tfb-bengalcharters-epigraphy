@@ -81,6 +81,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2023-11-03" status="draft">Encoding corrections made.</change>
             <change who="part:ryfu" when="2023-10-16" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2023-08-23" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2023-04-11" status="draft">Text and translation modified.</change>
@@ -226,7 +227,7 @@
                 <p>sa khalu bhāgīrathī-patha-pravarttamāna-nānā-vidha-nau-vāṭa<lb 
                     n="35" break="no"/>ka-sampādita-setu-vandha-nihita-śaila-śikhara-śreṇī-vibhramān niratiśaya-ghana-ghanāghana-ghaṭā-śyāmāyamāna-vāsara-lakṣmī-samāravdha<lb 
                     n="36" break="no"/>-santata-jalada-samaya-sandehād udīcīnāneka-narapati-prābhr̥tī-kr̥tāprameya-haya-vāhinṇī-khara-khurotkhāta-dhūlī-dhūsarita-dig-antarālāt·<g type="danda">.</g> <unclear>pa</unclear><lb 
-                    n="37" break="no"/>rameśvara-sevā-samāyātāśeṣa-jamv<choice><orig>ū</orig><corr>u</corr></choice>-dvīpa-bhūpālānanta-pādāta-bhara-namad-avaneḥ<g type="danda">.</g> śobhana-samāvāsita-śrīmaj-jaya-skandhāvārāt· para<unclear>ma</unclear><lb 
+                    n="37" break="no"/>rameśvara-sevā-samāyātāśeṣa-jamv<choice><orig>ū</orig><reg>u</reg></choice>-dvīpa-bhūpālānanta-pādāta-bhara-namad-avaneḥ<g type="danda">.</g> śobhana-samāvāsita-śrīmaj-jaya-skandhāvārāt· para<unclear>ma</unclear><lb 
                     n="38" break="no"/>saugata-parameśvara-paramabhaṭṭāraka-mahārājādhirāja-śrī-śūrapāla-deva-pādānudhyātaḥ paramasaugata-parameśvara-paramabhaṭṭ<supplied reason="lost" evidence="parallel">ā</supplied><pb 
                     n="1v" break="no"/><lb n="39" break="no"/>rako mahārājādhirājaḥ śrīmān· gopāla-devaḥ kuśalī<g type="danda">.</g> śrī-puṇḍrava<unclear>r</unclear>ddha<unclear>na</unclear><lb n="40" break="no"/>-bhuktau<g type="danda">.</g> sthālīkaṭa-viṣaye<g type="danda">.</g> Uccavr̥kṣa-maṇḍalāntaḥpāti-pārāvāra-bhūmi-sameta<lb 
                     n="41" break="no"/>-kaṅkāvāsake gomuṇḍakādi-bhūmi-samete samupagatān sarvvān eva rāja-puruṣān rāja-rā<lb 
@@ -240,7 +241,7 @@
                     viditam astu bhava<lb 
                     n="47" break="no"/>tām· mahāsainyapati-śrī-kokkākena dūta-mukhena vayam vijñāpitāḥ<g type="danda">.</g> yathā mātā-pitror ātmanaś ca sakalasya ca satva-rāśeḥ puṇya-yaśo 'bhivr̥ddhaye ma<lb 
                     n="48" break="no"/>yā kaṅkāvāsake vihāraḥ kāritaḥ tatra bhagavato vuddha-bhaṭṭārakasya prajñāpāramitādi-sakala-dharmma-netrī-sthānasyāryāvaivarttika-vodhisatva-gaṇasyāṣṭa-ma<lb 
-                    n="49" break="no"/>hā-puruṣa-pudgalārya-bhikṣu-saṁghasya ca yathārhaṁ* pūjā-vali-caru-satra-nivedya-khaṇḍa-sphuṭita-saṁskārādy-arthaṁ cīvara-piṇḍapāta-śayanā<choice><orig>ś</orig><corr>s</corr></choice>ana-glā<lb 
+                    n="49" break="no"/>hā-puruṣa-pudgalārya-bhikṣu-saṁghasya ca yathārhaṁ* pūjā-vali-caru-satra-nivedya-khaṇḍa-sphuṭita-saṁskārādy-arthaṁ cīvara-piṇḍapāta-śayanā<choice><orig>ś</orig><reg>s</reg></choice>ana-glā<lb 
                     n="50" break="no"/>na-pratyaya-bhaiṣajya-pariṣkārādy-artham anyeṣām api mamābhimatānām mat-parikalpita-vibhāgenānavadya-bhogādy-arthañ ca śrīmad-bhaṭṭāra<lb 
                     n="51" break="no"/>ka-pādā yathopari-likhita-grāmam imaṁ gomuṇḍakādi-bhūmi-sametaṁ śāsanī-kr̥tya dadatv iti<g type="dandaStrokeLeft">.</g> tato !‘smābhis tadīya-vijñaptyā grāmo 'yaṁ<lb 
                     n="52"/> gomuṇḍakādi-bhūmi-sametaḥ sva-sīmā-tr̥ṇa-yūti-gocara-paryantaḥ sa-talaḥ soddeśaḥ sa-pādapaḥ sa-jala-sthalaḥ sa-garttoṣaraḥ soparikaraḥ<lb 
@@ -378,12 +379,12 @@
                   <app loc="32"><lem>dvāv</lem><rdg source="bib:Furui2008_01">nāv</rdg></app>
                   <app loc="32"><lem>anvinam uddhata-</lem><rdg source="bib:Furui2008_01">anvita-pradūta-</rdg></app>
                   <app loc="33"><lem>jy<choice><sic>au</sic><corr>o</corr></choice>tsnā</lem><rdg source="bib:Furui2008_01">jyotsnā</rdg></app>
-                  <app loc="37"><lem>-jamv<choice><orig>ū</orig><corr>u</corr></choice>-</lem><rdg source="bib:Furui2008_01">-jamvu-</rdg></app>
+                  <app loc="37"><lem>-jamv<choice><orig>ū</orig><reg>u</reg></choice>-</lem><rdg source="bib:Furui2008_01">-jamvu-</rdg></app>
                   <app loc="37"><lem>śobhana-</lem><rdg source="bib:Furui2008_01">śohana-</rdg></app>
                   <app loc="42"><lem>-mahā<surplus>!’</surplus>kṣapaṭalika-</lem><rdg source="bib:Furui2008_01">-mahākṣapaṭalika-</rdg></app>
                   <app loc="44"><lem>-vaḍavā-</lem><rdg source="bib:Furui2008_01">-vadavā-</rdg></app>
                   <app loc="48"><lem>prajñāpāramitādi-</lem><rdg source="bib:Furui2008_01">prajñapāramitādi-</rdg></app>
-                  <app loc="49"><lem>-śayanā<choice><orig>ś</orig><corr>s</corr></choice>ana-</lem><rdg source="bib:Furui2008_01">-śayanāsana-</rdg></app>
+                  <app loc="49"><lem>-śayanā<choice><orig>ś</orig><reg>s</reg></choice>ana-</lem><rdg source="bib:Furui2008_01">-śayanāsana-</rdg></app>
                   <app loc="61"><lem>śuddhāśayaḥ</lem><rdg source="bib:Furui2008_01">śraddhāśayaḥ</rdg></app>
                   <app loc="62"><lem>-bhā<lb n="63" break="no"/>nta-</lem><rdg source="bib:Furui2008_01">-dā<lb n="63" break="no"/>nta-</rdg></app>
                   <app loc="69"><lem>aso</lem><rdg source="bib:Furui2008_01">ayo</rdg></app>
@@ -406,7 +407,7 @@
          </div>
          <div type="translation" resp="part:ryfu">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head><ab>Illustrious Gopāladeva</ab></div>
-             <div type="textpart" n="B"><head xml:lang="en">Plate</head>
+             <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                  <p n="1">Success! Welfare!</p>
                  <p rend="stanza" n="1">The one with mind delighted by the jewel of compassion, who is united with beloved goddess Benevolence, whose dirt of ignorance is cleansed by pure water of the stream of knowledge of perfect enlightenment, who, after conquering the powerful cause of existence producing desire, acquired eternal tranquillity, may he, the illustrious Lord of the World <supplied reason="explanation">the Buddha</supplied> possessing ten powers be victorious, otherwise also Gopāladeva <supplied reason="subaudible">II</supplied>!</p>
                  <p rend="stanza" n="2">There was illustrious king Dharmapāla was, who was the birthplace of Lakṣmī <supplied reason="explanation">the ocean</supplied> with makaras <seg rend="pun">was levying fair tax on the origin of wealth</seg>, able to carry the burden of the earth, a sole refuge for mountains <seg rend="pun">kings</seg> approaching him in fear of cutting of their wings <seg rend="pun">destruction of their troops</seg>, devoted to the protection of custom, an abode of heroism and great by whiteness with beauty of milk ocean.</p>
