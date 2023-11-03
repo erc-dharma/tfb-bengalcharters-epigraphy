@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2023-11-03" status="draft">Encoding corrections made.</change>
             <change who="part:ryfu" when="2023-09-17" status="draft">Text structure modified.</change>
             <change who="part:ryfu" when="2023-08-23" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2022-10-19" status="draft">Translation of stanza 8 modified.</change>
@@ -98,7 +99,7 @@
       <body>
          <div type="edition" xml:lang="san-Latn">
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
-                 <pb n="1r"/><ab><lb n="0"/>ni<space extent="unknown"/>ni</ab>
+                 <pb n="1r"/><ab><lb n="0"/>ni<space type="vacat" unit="character" quantity="36"/>ni</ab>
                  <lb n="1"/><p><g type="spiralL"/><!-- siddham --> svasti<g type="dandaStrokeLeft">.</g></p>
                  <lg n="1" met="sragdharā">
                      <l n="a">maitrīṁ kāruṇya-ratna-pramudita-hr̥dayaḥ<lb n="2"/> preyasīṁ sandadhānaḥ</l>
@@ -191,14 +192,14 @@
                      n="43" break="no"/>-hiraṇyādi-pratyāya-samet<subst><del rend="corrected">aḥ</del><add place="overstrike">au</add></subst><g type="commaSmall">.</g> bhūmi-cchidra-<surplus>n</surplus>nyāyenācandrārkka-kṣiti-sama-kālaṁ yāvat mātāpitror ātmanaś ca puṇya-ya<lb 
                      n="44" break="no"/>śo 'bhivr̥ddhaye<g type="commaSmall">.</g> bhagavantaṁ vuddha-bhaṭ<supplied reason="omitted">ṭ</supplied>ārakam uddiśya<g type="dandaStrokeLeft">.</g> vātsya-sagotrāya<g type="commaSmall">.</g> bhārggava<g type="commaSmall">.</g> cyavana<g type="commaSmall">.</g> Āpnuvāna<g type="commaSmall">.</g> jāma<lb 
                      n="45" break="no"/>dagn<supplied reason="omitted">y</supplied>a<g type="commaSmall">.</g> Aurvva-pravarāya cchandoga-śākhādhyāyi-savrahmacāriṇe Ikkhaṇikā-vinirggata-bhaṭṭa-śrīgarbha-pautrāya<g type="commaSmall">.</g> bhaṭṭa-divāka<lb 
-                     n="46" break="no"/>ra-putrāya<g type="commaSmall">.</g> bhaṭṭaputra-śālavāhanaśarmmaṇe<g type="commaSmall">.</g> vi<choice><orig>ś</orig><corr>ṣ</corr></choice>uvat-saṁkrāntau<g type="commaSmall">.</g> snātvā<g type="commaSmall">.</g> vidhivad udaka-pūrvvakaṁ kr̥tvā<g type="commaSmall">.</g> śāsanī-kr̥tya<lb 
+                     n="46" break="no"/>ra-putrāya<g type="commaSmall">.</g> bhaṭṭaputra-śālavāhanaśarmmaṇe<g type="commaSmall">.</g> vi<choice><orig>ś</orig><reg>ṣ</reg></choice>uvat-saṁkrāntau<g type="commaSmall">.</g> snātvā<g type="commaSmall">.</g> vidhivad udaka-pūrvvakaṁ kr̥tvā<g type="commaSmall">.</g> śāsanī-kr̥tya<lb 
                      n="47"/> pradatt<choice><sic>aḥ</sic><corr>au</corr></choice><g type="commaSmall">.</g> Ato bhavadbhiḥ sarvvair evānumantavyaṁ<g type="commaSmall">.</g> bhāvibhir api bhūpatibhiḥ bhūmer dāna-phala-gauravād apaharaṇe ca<lb 
                      n="48"/> mahā-naraka-pāta-bhayād dānam idam anumodya pālanīyaṁ<supplied reason="omitted"><g type="danda">.</g></supplied> prativāsibhiḥ kṣetrakaraiś cājñā-śravaṇa-vidh<choice><sic>a</sic><corr>e</corr></choice><lb 
                      n="49" break="no"/>yī-bhūya yathā-kālaṁ samucita-bhāga-bhoga-kara-hiraṇyādi-sarvva-pratyāyopanayaḥ kārya Iti<g type="commaSmall">.</g> 
                  </p>
                  <p>samvat· <num value="2">2</num><lb 
                      n="50"/> vaiśākha-dine <num value="18">18</num><supplied reason="omitted"><g type="danda">.</g></supplied> <space unit="character" quantity="1"/> </p>
-                 <p>tathā ca dharmmānuśa<choice><orig>ṅś</orig><corr>ṁs</corr></choice>inaḥ ślokāḥ<g type="ddandaStrokeLeft">.</g>
+                 <p>tathā ca dharmmānuśa<choice><orig>ṅś</orig><reg>ṁs</reg></choice>inaḥ ślokāḥ<g type="ddandaStrokeLeft">.</g>
                  </p>
                  <lg n="12" met="anuṣṭubh">
                      <l n="ab">vahubhir vvasudhā dattā rājabhiḥ sagarādibhiḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
@@ -234,7 +235,7 @@
          <div type="apparatus">
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                <listApp>
-                  <app loc="0"><lem>ni<space extent="unknown"/>ni</lem><note>The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the upper left and right margins of the obverse of the plate.</note></app>
+                  <app loc="0"><lem>ni<space type="vacat" unit="character" quantity="36"/>ni</lem><note>The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the upper left and right margins of the obverse of the plate.</note></app>
                   <app loc="4"><lem>śrī<lb n="5" break="no"/>māl lokanātho</lem><rdg source="bib:Mishra1981_01">śrī<lb n="5" break="no"/>māṁ llokanātho</rdg> <rdg source="bib:SubramoniaIyer2011-2012_01">śrī<lb n="5" break="no"/>mān lokanātho</rdg></app>
                   <app loc="5"><lem>!'nyaś</lem><rdg source="bib:SubramoniaIyer2011-2012_01">nyaś</rdg></app>
                   <app loc="6"><lem>!'smā<lb n="7" break="no"/>d</lem><rdg source="bib:SubramoniaIyer2011-2012_01">smā<lb n="7" break="no"/>d</rdg></app>
@@ -314,12 +315,12 @@
                   <app loc="45"><lem>Ikkhaṇikā-</lem><rdg source="bib:Mishra1981_01">Iṣgaṇikā-</rdg><rdg source="bib:SubramoniaIyer2011-2012_01">Iggyaṇikā-</rdg></app>
                   <app loc="45"><lem>-śrīgarbha-</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-śrī-garha-</rdg></app>
                   <app loc="46"><lem>-śarmmaṇe</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-sarmmaṇe</rdg></app>
-                  <app loc="46"><lem>vi<choice><orig>ś</orig><corr>ṣ</corr></choice>uvat-</lem><rdg source="bib:SubramoniaIyer2011-2012_01">viṣuvat-</rdg></app>
+                  <app loc="46"><lem>vi<choice><orig>ś</orig><reg>ṣ</reg></choice>uvat-</lem><rdg source="bib:SubramoniaIyer2011-2012_01">viṣuvat-</rdg></app>
                   <app loc="47"><lem>-phala-</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-pāla-</rdg></app>
                   <app loc="47"><lem>-gauravād</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-gauravāt</rdg></app>
                   <app loc="48"><lem>kṣetrakaraiś cājñā-</lem><rdg source="bib:SubramoniaIyer2011-2012_01">kṣetrakarais ājñā-</rdg></app>
                   <app loc="50"><lem><num value="18">18</num></lem><rdg source="bib:SubramoniaIyer2011-2012_01">19</rdg></app>
-                  <app loc="50"><lem>˚ānuśa<choice><orig>ṅś</orig><corr>ṁs</corr></choice>inaḥ</lem><rdg source="bib:SubramoniaIyer2011-2012_01">˚ānuśansina</rdg></app>
+                  <app loc="50"><lem>˚ānuśa<choice><orig>ṅś</orig><reg>ṁs</reg></choice>inaḥ</lem><rdg source="bib:SubramoniaIyer2011-2012_01">˚ānuśansina</rdg></app>
                   <app loc="51"><lem>ṣaṣṭiṁ</lem><rdg source="bib:SubramoniaIyer2011-2012_01">ṣaṣṭi-</rdg></app>
                   <app loc="51"><lem>svargge</lem><rdg source="bib:SubramoniaIyer2011-2012_01">sva<supplied reason="omitted">r</supplied>gge</rdg></app>
                   <app loc="52"><lem>vaset·</lem><rdg source="bib:SubramoniaIyer2011-2012_01">vasūt</rdg></app>
