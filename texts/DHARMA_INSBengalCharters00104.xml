@@ -87,6 +87,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2023-11-03" status="draft">Encoding correction made.</change>
             <change who="part:ryfu" when="2022-08-02" status="draft">Bibliography completed.</change>
             <change who="part:ryfu" when="2022-08-01" status="draft">Translation completed.</change>
             <change who="part:ryfu" when="2022-07-27" status="draft">Text and Apparatus completed.</change>
@@ -267,7 +268,7 @@
                      <l n="a">bhrūbhaṅge bhavati nr̥pa<surplus><g type="danda">.</g></surplus>sya yasya kopān</l>
                      <l n="b">nirbhinnāḥ saha hr̥dayair dviṣāṁ śriyo 'pi<g type="dandaStrokeLeft">.</g></l>
                      <l n="c">vakrāṇām i<lb n="55" break="no"/>ha hi paropaghāta-dakṣā</l>
-                     <l n="d">jāyante jagati bhr̥<choice><orig>ṣ</orig><corr>ś</corr></choice>aṅgati-prakārāḥ<g type="ddandaStrokeLeft">.</g></l>
+                     <l n="d">jāyante jagati bhr̥<choice><orig>ṣ</orig><reg>ś</reg></choice>aṅgati-prakārāḥ<g type="ddandaStrokeLeft">.</g></l>
                  </lg>
                  <lg n="27" met="vasantatilakā">
                      <l n="a">tasyābhavan naya-parākrama-śīla-śālī</l>
