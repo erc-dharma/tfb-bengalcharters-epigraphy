@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2023-11-03" status="draft">Encoding correction made.</change>
             <change who="part:ryfu" when="2022-12-21" status="draft">Translation and bibliography completed.</change>
             <change who="part:ryfu" when="2022-12-21" status="draft">Translation in progress.</change>
             <change who="part:ryfu" when="2022-10-02" status="draft">Minor modifications.</change>
@@ -290,8 +291,8 @@
                      <l n="ab"><lb n="70"/>śrīmān· śrī-śūrapālena nr̥pa-candramasā kr̥taḥ<g type="danda">.</g></l>
                      <l n="cd">harir yudhi<unclear>ṣṭh</unclear>ir<unclear>e</unclear>ṇeva valavarmmātra dūtakaḥ<g type="ddanda">.</g></l>
                  </lg>
-                 <ab><lb n="71"/><space quantity="4" unit="character"/>ni<space quantity="40" unit="character"/><unclear>ni</unclear><space quantity="4" unit="character"/></ab>
-                 <p><lb n="72"/>Utk<choice><sic>i</sic><corr>ī</corr></choice>rṇṇam idaṁ śāśanaṁ sāmanta-dakkadāsa-v<unit>ai</unit>rocanadāsābhyāṁ<g type="ddandaStrokeLeft">.</g></p>
+                 <ab><lb n="71"/><space type="vacat" unit="character" quantity="4"/>ni<space type="vacat" unit="character" quantity="40"/><unclear>ni</unclear><space type="vacat" unit="character" quantity="4"/></ab>
+                 <p><lb n="72"/>Utk<choice><sic>i</sic><corr>ī</corr></choice>rṇṇam idaṁ śāśanaṁ sāmanta-dakkadāsa-v<unclear>ai</unclear>rocanadāsābhyāṁ<g type="ddandaStrokeLeft">.</g></p>
              </div>
          </div>
          <div type="apparatus">
