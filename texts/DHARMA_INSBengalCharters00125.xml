@@ -85,6 +85,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2023-11-03" status="draft">Encoding correction made.</change>
             <change who="part:ryfu" when="2023-02-05" status="draft">Translation modified on input from Dominic Goodall</change>
             <change who="part:ryfu" when="2022-07-21" status="draft">Bibliography completed</change>
             <change who="part:ryfu" when="2022-07-21" status="draft">Translation completed</change>            
@@ -115,7 +116,7 @@
                  <l n="a">vijitya yenā jaladher vasundha<lb n="6" break="no"/>rāṁ</l>
                  <l n="b">vimocitā mogha-parigrahā Iti<g type="dandaSerif">.</g></l>
                  <l n="c">sa-vāṣpam udvāṣpa-vilocanān punar</l>
-                 <l n="d">vvaneṣu vandhūn dadr̥<choice><orig>ṣ</orig><corr>ś</corr></choice>ur mmataṅgajāḥ<g type="ddandaSerif">.</g></l>
+                 <l n="d">vvaneṣu vandhūn dadr̥<choice><orig>ṣ</orig><reg>ś</reg></choice>ur mmataṅgajāḥ<g type="ddandaSerif">.</g></l>
              </lg>
              <lg n="4" met="upajāti">
                  <l n="a">ca<lb n="7" break="no"/>latsv ananteṣu valeṣu yasya</l>
