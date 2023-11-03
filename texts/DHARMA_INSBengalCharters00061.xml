@@ -78,6 +78,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2023-11-03" status="draft">Encoding correction made.</change>
             <change who="part:ryfu" when="2022-10-23" status="draft">Translation and Bibliography completed.</change>
             <change who="part:ryfu" when="2022-10-10" status="draft">Initial Encoding</change>
         </revisionDesc>
@@ -121,7 +122,7 @@
              <lg n="7" met="śārdūlavikrīḍita">
                  <l n="a">mātaṅgair mmada-garvvitair upanatair aśvorasair bhūmi-jai<lb n="9" break="no"/>r</l>
                  <l n="b">urvvyā sasya-samr̥ddhayā vahu-tithair hemnāñ cayair arjjitaiḥ<g type="danda">.</g></l>
-                 <l n="c">sa<choice><orig>m</orig><corr>ṁ</corr></choice>ya<choice><sic>k</sic><corr>j</corr></choice><unclear>ya</unclear> dvija-devatāḥ sura-pater āditsunevāspadaṁ</l>
+                 <l n="c">sa<choice><orig>m</orig><reg>ṁ</reg></choice>ya<choice><sic>k</sic><corr>j</corr></choice><unclear>ya</unclear> dvija-devatāḥ sura-pater āditsunevāspadaṁ</l>
                  <l n="d">yaḥ śrī-rāmaparākrameṇa<lb n="10"/> jayinā tantrādhikārī kr̥taḥ<g type="ddanda">.</g></l>
              </lg>
              <lg n="8" met="sragdharā">
@@ -174,7 +175,7 @@
          <div type="apparatus">
                <listApp>
                   <app loc="5"><lem>-guṇānāṁ</lem><note>aksharas ṇānāṁ squeezed in a narrow space.</note></app>
-                  <app loc="9"><lem>sa<choice><orig>m</orig><corr>ṁ</corr></choice>ya<choice><sic>k</sic><corr>j</corr></choice><unclear>ya</unclear></lem><rdg source="bib:Sircar1959-1960_08">samp<choice><sic>a</sic><corr>ū</corr></choice><unclear>j</unclear>ya</rdg></app>
+                  <app loc="9"><lem>sa<choice><orig>m</orig><reg>ṁ</reg></choice>ya<choice><sic>k</sic><corr>j</corr></choice><unclear>ya</unclear></lem><rdg source="bib:Sircar1959-1960_08">samp<choice><sic>a</sic><corr>ū</corr></choice><unclear>j</unclear>ya</rdg></app>
                   <app loc="10"><lem>-vikalair</lem><rdg source="bib:Sircar1959-1960_08">-<choice><sic>n</sic><corr>v</corr></choice>ikarair</rdg></app>
                </listApp>
          </div>
