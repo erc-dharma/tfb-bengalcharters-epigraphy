@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2023-11-03" status="draft">Encoding corrections made.</change>
             <change who="part:ryfu" when="2023-10-16" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2023-08-23" status="draft">Translatiom modified.</change>
             <change who="part:ryfu" when="2023-02-14" status="draft">Translation completed.</change>
@@ -164,7 +165,7 @@
                  </p>
                  <p>
                      viditam astu bhava<lb 
-                         n="36" break="no"/>tān<unclear>·</unclear> yathopari-likhitāṅśeya sva-sīmā-paryantaḥ sa-talaḥ soddeśaḥ sa-pādapaḥ sa-jala-sthalaḥ sa-gartto<choice><orig>s</orig><corr>ṣ</corr></choice>araḥ sopa<lb 
+                         n="36" break="no"/>tān<unclear>·</unclear> yathopari-likhitāṅśeya sva-sīmā-paryantaḥ sa-talaḥ soddeśaḥ sa-pādapaḥ sa-jala-sthalaḥ sa-gartto<choice><orig>s</orig><reg>ṣ</reg></choice>araḥ sopa<lb 
                          n="37" break="no"/>rikaraḥ sa-daśāparādhaḥ sa-cauroddharaṇaḥ parihr̥ta-sa<unclear>rvva-pīḍaḥ</unclear> A-cāṭa-bhaṭa-praveśaḥ A-kiñcit-pragrāhyaḥ sa<lb 
                          n="38" break="no"/>masta-r<choice><sic>a</sic><corr>ā</corr></choice>ja-bhāga-bhoga-kara-hiraṇya-pratyāya-sametaḥ bhūmi-cchidra-nyāyenā-candrārkka-kṣiti-sama-kāla yāvat· mā<lb 
                          n="39" break="no"/>tā-pitror ā<choice><sic>n</sic><corr>t</corr></choice>manaś ca puṇya-yaśo 'bhivr̥ddhaye<g type="ddanda">.</g> Atharvva-sāṅga-paip<supplied reason="omitted">pa</supplied>lāda-śākhāya kauṭhari-gotrāya pañcārṣaya-bhā<lb 
@@ -193,10 +194,10 @@
                      <l n="cd">śuddhāśa<supplied reason="omitted">yaḥ</supplied> kr̥taḥ śrīmān· vajravarmmātra dū<lb n="48" break="no"/>taka<g type="ddandaStrokeLeft">.</g></l>
                  </lg>
                  <lg n="13" met="upendravajrā">
-                     <l n="a">ya<choice><orig>s</orig><corr>ś</corr></choice>o !‘ṅśubhiḥ prāṅśubhir astad āpaḥ</l>
+                     <l n="a">ya<choice><orig>s</orig><reg>ś</reg></choice>o !‘ṅśubhiḥ prāṅśubhir astad āpaḥ</l>
                      <l n="b">prakāśayan dig-vanitā-mukhāni<supplied reason="omitted"><g type="danda">.</g></supplied></l>
                      <l n="c">dvijopadiṣṭe path<surplus>r</surplus>i-sannidhi-ṣṭho</l>
-                     <l n="d">ya<lb n="49" break="no"/><choice><orig>s</orig><corr>ś</corr></choice>askaro hvā-stav<surplus>v</surplus>a-<unclear>tu</unclear>lya <choice><sic>A</sic><corr>Ā</corr></choice>sīt·<g type="ddanda">.</g></l>
+                     <l n="d">ya<lb n="49" break="no"/><choice><orig>s</orig><reg>ś</reg></choice>askaro hvā-stav<surplus>v</surplus>a-<unclear>tu</unclear>lya <choice><sic>A</sic><corr>Ā</corr></choice>sīt·<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="14" met="upajāti">
                      <l n="a">putras tadīyaḥ kr̥ta-dhīḥ sva-veda</l>
@@ -218,7 +219,7 @@
                  </lg>
                  <lg n="17" met="śārdūlavikrīḍita">
                      <l n="a">gopānandi-guṇaṁś cirāya valijit sākṣād anat tat-sthiti</l>
-                     <l n="b">la<choice><orig>s</orig><corr>kṣ</corr></choice>mīmān a<lb n="54" break="no"/>bhirāma-rūpam ucitaṁ yo vibhrad apy a<choice><orig>n</orig><corr>ñ</corr></choice>cakaiḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                     <l n="b">la<choice><sic>s</sic><corr>kṣ</corr></choice>mīmān a<lb n="54" break="no"/>bhirāma-rūpam ucitaṁ yo vibhrad apy a<choice><orig>n</orig><reg>ñ</reg></choice>cakaiḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
                      <l n="c">māyāḍhyaṁ vahu-doṣam uddhata-gadaṁ cakra-pra<unclear>dh</unclear>ānaṁ* hariM</l>
                      <l n="d">jānānau <unclear>n</unclear>avā<lb n="55" break="no"/>bharena tulay<choice><sic>a</sic><corr>ā</corr></choice>pekṣāśrayo dhīmatāṁ<g type="ddanda">.</g></l>
                  </lg>
@@ -254,7 +255,7 @@
                   <app loc="49"><lem>hvā-stav<surplus>v</surplus>a-<unclear>tu</unclear>lya</lem><rdg source="bib:Furui2009_01">hy astac ca cūlya</rdg></app>
                   <app loc="49"><lem>-nataḥ</lem><rdg source="bib:Furui2009_01">-vataḥ</rdg></app>
                   <app loc="52"><lem>dvayos</lem><rdg source="bib:Furui2009_01">-dūryos</rdg></app>
-                  <app loc="53"><lem>la<choice><orig>s</orig><corr>kṣ</corr></choice>mīmān</lem><rdg source="bib:Furui2009_01">lasmīyān</rdg></app>
+                  <app loc="53"><lem>la<choice><sic>s</sic><corr>kṣ</corr></choice>mīmān</lem><rdg source="bib:Furui2009_01">lasmīyān</rdg></app>
                   <app loc="54"><lem>vahu-doṣam uddhata-</lem><rdg source="bib:Furui2009_01">vahudo prayuddhata-</rdg></app>
                   <app loc="54"><lem>cakra-pra<unclear>dh</unclear>ānaṁ*</lem><rdg source="bib:Furui2009_01">catru-pra(p)ānaṁ</rdg></app>
                   <app loc="54"><lem>hariM</lem><rdg source="bib:Furui2009_01">hariṁ</rdg></app>
