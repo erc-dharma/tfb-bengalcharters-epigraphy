@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2023-11-03">Encoding correction made.</change>
             <change who="part:ryfu" when="2023-10-16" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2023-08-23" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2023-02-10" status="draft">Stanza 4 text modified.</change>
@@ -172,7 +173,7 @@
                  <p n="45">tathātra dharmmānuśāsana-ślokāḥ</p>
                  <lg n="9" met="anuṣṭubh">
                      <l n="ab"><lb n="46"/>vahubhir vasudhā dattā rājabhiḥ sagarādibhiḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
-                     <l n="cd">yasya yasya yadā bhūmis tastya tasya tadā phalaM<g type="ddanda">,</g></l>
+                     <l n="cd">yasya yasya yadā bhūmis tastya tasya tadā phalaM<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="10" met="anuṣṭubh">
                      <l n="ab">ṣaṣṭim varṣa-sahasrāṇi sva<unclear>rgge</unclear><lb n="47"/> modati bhūmidaḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
