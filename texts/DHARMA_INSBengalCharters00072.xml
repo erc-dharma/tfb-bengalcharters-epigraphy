@@ -87,6 +87,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:ryfu" when="2023-11-03" status="draft">Encoding corrections made.</change>
          <change who="part:ryfu" when="2022-10-19" status="draft">Translation of stanza 6 modified.</change>
          <change who="part:ryfu" when="2022-09-27" status="draft">Texparts division rearranged.</change>
          <change who="part:ryfu" when="2021-12-01" status="draft">Apparatus textpart division and head added. Textpart B rearranged.</change>
@@ -179,7 +180,7 @@
             <lg n="13" met="upajāti">
                 <l n="a">tan-nandanaś candana-vāri-hāri</l>
                 <l n="b">-kī<unclear>r</unclear>tti-prabhānandita-viśva-gītaḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
-                <l n="c">śrīmān<unclear>·</unclear> mahīp<choice><sic>a</sic><corr>ā</corr></choice>la Iti <lb n="20"/><choice><orig>dv</orig><corr>kṣ</corr></choice>itīṣo</l>
+                <l n="c">śrīmān<unclear>·</unclear> mahīp<choice><sic>a</sic><corr>ā</corr></choice>la Iti <lb n="20"/><choice><sic>dv</sic><corr>kṣ</corr></choice>itīṣo</l>
                 <l n="d">dvijeśa-mauliḥ śivavad vabhūva<g type="ddanda">.</g></l>
             </lg>
             <lg n="14" met="śārdūlavikrīḍita">
@@ -230,7 +231,7 @@
             </p>
             <p>
                 viditam astu bhavatāṁ* yathoparilikhito 'yaṁ grāmaḥ sva-sīmā-tr̥ṇa-pūti-gocara-paryantaḥ sa-talaḥ soddeśaḥ sāmra-ma
-                <lb n="42" break="no"/>dhūkaḥ sa-<choice><orig>k</orig><corr>j</corr></choice>ala-sthalaḥ sa-gartto<choice><sic>ś</sic><corr>ṣ</corr></choice>araḥ sa-jhāṭa-viṭapaḥ sa-daśāpacāraḥ sa-cauroddhara<choice><orig>ṇik</orig><corr>ṇ</corr></choice>aḥ parihr̥ta-sarvva-pīḍaḥ A-cāṭa-bha
+                <lb n="42" break="no"/>dhūkaḥ sa-<choice><sic>k</sic><corr>j</corr></choice>ala-sthalaḥ sa-gartto<choice><sic>ś</sic><corr>ṣ</corr></choice>araḥ sa-jhāṭa-viṭapaḥ sa-daśāpacāraḥ sa-cauroddhara<choice><sic>ṇik</sic><corr>ṇ</corr></choice>aḥ parihr̥ta-sarvva-pīḍaḥ A-cāṭa-bha
                 <lb n="43" break="no"/>ṭṭa-praveśaḥ Akiñcit<surplus>ar</surplus>-kara-pragrā<choice><sic>j</sic><corr>h</corr></choice>yaḥ bhāga-bhoga-kara-hiraṇyādi-pratyāya-s<choice><sic>e</sic><corr>a</corr></choice>metaḥ ratna-traya-kaivartta-carmmakāra-vr̥ty-ādi-rāja-sambho
                 <lb n="44" break="no"/>ga-varjito bhūmi-cchidra-nyāyena Ā-candrārka-kṣiti-sama-kālaṁ mātā-pitror ātmanaś ca puṇya-yaśobhivr̥ddhaye<g type="danda">.</g> vātsya-sagotrāya Aurvva-cya
                 <lb n="45" break="no"/>vana-bhārggava-jāmadagnya-Āpnuvat·-pravarāya paśupati-savrahmacāriṇe R̥gvedāntarggata-Āśvalāyana-śākhādhyāyine kāśikā
@@ -256,7 +257,7 @@
                 <l n="cd">haran narakam āyāti yāvad ā<lb n="54" break="no"/>hūti saṁplavaṁ<supplied reason="omitted"><g type="ddanda">.</g></supplied></l>
             </lg>
             <lg n="22" met="anuṣṭubh">
-                <l n="ab">ṣaṣṭiṁ varṣṣa-sahasrāṇi svargge tiṣṭhati bhūmi<choice><orig>p</orig><corr>d</corr></choice>aḥ<g type="danda">.</g></l>
+                <l n="ab">ṣaṣṭiṁ varṣṣa-sahasrāṇi svargge tiṣṭhati bhūmi<choice><orig>p</orig><reg>d</reg></choice>aḥ<g type="danda">.</g></l>
                 <l n="cd">Ākṣeptā cānumantā ca tān<supplied reason="omitted">y</supplied> eva narake vaset<surplus>e</surplus><g type="ddanda">.</g></l>
             </lg>
             <lg n="23" met="anuṣṭubh">
@@ -296,7 +297,7 @@
 	</div>	    
          </div>
          <div type="apparatus">
-             <div type="textpart" n="B"><head xml:lang="en">Plate</head>
+             <div type="textpart" n="B"><head xml xml:lang="eng">Plate</head>
                <listApp>
                    <app loc="01"><lem>ni ni ni</lem><note>The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the left margin of the obverse of the plate, beside the lines 2, 5 and 8 respectively.</note></app>
                    <app loc="19"><lem>-kī<unclear>r</unclear>tti-</lem><rdg source="bib:Furui2015_02">-kītti-</rdg></app>
@@ -323,7 +324,7 @@
  	<div type="textpart" n="A"><head xml:lang="eng">Seal</head>
  	    <ab>Illustrious Madanapāla</ab>
  	</div>
-           <div type="textpart" n="B"><head xml:lang="en">Plate</head>
+           <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                  <p n="01">Confirmed. Confirmed. Confirmed.</p>
                  <p n="1">Success! Oṁ, salutation to the Buddha. Welfare!</p>
                  <p rend="stanza" n="1">The one with mind delighted by the jewel of compassion, who is united with beloved goddess Benevolence, whose dirt of ignorance is cleansed by pure water of the stream of knowledge of perfect enlightenment, who, after conquering the powerful cause of existence producing desire, acquired eternal tranquillity, may he, the illustrious Lord of the World <supplied reason="explanation">the Buddha</supplied> possessing ten powers be victorious, otherwise also Gopāladeva <supplied reason="explanation">I</supplied>!</p>
