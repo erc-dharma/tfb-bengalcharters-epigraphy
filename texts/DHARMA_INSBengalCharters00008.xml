@@ -78,6 +78,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2023-11-14" status="draft">Encoding correttion.</change>
             <change who="part:ryfu" when="2023-10-03" status="draft">Encoding corrections made.</change>
             <change who="part:ryfu" when="2023-07-30" status="draft">Text, apparatus and translation modified.</change>
             <change who="part:ryfu" when="2023-07-25" status="draft">Translation modified according to the suggestions of Daniel Balogh.</change>
@@ -365,7 +366,6 @@
         	    <bibl n="DCS3"><ptr target="bib:Sircar1983_01"/><citedRange unit="page">92-100</citedRange></bibl>
 	       </listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>
