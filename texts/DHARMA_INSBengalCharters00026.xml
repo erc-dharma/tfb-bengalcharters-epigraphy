@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:ryfu" when="2023-11-14" status="draft">Encoding correction.</change>
           <change who="part:ryfu" when="2023-11-03" status="draft">Encoding corrections made.</change>
           <change who="part:ryfu" when="2023-07-23" status="draft">Translation of stanza 11 modified.</change>
           <change who="part:ryfu" when="2023-03-27" status="draft">Text, apparatus and translation modified sue to re-reading of this and other plates.</change>
@@ -200,7 +201,7 @@
                     <lb n="30" break="no"/>janyaka<unclear><g type="danda">.</g> rā</unclear>japutra<g type="danda">.</g> rājāmātya<g type="danda">.</g> mahāsāndhivigrahika<g type="danda">.</g> ma
                     <lb n="31" break="no"/>hākṣapaṭalika<g type="danda">.</g> mahāsāmanta<g type="danda">.</g> mahāsenāpati<g type="danda">.</g> mahāpra
                     <lb n="32" break="no"/>tihāra<g type="danda">.</g> daussādhasādhanika<unclear><g type="danda">.</g></unclear> mahādaṇḍanāyaka<g type="danda">.</g> mahāku
-                    <lb n="33" break="no"/>mārā<unclear>mā</unclear>tya<g type="danda">.</g> rājas<unclear>thān</unclear>īyoparika<g type="danda">.</g> daśāparādhika<g type="danda">.</g> cauroddharaṇika<g type="danda">.</g> dāṇḍika<g type="danda">.</g> dāṇḍap<choice><sic>a</sic><corr>ā</corr></choice>śika<g type="danda">.</g> śaulkika<g type="danda">.</g> g<choice><sic>o</sic><corr>au</corr></choice>lmika<g type="danda">.</g> kṣetra<del rend="corrected">pa</del>
+                    <lb n="33" break="no"/>mārā<unclear>mā</unclear>tya<g type="danda">.</g> rājas<unclear>thān</unclear>īyoparika<g type="danda">.</g> daśāparādhika<g type="danda">.</g> cauroddharaṇika<g type="danda">.</g> dāṇḍika<g type="danda">.</g> dāṇḍap<choice><sic>a</sic><corr>ā</corr></choice>śika<g type="danda">.</g> śaulkika<g type="danda">.</g> g<choice><sic>o</sic><corr>au</corr></choice>lmika<g type="danda">.</g> kṣetra<del rend="strikeout">pa</del>
                     <lb n="34" break="no"/>pa<g type="danda">.</g> prāntapāla<g type="danda">.</g> koṭṭapāla<g type="danda">.</g> Aṅgarakṣa<g type="danda">.</g> tad-āyukta<g type="danda">.</g> <unclear>vi</unclear>niyuktaka<g type="danda">.</g> hastyaśvoṣṭranauvalavyāpr̥taka<g type="danda">.</g> kiśoravaḍavāgomah<choice><sic>ī</sic><corr>i</corr></choice>ṣya
                     <lb n="35" break="no"/>jāvikādhyakṣa<g type="danda">.</g> <unclear>dū</unclear>ta-preṣaṇika<g type="danda">.</g> gamāgamika<g type="danda">.</g> Abhitvaramāṇa<g type="danda">.</g> viṣayapati<g type="danda">.</g> grāmapati<g type="danda">.</g> tarika<g type="danda">.</g> gauḍa<g type="danda">.</g> mālava<g type="danda">.</g> khaśa<g type="danda">.</g> hū
                     <lb n="36" break="no"/>ṇa<g type="danda">.</g> kulika<g type="danda">.</g> karṇṇāṭa<g type="danda">.</g> lāṭa<g type="danda">.</g> cāṭa<g type="danda">.</g> bhaṭa<g type="danda">.</g> sevakādīn anyām̐ś cākīrttitān·<g type="danda">.</g> rāja-pādopajīvinaḥ<g type="danda">.</g> prativāsino vrāhmaṇottarā
