@@ -364,9 +364,7 @@
 	    <bibl n="DCS1"><ptr target="bib:Sircar1968_03"/></bibl>
         	    <bibl n="DCS2"><ptr target="bib:Sircar1973_01"/><citedRange unit="page">63-69</citedRange></bibl>
         	    <bibl n="DCS3"><ptr target="bib:Sircar1983_01"/><citedRange unit="page">92-100</citedRange></bibl>
-	       </listBibl>
-           <listBibl type="secondary">
-           </listBibl>
+	</listBibl>
         </div>
       </body>
   </text>
