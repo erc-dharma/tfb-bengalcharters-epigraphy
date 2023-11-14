@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2023-11-14" status="draft">Encoding corrections.</change>
             <change who="part:ryfu" when="2023-11-03" status="draft">Encoding corrections made.</change>
             <change who="part:ryfu" when="2023-09-17" status="draft">Text structure modified.</change>
             <change who="part:ryfu" when="2023-08-23" status="draft">Translation modified.</change>
@@ -182,7 +183,7 @@
                      n="36" break="no"/>ntapāla<g type="commaSmall">.</g> koṭṭapāla<g type="commaSmall">.</g> khaṇḍapāla<g type="commaSmall">.</g> tad-āyuktaka<g type="commaSmall">.</g> viniyuktaka<g type="commaSmall">.</g> hastyaśvoṣṭranauvalavyāpr̥taka<g type="commaSmall">.</g> kiśora<surplus><g type="commaSmall">.</g></surplus>va<lb 
                      n="37" break="no"/>ḍavā<surplus><g type="commaSmall">.</g></surplus>gomahiṣyajāvikādhyakṣa<g type="commaSmall">.</g> dūta-preṣaṇika<g type="commaSmall">.</g> gamāgamika<g type="commaSmall">.</g> Abhitvaramāṇa<g type="commaSmall">.</g> viṣayapati<g type="commaSmall">.</g> grāmapati<g type="commaSmall">.</g><lb 
                      n="38"/> tarika<g type="commaSmall">.</g> gauḍa<g type="commaSmall">.</g> mālava<g type="commaSmall">.</g> khaśa<g type="commaSmall">.</g> hūṇa<g type="commaSmall">.</g> kulika<g type="commaSmall">.</g> karṇṇāṭa<g type="commaSmall">.</g> lāṭa<g type="commaSmall">.</g> cāṭa<g type="commaSmall">.</g> bhaṭa<g type="commaSmall">.</g> sevakādīn· <supplied reason="omitted">A</supplied>nyāṁś cākīrttitān·<lb 
-                     n="39"/> rāja-pādopajīvinaḥ prativāsino vrāhmaṇottarān· mahattamottama<del rend="corrected">ḥ</del>-puroga-medāndhra-caṇḍāla-paryantān·<lb 
+                     n="39"/> rāja-pādopajīvinaḥ prativāsino vrāhmaṇottarān· mahattamottama<del rend="strikeout">ḥ</del>-puroga-medāndhra-caṇḍāla-paryantān·<lb 
                      n="40"/> yathārhaṁ mānayati vodhayati<surplus><g type="commaSmall">.</g></surplus> samādiśati ca<supplied reason="omitted"><g type="danda">.</g></supplied> 
                  </p>
                  <p>
@@ -286,7 +287,7 @@
                   <app loc="35"><lem>dāśāparādhika</lem><rdg source="bib:SubramoniaIyer2011-2012_01">daśāparādhika</rdg></app>
                   <app loc="36"><lem>viniyuktaka</lem><rdg source="bib:SubramoniaIyer2011-2012_01"/></app>
                   <app loc="38"><lem>cākīrttitān·</lem><rdg source="bib:SubramoniaIyer2011-2012_01">ca kīrttitān</rdg><note>The sign for ā in the penultimate akṣara in a different form and the last n· in smaller character, probably due to the limit of space.</note></app>
-                  <app loc="39"><lem>˚ottama<del rend="corrected">ḥ</del>-</lem><rdg source="bib:SubramoniaIyer2011-2012_01">˚ottamaḥ</rdg><rdg source="bib:Furui2016_02">˚ottama<g type="danda">.</g></rdg></app>
+                  <app loc="39"><lem>˚ottama<del rend="strikeout">ḥ</del>-</lem><rdg source="bib:SubramoniaIyer2011-2012_01">˚ottamaḥ</rdg><rdg source="bib:Furui2016_02">˚ottama<g type="danda">.</g></rdg></app>
                   <app loc="40"><lem>mānayati</lem><rdg source="bib:SubramoniaIyer2011-2012_01">mānyati</rdg></app>
                   <app loc="40"><lem>bhavatāṁ</lem><rdg source="bib:SubramoniaIyer2011-2012_01">bhavataṁ</rdg></app>
                   <app loc="40"><lem>-grām<subst><del rend="corrected">o 'yaṁ</del><add place="overstrike">āv <unclear>e</unclear>tau</add></subst></lem><rdg source="bib:SubramoniaIyer2011-2012_01">grāmav ete</rdg></app>
@@ -374,7 +375,7 @@
             </div>
          </div>
         <div type="bibliography">
-           <p>First published by R. S. Mishra<bibl rend="omitname"><ptr target="bib:Mishra1981_01"/></bibl> and another edition was later published by S. Subramonia Iyer<bibl rend="omitname"><ptr target="bib:SubramoniaIyer2011-2012_01"/></bibl>. Re-edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2016_02"/>.</bibl></p>
+           <p>First published by R. S. Mishra<bibl rend="omitname"><ptr target="bib:Mishra1981_01"/></bibl> and another edition was later published by S. Subramonia Iyer<bibl rend="omitname"><ptr target="bib:SubramoniaIyer2011-2012_01"/></bibl>. Re-edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2016_02"/></bibl>.</p>
         	<listBibl type="primary">
 	   <bibl n="RF"><ptr target="bib:Furui2016_02"/></bibl>
         	   <bibl n="RSM"><ptr target="bib:Mishra1981_01"/></bibl>
