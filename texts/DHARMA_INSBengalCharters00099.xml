@@ -381,7 +381,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First notified by Gouriswar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1994_01"/><citedRange unit="page">197-198</citedRange></bibl>. Then edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2011_01"/></bibl>. Suresh Chandra Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya2006-2007_01"/></bibl> separately edited the plate and published it. Bhattacharya<bibl><ptr target="bib:Bhattacharya2013_01"/></bibl> did it again. Now thoroughly re-edited by checking the reading of Furui<bibl rend="omitname"><ptr target="bib:Furui2011_01"/></bibl> against the three sets of photographs taken by Furui.</p>
+           <p>First notified by Gouriswar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1994_01"/><citedRange unit="page">197-198</citedRange></bibl>. Then edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2011_01"/></bibl>. Suresh Chandra Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya2006-2007_01"/></bibl> separately edited the plate and published it. Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya2013_01"/></bibl> did it again. Now thoroughly re-edited by checking the reading of Furui<bibl rend="omitname"><ptr target="bib:Furui2011_01"/></bibl> against the three sets of photographs taken by Furui.</p>
             <listBibl type="primary">
 	   <bibl n="RF"><ptr target="bib:Furui2011_01"/></bibl>
            </listBibl>
