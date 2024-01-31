@@ -283,10 +283,10 @@ n="36" break="no"/><unclear cert="low">sadūmmi</unclear>kāyāḥ<g type="danda
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l36.png
 --> khaṇḍamuṇḍamukhaṁ khaṇḍamukhā<!-- 
 amwb : in the file Post-Gupta-Bengal-around.txt the text is khaṇḍamukhā[d] ; from the reading of the plate based on the facsimile there is no d so it should be a suggested correction but I don't know by whom
---> vedasa<choice><orig>v</orig><corr>b</corr></choice>ilvikā veda<choice><orig>v</orig><corr>b</corr></choice>ilvikāto rohitavāṭiḥ piṇḍāraviṭijoṭikā-sīmā<lb
+--> vedasa<choice><orig>v</orig><reg>b</reg></choice>ilvikā veda<choice><orig>v</orig><reg>b</reg></choice>ilvikāto rohitavāṭiḥ piṇḍāraviṭijoṭikā-sīmā<lb
 n="37"/>U<unclear>kt</unclear>ārajoṭasya dakṣiṇāntaḥ<!-- 
 amwb : Kielhorn tells in note that it might possibly be read dakṣiṇāntaṁ  => it looks like a visarga not a anusvāra
---> grāma-<choice><orig>v</orig><corr>b</corr></choice>ilvasya ca dakṣiṇāntaḥ<g type="danda">.</g><!-- 
+--> grāma-<choice><orig>v</orig><reg>b</reg></choice>ilvasya ca dakṣiṇāntaḥ<g type="danda">.</g><!-- 
 amwb : Kielhorn tells in note that it might possibly be read dakṣiṇāntaṁ => it looks like a visarga not a anusvāra
 --> devikā-sīmā viṭi<g type="danda">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l37.png
@@ -377,7 +377,7 @@ amwb here we really have a t with virāma  Photo T ddanda l57
  --></l>
 </lg>
 <lg n="16" met="anuṣṭubh">
-    <l n="a">sva-dattām para-dattā<choice><orig>m</orig><corr>ṁ</corr></choice></l>
+    <l n="a">sva-dattām para-dattā<choice><orig>m</orig><reg>ṁ</reg></choice></l>
     <l n="b">vā yo hareta vasundharā<unclear>m</unclear><!-- 
 amwb ; here I don't follow Kielhorn's edition and read N. I have added this change in app. See photo vasundharāN l57.png
 --></l>

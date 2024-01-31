@@ -321,7 +321,7 @@ amwb : replaced <unclear reason="illegible">tadā</unclear> by the actual state 
 					<rdg source="bib:Basak1919-1920_01">karttu<choice><sic>ma</sic><corr>mi</corr></choice>ti</rdg>
 					<rdg source="bib:Pandey1962_01 bib:Sircar1965_02 bib:Goyal1993_01">karttumati<supplied reason="subaudible">.</supplied></rdg>
 					<rdg source="bib:Bhandarkar1981_01">karttum <supplied reason="lost">i</supplied>ti<supplied reason="subaudible">.</supplied></rdg>
-					<note><bibl><ptr target="bib:Pandey1962_01"/> suggests reading <foreign>kartum iti</foreign> in a note.</bibl></note>
+					<note><bibl><ptr target="bib:Pandey1962_01"/></bibl> suggests reading <foreign>kartum iti</foreign> in a note.</note>
 				</app> 
 				<app loc="7">
 					<lem>-<unclear>ma</unclear>ryyādā-</lem>
@@ -453,7 +453,7 @@ amwb : replaced <unclear reason="illegible">tadā</unclear> by the actual state 
 					<lem source="bib:Basak1919-1920_01 bib:Sircar1965_02 bib:Goyal1993_01">maharṣṣibhiḥ<supplied reason="subaudible">.</supplied></lem><!-- 
 					amwb : there is no trace of an original danda, see photo maharṣṣibhiḥ sva l11 no original danda.png
 					-->
-					<rdg source="bib:Pandey1962_01 bib:Balogh+al2019_01">maharṣṣibhiḥ<unclear reason="illegible"><g>.</g></unclear></rdg>
+					<rdg source="bib:Pandey1962_01 bib:Balogh+al2019_01">maharṣṣibhiḥ<unclear reason="illegible"><g type="ddanda">.</g></unclear></rdg>
 					<rdg source="bib:Bhandarkar1981_01">maha<choice><sic>rṣṣ</sic><corr>rṣ</corr></choice>ibhiḥ<supplied reason="subaudible">.</supplied></rdg>
 					<note>On the photos I have at my disposal, I don't see any <foreign>daṇḍa</foreign> trace. But we can supply it because of the respect of sandhi rule. </note>
 				</app>
@@ -468,8 +468,8 @@ amwb : replaced <unclear reason="illegible">tadā</unclear> by the actual state 
 					for me the plate stops after the aksara rāṁ I can not confirm the danda noted by Goyal, Pandey and Sircar
 					-->
 					<rdg source="bib:Basak1919-1920_01 bib:Bhandarkar1981_01">vasundharā<choice><sic>ṁ</sic><corr>m</corr></choice><supplied reason="subaudible">.</supplied></rdg>
-					<rdg source="bib:Pandey1962_01">vasundharāṁ <g>.</g></rdg>
-					<rdg source="bib:Sircar1965_02 bib:Goyal1993_01">vasundharā<choice><sic>ṁ</sic><corr>m</corr></choice> <g>.</g></rdg>
+					<rdg source="bib:Pandey1962_01">vasundharāṁ <g type="ddanda">.</g></rdg>
+					<rdg source="bib:Sircar1965_02 bib:Goyal1993_01">vasundharā<choice><sic>ṁ</sic><corr>m</corr></choice> <g type="ddanda">.</g></rdg>
 				</app>
 				<app loc="12">
 					<lem source="bib:Bhandarkar1981_01"><supplied reason="lost">sa viṣṭhā</supplied>yāṁ</lem>

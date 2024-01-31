@@ -552,7 +552,7 @@ amwb : To be completed with the good reference
 </note>
 in the temple of Lord Govindasvāmin, 
 and for offerings of perfume, incense, lamps and flowers — give</p>
-			<list><!-- amwb: here each item of the list represent a part of gift, it could be also possible to follow another logic and put only two items one for bhogila and another for Bhāskara -->
+			<p><list><!-- amwb: here each item of the list represent a part of gift, it could be also possible to follow another logic and put only two items one for bhogila and another for Bhāskara -->
 				<item>in <supplied reason="subaudible">the hamlet</supplied> Trivr̥tā, to Bhogila, three <foreign>kulyavāpa</foreign>s of uncultivated land;</item>
 				<item>and<!-- 
 amwb: maybe "as well as" / "and also", it seems to me that "and" is too flat and that "api" expresses something more; indeed they ask more than kulyavāpa, they want kulyavāpa and two droṇavāpa introduced both by "api" and not "ca" 
@@ -574,7 +574,7 @@ As vaastu seems to connect with architecture when it is included in a compound, 
 				<item>and <supplied reason="subaudible">in the same hamlet</supplied> to Bhāskara,<!-- 
 amwb : I replace ":" by "," --> one <foreign>droṇavāpa</foreign> of inhabitable terrain.<!-- 
 amwb : idem as before--></item>
-			</list>
+			</list></p>
 <p n="10-13">Wherefore we <supplied reason="explanation">Kulavr̥ddhi and the council</supplied> inform you:
 <q>It has been ascertained 
 	through the investigation of the record-keepers Durgādatta and Arkadāsa 
@@ -605,7 +605,7 @@ If one kulyavāpa is equal to 8 droṇavāpa as stated in Dikshit 1929-1930 p.61
 	from these two, Bhoyila and Bhāskara, 
 	for the purpose of the temple of Lord Govindasvāmin,
 </p>
-			<list>
+			<p><list>
 				<item>to Bhoyila, in <supplied reason="subaudible">the hamlet</supplied> Trivr̥tā, three <foreign>kulyavāpa</foreign>s of uncultivated land to serve as parcel adjacent <supplied reason="subaudible">to the temple</supplied> etc.<!-- 
 amwb : change parcel here if we change it by garden before 
 amwb : for the compound talavaṭakādyarttham and the meaning of ādi, here it seems to me that translate ādi by etc. does not fit very well because the text never mentions another use of this land; maybe translate °ādi by mostly/mainly :  " to serve chiefly/mostly/mainly as garden adjacent (to the temple)" -->;
@@ -617,7 +617,7 @@ amwb : for the compound talavaṭakādyarttham and the meaning of ādi, here it 
 </item>
 				<item>and in this very place to Bhāskara, one <foreign>droṇavāpa</foreign> of inhabitable terrain;
 </item>
-			</list>
+			</list></p>
 <p>in this way three <foreign>kulyavāpa</foreign>s and two <foreign>droṇavāpa</foreign>s have been given with a copper plate for a permanent endowment. Low <supplied reason="explanation"><foreign>ninna</foreign></supplied>: 3 <foreign>ku<supplied reason="subaudible">lyavāpa</supplied></foreign>; inhabitable: 2 <foreign>dro<supplied reason="subaudible">ṇavāpa</supplied></foreign>.
 </p>
 <p n="18-21">You there <supplied reason="explanation">mentioned at the start of the grant</supplied> 
@@ -663,7 +663,7 @@ You, excellent Yudhiṣṭhira, must strenuously protect land previously given t
 <p n="25">Year 128, <supplied reason="explanation">month of</supplied> Māgha, day 19.</p>
 		</div>
 		<div type="commentary">
-			<p>Regarding the indication <foreign>ninna ku 3 sthala dro 2 </foreign>(line 17), in <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> one reads the following note: <cit><quote>This word (<foreign>ninna</foreign>) put before the abbreviated totalisation of the amount of land purchased does not appear to me explicable. [<foreign>Phuṭṭa</foreign> (= Skt. <foreign>sphuṭṭa</foreign>) in line 7 would suggest that it might stand for Skt. <foreign>nimna</foreign> meaning low land.—Ed.]</quote></cit>. The editor’s hypothesis is confirmed by the fact that <foreign>nimna</foreign> and <foreign>sthala</foreign> form a fixed pair. See <title>Rāmāyaṇa</title> 6.93.19 <foreign>sthalanimnāni bhūmeś ca</foreign>, but particularly these stanzas from the <title>Nāradasmr̥ti</title> (11.3–5):
+			<p>Regarding the indication <foreign>ninna ku 3 sthala dro 2 </foreign>(line 17), in <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> one reads the following note: <quote>This word (<foreign>ninna</foreign>) put before the abbreviated totalisation of the amount of land purchased does not appear to me explicable. [<foreign>Phuṭṭa</foreign> (= Skt. <foreign>sphuṭṭa</foreign>) in line 7 would suggest that it might stand for Skt. <foreign>nimna</foreign> meaning low land.—Ed.]</quote>. The editor’s hypothesis is confirmed by the fact that <foreign>nimna</foreign> and <foreign>sthala</foreign> form a fixed pair. See <title>Rāmāyaṇa</title> 6.93.19 <foreign>sthalanimnāni bhūmeś ca</foreign>, but particularly these stanzas from the <title>Nāradasmr̥ti</title> (11.3–5):
 			</p>
 			<p><q><foreign>grāmasīmāsu ca bahir ye syus tatkṛṣijīvinaḥ |
 gopaśākunikavyādhā ye cānye vanagocarāḥ ||

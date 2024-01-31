@@ -668,9 +668,10 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase
 amwb : add a ref if this plate is encoded in DHARMAdatabase
 				--> <supplied reason="explanation">see line 1, <bibl><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00048</citedRange></bibl></supplied> and can be translated by <q>of the great king and emperor Śrī Kumāragupta whose splendour is enjoyed flowing beyond the four oceans</q>.
 			</note>
-			from the <gap reason="lost"/><supplied reason="lost"> Xth</supplied> day <supplied reason="lost">of the month X</supplied><supplied reason="explanation">loss of about 23 <foreign>akṣara</foreign>s at the beginning of the line 2</supplied>,<note>
+			from the <gap reason="lost"/><supplied reason="lost"> Xth</supplied> day <supplied reason="lost">of the month X</supplied><supplied reason="explanation">loss of about 23 <foreign>akṣara</foreign>s at the beginning of the line 2</supplied>,
+			<note>
 				<bibl><ptr target="bib:Sircar1942_01"/></bibl><bibl><ptr target="bib:Sircar1965_02"/></bibl> suspects the numeral numbers of the year for the missing <foreign>akṣara</foreign>s at the beginning of the line 2. Several inscriptions written during the reign of Kumārugupta I contain the expression <foreign>asyāṁ divasa-pūrvāyāṁ</foreign>:
-			 <list>
+			 <p><list>
 			 	<item>the incipit of the Govindnagar Buddha Image Inscription of the Time of Kumāragupta I<!-- 
 amwb : add a ref if this plate is encoded in DHARMAdatabase
 				-->: <foreign>saṁ <num value="115">100 10 5</num> śrāvaṇa di <num value="13">10 3</num><supplied reason="subaudible">.</supplied> Asyāṁ divasa-pūrvvāyāM</foreign> line 1 <supplied reason="explanation">see <bibl><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00073</citedRange></bibl></supplied></item>   
@@ -684,7 +685,8 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase
 amwb : add a ref if this plate is encoded in DHARMAdatabase
 				-->:  <foreign><num value="107">100 7</num> <unclear reason="illegible">adhi</unclear>ka-<unclear reason="illegible" cert="low">śrāva</unclear>ṇa-māsa-<unclear>di</unclear><unclear reason="illegible">va</unclear><unclear>sa</unclear> <num value="20">20</num> asyā<unclear>ṁ pū</unclear><unclear reason="illegible">r</unclear><unclear>vv</unclear><unclear reason="illegible">ā</unclear>y<unclear>ā</unclear><unclear reason="illegible">ṁ</unclear></foreign> <supplied reason="explanation">see <bibl><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00022</citedRange></bibl></supplied> </item>
 			 </list>
-			 From these testimonies, it is possible to assume the gap contains an ordinal number of the day and the name of the month <supplied reason="explanation">see also the line 1 of <ref target="DHARMA_INSBengalCharters00063.xml">Mastakaśvabhra Grant</ref>: <foreign>svasti ma<unclear>hā</unclear>rājādhirāja-śrī-pradyumnavandhor vvijayādhirājya-samvatsar<unclear>e</unclear> pañcama Āśvayuja-māsasya dvāviṁśatime divase</foreign>; the line 1 of the Damodarpur Charter 2 (GE 128) of Kumāragupta I<!-- 
+			 </p>			 
+				From these testimonies, it is possible to assume the gap contains an ordinal number of the day and the name of the month <supplied reason="explanation">see also the line 1 of <ref target="DHARMA_INSBengalCharters00063.xml">Mastakaśvabhra Grant</ref>: <foreign>svasti ma<unclear>hā</unclear>rājādhirāja-śrī-pradyumnavandhor vvijayādhirājya-samvatsar<unclear>e</unclear> pañcama Āśvayuja-māsasya dvāviṁśatime divase</foreign>; the line 1 of the Damodarpur Charter 2 (GE 128) of Kumāragupta I<!-- 
 amwb : add a ref if this plate is encoded in DHARMAdatabase
 				-->  shows also the numeral numbers followed by the name of the month and the number of the day : <foreign>sa<supplied reason="omitted">ṃ</supplied> 100 20 8 vaiśākha di 10 3</foreign>, see <bibl><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00028</citedRange></bibl>; the line 1 of Damodarpur Charter 1 (GE 124) of Kumāragupta I<!-- 
 amwb : add a ref if this plate is encoded in DHARMAdatabase
@@ -718,7 +720,7 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase
 			</note> and the council composed of the nobles of the eight villages <supplied reason="explanation"><foreign>grāmāṣṭakulādhiraṇañ ca</foreign></supplied> Śrībhadra, Somapāla, Rāma and others <supplied reason="explanation">śrībhadra-somapāla-rāmā<unclear cert="low">dyāḥ</unclear></supplied>
 <gap reason="lost"/><supplied reason="lost">greet and inform</supplied> <supplied reason="explanation"><foreign>kuśalam anuvarṇya bodhayanti</foreign></supplied><note>
 					For the 15 missing <foreign>akṣara</foreign>s at the beginning of the line 7, I suggest assuming the expression <foreign>kuśalam anuvarṇya bodhayanti</foreign>. In support of this assumption, one can compare it with these seven following examples, which are all contemporary with the present inscription :
-					<list>
+					<p><list>
 						<item><ref target="DHARMA_INSBengalCharters00033.xml">Kalaikuri-Sultanpur Plate</ref>, line 2 : <foreign><unclear>k</unclear>uśalam anuvarṇya bodhayanti</foreign></item>
 						<item><ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter</ref>, lines 2-3 : <foreign>kuśalam āśāsya bodhayanti</foreign></item>
 						<item><ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>, line 2 : <foreign>bodhayanti</foreign></item>
@@ -726,7 +728,7 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase
 						<item><ref target="DHARMA_INSBengalCharters00054.xml">Nandapur Plate</ref>, line 2  : <foreign>kuśalam anuvarṇṇya bodhayanti</foreign></item>
 						<item><ref target="DHARMA_INSBengalCharters00055.xml">grant of land to monasteries at Śiṣīpuñja, Madhyamasṛgālikā and Grāmakūṭagohālī</ref>, line 3 : <foreign>kuśalam uk<supplied reason="lost">tvānu</supplied><unclear>bo</unclear>dhayanti </foreign></item>
 						<item><ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>, line 2 : <foreign>k<unclear>u</unclear><supplied reason="lost">śa</supplied><unclear>la</unclear>m uktvā bodhayanti</foreign></item>
-					</list>
+					</list></p>
 				</note> the householder <gap reason="lost" unit="character" quantity="3"/><supplied reason="explanation">line 3</supplied> <supplied reason="explanation">named X</supplied><note>
 					One may suppose that the 3 missing <foreign>akṣara</foreign>s in line 3 following <foreign>kuṭumbi</foreign> contain the name of the househoulder. The reading found in the <title>editio princeps</title> <supplied reason="explanation"><bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl></supplied> is quite difficult to interpret. Indeed, according to his introduction, <bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl> had taken photos of plate before it lost some of its fragments, which occurred during its display at the Calcutta Industrial Exhibition in 1906-7. From his reading <foreign>kṣudra <supplied reason="lost">ka nivāsinaḥ</supplied> brāhmaṇa</foreign>, it is not clear if <foreign>kṣudra</foreign> corresponds to what others read as <foreign>kuṭu</foreign>. From the photo I have at my disposal, I read <foreign><unclear>dra</unclear>kaṭu<unclear cert="low">mb</unclear><gap reason="lost" unit="character" quantity="3"/>brāhmaṇa</foreign>. Therefore we have to be cautious because a compound having both <foreign>kṣudra</foreign> and <foreign>kuṭumbi</foreign> inside is very likely when comparing the present line with lines 2 of <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>, 6 of <ref target="DHARMA_INSBengalCharters00051.xml">Tāvīra</ref> and 2 of <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>. 
 				</note> and the brahmins Śivaśarman, Nāgaśarman, Maha<gap reason="lost" quantity="18" unit="character"/><supplied reason="explanation"> beginning of the line 4</supplied>, <gap reason="lost" quantity="1" unit="character"/>vakīrtti, Kṣemadatta,<note>
@@ -744,14 +746,14 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase
 			</p>
 			<p n="7-10">
 				Here, in the district of Khāḍāṭapāra, the established custom is <gap reason="lost" unit="character" quantity="15"/><supplied reason="explanation">line 8</supplied>  there is destruction of the law of <supplied reason="lost">permanent</supplied> endowment<note>
-					The word <foreign>nīvī</foreign> is almost always associated with the word <foreign>akṣaya</foreign> and both, they constitue the compound <foreign>akṣayanīvī</foreign>; which seems to be a epigraphical term in Gupta inscriptions. On this compound, see <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page"></citedRange>860</bibl>, note 2023. However it would be necessary to make more research on the possibility of the destruction of a permanent endowment.  
+					The word <foreign>nīvī</foreign> is almost always associated with the word <foreign>akṣaya</foreign> and both, they constitue the compound <foreign>akṣayanīvī</foreign>; which seems to be a epigraphical term in Gupta inscriptions. On this compound, see <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">860</citedRange></bibl>, note 2023. However it would be necessary to make more research on the possibility of the destruction of a permanent endowment.  
 				</note>
 			Thus <supplied reason="explanation">tad</supplied>, be so kind as to give me today acccording to this procedure <gap reason="lost" unit="character" quantity="14"/><supplied reason="explanation">line 9</supplied> once <supplied reason="lost">the money</supplied> is collected, when the neighbouring householders executing the orders <supplied reason="explanation"> ājñakara</supplied> who are addressed have precisely established all of this, <gap reason="lost" unit="character" quantity="14"/><supplied reason="explanation">line 10</supplied> <gap reason="ellipsis"/><supplied reason="explanation"><foreign>ri</foreign></supplied> <gap reason="lost" unit="character" quantity="1"/><supplied reason="explanation">line 10</supplied> <gap reason="ellipsis"/><supplied reason="explanation"><foreign>kana</foreign></supplied> thus <supplied reason="explanation">yad</supplied>, from now on, it has been ascertained what it follows :
 			</p>
 			<p n="10-11">
 				After <supplied reason="explanation">this request</supplied> has been accepted by the words <q>be it so</q> <supplied reason="explanation">tatheti</supplied>, after separating <supplied reason="explanation">the land</supplied> by two reeds <supplied reason="explanation">measuring</supplied> <supplied reason="subaudible">eight by</supplied> ninefold <gap reason="lost" unit="character" quantity="11"/> <supplied reason="explanation">line 11</supplied><note>
 					The expression <foreign>-nalābhyām apaviñchya</foreign> is found in several inscriptions belonging to the Gupta age : 
-				<list>
+<p>				<list>
 					<item><ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref> line 21 : <foreign>naitika-kuddālakhātika-ratny-<choice><sic>ā</sic><corr>a</corr></choice>ṣṭa-navaka-nalābhyām apaviñchya</foreign></item>
 				<item><ref target="DHARMA_INSBengalCharters00049.xml">Baigram Plate</ref> lines 18-19 : <foreign>darvvīkarmma-hastenāṣṭaka-navaka-naḷābhyām apaviñcchya</foreign> preceded by <foreign>sva-karṣaṇāvirodhi-sthāne</foreign></item>
 				<item><ref target="DHARMA_INSBengalCharters00051.xml">Tāvīra Grant</ref> lines 16-17 : <foreign>Aṣṭaka-navaka-nalābhyām apavi<unclear>ñ</unclear>cchya</foreign> preceded by <foreign>viṣaya-maryyādayā</foreign></item>
@@ -759,7 +761,7 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase
 				<item><ref target="DHARMA_INSBengalCharters00054.xml">Nandapur Plate</ref> line 14 : <foreign>darvvī-karmma-hastenāṣṭaka-navaka-nalābhyām apaviñchya</foreign> preceded by <foreign>karṣaṇāvirodhi-sthāne</foreign></item>
 				<item><ref target="DHARMA_INSBengalCharters00055.xml">A grant of land to monasteries at Śiṣīpuñja, Madhyamasṛgālikā and Grāmakūṭagohālī</ref> lines 23-24 : <foreign>ṣaṭ-kanalair apaviñ<unclear>cch</unclear>ya</foreign> preceded by <foreign>sva-karṣaṇāvirodhisthāne</foreign></item>
 				<item><ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref> lines 20-21 :  <foreign><unclear>Aṣṭaka</unclear><supplied reason="lost">nava-kana-</supplied>lābhyām apaviñchya</foreign></item>
-				</list> 
+				</list></p> 
 					Given the conventional feature of this kind of inscriptions, one could suggest that the expressions <foreign>sva-karṣaṇāvirodhisthāne</foreign> <supplied reason="explanation">in a place that does not conflict with your own cultivation</supplied> or <foreign>viṣaya-maryyādayā</foreign> <supplied reason="explanation">according to the rule of this district</supplied> began the line 11.  
 					</note>
 				one <foreign>kulya-vāpa</foreign> of land is given.</p>

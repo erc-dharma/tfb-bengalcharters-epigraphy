@@ -487,7 +487,7 @@ n="2" break="no"/>kāyāṁ</lem>
 					<rdg source="bib:Sircar1943_02">-bhava<gap reason="illegible" unit="character" quantity="4"/></rdg>
 					<rdg source="bib:Sanyal1955-1956_01">-bhavanā<supplied reason="lost">tha</supplied><gap reason="illegible" unit="character" quantity="2"/>-</rdg>
 					<rdg source="bib:Balogh+al2019_01">-bhava<unclear>svā</unclear><unclear cert="low">mideva</unclear>-</rdg>
-					<note><bibl><ptr target="bib:Sanyal1955-1956_01"/></bibl> adds in a note : <cit><quote>the reading seems to be <foreign>Rudrabhava-svāmi<supplied reason="lost">deva</supplied></foreign>. -Ed.</quote></cit>.</note>
+					<note><bibl><ptr target="bib:Sanyal1955-1956_01"/></bibl> adds in a note : <quote>the reading seems to be <foreign>Rudrabhava-svāmi<supplied reason="lost">deva</supplied></foreign>. -Ed.</quote>.</note>
 				</app>
 				<app loc="7">
 					<lem>bhaṭṭa-ṣaṣṭhirā<supplied reason="lost">ta</supplied>-gu<gap reason="illegible" quantity="5" unit="character"/><supplied reason="lost">śa</supplied></lem>
@@ -523,7 +523,7 @@ n="2" break="no"/>kāyāṁ</lem>
 				</app>
 				<app loc="10">
 					<lem source="bib:Sircar1943_02 bib:Sanyal1955-1956_01 bib:Balogh+al2019_01">si<sic>ṅ</sic>hatta-</lem>
-					<note><bibl><ptr target="bib:Sircar1943_02"/> and </bibl><bibl><ptr target="bib:Sanyal1955-1956_01"/></bibl> both emend <foreign>siṁhadatta</foreign>.</note>
+					<note><bibl><ptr target="bib:Sircar1943_02"/></bibl> and <bibl><ptr target="bib:Sanyal1955-1956_01"/></bibl> both emend <foreign>siṁhadatta</foreign>.</note>
 				</app>
 				<app loc="10">
 					<lem>-yaśoviṣṇu-ṭakkakuladāma<gap reason="illegible"/>va-</lem>
@@ -830,11 +830,11 @@ n="24" break="no"/>bhītak<choice><sic>a</sic><corr>ī</corr></choice>-</lem>
 					As the previous translations of this inscription show it, there are several possibilities to interpret <foreign>hastiśīrṣe</foreign>. The translation of <bibl><ptr target="bib:Sircar1943_02"/></bibl> is somewhat unclear. Indeed, in his translation of the line 1, he reads <foreign>hastiśīrṣavibhītakyāṁ</foreign> and translates <q>residing in Hastiśīrṣavibhītakī</q>. In line 20, his translation of <foreign>hastiśīrṣa-vibhītakyāṁ</foreign> by <q>Hastiśīrṣavibhītakī</q> might be supported by the singular locative. But in lines 23-24, the text compells him to consider Hastiśīrṣa an independant place name. At the end of his translation, he adds a note and criticizes the understanding of the place names suggested by Sanyal : <quote>It will be seen from the note that Sanyal has failed to decipher many important passages of the record including several geographical names. His suggestion regarding the two villages Hastiśīrṣa and Vibhītakī is not supported by the passage <foreign>hastiśīrṣa-vibhītakyāṁ</foreign> of the text.</quote> 
 Indeed <bibl><ptr target="bib:Sanyal1955-1956_01"/><citedRange unit="page">58-9</citedRange></bibl> doesn't follow <bibl><ptr target="bib:Sircar1943_02"/></bibl>'s understanding and he considers Hastiśīrṣa and Vibhītakī two different names of village. 
 					To clarify the problem, I give below the three contexts where the word <foreign>hastiśīrṣa</foreign> appears in the text : 
-					<list rend="numbered">
+				<p>	<list rend="numbered">
 						<item>in association with the place name Vibhītakī, but not in compound: <foreign>hastiśīrṣe vibhītakyāṁ</foreign>, line 1</item>
 						<item>in association and in compound with the place name Vibhītakī: <foreign>hastiśīrṣavibhītakyāṁ</foreign>, line 20</item>
 						<item>in compound and in association with another place name Tāpasapotaka : <foreign>hastiśīrṣaprāveśyatāpasapottake</foreign>, line 23</item>
-					</list>
+					</list></p>
 						The first interpretation could be to understand a place name 'Hastiśīrṣa' as <bibl><ptr target="bib:Sanyal1955-1956_01"/></bibl> did. A second possibility is to see <foreign>hastiśīrṣa</foreign> as a compound indicating a large aera. This interpretation is based on my previous observation according to which the geographical indication is presented from the larger to the smaller entity. So it could be possible to consider <foreign>śīrṣa</foreign>- a word used in a geographical manner to indicate that some place is near another larger place and <foreign>hasti</foreign>- a name of place like Hastināpura? If so, the translation could be <q>in the upper part of Hasti</q>, <q>collateral of Hasti</q>, <q>close or next to Hasti</q>. A third possibility could be to consider <foreign>hastiśīrṣa</foreign> a compound composed by the derivated word of the constellation name Hasta followed by <foreign>śīrṣa</foreign>, like in the compound <foreign>mārgaśīrṣa</foreign> <q>the month under the constellation of Mr̥ga</q> <supplied reason="explanation">i.e. november-september</supplied> which is recorded in <ref><ptr target="bib:MonierWilliams1899_01"/></ref> and by several inscriptions (for example: <ref target="http://siddham.uk/inscription/in00090">Betul Charter of Samksobha, year 199</ref>, line 3)<!-- amwb : I also found mārgaśīrṣa in in the Kesaribedā Donation of Arthapati line 13 (siddham IN1003) and in Kauvatal Charter of Sudevarāja line 24 -->. But the irregular derivation in <foreign>hastiśīrṣa</foreign> and the context of its use do not allow a such interpretation.
 				</note>
 				in Gulmagandhikā, in Dhānyapāṭikā, as well as in their hamlets <supplied reason="explanation"><foreign>sagohāliṣu</foreign></supplied><note>
@@ -883,11 +883,11 @@ I translate the instrumental akṣayanīvyā by the expression 'is used for' and
 				One could be surprised that the scribe mentions here eight <foreign>kulyavāpa</foreign>s instead of the nine given at the end. Actually the description given below of these eight <foreign>kulyavāpa</foreign>s includes the localisation of two smaller aeras measuring respectively two <foreign>droṇavāpa</foreign>s <supplied reason="explanation">line 23</supplied> and six <foreign>droṇavāpa</foreign>s <supplied reason="explanation">line 23</supplied>. Precisely, <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="note">1</citedRange><citedRange unit="page">361</citedRange><citedRange unit="note">10</citedRange><citedRange unit="page">293</citedRange><citedRange unit="note">9</citedRange><citedRange unit="page">288</citedRange></bibl> mentions in the context of the <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur Plate</ref>, the <ref target="DHARMA_INSBengalCharters00048.xml">Damodarpur Copper-plate Inscription of the time of Kumāragupta I</ref>, the <ref target="DHARMA_INSBengalCharters00031.xml">Dhanaidaha Copper-plate Inscription</ref> that one <foreign>kulyavāpa</foreign> equals eight <foreign>droṇavāpa</foreign>s. Consequently the description made here does include the total of the nine <foreign>kulyavāpa</foreign>s given.
 			</note> are located in the south in Vibhītakī next to Hasti,<note>
 				Here there are three possibilities to understand, analyse or correct <foreign>hastiśīrṣavibhītakyāṁ</foreign> :
-				<list rend="numbered">
+			<p>	<list rend="numbered">
 					<item>consider <foreign>śīrṣa</foreign>- as an geographical indication and translate <q>in Vibhītakī next to Hasti</q></item>
 					<item>analyse the singular as a scribal error and correct it by a duel form : <foreign>hastiśīrṣavibhītakyor</foreign> <q>in both Hastiśīrṣa and Vibhītakī</q></item>
 					<item>as Arlo suggests, read <foreign>vibhītakī</foreign> in order to have a long compound <foreign>hastiśīrṣa-vibhītakī-dhānyapāṭalikā-gulmagandhikā-grameṣu</foreign> <q>in the villages Hastiśīrṣa, Vibhītakī, Dhānyapāṭalikā and Gulmagandhikā</q> </item>
-				</list>
+				</list></p>
 			</note> 
 				in the villages Dhānyapāṭalikā and Gulmagandhikā,<note>
 				Here one would have prefered a dual instead of a plural.
@@ -952,7 +952,6 @@ amwb : Need to change the end of the text when the translation will have been di
 				<bibl><ptr target="bib:Agrawala1983_02"/><citedRange unit="entry">64</citedRange></bibl>
 				<bibl><ptr target="bib:Goyal1993_01"/><citedRange unit="page">166-173</citedRange></bibl>
 				<bibl n="DB"><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00074</citedRange></bibl>
-				<bibl n="siglum"/>
 			</listBibl>
 			<listBibl type="secondary">
 				<bibl><ptr target="bib:ARIE1955-1956"/><citedRange unit="item">23</citedRange><citedRange unit="entry">110</citedRange><citedRange unit="appendix">A</citedRange></bibl>
