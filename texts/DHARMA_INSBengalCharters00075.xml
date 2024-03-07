@@ -87,6 +87,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:ryfu" when="2024-03-07" status="draft">A minor correction on the text.</change>
           <change who="part:ryfu" when="2024-02-13" status="draft">Bibliography modified.</change>
           <change who="part:ryfu" when="2023-11-03" status="draft">Encoding corrections made.</change>
           <change who="part:ryfu" when="2023-09-27" status="draft">Text slightly modified.</change>
@@ -126,7 +127,7 @@
                     <l n="a">rāmasyeva gr̥hīta-satya-tapasas tasyānurūpo guṇaiḥ</l>
                     <l n="b"><lb n="5"/>saumitrer udapādi tulya-mahimā vākpāla nāmānujaḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
                     <l n="c">yaḥ śrīmān· naya-vikramaika-vasati<unclear>r</unclear> bhrātuḥ sthitaḥ śāsane</l>
-                    <l n="d">śūnyāḥ śatru-patā<unclear>k</unclear>inībhir a¦<lb n="6" break="no"/>karod ekā<choice><sic>t</sic><corr>ta</corr></choice>patrā di<choice><orig>ṣ</orig><reg>ś</reg></choice>aḥ<g type="dsanda">.</g></l>
+                    <l n="d">śūnyāḥ śatru-patā<unclear>k</unclear>inībhir a¦<lb n="6" break="no"/>karod ekā<choice><sic>t</sic><corr>ta</corr></choice>patrā di<choice><orig>ṣ</orig><reg>ś</reg></choice>aḥ<g type="ddanda">.</g></l>
                 </lg>
                 <lg n="4" met="vasantatilakā">
                     <l n="a">tasmād upendra-caritair jagatīṁ punānaḥ</l>
