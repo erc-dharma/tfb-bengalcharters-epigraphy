@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2024-04-22" status="draft">Text and apparatus revised.</change>
             <change who="part:ryfu" when="2024-04-19" status="draft">Text and apparatus revised.</change>
             <change who="part:ryfu" when="2024-04-17" status="draft">Text and apparatus revised.</change>
             <change who="part:ryfu" when="2024-04-16" status="draft">Text and apparatus revised.</change>
@@ -205,20 +206,20 @@
                  </p>
                  <p>matam astu bhavatāN<g type="danda">.</g></p>
                  <lg n="14" met="vasabtatilakā">
-                     <l n="a">bhindus su<space type="defect" unit="character" quantity="1"/>bh<unclear>o</unclear>g<unclear>y</unclear>a-ripu-vr̥nda-mahāndhakāram</l>
+                     <l n="a">bhindus su<space type="defect" unit="character" quantity="1"/>bhugna-ripu-vr̥nda-mahāndhakāram</l>
                      <l n="b">ānandaye<lb n="47" break="no"/>t· kumudinīm iva yaḥ sva-jātiN<g type="danda">.</g></l>
                      <l n="c">bhinnottamāha-ja-niśai<supplied reason="omitted">r</supplied> ggadi-bhūṣaṇenduḥ</l>
                      <l n="d">śrī-sārthavāha-valanā<lb n="48" break="no"/>ga Iti pratītaḥ<g type="ddandaStrokeLeft">.</g></l>
                  </lg>
                  <lg n="15" met="śārdūlavikrīḍita">
-                     <l n="a">tuṅge bhaṅgura-mūrdhni vikrama-<unclear>ha</unclear>tās<unclear>r̥</unclear>jy<unclear>e</unclear> saraḥ sāhasād</l>
+                     <l n="a">tuṅge bhaṅgura-mūrdhni vikrama-hr̥tās<unclear>r̥</unclear>jy<unclear>e</unclear> saraḥ sāhasād</l>
                      <l n="b">durvārāri-karīndra-dāraṇa-nasā<lb n="49" break="no"/>veśo<unclear>ṣ</unclear>ṇa-sat-kesarī<g type="danda">.</g></l>
-                     <l n="c">pautras tasya mahā-mahī-bhuji mahāsāmanta so saugataḥ</l>
+                     <l n="c">pautras tasya mahā-mahī-bhuji mahāsāmantako saugataḥ</l>
                      <l n="d">śrīmān Uccaganāga Ity abhi<lb n="50" break="no"/>hitaḥ śrī-nāvranāgād abhūT<unclear><g type="danda">.</g></unclear><g type="danda">.</g></l>
                  </lg>
                  <lg n="16" met="vasantatilakā">
-                     <l n="a">Āsīd asīma-dr̥ka-śakti-sutaṃ janitrī</l>
-                     <l n="b">gaurīva deha-nilayā hariṇ-āṅka-mau<lb n="51" break="no"/>leḥ<g type="danda">.</g></l>
+                     <l n="a">Āsīd asīdad uru-śakti-sutaṃ janitrī</l>
+                     <l n="b">gaurīva deha-nilayā hariṇāṅka-mau<lb n="51" break="no"/>leḥ<g type="danda">.</g></l>
                      <l n="c">Ekaiva tasya vanitā jananī sva-tāme</l>
                      <l n="d">yā śaṅkhaṇeti gaditā mahitā narendraiḥ<g type="ddanda">.</g></l>
                  </lg>
@@ -226,7 +227,7 @@
                      <l n="a">līlā-vilola-vahala<lb n="52" break="no"/>-pravalāri-puṅga</l>
                      <l n="b">-lakṣmī-kaca-grahaṇa-lālasa-dor-vilāsaḥ<g type="danda">.</g></l>
                      <l n="c">tasyām abhūd abhaya-daḥ samare bhaṭānāṁ</l>
-                     <l n="d">tasyā<lb n="53" break="no"/>tma-jaḥ prakaṭito kamaṭa-pratāpaḥ<g type="ddanda">.</g></l>
+                     <l n="d">tasyā<lb n="53" break="no"/>tma-jaḥ prakaṭitoru-paṭu-pratāpaḥ<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="18" met="śārdūlavikrīḍita">
                      <l n="a">pr̥thvī-bhāram arāti-yūthapa-vadhū-vaidhavya-duḥkha-prado</l>
@@ -236,7 +237,7 @@
                  </lg>
                  <p>Asya ca<g type="danda">.</g></p>
                  <lg n="19" met="sragdharā">
-                     <l n="a">yasya prajñāvalīnāṁ jita-sakala-mahī-maṇḍa<lb n="56" break="no"/>lānakṣitānāṁ</l>
+                     <l n="a">yasya prajñāvalīnāṁ jita-sakala-mahī-maṇḍa<lb n="56" break="no"/>lālakṣitānāṁ</l>
                      <l n="b">nāvedhaṁ veda-vācas-patir api bhagavān adya yāvad vicinvaN<g type="danda">.</g></l>
                      <l n="c">yasmiN Ārāyamāṇe sati<lb n="57"/> dharaṇi-bhujām ucchvasantīva dūtāḥ</l>
                      <l n="d">so 'tra śrī-śakradāsaḥ samabhavad anagho dūtakaḥ puṇya-kr̥tye<g type="ddandaStrokeLeft">.</g></l>
@@ -342,33 +343,35 @@
                    <app loc="41"><lem>-dāṇḍapāśika</lem><rdg source="bib:Furui2011_01">-dāṇḍapāśi<unclear>ka</unclear></rdg></app>
                    <app loc="42"><lem>-dūta-</lem><rdg source="bib:Furui2011_01">dū<choice><sic>k</sic><corr>t</corr></choice>a</rdg></app>
                    <app loc="45"><lem>-pūr<unclear>vvakaṁ</unclear></lem><rdg source="bib:Furui2011_01">-pūr<unclear>vvakam</unclear></rdg></app>
-                   <app loc="46"><lem>bhindus su</lem><rdg source="bib:Furui2011_01">bhindu<unclear>ś vya</unclear></rdg></app>
-                   <app loc="46"><lem>bh<unclear>o</unclear>g<unclear>y</unclear>a-ripu-vr̥nda-mahāndhakāram</lem><rdg source="bib:Furui2011_01">bhūṣer i<unclear>ṣṭasye</unclear>ndur i<unclear>h</unclear>āndhakārasya</rdg></app>
+                   <app loc="46"><lem>bhindus</lem><rdg source="bib:Furui2011_01">bhindu<unclear>ś</unclear></rdg></app>
+                   <app loc="46"><lem>su<space type="defect" unit="character" quantity="1"/>bhugna-ripu-vr̥nda-mahāndhakāram</lem><rdg source="bib:Furui2011_01"><unclear>vya</unclear> bhūṣer i<unclear>ṣṭasye</unclear>ndur i<unclear>h</unclear>āndhakārasya</rdg></app>
                    <app loc="46"><lem>ānandaye<lb n="47" break="no"/>t· kumudinīm</lem><rdg source="bib:Furui2011_01">nandaye<lb n="47" break="no"/>d vr̥kṣa-madinīm</rdg></app>
+                   <app loc="47"><lem>sva-jātiN</lem><rdg source="bib:Furui2011_01">svajādin</rdg></app>
                    <app loc="47"><lem>bhinnottamāha-ja-</lem><rdg source="bib:Furui2011_01">binnottamābhijña-</rdg></app>
                    <app loc="47"><lem>-niśai<supplied reason="omitted">r</supplied></lem><rdg source="bib:Furui2011_01">-<unclear>khaṇḍe</unclear></rdg></app>
                    <app loc="47"><lem>ggadi-</lem><rdg source="bib:Furui2011_01">-<unclear>ta</unclear>kṣi-</rdg></app>
                    <app loc="47"><lem>-bhūṣaṇenduḥ</lem><rdg source="bib:Furui2011_01">-bhūṣaṇendraḥ</rdg></app>
                    <app loc="48"><lem>tuṅge</lem><rdg source="bib:Furui2011_01"><unclear>va</unclear>ṅge</rdg></app>
                    <app loc="48"><lem>bhaṅgura-mūrdhni</lem><rdg source="bib:Furui2011_01">sa bhuvam urvvi<unclear>ś</unclear></rdg></app>
-                   <app loc="48"><lem>vikrama-<unclear>ha</unclear>tās<unclear>r̥</unclear>jy<unclear>e</unclear></lem><rdg source="bib:Furui2011_01"><unclear>vigro</unclear><gap reason="illegible" unit="character" quantity="2"/>śāmaṭe</rdg></app>
+                   <app loc="48"><lem>vikrama-hr̥tās<unclear>r̥</unclear>jy<unclear>e</unclear></lem><rdg source="bib:Furui2011_01"><unclear>vigro</unclear><gap reason="illegible" unit="character" quantity="2"/>śāmaṭe</rdg></app>
                    <app loc="48"><lem>saraḥ</lem><rdg source="bib:Furui2011_01"><unclear>santa</unclear>ḥ</rdg></app>
                    <app loc="48"><lem>sāhasād</lem><rdg source="bib:Furui2011_01">sāhasārd</rdg></app>
                    <app loc="48"><lem>durvārāri-karīndra-</lem><rdg source="bib:Furui2011_01">-duṁ vīrāvikārīndra-</rdg></app>
                    <app loc="48"><lem>-dāraṇa-nasā<lb n="49" break="no"/>veśo<unclear>ṣ</unclear>ṇa-</lem><rdg source="bib:Furui2011_01">-dāruṇan asā<lb n="49" break="no"/>de śe<unclear>jñe</unclear></rdg></app>
                    <app loc="49"><lem>-sat-</lem><rdg source="bib:Furui2011_01">saṅ-</rdg></app>
                    <app loc="49"><lem>mahā-mahī-</lem><rdg source="bib:Furui2011_01"><unclear>śaṅkī</unclear> mahī-</rdg></app>
-                   <app loc="49"><lem>mahāsāmanta so</lem><rdg source="bib:Furui2011_01">mahāsāmanta<unclear>s so</unclear></rdg></app>
+                   <app loc="49"><lem>mahāsāmantako</lem><rdg source="bib:Furui2011_01">mahāsāmanta<unclear>s so</unclear></rdg></app>
                    <app loc="49"><lem>abhi<lb n="50" break="no"/>hitaḥ</lem><rdg source="bib:Furui2011_01">asti<lb n="50"/> hitaḥ</rdg></app>
-                   <app loc="50"><lem>asīma-dr̥ka-</lem><rdg source="bib:Furui2011_01"><unclear>asau Andha</unclear>ka-</rdg></app>
+                   <app loc="50"><lem>asīdad uru-</lem><rdg source="bib:Furui2011_01"><unclear>asau Andha</unclear>ka-</rdg></app>
                    <app loc="50"><lem>gaurīva</lem><rdg source="bib:Furui2011_01">śaiśava-</rdg></app>
                    <app loc="51"><lem>sva-tāme</lem><rdg source="bib:Furui2011_01">svato me-</rdg></app>
                    <app loc="51"><lem>śaṅkhaṇeti</lem><rdg source="bib:Furui2011_01">Ahaṇeti</rdg></app>
                    <app loc="52"><lem>-pravalāri-</lem><rdg source="bib:Furui2011_01">-pravilāki-</rdg></app>
                    <app loc="52"><lem>-puṅga</lem><rdg source="bib:Furui2011_01">-prahva</rdg></app>
+                   <app loc="53"><lem>prakaṭitoru-paṭu-</lem><rdg source="bib:Furui2011_01">prakaṭito kamaṭa-</rdg></app>
                    <app loc="54"><lem>dāha-</lem><rdg source="bib:Furui2011_01">dāna-</rdg></app>
                    <app loc="54"><lem>hastā<lb n="55" break="no"/>sphālana-</lem><rdg source="bib:Furui2011_01">hastā<lb n="55" break="no"/><unclear>t sā</unclear>lana-</rdg></app>
-                   <app loc="55"><lem>-maṇḍa<lb n="56" break="no"/>lānakṣitānāṁ</lem><rdg source="bib:Furui2011_01">-maṇḍala-nikṣi<supplied reason="omitted">p</supplied>tānāṁ</rdg></app>
+                   <app loc="55"><lem>-maṇḍa<lb n="56" break="no"/>lālakṣitānāṁ</lem><rdg source="bib:Furui2011_01">-maṇḍala-nikṣi<supplied reason="omitted">p</supplied>tānāṁ</rdg></app>
                    <app loc="60"><lem><supplied reason="omitted">A</supplied>ki<supplied reason="omitted">ñ</supplied>ci<surplus>ṁ</surplus>t-</lem><rdg source="bib:Furui2011_01">ki<supplied reason="omitted">ñ</supplied>cit-</rdg></app>
                    <app loc="65"><lem>-ghaṭanārthaṁ</lem><rdg source="bib:Furui2011_01">-ghaṭakārthaṁ</rdg></app>
                    <app loc="72"><lem>pālanī<lb n="73" break="no"/>yaḥ</lem><rdg source="bib:Furui2011_01">pālanī<lb n="73" break="no"/>ya</rdg></app>
