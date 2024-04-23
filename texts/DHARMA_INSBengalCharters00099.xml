@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2024-04-23" status="draft">Text and apparatus completed.</change>
             <change who="part:ryfu" when="2024-04-22" status="draft">Text and apparatus revised.</change>
             <change who="part:ryfu" when="2024-04-19" status="draft">Text and apparatus revised.</change>
             <change who="part:ryfu" when="2024-04-17" status="draft">Text and apparatus revised.</change>
@@ -274,13 +275,13 @@
                  </lg>
                  <lg n="23" met="puṣpitāgrā">
                      <l n="a"><supplied reason="lost">Iti kamala-dalāmvu-vindu-lolāṁ</supplied></l>
-                     <l n="b"><supplied reason="lost">śriyam anucintya manu</supplied><unclear>ṣya</unclear> jīvitañ ca<supplied reason="omitted"><g type="danda">.</g></supplied></l>
-                     <l n="c">sakalam ida<unclear>m u</unclear><lb n="74" break="no"/><supplied reason="lost">d</supplied>ā-hr̥ta<unclear>ñ</unclear> ca <supplied reason="lost">vuddhvā</supplied></l>
-                     <l n="d"><supplied reason="lost">na hi puru</supplied><unclear>ṣaiḥ</unclear> <supplied reason="lost">para</supplied>-<unclear>kīrtta</unclear>y<unclear>o vi</unclear><supplied reason="lost">lo</supplied><unclear>py</unclear>ā<supplied reason="lost">ḥ<g type="ddanda">.</g></supplied></l>
+                     <l n="b"><supplied reason="lost">śriyam anucintya manu</supplied><unclear>ṣya</unclear>-jīvitañ ca<supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                     <l n="c">sakalam ida<unclear>m u</unclear><lb n="74" break="no"/>dāhr̥ta<unclear>ñ</unclear> ca <supplied reason="lost">vuddhvā</supplied></l>
+                     <l n="d"><supplied reason="lost">na hi puruṣaiḥ para</supplied>-<unclear>kīrtta</unclear>y<unclear>o vi</unclear><supplied reason="lost">lo</supplied><unclear>py</unclear>ā<supplied reason="lost">ḥ<g type="ddanda">.</g></supplied></l>
                  </lg>
                  <p>
-                     <gap reason="lost" unit="character" quantity="3"/>tro <unclear>sva</unclear>ñj<unclear>o</unclear> mahās<unclear>āmanta</unclear>-<unclear cert="low">śrī</unclear><lb 
-                     n="75" break="no"/>-<unclear>bha</unclear>dra<unclear cert="low">ṇ</unclear>ā<unclear>ga</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">yama</unclear>-<unclear>hr̥</unclear>ti<gap reason="illegible" unit="character" quantity="2"/>tī<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" unit="character" quantity="1"/><gap reason="illegible" unit="character" quantity="1"/>gaja-<gap reason="lost" unit="character" quantity="1"/><gap reason="illegible" unit="character" quantity="3"/><gap reason="lost" unit="character" quantity="2"/> <unclear>ni</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear>ai</unclear><gap reason="lost" unit="character" quantity="1"/><gap reason="illegible" unit="character" quantity="1"/>ga<unclear>ti</unclear>
+                     <gap reason="lost" unit="character" quantity="5"/>lya-muñj<unclear>o</unclear> mahās<unclear>āmanta</unclear>-<unclear cert="low">śrī</unclear><lb 
+                     n="75" break="no"/>-<unclear>bha</unclear>dra<unclear cert="low">ṇ</unclear>ā<unclear>ga</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">samā</unclear><unclear>hr̥</unclear>ti<gap reason="illegible" unit="character" quantity="2"/>tī<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" unit="character" quantity="1"/><gap reason="illegible" unit="character" quantity="1"/>gaja-<gap reason="lost" unit="character" quantity="1"/><gap reason="illegible" unit="character" quantity="3"/><gap reason="lost" unit="character" quantity="2"/> <unclear>ni</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear>ai</unclear><gap reason="lost" unit="character" quantity="1"/><gap reason="illegible" unit="character" quantity="1"/>ga<unclear>ti</unclear>
                 </p>     
                 <p><unclear>sa</unclear>mvaT <num value="26">26</num> Āṣāḍha di <num value="2"><unclear>2</unclear></num></p>
                 <p><lb n="76"/><gap reason="illegible" unit="character" quantity="5" precision="low"/>rne <unclear>ga</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear>ṭha</unclear>-<unclear>śrī-ga</unclear>ṇe<unclear cert="low">śe</unclear>na <gap reason="lost" unit="character" quantity="1"/> Utkī<unclear>rṇṇa</unclear>ś ca</p>
@@ -375,12 +376,12 @@
                    <app loc="60"><lem><supplied reason="omitted">A</supplied>ki<supplied reason="omitted">ñ</supplied>ci<surplus>ṁ</surplus>t-</lem><rdg source="bib:Furui2011_01">ki<supplied reason="omitted">ñ</supplied>cit-</rdg></app>
                    <app loc="65"><lem>-ghaṭanārthaṁ</lem><rdg source="bib:Furui2011_01">-ghaṭakārthaṁ</rdg></app>
                    <app loc="72"><lem>pālanī<lb n="73" break="no"/>yaḥ</lem><rdg source="bib:Furui2011_01">pālanī<lb n="73" break="no"/>ya</rdg></app>
-                   <app loc="73"><lem><supplied reason="lost">manu</supplied><unclear>ṣya</unclear></lem><rdg source="bib:Furui2011_01"><gap reason="lost" unit="character" quantity="2"/><unclear cert="low">ma</unclear></rdg></app>
-                   <app loc="73"><lem>jīvitañ ca</lem><rdg source="bib:Furui2011_01">kṣodinaga-</rdg></app>
+                   <app loc="73"><lem><supplied reason="lost">manu</supplied><unclear>ṣya</unclear>-</lem><rdg source="bib:Furui2011_01"><gap reason="lost" unit="character" quantity="2"/><unclear cert="low">ma</unclear></rdg></app>
+                   <app loc="73"><lem>-jīvitañ ca</lem><rdg source="bib:Furui2011_01">kṣodinaga-</rdg></app>
                    <app loc="73"><lem>sakalam ida<unclear>m</unclear></lem><rdg source="bib:Furui2011_01">-ṇḍatho dharma-dikṣa<gap reason="illegible" unit="character" quantity="1"/></rdg></app>
-                   <app loc="73"><lem><unclear>u</unclear><lb n="74" break="no"/><supplied reason="lost">d</supplied>ā-hr̥ta<unclear>ñ</unclear> ca</lem><rdg source="bib:Furui2011_01"><gap reason="illegible" unit="character" quantity="1"/><lb n="74"/>jñā-bhuva<gap reason="lost" unit="character" quantity="1"/></rdg></app>
-                   <app loc="74"><lem>tro <unclear>sva</unclear>ñj<unclear>o</unclear> mahās<unclear>āmanta</unclear>-<unclear cert="low">śrī</unclear></lem><rdg source="bib:Furui2011_01">tīṣṭha-svīyaka<gap reason="illegible" unit="character" quantity="1"/>paha<gap reason="illegible" unit="character" quantity="3"/></rdg></app>
-                   <app loc="75"><lem>-<unclear>bha</unclear>dra<unclear cert="low">ṇ</unclear>ā<unclear>ga</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">yama</unclear>-<unclear>hr̥</unclear>ti</lem><rdg source="bib:Furui2011_01"><unclear>kha</unclear>dhū<gap reason="illegible" unit="character" quantity="1"/>pa<gap reason="illegible" unit="character" quantity="1"/>mni<gap reason="illegible" unit="character" quantity="2"/>tti</rdg></app>
+                   <app loc="73"><lem><unclear>m u</unclear><lb n="74" break="no"/>dāhr̥ta<unclear>ñ</unclear> ca</lem><rdg source="bib:Furui2011_01"><gap reason="illegible" unit="character" quantity="1"/><lb n="74"/>jñā-bhuva<gap reason="lost" unit="character" quantity="1"/></rdg></app>
+                   <app loc="74"><lem>lya-muñj<unclear>o</unclear> mahās<unclear>āmanta</unclear>-<unclear cert="low">śrī</unclear></lem><rdg source="bib:Furui2011_01">tīṣṭha-svīyaka<gap reason="illegible" unit="character" quantity="1"/>paha<gap reason="illegible" unit="character" quantity="3"/></rdg></app>
+                   <app loc="75"><lem>-<unclear>bha</unclear>dra<unclear cert="low">ṇ</unclear>ā<unclear>ga</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">samā</unclear><unclear>hr̥</unclear>ti</lem><rdg source="bib:Furui2011_01"><unclear>kha</unclear>dhū<gap reason="illegible" unit="character" quantity="1"/>pa<gap reason="illegible" unit="character" quantity="1"/>mni<gap reason="illegible" unit="character" quantity="2"/>tti</rdg></app>
                    <app loc="75"><lem>di <num value="2"><unclear>2</unclear></num></lem><rdg source="bib:Furui2011_01">di <gap reason="illegible" unit="character" quantity="1"/></rdg></app>
                    <app loc="76"><lem><unclear>ga</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear>ṭha</unclear>-</lem><rdg source="bib:Furui2011_01"><unclear>ma</unclear><gap reason="illegible" unit="character" quantity="1"/>ṭha<gap reason="illegible" unit="character" quantity="1"/></rdg></app>
                    <app loc="76"><lem><unclear>-ga</unclear>ṇe<unclear cert="low">śe</unclear>na</lem><rdg source="bib:Furui2011_01">dataga<gap reason="illegible" unit="character" quantity="1"/></rdg></app>
