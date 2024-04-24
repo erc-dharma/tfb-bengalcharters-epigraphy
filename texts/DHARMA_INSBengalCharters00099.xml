@@ -284,7 +284,7 @@
                      n="75" break="no"/>-<unclear>bha</unclear>dra<unclear cert="low">ṇ</unclear>ā<unclear>ga</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear cert="low">samā</unclear><unclear>hr̥</unclear>ti<gap reason="illegible" unit="character" quantity="2"/>tī<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" unit="character" quantity="1"/><gap reason="illegible" unit="character" quantity="1"/>gaja-<gap reason="lost" unit="character" quantity="1"/><gap reason="illegible" unit="character" quantity="3"/><gap reason="lost" unit="character" quantity="2"/> <unclear>ni</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear>ai</unclear><gap reason="lost" unit="character" quantity="1"/><gap reason="illegible" unit="character" quantity="1"/>ga<unclear>ti</unclear>
                 </p>     
                 <p><unclear>sa</unclear>mvaT <num value="26">26</num> Āṣāḍha di <num value="2"><unclear>2</unclear></num></p>
-                <p><lb n="76"/><gap reason="illegible" unit="character" quantity="5" precision="low"/>rne <unclear>ga</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear>ṭha</unclear>-<unclear>śrī-ga</unclear>ṇe<unclear cert="low">śe</unclear>na <gap reason="lost" unit="character" quantity="1"/> Utkī<unclear>rṇṇa</unclear>ś ca</p>
+                <p><lb n="76"/><gap reason="illegible" unit="character" quantity="5" precision="low"/>rne <unclear>ga</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear>ṭha</unclear>-<unclear>śrī-ga</unclear>ṇe<unclear cert="low">śe</unclear>na <gap reason="lost" unit="character" quantity="1"/> Utkī<unclear>rṇṇañ ca</unclear></p>
              </div>
          </div>
          <div type="apparatus">
@@ -385,7 +385,7 @@
                    <app loc="75"><lem>di <num value="2"><unclear>2</unclear></num></lem><rdg source="bib:Furui2011_01">di <gap reason="illegible" unit="character" quantity="1"/></rdg></app>
                    <app loc="76"><lem><unclear>ga</unclear><gap reason="illegible" unit="character" quantity="1"/><unclear>ṭha</unclear>-</lem><rdg source="bib:Furui2011_01"><unclear>ma</unclear><gap reason="illegible" unit="character" quantity="1"/>ṭha<gap reason="illegible" unit="character" quantity="1"/></rdg></app>
                    <app loc="76"><lem><unclear>-ga</unclear>ṇe<unclear cert="low">śe</unclear>na</lem><rdg source="bib:Furui2011_01">dataga<gap reason="illegible" unit="character" quantity="1"/></rdg></app>
-                   <app loc="76"><lem>Utkī<unclear>rṇṇa</unclear>ś ca</lem><rdg source="bib:Furui2011_01">utkī<unclear>rṇṇa</unclear>sya<gap reason="illegible" unit="character" quantity="1"/></rdg></app>
+                   <app loc="76"><lem>Utkī<unclear>rṇṇañ ca</unclear></lem><rdg source="bib:Furui2011_01">utkī<unclear>rṇṇa</unclear>sya<gap reason="illegible" unit="character" quantity="1"/></rdg></app>
                </listApp>
              </div>
          </div>
