@@ -138,7 +138,7 @@
              </div>
          </div>
         <div type="bibliography">
-           <p>First edited by Arlo Griffiths. Re-edited here with small improvements based on direct inspection of the fragment.<!-- by me? or by awbr? --></p>
+           <p>First published by Arlo Griffiths (<bibl rend="omitname"><ptr target="bib:Griffiths2018_02"/></bibl>). This digital edition reproduces that publication.</p>
         	<listBibl type="primary">
 				<bibl n="G"><ptr target="bib:Griffiths2018_02"/><citedRange unit="item">II.4</citedRange><citedRange unit="page">39-40</citedRange></bibl>
 			</listBibl>
