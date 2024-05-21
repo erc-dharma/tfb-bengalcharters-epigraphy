@@ -117,7 +117,7 @@
                      </app>
                      <app loc="1v5">
                          <lem>doṇavapaca</lem>
-                         <note>The intended reading was <supplied reason="lost">sthalavā</supplied>stuno droṇavāpaca<supplied reason="lost">tuṣṭayaṁ</supplied>. See the intact <ref target="DHARMA_INSBengalCharters00049.xml">Baigram plate</ref>, lines 9 and 16–18.</note>
+                         <note>The intended reading was <foreign><supplied reason="lost">sthalavā</supplied>stuno droṇavāpaca<supplied reason="lost">tuṣṭayaṁ</supplied></foreign>. See the <ref target="DHARMA_INSBengalCharters00049.xml">Baigram plate</ref>, lines 9 and 16–18.</note>
                      </app>
                      <app loc="1v6">
                          <lem>ri <gap reason="illegible" unit="character" quantity="1"/></lem>
@@ -129,7 +129,7 @@
  	<!--translation not given because the text is too fragmentary -->
          <div type="commentary">
              <div type="textpart" n="A"><head xml:lang="eng">Introduction</head>
-                 <p>I found this fragment by chance during perusal of the Museums of India website, which indicates that it is preserved at the Indian Museum, Kolkata, under accession number A20050/9085.<note><ref target="http://museumsofindia.gov.in/repository/record/im_kol-A20050-9085-18">http://museumsofindia.gov.in/repository/record/im_kol-A20050-9085-18</ref>. Accessed in May 2018.</note>  
+                 <p>I found this fragment by chance during perusal of the Museums of India website, which indicates that it is preserved at the Indian Museum, Kolkata, under accession number A20050/9085.<note><ref target="http://museumsofindia.gov.in/repository/record/im_kol-A20050-9085-18">http://museumsofindia.gov.in/repository/record/im_kol-A20050-9085-18</ref>. Accessed in May 2024.</note>  
                     Subsequently, I learned from Ryosuke Furui that he has seen the fragment in that very museum, and was able to make the photographs that he has kindly allowed me to publish. The website indicates dimensions 4.9 × 4.7 cm, and provenance from Baigram in Bangladesh. Although no mention of this fragment is known to me from any printed publication of the colonial or post-colonial periods, the information about provenance is borne out by several correspondences with the well-known <ref target="DHARMA_INSBengalCharters00049.xml">Baigram plate</ref>.</p>
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Observations</head>
