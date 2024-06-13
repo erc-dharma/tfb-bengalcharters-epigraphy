@@ -168,7 +168,7 @@ n="12"/><unclear>u</unclear>tkīrṇa<unclear>ṁ</unclear> s<unclear>ū</unclea
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                     <rdg source="bib:Bhattacharyya1935-1936_01"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
                </listApp>
          </div>
