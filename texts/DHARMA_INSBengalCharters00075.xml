@@ -111,7 +111,7 @@
 	   <ab><lb n="1"/>śrī-madanapāla<unclear>ḥ</unclear></ab>                 
 	</div>
            <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
-                <pb n="1r"/><ab><lb n="0"/>ni ni<space quantity="2" unit="character"/>ni ni</ab>
+                <pb n="1r"/><ab><lb n="01"/>ni ni<space quantity="2" unit="character"/>ni ni</ab>
                 <lb n="1"/><p><g type="spiralL"/><!-- siddham -->Om̐ namo vuddhāya<g type="ddanda">.</g> svasti<g type="ddanda">.</g></p>
                 <lg n="1" met="sragdharā">
                     <l n="a">maitrīṁ* kāruṇya-ratna-pramudita-hr̥dayaḥ preyasīṁ* sandadhānaḥ</l>
@@ -295,7 +295,7 @@
          <div type="apparatus">
            <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                <listApp>
-                  <app loc="0"><lem>ni ni<space quantity="2" unit="character"/>ni ni</lem><note>The four characters of ni, which seems to be an abbreviation for nibaddha "confirmed", are engraved on the margin above the line 1 of the obverse.</note></app>
+                  <app loc="01"><lem>ni ni<space quantity="2" unit="character"/>ni ni</lem><note>The four characters of ni, which seems to be an abbreviation for nibaddha "confirmed", are engraved on the margin above the line 1 of the obverse.</note></app>
                   <app loc="2"><lem>śāśvatīṁ</lem><rdg source="bib:Vasu1900_01">śāśvatāṁ</rdg></app>
                   <app loc="6"><lem>ekāt<supplied reason="omitted">a</supplied>patrā</lem><rdg source="bib:Vasu1900_01">ekātpatro</rdg></app>
                   <app loc="6"><lem>di<choice><orig>ṣ</orig><reg>ś</reg></choice>aḥ</lem><rdg source="bib:Vasu1900_01">diśaḥ</rdg></app>
@@ -350,7 +350,7 @@
                  <ab>Illustrious Madanapāladeva</ab>
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
-                 <p n="0">Confirmed. Confirmed. Confirmed. Confirmed.</p>
+                 <p n="01">Confirmed. Confirmed. Confirmed. Confirmed.</p>
                  <p n="1">Success! Oṁ, salutation to the Buddha. Welfare!</p>
                  <p rend="stanza" n="1">The one with mind delighted by the jewel of compassion, who is united with beloved goddess Benevolence, whose dirt of ignorance is cleansed by pure water of the stream of knowledge of perfect enlightenment, who, after conquering the powerful cause of existence producing desire, acquired eternal tranquillity, may he, the illustrious Lord of the World <supplied reason="explanation">the Buddha</supplied> possessing ten powers be victorious, otherwise also Gopāladeva <supplied reason="explanation">I</supplied>!</p>
                  <p rend="stanza" n="2">From him was born illustrious king Dharmapāla, who was the birthplace of Lakṣmī <supplied reason="explanation">the ocean</supplied> with makaras <seg rend="pun">was levying fair tax on the origin of wealth</seg>, able to carry the burden of the earth, a sole refuge for mountains <seg rend="pun">kings</seg> approaching him in fear of cutting of their wings <seg rend="pun">destruction of their troops</seg>, devoted to the protection of custom, an abode of heroism and a dwelling of smile with beauty of milk ocean.</p>

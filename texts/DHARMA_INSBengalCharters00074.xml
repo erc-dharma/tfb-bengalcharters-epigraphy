@@ -88,10 +88,10 @@
       <body>
          <div type="edition" xml:lang="san-Latn">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
-                 <ab><lb n="1">śrī-gopāla-devaḥ</lb></ab>             
+                 <ab><lb n="1"/>śrī-gopāla-devaḥ</ab>             
              </div> 
              <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
-                 <pb n="1r"/><lb n="01"/><p>ni<space type="vacat" unit="character" quantity="33"/>ni<space type="vacat" unit="character" quantity="5"/></p>
+                 <pb n="1r"/><lb n="01"/><ab>ni<space type="vacat" unit="character" quantity="33"/>ni<space type="vacat" unit="character" quantity="5"/></ab>
                  <lb n="1"/><p><g type="spiralL"/> svasti<g type="danda">.</g></p>
                  <lg n="1" met="sragdharā">
                      <l n="a">maitrīṅ kāruṇya-ratna-pramudita-hr̥dayaḥ preyasīṁ sandadhānaḥ</l>
