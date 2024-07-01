@@ -78,6 +78,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2024-07-01" status="draft">Corrected misspelling on line 15 and revised encoding on the same line.</change>
             <change when="2022-04-13" who="part:amwb">Added a missing bibliographic reference</change>
             <change when="2021-12-23" who="part:amwb">Added the translation of the quoted verses</change>
             <change when="2021-09-20" who="part:amwb">Start of the encoding of the apparatus with two previous editions (ie. Srinivasan1972_01 and Tripathy1997_01) and Furui's readings.</change>
@@ -105,11 +106,11 @@ n="12" break="no"/>-pāda-prasādopajīvino yathārhaṁ mānayitvā śirobhiś 
 n="13" break="no"/>-sāmudāyika-grāma-vāṭakebhyo mahāmahattara-mahattara-pradhāna-<unclear cert="low">sītā</unclear>la Adhikaraṇañ ca vijñāpayanti<supplied reason="subaudible">.</supplied></p>
              <p>Astu vas samviditaṁ prārthitā <lb
 n="14"/>vayaṁ śrī-mahāsāmanta-mahārājācyutena yuṣmad-vīthyāṁ sādhubhir anekair ācandrārkka-kālīna-tāmra-paṭṭa-paṭa-śāsana-sthityā satā-mūlyena<lb
-n="15"/>grāma-kṣettra-vāstūni yuṣmaT<!--
+n="15"/>grāma-kṣettra-vāstūni yuṣmat<unclear>·</unclear><!--
 amwb : here Ryosuke noted t(·), I don't know what it means. Maybe he wants to indicate a virama? 
---> krītv<sic>a</sic>kr̥tvā<!-- 
+--><!--ryfu : it indicates that there could be a virama under t, which is unclear. So I bracketed it with <unclear></unclear>--> krītv<sic>a</sic>kr̥tvā<!-- 
 amwb : here I added  sic ; the three editions have krītvakr̥tvā with a short a but it seems impossible for me ; in apparatus I suggest some possibilities without certainty
---> deva-dvija-maṭha-vihārāvasathebhyo 'tisr̥ṣṭhā<choice><sic>t</sic><corr>n</corr></choice>y atisr̥jyamānāni <unclear>ta</unclear>th<unclear>ai</unclear>va samyak prati<lb
+--> deva-dvija-maṭha-vihārāvasathebhyo 'tisr̥ṣṭā<choice><sic>t</sic><corr>n</corr></choice>y atisr̥jyamānāni <unclear>ta</unclear>th<unclear>ai</unclear>va samyak prati<lb
 n="16"/>pālyamānā<choice><sic>ny eti</sic><corr>nīti</corr></choice> samīkṣya ma<unclear>hati ca</unclear> saṁsārārṇṇave sarvva-prāṇināṃ jala-budbudāvaśyāya-preṣita-gaja-kal<choice><sic>ā</sic><corr>a</corr></choice>bha-kaṇṭhāgra-bhujaga-jihva-taḍi<lb
 n="17" break="no"/>t-sampāta-capalāni jīvitā<supplied reason="lost">ni</supplied> tyāja<unclear>vañ ca vi</unclear>bhāva<unclear>ñ ca</unclear> dr̥ṣtvā mamāpi dharmma-n<unclear>i</unclear>mittam utsāho jāta so 'ham i<unclear>cche</unclear> ratna-caityodbhava-khyāpitāśeṣa-ttri-bhuvana-pratāpa<lb
 n="18" break="no"/>-māhātmyātiśaya-bhagavad-āryyāvalokiteśvarāddhyāsita-śrī-vodhipadraka-mahāvihāre vihāra-karaṇāya tasmiṁś ca vali-caru-gandha-puṣpa-pradīpā<lb 
