@@ -98,7 +98,8 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-          <change who="part:ryfu" when="2023-05-30">intellectula authorship of the edition added.</change>
+          <change who="part:ryfu" when="2024-07-02" status="draft">Text, apparatus and translation modified on input by Daniel Balogh.</change>
+          <change who="part:ryfu" when="2023-05-30">intellectulal authorship of the edition added.</change>
          <change who="part:ryfu" when="2021-10-08">Dandas encoded as glyphs.</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:ryfu" when="2020-10-13">Markups added to translation.</change>
@@ -171,7 +172,7 @@
                  <l n="d">yasyoddāma-yaśo-vitāna-pihitaṁ jātaṁ nabhaḥ pāṇḍaraṁ*<g type="ddanda">.</g></l>
              </lg>
              <lg n="11" met="śārdūlavikrīḍita">
-                 <l n="a">tenāsmin kali-kā<lb n="13" break="no"/>la-kalmaṣa-m<choice><sic>u</sic><corr>r̥</corr></choice>ṣā kīrttiṁ sthirāṁ ta<choice><sic>t</sic><corr>n</corr></choice>vatā </l>
+                 <l n="a">tenāsmin kali-kā<lb n="13" break="no"/>la-kalmaṣa-muṣā kīrttiṁ sthirāṁ ta<choice><sic>t</sic><corr>n</corr></choice>vatā </l>
                  <l n="b">lakṣmī-nātha-samarppitācala-dhiyā tad-bhaktimadbhyaḥ sadā<g type="danda">.</g></l>
                  <l n="c">sampaj-jīvita-yauvanāni capalāny ālocya dharmmaṁ <lb n="14"/>sthiraṁ </l>
                  <l n="d">dattaḥ pravrajitebhya Eṣa vivudha-sthānānukārī maṭhaḥ<g type="ddanda">.</g></l>
@@ -204,7 +205,7 @@
                   <app loc="10"><lem>mmanasvī</lem><rdg source="bib:Bhattacharya1999_01">mahaśvi</rdg></app>
                   <app loc="10"><lem>nidhāyākhila-</lem><rdg source="bib:Bhattacharya1999_01">bhidhayākhila-</rdg></app>
                   <app loc="12"><lem>pāṇḍaraṁ*</lem><rdg source="bib:Bhattacharya1999_01">pāṇḍāraṁ</rdg></app>
-                  <app loc="13"><lem>-m<choice><sic>u</sic><corr>r̥</corr></choice>ṣā</lem><rdg source="bib:Bhattacharya1999_01">-mr̥ṣā</rdg></app>
+                  <app loc="13"><lem>-muṣā</lem><rdg source="bib:Bhattacharya1999_01">-mr̥ṣā</rdg></app>
                   <app loc="13"><lem>ta<choice><sic>t</sic><corr>n</corr></choice>vatā</lem><rdg source="bib:Bhattacharya1999_01">vatvatā</rdg></app>
                   <app loc="13"><lem>-bhaktimadbhyaḥ</lem><rdg source="bib:Bhattacharya1999_01">-bhaktimarghaḥ</rdg></app>
                   <app loc="13"><lem>ālocya</lem><rdg source="bib:Bhattacharya1999_01">ālokya</rdg></app>
@@ -225,7 +226,7 @@
              <p rend="stanza" n="8">From him was born the one with actions desirable in the world and noble deeds named Śivarudra, the illustrious. Seeing him embraced by Śrī, the fame bright as the moon, which reached the other shore of the ocean was as if provoked.</p>
              <p rend="stanza" n="9">To Bhottebhaṭṭārikā was born his son with unlike greatness, the hero named illustrious Pāhila, having the fame known by the collection of all the virtues and wise. After depositing the kingdom to him, the king illustrious Devapāla, abandoning anxiety, enjoys pleasure of all the territories <seg rend="pun">objects of senses</seg>, removing beauty of the wives of the excited enemy troops.</p>
              <p rend="stanza" n="10">He is devoted to gods, gurus and brahmins, always affectionate to both ally and friend, enjoying the wealth to be enjoyed by all the people, humble and endowed with valour. He is the indestructible storehouse of generosity, and also the ocean of intelligence. Covered by the heap of his unbound fame, the sky became white.</p>
-             <p rend="stanza" n="11">Here, by him, who extend firm fame destroying stain of Kali age, and whose unshaken thought is placed on the master of Lakṣmī <supplied reason="explanation">Viṣṇu</supplied>, after reflecting upon that success, life and youth are inconstant and that dharma is stable, this maṭha, which imitates the abode of gods, was given to ascetics who always had devotion to him.</p>
+             <p rend="stanza" n="11">Here, by him, who destroys stain of Kali age and extends firm fame, and whose unshaken thought is placed on the master of Lakṣmī <supplied reason="explanation">Viṣṇu</supplied>, after reflecting upon that success, life and youth are inconstant and that dharma is stable, this maṭha, which imitates the abode of gods, was given to ascetics who always had devotion to him.</p>
              <p rend="stanza" n="12">As long as the ray of the moon shines at the master of mountain <supplied reason="explanation">Śiva</supplied>, as long as splendor is in the sun, as long as Lakṣmī, idle in love, dwells on the chest of the one born under the axle <supplied reason="explanation">Viṣṇu</supplied>, as long as clean multitude of constellations and planets shine in the sky, may abundant and stable fame of illustrious Pāhila here expand!</p>
              <p n="16"><supplied reason="subaudible">This is</supplied> engraved by engraver Dakkadāsa.</p>
          </div>
