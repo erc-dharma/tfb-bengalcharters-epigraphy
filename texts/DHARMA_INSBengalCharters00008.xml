@@ -78,6 +78,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2024-07-03" status="draft">Reference to Sircar's edition corrected.</change>
             <change who="part:ryfu" when="2024-07-03" status="draft">Modification of text, apparatus and translation on input of Daniel Balogh.</change>
             <change who="part:ryfu" when="2023-11-14" status="draft">Encoding correttion.</change>
             <change who="part:ryfu" when="2023-10-03" status="draft">Encoding corrections made.</change>
@@ -265,55 +266,55 @@
          <div type="apparatus">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                  <listApp>
-                     <app loc="1"><lem>-deva<unclear>ḥ</unclear></lem><rdg source="bib:Sircar1968_03">-deva</rdg></app>
+                     <app loc="1"><lem>-deva<unclear>ḥ</unclear></lem><rdg source="bib:Sircar1967-1968_02">-deva</rdg></app>
                  </listApp>
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                  <listApp>                  
-                     <app loc="7"><lem>-kamalinī-suprāta-</lem><rdg source="bib:Sircar1968_03">-kamalinīsu prāta-</rdg><note>I followed the editorial comment of G. S. Gai.</note></app>
-                     <app loc="7"><lem>s str̥<lb n="8" break="no"/><unclear>t</unclear></lem><rdg source="bib:Sircar1968_03">sa<lb n="8" break="no"/><unclear>m</unclear>ya<unclear>k</unclear>-</rdg></app>
-                     <app loc="11"><lem>-s<choice><sic>e</sic><corr>ai</corr></choice>nikaiḥ</lem><rdg source="bib:Sircar1968_03">-sainikaiḥ</rdg></app>
-                     <app loc="12"><lem>suruṅgā-</lem><rdg source="bib:Sircar1968_03">suruṅga-</rdg></app>
-                     <app loc="19"><lem>-sacchada-</lem><rdg source="bib:Sircar1968_03">-saccha<surplus>ṁ</surplus>da-</rdg></app>
-                     <app loc="21"><lem>p<choice><sic>e</sic><corr>a</corr></choice>trā<lb n="22" break="no"/>ṅgulī-</lem><rdg source="bib:Sircar1968_03">patrā<lb n="22" break="no"/>ṅgulī-</rdg></app>
-                     <app loc="27"><lem>-sa<unclear>ṁ</unclear><g type="danda">.</g> talavargga</lem><rdg source="bib:Sircar1968_03">-sātalavargga</rdg></app>
-                     <app loc="28"><lem>samupagatāśeṣa-</lem><rdg source="bib:Sircar1968_03">samupāgatāśeṣa-</rdg></app>
-                     <app loc="30"><lem>mahā<choice><sic>v</sic><corr>t</corr></choice>antrādhikr̥ta</lem><rdg source="bib:Sircar1968_03">mahātantrādhikr̥ta</rdg></app>
-                     <app loc="31"><lem>nauvalahastyaśvagomahi<lb n="32" break="no"/>ṣyajāvikādivyāpr̥taka</lem><rdg source="bib:Sircar1968_03">nauvalahastyaśvagomahi<lb n="32" break="no"/>ṣājāvikādivyāpr̥taka</rdg></app>
-                     <app loc="32"><lem>dāṇḍapā<choice><orig>s</orig><reg>ś</reg></choice>ika</lem><note>D. C. Sircar <bibl rend="omitname"><ptr target="bib:Sircar1968_03"/></bibl> claims that dā is first engraved and then modified to da, though there is no trace as such.</note></app>
-                     <app loc="34"><lem>etāN</lem><rdg source="bib:Sircar1968_03">etān<g type="danda">.</g></rdg></app>
-                     <app loc="34"><lem>-koṭṭāli</lem><rdg source="bib:Sircar1968_03">-koṭṭāli<supplied reason="omitted">ḥ</supplied></rdg></app>
-                     <app loc="35"><lem>jujjū-khātaka</lem><rdg source="bib:Sircar1968_03">jujjū-khātaka<supplied reason="omitted">ṁ</supplied></rdg></app>
-                     <app loc="35"><lem>kāṣṭhaparṇṇī-khātaka </lem><rdg source="bib:Sircar1968_03">jujjū-khātaka<supplied reason="omitted">ṁ</supplied></rdg></app>
-                     <app loc="35"><lem>vetraghaṭī-nadī</lem><rdg source="bib:Sircar1968_03">vetraghaṭī-nadī <supplied reason="omitted">ca</supplied></rdg></app>
-                     <app loc="36"><lem>-candrapurābhidhānaṁ</lem><rdg source="bib:Sircar1968_03">-candrapurābhidhānam</rdg></app>
-                     <app loc="36"><lem>vrahmāpuram</lem><rdg source="bib:Sircar1968_03">vrahmapuram</rdg></app>
-                     <app loc="37"><lem>-phuṭṭakārthaṁ</lem><rdg source="bib:Sircar1968_03">-ghuṭ<choice><sic>ṭa</sic><corr>i</corr></choice>kārthaṁ</rdg></app>
-                     <app loc="37"><lem>-pāṭakāḥ</lem><rdg source="bib:Sircar1968_03">-pāṭakāḥ<g type="danda">.</g></rdg></app>
-                     <app loc="38"><lem>adhiṣṭhāya</lem><rdg source="bib:Sircar1968_03">-adhiṣṭhā<choice><sic>y</sic><corr>n</corr></choice>a-</rdg></app>
-                     <app loc="39"><lem>ḍhakkāvāda-</lem><rdg source="bib:Sircar1968_03">ḍhakkāvādaka-</rdg></app>
-                     <app loc="40"><lem>pratyekaṁ<g type="commaSmall">.</g></lem><rdg source="bib:Sircar1968_03">pratyekaṁ</rdg></app>
-                     <app loc="41"><lem>-veṭṭikānāṁ</lem><rdg source="bib:Sircar1968_03">-<choice><sic>v</sic><corr>c</corr></choice>eṭ<surplus>ṭ</surplus>ikānāṁ</rdg></app>
-                     <app loc="42"><lem>-adhika-</lem><rdg source="bib:Sircar1968_03">-adhika<unclear>ṁ</unclear></rdg></app>
-                     <app loc="43"><lem>ca<g type="commaSmall">.</g></lem><rdg source="bib:Sircar1968_03">ca<g type="ddanda">.</g></rdg></app>
-                     <app loc="46"><lem>-pāṭakaḥ</lem><rdg source="bib:Sircar1968_03">-pāṭakaḥ<g type="danda">.</g></rdg></app>
-                     <app loc="48"><lem>Antaṭa</lem><rdg source="bib:Sircar1968_03">Annaṭa</rdg></app>
-                     <app loc="50"><lem><unclear>jā</unclear>rggagupta</lem><rdg source="bib:Sircar1968_03"><unclear cert="low">jyeṣṭha</unclear>gupta</rdg></app>
-                     <app loc="50"><lem>-śākhādhyāyibhyaḥ</lem><rdg source="bib:Sircar1968_03">-śākhādhyāyibhyaḥ<g type="danda">.</g></rdg></app>
-                     <app loc="51"><lem>ca<g type="commaSmall">.</g></lem><rdg source="bib:Sircar1968_03">ca<g type="ddanda">.</g></rdg></app>
-                     <app loc="53"><lem>-daśāp<choice><sic>ā</sic><corr>a</corr></choice>rādhāḥ</lem><rdg source="bib:Sircar1968_03">-daśāparādhāḥ</rdg></app>
-                     <app loc="53"><lem>-cauroddharaṇāḥ</lem><rdg source="bib:Sircar1968_03">-coroddharaṇāḥ</rdg></app>
-                     <app loc="55"><lem><choice><sic>s</sic><corr>m</corr></choice>ātā-</lem><rdg source="bib:Sircar1968_03">-mātā-</rdg></app>
-                     <app loc="55"><lem>-saṅkrāntau<g type="commaSmall">.</g></lem><rdg source="bib:Sircar1968_03">-saṅkrāntau</rdg></app>
-                     <app loc="58"><lem>-dine <num value="5">5</num></lem><rdg source="bib:Sircar1968_03">-dine 5<g type="danda">.</g></rdg></app>
-                     <app loc="58"><lem>dharmmā<lb n="59" break="no"/>n<unclear>u</unclear><choice><sic>s</sic><corr>ś</corr></choice>a<unclear>ṁ</unclear><choice><sic>ś</sic><corr>s</corr></choice>inaḥ</lem><rdg source="bib:Sircar1968_03">dharmmā<lb n="59" break="no"/>nuśaṁsinaḥ</rdg></app>
-                     <app loc="59"><lem>rājabhiḥ</lem><rdg source="bib:Sircar1968_03">rājabhis</rdg></app>
-                     <app loc="61"><lem>vasu<choice><sic>d</sic><corr>n</corr></choice>dharāṁ</lem><rdg source="bib:Sircar1968_03">vasundharāṁ</rdg></app>
-                     <app loc="63"><lem>sā<unclear>r</unclear>a-</lem><rdg source="bib:Sircar1968_03">sāla-</rdg></app>
-                     <app loc="63"><lem>-de<lb n="64" break="no"/>vasya</lem><rdg source="bib:Sircar1968_03">-de<surplus>ṁ</surplus><lb n="64" break="no"/>vasya</rdg></app>
-                     <app loc="64"><lem>kāṭṭīgrāma-</lem><rdg source="bib:Sircar1968_03">kāligrāma-</rdg></app>
-                     <app loc="64"><lem>ya<unclear>ttr</unclear>a <unclear>ś</unclear>āsanam</lem><rdg source="bib:Sircar1968_03">etac chāsanam</rdg></app>
-                     <app loc="65"><lem>sādr̥ś<choice><sic>ī</sic><corr>ya</corr></choice>ṁ</lem><rdg source="bib:Sircar1968_03">sādr̥śyaṁ</rdg></app>
+                     <app loc="7"><lem>-kamalinī-suprāta-</lem><rdg source="bib:Sircar1967-1968_02">-kamalinīsu prāta-</rdg><note>I followed the editorial comment of G. S. Gai.</note></app>
+                     <app loc="7"><lem>s str̥<lb n="8" break="no"/><unclear>t</unclear></lem><rdg source="bib:Sircar1967-1968_02">sa<lb n="8" break="no"/><unclear>m</unclear>ya<unclear>k</unclear>-</rdg></app>
+                     <app loc="11"><lem>-s<choice><sic>e</sic><corr>ai</corr></choice>nikaiḥ</lem><rdg source="bib:Sircar1967-1968_02">-sainikaiḥ</rdg></app>
+                     <app loc="12"><lem>suruṅgā-</lem><rdg source="bib:Sircar1967-1968_02">suruṅga-</rdg></app>
+                     <app loc="19"><lem>-sacchada-</lem><rdg source="bib:Sircar1967-1968_02">-saccha<surplus>ṁ</surplus>da-</rdg></app>
+                     <app loc="21"><lem>p<choice><sic>e</sic><corr>a</corr></choice>trā<lb n="22" break="no"/>ṅgulī-</lem><rdg source="bib:Sircar1967-1968_02">patrā<lb n="22" break="no"/>ṅgulī-</rdg></app>
+                     <app loc="27"><lem>-sa<unclear>ṁ</unclear><g type="danda">.</g> talavargga</lem><rdg source="bib:Sircar1967-1968_02">-sātalavargga</rdg></app>
+                     <app loc="28"><lem>samupagatāśeṣa-</lem><rdg source="bib:Sircar1967-1968_02">samupāgatāśeṣa-</rdg></app>
+                     <app loc="30"><lem>mahā<choice><sic>v</sic><corr>t</corr></choice>antrādhikr̥ta</lem><rdg source="bib:Sircar1967-1968_02">mahātantrādhikr̥ta</rdg></app>
+                     <app loc="31"><lem>nauvalahastyaśvagomahi<lb n="32" break="no"/>ṣyajāvikādivyāpr̥taka</lem><rdg source="bib:Sircar1967-1968_02">nauvalahastyaśvagomahi<lb n="32" break="no"/>ṣājāvikādivyāpr̥taka</rdg></app>
+                     <app loc="32"><lem>dāṇḍapā<choice><orig>s</orig><reg>ś</reg></choice>ika</lem><note>D. C. Sircar <bibl rend="omitname"><ptr target="bib:Sircar1967-1968_02"/></bibl> claims that dā is first engraved and then modified to da, though there is no trace as such.</note></app>
+                     <app loc="34"><lem>etāN</lem><rdg source="bib:Sircar1967-1968_02">etān<g type="danda">.</g></rdg></app>
+                     <app loc="34"><lem>-koṭṭāli</lem><rdg source="bib:Sircar1967-1968_02">-koṭṭāli<supplied reason="omitted">ḥ</supplied></rdg></app>
+                     <app loc="35"><lem>jujjū-khātaka</lem><rdg source="bib:Sircar1967-1968_02">jujjū-khātaka<supplied reason="omitted">ṁ</supplied></rdg></app>
+                     <app loc="35"><lem>kāṣṭhaparṇṇī-khātaka </lem><rdg source="bib:Sircar1967-1968_02">jujjū-khātaka<supplied reason="omitted">ṁ</supplied></rdg></app>
+                     <app loc="35"><lem>vetraghaṭī-nadī</lem><rdg source="bib:Sircar1967-1968_02">vetraghaṭī-nadī <supplied reason="omitted">ca</supplied></rdg></app>
+                     <app loc="36"><lem>-candrapurābhidhānaṁ</lem><rdg source="bib:Sircar1967-1968_02">-candrapurābhidhānam</rdg></app>
+                     <app loc="36"><lem>vrahmāpuram</lem><rdg source="bib:Sircar1967-1968_02">vrahmapuram</rdg></app>
+                     <app loc="37"><lem>-phuṭṭakārthaṁ</lem><rdg source="bib:Sircar1967-1968_02">-ghuṭ<choice><sic>ṭa</sic><corr>i</corr></choice>kārthaṁ</rdg></app>
+                     <app loc="37"><lem>-pāṭakāḥ</lem><rdg source="bib:Sircar1967-1968_02">-pāṭakāḥ<g type="danda">.</g></rdg></app>
+                     <app loc="38"><lem>adhiṣṭhāya</lem><rdg source="bib:Sircar1967-1968_02">-adhiṣṭhā<choice><sic>y</sic><corr>n</corr></choice>a-</rdg></app>
+                     <app loc="39"><lem>ḍhakkāvāda-</lem><rdg source="bib:Sircar1967-1968_02">ḍhakkāvādaka-</rdg></app>
+                     <app loc="40"><lem>pratyekaṁ<g type="commaSmall">.</g></lem><rdg source="bib:Sircar1967-1968_02">pratyekaṁ</rdg></app>
+                     <app loc="41"><lem>-veṭṭikānāṁ</lem><rdg source="bib:Sircar1967-1968_02">-<choice><sic>v</sic><corr>c</corr></choice>eṭ<surplus>ṭ</surplus>ikānāṁ</rdg></app>
+                     <app loc="42"><lem>-adhika-</lem><rdg source="bib:Sircar1967-1968_02">-adhika<unclear>ṁ</unclear></rdg></app>
+                     <app loc="43"><lem>ca<g type="commaSmall">.</g></lem><rdg source="bib:Sircar1967-1968_02">ca<g type="ddanda">.</g></rdg></app>
+                     <app loc="46"><lem>-pāṭakaḥ</lem><rdg source="bib:Sircar1967-1968_02">-pāṭakaḥ<g type="danda">.</g></rdg></app>
+                     <app loc="48"><lem>Antaṭa</lem><rdg source="bib:Sircar1967-1968_02">Annaṭa</rdg></app>
+                     <app loc="50"><lem><unclear>jā</unclear>rggagupta</lem><rdg source="bib:Sircar1967-1968_02"><unclear cert="low">jyeṣṭha</unclear>gupta</rdg></app>
+                     <app loc="50"><lem>-śākhādhyāyibhyaḥ</lem><rdg source="bib:Sircar1967-1968_02">-śākhādhyāyibhyaḥ<g type="danda">.</g></rdg></app>
+                     <app loc="51"><lem>ca<g type="commaSmall">.</g></lem><rdg source="bib:Sircar1967-1968_02">ca<g type="ddanda">.</g></rdg></app>
+                     <app loc="53"><lem>-daśāp<choice><sic>ā</sic><corr>a</corr></choice>rādhāḥ</lem><rdg source="bib:Sircar1967-1968_02">-daśāparādhāḥ</rdg></app>
+                     <app loc="53"><lem>-cauroddharaṇāḥ</lem><rdg source="bib:Sircar1967-1968_02">-coroddharaṇāḥ</rdg></app>
+                     <app loc="55"><lem><choice><sic>s</sic><corr>m</corr></choice>ātā-</lem><rdg source="bib:Sircar1967-1968_02">-mātā-</rdg></app>
+                     <app loc="55"><lem>-saṅkrāntau<g type="commaSmall">.</g></lem><rdg source="bib:Sircar1967-1968_02">-saṅkrāntau</rdg></app>
+                     <app loc="58"><lem>-dine <num value="5">5</num></lem><rdg source="bib:Sircar1967-1968_02">-dine 5<g type="danda">.</g></rdg></app>
+                     <app loc="58"><lem>dharmmā<lb n="59" break="no"/>n<unclear>u</unclear><choice><sic>s</sic><corr>ś</corr></choice>a<unclear>ṁ</unclear><choice><sic>ś</sic><corr>s</corr></choice>inaḥ</lem><rdg source="bib:Sircar1967-1968_02">dharmmā<lb n="59" break="no"/>nuśaṁsinaḥ</rdg></app>
+                     <app loc="59"><lem>rājabhiḥ</lem><rdg source="bib:Sircar1967-1968_02">rājabhis</rdg></app>
+                     <app loc="61"><lem>vasu<choice><sic>d</sic><corr>n</corr></choice>dharāṁ</lem><rdg source="bib:Sircar1967-1968_02">vasundharāṁ</rdg></app>
+                     <app loc="63"><lem>sā<unclear>r</unclear>a-</lem><rdg source="bib:Sircar1967-1968_02">sāla-</rdg></app>
+                     <app loc="63"><lem>-de<lb n="64" break="no"/>vasya</lem><rdg source="bib:Sircar1967-1968_02">-de<surplus>ṁ</surplus><lb n="64" break="no"/>vasya</rdg></app>
+                     <app loc="64"><lem>kāṭṭīgrāma-</lem><rdg source="bib:Sircar1967-1968_02">kāligrāma-</rdg></app>
+                     <app loc="64"><lem>ya<unclear>ttr</unclear>a <unclear>ś</unclear>āsanam</lem><rdg source="bib:Sircar1967-1968_02">etac chāsanam</rdg></app>
+                     <app loc="65"><lem>sādr̥ś<choice><sic>ī</sic><corr>ya</corr></choice>ṁ</lem><rdg source="bib:Sircar1967-1968_02">sādr̥śyaṁ</rdg></app>
                </listApp>
              </div>               
          </div>
@@ -358,11 +359,11 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First published by Kamalakanta Gupta (Chaudhury)<bibl rend="omitname"><ptr target="bib:GuptaChaudhury1966_01"/></bibl> and republished in his collection of inscriptions<bibl rend="omitname"><ptr target="bib:Gupta1967_01"/><citedRange unit="page">81-152</citedRange></bibl>. Then re-edited by Dines Chandra Sircar<bibl rend="omitname"><ptr target="bib:Sircar1968_03"/></bibl>, and republished in his lecture series<bibl rend="omitname"><ptr target="bib:Sircar1973_01"/><citedRange unit="page">63-69</citedRange></bibl> and collection of inscriptions<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/><citedRange unit="page">92-100</citedRange></bibl>. Now re-edited based on the impressions attached to Sircar's first edition<bibl rend="omitname"><ptr target="bib:Sircar1968_03"/></bibl> and second publication<bibl rend="omitname"><ptr target="bib:Sircar1973_01"/><citedRange unit="page">63-69</citedRange></bibl>.</p>
+           <p>First published by Kamalakanta Gupta (Chaudhury)<bibl rend="omitname"><ptr target="bib:GuptaChaudhury1966_01"/></bibl> and republished in his collection of inscriptions<bibl rend="omitname"><ptr target="bib:Gupta1967_01"/><citedRange unit="page">81-152</citedRange></bibl>. Then re-edited by Dines Chandra Sircar<bibl rend="omitname"><ptr target="bib:Sircar1967-1968_02"/></bibl>, and republished in his lecture series<bibl rend="omitname"><ptr target="bib:Sircar1973_01"/><citedRange unit="page">63-69</citedRange></bibl> and collection of inscriptions<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/><citedRange unit="page">92-100</citedRange></bibl>. Now re-edited based on the impressions attached to Sircar's first edition<bibl rend="omitname"><ptr target="bib:Sircar1967-1968_02"/></bibl> and second publication<bibl rend="omitname"><ptr target="bib:Sircar1973_01"/><citedRange unit="page">63-69</citedRange></bibl>.</p>
         	<listBibl type="primary">
         	    <bibl n="KC1"><ptr target="bib:GuptaChaudhury1966_01"/></bibl>
         	    <bibl n="KC2"><ptr target="bib:Gupta1967_01"/><citedRange unit="page">81-152</citedRange></bibl>
-	    <bibl n="DCS1"><ptr target="bib:Sircar1968_03"/></bibl>
+	    <bibl n="DCS1"><ptr target="bib:Sircar1967-1968_02"/></bibl>
         	    <bibl n="DCS2"><ptr target="bib:Sircar1973_01"/><citedRange unit="page">63-69</citedRange></bibl>
         	    <bibl n="DCS3"><ptr target="bib:Sircar1983_01"/><citedRange unit="page">92-100</citedRange></bibl>
 	</listBibl>
