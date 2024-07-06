@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2024-07-06" status="draft">Text, apparatus and translation modified.</change>
             <change who="part:ryfu" when="2024-07-06" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2024-07-06" status="draft">Text, apparatus and translation modified.</change>
             <change who="part:ryfu" when="2024-03-08" status="draft">Translatiom modified.</change>
@@ -275,7 +276,7 @@
              </lg>
              <ab><g type="floretComplex"/></ab>
              <lg n="32" met="śārdūlavikrīḍita">
-                 <l n="a">kīrttau vāṭaka-bhūsaṇaṁ gaṇapateḥ sūnuḥ sa lakṣmīdharaḥ</l>
+                 <l n="a">kīrttau k<unclear>ā</unclear>ṭaka-bhūsaṇaṁ gaṇapateḥ sūnuḥ sa lakṣmīdharaḥ</l>
                  <l n="b">śrīman-mūrttiśivājñayā ha<lb n="32" break="no"/>rir abhūt sākṣād ihāyojakaḥ<g type="danda">.</g></l>
                  <l n="c">Arthi-prārthanam utsavo !‘tiguṇinaḥ prāṇāḥ priyā bhāratī</l>
                  <l n="d">pārā<supplied reason="omitted">r</supplied>thyaṁ puruṣa-vratam sama<g type="floretComplex"/>bhavad viprasya yasyāñjasā<g type="ddanda">.</g></l>
@@ -331,7 +332,8 @@
                   <app loc="25"><lem>-svīyārddhārddha-</lem><rdg source="bib:Sircar1980-1982_01">-svīyā<choice><sic>rddh</sic><corr>dhy</corr></choice>ārddha-</rdg></app>
                   <app loc="29"><lem>na</lem><rdg source="bib:Sircar1980-1982_01">n<choice><sic>ū</sic><corr>a</corr></choice></rdg></app>
                   <app loc="30"><lem>-<unclear>śa</unclear>ra-</lem><rdg source="bib:Sircar1980-1982_01">-<choice><sic>g</sic><corr>ś</corr></choice>ara-</rdg></app>
-                  <app loc="32"><lem>pārā<supplied reason="omitted">r</supplied>thyaṁ</lem><rdg source="bib:Sircar1980-1982_01">yāthā<supplied reason="omitted">r</supplied>thyaṁ</rdg></app>
+                  <app loc="31"><lem>k<unclear>ā</unclear>ṭaka-</lem><rdg source="bib:Sircar1980-1982_01">vāṭaka-</rdg></app>
+                   <app loc="32"><lem>pārā<supplied reason="omitted">r</supplied>thyaṁ</lem><rdg source="bib:Sircar1980-1982_01">yāthā<supplied reason="omitted">r</supplied>thyaṁ</rdg></app>
                   <app loc="33"><lem>śrīkaṇṭhaḥ</lem><rdg source="bib:Sircar1980-1982_01">srīkaṇṭhaḥ</rdg></app>
                   <app loc="35"><lem>'khanac</lem><rdg source="bib:Sircar1980-1982_01">'khanc</rdg></app>
                </listApp>
@@ -369,7 +371,7 @@
              <p rend="stanza" n="29">By him, undertaking the conquest of quarters and wandering through the circle of the earth, which had the oceans as an illustrious joining girdle, no speakers renowned in each quarter were <supplied reason="subaudible">un</supplied>defeated. That king Bhojadeva also praised <supplied reason="subaudible">him</supplied> after seeing the wonder of his fame, which obtained the performance of splitting a multitude of speakers loving the six logics.</p>
              <p rend="stanza" n="30">He, who had a sun-like quiver filled with arrows of diverse deductions, a bow of wisdom and ear ornaments of virtue of firm narratives, went to the glory of Hara the deer hunter following the forbidden road on deer that were heretic scholars.</p>
              <p rend="stanza" n="31">By this sage, who had the ocean of customs, an image, and also eulogy, of Mūrtiśiva, whose deeds were pure, was here caused to be made.</p>
-             <p rend="stanza" n="32">That Lakṣmīdhara, the son of Gaṇapati and the one like Hari, was here in this edifice the arranger of the decoration of the enclosure, by the order of illustrious Mūrtiśiva. For this very virtuous brāhmaṇa, truly, the request of supplicant was his joy, lovely word was his life and altruism was his vow as a man.</p>
+             <p rend="stanza" n="32">That Lakṣmīdhara, the ornament of Kāṭaka, the son of Gaṇapati and the one like Hari, was the organiser here in this monument, by the order of illustrious Mūrtiśiva. For this very virtuous brāhmaṇa, truly, the request of supplicant was his joy, lovely word was his life and altruism was his vow as a man.</p>
              <p rend="stanza" n="33">That preceptor of initiation for speakers, who was a swan in the wide lake of distinction of the meaning of the six logics, a bulb of much unlimited knowledge and the sole play house of beauty, he, Śrīkaṇṭha, having pure word, brāhmaṇa, poet, the son of Śrīnātha and the younger brother of Śrīvallabha, the mark among leaned men, composed this eulogy.</p>
              <p rend="stanza" n="34">As long as Gaṅgā, beautiful and resembling a garland of jasmine, is on the head <supplied reason="subaudible">of Sthāṇu</supplied>, as long as this Pārvatī is attached to the body of Sthāṇu <supplied reason="explanation">Śiva</supplied>, as if a creeper <supplied reason="subaudible">is attached</supplied> to <seg rend="pun">the body of a trunk</seg>, and as long as the entire fruit <supplied reason="subaudible">of action</supplied> is heavier even without the connection with a root, may the edifice of virtuous Mūrtiśambhu be present! </p>
              <p rend="stanza" n="35">Lakṣmīdhara, the grandson of Jīvadhara, the illustrious son of Śrīdhara, born in Magadha, engraved this excellent eulogy.</p> 
