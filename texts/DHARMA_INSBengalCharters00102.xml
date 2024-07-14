@@ -92,7 +92,7 @@
                  <lb n="1"/><ab>śrī-mahīpāla-devasya</ab>             
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
-                 <pb n="1r"/><lb n="01"/><ab>ni<gap reason="undefined" unit="character" quantity="37"/> ni</ab>
+                 <pb n="1r"/><lb n="01"/><ab>ni<gap reason="undefined" unit="character" quantity="37" precision="low"/> ni</ab>
                 <lb n="1"/> <p><g type="spiralR"/><!--siddham--> svasti<g type="danda">.</g></p>
                  <lg n="1" met="sragdharā">
                      <l n="a">maitrīṁ kāruṇya-ratna-pramudi<lb n="2" break="no"/>ta-hr̥dayaḥ preyasīṁ sandadhānaḥ</l>

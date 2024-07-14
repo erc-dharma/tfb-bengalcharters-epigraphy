@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:ryfu" when="2024-07-15" status="draft">Encoding modified.</change>
           <change who="part:ryfu" when="2024-07-12" status="draft">Translation modified.</change>
           <change who="part:ryfu" when="2023-11-14" status="draft">Encoding correction.</change>
           <change who="part:ryfu" when="2023-11-03" status="draft">Encoding corrections made.</change>
@@ -119,7 +120,7 @@
                  <ab><lb n="1"/>śrī-mahīpāladevasya</ab>
             </div>
             <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
-                <pb n="1r"/><lb n="01"/><ab>ni<space type="unclassified"  unit="character" quantity="32"/>ni<space type="vacat" unit="character" quantity="2"/></ab>
+                <pb n="1r"/><lb n="01"/><ab>ni<gap reason="undefined"  unit="character" quantity="32" precision="low"/>ni<space type="vacat" unit="character" quantity="2"/></ab>
                 <lb n="1"/><p><g type="spiralR"/><!-- siddham -->svasti</p>
                 <lg n="1" met="sragdharā">
                     <l n="a">maitrīṅ kāruṇya-ratna-pramudita-hr̥dayaḥ pre<lb n="2" break="no"/>yasīṁ saṁdadh<choice><sic>a</sic><corr>ā</corr></choice>naḥ</l>
