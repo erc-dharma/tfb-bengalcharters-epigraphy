@@ -106,12 +106,12 @@
                      <l n="a">maitrīṁ kāruṇya-ratna-pramudita-hr̥dayaḥ<lb n="2"/> preyasīṁ sandadhānaḥ</l>
                      <l n="b">samyak-samvodhi-vidyā-sarid-a<lb n="3" break="no"/>mala-jala-kṣālitājñāna-paṅkaḥ<g type="dandaStrokeLeft">.</g></l>
                      <l n="c">jitvā yaḥ kāma<lb n="4" break="no"/>-kāri-prabhavam abhibhavaṁ śā<choice><sic>s</sic><corr>ś</corr></choice>vatīṁ prāpa śāntiṁ</l>
-                     <l n="d">sa śrī<lb n="5" break="no"/>māl lokanātho jayati daśavalo !'nyaś ca gopāladevaḥ<g type="ddandaStrokeLeft">.</g></l>
+                     <l n="d">sa śrī<lb n="5" break="no"/>māl lokanātho jayati daśavalo 'nyaś ca gopāladevaḥ<g type="ddandaStrokeLeft">.</g></l>
                  </lg>
                  <lg n="2" met="śārdūlavikrīḍita">
                      <l n="a">lakṣmī-janma-niketanaṁ sama-karo voḍhuṁ kṣamaḥ kṣmā<lb n="6" break="no"/>-bharaṁ</l>
                      <l n="b">pakṣa-ccheda-bhayād upasthitavatām ekāśrayo bhūbhr̥tāṁ<g type="commaSmall">.</g></l>
-                     <l n="c">maryādā-paripālanaika-nirataḥ śauryālayo !'smā<lb n="7" break="no"/>d abhūd</l>
+                     <l n="c">maryādā-paripālanaika-nirataḥ śauryālayo 'smā<lb n="7" break="no"/>d abhūd</l>
                      <l n="d">dugdhāmbhodhi-vilāsa-hāsi-mahimā śrī-dharmmapālo nr̥paḥ<g type="ddandaStrokeLeft">.</g></l>
                  </lg>
                  <lg n="3" met="upajāti">
@@ -223,7 +223,7 @@
                  <lg n="16" met="śālinī">
                      <l n="a">sarvvān etān· bhāvinaḥ pārthivendrān·</l>
                      <l n="b">bhūyo bhūyaḥ prārthayaty eṣa<lb n="55"/> rāmaḥ<g type="commaSmall">.</g></l>
-                     <l n="c">sāmānyo !‘yaṁ dharma-setur nr̥pāṇāṁ</l>
+                     <l n="c">sāmānyo 'yaṁ dharma-setur nr̥pāṇāṁ</l>
                      <l n="d">kāle kāle pālanīyaḥ krameṇa<g type="ddandaStrokeLeft">.</g> <space unit="character" quantity="1"></space></l>
                  </lg>
                  <p>
@@ -237,8 +237,8 @@
                <listApp>
                   <app loc="01"><lem>ni<space type="vacat" unit="character" quantity="36"/>ni</lem><note>The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the upper left and right margins of the obverse of the plate.</note></app>
                   <app loc="4"><lem>śrī<lb n="5" break="no"/>māl lokanātho</lem><rdg source="bib:Mishra1981_01">śrī<lb n="5" break="no"/>māṁ llokanātho</rdg> <rdg source="bib:SubramoniaIyer2011-2012_01">śrī<lb n="5" break="no"/>mān lokanātho</rdg></app>
-                  <app loc="5"><lem>!'nyaś</lem><rdg source="bib:SubramoniaIyer2011-2012_01">nyaś</rdg></app>
-                  <app loc="6"><lem>!'smā<lb n="7" break="no"/>d</lem><rdg source="bib:SubramoniaIyer2011-2012_01">smā<lb n="7" break="no"/>d</rdg></app>
+                  <app loc="5"><lem>'nyaś</lem><rdg source="bib:SubramoniaIyer2011-2012_01">nyaś</rdg></app>
+                  <app loc="6"><lem>'smā<lb n="7" break="no"/>d</lem><rdg source="bib:SubramoniaIyer2011-2012_01">smā<lb n="7" break="no"/>d</rdg></app>
                   <app loc="8"><lem>-tapa<lb n="9" break="no"/>sas</lem><rdg source="bib:SubramoniaIyer2011-2012_01">-tapa<lb n="9" break="no"/>s</rdg></app>
                   <app loc="9"><lem>-<add place="inline">pra</add><lb n="10" break="no"/>sava-bhūr</lem><rdg source="bib:SubramoniaIyer2011-2012_01">pra<lb n="10" break="no"/>sav abhūd</rdg><note>The akṣara pra is squeezed to a narrow space, possibly added later.</note></app>
                   <app loc="12"><lem>yasmi<surplus>r</surplus>n</lem><rdg source="bib:SubramoniaIyer2011-2012_01">yasmin</rdg></app>
@@ -329,7 +329,7 @@
                   <app loc="54"><lem>vuddhvā</lem><rdg source="bib:SubramoniaIyer2011-2012_01">vudhvā</rdg></app>
                   <app loc="54"><lem>pārthivendrān·</lem><rdg source="bib:SubramoniaIyer2011-2012_01">pārthivendān</rdg></app>
                   <app loc="54"><lem>bhūyaḥ</lem><rdg source="bib:SubramoniaIyer2011-2012_01">bhūyaḥ yo</rdg></app>
-                  <app loc="55"><lem>!‘yaṁ</lem><rdg source="bib:SubramoniaIyer2011-2012_01">yaṁ</rdg></app>
+                  <app loc="55"><lem>'yaṁ</lem><rdg source="bib:SubramoniaIyer2011-2012_01">yaṁ</rdg></app>
                   <app loc="55"><lem>krameṇa</lem><rdg source="bib:SubramoniaIyer2011-2012_01">kramūṇa</rdg></app>
                   <app loc="55"><lem>marālikā-grāmasya</lem><rdg source="bib:SubramoniaIyer2011-2012_01">marālikā yām asya</rdg></app>
                   <app loc="56"><lem>-samvatsara-</lem><rdg source="bib:SubramoniaIyer2011-2012_01">saṁvatsara</rdg></app>
