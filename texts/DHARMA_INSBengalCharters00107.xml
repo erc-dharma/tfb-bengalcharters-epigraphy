@@ -386,7 +386,7 @@
              <p n="72">This line is engraved at the bottom of the reverse and aligned to the centre.</p>
          </div>
         <div type="bibliography">
-           <p>First edited and published by  D. C. Sircar<bibl rend="omitname"><ptr target="bib:Sircar1973-1974_02"/></bibl>. Here re-edited by Ryosuke Furui on the estampages attached to <bibl><ptr target="bib:Sircar1973_02"/></bibl> and <bibl><ptr target="bib:Sircar1982_01"/></bibl>. Need to be rechecked against the actual plate held by the State Museum, Lucknow.</p>
+           <p>First edited and published by  D. C. Sircar<bibl rend="omitname"><ptr target="bib:Sircar1973-1974_02"/></bibl>. Here re-edited by Ryosuke Furui on the estampages attached to <bibl><ptr target="bib:Sircar1973-1974_02"/></bibl> and <bibl><ptr target="bib:Sircar1982_01"/></bibl>. Need to be rechecked against the actual plate held by the State Museum, Lucknow.</p>
         	<listBibl type="primary">				
         	    <bibl n="DCS"><ptr target="bib:Sircar1973-1974_02"/></bibl>			
         	</listBibl>
