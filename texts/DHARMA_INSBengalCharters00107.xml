@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2024-07-22" status="draft">Reference corrected.</change>
             <change who="part:ryfu" when="2023-11-03" status="draft">Encoding correction made.</change>
             <change who="part:ryfu" when="2022-12-21" status="draft">Translation and bibliography completed.</change>
             <change who="part:ryfu" when="2022-12-21" status="draft">Translation in progress.</change>
@@ -297,42 +298,42 @@
          </div>
          <div type="apparatus">
                <listApp>
-                  <app loc="12"><lem>-bhr̥tān·</lem><rdg source="bib:Sircar1973_02">-bhr̥tām</rdg></app>
-                  <app loc="15"><lem>-<choice><sic>v</sic><corr>n</corr></choice>īhāra-</lem><rdg source="bib:Sircar1973_02">-nīhāra-</rdg></app>
-                  <app loc="16"><lem>ihā<lb n="17" break="no"/>vadhīn</lem><rdg source="bib:Sircar1973_02">ihāvadhin</rdg></app>
-                  <app loc="18"><lem>vahūn<unclear>·</unclear></lem><rdg source="bib:Sircar1973_02">vabhūn</rdg></app>
-                  <app loc="19"><lem>kṣīrāvdher</lem><rdg source="bib:Sircar1973_02">kṣīravdher</rdg></app>
-                  <app loc="19"><lem>yac-<unclear>c</unclear>am<unclear>ū</unclear>nāṁ*</lem><rdg source="bib:Sircar1973_02">yacamanāḥ</rdg></app>
-                  <app loc="20"><lem>-patiṁ*</lem><rdg source="bib:Sircar1973_02">-patiḥ</rdg></app>
-                  <app loc="23"><lem>turagāN<g type="danda">.</g></lem><rdg source="bib:Sircar1973_02">turagān</rdg><note>A danda, which DCS omitted, is clear.</note></app>
-                  <app loc="24"><lem>taraṇeḥ</lem><rdg source="bib:Sircar1973_02">taraṅeḥ</rdg><note>Probably a printing mistake.</note></app>
-                  <app loc="24"><lem>-lākṣmi<g type="danda">.</g></lem><rdg source="bib:Sircar1973_02">lakṣmī<supplied reason="omitted"><g type="danda">.</g></supplied></rdg></app>
-                  <app loc="25"><lem>-d<unclear>v</unclear>īpādhipa-</lem><rdg source="bib:Sircar1973_02">-dīpādhipa-</rdg></app>
-                  <app loc="28"><lem>śailātmajāru<choice><sic>d</sic><corr>n</corr></choice>dhatī</lem><rdg source="bib:Sircar1973_02">śailātamajāru<supplied reason="omitted">ṁ</supplied>dhatī</rdg></app>
-                  <app loc="29"><lem>jayānujātām</lem><rdg source="bib:Sircar1973_02">jayānujatām</rdg></app>
-                  <app loc="32"><lem>vāmanaṁ</lem><rdg source="bib:Sircar1973_02">vamanaṁ</rdg></app>
-                  <app loc="32"><lem>se<lb n="33" break="no"/>ṣam</lem><rdg source="bib:Sircar1973_02">se<lb n="33" break="no"/><supplied reason="omitted">r</supplied>ṣa<supplied reason="omitted">ya</supplied>m</rdg><note>Emdenment is impermissible in view of metre.</note></app>
-                  <app loc="33"><lem>-nirbhu<lb n="34" break="no"/>gna-</lem><rdg source="bib:Sircar1973_02">-nirbhu<lb n="34" break="no"/>gṇa-</rdg><note>Probably a printing mistake.</note></app>
-                  <app loc="34"><lem>-vāla<unclear>ṁ*</unclear></lem><rdg source="bib:Sircar1973_02">-vālaṁ</rdg><note>DCS notes that there is what looks like an unnecessary daṇḍa.</note></app>
-                  <app loc="35"><lem>-hansānā<unclear>ṁ</unclear> nonmamajja</lem><rdg source="bib:Sircar1973_02">-hansānām unmamajja</rdg></app>
-                  <app loc="36"><lem>-dhrāṁ*</lem><rdg source="bib:Sircar1973_02">-dharāḥ</rdg></app>
-                  <app loc="36"><lem>nāg<unclear>ī</unclear></lem><rdg source="bib:Sircar1973_02">nāgo</rdg></app>
-                  <app loc="36"><lem>-bhrāntibhi<lb n="37" break="no"/>r</lem><rdg source="bib:Sircar1973_02">-bhrāntibhir<lb n="37"/></rdg></app>
-                  <app loc="37"><lem>malinitāḥ</lem><rdg source="bib:Sircar1973_02">ma<choice><sic>l</sic><corr>ṇ</corr></choice>i-nibhāḥ</rdg></app>
-                  <app loc="37"><lem>k<choice><sic>a</sic><corr>ā</corr></choice>ṣṭhāṁ</lem><rdg source="bib:Sircar1973_02">kasyāṁ</rdg></app>
-                  <app loc="41"><lem>-niṣṭhyūta-</lem><rdg source="bib:Sircar1973_02">-ni<choice><sic>p</sic><corr>ṣṭh</corr></choice>yūta-</rdg></app>
-                  <app loc="43"><lem>vikīrṇṇ<choice><sic>aḥ</sic><corr>ā</corr></choice></lem><rdg source="bib:Sircar1973_02">vikīrṇ<choice><sic>ṇa</sic><corr>ā</corr></choice>ḥ</rdg></app>
-                  <app loc="48"><lem>para<supplied reason="omitted">ma</supplied>saugata-</lem><rdg source="bib:Sircar1973_02">paramasaugata-</rdg></app>
-                  <app loc="49"><lem>paramabhaṭṭārako</lem><rdg source="bib:Sircar1973_02">paramabhaṭṭāraka<unclear>ḥ</unclear></rdg></app>
-                  <app loc="53"><lem>dāśāparādhika</lem><rdg source="bib:Sircar1973_02">dāśaparādhika</rdg><note>Probably a printing mistake.</note></app>
-                  <app loc="57"><lem>bhavatān·</lem><rdg source="bib:Sircar1973_02">bhavatām</rdg></app>
-                  <app loc="59"><lem><supplied reason="subaudible">'</supplied>bhivr̥ddhaye</lem><rdg source="bib:Sircar1973_02">bhivr̥ddhaye<g type="danda">.</g></rdg></app>
-                  <app loc="60"><lem>grāmā</lem><rdg source="bib:Sircar1973_02">grāma</rdg></app>
-                  <app loc="60"><lem>-yūti-</lem><rdg source="bib:Sircar1973_02">-yuti-</rdg></app>
-                  <app loc="62"><lem>-nyāye<unclear>n</unclear>ā-</lem><rdg source="bib:Sircar1973_02">-nyāye<choice><sic>t</sic><corr>n</corr></choice>a<g type="danda">.</g></rdg></app>
-                  <app loc="67"><lem>vu<supplied reason="omitted">d</supplied>dhvā</lem><rdg source="bib:Sircar1973_02">vuddh<supplied reason="omitted">v</supplied>ā</rdg></app>
-                  <app loc="68"><lem>-kula-</lem><rdg source="bib:Sircar1973_02">-k<choice><sic>ū</sic><corr>u</corr></choice>la-</rdg></app>
-                  <app loc="68"><lem>abhyan<unclear>u</unclear>modanīyaṁ*</lem><rdg source="bib:Sircar1973_02">abhyan<choice><sic>ū</sic><corr>u</corr></choice>modanīya<choice><sic>ṁ</sic><corr>m</corr></choice></rdg></app>
+                  <app loc="12"><lem>-bhr̥tān·</lem><rdg source="bib:Sircar1973-1974_02">-bhr̥tām</rdg></app>
+                  <app loc="15"><lem>-<choice><sic>v</sic><corr>n</corr></choice>īhāra-</lem><rdg source="bib:Sircar1973-1974_02">-nīhāra-</rdg></app>
+                  <app loc="16"><lem>ihā<lb n="17" break="no"/>vadhīn</lem><rdg source="bib:Sircar1973-1974_02">ihāvadhin</rdg></app>
+                  <app loc="18"><lem>vahūn<unclear>·</unclear></lem><rdg source="bib:Sircar1973-1974_02">vabhūn</rdg></app>
+                  <app loc="19"><lem>kṣīrāvdher</lem><rdg source="bib:Sircar1973-1974_02">kṣīravdher</rdg></app>
+                  <app loc="19"><lem>yac-<unclear>c</unclear>am<unclear>ū</unclear>nāṁ*</lem><rdg source="bib:Sircar1973-1974_02">yacamanāḥ</rdg></app>
+                  <app loc="20"><lem>-patiṁ*</lem><rdg source="bib:Sircar1973-1974_02">-patiḥ</rdg></app>
+                  <app loc="23"><lem>turagāN<g type="danda">.</g></lem><rdg source="bib:Sircar1973-1974_02">turagān</rdg><note>A danda, which DCS omitted, is clear.</note></app>
+                  <app loc="24"><lem>taraṇeḥ</lem><rdg source="bib:Sircar1973-1974_02">taraṅeḥ</rdg><note>Probably a printing mistake.</note></app>
+                  <app loc="24"><lem>-lākṣmi<g type="danda">.</g></lem><rdg source="bib:Sircar1973-1974_02">lakṣmī<supplied reason="omitted"><g type="danda">.</g></supplied></rdg></app>
+                  <app loc="25"><lem>-d<unclear>v</unclear>īpādhipa-</lem><rdg source="bib:Sircar1973-1974_02">-dīpādhipa-</rdg></app>
+                  <app loc="28"><lem>śailātmajāru<choice><sic>d</sic><corr>n</corr></choice>dhatī</lem><rdg source="bib:Sircar1973-1974_02">śailātamajāru<supplied reason="omitted">ṁ</supplied>dhatī</rdg></app>
+                  <app loc="29"><lem>jayānujātām</lem><rdg source="bib:Sircar1973-1974_02">jayānujatām</rdg></app>
+                  <app loc="32"><lem>vāmanaṁ</lem><rdg source="bib:Sircar1973-1974_02">vamanaṁ</rdg></app>
+                  <app loc="32"><lem>se<lb n="33" break="no"/>ṣam</lem><rdg source="bib:Sircar1973-1974_02">se<lb n="33" break="no"/><supplied reason="omitted">r</supplied>ṣa<supplied reason="omitted">ya</supplied>m</rdg><note>Emdenment is impermissible in view of metre.</note></app>
+                  <app loc="33"><lem>-nirbhu<lb n="34" break="no"/>gna-</lem><rdg source="bib:Sircar1973-1974_02">-nirbhu<lb n="34" break="no"/>gṇa-</rdg><note>Probably a printing mistake.</note></app>
+                  <app loc="34"><lem>-vāla<unclear>ṁ*</unclear></lem><rdg source="bib:Sircar1973-1974_02">-vālaṁ</rdg><note>DCS notes that there is what looks like an unnecessary daṇḍa.</note></app>
+                  <app loc="35"><lem>-hansānā<unclear>ṁ</unclear> nonmamajja</lem><rdg source="bib:Sircar1973-1974_02">-hansānām unmamajja</rdg></app>
+                  <app loc="36"><lem>-dhrāṁ*</lem><rdg source="bib:Sircar1973-1974_02">-dharāḥ</rdg></app>
+                  <app loc="36"><lem>nāg<unclear>ī</unclear></lem><rdg source="bib:Sircar1973-1974_02">nāgo</rdg></app>
+                  <app loc="36"><lem>-bhrāntibhi<lb n="37" break="no"/>r</lem><rdg source="bib:Sircar1973-1974_02">-bhrāntibhir<lb n="37"/></rdg></app>
+                  <app loc="37"><lem>malinitāḥ</lem><rdg source="bib:Sircar1973-1974_02">ma<choice><sic>l</sic><corr>ṇ</corr></choice>i-nibhāḥ</rdg></app>
+                  <app loc="37"><lem>k<choice><sic>a</sic><corr>ā</corr></choice>ṣṭhāṁ</lem><rdg source="bib:Sircar1973-1974_02">kasyāṁ</rdg></app>
+                  <app loc="41"><lem>-niṣṭhyūta-</lem><rdg source="bib:Sircar1973-1974_02">-ni<choice><sic>p</sic><corr>ṣṭh</corr></choice>yūta-</rdg></app>
+                  <app loc="43"><lem>vikīrṇṇ<choice><sic>aḥ</sic><corr>ā</corr></choice></lem><rdg source="bib:Sircar1973-1974_02">vikīrṇ<choice><sic>ṇa</sic><corr>ā</corr></choice>ḥ</rdg></app>
+                  <app loc="48"><lem>para<supplied reason="omitted">ma</supplied>saugata-</lem><rdg source="bib:Sircar1973-1974_02">paramasaugata-</rdg></app>
+                  <app loc="49"><lem>paramabhaṭṭārako</lem><rdg source="bib:Sircar1973-1974_02">paramabhaṭṭāraka<unclear>ḥ</unclear></rdg></app>
+                  <app loc="53"><lem>dāśāparādhika</lem><rdg source="bib:Sircar1973-1974_02">dāśaparādhika</rdg><note>Probably a printing mistake.</note></app>
+                  <app loc="57"><lem>bhavatān·</lem><rdg source="bib:Sircar1973-1974_02">bhavatām</rdg></app>
+                  <app loc="59"><lem><supplied reason="subaudible">'</supplied>bhivr̥ddhaye</lem><rdg source="bib:Sircar1973-1974_02">bhivr̥ddhaye<g type="danda">.</g></rdg></app>
+                  <app loc="60"><lem>grāmā</lem><rdg source="bib:Sircar1973-1974_02">grāma</rdg></app>
+                  <app loc="60"><lem>-yūti-</lem><rdg source="bib:Sircar1973-1974_02">-yuti-</rdg></app>
+                  <app loc="62"><lem>-nyāye<unclear>n</unclear>ā-</lem><rdg source="bib:Sircar1973-1974_02">-nyāye<choice><sic>t</sic><corr>n</corr></choice>a<g type="danda">.</g></rdg></app>
+                  <app loc="67"><lem>vu<supplied reason="omitted">d</supplied>dhvā</lem><rdg source="bib:Sircar1973-1974_02">vuddh<supplied reason="omitted">v</supplied>ā</rdg></app>
+                  <app loc="68"><lem>-kula-</lem><rdg source="bib:Sircar1973-1974_02">-k<choice><sic>ū</sic><corr>u</corr></choice>la-</rdg></app>
+                  <app loc="68"><lem>abhyan<unclear>u</unclear>modanīyaṁ*</lem><rdg source="bib:Sircar1973-1974_02">abhyan<choice><sic>ū</sic><corr>u</corr></choice>modanīya<choice><sic>ṁ</sic><corr>m</corr></choice></rdg></app>
                </listApp>
          </div>
          <div type="translation" resp="part:ryfu">
@@ -385,9 +386,9 @@
              <p n="72">This line is engraved at the bottom of the reverse and aligned to the centre.</p>
          </div>
         <div type="bibliography">
-           <p>First edited and published by  D. C. Sircar<bibl rend="omitname"><ptr target="bib:Sircar1973_02"/></bibl>. Here re-edited by Ryosuke Furui on the estampages attached to <bibl><ptr target="bib:Sircar1973_02"/></bibl> and <bibl><ptr target="bib:Sircar1982_01"/></bibl>. Need to be rechecked against the actual plate held by the State Museum, Lucknow.</p>
+           <p>First edited and published by  D. C. Sircar<bibl rend="omitname"><ptr target="bib:Sircar1973-1974_02"/></bibl>. Here re-edited by Ryosuke Furui on the estampages attached to <bibl><ptr target="bib:Sircar1973_02"/></bibl> and <bibl><ptr target="bib:Sircar1982_01"/></bibl>. Need to be rechecked against the actual plate held by the State Museum, Lucknow.</p>
         	<listBibl type="primary">				
-        	    <bibl n="DCS"><ptr target="bib:Sircar1973_02"/></bibl>			
+        	    <bibl n="DCS"><ptr target="bib:Sircar1973-1974_02"/></bibl>			
         	</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Sircar1982_01"/><citedRange unit="page">77-80</citedRange></bibl>
