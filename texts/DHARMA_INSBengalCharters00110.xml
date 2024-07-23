@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Rangpur Copperplate Inscription of Mahīpāla I, year 5</title>
+                <title>Rangpur Plate of Mahīpāla I, year 5</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <!-- Work done in the file, e.g. editor ...-->
@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2024-07-23" status="draft">Title changed.</change>
             <change who="part:ryfu" when="2024-07-22" status="draft">Text, apparatus and translation completed.</change>
             <change who="part:ryfu" when="2024-07-21" status="draft">Initial encoding.</change>
         </revisionDesc>
