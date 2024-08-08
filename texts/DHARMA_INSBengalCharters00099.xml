@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2024\08\08" status="draft">Encoding error corrected.</change>
             <change who="part:ryfu" when="2024-04-26" status="draft">Translation and commentary encoded.</change>
             <change who="part:ryfu" when="2024-04-23" status="draft">Text and apparatus completed.</change>
             <change who="part:ryfu" when="2024-04-22" status="draft">Text and apparatus revised.</change>
@@ -107,7 +108,7 @@
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                  <pb n="1r"/><lb n="1"/><p><g type="spiralL"/><!-- siddham --> <unclear>svasti</unclear></p>
-                 <lg rend="stanza" n="1" met="vasantatilakā">
+                 <lg n="1" met="vasantatilakā">
                      <l n="a"><unclear>sarvva</unclear>-jñatāṁ śriyam iva sthiram āsthitasya</l>
                      <l n="b">vajrāsanasya vahu-māra-<unclear>ku</unclear>lopalambhāḥ<g type="danda">.</g></l>
                      <l n="c">de<lb n="2" break="no"/>vyā mahā<unclear>karu</unclear>ṇa<unclear>yā pa</unclear>ripālitāni</l>
