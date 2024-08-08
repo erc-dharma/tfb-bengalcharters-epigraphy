@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2024-08-08" status="draft">Encoding errors corrected.</change>
             <change who="part:ryfu" when="2024-07-25" status="draft">Commentary added.</change>
             <change who="part:ryfu" when="2024-07-25" status="draft">Text, apparatus and translation revised.</change>
             <change who="part:ryfu" when="2024-07-25" status="draft">Text and apparatus revised.</change>
@@ -293,10 +294,10 @@
                  </lg>
                  <lg n="31" met="anuṣṭubh">
                      <l n="ab"><lb n="70"/>śrīmān· śrī-śūrapālena nr̥pa-candramasā kr̥taḥ<g type="danda">.</g></l>
-                     <l n="cd">harir yudhiṣṭhireṇeva valavarmmātra dūtakaḥ<g type="ddandaStrokeLeft">.</g><space type="vacat" unit="character" quantity="20" cert="low"/></l>
+                     <l n="cd">harir yudhiṣṭhireṇeva valavarmmātra dūtakaḥ<g type="ddandaStrokeLeft">.</g><space type="vacat" unit="character" quantity="20"/></l>
                  </lg>
-                 <ab><lb n="71"/><space type="vacat" unit="character" quantity="4"/>ni<space type="vacat" unit="character" quantity="38" cert="low"/>ni<space type="vacat" unit="character" quantity="4"/></ab>
-                 <p><lb n="72"/><space type="vacat" unit="character" quantity="14" cert="low"/>Utk<choice><sic>i</sic><corr>ī</corr></choice>rṇṇam idaṁ śā<choice><sic>ś</sic><corr>s</corr></choice>anaṁ sāmanta-dakkadāsa-vairocanadāsābhyāṁ<g type="ddandaStrokeLeft">.</g><space type="vacat" unit="character" quantity="18" cert="low"/></p>
+                 <ab><lb n="71"/><space type="vacat" unit="character" quantity="4"/>ni<space type="vacat" unit="character" quantity="38"/>ni<space type="vacat" unit="character" quantity="4"/></ab>
+                 <p><lb n="72"/><space type="vacat" unit="character" quantity="14"/>Utk<choice><sic>i</sic><corr>ī</corr></choice>rṇṇam idaṁ śā<choice><sic>ś</sic><corr>s</corr></choice>anaṁ sāmanta-dakkadāsa-vairocanadāsābhyāṁ<g type="ddandaStrokeLeft">.</g><space type="vacat" unit="character" quantity="18" cert="low"/></p>
              </div>
          </div>
          <div type="apparatus">
