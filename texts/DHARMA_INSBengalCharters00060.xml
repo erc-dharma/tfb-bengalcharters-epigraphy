@@ -53,24 +53,6 @@
                   <!-- offers the possibility to give a summary of the inscription's content -->
                </msContents>
                <physDesc>
-                  <objectDesc>
-                     <supportDesc>
-                        <support>
-                           <p>A <objectType>slab</objectType> of <material>gray schist</material>:
-                                        <dimensions>
-                                 <width unit="cm">66</width>
-                                 <height unit="cm">31</height>
-                                 <depth unit="cm">7</depth>
-                              </dimensions>.
-                                    </p>
-                        </support>
-                     </supportDesc>
-                     <layoutDesc>
-                        <layout>
-                           <p>Six lines of inscription, engraved on the upper half of the surface. Of them, the three lines from the third and fourth run across a fleuron and a image of camel, and the last stops short before the same image.</p>
-                        </layout>
-                     </layoutDesc>
-                  </objectDesc>
                   <handDesc>
                      <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
                      <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
@@ -79,25 +61,7 @@
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
                   </handDesc>
-                  <decoDesc>
-                     <decoNote>High relief in the lower part, which depicts three animals facing to the right: a donkey copulating with a sow and a camel behind them. A fleuron above the head of camel.</decoNote>
-                  </decoDesc>
                </physDesc>
-               <history>
-                  <origin>
-                     <origDate notBefore="1000" notAfter="1050">
-                                Āśvina day (Autumn Equinox), the 33rd year of the reign of Mahīpāla I. On the other circumstantial evidence, assignable to the first half of the eleventh century.
-                            </origDate>
-                  </origin>
-                  <provenance type="found">
-                     <p>
-                                Mound Rajbhita in Hatpada mauza (village) of Jabarhat union, Pirganj upazila, Thakurgaon district in Rangpur subdivision, Bangladesh.
-                            </p>
-                  </provenance>
-                  <provenance type="autopsy">
-                     <date when="2009-07-22">22 July 2009</date>
-                  </provenance>
-               </history>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -123,6 +87,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:ryfu" when="2024-08-08" status="draft">Unpermitted encodings removed.</change>
           <change who="part:ryfu" when="2023-11-15" status="draft">Encoding corrections.</change>
           <change who="part:ryfu" when="2023-11-14" status="draft">Encoding corrections.</change>
           <change who="part:ryfu" when="2023-11-03" status="draft">Encoding corrections made.</change>
