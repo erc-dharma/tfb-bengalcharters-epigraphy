@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2024-12-16" status="draft">A symbol modified.</change>
             <change who="part:ryfu" when="2024-08-08" status="draft">Encoding errors corrected.</change>
             <change who="part:ryfu" when="2024-07-23" status="draft">Title changed.</change>
             <change who="part:ryfu" when="2024-07-22" status="draft">Text, apparatus and translation completed.</change>
@@ -160,7 +161,7 @@
                      <l n="a">hata-sakala-vipakṣaḥ saṅgare vāhu-da<unclear>r</unclear>ppād</l>
                      <l n="b">anadhikr̥ta-viluptaṁ rā<choice><sic>t</sic><corr>j</corr></choice>yam āsādya pi<unclear>tr</unclear>ya<unclear>ṁ</unclear><g type="danda">.</g></l>
                      <l n="c"><unclear>ni</unclear>hita-caraṇa-padmo bhū-bhujāṁ mūrddhni tasmād</l>
-                     <l n="d">abhavad a<lb n="20" break="no"/><unclear>va</unclear>ni-pālaḥ śrī-mahīpāla-devaḥ<g type="dandaNotch"/><g type="ddanda">.</g></l>
+                     <l n="d">abhavad a<lb n="20" break="no"/><unclear>va</unclear>ni-pālaḥ śrī-mahīpāla-devaḥ<space unit="character" quantity="1"/><g type="indistinct"/><space unit="character" quantity="1"/><g type="ddanda">.</g></l>
                  </lg>
                  <p n="20-24">sa khalu bhāgīrathī-patha-pravarttamā<choice><sic>śva</sic><corr>na</corr></choice>-nānā-vidha-nau-vāṭaka-sampādita<lb 
                      n="21" break="no"/>-setu-vandha-nihita-śaila-śikhara-śreṇī-vibhramāt·<g type="danda">.</g> niratiśaya-<unclear>gha</unclear>na-ghanāghana-ghaṭā-śyāmāyamāna-vāsara<lb 
@@ -256,7 +257,7 @@
                    <app loc="17"><lem>bhrāntvā</lem><rdg source="bib:Furui2011_03">bhārntvā</rdg></app>
                    <app loc="18"><lem>jaḍatāṁ</lem><rdg source="bib:Furui2011_03">jaḍatā</rdg></app>
                    <app loc="19"><lem>-viluptaṁ</lem><rdg source="bib:Furui2011_03">viluptam</rdg></app>
-                   <app loc="20"><lem><g type="dandaNotch"/></lem><note>A space filler expressed by a horizontal stroke with a circle to its bottom.</note></app>
+                   <app loc="20"><lem><g type="indistinct"/></lem><note>An indistinct symbol, looks like a small circle topped by a straight, vertical stroke.</note></app>
                    <app loc="26"><lem>kuśalī<g type="ddanda">.</g></lem><rdg source="bib:Furui2011_03">kuśalī<g type="danda">.</g></rdg></app>
                    <app loc="28"><lem>sam<unclear>ulluvī</unclear>-<unclear>kr̥</unclear>ta-</lem><rdg source="bib:Furui2011_03">sama<unclear cert="low">ktavī</unclear>-huta-</rdg></app>
                    <app loc="28"><lem>-<unclear>vr̥dhy-ā</unclear>ga<unclear>ta-tala</unclear>gam vihāya</lem><rdg source="bib:Furui2011_03">-<unclear>ku</unclear>kudhroge <unclear cert="low">talaya</unclear>-gamvi-hāsa-</rdg></app>
