@@ -256,7 +256,7 @@
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="01"><lem>ni<gap reason="undefined" unit="character" quantity="45" precision="low"/>ni</lem><note>>The decorated character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved at the both ends of the line 1.</note></app>
                    <app loc="19"><lem>-dhvānta<choice><sic>ṁ</sic><corr>ḥ</corr></choice></lem><rdg source="bib:Sircar1951-1952_01">-dhvānta<supplied reason="omitted">ḥ</supplied></rdg></app>
-                   <app loc="19"><lem>-vasatis tato</lem><rdg source="bib:Sircar1951-1951_01">-vasati<supplied reason="omitted">ḥ</supplied> suto</rdg></app>
+                   <app loc="19"><lem>-vasatis tato</lem><rdg source="bib:Sircar1951-1952_01">-vasati<supplied reason="omitted">ḥ</supplied> suto</rdg></app>
                    <app loc="19"><lem>dhanyaḥ</lem><rdg source="bib:Sircar1951-1952_01"><choice><sic>v</sic><corr>dh</corr></choice>an<unclear>ya</unclear>ḥ</rdg></app>
                    <app loc="20"><lem>rañjaya<unclear>n</unclear></lem><rdg source="bib:Sircar1951-1952_01">rañjaya<supplied reason="omitted">ṁ</supplied>s</rdg></app>
                    <app loc="21 "><lem>puṇyair</lem><rdg source="bib:Sircar1951-1952_01">puṇyā-</rdg></app>
@@ -268,7 +268,7 @@
                    <app loc="36"><lem>-pādopajīvinaḥ</lem><rdg source="bib:Sircar1951-1952_01">-pādopajīvinaḥ<g type="danda">.</g></rdg></app>
                    <app loc="37"><lem>mahattamottama<g type="danda">.</g></lem><rdg source="bib:Sircar1951-1952_01">mahattamottama-</rdg></app>
                    <app loc="38"><lem>-<choice><sic>n</sic><corr>t</corr></choice>r̥ṇa-</lem><rdg source="bib:Sircar1951-1952_01">-<unclear>tr̥</unclear>ṇa-</rdg></app>
-                   <app loc="38"><lem>-pūti-</lem><rdg source="bib:Sircar1951-1952">-yūti-</rdg></app>
+                   <app loc="38"><lem>-pūti-</lem><rdg source="bib:Sircar1951-1952_01">-yūti-</rdg></app>
                    <app loc="40"><lem>-nyāyena<g type="danda">.</g></lem><rdg source="bib:Sircar1951-1952_01">-nyāyena</rdg></app>
                    <app loc="41"><lem>uddi<choice><sic>s</sic><corr>ś</corr></choice>ya</lem><rdg source="bib:Sircar1951-1952_01">uddiśya</rdg></app>
                    <app loc="42"><lem>-vidyā-</lem><rdg source="bib:Sircar1951-1952_01"/></app>
