@@ -254,7 +254,7 @@
          <div type="apparatus">
              <div type="textpart" n="B">
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="01"><lem>ni<gap reason="undefined" unit="character" quantity="45" precision="low"/>ni</lem><note>>The decorated character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved at the both ends of the line 1.</note></app>
+                  <app loc="01"><lem>ni<gap reason="undefined" unit="character" quantity="45" precision="low"/>ni</lem><note>The decorated character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved at the both ends of the line 1.</note></app>
                    <app loc="19"><lem>-dhvānta<choice><sic>ṁ</sic><corr>ḥ</corr></choice></lem><rdg source="bib:Sircar1951-1952_01">-dhvānta<supplied reason="omitted">ḥ</supplied></rdg></app>
                    <app loc="19"><lem>-vasatis tato</lem><rdg source="bib:Sircar1951-1952_01">-vasati<supplied reason="omitted">ḥ</supplied> suto</rdg></app>
                    <app loc="19"><lem>dhanyaḥ</lem><rdg source="bib:Sircar1951-1952_01"><choice><sic>v</sic><corr>dh</corr></choice>an<unclear>ya</unclear>ḥ</rdg></app>
