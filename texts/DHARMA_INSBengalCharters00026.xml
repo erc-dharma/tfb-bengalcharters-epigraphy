@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:ryfu" when="2025-01-14" status="draft">Encoding modified.</change>
           <change who="part:ryfu" when="2024-07-22" status="draft">Translation encoding modified.</change>
           <change who="part:ryfu" when="2024-07-15" status="draft">Encoding modified.</change>
           <change who="part:ryfu" when="2024-07-12" status="draft">Translation modified.</change>
@@ -199,7 +200,7 @@
                     <lb n="25"/><space type="vacat" quantity="5" unit="character"/>-samāvāsita-śrīmaj-jaya-skandhāvārāt·<g type="danda">.</g> paramasaugato mahārājādhirāja-śrī-vigrahapāla-deva-pādānu
                     <lb n="26" break="no"/>dhyātaḥ<g type="danda">.</g> parameśvaraḥ paramabhaṭṭ<choice><sic>a</sic><corr>ā</corr></choice>rako mahārāj<choice><sic>a</sic><corr>ā</corr></choice>dhirājaḥ śrīmān mahīpāla-devaḥ kuśalī<g type="ddanda">.</g> śrī-pu<surplus>r</surplus>ṇḍravarddhana-bhuktau<g type="danda">.</g>
                     <lb n="27"/>koṭīvarṣa-viṣaye<g type="danda">.</g> Ama<space  quantity="1" unit="character"/>lakī-maṇḍalāntaḥpāti-sva-samvaddhāvicchinna-talopeta<space quantity="2" unit="character"/>
-                    <lb n="28"/>-palāśavr̥nde<g type="danda">.</g> sahasra-purāṇa-pramāṇe<g type="danda">.</g><gap reason="omitted"  extent="unknown"/>
+                    <lb n="28"/>-palāśavr̥nde<g type="danda">.</g> <num value="1000">sahasra</num>-purāṇa-pramāṇe<g type="danda">.</g><gap reason="omitted"  extent="unknown"/>
                     <pb n="1v"/><lb n="29"/><gap reason="omitted" quantity="6" unit="character"/>samu<supplied reason="omitted">pa</supplied>gatāśeṣa-rāja-puruṣān·<g type="danda">.</g> rāja<g type="danda">.</g> rā
                     <lb n="30" break="no"/>janyaka<unclear><g type="danda">.</g> rā</unclear>japutra<g type="danda">.</g> rājāmātya<g type="danda">.</g> mahāsāndhivigrahika<g type="danda">.</g> ma
                     <lb n="31" break="no"/>hākṣapaṭalika<g type="danda">.</g> mahāsāmanta<g type="danda">.</g> mahāsenāpati<g type="danda">.</g> mahāpra
@@ -274,7 +275,7 @@
          <div type="apparatus">
              <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                <listApp>
-                  <app loc="01"><lem>ni<space type="unclassified"  unit="character" quantity="32"/>ni<space type="vacat" unit="character" quantity="2"/></lem><note>The character ni,which seems to be an abbreviation for nibaddha "confirmed", is engraved at the both ends of the line 1.</note></app>
+                  <app loc="01"><lem>ni<gap reason="undefined"  unit="character" quantity="32" precision="low"/>ni<space type="vacat" unit="character" quantity="2"/></lem><note>The character ni,which seems to be an abbreviation for nibaddha "confirmed", is engraved at the both ends of the line 1.</note></app>
                   <app loc="4"><lem>śrīmāl</lem><rdg source="bib:Furui2010_01">śrīmal-</rdg></app>
                   <app loc="8"><lem>-vasatir</lem><rdg source="bib:Furui2010_01">vasati<supplied reason="omitted">r</supplied></rdg></app>
                   <app loc="9"><lem>jagatīṁ</lem><rdg source="bib:Furui2010_01"><unclear>ja</unclear>gatīṁ</rdg></app>
