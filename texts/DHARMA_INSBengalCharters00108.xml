@@ -100,7 +100,7 @@
       <body>
          <div type="edition" xml:lang="san-Latn">
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
-                 <pb n="1r"/><ab><lb n="01"/>ni<space type="vacat" unit="character" quantity="36"/>ni</ab>
+                 <pb n="1r"/><ab><lb n="01"/>ni<space type="vacat" unit="character" quantity="36"/> ni</ab>
                  <lb n="1"/><p><g type="spiralL"/><!-- siddham --> svasti<g type="dandaStrokeLeft">.</g></p>
                  <lg n="1" met="sragdharā">
                      <l n="a">maitrīṁ kāruṇya-ratna-pramudita-hr̥dayaḥ<lb n="2"/> preyasīṁ sandadhānaḥ</l>
@@ -235,7 +235,7 @@
          <div type="apparatus">
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                <listApp>
-                  <app loc="01"><lem>ni<space type="vacat" unit="character" quantity="36"/>ni</lem><note>The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the upper left and right margins of the obverse of the plate.</note></app>
+                  <app loc="01"><lem>ni<space type="vacat" unit="character" quantity="36"/> ni</lem><note>The character ni, which seems to be an abbreviation for nibaddha "confirmed", is engraved on the upper left and right margins of the obverse of the plate.</note></app>
                   <app loc="4"><lem>śrī<lb n="5" break="no"/>māl lokanātho</lem><rdg source="bib:Mishra1981_01">śrī<lb n="5" break="no"/>māṁ llokanātho</rdg> <rdg source="bib:SubramoniaIyer2011-2012_01">śrī<lb n="5" break="no"/>mān lokanātho</rdg></app>
                   <app loc="5"><lem>'nyaś</lem><rdg source="bib:SubramoniaIyer2011-2012_01">nyaś</rdg></app>
                   <app loc="6"><lem>'smā<lb n="7" break="no"/>d</lem><rdg source="bib:SubramoniaIyer2011-2012_01">smā<lb n="7" break="no"/>d</rdg></app>
