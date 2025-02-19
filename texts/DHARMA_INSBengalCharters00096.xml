@@ -218,7 +218,7 @@
                      n="47" break="no"/>vākādi-vāra-gr̥ha 7 jogā-Uttārā-<abbr>ni</abbr>-dhisāva-svapya-<abbr>te</abbr>-gr̥ha 8 bhāṭapaḍā-Iṭākhālā-<abbr>ni</abbr>-kr̥ṣṇagaṭākādi-gr̥ha 7<lb 
                      n="48"/>bhāṭapaḍā-va<choice><sic>v</sic><corr>r</corr></choice>apañcāla-Iṭākhālā-<abbr>ni</abbr>-divākarākādi-<abbr>mālā</abbr>-gr̥ha 6 bhāṭapaḍā-simerakādi-<abbr>go</abbr>-gr̥ha 5 bhāṭa<lb 
                      n="49" break="no"/>paḍā-<abbr>ni</abbr>-nāpita-govindā-gr̥ha 1 rajaka-sirupā-gr̥ha 1 vovācchaḍā-<abbr>ni</abbr>-caṁvāṭāyipākādi-gr̥ha 5<lb 
-                     n="50"/>tathā-<abbr>ni</abbr>-ḍomna-veṭṭha<unclear>nam</unclear>ākādi-gr̥ha 5 navahāṭā-<abbr>ni</abbr>-ḍosyamāṭipākādi-gr̥ha 2 bhāṭapaḍā-<abbr>ni</abbr>-vāndhupākā<lb 
+                     n="50"/>tathā-<abbr>ni</abbr>-ḍomva-veṭṭha<unclear>nam</unclear>ākādi-gr̥ha 5 navahāṭā-<abbr>ni</abbr>-ḍomva-māṭipākādi-gr̥ha 2 bhāṭapaḍā-<abbr>ni</abbr>-vāndhupākā<lb 
                      n="51" break="no"/><choice><sic>gg</sic><corr>d</corr></choice>i-haḍḍiya-gr̥ha 2 pindāyinagare dyokhe navikākādi-gr̥ha 2 siṁhaUragrāme danta<choice><sic>v</sic><corr>k</corr></choice>āra-vajarigā-gr̥<unclear>ha</unclear> <supplied reason="lost">1</supplied><lb 
                      n="52"/>koṣṭhī-hudu<unclear>k</unclear>ā-<abbr>mahāsā</abbr>-cūḍo-koṣṭhī-sahūṇa-koṣṭhī-lokr̥tāṁ cūḍho-<abbr>bhāṁ</abbr>-hari-ṣaṭṭe <supplied reason="omitted">’</supplied>pi patre Āpi Eva pi<supplied reason="lost">thūyā</supplied><lb 
                      n="53"/>Āpipāce bhākaṅgā-Udayannākādayaḥ pradattāḥ<g type="ddanda">.</g>
@@ -420,13 +420,13 @@
                    <app loc="49"><lem>vovācchaḍā-<abbr>ni</abbr>-</lem><rdg source="bib:Mitra1880_02">vovātuchāni</rdg><rdg source="bib:Gupta1967_01">vovācchaḍā ni-</rdg></app>
                    <app loc="49"><lem>-caṁvāṭāyipākādi-</lem><rdg source="bib:Mitra1880_02">vaṁvāvāṭāyipākā-</rdg><rdg source="bib:Gupta1927-1928_01">-caṁ vāṭāpipākā-</rdg><rdg source="bib:Gupta1967_01">-caṁ vāḍhāyi pākā-</rdg></app>
                    <app loc="50"><lem>tathā-<abbr>ni</abbr>-</lem><rdg source="bib:Mitra1880_02">tathā<g type="danda">.</g> ni-</rdg></app>
-                   <app loc="50"><lem>ḍomna-veṭṭha<unclear>nam</unclear>ākādi-</lem><rdg source="bib:Mitra1880_02">-ḍo<gap reason="illegible" unit="character" quantity="1"/>ve<gap reason="illegible" unit="character" quantity="2"/>kādi</rdg><rdg source="bib:Gupta1927-1928_01 bib:Gupta1967_01">ḍo<unclear>tthareṭṭapā</unclear>kādi-</rdg></app>
+                   <app loc="50"><lem>ḍomva-veṭṭha<unclear>nam</unclear>ākādi-</lem><rdg source="bib:Mitra1880_02">-ḍo<gap reason="illegible" unit="character" quantity="1"/>ve<gap reason="illegible" unit="character" quantity="2"/>kādi</rdg><rdg source="bib:Gupta1927-1928_01 bib:Gupta1967_01">ḍo<unclear>tthareṭṭapā</unclear>kādi-</rdg></app>
                    <app loc="50"><lem>navahāṭā-<abbr>ni</abbr>-</lem><rdg source="bib:Mitra1880_02">navabhāṭa<g type="danda">.</g> ni-</rdg></app>
-                   <app loc="50"><lem>-ḍosyamāṭipākādi-</lem><rdg source="bib:Mitra1880_02">-ḍo<gap reason="illegible" unit="character" quantity="1"/>bhāṭa pākādi</rdg><rdg source="bib:Gupta1927-1928_01"><unclear>ḍegvimā</unclear>ṭi-pākādi-</rdg><rdg source="bib:Gupta1967_01">ḍośvamāṭi pākā-</rdg></app>
+                   <app loc="50"><lem>-ḍomva-māṭipākādi-</lem><rdg source="bib:Mitra1880_02">-ḍo<gap reason="illegible" unit="character" quantity="1"/>bhāṭa pākādi</rdg><rdg source="bib:Gupta1927-1928_01"><unclear>ḍegvimā</unclear>ṭi-pākādi-</rdg><rdg source="bib:Gupta1967_01">ḍośvamāṭi pākā-</rdg></app>
                    <app loc="50"><lem>2</lem><rdg source="bib:Mitra1880_02">3</rdg></app>
-                   <app loc="50"><lem>bhāṭapaḍā-<abbr>ni</abbr>-</lem><rdg source="Mitra1880_02">bhāṭapaḍā ni-</rdg></app>
+                   <app loc="50"><lem>bhāṭapaḍā-<abbr>ni</abbr>-</lem><rdg source="bib:Mitra1880_02">bhāṭapaḍā ni-</rdg></app>
                    <app loc="50"><lem>-vāndhupākā<lb n="51" break="no"/><choice><sic>gg</sic><corr>d</corr></choice>i-</lem><rdg source="bib:Mitra1880_02">-vākapākā<lb n="51" break="no"/>di</rdg><rdg source="bib:Gupta1927-1928_01 bib:Gupta1967_01">-vārapākā<lb n="51" break="no"/>di-</rdg></app>
-                   <app loc="51"><lem>-haḍḍiya-</lem><rdg source="Mitra1880_02">-haḍḍipa-</rdg><rdg source="bib:Gupta1927-1928_01">-haṭṭiya-</rdg></app>
+                   <app loc="51"><lem>-haḍḍiya-</lem><rdg source="bib:Mitra1880_02">-haḍḍipa-</rdg><rdg source="bib:Gupta1927-1928_01">-haṭṭiya-</rdg></app>
                    <app loc="51"><lem>2</lem><rdg source="bib:Mitra1880_02 bib:Gupta1927-1928_01 bib:Gupta1967_01">3</rdg></app>
                    <app loc="51"><lem>pindāyinagare</lem><rdg source="bib:Mitra1880_02">piĀpi nagare</rdg><rdg source="bib:Gupta1927-1928_01">pithāpinagare</rdg><rdg source="bib:Gupta1967_01">yindāyinagare</rdg></app>
                    <app loc="51"><lem>dyokhe</lem><rdg source="bib:Mitra1880_02">dyonye</rdg><rdg source="bib:Gupta1927-1928_01 bib:Gupta1967_01">dyotye</rdg></app>
@@ -436,10 +436,10 @@
                    <app loc="51"><lem>danta<choice><sic>v</sic><corr>k</corr></choice>āra-</lem><rdg source="bib:Mitra1880_02">dantakavi-</rdg><rdg source="bib:Gupta1967_01">dantakāra</rdg></app>
                    <app loc="51"><lem>-vajarigā-</lem><rdg source="bib:Mitra1880_02">vajavi go</rdg><rdg source="bib:Gupta1927-1928_01">rajarigā-</rdg></app>
                    <app loc="51"><lem>-gr̥<unclear>ha</unclear> <supplied reason="lost">1</supplied></lem><note>A part of the plate containing the lower part of ha and entire 1 is now lost, but present and visible in the estampage attached to <bibl rend="omitname"><ptr target="bib:Mitra1880_02"/></bibl>.</note></app>
-                   <app loc="52"><lem>koṣṭhī-</lem><rdg source="Mitra1880_02">kodyī</rdg><rdg source="bib:Gupta1927-1928_01 bib:Gupta1967_01"> koṣpī</rdg></app>
+                   <app loc="52"><lem>koṣṭhī-</lem><rdg source="bib:Mitra1880_02">kodyī</rdg><rdg source="bib:Gupta1927-1928_01 bib:Gupta1967_01"> koṣpī</rdg></app>
                    <app loc="52"><lem>-hudu<unclear>k</unclear>ā-</lem><rdg source="bib:Mitra1880_02">huhūko</rdg></app>
                    <app loc="52"><lem>-cūḍo-</lem><rdg source="bib:Mitra1880_02">-hūḍho</rdg><rdg source="bib:Gupta1927-1928_01 bib:Gupta1967_01">cūho</rdg></app>
-                   <app loc="52"><lem>-koṣṭhī-</lem><rdg source="Mitra1880_02">kodyī</rdg><rdg source="bib:Gupta1927-1928_01 bib:Gupta1967_01"> koṣpī</rdg></app>
+                   <app loc="52"><lem>-koṣṭhī-</lem><rdg source="bib:Mitra1880_02">kodyī</rdg><rdg source="bib:Gupta1927-1928_01 bib:Gupta1967_01"> koṣpī</rdg></app>
                    <app loc="52"><lem>-sahūṇa-</lem><rdg source="bib:Gupta1927-1928_01">-suchuṇa</rdg><rdg source="bib:Gupta1967_01">-sahuṇa</rdg></app>
                    <app loc="52"><lem>cūḍho-</lem><rdg source="bib:Mitra1880_02">vūḍho-</rdg><rdg source="bib:Gupta1927-1928_01">chaṭo-</rdg><rdg source="bib:Gupta1967_01">chaḍho-</rdg></app>
                    <app loc="52"><lem>-<abbr>bhāṁ</abbr>-hari-</lem><rdg source="bib:Mitra1880_02">-bhāṁ havi-</rdg><rdg source="bib:Gupta1927-1928_01 bib:Gupta1967_01">-bhāṁ hari-</rdg></app>
