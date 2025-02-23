@@ -214,7 +214,7 @@
                    <app loc="5"><lem>śohuṇa-</lem><rdg source="bib:Mitra1880_02">gokula-</rdg><rdg source="bib:Gupta1967_01">goṅgūṇa-</rdg></app>
                    <app loc="5"><lem>-bhr̥<supplied reason="lost">tāṁ</supplied></lem><rdg source="bib:Mitra1880_02">-bhr̥tāṁ</rdg></app>
                    <app loc="5"><lem>vi<seg met="+="><gap reason="lost" unit="character" quantity="2"/></seg></lem><rdg source="bib:Mitra1880_02">viśiṣṭaḥ</rdg><rdg source="bib:Gupta1967_01">vi<supplied reason="lost">śiṣṭaḥ</supplied></rdg></app>
-                   <app loc="5"><lem>sambhrāṁ<supplied reason="lost">ta-vi</supplied>gnā</lem><rdg source="bib:Mitra1880_02">sambhrāmta-śastrā</rdg><rdg source="bib:GUpta1967_01">sambhrāṁ<supplied reason="lost">ta-śa</supplied>strā</rdg></app>
+                   <app loc="5"><lem>sambhrāṁ<supplied reason="lost">ta-vi</supplied>gnā</lem><rdg source="bib:Mitra1880_02">sambhrāmta-śastrā</rdg><rdg source="bib:Gupta1967_01">sambhrāṁ<supplied reason="lost">ta-śa</supplied>strā</rdg></app>
                    <app loc="6"><lem>śrī<seg met="+-++"><gap reason="lost" unit="character" quantity="4"/></seg>-</lem><rdg source="bib:Mitra1880_02">śriyā hr̥dā saṅgata-</rdg><rdg source="bib:Gupta1967_01">śr<choice><sic>ī</sic><corr>i</corr></choice><supplied reason="lost">yā hr̥dā sa</supplied>kṣata-</rdg></app>
                    <app loc="6"><lem><supplied reason="lost">E</supplied>ṣaḥ</lem><rdg source="bib:Mitra1880_02">Eṣaḥ</rdg></app>
                    <app loc="6"><lem><supplied reason="lost">ka</supplied><lb n="7" break="no"/>lānāṁ</lem><rdg source="bib:Mitra1880_02">ka<lb n="7" break="no"/>lānāṁ</rdg></app>
@@ -277,7 +277,7 @@
                    <app loc="31"><lem><supplied reason="lost">t</supplied>āvad</lem><rdg source="bib:Mitra1880_02">tāvad</rdg></app>
                    <app loc="31"><lem>iya<supplied reason="omitted">ṁ</supplied></lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">iyañ</rdg></app>
                    <app loc="31"><lem>śa<supplied reason="lost">st</supplied>i<supplied reason="omitted">ḥ<g type="ddanda">.</g></supplied></lem><rdg source="bib:Mitra1880_02">śaśvat·<g type="ddanda">.</g></rdg><rdg source="bib:Gupta1967_01">śa<supplied reason="lost">śvat·<g type="ddanda">.</g></supplied></rdg></app>
-                   <app loc="32"><lem><space unit="character" quantity="19"/>saṁ 17 vaiśākha-dine 1<space unit="character" quantity="7" /></lem><note><bibl rend="omitname"><ptr target="bib:Mitra1880_02"/></bibl> puts this line at the end of the last line.</note></app>
+                   <app loc="32"><lem><space unit="character" quantity="19"/>saṁ 17 vaiśākha-dine 1<space unit="character" quantity="7" /></lem><note><bibl><ptr target="bib:Mitra1880_02"/></bibl> puts this line at the end of the last line.</note></app>
                </listApp>
          </div>
          <div type="translation" resp="part:ryfu">
@@ -286,7 +286,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First notified and edited by Rajendra Lal Mitra<bibl rend="omitname"><ptr target="bib:Mitra1880_02"/></bibl>, then re-edited by Kamala Kanta Gupta<bibl rend="omitname"><ptr target="bib:Gupta1967_01"/></bibl>. Now re-edited by Ryosuke Furui on reading from the photographs taken by himself at Indian Museum.</p>
+           <p>First notified and edited by Rajendra Lal Mitra<bibl rend="omitname"><ptr target="bib:Mitra1880_02"/></bibl>, then re-edited by Kamala Kanta Gupta<bibl rend="omite"><ptr target="bib:Gupta1967_01"/></bibl>. Now re-edited by Ryosuke Furui on reading from the photographs taken by himself at Indian Museum.</p>
         	<listBibl type="primary">
 	   <bibl n="RLM"><ptr target="bib:Mitra1880_02"/><citedRange unit="page">151-153</citedRange></bibl>
         	   <bibl n="KKG"><ptr target="bib:Gupta1967_01"/><citedRange unit="page">181-191</citedRange></bibl>
