@@ -80,13 +80,13 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:axja" when="2025-02-23" status="draft">Initial Encoding</change>
+            <change who="part:ryfu" when="2025-02-23" status="draft">Text, apparatus and bibliography completed.</change>
+            <change who="part:ryfu" when="2025-02-23" status="draft">Initial Encoding</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-             <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                  <pb n="1r"/><lb n="1"/><p><g type="spiralR"/><!--siddham--> om̐ namo nārāyaṇāya<g type="ddanda">.</g></p>
                  <lg n="1" met="anuṣṭubh">
                      <l n="ab">mahā-nīla-maṇi-śyāmaḥ suvarṇṇa-rucirāmvaraḥ<g type="danda">.</g></l>
@@ -99,13 +99,111 @@
                  <lg n="3" met="upajāti">
                      <l n="a">tad-anvaye <supplied reason="omitted">’</supplied>bhū<lb n="4" break="no"/>d bhuvanāvatan<supplied reason="omitted">s</supplied>a<supplied reason="omitted">ḥ</supplied></l>
                      <l n="b">svīyodaye yo <supplied reason="omitted">’</supplied>tula-kīrtti-rāśiḥ<g type="danda">.</g></l>
-                     <l n="c">sa <seg met="+-+">śa<gap reason="lost" unit="character" quantity="2"/></seg>-<supplied reason="lost">ma</supplied>ṇḍala-<seg met="+"><gap reason="lost" unit="character" quantity="1"></gap></seg>sa-sārtha</l>
+                     <l n="c">sa śa<seg met="-+"><gap reason="lost" unit="character" quantity="2"/></seg>-<supplied reason="lost">ma</supplied>ṇḍala-<seg met="+"><gap reason="lost" unit="character" quantity="1"></gap></seg>sa-sārtha</l>
                      <l n="d"><lb n="5" break="no"/>-kalpa-drumo śohuṇa-bhūmi-pālaḥ<g type="ddanda">.</g></l>
                  </lg>
-             </div>
+                 <lg n="4" met="upajāti">
+                     <l n="a">tasyātmajaḥ śastra-bhr̥<supplied reason="lost">tāṁ</supplied> vi<seg met="+="><gap reason="lost" unit="character" quantity="2"/></seg></l>
+                     <l n="b">sambhrāṁ<supplied reason="lost">ta-vi</supplied>gnā<lb n="6" break="no"/>rṇṇava-mandarād<supplied reason="omitted">r</supplied>iḥ<g type="danda">.</g></l>
+                     <l n="c">śrī<seg met="+-++"><gap reason="lost" unit="character" quantity="4"/></seg>-kṣata-mañju-mūrttir</l>
+                     <l n="d">vabhūva nārāyaṇadeva <supplied reason="lost">E</supplied>ṣaḥ<g type="ddanda">.</g></l>
+                 </lg>
+                 <lg n="5" met="upajāti">
+                     <l n="a">nidhiḥ <supplied reason="lost">ka</supplied><lb n="7" break="no"/>lānāṁ bhavanaṁ guṇānāṁ</l>
+                     <l n="b"><supplied reason="lost">śau</supplied>ryyasya rāśir vinayasya bhūmiḥ<g type="danda">.</g></l>
+                     <l n="c">sauja<supplied reason="lost">nya</supplied>-<seg met="++-"><gap reason="lost" unit="character" quantity="3"/></seg>dhir u<lb n="8" break="no"/>n<supplied reason="omitted">n</supplied>ata-śrīḥ</l>
+                     <l n="d">prakhyāta-kīrttir bhuvanāvata<supplied reason="omitted">ṁ</supplied>saḥ<g type="ddanda">.</g></l>
+                 </lg>
+                 <lg n="6" met="indravajrā">
+                     <l n="a">tasyor<choice><sic>a</sic><corr>u</corr></choice>-tejā ripu-rāja-gopī</l>
+                     <l n="b">-govi<lb n="9" break="no"/>nda-vīr<choice><sic>u</sic><corr>a</corr></choice>-druma-nātha-saṁj<supplied reason="lost">ñ</supplied>aḥ<g type="danda">.</g></l>
+                     <l n="c">kṣmā-pāla-cūḍā-maṇi-maṇḍitāṁghriḥ</l>
+                     <l n="d">putro <supplied reason="omitted">’</supplied>bha<supplied reason="lost">vat· keśa</supplied><lb n="10" break="no"/>vadeva-devaḥ<g type="ddanda">.</g></l>
+                 </lg>
+                 <lg n="7" met="upajāti">
+                     <l n="a">guṇair yadīyaiḥ śravanābhirāmair</l>
+                     <l n="b">ākr̥ṣyamāṇā guṇinas sa<lb n="11" break="no"/>mantāT<g type="danda">.</g></l>
+                     <l n="c">Āgatya sampūrṇṇa-mano-<supplied reason="lost">ra</supplied>thān na</l>
+                     <l n="d">sasmarur janma-bhuvaṁ dvijendr<supplied reason="lost">āḥ</supplied><g type="ddanda">.</g></l>
+                 </lg>
+                 <lg n="8" met="upajāti">
+                     <l n="a"><lb n="12"/>yasmin mahīṁ <choice><sic>g</sic><corr>ś</corr></choice>ā<choice><sic>bh</sic><corr>s</corr></choice>ati bhūmi-pālā</l>
+                     <l n="b">nidrāṁ rajanyām api nādhijagmuḥ<g type="danda">.</g></l>
+                     <l n="c">sañci<lb n="13" break="no"/>ntayantaḥ paritoṣa-hetor</l>
+                     <l n="c">amu<choice><sic>n</sic><corr>ṣ</corr></choice>ya viśrāṇayituṁ vasūni<g type="ddanda">.</g></l>
+                 </lg>
+             <lg n="9" met="upajāti">
+                 <l n="a">niḥsīma-nau-vāṭaka-pa<lb n="14" break="no"/>tti-vāji</l>
+                 <l n="b">-prabhinna-dantā-vala-sainya-sampat·<supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                 <l n="c">sa rāja-rājaḥ kumudāvadātair</l>
+                 <l n="d">yyaśo<lb n="15" break="no"/>bhir urvvīṁ vimalī-cakāra<g type="ddanda">.</g></l>
+             </lg>
+             <lg n="10" met="upajāti">
+                 <l n="a">sa mandiraṁ kaṁsa-nisūdanasya</l>
+                 <l n="b">śilābhir uccair vidadhe<lb n="16"/> mahaujāḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                 <l n="c">yat-tuṅga-śr̥ṅga-sthita-cakra-dhārā</l>
+                 <l n="d">-kṣatāḥ kṣaranty amvu-ghanā diva-sthāḥ<g type="ddanda">.</g></l>
+             </lg>
+             <lg n="11" met="anuṣṭubh">
+                 <l n="ab"><pb n="1v"/><lb n="17"/>tulā-puruṣa-dāne <supplied reason="omitted">’</supplied>sya saṁprāpya draviṇaṁ dvijāḥ<g type="danda">.</g></l>
+                 <l n="cd">kal<choice><sic>y</sic><corr>p</corr></choice>a-vr̥kṣā Ivābhūvan<supplied reason="omitted">·</supplied> hemāla<lb n="18" break="no"/>ṅkāra-bhūṣitā<supplied reason="omitted">ḥ<g type="ddanda">.</g></supplied></l>
+             </lg>
+             <lg n="12" met="indravajrā">
+                 <l n="a">tasmān maheśād iva vāhuleyaḥ</l>
+                 <l n="b">pīyūṣa-raśmer iva rauhiṇyaḥ<g type="commaHigh">.</g></l>
+                 <l n="c"><lb n="19"/>śrīmān abhūn nirmmala-kīrtti-rāśir</l>
+                 <l n="d">īśānadevaḥ kṣiti-pāla-ca<choice><sic>t</sic><corr>nd</corr></choice>raḥ<g type="ddanda">.</g></l>
+             </lg>
+             <lg n="13" met="upajāti">
+                 <l n="a">yaj-jaitra-yātrā-pra<lb n="20" break="no"/>calaT-<choice><sic>g</sic><corr>p</corr></choice>adāti</l>
+                 <l n="b">-turaṅga-dan<choice><sic>ḍ</sic><corr>t</corr></choice>ā-vala-sainya-kīrṇṇaiḥ<g type="comma">.</g></l>
+                 <l n="c">rajobhir urvvyāḥ parimr̥śyamānaś</l>
+                 <l n="d">ca<lb n="21" break="no"/><seg met="+-"><gap reason="lost" unit="character" quantity="2"/></seg>m<choice><sic>a</sic><corr>ā</corr></choice>-ha<supplied reason="omitted">ṁ</supplied>sa<surplus>ṁ</surplus>-nimīla-śakraḥ<g type="ddanda">.</g></l>
+             </lg>
+             <lg n="14" met="upajāti">
+                 <l n="a">yadīya-nau-vāṭaka-keli-pāta</l>
+                 <l n="b">-ghātocchalad-vāribhir u<lb n="22" break="no"/>s<choice><sic>ū</sic><corr>ra</corr></choice>-raśmeḥ<g type="danda">.</g></l>
+                 <l n="c">rathy<choice><sic>e</sic><corr>ai</corr></choice>s turaṅgair atisantapadbhiḥ</l>
+                 <l n="d">santāpa-śāntiḥ s<choice><sic>a</sic><corr>u</corr></choice>tarām alambhi<g type="ddanda">.</g></l>
+             </lg>
+             <lg n="15" met="upajāti">
+                 <l n="a">vini<lb n="23" break="no"/>rmmame <supplied reason="omitted">’</supplied>sau madhu-k<choice><sic>e</sic><corr>ai</corr></choice>ṭabhāreḥ</l>
+                 <l n="b">prāsādam abhra<supplied reason="omitted">ṁ</supplied> lihan ūrjjita-śrīḥ<g type="danda">.</g></l>
+                 <l n="c">yat-t<unclear>u</unclear>ṅga-śr̥ṅga-pracalaT-patāk<choice><sic>a</sic><corr>ā</corr></choice></l>
+                 <l n="d"><lb n="24"/><choice><sic>l</sic><corr>n</corr></choice>abhas-taror m<choice><sic>ā</sic><corr>a</corr></choice>ñjarikeva bhāti<g type="ddanda">.</g></l>
+             </lg>
+             <lg n="16" met="anuṣṭubh">
+                 <l n="ab">Etasya p<choice><sic>a</sic><corr>r̥</corr></choice>thivī-bhartur ākṣapaṭalikaḥ kr̥tī<g type="danda">.</g></l>
+                 <l n="cd">vaidya-va<supplied reason="omitted">ṁ</supplied><lb n="25" break="no"/>śa-pradīpaḥ śrī-vanamālikaro <supplied reason="omitted">’</supplied>bhavaT<g type="ddanda">.</g></l>
+             </lg>
+             <lg n="17" met="anuṣṭubh">
+                 <l n="ab">Asya <choice><sic>p</sic><corr>v</corr></choice>ijñāpanāt nr̥paḥ śāsanaṁ kr̥tavān ayam<supplied reason="omitted">·</supplied><g type="danda">.</g></l>
+                 <l n="cd">rāja-pu<lb n="26" break="no"/>tro yaḥ sthaviraḥ putra-śūnyaḥ sva-ha<choice><sic>kr</sic><corr>st</corr></choice>ataḥ<g type="ddanda">.</g></l>
+             </lg>
+             <p n="26">pālyaṁ bhū-hala-<num value="2">dvayaṁ</num> sa-vāstu <supplied reason="omitted">’</supplied>sya sariś-cita<supplied reason="omitted">ṁ</supplied><space unit="character" quantity="2"/></p>
+             <lg n="18" met="anuṣṭubh">
+                 <l n="ab"><lb n="27"/>mr̥tasya rāja-putrasya <choice><sic>ṣ</sic><corr>p</corr></choice>atnī yā kula-pālikā<g type="danda">.</g></l>
+                 <l n="cd">śiśuś ca tanayas tiṣṭho pālyam eva tayo<lb n="28" break="no"/>r api<g type="ddanda">.</g></l>
+             </lg>
+             <lg n="19" met="upajāti">
+                 <l n="a">Āde<choice><sic>s</sic><corr>ś</corr></choice>ik<supplied reason="lost">o ’</supplied>bhūt samara-pravīraḥ<g type="danda">.</g></l>
+                 <l n="b">śrī-vīradattaḥ pr̥tanādhināthaḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                 <l n="c">dig-a<lb n="29" break="no"/>nta-saṅg<choice><sic>ā</sic><corr>ī</corr></choice>ta-yaśaḥ-praśasti<supplied reason="lost">ḥ</supplied></l>
+                 <l n="d">pratāpa-<supplied reason="lost">bh</supplied>ānūrjjita-peśya-rāśiḥ<g type="ddanda">.</g></l>
+             </lg>
+             <lg n="20" met="anuṣṭubh">
+                 <l n="ab">sva-dattāṁ para-dattāṁ vā yo<lb n="30"/> haret<surplus>v</surplus>a vasundarām·<g type="danda">.</g></l>
+                 <l n="cd">sa viṣṭhāyām kr̥mir bhūtvā pitr̥bhiḥ saha pacyate<g type="ddanda">.</g></l>
+             </lg>
+             <lg n="21" met="indravajrā">
+                 <l n="a">Etāṁ praśastiṁ vidadhe vi<lb n="31" break="no"/>vekī</l>
+                 <l n="b">śrī-mādhavo dāsa-kulāvataṁsaḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                 <l n="c">yāvat samudrā gi<supplied reason="lost">ra</supplied>yaś ca yāvaj</l>
+                 <l n="d">jīyāT kṣitau <supplied reason="lost">t</supplied>āvad iya<supplied reason="omitted">ṁ</supplied> ca śa<supplied reason="lost">st</supplied>i<supplied reason="omitted">ḥ<g type="ddanda">.</g></supplied></l>
+             </lg>
+             <p n="32"><space unit="character" quantity="19"/>saṁ 17 vaiśākha-dine 1<space unit="character" quantity="7" /></p>
          </div>
          <div type="apparatus">
-             <div type="textpart"><head xml:lang="eng">Plate</head>
                <listApp>
                   <app loc="1"><lem><g type="spiralR"/></lem><rdg source="bib:Mitra1880_02"/></app>
                    <app loc="4"><lem>bhuvanāvatan<supplied reason="omitted">s</supplied>a<supplied reason="omitted">ḥ</supplied></lem><rdg source="bib:Mitra1880_02">bhuvanāvataṁsaḥ</rdg><rdg source="bib:Gupta1967_01">bhuvanāvata<supplied reason="omitted">ṁ</supplied>sa<supplied reason="omitted">ḥ</supplied></rdg></app>
@@ -114,11 +212,75 @@
                    <app loc="4"><lem>-<supplied reason="lost">ma</supplied>ṇḍala-</lem><rdg source="bib:Mitra1880_02">-maṇḍala-</rdg></app>
                    <app loc="4"><lem>-<seg met="+"><gap reason="lost" unit="character" quantity="1"></gap></seg>sa-</lem><rdg source="bib:Mitra1880_02">haṁsa</rdg><rdg source="bib:Gupta1967_01">-<supplied reason="lost">haṁ</supplied>sa-</rdg></app>
                    <app loc="5"><lem>śohuṇa-</lem><rdg source="bib:Mitra1880_02">gokula-</rdg><rdg source="bib:Gupta1967_01">goṅgūṇa-</rdg></app>
+                   <app loc="5"><lem>-bhr̥<supplied reason="lost">tāṁ</supplied></lem><rdg source="bib:Mitra1880_02">-bhr̥tāṁ</rdg></app>
+                   <app loc="5"><lem>vi<seg met="+="><gap reason="lost" unit="character" quantity="2"/></seg></lem><rdg source="bib:Mitra1880_02">viśiṣṭaḥ</rdg><rdg source="bib:Gupta1967_01">vi<supplied reason="lost">śiṣṭaḥ</supplied></rdg></app>
+                   <app loc="5"><lem>sambhrāṁ<supplied reason="lost">ta-vi</supplied>gnā</lem><rdg source="bib:Mitra1880_02">sambhrāmta-śastrā</rdg><rdg source="bib:GUpta1967_01">sambhrāṁ<supplied reason="lost">ta-śa</supplied>strā</rdg></app>
+                   <app loc="6"><lem>śrī<seg met="+-++"><gap reason="lost" unit="character" quantity="4"/></seg>-</lem><rdg source="bib:Mitra1880_02">śriyā hr̥dā saṅgata-</rdg><rdg source="bib:Gupta1967_01">śr<choice><sic>ī</sic><corr>i</corr></choice><supplied reason="lost">yā hr̥dā sa</supplied>kṣata-</rdg></app>
+                   <app loc="6"><lem><supplied reason="lost">E</supplied>ṣaḥ</lem><rdg source="bib:Mitra1880_02">Eṣaḥ</rdg></app>
+                   <app loc="6"><lem><supplied reason="lost">ka</supplied><lb n="7" break="no"/>lānāṁ</lem><rdg source="bib:Mitra1880_02">ka<lb n="7" break="no"/>lānāṁ</rdg></app>
+                   <app loc="7"><lem>guṇānāṁ</lem><rdg source="bib:Gupta1967_01">g<choice><sic>ū</sic><corr>u</corr></choice>ṇāmāṁ</rdg></app>
+                   <app loc="7"><lem><supplied reason="lost">śau</supplied>ryyasya</lem><rdg source="bib:Mitra1880_02">śauryyasya</rdg></app>
+                   <app loc="7"><lem>sauja<supplied reason="lost">nya</supplied>-<seg met="++-"><gap reason="lost" unit="character" quantity="3"/></seg>dhir</lem><rdg source="bib:Mitra1880_02"> saujanya-pātho-nidhir</rdg><rdg source="bib:Gupta1967_01">sauja<supplied reason="lost">nya-payo-ni</supplied>dhir</rdg></app>
+                   <app loc="7"><lem>u<lb n="8" break="no"/>n<supplied reason="omitted">n</supplied>ata-</lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">u<lb n="8" break="no"/>nnata</rdg></app>
+                   <app loc="8"><lem>bhuvanāvata<supplied reason="omitted">ṁ</supplied>saḥ</lem><rdg source="bib:Mitra1880_02">bhuvanāvataṁsaḥ</rdg></app>
+                   <app loc="8"><lem>tasyor<choice><sic>a</sic><corr>u</corr></choice>-</lem><rdg source="bib:Mitra1880_02">tasyoru-</rdg></app>
+                   <app loc="9"><lem>-vīr<choice><sic>u</sic><corr>a</corr></choice>-</lem><rdg source="bib:Mitra1880_02">-vīro</rdg><rdg source="bib:Gupta1967_01">-vīra-</rdg></app>
+                   <app loc="9"><lem>-saṁj<supplied reason="lost">ñ</supplied>aḥ</lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">-saṁjñaḥ</rdg></app>
+                   <app loc="9"><lem>-maṇḍitāṁghriḥ</lem><rdg source="bib:Mitra1880_02">-maṇḍitāṁghri-</rdg></app>
+                   <app loc="11"><lem>-<supplied reason="lost">ra</supplied>thān na</lem><rdg source="bib:Mitra1880_02">-rathāś ca</rdg></app>
+                   <app loc="12"><lem><choice><sic>g</sic><corr>ś</corr></choice>ā<choice><sic>bh</sic><corr>s</corr></choice>ati</lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">śāsati</rdg></app>
+                   <app loc="13"><lem>amu<choice><sic>n</sic><corr>ṣ</corr></choice>ya</lem><rdg source="bib:Mitra1880_02">amuṣya</rdg><rdg source="bib:Gupta1967_01">muṣya</rdg></app>
+                   <app loc="14"><lem>-sampat·<supplied reason="omitted"><g type="danda">.</g></supplied></lem><rdg source="bib:Mitra1880_02">-sampat·<g type="danda">.</g></rdg></app>
+                   <app loc="16"><lem>mahaujāḥ<supplied reason="omitted"><g type="danda">.</g></supplied></lem><rdg source="bib:Mitra1880_02">mahaujāḥ<g type="danda">.</g></rdg></app>
+                   <app loc="17"><lem>-dāne <supplied reason="omitted">’</supplied>sya</lem><rdg source="bib:Mitra1880_02">-dānasya</rdg></app>
+                   <app loc="17"><lem>saṁprāpya</lem><rdg source="bib:Mitra1880_02">samprāpya</rdg></app>
+                   <app loc="17"><lem>draviṇaṁ</lem><rdg source="bib:Gupta1967_01">draviṇan</rdg></app>
+                   <app loc="17"><lem>kal<choice><sic>y</sic><corr>p</corr></choice>a-</lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">kalpa-</rdg></app>
+                   <app loc="18"><lem>-bhūṣitā<supplied reason="omitted">ḥ<g type="ddanda">.</g></supplied></lem><rdg source="bib:Mitra1880_02">-bhūṣitāḥ<g type="ddanda">.</g></rdg></app>
+                   <app loc="19"><lem>-ca<choice><sic>t</sic><corr>nd</corr></choice>raḥ</lem><rdg source="bib:Mitra1880_02">-candraḥ</rdg><rdg source="bib:Gupta1967_01">-chatraḥ</rdg></app>
+                   <app loc="20"><lem>-<choice><sic>g</sic><corr>p</corr></choice>adāti</lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">-padāti</rdg></app>
+                   <app loc="20"><lem>-dan<choice><sic>ḍ</sic><corr>t</corr></choice>ā-</lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">-dantā-</rdg></app>
+                   <app loc="20"><lem>ca<lb n="21" break="no"/><seg met="+-"><gap reason="lost" unit="character" quantity="2"/></seg>m<choice><sic>a</sic><corr>ā</corr></choice>--ha<supplied reason="omitted">ṁ</supplied>sa<surplus>ṁ</surplus>-</lem><rdg source="bib:Mitra1880_02">cha<lb n="21" break="no"/>nnonmahāḥ sannya-</rdg><rdg source="bib:Gupta1967_01">cha<lb n="21" break="no"/><supplied reason="lost">nnon</supplied> maha<supplied reason="omitted">ḥ</supplied> saṁ-</rdg></app>
+                   <app loc="21"><lem>-nimīla-śakraḥ</lem><rdg source="bib:Mitra1880_02">-mimīladarkaḥ</rdg><rdg source="bib:Gupta1967_01">-nimīlaṇarkaḥ</rdg></app>
+                   <app loc="21"><lem>-keli-</lem><rdg source="bib:Mitra1880_02">-keni-</rdg></app>
+                   <app loc="21"><lem>u<lb n="22" break="no"/>s<choice><sic>ū</sic><corr>ra</corr></choice>-</lem><rdg source="bib:Mitra1880_02">u<lb n="22" break="no"/>gra-</rdg><rdg source="bib:Gupta1967_01">u<lb n="22" break="no"/>sra-</rdg></app>
+                   <app loc="22"><lem>rathy<choice><sic>e</sic><corr>ai</corr></choice>s</lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">rathyais</rdg></app>
+                   <app loc="22"><lem>atisantapadbhiḥ</lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">abhisantapadbhiḥ</rdg></app>
+                   <app loc="22"><lem>s<choice><sic>a</sic><corr>u</corr></choice>tarām</lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">sutarām</rdg></app>
+                   <app loc="23"><lem>-k<choice><sic>e</sic><corr>ai</corr></choice>ṭabhāreḥ</lem><rdg source="bib:Mitra1880_02">-kaiṭabhāreḥ</rdg></app>
+                   <app loc="23"><lem>abhra<supplied reason="omitted">ṁ</supplied></lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">abhraṁ</rdg></app>
+                   <app loc="23"><lem>ūrjjita-</lem><rdg source="bib:Gupta1967_01">ūrjita-</rdg></app>
+                   <app loc="23"><lem>-patāk<choice><sic>a</sic><corr>ā</corr></choice></lem><rdg source="bib:Mitra1880_02">-patākā</rdg></app>
+                   <app loc="24"><lem><choice><sic>l</sic><corr>n</corr></choice>abhas-</lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">nabhas-</rdg></app>
+                   <app loc="24"><lem>m<choice><sic>ā</sic><corr>a</corr></choice>ñjarikeva</lem><rdg source="bib:Mitra1880_02">mañjarikeva</rdg></app>
+                   <app loc="24"><lem>p<choice><sic>a</sic><corr>r̥</corr></choice>thivī-</lem><rdg source="bib:Mitra1880_02"> pr̥thivī-</rdg></app>
+                   <app loc="24"><lem>ākṣapaṭalikaḥ</lem><rdg source="bib:Mitra1880_02">ājapaṭṭanikaḥ</rdg></app>
+                   <app loc="24"><lem>-va<supplied reason="omitted">ṁ</supplied><lb n="25" break="no"/>śa-</lem><rdg source="bib:Mitra1880_02">-vaṁ<lb n="25" break="no"/>śa-</rdg></app>
+                   <app loc="25"><lem><choice><sic>p</sic><corr>v</corr></choice>ijñāpanāt</lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">vijñāpanād</rdg></app>
+                   <app loc="25"><lem>nr̥paḥ</lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">bhūpaḥ</rdg></app>
+                   <app loc="25"><lem>ayam<supplied reason="omitted">·</supplied></lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">ayam</rdg></app>
+                   <app loc="26"><lem>-ha<choice><sic>kr</sic><corr>st</corr></choice>ataḥ</lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">-hastataḥ</rdg></app>
+                   <app loc="26"><lem>-vāstu</lem><rdg source="bib:Gupta1967_01">-vāstu<supplied reason="omitted">ḥ</supplied></rdg></app>
+                   <app loc="26"><lem>sariś-cita<supplied reason="omitted">ṁ</supplied></lem><rdg source="bib:Mitra1880_02">vistr̥taṁ</rdg><rdg source="bib:Gupta1967_01">sariścita<supplied reason="omitted">ḥ</supplied></rdg></app>
+                   <app loc="27"><lem><choice><sic>ṣ</sic><corr>p</corr></choice>atnī</lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">patnī</rdg></app>
+                   <app loc="27"><lem>tanayas</lem><rdg source="bib:Mitra1880_02">tanayaḥ</rdg></app>
+                   <app loc="27"><lem>tiṣṭho</lem><rdg source="bib:Mitra1880_02">tasyāḥ</rdg><rdg source="bib:Gupta1967_01">tiṣyā</rdg></app>
+                   <app loc="28"><lem>Āde<choice><sic>s</sic><corr>ś</corr></choice>ik<supplied reason="lost">o ’</supplied>bhūt</lem><rdg source="bib:Mitra1880_02">Ādeśiko bhūt</rdg></app>
+                   <app loc="28"><lem>pr̥tanādhināthaḥ<supplied reason="omitted"><g type="danda">.</g></supplied></lem><rdg source="bib:Mitra1880_02">pr̥tanādhināthaḥ<g type="danda">.</g></rdg></app>
+                   <app loc="29"><lem>-saṅg<choice><sic>ā</sic><corr>ī</corr></choice>ta-</lem><rdg source="bib:Mitra1880_02">-saṁkrānta-</rdg></app>
+                   <app loc="29"><lem>-praśasti<supplied reason="lost">ḥ</supplied></lem><rdg source="bib:Mitra1880_02">-praśastiḥ</rdg></app>
+                   <app loc="29"><lem>-<supplied reason="lost">bh</supplied>ānūrjjita-</lem><rdg source="bib:Mitra1880_02">-vānūrjjita-</rdg></app>
+                   <app loc="29"><lem>-peśya-</lem><rdg source="bib:Mitra1880_02">-dhairyya-</rdg><rdg source="bib:Gupta1967_01">-paśya-</rdg></app>
+                   <app loc="30"><lem>haret<surplus>v</surplus>a</lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">hareta</rdg></app>
+                   <app loc="30"><lem>vidadhe</lem><rdg source="bib:Gupta1967_01">vidādha</rdg></app>
+                   <app loc="31"><lem>-kulāvataṁsaḥ<supplied reason="omitted"><g type="danda">.</g></supplied></lem><rdg source="bib:Mitra1880_02">-kulāvataṁsaḥ<g type="danda">.</g></rdg></app>
+                   <app loc="31"><lem><supplied reason="lost">t</supplied>āvad</lem><rdg source="bib:Mitra1880_02">tāvad</rdg></app>
+                   <app loc="31"><lem>iya<supplied reason="omitted">ṁ</supplied></lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">iyañ</rdg></app>
+                   <app loc="31"><lem>śa<supplied reason="lost">st</supplied>i<supplied reason="omitted">ḥ<g type="ddanda">.</g></supplied></lem><rdg source="bib:Mitra1880_02">śaśvat·<g type="ddanda">.</g></rdg><rdg source="bib:Gupta1967_01">śa<supplied reason="lost">śvat·<g type="ddanda">.</g></supplied></rdg></app>
+                   <app loc="32"><lem><space unit="character" quantity="19"/>saṁ 17 vaiśākha-dine 1<space unit="character" quantity="7" /></lem><note><bibl rend="omitname"><ptr target="bib:Mitra1880_02"/></bibl> puts this line at the end of the last line.</note></app>
                </listApp>
-             </div>
          </div>
-         <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
+         <div type="translation" resp="part:ryfu">
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->

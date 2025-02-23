@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2025-02-23" status="draft">Unnecessary textpart division omitted.</change>
             <change who="part:ryfu" when="2025-02-19" status="draft">Translation completed.</change>
             <change who="part:ryfu" when="2025-02-19" status="draft">Translation encoding started.</change>
             <change who="part:ryfu" when="2025-02-18" status="draft">Text and Apparatus completed.</change>
@@ -88,7 +89,6 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-             <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                  <pb n="1r"/><lb n="1"/><p><g type="spiralR"/><!-- siddham --> Om̐ namaḥ śivāya<g type="ddanda">.</g></p>
                  <lg n="1" met="śārdūlavikrīḍita">
                      <l n="a">yaḥ kārttā bhuvana-trayasya tanubhir viśvaṁ pr̥thivyādibhir</l>
@@ -234,10 +234,8 @@
                      <l n="cd">sa viṣṭhāyāṁ kr̥mir <supplied reason="lost">bhūtvā pi</supplied><lb n="55" break="no"/>tr̥bhiḥ saha pacyate<g type="ddanda">.</g></l>
                  </lg>
                  <p><gap reason="illegible" unit="character" quantity="13"/></p>
-             </div>
          </div>
          <div type="apparatus">
-             <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="1"><lem><g type="spiralR"/></lem><rdg source="bib:Mitra1880_02"/><rdg source="bib:Gupta1927-1928_01"/><rdg source="bib:Gupta1967_01"/></app>
                    <app loc="2"><lem>ta<lb n="3" break="no"/>smai</lem><rdg source="bib:Mitra1880_02"><lb n="3" break="no"/>tasmai</rdg></app>
@@ -458,7 +456,6 @@
                    <app loc="54"><lem><supplied reason="lost">bhūtvā pi</supplied></lem><note>This part of the plate is now lost but present and visible in the estampage attached to <bibl rend="omitname"><ptr target="bib:Mitra1880_02"/></bibl>.</note></app>
                    <app loc="55"><lem><gap reason="illegible" unit="character" quantity="13"/></lem><rdg source="bib:Mitra1880_02">pāṇḍavakulādipālāvda 4328</rdg><rdg source="bib:Gupta1927-1928_01">pāṇḍavakulādipālāvda 4151 jeṭa 9</rdg><rdg source="bib:Gupta1967_01">pāṇḍavakulādipālāvda 4159</rdg><note>Readings of the previous editors doubtable. These undecipherable characters scribbled in the last line are different from those in the other parts of the plate, and could be the later addition.</note></app>
                </listApp>
-             </div>
          </div>
          <div type="translation" resp="part:ryfu">
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
