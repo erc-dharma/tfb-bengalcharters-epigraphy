@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2025-02-23" status="draft">Translation encoded.</change>
             <change who="part:ryfu" when="2025-02-23" status="draft">Text, apparatus and bibliography completed.</change>
             <change who="part:ryfu" when="2025-02-23" status="draft">Initial Encoding</change>
         </revisionDesc>
@@ -281,18 +282,42 @@
                </listApp>
          </div>
          <div type="translation" resp="part:ryfu">
+             <p n="1">Success! Oṁ, salutation to Nārāyaṇa!</p>
+             <p rend="stanza" n="1">May the lover of Kamalā <supplied reason="explanation">Viṣṇu</supplied>, who is black like a large sapphire, wearing a garment bright with gold, like a rain cloud with lightning, protect you!</p>
+             <p rend="stanza" n="2">May the nectar-rayed one<supplied reason="explanation">the Moon</supplied>, the crest jewel of Maheśa, the lord of beasts <supplied reason="explanation">lion</supplied> among a flock of elephants that are hymns, and very tall and short <supplied reason="subaudible">at once</supplied>, be victorious!</p>
+             <p rend="stanza" n="3">In his lineage was born the king Śohuṇa, the garland of the world, who had a heap of unequalled fame in his rise. He was the wealthy wish-fulfilling tree for <gap reason="ellipsis"/> circle of <gap reason="ellipsis"/>.</p>
+             <p rend="stanza" n="4">To him was born the son, this Nārāyaṇadeva, who was <gap reason="ellipsis"/> of sword-bearers, the Mandara Mountain in the agitated and shaken ocean, and had the body beautiful with wounds <gap reason="ellipsis"/>.</p>
+             <p rend="stanza" n="5"><supplied reason="subaudible">He was</supplied> a storehouse of arts, a house of virtues, a heap of heroism, the land of good conduct, <gap reason="ellipsis"/> of friendship, having upraised fortune, with well-known fame, and was a garland of the world.</p>
+             <p rend="stanza" n="6">To him was born the son, King Keśavadeva, who had great energy, called Govinda for cowherdess that were his enemies and the Lord of trees that were heroes, whose feet were decorated by crest jewels of kings.</p>
+             <p rend="stanza" n="7">By whose virtues pleasing to listen, virtuous people are drawn from all around. After coming to the fulfilment of their wish, best brāhmaṇas did not remember their native land.</p>
+             <p rend="stanza" n="8">When he was ruling the earth, kings did not go to sleep even in night, thinking over goods to give to that cause of delight <supplied reason="explanation">the king</supplied>.</p>
+             <p rend="stanza" n="9">That king of kings, who had an abundance of army consisting of troops of innumerable great ships, foot soldiers, horses and rutting elephants, cleansed the earth by his fame pure like white waterlily.</p>
+             <p rend="stanza" n="10">He, who had great energy, built a temple of the destroyer of Kaṁsa <supplied reason="explanation">Kr̥ṣṇa</supplied> by lofty stones. Hails staying in the sky, broken by the edge of the discus installed at its lofty pinnacle, melt away.</p>
+             <p rend="stanza" n="11">After obtaining wealth at his donation of tulāpuruṣa, brāhmaṇas became like wish-fulfilling trees, decorated with gold ornaments.</p>
+             <p rend="stanza" n="12">From him, as if the son of Bahulā <supplied reason="explanation">Skanda</supplied> <supplied reason="subaudible">was born</supplied> from Maheśa, the son of Rohiṇī <supplied reason="explanation">Budha</supplied> <supplied reason="subaudible">was born</supplied> from the nectar-rayed one <supplied reason="explanation">the Moon</supplied>, illustrious Īśānadeva, the moon among kings, who had a heap of spotless fame, was born.</p>
+             <p rend="stanza" n="13">Touched by dust scattered by the army of troops of foot soldiers, horses and elephants moving on his victorious march on the earth, <gap reason="ellipsis"/> swans <gap reason="ellipsis"/> Śakra had his eyes shut.</p>
+             <p rend="stanza" n="14">By water spring up by blows of sporting fall of his great ships, the pacification of heat from the sun ray was gained still more by horses of chariots, which were heating up excessively.</p>
+             <p rend="stanza" n="15">He built a high temple of the enemy of Madhu and Kaiṭabha <supplied reason="explanation">Viṣṇu</supplied> with excellent beauty, licking cloud. The banner on its lofty pinnacle appears like flowers of the tree of sky.</p>
+             <p rend="stanza" n="16">There was a skilful ākṣapaṭalika of this master of the earth, the light of the lineage of Vaidya, illustrious Vanamālikara.</p>
+             <p rend="stanza" n="17">This king was the one who made the edict according to the request of him, who was a rājaputra and sthavira without son, from his own hand.</p>
+             <p n="26">His two halas of land with homestead placed in line with creek should be protected.</p>
+             <p rend="stanza" n="18">The wife of the demised rājaputra, who is the guardian of family, and a child installed as the son of the both should also be protected.</p>
+             <p rend="stanza" n="19">The ādeśika <supplied reason="explanation">conveyer of order</supplied> was illustrious Vīradatta, the one excelled in battles, the supreme lord of army, whose eulogy of fame was sung at the ends of quarters, who had a multitude of excellent decorations of the Sun that were his valour.</p>
+             <p rend="stanza" n="20">Either given by himself or given by the others, the one who stole land, he would be boiled with his ancestors after becoming an insect in excreta.</p>
+             <p rend="stanza" n="21">Illustrious Mādhava, wise, the garland of the Dāsa family, created this eulogy. As long as oceans and mountains exist, may this praise also be victorious on the earth!</p>
+             <p n="32">Year 17 month Vaiśākha day 1.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First notified and edited by Rajendra Lal Mitra<bibl rend="omitname"><ptr target="bib:Mitra1880_02"/></bibl>, then re-edited by Kamala Kanta Gupta<bibl rend="omite"><ptr target="bib:Gupta1967_01"/></bibl>. Now re-edited by Ryosuke Furui on reading from the photographs taken by himself at Indian Museum.</p>
+           <p>First notified and edited by Rajendra Lal Mitra<bibl rend="omitname"><ptr target="bib:Mitra1880_02"/></bibl>, then re-edited by Kamala Kanta Gupta<bibl rend="omitname"><ptr target="bib:Gupta1967_01"/></bibl>. Now re-edited by Ryosuke Furui on reading from the photographs taken by himself at Indian Museum.</p>
         	<listBibl type="primary">
 	   <bibl n="RLM"><ptr target="bib:Mitra1880_02"/><citedRange unit="page">151-153</citedRange></bibl>
         	   <bibl n="KKG"><ptr target="bib:Gupta1967_01"/><citedRange unit="page">181-191</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl/>
            </listBibl>
         </div>
       </body>
