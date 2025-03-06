@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="pary:ryfu" when="2025-03-06" status="draft">Bibliography added.</change>
             <change who="part:ryfu" when="2025-02-23" status="draft">Translation encoded.</change>
             <change who="part:ryfu" when="2025-02-23" status="draft">Text, apparatus and bibliography completed.</change>
             <change who="part:ryfu" when="2025-02-23" status="draft">Initial Encoding</change>
@@ -317,7 +318,7 @@
         	   <bibl n="KKG"><ptr target="bib:Gupta1967_01"/><citedRange unit="page">181-191</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
-              <bibl/>
+              <bibl><ptr target="bib:Chaudhuri1940_01"/></bibl>
            </listBibl>
         </div>
       </body>

@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2025-03-06" status="draft">Bibliography added.</change>
             <change who="part:ryfu" when="2025-02-23" status="draft">Unnecessary textpart division omitted.</change>
             <change who="part:ryfu" when="2025-02-19" status="draft">Translation completed.</change>
             <change who="part:ryfu" when="2025-02-19" status="draft">Translation encoding started.</change>
@@ -498,7 +499,7 @@
         	    <bibl n="KKG"><ptr target="bib:Gupta1967_01"/><citedRange unit="page">153-180</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl><ptr target="bib:Chaudhuri1940_01"/></bibl>
            </listBibl>
         </div>
       </body>
