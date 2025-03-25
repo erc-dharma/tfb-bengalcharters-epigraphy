@@ -79,7 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:ryfu" when="2025\03\16" status="draft">Translation corrected.</change>
+            <change who="part:ryfu" when="2025-03-16" status="draft">Translation corrected.</change>
             <change who="part:ryfu" when="2025-03-06" status="draft">Bibliography added.</change>
             <change who="part:ryfu" when="2025-02-23" status="draft">Unnecessary textpart division omitted.</change>
             <change who="part:ryfu" when="2025-02-19" status="draft">Translation completed.</change>
@@ -109,7 +109,7 @@
                      <l n="cd">yeṣāṁ yaśa<supplied reason="omitted">ḥ</supplied><lb n="5" break="no"/>-praśastir bhuvi bhārata-saṁhitaivāsti<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="4" met="āryā">
-                     <l n="ab">Atha viśruta-prabhāvaḥ prabhavaḥ ś<choice><sic>r̥̅</sic><corr>rī</corr></choice>ha<supplied reason="omitted">ṭṭa</supplied>-rājya-kamalāyāḥ<g type="comma">.</g></l>
+                     <l n="ab">Atha viśruta-prabhāvaḥ prabhavaḥ ś<choice><sic>r̥̄</sic><corr>rī</corr></choice>ha<supplied reason="omitted">ṭṭa</supplied>-rājya-kamalāyāḥ<g type="comma">.</g></l>
                      <l n="cd">samajani naragīrvvā<lb n="6" break="no"/>ṇaḥ khara-vāṇaḥ kṣmā-bhujāṁ śreṣṭhaḥ<g type="ddanda">.</g></l>
                  </lg>
                  <lg n="5" met="upajāti">
@@ -198,7 +198,7 @@
                  </lg>
                  <lg n="20" met="anuṣṭubh">
                      <l n="ab">nā<supplied reason="lost">nā</supplied><lb n="29" break="no"/>-parijanāṁs tasmai jana-jātīn aneka-śaḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
-                     <l n="cd">prādāT ś<choice><sic>r̥̅</sic><corr>rī</corr></choice>haṭṭa-nātho <supplied reason="omitted">’</supplied>yaṁ śivāya śiva-kīrttanaḥ<g type="ddanda">.</g></l>
+                     <l n="cd">prādāT ś<choice><sic>r̥̥̄̅</sic><corr>rī</corr></choice>haṭṭa-nātho <supplied reason="omitted">’</supplied>yaṁ śivāya śiva-kīrttanaḥ<g type="ddanda">.</g></l>
                  </lg>
                  <p>
                      bhāṭapaḍā-deva-vandhe bhū-ha<lb 
@@ -244,7 +244,7 @@
                    <app loc="4"><lem>kati te</lem><rdg source="bib:Gupta1927-1928_01">katite</rdg></app>
                    <app loc="4"><lem>-pauruṣ<choice><sic>a</sic><corr>ā</corr></choice></lem><rdg source="bib:Mitra1880_02">-pauruṣā</rdg></app>
                    <app loc="4"><lem>yaśa<supplied reason="omitted">ḥ</supplied></lem><rdg source="bib:Mitra1880_02">yaśaḥ</rdg></app>
-                   <app loc="5"><lem>ś<choice><sic>r̥̅</sic><corr>śrī</corr></choice>ha<supplied reason="omitted">ṭṭa</supplied>-</lem><rdg source="bib:Mitra1880_02">svaccha-</rdg></app>
+                   <app loc="5"><lem>ś<choice><sic>r̥̥̄̅</sic><corr>śrī</corr></choice>ha<supplied reason="omitted">ṭṭa</supplied>-</lem><rdg source="bib:Mitra1880_02">svaccha-</rdg></app>
                    <app loc="5"><lem>naragīrvvā<lb n="6" break="no"/>ṇaḥ</lem><rdg source="bib:Mitra1880_02 bib:Gupta1967_01">navagīrvvā<lb n="6" break="no"/>ṇaḥ</rdg></app>
                    <app loc="6"><lem>tasyātmajo</lem><rdg source="bib:Gupta1927-1928_01">tasyā<supplied reason="omitted">t</supplied>majo</rdg></app>
                    <app loc="6"><lem>-patis</lem><rdg source="bib:Mitra1880_02">-patir</rdg></app>
@@ -291,7 +291,7 @@
                    <app loc="28"><lem><supplied reason="lost">nā</supplied></lem><note>This part of the plate is now lost but present and visible in the estampage attached to <bibl><ptr target="bib:Mitra1880_02"/></bibl>.</note></app>
                    <app loc="29"><lem>tasmai</lem><rdg source="bib:Gupta1927-1928_01">tasmau</rdg></app>
                    <app loc="29"><lem>-jātīn</lem><rdg source="bib:Mitra1880_02">-jātīr</rdg></app>
-                   <app loc="29"><lem>ś<choice><sic>r̥̅</sic><corr>śrī</corr></choice>haṭṭa-</lem><rdg source="bib:Mitra1880_02"> śrīhaṭṭa-</rdg></app>
+                   <app loc="29"><lem>ś<choice><sic>r̥̥̄̅</sic><corr>śrī</corr></choice>haṭṭa-</lem><rdg source="bib:Mitra1880_02"> śrīhaṭṭa-</rdg></app>
                    <app loc="29"><lem>bhāṭapaḍā-</lem><rdg source="bib:Mitra1880_02">cāṭāpadā-</rdg></app>
                    <app loc="29"><lem>-vandhe</lem><rdg source="bib:Mitra1880_02">-satre</rdg><rdg source="bib:Gupta1927-1928_01">-ranve</rdg></app>
                    <app loc="30"><lem>35<g type="ddandaStrokeLeft">.</g></lem><rdg source="bib:Gupta1967_01">35 ½</rdg></app>
