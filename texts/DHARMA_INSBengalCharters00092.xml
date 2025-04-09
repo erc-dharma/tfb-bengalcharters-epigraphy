@@ -78,6 +78,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2025-04-09" status="draft">Text, Apparatus and Bibliography completed.</change>
             <change who="part:ryfu" when="2025-04-09" status="draft">Initial encoding</change>
         </revisionDesc>
     </teiHeader>
@@ -201,7 +202,51 @@
                  </p>
                  <p>sam<supplied reason="omitted">v</supplied>at<supplied reason="omitted">·</supplied> 12 caitra-dine 9<supplied reason="omitted"><g type="ddanda">.</g></supplied></p>
                  <p>bhavanti<lb 
-                     n="43"/> cātra dharmānuśa<unclear>ṁ</unclear>sinaḥ ślokāh<g type="ddanda">.</g></p> 
+                     n="43"/> cātra dharmānuśa<unclear>ṁ</unclear>sinaḥ ślokāh<g type="ddanda">.</g></p>
+                 <lg n="15" met="anuṣṭubh">
+                     <l n="ab">vahubhi<supplied reason="omitted">r</supplied> vasudhā dattā rājabhiḥ sagrādibhiḥ<g type="danda">.</g></l>
+                     <l n="cd">yasya yasya yadā bhūmis tasya tasya tadā phala<supplied reason="omitted">ṁ</supplied><g type="ddanda">.</g></l>
+                 </lg>
+                 <lg n="16" met="anuṣṭubh">
+                     <l n="ab">bhūmi<unclear>ṁ</unclear> yaḥ pratigr̥hṇāti yaś ca bhūmi<unclear>ṁ</unclear> pra<lb n="44" break="no"/>yacchati<g type="danda">.</g></l>
+                     <l n="cd">Ubhau tau puṇya-<unclear>ka</unclear>rmāṇau niyataṁ svarga-gāminau<choice><sic><g type="danda">.</g></sic><corr><g type="ddanda">.</g></corr></choice></l>
+                 </lg>
+                 <lg n="17" met="anuṣṭubh">
+                     <l n="ab">gām ekāṁ svarṇṇam ekañ ca bhūmer apy arddham aṅgulaṁ<g type="danda">.</g></l>
+                     <l n="cd">haran narakam āyāti yāvad āhūta <unclear>saṁpla</unclear>vam·<g type="ddanda">.</g></l>
+                 </lg>
+                 <lg n="18" met="anuṣṭubh">
+                     <l n="ab">ṣaṣṭim varṣa<lb n="45" break="no"/>-sahasrāṇi svarge modati bhūmi-daḥ<choice><sic><g type="ddanda">.</g></sic><corr><g type="danda">.</g></corr></choice></l>
+                     <l n="cd">Ākseptā cānumantā ca tān<supplied reason="omitted">y</supplied> eva narake vaseT<g type="ddanda">.</g></l>
+                 </lg>
+                 <lg n="19" met="anuṣṭubh">
+                     <l n="ab">sva-dattāṁ para-dattā<unclear>ṁ</unclear> vā yo hareta vasundharām·<g type="danda">.</g></l>
+                     <l n="cd">sa vi<unclear>ṣṭhāyāṁ</unclear> kr̥mi<unclear>r</unclear> bhūtvā pi<lb n="46" break="no"/>tr̥bhiḥ saha pacyate<g type="ddanda">.</g></l>
+                 </lg>
+                 <lg n="20" met="śālinī">
+                     <l n="a">sarvān etān bhāvinaḥ pārthivendrāṁ</l>
+                     <l n="b">bhūyo bhūyaḥ prārthayaty esa rāmaḥ<g type="danda">.</g></l>
+                     <l n="c">sāmānyo <supplied reason="omitted">’</supplied>ya<supplied reason="omitted">ṁ dha</supplied>rma-setur nr̥pāṇā<supplied reason="omitted">ṁ</supplied></l>
+                     <l n="d">kāle kāle pālanīyaḥ krameṇa<g type="ddanda">.</g></l>
+                 </lg>
+                 <lg n="21" met="puṣpitāgrā">
+                     <l n="a">I<lb n="47" break="no"/>ti kamala-dalāmvu-vindu-lolā<unclear>ṁ</unclear></l>
+                     <l n="b">śriyam anucintya manuṣya-jīvitañ ca<g type="danda">.</g></l>
+                     <l n="c">sakalam idam udāhr̥tañ ca vuddhvā</l>
+                     <l n="d">na hi puruṣaiḥ para-kīrttayo vilo<supplied reason="lost">pyāḥ<g type="ddanda">.</g></supplied></l>
+                 </lg>
+                 <lg n="22" met="anuṣṭubh">
+                     <l n="ab"><choice><sic>ṣ</sic><corr>s</corr></choice>au<choice><sic>s</sic><corr>ṣ</corr></choice>ā<unclear>mya</unclear><lb n="48" break="no"/>-va<unclear>r</unclear>ddhi-maryādā-<unclear>yaśaḥ</unclear>-saty<choice><sic>a</sic><corr>ā</corr></choice><unclear>dy</unclear>-āśā-nidhiḥ<g type="danda">.</g></l>
+                     <l n="cd">v<surplus>v</surplus>ra<unclear>hm</unclear>āṇī-<unclear>dākṣā</unclear>-mā-dhanoḥ <unclear>dāha</unclear><choice><sic>ṇ</sic><corr>n</corr></choice>ī dagdha-bhū-bhujāṁ*<g type="ddanda">.</g></l>
+                 </lg>
+                 <lg n="23" met="āryā">
+                     <l n="ab">śrīmad-vigrahapālaḥ kṣiti-pati-tilako <unclear>tra</unclear>yi<unclear>naḥ</unclear> <gap reason="illegible" unit="character" quantity="3"/>ḥ<g type="danda">.</g></l>
+                     <l n="cd">śrī-sa<lb n="49" break="no"/>rasirājam akaro<choice><sic>m</sic><corr>n</corr></choice> mantriṇam iha śāsane dūtaṁ*<g type="ddanda">.</g></l>
+                 </lg>
+                 <lg n="24" met="anuṣṭubh">
+                     <l n="ab">gho<choice><sic>s</sic><corr>ṣ</corr></choice>alī-grāma-niryāta-mahīdharadeva-sūnunā<supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                     <l n="cd">Idaṁ śāsanam ut<supplied reason="omitted">·</supplied>kīrṇṇaṁ śaśidev<choice><sic>a</sic><corr>e</corr></choice>na śilpinā<supplied reason="lost"><g type="ddanda">.</g></supplied></l>
+                 </lg>
              </div>
          </div>
          <div type="apparatus">
@@ -246,6 +291,22 @@
                      <app loc="39"><lem>-vyākaraṇa-</lem><rdg source="bib:Banerji1919-1920_01">-myākaraṇa-</rdg></app>
                      <app loc="39"><lem>kroḍāñca-</lem><rdg source="bib:Banerji1919-1920_01">kroḍañci-</rdg></app>
                      <app loc="42"><lem><g type="ddanda">.</g><space type="vacat" unit="character" quantity="1"/><g type="ddanda">.</g></lem><rdg source="bib:Banerji1919-1920_01"><g type="ddanda">.</g></rdg></app>
+                     <app loc="44"><lem>āhūta</lem><rdg source="bib:Banerji1919-1920_01">ābhūta-</rdg></app>
+                     <app loc="45"><lem>tān<supplied reason="omitted">y</supplied></lem><rdg source="bib:Banerji1919-1920_01">tām</rdg></app>
+                     <app loc="46"><lem><supplied reason="omitted">’</supplied>ya<supplied reason="omitted">ṁ dha</supplied>rma-</lem><rdg source="bib:Banerji1919-1920_01">yaṁ dharma-</rdg></app>
+                     <app loc="47"><lem>ca<g type="danda">.</g></lem><rdg source="bib:Banerji1919-1920_01">ca<supplied reason="omitted"><g type="danda">.</g></supplied></rdg></app>
+                     <app loc="47"><lem><choice><sic>ṣ</sic><corr>s</corr></choice>au<choice><sic>s</sic><corr>ṣ</corr></choice>ā<unclear>mya</unclear></lem><rdg source="bib:Banerji1919-1920_01">sausā<gap reason="illegible" unit="character" quantity="2"/></rdg></app>
+                     <app loc="48"><lem>-va<unclear>r</unclear>ddhi-</lem><rdg source="bib:Banerji1919-1920_01">vanti</rdg></app>
+                     <app loc="48"><lem>-<unclear>yaśaḥ</unclear>-</lem><rdg source="bib:Banerji1919-1920_01"><unclear cert="low">ra</unclear>saṁ</rdg></app>
+                     <app loc="48"><lem>-saty<choice><sic>a</sic><corr>ā</corr></choice><unclear>dy</unclear>-āśā-</lem><rdg source="bib:Banerji1919-1920_01">-satya-tapo-</rdg></app>
+                     <app loc="48"><lem>v<surplus>v</surplus>ra<unclear>hm</unclear>āṇī-</lem><rdg source="bib:Banerji1919-1920_01">vrahmāṇi</rdg></app>
+                     <app loc="48"><lem>-<unclear>dākṣā</unclear>-mā-</lem><rdg source="bib:Banerji1919-1920_01">suradhāmā</rdg></app>
+                     <app loc="48"><lem><unclear>dāha</unclear><choice><sic>ṇ</sic><corr>n</corr></choice>ī</lem><rdg source="bib:Banerji1919-1920_01"><gap reason="illegible" unit="character" quantity="2"/>ṇo</rdg></app>
+                     <app loc="48"><lem><unclear>tra</unclear>yi<unclear>naḥ</unclear></lem><rdg source="bib:Banerji1919-1920_01">maṇi<gap reason="illegible" unit="character" quantity="2"/></rdg></app>
+                     <app loc="48"><lem>-sa<lb n="49" break="no"/>rasirājam</lem><rdg source="bib:Banerji1919-1920_01">-sa<lb n="49" break="no"/>hasirājam</rdg></app>
+                     <app loc="49"><lem>-mahīdharadeva-</lem><note> F. W. Thomas, the volume editor of Epigraphia Indica, suggests -śrī-mahīdhara- as an intended reading due to metrical consideration. May emend -mahīdharasya in view of similar stanzas in <bibl><ptr target="DHARMA_INSBengalCharters00085.xml"/></bibl> and other Pāla plates.</note></app>
+                     <app loc="49"><lem>ut<supplied reason="omitted">·</supplied>kīrṇṇaṁ</lem><rdg source="bib:Banerji1919-1920_01">utkīrṇṇaṁ</rdg></app>
+                     <app loc="49"><lem>śaśidev<choice><sic>a</sic><corr>e</corr></choice>na</lem><rdg source="bib:Banerji1919-1920_01">śaśideveva</rdg></app>
                  </listApp>
              </div>
          </div>
