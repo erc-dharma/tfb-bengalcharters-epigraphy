@@ -358,9 +358,9 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First notified by Henry Thomas Colebrooke<bibl rend="omitname"><ptr target="bib:Colebrooke1809_01"/></bibl>. A. F. Rudolf Hoernle<bibl rend="omitname"><ptr target="bib:Hoenrle1885_02"/></bibl> published a tentative reading of the text and reprinted it with revision<bibl rend="omitname"><ptr target="bib:Hoernle1885_01"/></bibl>. Franz Kielhorn<bibl rend="omitname"><ptr target="bib:Kielhorn1892_06"/></bibl> then published the metrical portion only, and Akshaya Kumar Maitreya<bibl rend="omitname"><ptr target="bib:Maitreya1912_01"/></bibl> incorporated it in his collection. Properly edited by Rakhal Das Banerji<bibl rend="omitname"><ptr target="bib:Banerji1919-1920_01"/></bibl> for the first time. Now re-edited by Ryosuke Furui based on the reading from estampages published in Banerji’s edition and digital photographs provided by the Asiatic Society.</p>
+           <p>First notified by Henry Thomas Colebrooke<bibl rend="omitname"><ptr target="bib:Colebrooke1809_01"/></bibl>. A. F. Rudolf Hoernle<bibl rend="omitname"><ptr target="bib:Hoernle1885_02"/></bibl> published a tentative reading of the text and reprinted it with revision<bibl rend="omitname"><ptr target="bib:Hoernle1885_01"/></bibl>. Franz Kielhorn<bibl rend="omitname"><ptr target="bib:Kielhorn1892_06"/></bibl> then published the metrical portion only, and Akshaya Kumar Maitreya<bibl rend="omitname"><ptr target="bib:Maitreya1912_01"/></bibl> incorporated it in his collection. Properly edited by Rakhal Das Banerji<bibl rend="omitname"><ptr target="bib:Banerji1919-1920_01"/></bibl> for the first time. Now re-edited by Ryosuke Furui based on the reading from estampages published in Banerji’s edition and digital photographs provided by the Asiatic Society.</p>
             <listBibl type="primary">
-                <bibl n="RH1"><ptr target="bib:Hoenrle1885_02"/><citedRange unit="page">203-216</citedRange></bibl>
+                <bibl n="RH1"><ptr target="bib:Hoernle1885_02"/><citedRange unit="page">203-216</citedRange></bibl>
                 <bibl n="RH2"><ptr target="bib:Hoernle1885_01"/></bibl>
 	   <bibl n="RDB"><ptr target="bib:Banerji1919-1920_01"/></bibl>
             </listBibl>
