@@ -268,7 +268,7 @@
                    <app loc="6"><lem>’smād</lem><rdg source="bib:Sircar1951-1952_02">smād</rdg></app>
                    <app loc="9"><lem>śrīman-</lem><rdg source="bib:Sircar1951-1952_02">śrīmān</rdg></app>
                    <app loc="11"><lem>-<choice><sic>v</sic><corr>dh</corr></choice>ara-</lem><rdg source="bib:Sircar1951-1952_02">-dhara-</rdg></app>
-                   <app loc="14"><lem>sa<lb n="15" break="no"/>vitu<unclear>r</unclear></lem><rdg source="bib:Sircar195101952_02"><choice><sic>ś</sic><corr>s</corr></choice>a<lb n="15" break="no"/>vitu<unclear>r</unclear></rdg></app>
+                   <app loc="14"><lem>sa<lb n="15" break="no"/>vitu<unclear>r</unclear></lem><rdg source="bib:Sircar1951-1952_02"><choice><sic>ś</sic><corr>s</corr></choice>a<lb n="15" break="no"/>vitu<unclear>r</unclear></rdg></app>
                    <app loc="17"><lem>uday<choice><sic>a</sic><corr>ā</corr></choice>dre<unclear>r</unclear></lem><rdg source="bib:Sircar1951-1952_02">uday<unclear>ā</unclear>dre<unclear>r</unclear></rdg></app>
                    <app loc="17"><lem>-va<lb n="18" break="no"/>satis</lem><rdg source="bib:Sircar1951-1952_02">-va<lb n="18" break="no"/>sati<supplied reason="omitted">ḥ</supplied></rdg></app>
                    <app loc="18"><lem>tato</lem><rdg source="bib:Sircar1951-1952_02">suto</rdg></app>
@@ -304,7 +304,7 @@
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p rend="stanza" n="24">Failing to understand that the stanza contains the genealogy of settlements from Kroḍāñca to Iṭṭahalā/Iṭṭāhāka, Sircar interprets this stanza as a genealogy starting from Kāccha and ending with Ghaṇṭīśa. .</p>
+             <p rend="stanza" n="24">Failing to understand that the stanza contains the genealogy of settlements from Kroḍāñca to Iṭṭahalā/Iṭṭāhāka, Sircar interprets this stanza as a genealogy starting from Kāccha and ending with Ghaṇṭīśa.</p>
          </div>
         <div type="bibliography">
            <p>First edited and published by Dines Chandra Sircar<bibl rend="omitname"><ptr target="bib:Sircar1951-1952_02"/></bibl>. Now re-edited by Ryosuke Furui, based on the reading from the estampages attached to Sircar’s edition.</p>
