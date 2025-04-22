@@ -105,7 +105,7 @@
          <div type="edition" xml:lang="san-Latn">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
 					<ab><lb
-n="1"/><unclear reason="illegible">mahā</unclear>rāja-vijaya<unclear>se</unclear>nasya
+n="1"/><unclear>mahā</unclear>rāja-vijaya<unclear>se</unclear>nasya
 					</ab>
 				</div>
              <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
@@ -186,7 +186,7 @@ amwb : here sircar notes that it is the only instance of the use of the sign ba
 n="17"/>kenacid etad-va<sic>n</sic>śa-jenānyatamena vā svalp<choice><sic>a</sic><corr>ā</corr></choice>py āvādhā hasta-prakṣepo vā k<choice><sic>a</sic><corr>ā</corr></choice>ryyaḥ<supplied reason="subaudible">.</supplied> Evam avadhr̥te yo 'tha karoti sa vadhyaḥ pañcabhir mma<lb
 n="18" break="no"/>hā-pātakaiḥ sopapātakaiḥ saṁyuktaḥ syād<supplied reason="subaudible">.</supplied> api ca</p><!--
 daba: Neither Majumdar nor Sircar note that there is an indent before kṣa in l16. The corner is broken off, and may have been rounded or left blank to begin with. This line begins about 1 character further in than the second line on this face, and that in turn begins 2-3 characters further in than the next three lines. Thus the reading kamalākṣa may be correct, but it's also possible that another character or two have been lost at the beginning of this line, and lā at the end of the previous page is far from certain.
---><lg n="4" met="anuṣṭubh">
+--><lg n="4" met="anuṣṭubh"><!-- best_0178 -->
 <l n="a">nāsya devā na pitaro</l>
 <l n="b">haviḥ piṇḍaṁ samāpnuyuḥ</l>
 <l n="c"><unclear>chi</unclear>nna-mastakavat tālaḥ</l>
@@ -194,38 +194,38 @@ daba: Neither Majumdar nor Sircar note that there is an indent before kṣa in l
 </lg><!--
 daba: For mastakavat tālaḥ in l18, Sircar reads mastakavettālaḥ and emends to mastaka-vetālaḥ (then hypercorrects to °vetālo hy). I see no e mātrā over the va. The characters masta are not clear in the facsimile and there may actually be an e mātrā over the presumed sta. I don't see why a palm tree would become apratiṣṭha if its head were cut off, but a vetāla seems even more bizarre. I could perhaps imagine reading mūlakavat, though this is not very likely; the second character does not look like la.
 --><p>bhūmi-dānāpaharaṇa-pratipālana-guṇa-do<choice><sic>s</sic><corr>ṣ</corr></choice>a-vyañjakāḥ Ārṣāḥ ślokā bhavanti</p>
-<lg n="5" met="anuṣṭubh">
+<lg n="5" met="anuṣṭubh"><!-- best_0123 -->
 <l n="a">ṣaṣṭiṁ varṣa-sahasrāṇi</l>
 <l n="b"><lb n="20"/>svargge nandati bhūmi-daḥ</l>
 <l n="c">Ākṣeptā cānumantā ca</l>
 <l n="d">tāny eva narake vaseT</l>
 </lg>
-<lg n="6" met="anuṣṭubh">
+<lg n="6" met="anuṣṭubh"><!-- best_0020 -->
 <l n="a">Āsphoṭayanti pitaraḥ</l>
 <l n="b">pravalganti pitāmahāḥ</l>
 <l n="c">bhūmi-do <lb n="21"/>'sma<choice><sic>n</sic><corr>t</corr></choice>-kule jātaḥ</l>
 <l n="d">sa naḥ santārayiṣyati</l>
 </lg>
-<lg n="7" met="anuṣṭubh">
+<lg n="7" met="anuṣṭubh"><!-- best_0159 -->
 <l n="a">yat kiñci<choice><sic>n</sic><corr>t</corr></choice> kurute pāpaṁ</l>
 <l n="b">naro lobha-sam<choice><sic>ā</sic><corr>a</corr></choice>nvitaḥ</l>
 <l n="c">Api go-carmma-māttreṇa</l>
 <l n="d">bhūmi-dānena śudhyati</l>
 </lg>
-<lg n="8" met="anuṣṭubh">
+<lg n="8" met="anuṣṭubh"><!-- best_0131_01 -->
 <l n="a">pū<lb  n="22" break="no"/>rvva-dattāṁ dvijātibhyo</l>
 <l n="b">yat<unclear>n</unclear>ād rakṣa yudhiṣṭhira</l>
 <l n="c">bhūmiṁ bhūmi<supplied reason="omitted">ma</supplied>tāṁ śreṣṭha</l>
 <l n="d">dānāc chreyo 'nupālanaṁ</l><!--
 daba: In l22 I follow Majumdar and Sircar's restoration bhūmimatāṁ; other solutions would also be conceivable.
 --></lg>
-<lg n="9" met="anuṣṭubh">
+<lg n="9" met="anuṣṭubh"><!-- best_0023_01 -->
 <l n="a">Iyaṁ rāja-śatair ddattā</l>
 <l n="b">dīyate ca punaḥ <lb n="23"/>punaḥ</l>
 <l n="c">yasya yasya yadā bhūmis</l>
 <l n="d">tasya tasya tadā phalaṁ</l>
 </lg>
-<lg n="10" met="anuṣṭubh">
+<lg n="10" met="anuṣṭubh"><!-- best_0071 -->
 <l n="a">taḍit-taraṅga-vahulāṁ</l>
 <l n="b">śriyaṁ matvā ca marttyānāṁ</l>
 <l n="c">na dharmma-sthitaya<lb  n="24" break="no"/>s sadbhiḥ</l>

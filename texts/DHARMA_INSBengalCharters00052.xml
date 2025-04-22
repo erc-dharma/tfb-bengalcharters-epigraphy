@@ -160,7 +160,7 @@ amwb : as Arlo does not give his opinion on KND's note, I removed kṣetra-<subs
 --><!-- 
 amwb : removed dātu<damage>m i<unclear reason="illegible">ti</unclear></damage> and replaced it by Arlo's reading
 --></p>
-<p><damage><unclear reason="illegible">tatra</unclear></damage> yataḥ prathama-
+<p><damage><unclear>tatra</unclear></damage> yataḥ prathama-
 <lb 
 n="10"/>pustapāla-divākaranandi-pustapāla-dhr̥tiviṣṇu-virocana-rāmadāsa-haridāsa-śaśinandi-<unclear>su</unclear>prabhamanu<unclear>da</unclear><supplied reason="lost">ttā</supplied>nām avadhāraṇa<!-- 
 daba siddham :Dikshit reads the damaged locus as °nandiṣu prathamanu ### (nā)m. I follow Agrawala's reconstruction, but my markup is a bit more cautious than his. bha is quite clear and does not look like tha to me. 
@@ -241,33 +241,33 @@ n="21"/><space/> māgha <abbr>di</abbr> <num value="7">7</num> <space/><!--
 amwb : added tag abbr for di
 --></p>
 <p>Uktañ ca bhagavatā vyāsena <space/></p>
-<lg n="1" met="anuṣṭubh">
+<lg n="1" met="anuṣṭubh"><!-- best_st0132_00 -->
 <l n="a">sva-dattāṁ para-dattāṁ vā</l>
 <l n="b">yo hareta vasundharāM <space/></l>
 <l n="c"><lb n="22"/>sa viṣṭhāyāṁ k<sic>ri</sic>mir bhūtvā</l>
 <l n="d">pitr̥bhis saha pacyate <space/></l>
 </lg>
-<lg n="2" met="anuṣṭubh">
+<lg n="2" met="anuṣṭubh"><!-- best_st0123 -->
 <l n="a">ṣaṣṭi<supplied reason="omitted">ṁ</supplied> varṣa-sahasrāṇi</l>
-<l n="b">svargge vasati bhūmidaḥ <space/></l>
+<l n="b">svarg<surplus>g</surplus>e vasati bhūmidaḥ <space/></l>
 <l n="c"><lb n="23"/>Ākṣeptā cānumantā ca</l>
 <l n="d">tāny eva narake vaseT <space/></l>
 </lg>
-<lg n="3" met="anuṣṭubh">
-<l n="a">rājabhir vvahubhir dattā</l>
+<lg n="3" met="anuṣṭubh"><!-- best_st0023 variation -->
+<l n="a">rājabhir <surplus>v</surplus><choice><orig>v</orig><reg>b</reg></choice>ahubhir dattā</l>
 <l n="b">dīyate ca punaḥ punaḥ</l>
 <l n="c">yasya yasya <lb n="24"/>yadā bhūmi<supplied reason="omitted">s</supplied></l>
 <l n="d">tasya tasya tadā phalaM <space/></l>
 </lg>
-<lg n="4" met="anuṣṭubh">
-<l n="a">pūrvva-dattāṁ dvijātibhyo</l>
+<lg n="4" met="anuṣṭubh"><!-- best_st0131_01 -->
+<l n="a">pūr<surplus>v</surplus>va-dattāṁ dvijātibhyo</l>
 <l n="b">yatnād rakṣa yudhiṣṭhira<surplus>ḥ</surplus></l>
 <l n="c">mahīm mah<choice><sic>i</sic><corr>ī</corr></choice>matāṁ śreṣṭha</l>
 <l n="d"><lb n="25"/>dānāc chreyo 'nupālanaṁ<space/><!-- 
 daba siddham :Dikshit emends mahimatāṁ to matimatāṁ. His editor notes that mahimatāṁ is also correct. I Thought it ought to be mahīmatāṁ. 
 --></l>
 </lg>
-<lg n="5" met="anuṣṭubh">
+<lg n="5" met="anuṣṭubh"><!-- best_st0150 -->
 <l n="a">vindhyāṭavīṣv anambhassu</l>
 <l n="b">śuṣka-koṭara-vāsina<supplied reason="omitted">ḥ</supplied><space/></l>
 <l n="c"><sic>kr̥ṣnāhino</sic> hi jāyante</l>
@@ -358,7 +358,7 @@ amwb : change the reading of anambhassu for Arlo's one, see apparatus
 					<lem>dātu<unclear>m iti</unclear> <space/> <unclear>ya</unclear>taḥ</lem>
 					<rdg source="bib:Dikshit1929-1930_01">dātum i<unclear>ti</unclear> <supplied reason="omitted">|</supplied> yataḥ</rdg>
 					<rdg source="bib:Sircar1965_02">dātum i<supplied reason="lost">ty atra</supplied> yataḥ</rdg>
-					<rdg source="bib:Balogh+al2019_01">dātu<damage>m i<unclear reason="illegible">ti</unclear></damage></rdg>
+					<rdg source="bib:Balogh+al2019_01">dātu<damage>m i<unclear>ti</unclear></damage></rdg>
 				</app>
 				<app loc="10">
 					<lem>-suprabhamanu<unclear>da</unclear><supplied reason="lost">ttā</supplied>nām</lem>

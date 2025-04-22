@@ -120,13 +120,13 @@ daba : Or maybe read trixkālaṁ?
 --><!-- 
 amwb : I removed daba's edition saṁgh<unclear>ā</unclear>nām which seems to be the same as Agrawala1983 and replaced it by Bhattacharyya1930's reading which should be more "original". Due to the state of preservation of the plate, I checked this point but it is impossible to me to confirm this reading
 --><lb 
-n="6"/>gandha-puṣpa-dīpa-dhūpādi-pra<unclear reason="illegible" cert="low">varttanāya ta</unclear>sya bhikṣu-saṁghasya ca cīvara-piṇḍa-pāta-śayanāsana-glāna-pratyaya-bhaiṣajyādi-<!-- 
+n="6"/>gandha-puṣpa-dīpa-dhūpādi-pra<unclear cert="low">varttanāya ta</unclear>sya bhikṣu-saṁghasya ca cīvara-piṇḍa-pāta-śayanāsana-glāna-pratyaya-bhaiṣajyādi-<!-- 
 daba : Ghose_1930 proposes pradānāya tasya for the lacuna. 
 --><lb 
 n="7"/>paribhogāya vihāre <unclear>ca</unclear> khaṇḍa-phuṭṭa-pratisaṁskāra-karaṇāya Uttara-māṇḍalika-kānteḍadaka-grāme sarvato bho<lb 
 n="8" break="no"/>genāgrahāratvenaikādaśa-khila-pāṭakāḥ pañcabhiḥ khaṇḍais tāmra-paṭṭenātisr̥ṣṭāḥ</p>
 <p>Api ca khalu śruti-smr̥tī<lb 
-n="9" break="no"/><unclear reason="illegible">ti</unclear>hā<unclear reason="illegible">sa</unclear>-vihitāṁ puṇya-bhūmidāna-śrutim aihikāmuttrika-phala-viṣeṣe smr̥to bhāvataḥ samupagamya svatas tu pī<!-- 
+n="9" break="no"/><unclear cert="low">ti</unclear>hā<unclear cert="low">sa</unclear>-vihitāṁ puṇya-bhūmidāna-śrutim aihikāmuttrika-phala-viṣeṣe smr̥to bhāvataḥ samupagamya svatas tu pī<!-- 
 daba : The conjecture smr̥tītihāsa, which sounds absolutely convincing, is from Ghose_1930. Bhattacharyya's (uninterpreted?) reading was smr̥tīhāpa. Thus the ti of itihāsa may actually be an editorial addition, not a conjectural reading. 
 --><!-- 
 daba : Agrawala notes that smr̥to should be corrected to smr̥tāṁ, or to viśeṣeṇa smr̥tau. I add viśeṣa-smr̥tau as a less invasive option. 
@@ -134,20 +134,20 @@ daba : Agrawala notes that smr̥to should be corrected to smr̥tāṁ, or to vi�
 n="10" break="no"/>ḍām apy ūrīkr̥tya pāttrebhyo bhūmiṁ <gap reason="lost" precision="low" quantity="4" unit="character"/> <unclear cert="low">dviṣa</unclear>dbhir asmad-vacana-gauravāt sva-yaśo-dharmmāvāptaye caite<!-- 
 daba : Ghose_1930 suggests na haret for the lacuna. Agrawala (Sircar?) offers nāpaharet. Both would be followed by an editorial daṇḍa. I find this less than convincing, and the reading dviṣadbhir is also dubious imo. Perhaps sadbhir? 
 --><lb 
-n="11"/>pāṭakā Asmi<unclear cert="low">n vi</unclear>hāre śaśvat-kālam abhya<unclear reason="illegible" cert="low">nupālayitavyāḥ</unclear><supplied reason="subaudible">.</supplied> Anupālanam prati ca bhagavatā parāśarātmajena veda-vyā<!-- 
+n="11"/>pāṭakā Asmi<unclear cert="low">n vi</unclear>hāre śaśvat-kālam abhya<unclear cert="low">nupālayitavyāḥ</unclear><supplied reason="subaudible">.</supplied> Anupālanam prati ca bhagavatā parāśarātmajena veda-vyā<!-- 
 daba : Ghose_1930 had been the originator of nupālayitavyāḥ for the lacuna. 
 --><lb 
 n="12" break="no"/>sena vyāsena gītāḥ ślokā bhavanti</p>
-    <lg n="1" met="anuṣṭubh" corresp="#Sircar1965_st0123">
+    <lg n="1" met="anuṣṭubh"><!-- best_st0123 -->
     <l n="a">ṣaṣṭiṁ varṣa-sa<unclear>hasrā</unclear>ṇi</l>
     <l n="b">svargge modati bhūmidaḥ</l>
     <l n="c">Ākṣeptā cānumantā ca</l>
     <l n="d">tā<lb 
-n="13" break="no"/>ny eva na<unclear reason="illegible">ra</unclear>ke vaseT<!-- 
+n="13" break="no"/>ny eva na<unclear cert="low">ra</unclear>ke vaseT<!-- 
 daba : Bhattacharyya_1930:48 notes that the halanta t has a double top line. 
 --></l>
 </lg>
-    <lg n="2" met="anuṣṭubh" corresp="#Sircar1965_st0132">
+    <lg n="2" met="anuṣṭubh"><!-- corresp="Best_st0132"-->
     <l n="a">sva-dattāṁ para-dattām vā</l>
     <l n="b">yo hareta <unclear>vasu</unclear>ndharāṁ</l>
     <l n="c"><unclear>sa</unclear> viṣṭhāyāṁ kr̥mir bhūtvā</l>
@@ -155,7 +155,7 @@ daba : Bhattacharyya_1930:48 notes that the halanta t has a double top line.
 daba : Sircar prints bhutvā. Bhattacharyya and Agrawala both have bhūtvā; I assume this is a typo in Sircar. 
 --></l>
     </lg>
-    <lg n="3" met="anuṣṭubh" corresp="#Sircar1965_st0131">
+    <lg n="3" met="anuṣṭubh"><!-- corresp="Best_st0131"-->
     <l n="a"><lb 
 n="14"/>pūrva-dattāṁ dvijātibhyo</l>
     <l n="b">yatnād rakṣa yudhiṣṭhira<!-- 
@@ -181,7 +181,7 @@ n="18" break="no"/>stha-naradattena</p>
 n="19" break="no"/>grahāra-grāma-sīmā viṣṇuvardhaki-kṣetra<sic>ś</sic> ca<supplied reason="subaudible">.</supplied> dakṣiṇena <unclear cert="low">miduvilāla</unclear>-kṣettraṁ rāja-vihāra-kṣetra<sic>ś</sic> ca<supplied reason="subaudible">.</supplied> paścimena sūrīnāśīrampūrṇṇeka-<!-- 
 daba : guṇekāgrahāra (spelt guṇikāgrahāra in l21) must be the findspot, Guṇāīghar. 
 --><lb 
-n="20"/>kṣettraṁ<supplied reason="subaudible">.</supplied> Uttareṇa doṣī-bhoga-puṣkariṇ<unclear reason="illegible">ī</unclear> <gap reason="illegible" precision="low" quantity="15" unit="character"/> vampiyākāditya-vandhu-kṣetrāṇāñ ca sīmā<!-- 
+n="20"/>kṣettraṁ<supplied reason="subaudible">.</supplied> Uttareṇa doṣī-bhoga-puṣkariṇ<unclear cert="low">ī</unclear> <gap reason="illegible" precision="low" quantity="15" unit="character"/> vampiyākāditya-vandhu-kṣetrāṇāñ ca sīmā<!-- 
 daba : Agrawala (Sircar?) restores an *e before vampiyā. I see no reason to assume we have evam here. 
 --></p>
 <p><lb 
@@ -242,11 +242,11 @@ daba : Bhattacharyya reads the month as possya; Sircar and Agrawala as poṣṣa
                        <note><bibl><ptr target="bib:Sircar1965_02"/></bibl> suggests reading <foreign>tri-kālaṁ</foreign> and understands this word as a synonym for <foreign>trisanddhyaṁ</foreign>. </note>
                    </app>
                    <app loc="6">
-                       <lem source="bib:Bhattacharyya1930_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Goyal1993_01 bib:Balogh+al2019_01">-pra<unclear reason="illegible" cert="low">varttanāya ta</unclear>sya</lem>
-                       <note><bibl><ptr target="bib:Ghose1930_01"/></bibl> suggests another restoration of the text : <foreign>-pra<unclear reason="illegible" cert="low">dānāya ta</unclear>sya</foreign>. </note>
+                       <lem source="bib:Bhattacharyya1930_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Goyal1993_01 bib:Balogh+al2019_01">-pra<unclear cert="low">varttanāya ta</unclear>sya</lem>
+                       <note><bibl><ptr target="bib:Ghose1930_01"/></bibl> suggests another restoration of the text : <foreign>-pra<unclear cert="low">dānāya ta</unclear>sya</foreign>. </note>
                    </app>
                    <app loc="9">
-                       <lem source="bib:Ghose1930_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Goyal1993_01 bib:Balogh+al2019_01">°<unclear reason="illegible">ti</unclear>hā<unclear reason="illegible">sa</unclear>-vihitāṁ</lem>
+                       <lem source="bib:Ghose1930_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Goyal1993_01 bib:Balogh+al2019_01">°<unclear>ti</unclear>hā<unclear>sa</unclear>-vihitāṁ</lem>
                        <rdg source="bib:Bhattacharyya1930_01">hāpavihitā <supplied reason="subaudible">.</supplied></rdg>
                    </app>
                    <app loc="9">
@@ -260,11 +260,11 @@ daba : Bhattacharyya reads the month as possya; Sircar and Agrawala as poṣṣa
                        <note><bibl><ptr target="bib:Ghose1930_01"/></bibl> and <bibl><ptr target="bib:Goyal1993_01"/></bibl> suggest <foreign>na haret</foreign> for the lacuna. <bibl><ptr target="bib:Sircar1965_02"/></bibl> considers the gap more long and offers <foreign>nāpahareT <supplied reason="subaudible">.</supplied> vādhañca kuryāt</foreign>.</note>
                    </app>
                    <app loc="11">
-                       <lem source="bib:Ghose1930_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Goyal1993_01 bib:Balogh+al2019_01">abhya<unclear reason="illegible" cert="low">nupālayitavyāḥ</unclear></lem>
+                       <lem source="bib:Ghose1930_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Goyal1993_01 bib:Balogh+al2019_01">abhya<unclear cert="low">nupālayitavyāḥ</unclear></lem>
                        <rdg source="bib:Bhattacharyya1930_01">abhya<gap reason="illegible" precision="low" unit="character" quantity="5"></gap></rdg>
                    </app>
                    <app loc="13">
-                       <lem source="bib:Balogh+al2019_01">na<unclear reason="illegible">ra</unclear>ke</lem>
+                       <lem source="bib:Balogh+al2019_01">na<unclear>ra</unclear>ke</lem>
                        <rdg source="bib:Bhattacharyya1930_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Goyal1993_01">na<supplied reason="omitted">ra</supplied>ke</rdg><!-- 
                        amwb : adopt the next editors' reading seems to me more reasonable
                        -->
