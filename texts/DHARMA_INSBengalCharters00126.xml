@@ -79,13 +79,14 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2025-04-26" status="draft">Translation and commentary completed.</change>
             <change who="part:ryfu" when="2025-04-26" status="draft">Initial encoding.</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-             <lb n="1"/><p><g type="spiralR"/><space type="vacat" unit="character" quantity="1"/> namo vuddhāya<g type="ddandaStrokeLeft">.</g></p>
+             <lb n="1"/><p><g type="spiralR"/><!--siddham--><space type="vacat" unit="character" quantity="1"/> namo vuddhāya<g type="ddandaStrokeLeft">.</g></p>
              <lg n="1" met="śārdūlavikrīḍita">
                  <l n="a">Āsīd dr̥pta-narendra-vr̥nda-vijayī śrī-rāṣṭrakūṭānvayaḥ</l>
                  <l n="b">śrīmān nanna Iti tri-loka-viditas tejasvinām agraṇīḥ<g type="danda">.</g></l>
@@ -259,12 +260,37 @@
                </listApp>
          </div>
          <div type="translation" resp="part:ryfu">
+             <p n="1">Success! Homage to the Buddha!</p>
+             <p rend="stanza" n="1">There was the son of king, the conqueror of the host of proud kings, of the illustrious Rāṣṭrakūṭa lineage, known to the three worlds as illustrious Nanna, the foremost among glorious ones, made known by his dutiful vow and commendable clean manner, and the wish-fulfilling tree among supplicants by his abundant donations.</p>
+             <p rend="stanza" n="2">He was known as the hero <supplied reason="subaudible">inflicting</supplied> a blow on the side-face of an elephant, after defeating an attacking mad elephant by a striking of whip, while going on a great horse in a row of kings.</p>
+             <p rend="stanza" n="3">He conquered the fort difficult to conquer and the strong king by his excellent valorous deeds and also by high, illustrious abode, sword, merit and wealth. Even now, the whiteness of the fort of Maṇipūra <supplied reason="subaudible">made</supplied> by him is always praised at the assembly of kings by learned men knowing colours, to whom rise of hairs occur.</p>
+             <p rend="stanza" n="4">Because of the preeminence of heroism resembling nobody else, he was known as Mahīśūdraka. He also took the praiseworthy name called Guṇāvaloka by his good manner. He was exalted by whatever virtuous names coming forth with this and that distinctions. He, dwelling in the sacred place, duly abandoned his body like a yogin at the end.</p>
+             <p rend="stanza" n="5">To him was the son, who defeated an enemy troop, heated the divisions of the quarters very much by his energy, greatly delighted a thicket of lotus that was a host of supplicants, and whose feet was rested on by the whole world, like the sun.</p>
+             <p rend="stanza" n="6">He grasped the essence in dharma, artha and kāma, his lotus-like feet were always pleased by the Fortune, he was the sole lion to the herd of elephants that was his enemy, and had a banner that was his fame known to the three worlds.</p>
+             <p rend="stanza" n="7">He was Yama in anger, the wish-fulfilling tree in favour, and attached to both practice and manner of branches of arts. He was the receptacle of unattainable courage and beauty, and had fame rising from numerous good varṇas.</p>
+             <p rend="stanza" n="8">The appearance of his beautiful form ashamed the Mind-born <supplied reason="explanation"><foreign xml:lang="san">Kāma</foreign></supplied>, he gained the name in mounting on elephants, and attained proficiency in riding on horses. Kīrttirāja was brilliant among kings.</p>
+             <p rend="stanza" n="9">To him is the son, who is the embodiment of merits raised by hundred virtuous actions, as if the Mind-born <supplied reason="explanation"><foreign xml:lang="san">Kāma</foreign></supplied> is in front, whose self is purified, who is a fire, with increased lustre, to the forest that is <supplied reason="subaudible">his</supplied> arrogant enemy. Here is the one accompanied with the name of his lineage called Tuṅga.</p>
+             <p rend="stanza" n="10">He is the hot sun for lotuses that are the faces of loving women, the moon beam for the grove of night lotuses that are minds of sages. He is competent in recitation of scriptures, pursuing welfare, and known as Dharmāvaloka on the earth.</p>
+             <p rend="stanza" n="11">Seeing two forms of the lord of mountains <supplied reason="explanation"><foreign xml:lang="san">Himālaya</foreign></supplied>, swarms of bees drunken by uninterruptedly dripping gifts <supplied reason="subaudible">temporin</supplied>, and <supplied reason="subaudible">hearing</supplied> sound like kettle drum which the victory over adversary elephants, making a sound “ām”, discharges, he, like a teacher of the treatises on elephants without teacher, with coveted play of theatre, knowing <supplied reason="subaudible">proper</supplied> time and purified with virtues, takes notice of huge elephants of the forest with wild animals.</p>
+             <p rend="stanza" n="12">The ocean was defeated by him by unfathomability, a sage by endurance, the sun by radiance, the moon by loveliness, the master of animals <supplied reason="explanation">lion</supplied> by valour, a teacher by policy, Karṇa by being a donor, and the master of enemies of Daityas <supplied reason="explanation">Indra</supplied> by the manner of sport. By being addressed sweetly with adequate titles, there is no equal of him.</p>
+             <p rend="stanza" n="13">He, the one with purified fame, entirely furnishes the dharma, which is a treasure of wealth and destroyed of disturbance of Kali Age, with unequalled sayings which are loud, high and desirous of roads in the sky. He is doing an irreproachable service for ascetics every day with pure food and drinks, and with sweet meats purified by reverence, as if Bhava <supplied reason="explanation"><foreign xml:lang="san">Śiva</foreign></supplied> made the King of Mountains <supplied reason="explanation"><foreign xml:lang="san">Himālaya</foreign></supplied> shaken by white-and-black ebony tree <supplied reason="explanation"><foreign xml:lang="san">rāmaṇa</foreign></supplied>.</p>
+             <p rend="stanza" n="14">By him, the one with tranquil mind, of <supplied reason="subaudible">the Buddha,</supplied> the one who defeated the enemy Māras, of the one liberated from the ocean of births, of the sole friend of the three worlds, of illustrious <gap reason="lost"/> jewel of pure qualities, dust of whose lotus-like feet is crested by Brahmā and Indra.</p>
+             <p rend="stanza" n="15">Of the risen sun destroying the darkness of delusion, of the only rain cloud calming dust of attachment, of sharp <gap reason="lost"/> in the act of removing the snake of hatred, of the adamant state tearing the mountain of <gap reason="lost"/> view.</p>
+             <p rend="stanza" n="16">Of the lord of animals <supplied reason="explanation">lion</supplied> to a herd of roaring and uttering elephants, of the one caused to appear by the lion roar of the absence of self, of the one purified the three worlds by ablution of the dharma, of the great ocean of jewels of virtues <gap reason="lost"/>.</p>
+             <p rend="stanza" n="17">This perfumed chamber, which was like a beautiful row of steps of the sky, was caused to build high by him, who acquired essence and had the mind directed towards transience of the increase of wealth.</p>
+             <p rend="stanza" n="18">By him, who is familiar with touching by <seg cert="low">a woman having just delivered a child</seg>, fascinating like the bright autumnal moon, ignorant of intoxication by pleasing virtues, and inclined to a union of friendship.</p>
+             <p rend="stanza" n="19">Here the sage <supplied reason="explanation">the Buddha</supplied> <gap reason="lost"/> jewel of virtue <gap reason="lost"/>.. teaching people the way of peace, should be always placed. He further bestows fulfilment of elevated desires to this donor, who has wisdom averse to bad conducts.</p>
+             <p n="20">In the reign of <gap reason="lost"/>ladeva, year 15, on the fifth day of month Śravaṇa.</p>
+             <p n="20-21">Bhujjaṅga, the procurer, should be guided by panḍita Ratnaśrījañāna bhikṣu, born in Siṁhaladvīpa.</p>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+             <p rend="stanza" n="13">The word rāmaṇa, translated as "white-and-black ebony tree" may rather be taken as ramaṇa, "amorous sport", changed to the former due to meatrical necessity.</p>
+             <p rend="stanza" n="14-16">Those stanzas describe the Buddha, whose perfumed chamber was established by Tuṅga, the donor, in genetive forms.</p>
+             <p n="20">The king, in whose regnal year the present inscription is dated, could be Rājyapāla as conjectured by Dimitrov<bibl rend="omitname"><ptr target="bib:Dimitrov2016_01"/></bibl>, in view of the number of lost characters which could accommodate śrī-rājyapā, and the plausible identification of Tuṅga in the present inscription with the father of Bhāgyadevī, the queen consort of Rājyapāla, as both belonged to the Rāṣṭrakūṭa lineage.</p>
+             <p n="20-21">My reading of the last line negates the claim of Dimitrive<bibl rend="omitname"><ptr target="bib:Dimitrov2016_01"/></bibl> that there is dating in Śaka Era with three digits of numerals, of which he himself confeses uncertainty.</p>
          </div>
         <div type="bibliography">
-           <p>First edited and published with facsimile by Rajendra Lal Mitra<bibl rend="omitname"><ptr target="bib:Mitra1878_01"/><citedRange unit="page">194-197</citedRange></bibl>. Re-edited by Dragomir Dimitrov<bibl rend="omitname"><ptr target="bib:Dimitrov2016_01"/><citedRange unit="page">17-48</citedRange></bibl> on the facsimile, without knowing the location of the original inscription. Now re-edited by Ryosuke Furui on reading from photographs of the original inscription, held by Indian Museum with Acc. No. 2610, taken in December 2023.</p>
+           <p>First edited and published with facsimile by Rajendra Lal Mitra<bibl rend="omitname"><ptr target="bib:Mitra1878_01"/></bibl>. Re-edited by Dragomir Dimitrov<bibl rend="omitname"><ptr target="bib:Dimitrov2016_01"/></bibl> based on the facsimile, without knowing the location of the original inscription. Now re-edited by Ryosuke Furui on reading from photographs of the original inscription, held by Indian Museum with Acc. No. 2610, taken in December 2023.</p>
         	<listBibl type="primary">
         	    <bibl n="RLM"><ptr target="bib:Mitra1878_01"/><citedRange unit="page">194-197</citedRange></bibl>
 		<bibl n="DD"><ptr target="bib:Dimitrov2016_01"/><citedRange unit="page">17-48</citedRange></bibl>
