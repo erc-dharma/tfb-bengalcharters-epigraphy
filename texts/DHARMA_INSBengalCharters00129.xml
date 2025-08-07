@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Barrackpur Plate of Vijayasena, year 62</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:ryfu">
+                        <forename>Ryosuke</forename>
+                        <surname>Furui</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:ryfu">
+                        <forename>Ryosuke</forename>
+                        <surname>Furui</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Tokyo</pubPlace>
+                <idno type="filename">DHARMA_INSBengalCharters00129</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2025 by Ryosuke
+                            Furui.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:ryfu" when="2025-08-07" status="draft">Initial encoding: text, apparatus and bibliography completed.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn">
+             <pb n="1r"/><lb n="1"/><p><g type="spiralR"/> Om̐ namaḥ śivāya<g type="ddanda">.</g><!--Two daṇḍas are connected on their top by a horizontal bar. --></p>
+             <lg n="1" met="śārdūlavikrīḍita">
+                 <l n="a">krauñcāri-dviradāsyayoḥ śiśutayā tātasya maulau mitho</l>
+                 <l n="b">gaṅgā<lb n="2" break="no"/>-vāriṇi khelatoḥ śaśi-kalām ālokya madhye jaṭam·<g type="danda">.</g></l>
+                 <l n="c">śevālāvali-madhya-vaddha-śapharī<lb n="3" break="no"/>-vuddhyā samākarṣator</l>
+                 <l n="d">ākranda-sphuṭa-kandalena vihasann avyāj jagad dhūrjjaṭiḥ<g type="ddanda">.</g><!--Two daṇḍas are connected on their top by a horizontal bar. --></l>
+             </lg>
+             <lg n="2" met="śārdūlavikrīḍita">
+                 <l n="a">Asti kṣīramahā<lb n="4" break="no"/>rṇṇavasya tanayaḥ preyān mano-janmanaś</l>
+                 <l n="b">cakṣuḥ śrī-pariṇetur adri-tanayā-bhartuḥ śiro-bhūṣaṇam·<unclear><g type="danda">.</g></unclear></l>
+                 <l n="c"><lb n="5"/>prāg-āśā-taruṇī-lalāṭa-tilakaṁ pūrvvādri-cūḍāmanir</l>
+                 <l n="d">dyo-devālaya-daivataṁ diviṣadāṁ sāra<lb n="6" break="no"/>s tuṣāra-dyutiḥ<g type="ddanda">.</g><!--Two daṇḍas are connected on their top by a horizontal bar. --></l>
+             </lg>
+             <lg n="3" met="sragdharā">
+                 <l n="a">tad-vaṁśe rāja-haṁsa-cchada-viśada-yaśaḥ-kaumudīm udgirantaḥ</l>
+                 <l n="b">khelantaḥ kṣmā-dha<lb n="7" break="no"/>rāṇām upari kara-samāropa-sīmantitāśāḥ<g type="danda">.</g></l>
+                 <l n="c">sīmānaḥ puṇya-rāśer amr̥tamaya-kalā-maṇḍa<lb n="8" break="no"/>lābhogavantaḥ</l>
+                 <l n="d">kurvvanta<surplus>ḥ</surplus>ś candra-līlām avani-tala-bhujo rāja-puttrā vabhūvuḥ<g type="ddanda">.</g></l>
+             </lg>
+             <lg n="4" met="sragdharā">
+                 <l n="a">teṣāṁ vaṁśe vabhū<lb n="9" break="no"/>va prabhur ubhaya-kula-prauḍhi-sampad-guṇānām</l>
+                 <l n="b">utta<supplied reason="omitted">ṁ</supplied>saḥ kṣattriyāṇām adhana-jana-manaś-cātakānām payo<lb n="10" break="no"/>daḥ<g type="comma">.</g></l>
+                 <l n="c">śatrūṇām anta-karttā tuhina-kara-kalā-mū<supplied reason="omitted">r</supplied>tti-kīrtty-aṅganānāṁ</l>
+                 <l n="d">kāntaḥ sāmantaseno raṇa-śirasi<lb n="11"/> jitārāti-sāmanta-senaḥ<g type="ddanda">.</g></l>
+             </lg>
+             <lg n="5" met="sragdharā">
+                 <l n="a">śaśvat-prodvuddha-padmaḥ pratidinam udayī rāja-rakṣāsu dakṣa<surplus>ḥ</surplus>ś</l>
+                 <l n="b">cakṣu<lb n="12" break="no"/>ś caitanya-cintā-maṇir anaṇu-mahāḥ prārthakair arthitārthaḥ<g type="danda">.</g></l>
+                 <l n="c">Etasmād ūṣmalābhir dyutibhir upaci<lb n="13" break="no"/>tas tāmasānāṁ guṇānāṁ</l>
+                 <l n="d">hantā hemantaseno ravir iva jagatāṁ mānanīyo vabhūva<g type="ddanda">.</g><!--Two daṇḍas are connected on their top by a horizontal bar. --></l>
+             </lg>
+             <lg n="6" met="mālinī">
+                 <l n="a">Ajani<lb n="14"/> vijayasenas tena rākā-sudhāṁśo</l>
+                 <l n="b">rucibhir avacitābhir bhāsvato <supplied reason="omitted">’</supplied>pi prabhābhiḥ<g type="comma">.</g></l>
+                 <l n="c">śiśira<lb n="15" break="no"/>-kara-kharāṁśu-śrīr yaśaḥ-kaumudīnām</l>
+                 <l n="d">api samudaya-hetur yat-pratāpātapānām·<g type="ddanda">.</g><!--Two daṇḍas are connected on their top by a horizontal bar. --></l>
+             </lg>
+             <lg n="7" met="āryā">
+                 <l n="ab">Abhavad vi<lb n="16" break="no"/>lāsadevī śūra-kulāmbhodhi-kaumudī tasya<supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                 <l n="cd">nayana-yuga-mañj<unclear>u</unclear>-khañjana-vihāra-keli-sthalī<lb n="17"/> mahiṣī<g type="ddanda">.</g><!--Two daṇḍas are connected on their top by a horizontal bar. --></l>
+             </lg>
+             <lg n="8" met="sragdharā">
+                 <l n="a">kṣattrāṇām ātapattraṁ kanaka-giri-śiro-vartti-mārttaṇḍa-tejāḥ</l>
+                 <l n="b">śaśvad viśvam vilimpa<lb n="18" break="no"/>nn ajara-pura-dhunī-phena-puṇyair yaśobhiḥ<g type="comma">.</g></l>
+                 <l n="c">jātas tasmād a<choice><sic>y</sic><corr>m</corr></choice>uṣyān manasija-rajanī-jāni<lb n="19" break="no"/>-saundarya-sāraḥ</l>
+                 <l n="d">śrīmad-vallālasenaḥ sur<choice><sic>u</sic><corr>a</corr></choice>-guru-dhiṣaṇā-kāmukī-kāma-kāntaḥ<g type="ddanda">.</g><!--Two daṇḍas are connected on their top by a horizontal bar. --></l>
+             </lg>
+             <lg n="9" met="anuṣṭubh">
+                 <l n="ab">Evaṁ-vidha-guṇa-śre<lb n="20" break="no"/>ṇiḥ śrīman-niḥśaṅka-śaṅkaraḥ<g type="commaSmall">.</g></l>
+                 <l n="cd">Ākhaṇḍala Ivādityā devo garvbhe yayā dhr̥taḥ<supplied reason="omitted"><g type="ddanda">.</g></supplied></l>
+             </lg>
+             <lg n="10" met="vasantatilakā">
+                 <l n="a">dor-daṇḍa-caṇḍi<lb n="21" break="no"/>ma-natāvani-pāla-mauli</l>
+                 <l n="b">-ratna-prabhā-paṭala-pāṭala-pāda-padmaḥ<g type="danda">.</g></l>
+                 <l n="c">śrīmāṁs tayā vijayasena-mahī(22)-mahendro</l>
+                 <l n="d">dānāny adāpayad aśeṣi<supplied reason="omitted">ta</supplied>-kr̥tsna-dānaḥ<g type="ddanda">.</g><!--Two daṇḍas are connected on their top by a horizontal bar. --></l>
+             </lg>
+             <p>
+                 sa khaku śrī-vikramapura-samāvāsita-śrīma<lb 
+                 n="23" break="no"/>j-jaya-skandhāvārāt<unclear>·</unclear><g type="comma">.</g> mahārājādhirāja-śrī-hemantasena-pādānudhyāta-parameśvara-paramamāhe<lb 
+                 n="24" break="no"/>śvara-paramabhaṭṭāraka-mahārājādhirāja-śrīmad-vijayasena-devaḥ kuśalī<g type="comma">.</g><space type="vacat" unit="character" quantity="7"/>
+                 <pb n="1v"/><lb n="25"/>samupagatāśeṣa-rāja-rājanyaka-r<choice><sic>a</sic><corr>ā</corr></choice>jñī-rāṇaka-rājaputra-rājāmātya-purohita-m<choice><sic>ā</sic><corr>a</corr></choice>hādharmā<lb 
+                 n="26" break="no"/>dhyakṣa-mahāsāndhivigrahika-mahāsenāpati-mahāmudrādhikr̥ta-Antaraṅga-vr̥haduparika-mahā<lb 
+                 n="27" break="no"/>kṣapaṭalika-mahāpratīhāra-mahāvyūhapati-mahāpīlupati-mahāgaṇastha-dauḥsādhika-cauro<lb 
+                 n="28" break="no"/>ddharaṇika-nauvalahastyaśvagomahiṣājāvikādivyāpr̥taka-gaulmika-daṇḍapāśika-daṇḍanā<lb 
+                 n="29" break="no"/>yaka-viṣayapaty-ādīn anyāṁś ca sakala-rāja-pādopajīvino <supplied reason="omitted">’</supplied>dhyakṣa-pracāroktān<supplied reason="omitted">·</supplied> Ihākīrtti<lb 
+                 n="30" break="no"/>tān<supplied reason="omitted">·</supplied> caṭṭa-bhaṭṭa-jātīyāN janapadān<supplied reason="omitted">·</supplied> kṣetrakarāṁś ca vrāhmaṇān<supplied reason="omitted">·</supplied> vrā<supplied reason="omitted">hma</supplied>ṇottarān<supplied reason="omitted">·</supplied> yathārhaṁ mānayati<lb 
+                 n="31"/> vodhayati samādiśati ca<g type="domma">.</g>
+             </p>
+             <p>
+                 matam astu bhavatām·<g type="comma">.</g> yathā śrī-pauṇḍravarddhana-bhukty-antaḥpāti-khāḍī-vi<lb 
+                 n="32" break="no"/>ṣaye ghāsa-sambhoga-bhāṭṭavaḍā-grāme tikṣahaṇḍa-jalārddha-sīmā-dakṣiṇa-paścimottarataḥ<lb 
+                 n="33"/> yathā-prasiddha-catuḥ-sīmāvacchin<supplied reason="omitted">n</supplied>ā samataṭīya-nalena pāṭaka-catuṣṭay<choice><sic>a</sic><corr>ā</corr></choice> kaparddaka-purā<lb 
+                 n="34" break="no"/>ṇa-<num value="200">śata-dvayotpattiḥ</num> bhūmir iyaṁ tr̥ṇa-pūti-gocara-paryantā sa-talā soddeśā sāmra-panasā<lb 
+                 n="35"/> sa-guvāka-nārikelā sa-vanā sa-jala-sthalā sa-garttoṣarā sahya-daśāparādhā parihr̥ta-sa<lb 
+                 n="36" break="no"/>rva-pīḍā A-caṭṭa-bhaṭṭa-praveśā Akiñcit-pragrāhyā samasta-rāja-bhoga-kara-hiraṇya-pratyāya<lb 
+                 n="37" break="no"/>-sahitā<g type="comma">.</g> madhyadeśa-vinirggata-kāntijoṅgīya-ratnākaradevaśarmaṇaḥ prapautrāya rahaskaradeva<lb 
+                 n="38" break="no"/>śarmaṇaḥ pautrāya bhāskaradevaśarmaṇaḥ puttrāya vatsa-sagotrāya bhārgava-cyāvanā<choice><sic>npa</sic><corr>pnu</corr></choice>vāna-Aurvva-jā<lb 
+                 n="39" break="no"/>ma<supplied reason="omitted">da</supplied>gni-pravarāya R̥gvedāśvalāyana-śākhā-<choice><sic>ś</sic><corr>ṣ</corr></choice>aḍ-aṅgādhyā<choice><sic>I</sic><corr>yi</corr></choice>ne śrī-Udayakaradevaśarmmaṇe vikrama<lb 
+                 n="40" break="no"/>puropakārikā-madhye sati <unclear>so</unclear>ma-grahe Asman-mahā-mahādevī-śrīmad-vilāsadevyā datta-ka<lb 
+                 n="41" break="no"/>naka-tulā-puruṣa-mahā-dāne ho<unclear>ma</unclear>-karmma-dakṣiṇā vidhivad udaka-pūrvakaṁ kr̥tvā bhagava<unclear>ntaṁ</unclear> ma<lb 
+                 n="42" break="no"/>heśvara-bhaṭṭārakam uddiśya mātā-pitror ātmanaś ca puṇya-yaśo <supplied reason="omitted">’</supplied>bhivr̥ddhaye Ā-candr<choice><sic>a</sic><corr>ā</corr></choice>rkka-kṣiti-sama<lb 
+                 n="43" break="no"/>-kālaṁ yāvaT bhūmi-cchidra-nyāyena tāmra-śāsanī-kr̥tya pradattāsmābhiḥ<g type="comma">.</g> tad bhavadbhiḥ sarvvair evānu<lb 
+                 n="44" break="no"/>mantavyaṁ bhāvibhir api nr̥patibhiḥ Apaharaṇe naraka-bhayāT pālane dharmma-gauravāT<lb 
+                 n="45"/> pālanīyaṁ<supplied reason="omitted"><g type="danda">.</g></supplied>
+             </p>
+             <p>bhavanti cātra dharmmānuśaṁsinaḥ ślokāḥ<g type="danda">.</g></p>
+             <lg n="11" met="anuṣṭubh">
+                 <l n="ab">vahubhir vasudhā dattā rājabhi<unclear>ḥ</unclear> saga<lb n="46" break="no"/>rādibhiḥ<g type="danda">.</g></l>
+                 <l n="cd">yasya yasya yadā bhūmis tasya tasya tadā phalaṁ<choice><sic><g type="comma">.</g></sic><corr><g type="ddanda">.</g></corr></choice></l>
+             </lg>
+             <lg n="12" met="anuṣṭubh">
+                 <l n="ab">bhūmiṁ yaḥ pratigr̥hṇāti yaś ca<lb n="47"/> bhūmiṁ p<unclear>ra</unclear>yacchati<g type="commaSmall">.</g></l>
+                 <l n="cd">Ubhau tau puṇya-karmāṇau niyataṁ svargga-gāminau<g type="ddanda">.</g><!--Two daṇḍas are connected on their top by a horizontal bar. --></l>
+             </lg>
+             <lg n="13" met="anuṣṭubh">
+                 <l n="ab">sva-dattāṁ para-dattāṁ vā yo hare<lb n="48" break="no"/>ta vasun<unclear>dh</unclear>arāṁ<supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                 <l n="cd">sa viṣṭhāyāṁ kr̥mir bhūtvā pitr̥bhiḥ saha pacyate<choice><sic><g type="danda">.</g></sic><corr><g type="ddanda">.</g></corr></choice></l>
+             </lg>
+             <lg n="14" met="āryā">
+                 <l n="ab">nr̥pa-gaṇanāgrima-rekhaḥ śrīmān ari<lb n="49" break="no"/><unclear>vr̥</unclear>śabhaśaṅkaraḥ kr̥tavā<unclear>n·</unclear><supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                 <l n="cd">Udayakara-śāsa<unclear>na</unclear>-dāne śālāḍḍanāgam iha dū<unclear>taṁ</unclear><supplied reason="omitted"><g type="ddanda">.</g></supplied></l>
+             </lg>
+             <p>saṁ 62 vaiśākha-dine 7</p> 
+             <p>śrī ni<lb n="50"/> <unclear>ma</unclear>hā ni</p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                  <app loc="1"><lem><g type="spiralR"/></lem><rdg source="bib:Majumdar1929_01">Om̐</rdg></app>
+                   <app loc="2"><lem>śevālāvali-</lem><rdg source="bib;Majumdar1929_01">ś<choice><sic>e</sic><corr>ai</corr></choice>vālāvali-</rdg></app>
+                   <app loc="4"><lem>-bhartuḥ</lem><rdg source="bib:Majumdar1929_01">-bharttuḥ</rdg></app>
+                   <app loc="9"><lem>kṣattriyāṇām</lem><rdg source="bib:Majumdar1929_01">kṣatriyāṇām</rdg></app>
+                   <app loc="13"><lem>tāmasānāṁ</lem><rdg source="bib:Majumdar1929_01">tāmāsānāṁ</rdg></app>
+                   <app loc="16"><lem>-mañj<unclear>u</unclear>-</lem><rdg source="bib:Majumdar1929_01">-mañj<choice><sic>a</sic><corr>u</corr></choice>-</rdg></app>
+                   <app loc="17"><lem>-vartti-</lem><rdg source="bib:Majumdar1929_01">-varttiṁ-</rdg><note>Presumably misprint.</note></app>
+                   <app loc="20"><lem>garvbhe</lem><rdg source="bib:Majumdar1929_01">garbhe</rdg></app>
+                   <app loc="25"><lem>-m<choice><sic>ā</sic><corr>a</corr></choice>hādharmā<lb n="26" break="no"/>dhyakṣa-</lem><rdg source="bib:Majumdar1929_01">-mahādharmā<lb n="26" break="no"/>dhyakṣa-</rdg></app>
+                   <app loc="30"><lem>janapadān</lem><rdg source="bib;Majumdar1929_01">j<choice><sic>a</sic><corr>ā</corr></choice>napadā<choice><sic>na</sic><corr>n</corr></choice></rdg></app>
+                   <app loc="30"><lem>mānayati</lem><rdg source="bib;Majumdar1929_01">mānayati<g type="danda">.</g></rdg></app>
+                   <app loc="34"><lem>-paryantā</lem><rdg source="bib:Majumdar1929_01">-paryyantā</rdg></app>
+                   <app loc="35"><lem>-sa<lb n="36" break="no"/>rva-</lem><rdg source="bib:Majumdar1929_01">-sa<lb n="36" break="no"/>rvva-</rdg></app>
+                   <app loc="37"><lem>-vinirggata-</lem><rdg source="bib:Majumdar1929_01">-vinirgata-</rdg></app>
+                   <app loc="37"><lem>-ratnākaradevaśarmaṇaḥ</lem><rdg source="bib:Majumdar1929_01">-ratnākaradevaśarmmaṇaḥ</rdg></app>
+                   <app loc="37"><lem>rahaskaradeva<lb n="38" break="no"/>śarmaṇaḥ</lem><rdg source="bib:Majumdar1929_01">rahaskaradeva<lb n="38" break="no"/>śarmmaṇaḥ</rdg></app>
+                   <app loc="38"><lem>bhāskaradevaśarmaṇaḥ</lem><rdg source="bib:Majumdar1929_01">bhāskaradevaśarmmaṇaḥ</rdg></app>
+                   <app loc="38"><lem>puttrāya</lem><rdg source="bib:Majumdar1929_01">putrāya</rdg></app>
+                   <app loc="38"><lem>-cyāvanā<choice><sic>npa</sic><corr>pnu</corr></choice>vāna-</lem><rdg source="bib:Majumdar1929_01">-cyāvanāpnuvāna-</rdg></app>
+                   <app loc="41"><lem>-pūrvakaṁ</lem><rdg source="bib:Majumdar1929_01">-pūrvvakaṁ</rdg></app>
+                   <app loc="42"><lem>-candr<choice><sic>a</sic><corr>ā</corr></choice>rkka-</lem><rdg source="bib:Majumdar1929_01">-candrārkka-</rdg></app>
+                   <app loc="45"><lem>ślokāḥ<g type="danda">.</g></lem><rdg source="bib:Majumdar1929_01">ślokāḥ</rdg></app>
+                   <app loc="45"><lem>saga<lb n="46" break="no"/>rādibhiḥ<g type="danda">.</g></lem><rdg source="bib:Majumdar1929_01">saga<lb n="46" break="no"/>rādibhiḥ</rdg></app>
+                   <app loc="46"><lem>phalaṁ<choice><sic><g type="comma">.</g></sic><corr><g type="ddanda">.</g></corr></choice></lem><rdg source="bib:Majumdar1929_01">phalaṁ<unclear><g type="ddanda">.</g></unclear></rdg></app>
+                   <app loc="46"><lem>yaś ca<lb n="47"/> bhūmiṁ</lem><rdg source="bib:Majumdar1929_01"><lb n="47"/>yaś ca bhūmiṁ</rdg></app>
+                   <app loc="47"><lem>-karmāṇau</lem><rdg source="bib:Majumdar1929_01">-karmmāṇau</rdg></app>
+                   <app loc="48"><lem>vasun<unclear>dh</unclear>arāṁ<supplied reason="omitted"><g type="danda">.</g></supplied></lem><rdg source="bib:Majumdar1929_01">vasundharāṁ<unclear><g type="danda">.</g>></unclear></rdg></app>
+                   <app loc="50"><lem><unclear>ma</unclear>hā ni</lem><note>The last line is not visible in the estampage attached to Banerji’s edition<bibl rend="omitname"><ptr target="bib:Banerji1919-1920_02"/></bibl>. I adopt the reading by N. G. Majumdar<bibl rend="omitname"><ptr target="bib:Majumdar1929_01"/></bibl>.</note></app>
+               </listApp>
+         </div>
+         <div type="translation" resp="ryfu">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+           <p>First edited by Rakhaldas Banerji<bibl rend="omitname"><ptr target="bib:Banerji1919-1920_02"/></bibl> and then re-edited by Nani Gopal Majumdar<bibl rend="omitname"><ptr target="bib:Majumdar1929_01"/><citedRange unit="page">57-67</citedRange></bibl>. Now re-edited by Ryosuke Furui based on reading from images of the obverse published online by British Museum<bibl rend="omitname"><ptr target="https://www.britishmuseum.org/collection/object/A_1957-1121-1"/></bibl> and estampages attached to Banerji’s edition.</p>
+        	<listBibl type="primary">
+	   <bibl n="RDB"><ptr target="bib:Banerji1919-1920_02"/></bibl>
+        	   <bibl n="NGM"><ptr target="bib:Majumdar1929_01"/><citedRange unit="page">57-67</citedRange></bibl>
+	</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
