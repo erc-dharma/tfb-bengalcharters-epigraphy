@@ -229,7 +229,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First edited by Rakhaldas Banerji<bibl rend="omitname"><ptr target="bib:Banerji1919-1920_02"/></bibl> and then re-edited by Nani Gopal Majumdar<bibl rend="omitname"><ptr target="bib:Majumdar1929_01"/><citedRange unit="page">57-67</citedRange></bibl>. Now re-edited by Ryosuke Furui based on reading from images of the obverse published online by British Museum<bibl rend="omitname"><ptr target="https://www.britishmuseum.org/collection/object/A_1957-1121-1"/></bibl> and estampages attached to Banerji’s edition.</p>
+           <p>First edited by Rakhaldas Banerji<bibl rend="omitname"><ptr target="bib:Banerji1919-1920_02"/></bibl> and then re-edited by Nani Gopal Majumdar<bibl rend="omitname"><ptr target="bib:Majumdar1929_01"/><citedRange unit="page">57-67</citedRange></bibl>. Now re-edited by Ryosuke Furui based on reading from images of the obverse published online by British Museum<bibl rend="omitname"><ptr target="uri:https://www.britishmuseum.org/collection/object/A_1957-1121-1"/></bibl> and estampages attached to Banerji’s edition.</p>
         	<listBibl type="primary">
 	   <bibl n="RDB"><ptr target="bib:Banerji1919-1920_02"/></bibl>
         	   <bibl n="NGM"><ptr target="bib:Majumdar1929_01"/><citedRange unit="page">57-67</citedRange></bibl>
