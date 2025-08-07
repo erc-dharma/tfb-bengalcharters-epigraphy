@@ -151,7 +151,7 @@
                  n="28" break="no"/>ddharaṇika-nauvalahastyaśvagomahiṣājāvikādivyāpr̥taka-gaulmika-daṇḍapāśika-daṇḍanā<lb 
                  n="29" break="no"/>yaka-viṣayapaty-ādīn anyāṁś ca sakala-rāja-pādopajīvino <supplied reason="omitted">’</supplied>dhyakṣa-pracāroktān<supplied reason="omitted">·</supplied> Ihākīrtti<lb 
                  n="30" break="no"/>tān<supplied reason="omitted">·</supplied> caṭṭa-bhaṭṭa-jātīyāN janapadān<supplied reason="omitted">·</supplied> kṣetrakarāṁś ca vrāhmaṇān<supplied reason="omitted">·</supplied> vrā<supplied reason="omitted">hma</supplied>ṇottarān<supplied reason="omitted">·</supplied> yathārhaṁ mānayati<lb 
-                 n="31"/> vodhayati samādiśati ca<g type="domma">.</g>
+                 n="31"/> vodhayati samādiśati ca<g type="comma">.</g>
              </p>
              <p>
                  matam astu bhavatām·<g type="comma">.</g> yathā śrī-pauṇḍravarddhana-bhukty-antaḥpāti-khāḍī-vi<lb 
@@ -193,7 +193,7 @@
          <div type="apparatus">
                <listApp>
                   <app loc="1"><lem><g type="spiralR"/></lem><rdg source="bib:Majumdar1929_01">Om̐</rdg></app>
-                   <app loc="2"><lem>śevālāvali-</lem><rdg source="bib;Majumdar1929_01">ś<choice><sic>e</sic><corr>ai</corr></choice>vālāvali-</rdg></app>
+                   <app loc="2"><lem>śevālāvali-</lem><rdg source="bib:Majumdar1929_01">ś<choice><sic>e</sic><corr>ai</corr></choice>vālāvali-</rdg></app>
                    <app loc="4"><lem>-bhartuḥ</lem><rdg source="bib:Majumdar1929_01">-bharttuḥ</rdg></app>
                    <app loc="9"><lem>kṣattriyāṇām</lem><rdg source="bib:Majumdar1929_01">kṣatriyāṇām</rdg></app>
                    <app loc="13"><lem>tāmasānāṁ</lem><rdg source="bib:Majumdar1929_01">tāmāsānāṁ</rdg></app>
@@ -201,8 +201,8 @@
                    <app loc="17"><lem>-vartti-</lem><rdg source="bib:Majumdar1929_01">-varttiṁ-</rdg><note>Presumably misprint.</note></app>
                    <app loc="20"><lem>garvbhe</lem><rdg source="bib:Majumdar1929_01">garbhe</rdg></app>
                    <app loc="25"><lem>-m<choice><sic>ā</sic><corr>a</corr></choice>hādharmā<lb n="26" break="no"/>dhyakṣa-</lem><rdg source="bib:Majumdar1929_01">-mahādharmā<lb n="26" break="no"/>dhyakṣa-</rdg></app>
-                   <app loc="30"><lem>janapadān</lem><rdg source="bib;Majumdar1929_01">j<choice><sic>a</sic><corr>ā</corr></choice>napadā<choice><sic>na</sic><corr>n</corr></choice></rdg></app>
-                   <app loc="30"><lem>mānayati</lem><rdg source="bib;Majumdar1929_01">mānayati<g type="danda">.</g></rdg></app>
+                   <app loc="30"><lem>janapadān</lem><rdg source="bib:Majumdar1929_01">j<choice><sic>a</sic><corr>ā</corr></choice>napadā<choice><sic>na</sic><corr>n</corr></choice></rdg></app>
+                   <app loc="30"><lem>mānayati</lem><rdg source="bib:Majumdar1929_01">mānayati<g type="danda">.</g></rdg></app>
                    <app loc="34"><lem>-paryantā</lem><rdg source="bib:Majumdar1929_01">-paryyantā</rdg></app>
                    <app loc="35"><lem>-sa<lb n="36" break="no"/>rva-</lem><rdg source="bib:Majumdar1929_01">-sa<lb n="36" break="no"/>rvva-</rdg></app>
                    <app loc="37"><lem>-vinirggata-</lem><rdg source="bib:Majumdar1929_01">-vinirgata-</rdg></app>
