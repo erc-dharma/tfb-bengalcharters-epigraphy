@@ -78,6 +78,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2025-08-08" status="draft">Encoding addedd.</change>
             <change who="part:ryfu" when="2025-08-07" status="draft">Translation completed.</change>
             <change who="part:ryfu" when="2025-08-07" status="draft">Initial encoding: text, apparatus and bibliography completed.</change>
         </revisionDesc>
@@ -157,7 +158,7 @@
              <p>
                  matam astu bhavatām·<g type="comma">.</g> yathā śrī-pauṇḍravarddhana-bhukty-antaḥpāti-khāḍī-vi<lb 
                  n="32" break="no"/>ṣaye ghāsa-sambhoga-bhāṭṭavaḍā-grāme tikṣahaṇḍa-jalārddha-sīmā-dakṣiṇa-paścimottarataḥ<lb 
-                 n="33"/> yathā-prasiddha-catuḥ-sīmāvacchin<supplied reason="omitted">n</supplied>ā samataṭīya-nalena pāṭaka-catuṣṭay<choice><sic>a</sic><corr>ā</corr></choice> kaparddaka-purā<lb 
+                 n="33"/> yathā-prasiddha-catuḥ-sīmāvacchin<supplied reason="omitted">n</supplied>ā samataṭīya-nalena pāṭaka-<num value="4">catuṣṭay<choice><sic>a</sic><corr>ā</corr></choice></num> kaparddaka-purā<lb 
                  n="34" break="no"/>ṇa-<num value="200">śata-dvayotpattiḥ</num> bhūmir iyaṁ tr̥ṇa-pūti-gocara-paryantā sa-talā soddeśā sāmra-panasā<lb 
                  n="35"/> sa-guvāka-nārikelā sa-vanā sa-jala-sthalā sa-garttoṣarā sahya-daśāparādhā parihr̥ta-sa<lb 
                  n="36" break="no"/>rva-pīḍā A-caṭṭa-bhaṭṭa-praveśā Akiñcit-pragrāhyā samasta-rāja-bhoga-kara-hiraṇya-pratyāya<lb 
