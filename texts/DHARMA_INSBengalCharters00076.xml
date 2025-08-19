@@ -78,6 +78,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2025-08-19" status="draft">Text and encoding modified on line 39.</change>
             <change who="part:ryfu" when="2024-07-01" status="draft">Corrected misspelling on line 15 and revised encoding on the same line.</change>
             <change when="2022-04-13" who="part:amwb">Added a missing bibliographic reference</change>
             <change when="2021-12-23" who="part:amwb">Added the translation of the quoted verses</change>
@@ -137,7 +138,7 @@ n="35" break="no"/>-salila-kali-kalu<choice><sic>s</sic><corr>ṣ</corr></choice
 n="36" break="no"/>ta<supplied reason="lost">ḥ</supplied> sr̥gālapadrikā-nāmoddeśaḥ tato py uttarataḥ gr̥hādhi<unclear>ṣṭha</unclear>kādityadāsasya vr̥tti-kṣettra<foreign>M</foreign> yāvaT<g type="ddanda">.</g> tato 'pi bhagavato goveśvarasya maṇḍala-kṣettra<unclear>ṁ</unclear> <lb
 n="37"/>pūrvvottarasyāṁ diśi vaṭa-vr̥kṣa-cchara-pota-dvayam <choice><sic>ā</sic><corr>a</corr></choice>nte pūrvvasyā<unclear>ṁ</unclear> dig-bhāge <unclear>vana</unclear>ra-puṣkiraṇyaḥ pūrvādir <choice><sic>ī</sic><corr>i</corr></choice>ti<supplied reason="subaudible">.</supplied> tad etad uddeśa-samudayañ ca pra<choice><sic>vi</sic><corr>ti</corr></choice>vibhajya ya<lb
 n="38" break="no"/>thā śarīram asmābhir voḍhavyaṁ tad yuṣmābhir api yathopari-likhitako dharmma-gauravā<unclear>t</unclear> viṣayādhikaraṇaṁ vijñāpyānya-pratipālanānugrahaparair tato <unclear>tasya</unclear><lb 
-n="39"/>Asmāś ca bhūmi-dāne yo 'sma<choice><sic>k</sic><corr>t</corr></choice>-kulyo 'nyatamo vā <unclear>rā</unclear>ga-dve<unclear>ṣa-lobha</unclear>-moha-prerito 'nyathā kuryyāt sa pañca-mahāpātakopapātakādi-saṁyukta<supplied reason="omitted">s</supplied><!-- 
+n="39"/>Asmā<supplied reason="omitted">ṁ</supplied>ś ca bhūmi-dāne yo <supplied reason="omitted">’</supplied>sma<choice><sic>k</sic><corr>t</corr></choice>-kulyo <supplied reason="omitted">’</supplied>nyatamo vā <unclear>rā</unclear>ga-dve<unclear>ṣa-lobha</unclear>-moha-prerito <supplied reason="omitted">’</supplied>nyathā kuryyāt sa pañca-mahāpātakopapātakādi-saṁyukta<supplied reason="omitted">s</supplied><!-- 
 amwb : here the two previous editors suggested a sandhi omission and emended either a visarga (Tripathy) or a -s (Srinivasan) at the end of the word saṁyukta ; Maybe follow one of their suggestion. After observation of the sandhi rules within this plate, I suggest following Srinivasan's emendation, see apparatus 
 --> syād eva<lb 
 n="40"/>cānuśrūyate dharmma-ś<choice><sic>a</sic><corr>ā</corr></choice>stre<g type="ddanda">.</g></p>
