@@ -136,7 +136,7 @@
          <div type="apparatus">
              <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                <listApp>
-                  <app loc="1"><lem>-pha<unclear>laika</unclear>-<seg met="++"><gap reason="lost" unit="character" quantity="2"></gap></seg></lem><rdg source="bib:Laskar1906_01;bib:Sircar1983_01"/></app>
+                  <app loc="1"><lem>-pha<unclear>laika</unclear>-<seg met="++"><gap reason="lost" unit="character" quantity="2"></gap></seg></lem><rdg source="bib:Laskar1906_01;Sircar1983_01"/></app>
                    <app loc="2"><lem>bhagavā<choice><sic><unclear>ṁ</unclear></sic><corr>n</corr></choice></lem><rdg source="bib:Laskar1906_01">bhagavāna</rdg><rdg source="bib:Sircar1983_01">bhagavān</rdg></app>
                    <app loc="2"><lem>munīndra<supplied reason="omitted">ḥ</supplied></lem><rdg source="bib:Laskar1906_01">munīndraḥ</rdg></app>
                    <app loc="3"><lem><unclear>jhā</unclear>ṭalyodyānikā-</lem><rdg source="bib:Laskar1906_01"><gap reason="illegible" unit="character" quantity="1"/>ṭalyodyānikā-</rdg></app>
