@@ -81,6 +81,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2025-08-27" status="draft">Encoding and bibliography corrected.</change>
             <change who="part:ryfu" when="2025-08-27" status="draft">Initial encoding.</change>
         </revisionDesc>
     </teiHeader>
@@ -136,7 +137,7 @@
          <div type="apparatus">
              <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                <listApp>
-                  <app loc="1"><lem>-pha<unclear>laika</unclear>-<seg met="++"><gap reason="lost" unit="character" quantity="2"></gap></seg></lem><rdg source="bib:Laskar1906_01;Sircar1983_01"/></app>
+                  <app loc="1"><lem>-pha<unclear>laika</unclear>-<seg met="++"><gap reason="lost" unit="character" quantity="2"></gap></seg></lem><rdg source="bib:Laskar1906_01 Sircar1983_01"/></app>
                    <app loc="2"><lem>bhagavā<choice><sic><unclear>ṁ</unclear></sic><corr>n</corr></choice></lem><rdg source="bib:Laskar1906_01">bhagavāna</rdg><rdg source="bib:Sircar1983_01">bhagavān</rdg></app>
                    <app loc="2"><lem>munīndra<supplied reason="omitted">ḥ</supplied></lem><rdg source="bib:Laskar1906_01">munīndraḥ</rdg></app>
                    <app loc="3"><lem><unclear>jhā</unclear>ṭalyodyānikā-</lem><rdg source="bib:Laskar1906_01"><gap reason="illegible" unit="character" quantity="1"/>ṭalyodyānikā-</rdg></app>
@@ -146,22 +147,22 @@
                    <app loc="4"><lem>bhujya<supplied reason="lost">mānakā</supplied><lb n="5" break="no"/><supplied reason="lost"><num value="0.5">rdha</num>-pā</supplied><unclear>ṭa</unclear>ka</lem><rdg source="bib:Laskar1906_01">bhujya<gap reason="lost" extent="unknown"/><lb n="5"/><gap reason="lost" unit="character" quantity="1"/>ka-</rdg><rdg source="bib:Sircar1983_01">bhujya<supplied reason="lost">mānaka</supplied><gap reason="lost" unit="character" quantity="2"/><lb n="5" break="no"/><supplied reason="lost">ṭa</supplied>ka<supplied reason="omitted">ḥ</supplied></rdg><note>A half pāṭaka can be conjectured on calculation of respective pāṭakas and their sum given as 9 pāṭakas and 10 droṇas in line 12.</note></app>
                    <app loc="5"><lem>kedāravorake</lem><rdg source="bib:Laskar1906_01">kodārakṣorake</rdg><rdg source="bib:Sircar1983_01">kodāravorake</rdg></app>
                    <app loc="5"><lem>śrīmitrāvalyāṁ</lem><rdg source="bib:Laskar1906_01">śrīmitrāvalyāḥ</rdg></app>
-                   <app loc="5"><lem><surplus>bhu</surplus>bhujyamānaka-</lem><rdg source="bib:Laskar1906_01;bib:Sircar1983_01">bhujyamānaka-</rdg></app>
+                   <app loc="5"><lem><surplus>bhu</surplus>bhujyamānaka-</lem><rdg source="bib:Laskar1906_01 bib:Sircar1983_01">bhujyamānaka-</rdg></app>
                    <app loc="5"><lem>-<supplied reason="lost">pāṭaka</supplied></lem><rdg source="bib:Laskar1906_01"/><rdg source="bib:Sircar1983_01"><supplied reason="lost">pāṭakaḥ</supplied><gap reason="lost" unit="character" quantity="2"/></rdg></app>
-                   <app loc="6"><lem><gap reason="lost" unit="character" quantity="1"/>relatalake</lem><rdg source="bib:Laskar1906_01;bib:Sircar1983_01"><unclear>re</unclear>latalake</rdg></app>
-                   <app loc="6"><lem>peranāṭana-</lem><rdg source="bib:Laskar1906_01;bib:Sircar1983_01">parānāṭana-</rdg></app>
+                   <app loc="6"><lem><gap reason="lost" unit="character" quantity="1"/>relatalake</lem><rdg source="bib:Laskar1906_01 bib:Sircar1983_01"><unclear>re</unclear>latalake</rdg></app>
+                   <app loc="6"><lem>peranāṭana-</lem><rdg source="bib:Laskar1906_01 bib:Sircar1983_01">parānāṭana-</rdg></app>
                    <app loc="7"><lem><gap reason="lost" unit="character" quantity="2"/>tpalagarte</lem><rdg source="bib:Laskar1906_01">tpalaśatai</rdg><rdg source="bib:Sircar1983_01">tpalagarvbhe</rdg></app>
                    <app loc="9"><lem>-<num value="2">dvayañ</num> ca</lem><rdg source="bib:Laskar1906_01">-dvayeṇva</rdg></app>
-                   <app loc="10"><lem>I<unclear>t</unclear><supplied reason="lost">y</supplied> <unclear>e</unclear><supplied reason="lost">vaṁ na</supplied><lb n="11" break="no"/><supplied reason="lost">ve</supplied>ṣu</lem><rdg source="bib:Laskar1906_01;bib:Sircar1983_01">I<supplied reason="lost">ty ete</supplied><lb n="11" break="no"/>ṣu</rdg></app>
-                   <app loc="14"><lem>-<gap reason="lost" unit="character" quantity="1"/>dvīpa-</lem><rdg source="bib:Laskar1906_01;bib:Sircar1983_01"><gap reason="lost" unit="character" quantity="2"/></rdg></app>
+                   <app loc="10"><lem>I<unclear>t</unclear><supplied reason="lost">y</supplied> <unclear>e</unclear><supplied reason="lost">vaṁ na</supplied><lb n="11" break="no"/><supplied reason="lost">ve</supplied>ṣu</lem><rdg source="bib:Laskar1906_01 bib:Sircar1983_01">I<supplied reason="lost">ty ete</supplied><lb n="11" break="no"/>ṣu</rdg></app>
+                   <app loc="14"><lem>-<gap reason="lost" unit="character" quantity="1"/>dvīpa-</lem><rdg source="bib:Laskar1906_01 bib:Sircar1983_01"><gap reason="lost" unit="character" quantity="2"/></rdg></app>
                    <app loc="14"><lem>-ādi-</lem><rdg source="bib:Sircar1983_01">-ādibhiḥ</rdg></app>
                    <app loc="14"><lem>-<unclear>ku</unclear><supplied reason="lost">ṭumvi</supplied><lb n="15" break="no"/><supplied reason="lost">bhir ni</supplied><unclear>rāvādhai</unclear>r</lem><rdg source="bib:Laskar1906_01"><supplied reason="lost">kuṭumbibhi</supplied><lb n="15" break="no"/><supplied reason="lost">r nirvivādai</supplied>r</rdg><rdg source="bib:Sircar1983_01"><supplied reason="lost">kuṭumbibhiśa ca</supplied><lb n="15"/> <supplied reason="lost">nirvivādai</supplied>r</rdg></app>
                    <app loc="15"><lem><seg met="---+"><gap reason="lost" unit="character" quantity="4"/></seg><lb n="16"/> <seg met="--"><gap reason="lost" unit="character" quantity="2"/></seg><unclear>ṇām a</unclear>bhogā</lem><rdg source="bib:Laskar1906_01"><lb n="16"/><gap reason="lost" extent="unknown"/></rdg><rdg source="bib:Sircar1983_01"><lb n="16"/><seg met="---+--+-++"><gap reason="lost" unit="character" quantity="10"/></seg></rdg></app>
                    <app loc="16"><lem>puṇyaṁ ca</lem><rdg source="bib:Laskar1906_01">puṇyaṁ ra-</rdg></app>
-                   <app loc="16"><lem>bhūme<choice><sic>ñ</sic><corr>ś</corr></choice></lem><rdg source="bib:Laskar1906_01;bib:Sircar1983_01">bhūmeś</rdg></app>
+                   <app loc="16"><lem>bhūme<choice><sic>ñ</sic><corr>ś</corr></choice></lem><rdg source="bib:Laskar1906_01 bib:Sircar1983_01">bhūmeś</rdg></app>
                    <app loc="16"><lem>i<seg met="-+-"><gap reason="lost" unit="character" quantity="3"/></seg><lb n="17"/><seg met="-+-"><gap reason="lost" unit="character" quantity="3"/></seg></lem><rdg source="bib:Laskar1906_01">i<gap reason="lost" extent="unknown"/></rdg><rdg source="bib:Sircar1983_01">i<seg met="-+--+-"><gap reason="lost" unit="character" quantity="6"/></seg></rdg></app>
-                   <app loc="17"><lem>-karaṇaiḥ</lem><rdg source="bib:Laskar1906_01;bib:Sircar1983_01">-karuṇaiḥ</rdg></app>
-                   <app loc="17"><lem><choice><sic><g type="danda">.</g></sic><corr><g type="ddanda">.</g></corr></choice></lem><rdg source="bib:Laskar1906_01;bib:Sircar1983_01"><g type="ddanda">.</g></rdg></app>
+                   <app loc="17"><lem>-karaṇaiḥ</lem><rdg source="bib:Laskar1906_01 bib:Sircar1983_01">-karuṇaiḥ</rdg></app>
+                   <app loc="17"><lem><choice><sic><g type="danda">.</g></sic><corr><g type="ddanda">.</g></corr></choice></lem><rdg source="bib:Laskar1906_01 bib:Sircar1983_01"><g type="ddanda">.</g></rdg></app>
                </listApp>
              </div>
          </div>
@@ -172,13 +173,13 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First published in Proceedings of the Asiatic Society of Bengal, March 1885<bibl rend="omitname"><ptr target="bib:PASB1885_01"/><citedRange>49-52</citedRange></bibl>  with remarks of Rajendra Lal Mitra, a tentative transcription by Kamakhyanath Tarkaratna and a facsimile. Edited by Ganga Mohan Laskar<bibl rend="omitname"><ptr target="bib:Laskar1906_01"/><citedRange>89-90</citedRange></bibl> and re-edited by Dines Chandra Sircar<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/><citedRange>41-43</citedRange>.</bibl> Now re-edited by Ryosuke Furui and Arlo Griffiths based on Plate II in the aforementioned proceedings and a photograph provided by the Asiatic Society.</p>
+           <p>First published in Proceedings of the Asiatic Society of Bengal, March 1885<bibl rend="omitname"><ptr target="bib:Secretaries1885_01"/><citedRange>49-52</citedRange></bibl>  with remarks of Rajendra Lal Mitra, a tentative transcription by Kamakhyanath Tarkaratna and a facsimile. Edited by Ganga Mohan Laskar<bibl rend="omitname"><ptr target="bib:Laskar1906_01"/><citedRange>89-90</citedRange></bibl> and re-edited by Dines Chandra Sircar<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/><citedRange>41-43</citedRange></bibl>. Now re-edited by Ryosuke Furui and Arlo Griffiths based on Plate II in the aforementioned proceedings and a photograph provided by the Asiatic Society.</p>
         	<listBibl type="primary">
 	    <bibl n="GML"><ptr target="bib:Laskar1906_01"/><citedRange>89-90</citedRange></bibl>
         	    <bibl n="DCS"><ptr target="bib:Sircar1983_01"/><citedRange>41-43</citedRange></bibl>
            </listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:PASB1885_01"/><citedRange>49-52</citedRange></bibl>
+              <bibl><ptr target="bib:Secretaries1885_01"/><citedRange>49-52</citedRange></bibl>
            </listBibl>
         </div>
       </body>
