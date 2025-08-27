@@ -81,6 +81,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2025-08-27" status="draft">Translation and commentary completed.</change>
             <change who="part:ryfu" when="2025-08-27" status="draft">Encoding and bibliography corrected.</change>
             <change who="part:ryfu" when="2025-08-27" status="draft">Initial encoding.</change>
         </revisionDesc>
@@ -110,15 +111,15 @@
                      n="4"/><gap reason="lost" unit="character" quantity="2"/><unclear>mahā</unclear>devī-śrī-prabhāvatyā bhujyamānaka-pāṭaka-<num value="2">dvaya</num> bhantaḍīko-<unclear>śu</unclear>bhaṁsukāyā bhujya<supplied reason="lost">mānakā</supplied><lb 
                      n="5" break="no"/><supplied reason="lost"><num value="0.5">rdha</num>-pā</supplied><unclear>ṭa</unclear>ka kedāravorake śrīmitrāvalyāṁ sāmanta-vaṇṭiyokena <surplus>bhu</surplus>bhujyamānaka-<num value="1.5">dvy-ardha</num>-<supplied reason="lost">pāṭaka</supplied><lb 
                      n="6"/><gap reason="lost" unit="character" quantity="1"/>relatalake śrī-netrabhaṭena bhujyamānaka-<num value="1.5">dvy-ardha</num>-pāṭaka peranāṭana-nādavarmi<gap reason="lost" unit="character" quantity="3"/><lb 
-                     n="7"/><gap reason="lost" unit="character" quantity="2"/>tpalagarte <num>daśa</num>-droṇavāpā śivahradikā-śoggavargge nartakī-<num value="0.5">Ardha</num>-pāṭaka <gap reason="lost" unit="character" quantity="3"/><lb 
+                     n="7"/><gap reason="lost" unit="character" quantity="2"/>tpalagarte <num value="10">daśa</num>-droṇavāpā śivahradikā-śoggavargge nartakī-<num value="0.5">Ardha</num>-pāṭaka <gap reason="lost" unit="character" quantity="3"/><lb 
                      n="8"/><gap reason="lost" unit="character" quantity="2"/>śrīmete śrī-śarvāntareṇa bhujyamānaka mahattara-śikharādibhiḥ kr̥ṣyamā<supplied reason="lost">ṇaka</supplied><lb 
                      n="9" break="no"/>-<num value="1">pāṭaka</num> vihāra-vāstu-<num value="2">dvayañ</num> ca rollavāyikā-Ugravorake vandya-jñānamatinā <unclear>bh</unclear><supplied reason="lost">ujya</supplied><lb 
                      n="10" break="no"/><supplied reason="lost">mā</supplied><unclear>na</unclear>ka-<num value="1">pāṭaka</num> tīsanāda-jayadatta-kaṭake droṇi-maṭhikāyāṁ <num value="1">pāṭaka</num><g type="danda">.</g> I<unclear>t</unclear><supplied reason="lost">y</supplied> <unclear>e</unclear><supplied reason="lost">vaṁ na</supplied><lb 
                      n="11" break="no"/><supplied reason="lost">ve</supplied>ṣu pāṭakeṣu <num value="10">daśa</num>-droṇādhikeṣu samupagata-viṣayapatī<supplied reason="omitted">n</supplied> kuṭumvinaś ca samā<supplied reason="lost">jnāpayati</supplied>
                  </p>
                  <p>
-                     <lb n="12"/><supplied reason="lost">vi</supplied>ditam astu bhavatāṁ Ete <num>daśa</num>-droṇādhika-<num value="9">nava</num>-pāṭakā yathā-bhuñjanād a<supplied reason="lost">panīya</supplied><lb 
-                     n="13"/><gap reason="lost" unit="character" quantity="1"/>-rājarājabhaṭṭasyāyuṣ-kāmārthaṁ Ācārya-vandya-saṁghamittra-pādai<supplied reason="omitted">ḥ</supplied> kāri<unclear>ta</unclear><supplied reason="lost">ka</supplied><lb 
+                     <lb n="12"/><supplied reason="lost">vi</supplied>ditam astu bhavatāṁ Ete <num value="10">daśa</num>-droṇādhika-<num value="9">nava</num>-pāṭakā yathā-bhuñjanād a<supplied reason="lost">panīya</supplied><lb 
+                     n="13"/><supplied reason="lost">śrī</supplied>-rājarājabhaṭṭasyāyuṣ-kāmārthaṁ Ācārya-vandya-saṁghamittra-pādai<supplied reason="omitted">ḥ</supplied> kāri<unclear>ta</unclear><supplied reason="lost">ka</supplied><lb 
                      n="14" break="no"/>-<gap reason="lost" unit="character" quantity="1"/>dvīpa-vihāra-vihārikā-<num value="4">catuṣṭayam</num> <num value="1">eka</num>-gaṇḍī-kṛtaṁ tad viṣayapaty-ādi-<unclear>ku</unclear><supplied reason="lost">ṭumvi</supplied><lb n="15" break="no"/><supplied reason="lost">bhir ni</supplied><unclear>rāvādhai</unclear>r bhavitavyam iti
                  </p>
                  <p>samvaT <num value="13">10 3</num> vaiśākha di <num value="13">10 3</num></p>
@@ -166,11 +167,24 @@
                </listApp>
              </div>
          </div>
-         <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
+         <div type="translation" resp="part:ryfu">
+             <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
+                 <p><gap reason="ellipsis"/></p>
+             </div>
+             <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
+                 <p n="1">Welfare!</p>
+                 <p rend="stanza" n="1">The Venerable Best Sage <supplied reason="explanation">the Buddha</supplied>, born from the cause of destruction of ignorance, having crossed the great ocean of transmigration, the sole <gap reason="ellipsis"/> of the fruit of the acquisition of the best, whose feet are <gap reason="ellipsis"/>, is victorious.</p>
+                 <p rend="stanza" n="2">Illustrious Devakhaḍga, the king, who conquered his enemies, whose footstool is bright with jewels on wreaths of heads of all kings, and who has the best body bowed by <gap reason="ellipsis"/> at his feet, is victorious.</p>
+                 <p n="3-11">In <gap reason="ellipsis"/> belonging to Taralā of Jhāṭalyodyānikā, two pāṭakas being enjoyed by the queen illustrious Prabhāvatī; <supplied reason="subaudible">a half</supplied> pāṭaka being enjoyed by bhantarīko Śubnaṁsukā. In Śrīmitrāvalī in Kedāravoraka, one and a half pāṭakas being enjoyed by sāmanta Vaṇṭiyoka. In <gap reason="ellipsis"/>relatalaka, one and a half pāṭakas being enjoyed by illustrious Netrabhaṭa. In <gap reason="ellipsis"/>tpalagarta in Nādavarmi<gap reason="ellipsis"/> of Peranāṭana, 10 droṇavāpas. In Śoggavarga of Śivahradikā, a half pāṭaka of a female dancer <supplied reason="explanation"><foreign xml:lang="san">nartakī</foreign></supplied>. In <gap reason="ellipsis"/>śrīmeta, one pāṭaka being enjoyed by illustrious Śarvāntara, being cultivated by mahattara Śikhara and others, and two homesteads of the vihāra. In Ugravoraka of Rollāvāyikā, one pāṭaka being enjoyed by adorable Jñānamati. In Droṇimaṭhikā in Jayadattakaṭaka of Tīsanāda, one pāṭaka. In such <supplied reason="subaudible">nine</supplied> pāṭakas added with 10 droṇas, <supplied reason="subaudible">the king</supplied> orders approached viṣayapatis and kuṭumbins <supplied reason="subaudible">as follows</supplied>:</p>
+                 <p n="12-15">“It should be known to you. These nine pāṭakas added with 10 droṇas were, after taking away from enjoyers in this way, for the purpose of whishing long life of <supplied reason="subaudible">illustrious</supplied> Rājarājabhaṭṭa, <supplied reason="subaudible">given</supplied> to the four sets of vihāras and vihārikās of <gap reason="ellipsis"/>dvīpa established by his eminence ācārya adorable Saṁghamitra, made under one wooden beam <supplied reason="explanation"><foreign>gaṇḍī</foreign></supplied>. So kuṭumbins beginning with viṣayapatis should be not disturbing.”</p>
+                 <p n="15">Year 13 month Vaiśākha day 13.</p>
+                 <p rend="stanza" n="3">Knowing that life is unsteady, <gap reason="ellipsis"/> of <gap reason="ellipsis"/> is non-enjoyment, merit is a refuge for all which removes distress and fear, and donation of land is <gap reason="ellipsis"/>, it should be protected by the lord of bhogins accompanied by offices <supplied reason="explanation"><foreign>karaṇa</foreign></supplied>.</p>
+                 <p n="17-18">The messenger here was <gap reason="ellipsis"/>, the devout worshipper of Sugata <supplied reason="explanation">the Buddha</supplied>.</p>
+                 <p n="18">Engraved at the abode of Jatakarmānta by upāsaka Pūradāsa, the devout worshipper of Sugata <supplied reason="explanation">the Buddha</supplied>.</p>
+             </div>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+             <p n="14">Gaṇḍī is a wooden beam to be struck by a short stick, used by administrating monks to announce time, special occasions and emergency in a Buddhist vihāra. In the present inscription, eka-gaṇḍī-kr̥taṁ conditions the preceding vihāra-vihārikā-catuṣṭayaṁ and denotes that these four sets of vihāras and vihāikās were under one gaṇḍī, that is, under one and the same administration.</p>
          </div>
         <div type="bibliography">
            <p>First published in Proceedings of the Asiatic Society of Bengal, March 1885<bibl rend="omitname"><ptr target="bib:Secretaries1885_01"/><citedRange>49-52</citedRange></bibl>  with remarks of Rajendra Lal Mitra, a tentative transcription by Kamakhyanath Tarkaratna and a facsimile. Edited by Ganga Mohan Laskar<bibl rend="omitname"><ptr target="bib:Laskar1906_01"/><citedRange>89-90</citedRange></bibl> and re-edited by Dines Chandra Sircar<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/><citedRange>41-43</citedRange></bibl>. Now re-edited by Ryosuke Furui and Arlo Griffiths based on Plate II in the aforementioned proceedings and a photograph provided by the Asiatic Society.</p>
