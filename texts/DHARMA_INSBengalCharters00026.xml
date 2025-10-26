@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:ryfu" when="2025-10-27" status="draft">Encoding modified.</change>
           <change who="part:ryfu" when="2025-01-14" status="draft">Encoding modified.</change>
           <change who="part:ryfu" when="2024-07-22" status="draft">Translation encoding modified.</change>
           <change who="part:ryfu" when="2024-07-15" status="draft">Encoding modified.</change>
@@ -332,7 +333,7 @@
          </div>
          <div type="translation" resp="part:ryfu">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
- 	      <ab>Of illustrious Mahīpāladeva.</ab>
+ 	      <ab n="1">Of illustrious Mahīpāladeva.</ab>
  	</div>
            <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                        <p n="01">Confirmed. Confirmed.</p>
