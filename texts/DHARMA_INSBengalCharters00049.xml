@@ -248,28 +248,28 @@ amwb : add abbr
 			<listApp>
 				<app loc="1">
 					<lem>-pādānuddhyātaḥ <space/></lem>
-					<rdg source="bib:Balogh+al2019_01">-pādānuddhyātaḥ</rdg>
+					<rdg source="bib:Balogh2019_03">-pādānuddhyātaḥ</rdg>
 				</app>
 				<app loc="1">
 					<lem>°karaṇañ ca <space/></lem>
-					<rdg source="bib:Balogh+al2019_01">°karaṇañ ca</rdg>
+					<rdg source="bib:Balogh2019_03">°karaṇañ ca</rdg>
 				</app>
 				<app loc="2">
 					<lem>-śrīgohālyoḥ <space/></lem>
-					<rdg source="bib:Balogh+al2019_01">-śrīgohālyoḥ</rdg><!-- 
+					<rdg source="bib:Balogh2019_03">-śrīgohālyoḥ</rdg><!-- 
 					amwb : the size of the space is identical to the one line 1 after °dānudhyātaḥ 
 					-->
 				</app>
 				<app loc="2">
 					<lem>-kuṭumbinaḥ <space/></lem>
-					<rdg source="bib:Balogh+al2019_01">-kuṭumbinaḥ</rdg>
+					<rdg source="bib:Balogh2019_03">-kuṭumbinaḥ</rdg>
 				</app>
 				<app loc="3">
 					<lem>bodhayanti<supplied reason="subaudible">.</supplied> <space/></lem>
-					<rdg source="bib:Balogh+al2019_01">bodhayanti<supplied reason="subaudible">.</supplied></rdg>
+					<rdg source="bib:Balogh2019_03">bodhayanti<supplied reason="subaudible">.</supplied></rdg>
 				</app>
 				<app loc="3">
-				<lem source="bib:Balogh+al2019_01">-bhoyila-</lem>
+				<lem source="bib:Balogh2019_03">-bhoyila-</lem>
 				<note>This name is spelt thus also in lines 14 and 15, but -<foreign>bhogila</foreign>- in line 8.
 </note>
 				</app>
@@ -277,55 +277,55 @@ amwb : add abbr
 					<lem>āvayoḥ <space/></lem><!-- 
 					amwb : there is a space as after kuṭumbinaḥ the above line
 					-->
-					<rdg source="bib:Balogh+al2019_01">āvayoḥ</rdg>
+					<rdg source="bib:Balogh2019_03">āvayoḥ</rdg>
 				</app>
 				<app loc="4">
 					<lem>kāritak<choice><sic>a</sic><corr>o</corr></choice></lem>
-					<rdg source="bib:Balogh+al2019_01">kāritaka-</rdg>
+					<rdg source="bib:Balogh2019_03">kāritaka-</rdg>
 					<note>Note that <foreign>devakula</foreign> here rather clearly is taken to be masculine; tad seems to bear adverbial function.</note>
 				</app>
 				<app loc="5">
 					<lem>astamva-khila-kṣ<choice><sic>a</sic><corr>e</corr></choice>ttr<choice><sic>a</sic><corr>ā</corr></choice>ṇām</lem>
-					<rdg source="bib:Balogh+al2019_01">astamba-khila-kṣ<choice><sic>a</sic><corr>e</corr></choice>ttr<choice><sic>a</sic><corr>ā</corr></choice>ṇām</rdg>
+					<rdg source="bib:Balogh2019_03">astamba-khila-kṣ<choice><sic>a</sic><corr>e</corr></choice>ttr<choice><sic>a</sic><corr>ā</corr></choice>ṇām</rdg>
 				<note>Correct -<foreign>stambakhilakṣettrāṇām</foreign>. <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads thus, but the plate clearly shows -<foreign>mva</foreign>- and -<foreign>ttra</foreign>-. </note>
 				</app>
 				<app loc="5">
 					<lem>śaśvad-ācandrārkka-</lem>
-					<rdg source="bib:Balogh+al2019_01">śaśvad ācandrārkka-</rdg>
+					<rdg source="bib:Balogh2019_03">śaśvad ācandrārkka-</rdg>
 				</app>
 				<app loc="6">
-					<lem source="bib:Balogh+al2019_01">ṣ<choice><sic>ī</sic><corr>a</corr></choice>ḍ</lem>
+					<lem source="bib:Balogh2019_03">ṣ<choice><sic>ī</sic><corr>a</corr></choice>ḍ</lem>
 					<note><bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads <foreign>ṣaḍ</foreign> but this is clearly not what the plate shows; cf. line 14, where <foreign>ṣaḍ</foreign> is clear.
 </note>
 				</app>
 				<app loc="7">
-					<lem source="bib:Balogh+al2019_01">-kr̥tya</lem>
+					<lem source="bib:Balogh2019_03">-kr̥tya</lem>
 					<rdg source="bib:Basak1931-1932_01">-<supplied reason="lost">kr̥</supplied>tya</rdg>
 					<note>On this shape of <foreign>kr̥</foreign>, recurring also below in line 14, cf. the <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur plate</ref>, line 15.
 </note>
 				</app>
 				<app loc="7">
-					<lem source="bib:Balogh+al2019_01">-phuṭṭa-</lem>
+					<lem source="bib:Balogh2019_03">-phuṭṭa-</lem>
 					<note><bibl><ptr target="bib:Basak1931-1932_01"/></bibl> suggests to emend <foreign>sphuṭita</foreign>. But <foreign>phuṭṭa</foreign>, being ‘evidently a Prakrit form’ (<bibl><ptr target="bib:Basak1931-1932_01"/></bibl>), must be retained. See <bibl><ptr target="bib:Hinueber2013_01"/></bibl><!-- amwb : caution, check here because it could be Hinueber2013_02 ? --> on this case.
 </note>
 				</app>
 				<app loc="7">
-					<lem source="bib:Balogh+al2019_01">°saṁsk<choice><sic>a</sic><corr>ā</corr></choice>ra-</lem>
+					<lem source="bib:Balogh2019_03">°saṁsk<choice><sic>a</sic><corr>ā</corr></choice>ra-</lem>
 					<note>Already corrected by <bibl><ptr target="bib:Basak1931-1932_01"/></bibl>.</note>
 				</app>
 				<app loc="7">
 					<lem>-dīpa- <space/></lem>
-					<rdg source="bib:Balogh+al2019_01">-dīpa-</rdg>
+					<rdg source="bib:Balogh2019_03">-dīpa-</rdg>
 					<note>This space left blank at the end of the line shows the scribe respects the segmentation of word in the compound.</note>
 				</app>
 				<app loc="8">
-					<lem source="bib:Balogh+al2019_01">sumanasā<supplied reason="omitted">ṁ</supplied></lem>
+					<lem source="bib:Balogh2019_03">sumanasā<supplied reason="omitted">ṁ</supplied></lem>
 					<rdg source="bib:Basak1931-1932_01">sumanasā<supplied reason="lost">M</supplied></rdg>
 				</app>
 				<app loc="8">
 					<lem>śrīgohālyā<supplied reason="omitted">ṁ</supplied> Api</lem>
 					<rdg source="bib:Basak1931-1932_01">śrīgohālyāś cāpi</rdg>
-					<rdg source="bib:Balogh+al2019_01">śrīgohālyā<choice><sic><unclear>ś</unclear></sic><corr>m</corr></choice> api</rdg>
+					<rdg source="bib:Balogh2019_03">śrīgohālyā<choice><sic><unclear>ś</unclear></sic><corr>m</corr></choice> api</rdg>
 					<note>Correct <foreign>śrīgohālyām api</foreign>. RB reads <foreign>śrīgohālyāścāpi</foreign> and corrects this to <foreign>śrīgohālyāñ cāpi</foreign>.</note><!-- amwb: here there is a strong difference with siddham edition : DB reads śrīgohālyāś api and corrects it by śrīgohālyām api-->
 				</app>
 				<app loc="9">
@@ -336,23 +336,23 @@ amwb : add abbr
 					amwb : I'm not sure that it is ttha or tha, compare the photo rtthastha l9 or rthastha?.png with the three photos rttha l12.png , rtthe l15.png and rtthaM l15.png. In my opinion we have rtha in line 9
 					-->
 					<rdg source="bib:Basak1931-1932_01">-vāṭakārtha<supplied reason="lost">M</supplied></rdg>
-					<rdg source="bib:Balogh+al2019_01">-vāṭakār<unclear>t</unclear>tha<supplied reason="omitted">ṁ</supplied></rdg>
+					<rdg source="bib:Balogh2019_03">-vāṭakār<unclear>t</unclear>tha<supplied reason="omitted">ṁ</supplied></rdg>
 				</app>
 				<app loc="9">
 					<lem>-vāpa<choice><sic>p</sic><corr>m</corr></choice></lem>
 					<rdg source="bib:Basak1931-1932_01">-vāpam</rdg>
-					<rdg source="bib:Balogh+al2019_01">-vāpa<unclear>m</unclear></rdg>
+					<rdg source="bib:Balogh2019_03">-vāpa<unclear>m</unclear></rdg>
 					<note>Correct -<foreign>vāpam</foreign>. <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads -<foreign>vāpam</foreign>, but the required m has not been written here. See shape of <foreign>pe</foreign> in line 21; same error <foreign>p</foreign> for <foreign>m</foreign> in lines 16–17 and 23.</note>
 				</app>
 				<app loc="10">
-					<lem source="bib:Balogh+al2019_01">bodhayāma<supplied reason="omitted">ḥ</supplied></lem>
+					<lem source="bib:Balogh2019_03">bodhayāma<supplied reason="omitted">ḥ</supplied></lem>
 					<note>Already corrected by <bibl><ptr target="bib:Basak1931-1932_01"/></bibl>.</note>
 				</app>
 				<app loc="10">
 					<lem>-durgg<unclear>ā</unclear>da°</lem><!-- 
 					amwb : for me we have to choose between a double gga or a single one with a long, see photos durgā l10 ?.png durgga l10?.png
 					-->
-					<rdg source="bib:Basak1931-1932_01 bib:Balogh+al2019_01">-durgāda°</rdg>
+					<rdg source="bib:Basak1931-1932_01 bib:Balogh2019_03">-durgāda°</rdg>
 					<note>Or is the reading -<foreign>durggada</foreign>-?</note>
 				</app>
 				<app loc="10">
@@ -360,62 +360,62 @@ amwb : add abbr
 					<!-- amwb: there is a space left blank at the end of the line, see photo vadhṛta space l10.png
 					<lem>°ṇayā Avadhr̥ta <space/><lem/>
 					-->
-					<rdg source="bib:Balogh+al2019_01">°ṇayā Avadhr̥ta°</rdg>
+					<rdg source="bib:Balogh2019_03">°ṇayā Avadhr̥ta°</rdg>
 					<rdg source="bib:Basak1931-1932_01">-ṇayāvadhr̥ta-</rdg>
 				</app>
 				<app loc="11">
 					<lem>astīha-viṣaye <space/></lem><!-- 
 					amwb : add a space after viṣaye? see photo viṣaye space samu l11.png
 					-->
-					<rdg source="bib:Balogh+al2019_01">astīha viṣay<unclear>e</unclear></rdg>
+					<rdg source="bib:Balogh2019_03">astīha viṣay<unclear>e</unclear></rdg>
 				</app>
 				<app loc="11">
-					<lem source="bib:Balogh+al2019_01">-kṣettrāṇā<supplied reason="omitted">ṁ</supplied></lem>
+					<lem source="bib:Balogh2019_03">-kṣettrāṇā<supplied reason="omitted">ṁ</supplied></lem>
 					<note>Already corrected by <bibl><ptr target="bib:Basak1931-1932_01"/></bibl>.</note>
 				</app>
 				<app loc="11">
-					<lem source="bib:Balogh+al2019_01">-bhojyānāṁ</lem>
+					<lem source="bib:Balogh2019_03">-bhojyānāṁ</lem>
 					<note>-<foreign>bhojyānām</foreign> <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> (misprint).</note>
 				</app>
 				<app loc="13">
 					<lem>Upacaya Eva <space/></lem>
-					<rdg source="bib:Balogh+al2019_01">Upacaya Eva</rdg>
+					<rdg source="bib:Balogh2019_03">Upacaya Eva</rdg>
 				</app>
 				<app loc="13">
 					<lem>ca<supplied reason="subaudible">.</supplied> <space/> tad</lem>
-					<rdg source="bib:Balogh+al2019_01">ca<supplied reason="subaudible">.</supplied> tad</rdg>
+					<rdg source="bib:Balogh2019_03">ca<supplied reason="subaudible">.</supplied> tad</rdg>
 				</app>
 				<app loc="14">
-					<lem source="bib:Balogh+al2019_01">bhoyila-</lem>
+					<lem source="bib:Balogh2019_03">bhoyila-</lem>
 					<note>Understand <foreign>bhogila-</foreign>, as in line 8.</note>
 				</app>
 				<app loc="14">
-					<lem source="bib:Balogh+al2019_01">sakā<supplied reason="omitted">śā</supplied>t</lem>
+					<lem source="bib:Balogh2019_03">sakā<supplied reason="omitted">śā</supplied>t</lem>
 					<note>Emend <foreign>sakāśāt</foreign> (<bibl><ptr target="bib:Basak1931-1932_01"/></bibl>).</note>
 				</app>
 				<app loc="15">
-					<lem source="bib:Balogh+al2019_01">bhoyilasya</lem>
+					<lem source="bib:Balogh2019_03">bhoyilasya</lem>
 					<note>Understand <foreign>bhogilasya</foreign>, as in line 8.</note>
 				</app>
 				<app loc="15">
 					<lem>tala-v<choice><sic>a</sic><corr>ā</corr></choice>ṭakādy-artthaM</lem>
-					<rdg source="bib:Balogh+al2019_01">tala-vāṭakādy-artthaM</rdg>
+					<rdg source="bib:Balogh2019_03">tala-vāṭakādy-artthaM</rdg>
 					<note>Correct <foreign>talavāṭakādyarttham</foreign>, as <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads.</note>
 				</app>
 				<app loc="16">
-					<lem source="bib:Balogh+al2019_01">śrīgohālyā<supplied reason="omitted">ṁ</supplied></lem>
+					<lem source="bib:Balogh2019_03">śrīgohālyā<supplied reason="omitted">ṁ</supplied></lem>
 					<note>Already corrected by <bibl><ptr target="bib:Basak1931-1932_01"/></bibl>.</note>
 				</app>
 				<app loc="16">
 					<lem>droṇa-vāpaṁ <space/> bhāska°</lem>
-					<rdg source="bib:Balogh+al2019_01">droṇa-vāpaṁ bhāska°</rdg>
+					<rdg source="bib:Balogh2019_03">droṇa-vāpaṁ bhāska°</rdg>
 				</app>
 				<app loc="16">
 					<lem>atraiva</lem>
-					<rdg source="bib:Balogh+al2019_01">atr<choice><sic>ī</sic><corr>ai</corr></choice>va</rdg>
+					<rdg source="bib:Balogh2019_03">atr<choice><sic>ī</sic><corr>ai</corr></choice>va</rdg>
 				</app>
 				<app loc="16">
-					<lem source="bib:Balogh+al2019_01">sthal<choice><sic>i</sic><corr>a</corr></choice>-v<choice><sic>a</sic><corr>ā</corr></choice>stuno</lem>
+					<lem source="bib:Balogh2019_03">sthal<choice><sic>i</sic><corr>a</corr></choice>-v<choice><sic>a</sic><corr>ā</corr></choice>stuno</lem>
 					<rdg source="bib:Basak1931-1932_01">sthalevastuno</rdg>
 					<note>Correct <foreign>sthalavāstuno</foreign>. RB reads <foreign>sthalevastuno</foreign> and makes the same correction. The <foreign>akṣara</foreign> he reads <foreign>le</foreign> has a slightly different shape than the <foreign>le</foreign> in line 7.</note>
 				</app>
@@ -423,71 +423,71 @@ amwb : add abbr
 					<lem>-vāpa <space/><lb n="17" break="no"/><choice><sic>p</sic><corr>m</corr></choice></lem><!-- 
 					amwb here there is a space left blank at the end of the line 16, see photo vāpa l16.png
 					-->
-					<rdg source="bib:Balogh+al2019_01 bib:Basak1931-1932_01">-vāpam</rdg>
+					<rdg source="bib:Balogh2019_03 bib:Basak1931-1932_01">-vāpam</rdg>
 					<note>See note on line 9.</note>
 				</app>
 				<app loc="17">
-					<lem source="bib:Balogh+al2019_01">ca <space/> Akṣa°</lem>
+					<lem source="bib:Balogh2019_03">ca <space/> Akṣa°</lem>
 					<note><bibl><ptr target="bib:Basak1931-1932_01"/></bibl> proposes in note to read <foreign>cākṣa</foreign>-, but the punctuation space between the two words means that non-application of sandhi is intentional.</note>
 				</app>
 				<app loc="17">
 					<lem>°kṣaya-nīvyās</lem>
-					<rdg source="bib:Balogh+al2019_01">°kṣaya-<choice><sic>nīvyās</sic><corr>nīvyā</corr></choice></rdg>
+					<rdg source="bib:Balogh2019_03">°kṣaya-<choice><sic>nīvyās</sic><corr>nīvyā</corr></choice></rdg>
 				</app>
 				<app loc="17">
-					<lem source="bib:Balogh+al2019_01">dattaM</lem>
+					<lem source="bib:Balogh2019_03">dattaM</lem>
 					<rdg source="bib:Basak1931-1932_01">dattan</rdg>
 				</app>
 				<app loc="18">
-					<lem source="bib:Balogh+al2019_01">te</lem>
+					<lem source="bib:Balogh2019_03">te</lem>
 					<note>In <bibl><ptr target="bib:Basak1931-1932_01"/></bibl>, one reads this note: <q>The Paharpur plate gives <foreign>tad</foreign>- instead <foreign>te</foreign> (l. 19) which is a much better reading.—Ed.</q>. But the precise collocation <foreign>te yūyaṁ</foreign> is also found in the <ref target="DHARMA_INSBengalCharters00039.xml">Mahatī-Raktamālā</ref> (line 20) and <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur</ref> (line 13) plates. <!-- amwb: I added the number of the lines -->
 </note>
 				</app>
 				<app loc="19">
-					<lem source="bib:Balogh+al2019_01">-sthāyi-tuṣāṅgār-ādinā</lem>
+					<lem source="bib:Balogh2019_03">-sthāyi-tuṣāṅgār-ādinā</lem>
 					<note>Correct -<foreign>sthāyituṣāṅgārādināṁ</foreign> or -<foreign>sthāyituṣāṅgārādi</foreign>- (thus <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur</ref>, line 14)? The latter option is reflected in the translation. <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> reads -<foreign>sthāyi</foreign>-.</note>
 				</app>
 				<app loc="19">
-					<lem source="bib:Balogh+al2019_01">cāturddiśo</lem>
+					<lem source="bib:Balogh2019_03">cāturddiśo</lem>
 					<note>Corr. <foreign>caturdiśo</foreign> or <foreign>cāturddiśe</foreign>? Cf. <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur</ref>, line 14–15 <foreign>caturddiṅniyamitasīmānaṁ kr̥tvā</foreign>.</note>
 				</app>
 				<app loc="20">
-					<lem source="bib:Balogh+al2019_01">dharmme<choice><sic>n</sic><corr>ṇ</corr></choice>a</lem>
+					<lem source="bib:Balogh2019_03">dharmme<choice><sic>n</sic><corr>ṇ</corr></choice>a</lem>
 					<note>Already corrected by <bibl><ptr target="bib:Basak1931-1932_01"/></bibl>.</note>
 				</app>
 				<app loc="20">
 					<lem>anupālayiṣyatha <space/> vartta°</lem>
-					<rdg source="bib:Balogh+al2019_01">anupālayiṣyatha vartta°</rdg>
+					<rdg source="bib:Balogh2019_03">anupālayiṣyatha vartta°</rdg>
 				</app>
 				<app loc="21">
-					<lem source="bib:Balogh+al2019_01">bhagava<supplied reason="omitted">tā</supplied> veda-</lem>
+					<lem source="bib:Balogh2019_03">bhagava<supplied reason="omitted">tā</supplied> veda-</lem>
 					<note><bibl><ptr target="bib:Basak1931-1932_01"/></bibl> emends bhagavadveda-.</note>
 				</app>
 				<app loc="22">
 					<lem>vasundharā<unclear>ṁ</unclear></lem>
 					<!-- amwb : maybe it is neccesary because with the usual line, it will form something ressembling pha ? Compare photos vasundharā(m*) l22.png ; ttaM l17.png and pha l13.png; see also the photos rtthaM l15.png and seT l23.png, we can deduce that the sign used to note a final M change according to the context
 					-->
-					<rdg source="bib:Balogh+al2019_01">vasundharāṁ</rdg>
+					<rdg source="bib:Balogh2019_03">vasundharāṁ</rdg>
 					<note>The sign for final <foreign>M</foreign> does not have its usual shape.</note>
 				</app>
 				<app loc="23">
 					<lem><choice><sic>p</sic><corr>m</corr></choice>odati</lem>
-					<rdg source="bib:Basak1931-1932_01 bib:Balogh+al2019_01">modati</rdg>
+					<rdg source="bib:Basak1931-1932_01 bib:Balogh2019_03">modati</rdg>
 					<note>See note on line 9.</note>
 				</app>
 				<app loc="23">
 					<lem>vase<unclear>T</unclear></lem><!-- 
 					amwb : it seems to me that the final T and the final M change according the context see vasundharā(m*) l22.png ; ttaM l17.png ; rtthaM l15.png and seT l23.png
 					-->
-					<rdg source="bib:Balogh+al2019_01">vaseT</rdg>
+					<rdg source="bib:Balogh2019_03">vaseT</rdg>
 					<note>The sign for final -<foreign>T</foreign> does not have its usual shape.</note>
 				</app>
 				<app loc="24">
 					<lem>dvijātibhyo</lem>
-					<rdg source="bib:Balogh+al2019_01">dvijātibhy<choice><sic>ā</sic><corr>o</corr></choice></rdg>
+					<rdg source="bib:Balogh2019_03">dvijātibhy<choice><sic>ā</sic><corr>o</corr></choice></rdg>
 				</app>
 				<app loc="24">
-					<lem source="bib:Balogh+al2019_01">-dattāṁ</lem>
+					<lem source="bib:Balogh2019_03">-dattāṁ</lem>
 					<note>-<foreign>dattām</foreign> <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> (misprint)</note>
 				</app>
 			</listApp>
@@ -706,7 +706,7 @@ These translated stanzas seem to correspond to the following in the <title>Br̥h
                <bibl n="S"><ptr target="bib:Sircar1965_02"/><citedRange unit="item">III</citedRange><citedRange unit="entry">no. 41</citedRange><citedRange unit="page">355-9</citedRange><citedRange unit="figure">pl. L–LI</citedRange></bibl>
         	    <bibl n="A"><ptr target="bib:Agrawala1983_01"/><citedRange unit="entry">29</citedRange></bibl>
         	    <bibl n="G"><ptr target="bib:Goyal1993_01"/><citedRange unit="page">183-8</citedRange></bibl>
-        		<bibl n="DB"><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00061</citedRange></bibl>
+        		<bibl n="DB"><ptr target="bib:Balogh2019_03"/><citedRange unit="item">IN00061</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
            		<bibl><ptr target="bib:ARASI1937_01"/><citedRange unit="page">42</citedRange></bibl>

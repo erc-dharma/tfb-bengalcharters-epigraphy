@@ -280,77 +280,77 @@ amwb : change the reading of anambhassu for Arlo's one, see apparatus
 			<listApp>
 				<app loc="1">
 				<lem>puṇḍravarddhanād</lem>
-				<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">puṇḍra<unclear>varddha</unclear>nād</rdg>
+				<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">puṇḍra<unclear>varddha</unclear>nād</rdg>
 				</app>
 				<app loc="1">
 					<lem>āyuktakā Āryya°</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">āyuktak<choice><sic><unclear>ā</unclear> Ā</sic><corr><unclear>aḥ</unclear> Ā</corr></choice>ryya-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">āyuktak<choice><sic><unclear>ā</unclear> Ā</sic><corr><unclear>aḥ</unclear> Ā</corr></choice>ryya-</rdg>
 				</app>
 				<app loc="3">
 					<lem>vilva</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">nitva-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">nitva-</rdg>
 				</app>
 				<app loc="4">
-					<lem source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">ihādhiṣṭhānādhikaraṇe</lem>
+					<lem source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">ihādhiṣṭhānādhikaraṇe</lem>
 					<note>The expression is surprising, because in parallel passages for the certification by record-keepers one never sees an <foreign>adhikaraṇa</foreign>, but it is confirmed by line 11.
 </note>
 				</app>
 				<app loc="4">
 					<lem>°bhogyo 'kṣaya-</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">°bhogyākṣaya-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">°bhogyākṣaya-</rdg>
 				</app>
 				<app loc="4">
-					<lem source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">-vāhyā-</lem>
+					<lem source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">-vāhyā-</lem>
 					<note>KND and DCS observe that this is to be read as -<foreign>bāhyā</foreign>-. The spelling of <foreign>v</foreign> for <foreign>b</foreign> is noteworthy.
 </note>
 				</app>
 				<app loc="5">
 					<lem>upasaṁ<surplus>ṅ</surplus>gr̥hyāvayo</lem>
 					<rdg source="bib:Dikshit1929-1930_01">upasaṅgr̥hyāvayo<supplied reason="omitted">s</supplied></rdg>
-					<rdg source="bib:Sircar1965_02 bib:Balogh+al2019_01">upasaṅgr̥hyāvayo<supplied reason="omitted">ḥ</supplied></rdg>
+					<rdg source="bib:Sircar1965_02 bib:Balogh2019_03">upasaṅgr̥hyāvayo<supplied reason="omitted">ḥ</supplied></rdg>
 					<note>The (superfluous) <foreign>anusvāra</foreign> seems rather clear on the facsimile.</note>
 				</app>
 				<app loc="6">
 					<lem>vaṭa-gohālyām <choice><sic>a</sic><corr>e</corr></choice>vā<choice><sic>ś</sic><corr>s</corr></choice>yāṅ</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">vaṭagohālyāmavāsyāṅ</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">vaṭagohālyāmavāsyāṅ</rdg>
 					<note>KND DCS emended to <foreign>vaṭagohālyām evāsyāṅ</foreign>. But the <foreign>akṣara</foreign> they read <foreign>syā</foreign> really looks more like <foreign>śyā</foreign>. Cf. the problem at the end of line 12. I provisionally assume that one must indeed emend <foreign>vaṭagohālyām evāsyāṅ</foreign> here.</note>
 				</app>
 				<app loc="7">
 					<lem>dīpādy-arttha<sic>n</sic></lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">dīpādy-artha<sic>n</sic></rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">dīpādy-artha<sic>n</sic></rdg>
 				</app>
 				<app loc="7">
 					<lem>-nimittañ ca Atavaṁ</lem>
 					<rdg source="bib:Dikshit1929-1930_01">-nimittañ ca A<supplied reason="omitted">ta</supplied> eva</rdg>
 					<rdg source="bib:Sircar1965_02">-nimittañ ca A<supplied reason="omitted">taḥ</supplied></rdg>
-					<rdg source="bib:Balogh+al2019_01">-nimittañ ca A eva</rdg>
+					<rdg source="bib:Balogh2019_03">-nimittañ ca A eva</rdg>
 					<note>Emend <foreign>Atraiva</foreign>, as in line 14 and <ref target="DHARMA_INSBengalCharters00049.xml">Baigram Charter of the Time of Kumāragupta I</ref>, line 16.</note>
 				</app>
 				<app loc="8">
-					<lem source="bib:Balogh+al2019_01">pottak<choice><sic>e</sic><corr>ā</corr></choice>t</lem>
+					<lem source="bib:Balogh2019_03">pottak<choice><sic>e</sic><corr>ā</corr></choice>t</lem>
 					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">pottak<choice><sic>et</sic><corr>e</corr></choice></rdg>
 				</app>
 				<app loc="8">
 					<lem>kṣetra-droṇa-vāpa-catuṣṭayaṁ</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">kṣetraṁ droṇa-vāpa-catuṣṭayaṁ</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">kṣetraṁ droṇa-vāpa-catuṣṭayaṁ</rdg>
 					<note>Cf. <foreign>kṣetrakulyavāpam</foreign> in lines 9, 16 and 18–19.</note>
 				</app>
 				<app loc="9">
 					<lem source="bib:Sircar1965_02">-prāveśya-</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh+al2019_01">-prāveśyā-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh2019_03">-prāveśyā-</rdg>
 				</app>
 				<app loc="9">
 					<lem>-vilva-</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">-nitva-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">-nitva-</rdg>
 				</app>
 				<app loc="9">
 					<lem>Arddhatrikan droṇa-</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">Arddha-trika-droṇa-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">Arddha-trika-droṇa-</rdg>
 					<note>Is there a need to emend <foreign>Arddhatrikān droṇa</foreign>-?</note>
 				</app>
 				<app loc="9">
 					<lem>kṣetra-kulya-vāpam</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">kṣetra-<subst><del rend="corrected">droṇa</del><add place="overstrike">kulya</add></subst>-vāpam</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">kṣetra-<subst><del rend="corrected">droṇa</del><add place="overstrike">kulya</add></subst>-vāpam</rdg>
 					<note><bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> notes that ‘The engraver first wrote <foreign>droṇavāpam</foreign> but finding his mistake later, appears to have made an attempt at correction. The erased letters <foreign>droṇa</foreign> are clearly visible below <foreign>kulya</foreign>.’ <bibl><ptr target="bib:Sircar1965_02"/></bibl>DCS has an equivalent note.
 </note>
 				</app>
@@ -358,123 +358,123 @@ amwb : change the reading of anambhassu for Arlo's one, see apparatus
 					<lem>dātu<unclear>m iti</unclear> <space/> <unclear>ya</unclear>taḥ</lem>
 					<rdg source="bib:Dikshit1929-1930_01">dātum i<unclear>ti</unclear> <supplied reason="omitted">|</supplied> yataḥ</rdg>
 					<rdg source="bib:Sircar1965_02">dātum i<supplied reason="lost">ty atra</supplied> yataḥ</rdg>
-					<rdg source="bib:Balogh+al2019_01">dātu<damage>m i<unclear>ti</unclear></damage></rdg>
+					<rdg source="bib:Balogh2019_03">dātu<damage>m i<unclear>ti</unclear></damage></rdg>
 				</app>
 				<app loc="10">
 					<lem>-suprabhamanu<unclear>da</unclear><supplied reason="lost">ttā</supplied>nām</lem>
 					<rdg source="bib:Dikshit1929-1930_01">-ṣu prathamanu <gap reason="illegible" unit="character" quantity="2"/> <supplied reason="lost">nā</supplied>m</rdg>
 					<rdg source="bib:Sircar1965_02">-suprabhamanuda<supplied reason="lost">ttānā</supplied>m</rdg>
-					<rdg source="bib:Balogh+al2019_01"><damage><unclear>su</unclear>prabha-<unclear>manu</unclear>da<supplied reason="lost">ttā</supplied><unclear>nā</unclear></damage>m</rdg>
+					<rdg source="bib:Balogh2019_03"><damage><unclear>su</unclear>prabha-<unclear>manu</unclear>da<supplied reason="lost">ttā</supplied><unclear>nā</unclear></damage>m</rdg>
 					<note><bibl><ptr target="bib:Sircar1965_02"/></bibl> notes the alternative possibility -<foreign>manudāsānām</foreign>. The editor’s note 8 to <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl>’s text states: <quote>The text of the Dāmodarpur plates would suggest that <foreign>avadhāraṇayā</foreign> was preceded by the names of the record-keepers which were put in the genitive plural.—Ed.</quote>.</note>
 				</app>
 				<app loc="11">
 					<lem source="bib:Sircar1965_02">°vadhr̥taM Asty</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh+al2019_01">°vadhr̥tam asty</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh2019_03">°vadhr̥tam asty</rdg>
 				</app>
 				<app loc="11">
 					<lem>°bhogyo 'kṣaya-</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">°bhogyākṣaya-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">°bhogyākṣaya-</rdg>
 				</app>
 				<app loc="11">
 					<lem>-sa<supplied reason="lost">mu</supplied>da<supplied reason="lost">ya-vā</supplied>hyā-</lem>
 					<rdg source="bib:Dikshit1929-1930_01">-samu<supplied reason="lost">daya-vā</supplied>hyā-</rdg>
 					<rdg source="bib:Sircar1965_02">-samu<supplied reason="lost">daya</supplied>-vāhyā-</rdg>
-					<rdg source="bib:Balogh+al2019_01">sa<damage>mu<unclear>daya-vā</unclear>h</damage>yā-</rdg>
+					<rdg source="bib:Balogh2019_03">sa<damage>mu<unclear>daya-vā</unclear>h</damage>yā-</rdg>
 				</app>
 				<app loc="12">
 					<lem><unclear>khila</unclear></lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01"><supplied reason="lost">khila</supplied></rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03"><supplied reason="lost">khila</supplied></rdg>
 				</app>
 				<app loc="12">
 					<lem>yuṣmā<choice><sic>m</sic><corr>n</corr></choice></lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">yuṣmā<sic>m</sic></rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">yuṣmā<sic>m</sic></rdg>
 					<note>Already corrected by <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> and <bibl><ptr target="bib:Sircar1965_02"/></bibl>.</note>
 				</app>
 				<app loc="12">
 					<lem>-gohālī<unclear>sva</unclear> <gap reason="illegible" unit="character" quantity="1"></gap>-</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh+al2019_01">-gohālī<unclear cert="low">stha</unclear>ya-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh2019_03">-gohālī<unclear cert="low">stha</unclear>ya-</rdg>
 					<rdg source="bib:Sircar1965_02">-gohālīsth<supplied reason="lost">āyi</supplied>-</rdg>
 					<note>For the penultimate <foreign>akṣara</foreign>, <foreign>sva</foreign> (or <foreign>ṣva</foreign>) seems the most evident choice; see the shape of the same <foreign>akṣara</foreign> in line 25. Cf. the problem in line 6.
 </note>
 				</app>
 				<app loc="13">
-					<lem source="bib:Sircar1965_02 bib:Balogh+al2019_01">-<supplied reason="lost">kāśi</supplied>ka-</lem>
+					<lem source="bib:Sircar1965_02 bib:Balogh2019_03">-<supplied reason="lost">kāśi</supplied>ka-</lem>
 					<rdg source="bib:Dikshit1929-1930_01"><gap reason="illegible" unit="character" quantity="2"/>ka-</rdg>
 					<note>Thus restored by <bibl><ptr target="bib:Sircar1965_02"/></bibl>.</note>
 				</app>
 				<app loc="13">
 					<lem>Ar<surplus>a</surplus>hatāṁ</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">Ar<sic>a</sic>hatāṁ</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">Ar<sic>a</sic>hatāṁ</rdg>
 					<note>Emend <foreign>Arhatāṁ</foreign> as noted by <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> and <bibl><ptr target="bib:Sircar1965_02"/></bibl>.</note>
 				</app>
 				<app loc="14">
 					<lem><supplied reason="lost">tala</supplied>-vāṭaka-</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh+al2019_01"><supplied reason="lost">tala-v</supplied>āṭaka-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh2019_03"><supplied reason="lost">tala-v</supplied>āṭaka-</rdg>
 					<rdg source="bib:Sircar1965_02"><supplied reason="lost">tala-vā</supplied>ṭaka-</rdg>
 				</app>
 				<app loc="14">
 					<lem>Atraiva</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">tatraiva</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">tatraiva</rdg>
 				</app>
 				<app loc="14">
 					<lem>adhyarddhañ</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">adhyarddhaṁ</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">adhyarddhaṁ</rdg>
 				</app>
 				<app loc="14">
 					<lem source="bib:Dikshit1929-1930_01 bib:Sircar1965_02">-droṇa-vāpa-</lem>
-					<rdg source="bib:Balogh+al2019_01"><damage>droṇa-vāpa</damage>-</rdg>
+					<rdg source="bib:Balogh2019_03"><damage>droṇa-vāpa</damage>-</rdg>
 				</app>
 				<app loc="14">
 					<lem>-catuṣṭaya<lb 
 n="15"/>ṅ goṣāṭa°</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">-catuṣṭayaṁ<lb 
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">-catuṣṭayaṁ<lb 
 n="15"/>goṣāṭa°</rdg>
 				</app>
 				<app loc="15">
 					<lem>-vilva-</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">-nitva-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">-nitva-</rdg>
 				</app>
 				<app loc="16">
 					<lem>prārtthayete</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">prārtthayate</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">prārtthayate</rdg>
 					<note><bibl><ptr target="bib:Sircar1965_02"/></bibl> emend to <foreign>prārtthayete</foreign>, but the <foreign>e</foreign>-mātra on the <foreign>y</foreign> seems clear enough.</note>
 				</app>
 				<app loc="16">
 					<lem><supplied reason="lost">dharmma</supplied>-ṣaḍ-</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">dharmma-ṣaḍ-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">dharmma-ṣaḍ-</rdg>
 				</app>
 				<app loc="17">
 					<lem>kr<choice><sic>i</sic><corr>ī</corr></choice>yatām</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">kriyatām</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">kriyatām</rdg>
 					<note>Emend <foreign>krīyatām</foreign>?</note>
 				</app>
 				<app loc="18">
 					<lem>vijñāpitaka-kkramopa°</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">vijñāpitaka-kramopa°-</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">vijñāpitaka-kramopa°-</rdg>
 				</app>
 				<app loc="18">
-					<lem source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">tala-vāṭaka-vāstunā</lem>
+					<lem source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">tala-vāṭaka-vāstunā</lem>
 					<note><bibl><ptr target="bib:Sircar1965_02"/></bibl> proposes to emend <foreign>talavāṭakaṁ vāstunā</foreign>, but this does not seem to me to yield a better sense.</note>
 				</app>
 				<app loc="18">
 					<lem>kṣetra
 <lb 
 n="19"/>kulya-vāpa</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh+al2019_01">kṣetraṁ kulyavāpa</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh2019_03">kṣetraṁ kulyavāpa</rdg>
 					<rdg source="bib:Sircar1965_02">kṣetraṁ kulyavāpa<supplied reason="omitted">ḥ</supplied></rdg>
 				</app>
 				<app loc="19">
 					<lem source="bib:Sircar1965_02">sva-karṣaṇāvirodhi°</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh+al2019_01">sva-karmmaṇāvirodhi°</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh2019_03">sva-karmmaṇāvirodhi°</rdg>
 				</app>
 				<app loc="24">
 					<lem>yudhiṣṭhira<surplus>ḥ</surplus></lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh+al2019_01">yudhiṣṭhira</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">yudhiṣṭhira</rdg>
 					<note><bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> and <bibl><ptr target="bib:Sircar1965_02"/></bibl>do not read the (unwanted) <foreign>visarga</foreign>.</note>
 				</app>
 				<app loc="25">
 					<lem source="bib:Sircar1965_02">anambhassu</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh+al2019_01">anambhasṣu</rdg>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh2019_03">anambhasṣu</rdg>
 				</app>
 			</listApp>
 		</div>
@@ -684,7 +684,7 @@ amwb : I feel it is important that the protection is enjoined by the rule for pe
 				<bibl n="DCS"><ptr target="bib:Sircar1965_02"/><citedRange unit="part">III</citedRange><citedRange unit="entry">42</citedRange><citedRange unit="page">359-363</citedRange></bibl>
 				<bibl><ptr target="bib:Agrawala1983_02"/><citedRange unit="entry">50</citedRange><citedRange unit="page">98-101</citedRange></bibl>
 				<bibl><ptr target="bib:Goyal1993_01"/><citedRange unit="page">277-81</citedRange></bibl><!-- amwb : ref bib coming from siddham -->
-				<bibl n="DB"><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00065</citedRange></bibl>
+				<bibl n="DB"><ptr target="bib:Balogh2019_03"/><citedRange unit="item">IN00065</citedRange></bibl>
 			</listBibl>
 			<listBibl type="secondary">
 				<bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="page">283</citedRange><citedRange unit="entry">2037</citedRange></bibl><!-- 
