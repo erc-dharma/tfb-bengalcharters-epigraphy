@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-01-14" status="draft">Encoding mistakes corrected.</change>
             <change who="part:ryfu" when="2025-08-01" status="draft">Translation corrected.</change>
             <change who="part:ryfu" when="2024-12-16" status="draft">A symbol modified.</change>
             <change who="part:ryfu" when="2024-08-08" status="draft">Encoding errors corrected.</change>
@@ -164,13 +165,13 @@
                      <l n="c"><unclear>ni</unclear>hita-caraṇa-padmo bhū-bhujāṁ mūrddhni tasmād</l>
                      <l n="d">abhavad a<lb n="20" break="no"/><unclear>va</unclear>ni-pālaḥ śrī-mahīpāla-devaḥ<space unit="character" quantity="1"/><g type="indistinct"/><space unit="character" quantity="1"/><g type="ddanda">.</g></l>
                  </lg>
-                 <p n="20-24">sa khalu bhāgīrathī-patha-pravarttamā<choice><sic>śva</sic><corr>na</corr></choice>-nānā-vidha-nau-vāṭaka-sampādita<lb 
+                 <p>sa khalu bhāgīrathī-patha-pravarttamā<choice><sic>śva</sic><corr>na</corr></choice>-nānā-vidha-nau-vāṭaka-sampādita<lb 
                      n="21" break="no"/>-setu-vandha-nihita-śaila-śikhara-śreṇī-vibhramāt·<g type="danda">.</g> niratiśaya-<unclear>gha</unclear>na-ghanāghana-ghaṭā-śyāmāyamāna-vāsara<lb 
                      n="22" break="no"/>-lakṣmī-samāravdha-santata-jalada-samaya-sandehāt·<g type="danda">.</g> Udīcīnāneka-na<unclear>ra</unclear>-pati-prābhr̥tī-kr̥tāprameya-haya-vāhinī<lb 
                      n="23" break="no"/>-khara-khurotkhāta-dhūlī-dhūsarita-dig-antarālāt·<g type="danda">.</g> parameśvara-sevā-samāyatāśeṣa-jamvūdvīpa-bhū-pālā<lb 
                      n="24" break="no"/>nanta-pādāta-bhara-namad-avaneḥ Indrāṇī-grāma-samāvāsita-śrīmaj-jaya-skandhāvārāt·
                  </p>
-                 <p n="24-38">
+                 <p>
                      paramasaugato ma<lb 
                      n="25" break="no"/>hārājādhirāja-śrī-vigrahapāla-deva-pādānudhyātaḥ<g type="danda">.</g> parameśvaraḥ paramabhaṭṭārako mahārājādhirāja<lb 
                      n="26" break="no"/>ḥ śrīmā<unclear>n ma</unclear>hīpāla-devaḥ kuśalī<g type="ddanda">.</g> śrī-puṇḍravarddhana-bhuktau phāṇita-vīthyāṁ vapatagrāma-maṇḍalāntaḥpā<lb 
@@ -187,7 +188,7 @@
                      n="37" break="no"/>ḥ<g type="danda">.</g> prativāsino vrāhmaṇottarāN<g type="danda">.</g> mahattamottama-kuṭumvi-puroga-medāndhra-caṇḍāla-paryantāN yathārhaṃ mānayati<g type="danda">.</g> vo<lb 
                      n="38" break="no"/>dhayati<g type="danda">.</g> samādiśati ca<g type="danda">.</g>
                  </p>
-                 <p n="38-48">
+                 <p>
                      viditam astu bhavatāṁ<g type="danda">.</g> yathopari-likhitam idaṁ grāma-dvayaṁ<g type="danda">.</g> sva-sīmā-tr̥ṇa-pūti-gocara-pa<lb 
                      n="39" break="no"/>ryantaṁ<g type="danda">.</g> sa-talaṁ sodde<choice><sic>s</sic><corr>ś</corr></choice>aṁ<g type="danda">.</g> sāmra-madhūkaṁ<g type="danda">.</g> sa-jala-sthalaṁ<g type="danda">.</g> sa-garttoṣaraṁ<g type="danda">.</g> sa-haṭṭa-ghaṭṭaṁ<g type="danda">.</g> sa-daśāpacāraṁ<g type="danda">.</g> sa-cauroddharaṇaṁ<lb 
                      n="40"/>parihr̥ta-sarvva-pīḍaṁ<g type="danda">.</g> A-cāṭa-bhaṭa-praveśaṁ<g type="danda">.</g> Akiñcid-grāhyaṁ<g type="danda">.</g> samasta-bhāga-bhoga-kara-hiraṇyādi-pratyāya-sametaṁ<g type="danda">.</g><lb 
@@ -200,8 +201,8 @@
                      n="47" break="no"/>tivāsibhiś ca kṣetrakar<unclear>aiḥ</unclear> Ājñā-śravaṇa-vidheyī-bhūya <unclear>yathā</unclear>-kāla<supplied reason="lost">ṁ samucita</supplied>-<unclear>bhāga-bhoga</unclear>-kara-hiraṇyādi-<unclear>pratyā</unclear><supplied reason="lost">yopanaya</supplied><lb 
                      n="48" break="no"/>ḥ kārya Iti<g type="ddanda">.</g>
                  </p>
-                 <p n="48">samvat· <num value="5">5</num> phālguna-dine <num value="12">12</num><g type="ddanda">.</g></p>
-                 <p n="48">bhavanti cātra dharmmānuśaṁsinaḥ<surplus><g type="danda">.</g></surplus> ślokāḥ<g type="ddanda">.</g></p>
+                 <p>samvat· <num value="5">5</num> phālguna-dine <num value="12">12</num><g type="ddanda">.</g></p>
+                 <p>bhavanti cātra dharmmānuśaṁsinaḥ<surplus><g type="danda">.</g></surplus> ślokāḥ<g type="ddanda">.</g></p>
                  <lg n="13" met="anuṣṭubh">
                      <l n="ab">vahubhir vvasudhā da<unclear>ttā rājabhi</unclear><lb n="49" break="no"/>s sagarādibhiḥ<g type="danda">.</g></l>
                      <l n="cd">yasya yasya yadā bhūmis tasya tasya tadā phalam·<g type="ddanda">.</g></l>
