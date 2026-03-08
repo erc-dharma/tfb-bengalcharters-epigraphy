@@ -87,6 +87,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-03-08" status="draft">Minor errors corrected.</change>
             <change who="part:ryfu" when="2025-04-27" status="draft">Error corrected.</change>
             <change who="part:ryfu" when="2024-08-16" status="draft">Numerical value addedd.</change>
             <change who="part:ryfu" when="2024-08-16" status="draft">Small corrections.</change>
@@ -172,7 +173,7 @@
                       <app loc="1"><lem>-tapaś</lem><rdg source="bib:Bhattacharya1993_01">-dhāmaś</rdg></app>
                       <app loc="2"><lem>ūrjjita-</lem><rdg source="bib:Bhattacharya1993_01">urjjita-</rdg></app>
                       <app loc="2"><lem>copa<lb n="3" break="no"/>hasita-</lem><rdg source="bib:Bhattacharya1993_01">thāpahasita-</rdg></app>
-                      <app loc="3"><lem>-purāT</lem><rdg source="bib:Bhattahcarya1993_01">purād</rdg></app>
+                      <app loc="3"><lem>-purāT</lem><rdg source="bib:Bhattacharya1993_01">purād</rdg></app>
                       <app loc="4"><lem>-guruñ ca</lem><rdg source="bib:Bhattacharya1993_01">-gurun ca</rdg></app>
                       <app loc="5"><lem><unclear>pa</unclear>ruṣa-</lem><note>The first akṣara shows a trace of correction.</note></app>
                       <app loc="5"><lem>sumati</lem><rdg source="bib:Bhattacharya1993_01">supatir</rdg></app>
@@ -181,7 +182,7 @@
                       <app loc="9"><lem>-caṭa-</lem><rdg source="bib:Bhattacharya1993_01">-caṭṭa-</rdg></app>
                       <app loc="9"><lem>-samvaddh<num value="80">āśīti</num>-padika-mera-<num value="3">trayaM</num></lem><rdg source="bib:Bhattacharya1993_01">samvaddhāśā<gap reason="illegible" extent="unknown"/></rdg></app>
                       <app loc="9"><lem><unclear cert="low">bhimās</unclear></lem><rdg source="bib:Bhattacharya1993_01"/><note>seemingly later overwriting, original could be <g type="danda">.</g> dakṣiṇa-</note></app>
-                      <app loc="9"><lem>muñcan muñcan</lem><rdg source="bib:Bhattacharya">puñcan-puñcan-</rdg></app>
+                      <app loc="9"><lem>muñcan muñcan</lem><rdg source="bib:Bhattacharya1993_01">puñcan-puñcan-</rdg></app>
                       <app loc="10"><lem>mahiḥ</lem><rdg source="bib:Bhattacharya1993_01">-pāhiḥ</rdg></app>
                       <app loc="10"><lem>turpuṅga-puṣke vr̥<unclear>ddha</unclear>-<choice><sic>r</sic><corr>n</corr></choice>ava-</lem><rdg source="bib:Bhattacharya1993_01">turpuṅgama-kṣetra<gap reason="illegible" extent="unknown"/> nava-</rdg></app>
                       <app loc="12"><lem><gap reason="illegible" unit="character" quantity="5"/></lem><note>Here later scribblings are engraved in two lines each of which has five mostly unreadable akṣaras.</note></app>
