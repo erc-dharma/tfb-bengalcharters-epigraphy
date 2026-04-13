@@ -81,6 +81,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-04-13" status="draft">Structure of p and lg modified.</change>
             <change when="2022-01-31" who="part:amwb">Corrections according to argr's comments</change>
             <change when="2021-10-06" who="part:argr">Corrections to the transliteration</change>
             <change when="2021-09-30" who="part:amwb">Reading the plate with the facsimile of the Journal of the Asiatic Society of Bengal vol LXIII Part I 1894.</change>
@@ -100,7 +101,7 @@ amwb 2021-10-01 : first, I reproduced Kielhorn's edition in the edition part ; n
 n="1r"/><lb
 n="1"/><g type="spiralL"/><!-- 
 amwb :  it is a spiral matching BL4 of the table found in the part "discussion" of the Symbol Taxonomy
---> svasti<supplied reason="subaudible">.</supplied>
+--> svasti<supplied reason="subaudible">.</supplied></p>
 <lg n="1" met="vasantatilakā">
       <l n="a">sarvvajñatāṁ śriya<space type="feature"/>m iva sthiram āsthitasya</l>
       <l n="b">vajrāsa<lb n="2" break="no"/>nasya vahu-māra-kulopalambhāḥ<unclear><g type="danda">.</g></unclear><space type="feature"/></l>
@@ -224,7 +225,7 @@ argr: I can recognize vestiges of both consonants in the ligature mma, but neith
         <l n="c">līlā-veśmani pañjarodara-śukair udgītam ātma-stavaṁ</l>
         <l n="d">yasyākarṇṇayatas trapāvivalitānamraṁ sa<lb n="25" break="no"/>daivānanaM<g type="ddandaStrokeLeft">.</g></l>
 </lg>
-sa khalu bhāgīrathīpatha-pravarttamāna-nānāvidha-nau-vāṭaka-sampādita-setu-vandha-nihita-śaila-śi<lb
+<p>sa khalu bhāgīrathīpatha-pravarttamāna-nānāvidha-nau-vāṭaka-sampādita-setu-vandha-nihita-śaila-śi<lb
 n="26" break="no"/>khara-śreṇi-vibhramāTN<!-- argr: instead of t  in <sic> and n in <corr>, it should be T and N 
 amwb : I replaced <choice><sic>t</sic><corr>n</corr></choice> by TN but I'm not sure if it was what you suggested
 --> niratiśaya-ghana-ghanāghana-ghaṭā-śyāmāyamāna-vāsara-lakṣmī-samāravdha-santata-jalada-sa<lb
@@ -335,9 +336,9 @@ amwb ; the facsimile is not very legible but I am not sure to read the kṣa in 
 n="47" break="no"/><choice><sic>tāN cā</sic><corr>tāṁś cā</corr></choice>ṭabhaṭajātīyāN yathākālādhyāsino jyeṣṭhakāyastha-mahāmahattara-mahattara-dāśagrāmikādi-viṣayavyavahāriṇaḥ<lb
 n="48"/>sa-karaṇāN prativāsinaḥ<!-- 
 amwb : here the glyph used is the same as the one for which there is an hesitation between ḥ or ṁ See the photo vāsinaḥ or vāsinaṁ l48.png and compare with line 41 saṁpārīṇa and the two dakṣiṇāntaṁ l37
---> kṣetrakarāṁś ca <choice><orig>v</orig><reg>b</reg></choice>rāhmaṇa-mānanā-pūrvvakaṁ yathārham mānayati <choice><orig>v</orig><reg>b</reg></choice>odhayati samājñāpayati ca<g type="danda">.</g><!-- 
+--> kṣetrakarāṁś ca <choice><orig>v</orig><reg>b</reg></choice>rāhmaṇa-mānanā-pūrvvakaṁ yathārham mānayati <choice><orig>v</orig><reg>b</reg></choice>odhayati samājñāpayati ca<g type="danda">.</g></p><!-- 
 amwb : I can't say if the shape is regular or not because the facsimile is not very legible here
---> matam astu<lb
+--><p> matam astu<lb
 n="49"/>bhavatāM<supplied reason="subaudible">.</supplied> mahāsāmantādhipati-śrī-nārāyaṇavarmmaṇā dūtaka-yuvarāja-śrī-tribhuvanapāla-mukhena vayam eva<choice><orig>m</orig><reg>ṁ</reg></choice> vijñāpitāḥ yathā '!smā<!-- 
 amwb : Kielhorn reports an avagraha yathā 'smā ; indeed in the facsimile I see an avagraha with the same shape as the other one seen in this plate ; However I am not sure to read yathā see photo yathā avagraha smā l49 ?.png 
 --><lb
@@ -357,7 +358,7 @@ amwb regular shape
 n="55" break="no"/>dya paripālanīyaM<g type="danda">.</g><!-- 
 amwb the same shape as before for M and regular shape for danda see photo M danda l55.png
 --> prativāsibhiḥ kṣetrakaraiś cājñāśravaṇa-vidheyair bhūtvā samucita-kara-piṇḍakādi-sarvvapratyāyopanayaḥ kārya<lb
-n="56"/>Iti<g type="ddanda">.</g><!-- 
+n="56"/>Iti<g type="ddanda">.</g></p><!-- 
 amwb . the first danda looks like ra and the second is a simple vertical line as the double danda on the obverse
 -->
 <lg n="14" met="anuṣṭubh">
@@ -417,10 +418,10 @@ n="60" break="no"/><choice><orig>n</orig><reg>ṁ</reg></choice>sy ācandrārkka
 amwb ; Here I don't follow Kielhorn's edition I read kaviṣyante. So I add this modification in the apparatus. See photo ka<choice><sic>v</sic><corr>r</corr></choice>iṣyante l60.png
     --> <choice><orig>v</orig><reg>b</reg></choice>uddhvā yad abhirucitaṁ kim pravacanaiḥ<g type="ddanda">.</g></l>
 </lg>
-Abhi<space type="defect"/>varddhamāna-vijayarājye<lb
+<p>Abhi<space type="defect"/>varddhamāna-vijayarājye<lb
 n="61"/>sa<choice><orig>m</orig><reg>ṁ</reg></choice>vaT<!-- 
 amwb : see photo samvaT l61.png
---> <num value="32">32</num> mārga-din<choice><sic>āni</sic><corr>e</corr></choice> <num value="12">12</num><g type="ddanda">.</g> <gap reason="illegible" unit="character" quantity="5"/><!-- 
+--> <num value="32">32</num> mārga-din<choice><sic>āni</sic><corr>e</corr></choice> <num value="12">12</num><g type="ddanda">.</g> <gap reason="illegible" unit="character" quantity="5"/></p><!-- 
 amwb : here there is a big space since the last line is written at the bottom of the plate. I need to search how encoding this in theEGD
 -->
 <lg n="19" met="anuṣṭubh">
@@ -434,8 +435,7 @@ amwb ; danda with regular shape
 amwb : here the double danda has another shape: the first danda looks like J see photo 
  --></l>
 </lg>
-             </p>
-         </div>
+</div>
          <div type="apparatus">
                <listApp>
 	<app loc="1">
