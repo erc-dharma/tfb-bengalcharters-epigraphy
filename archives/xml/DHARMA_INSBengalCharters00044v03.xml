@@ -82,7 +82,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-             <p><lb n="1"/><g type="spiral"/><!-- siddham -->Oṁ namo bhagavate vāsud<supplied reason="lost">e</supplied>vāya|| </p>
+             <p><lb n="1"/><g ref="sym:spiral" type="symbol">*</g><!-- siddham -->Oṁ namo bhagavate vāsud<supplied reason="lost">e</supplied>vāya|| </p>
              <lg n="1" met="śārdūlavikrīḍita">
                  <l n="a">bhakti-prahva-viriñci-śaṅkara-surādhīśādi-nākaukasāṁ| </l>
                  <l n="b">cūḍā-ratna-marīci-cumvi-caraṇāmbho-jas tri-lokī<pb n="2"/>śvaraḥ| </l>

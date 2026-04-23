@@ -62,11 +62,11 @@ The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHA
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary></summary>
+						<summary/>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>			
@@ -98,10 +98,7 @@ The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHA
 	<text xml:space="preserve">
 		<body>
 			<div type="edition" xml:lang="san-Latn">
-<p><pb 
-
-n="1r"/><lb 
-n="1"/>svasti<supplied reason="subaudible">.</supplied> puṇḍravarddhanād āyuktakā Āryya-nagara-śreṣṭhi-purogañ cādhiṣṭhānādhikaraṇaM <space/> dakṣiṇāṁśaka-vītheya-nāgiraṭṭa<!-- 
+<p><pb n="1r"/><lb n="1"/>svasti<supplied reason="subaudible">.</supplied> puṇḍravarddhanād āyuktakā Āryya-nagara-śreṣṭhi-purogañ cādhiṣṭhānādhikaraṇaM <space/> dakṣiṇāṁśaka-vītheya-nāgiraṭṭa<!-- 
 daba siddham : This inscription has spaces (for punctuation) at least in the verses near the end. My facsimile is terrible, so I have not used it, but the spaces should be shown on the basis of a decent image. 
 --><!-- 
 daba siddham :Dikshit reads āyuktakaḥ. His editor (Dikshit_1929-30:65n5) notes that the plate "correctly" gives āyuktakā and thus there would have been several āyuktakas. Agrawala opts to read āyuktaka and cites (without specific reference) Sircar as reading āyuktakā and proposing several āyuktakas. I do not know if Sircar was the editor of EI in 1931 or if he says so in SI. I personally feel āyuktaka is not likely; there is certainly something after the ka, which may be an ā mātrā or the upper dot of a visarga (while the lower dot could be what looks like the thick end of the right arm of ka). The text has many superfluous visargas so the reading is not unlikely. 
@@ -111,43 +108,35 @@ amwb : removed the unclear puṇḍra<unclear>varddha</unclear>nād accroding to
 amwb : cādhiṣṭhānādhikaraṇaM => changed m in M and added space according to Arlo's reading
 --><!-- 
 amwb : Replaced āyuktak<choice><unclear>ā</unclear><unclear>aḥ</unclear></choice> Āryya by Arlo's reading`
---><lb 
-n="2" break="no"/>-māṇḍalika-palāśāṭṭa-pārśvika-vaṭa-gohālī-jambudeva-prāveśya-pr̥ṣṭhima-pottaka-goṣāṭapuñjaka-mūla-nāgiraṭṭa-prāveśya-
-<lb 
-n="3"/>vilva-gohālīṣu brāhmaṇottarān mahattarādi-kuṭumbinaḥ kuśalam anuvarṇṇyānubodhayanti <space/><supplied reason="subaudible">.</supplied></p>
+--><lb n="2" break="no"/>-māṇḍalika-palāśāṭṭa-pārśvika-vaṭa-gohālī-jambudeva-prāveśya-pr̥ṣṭhima-pottaka-goṣāṭapuñjaka-mūla-nāgiraṭṭa-prāveśya-
+<lb n="3"/>vilva-gohālīṣu brāhmaṇottarān mahattarādi-kuṭumbinaḥ kuśalam anuvarṇṇyānubodhayanti <space/><supplied reason="subaudible">.</supplied></p>
 				<p>vijñāpayaty asmān brāhmaṇa-nātha<!-- 
 amwb : removed nitva and replaced it by Arlo's reading = vilva
 --><!-- 
 amwb : added space after anuvarṇṇyānubodhayanti from Arlo's reading
 --><!-- 
 amwb : added a tag p
---><lb 
-n="4" break="no"/>śarmmā Etad-bhāryyā rāmī ca <space/><supplied reason="subaudible">.</supplied> yuṣmākam ihādhiṣṭhānādhikaraṇe dvi-dīnārikkya-kulya-vāpena śaśvat-kālopabhogyo 'kṣaya-nīvī-samudaya-vāhyā<!-- 
+--><lb n="4" break="no"/>śarmmā Etad-bhāryyā rāmī ca <space/><supplied reason="subaudible">.</supplied> yuṣmākam ihādhiṣṭhānādhikaraṇe dvi-dīnārikkya-kulya-vāpena śaśvat-kālopabhogyo 'kṣaya-nīvī-samudaya-vāhyā<!-- 
 amwb : added a space after rāmī ca arccording to Arlo's reading
 --><!-- 
 amwb : replaced kālopabhogyākṣaya by Arlo's reading = -kālopabhogyo 'kṣaya-
---><lb 
-n="5" break="no"/>pratikara-khila-kṣetra-vāstu-vikkrayo 'nuvr̥ttas<supplied reason="subaudible">.</supplied> tad arhathānenaiva kkrameṇāvayos sakāśād dīnāra-trayam upasaṁ<surplus>ṅ</surplus>gr̥hyāvayo sva-puṇyāpyā<!-- 
+--><lb n="5" break="no"/>pratikara-khila-kṣetra-vāstu-vikkrayo 'nuvr̥ttas<supplied reason="subaudible">.</supplied> tad arhathānenaiva kkrameṇāvayos sakāśād dīnāra-trayam upasaṁ<surplus>ṅ</surplus>gr̥hyāvayo sva-puṇyāpyā<!-- 
 amwb : removed upasaṅgr̥hyāvayo<supplied reason="omitted">ḥ</supplied> and replaced by Arlo's reading =upasaṁ<surplus>ṅ</surplus>gr̥hyāvayo
---><lb 
-n="6" break="no"/>yanāya vaṭa-gohālyām <choice><sic>a</sic><corr>e</corr></choice>vā<choice><sic>ś</sic><corr>s</corr></choice>yāṅ kāśika-pañca-stūpa-nikāyika-nigrantha-śramaṇācāryya-guhanandi-śiṣya-praśiṣyādhiṣṭhita-vihāre<!-- 
+--><lb n="6" break="no"/>yanāya vaṭa-gohālyām <choice><sic>a</sic><corr>e</corr></choice>vā<choice><sic>ś</sic><corr>s</corr></choice>yāṅ kāśika-pañca-stūpa-nikāyika-nigrantha-śramaṇācāryya-guhanandi-śiṣya-praśiṣyādhiṣṭhita-vihāre<!-- 
 daba siddham :Dikshit emends avāsyāṅ to evāsyāṅ. Agrawala leaves it as is, but I do not know how he interprets that. I have no better idea than evāsyāṁ, though this sounds unnecessary. Dikshit's editor (p62n3) also notes, "Navy-Āvakāśikāyāṁ of the Faridpur grants 2 and 3. Ind. Ant., Vol. XXXIX, pp. 200 and 204." 
---><lb 
-n="7"/>bhagavatām arhatāṁ gandha-dhūpa-sumano-dīpādy-arttha<sic>n</sic> tala-vāṭaka-nimittañ ca <unclear>A</unclear>tavaṁ vaṭa-gohālīto vāstu-droṇa-vāpam adhyarddhañ ja<!-- 
+--><lb n="7"/>bhagavatām arhatāṁ gandha-dhūpa-sumano-dīpādy-arttha<sic>n</sic> tala-vāṭaka-nimittañ ca <unclear>A</unclear>tavaṁ vaṭa-gohālīto vāstu-droṇa-vāpam adhyarddhañ ja<!-- 
 daba siddham :Dikshit and Agrawala both emend a eva to ata eva, which would be very out of place here. I have no better suggestion. There is a very conspicuous round dot over the va, so the reading may be evaṁ; no idea about the a or whatever it is. 
 --><!-- 
 amwb : added a t in arttha
 --><!-- 
 amwb : removed -nimittañ ca A eva and replaced by Arlo's reading =-nimittañ ca Atavaṁ
---><lb 
-n="8" break="no"/>mbudeva-prāveśya-pr̥ṣṭhima-pottak<choice><sic>e</sic><corr>ā</corr></choice>t kṣetra-droṇa-vāpa-catuṣṭayaṁ goṣāṭapuñjād droṇa-vāpa-catuṣṭayaM mūla-nāgiraṭṭa-<!-- 
+--><lb n="8" break="no"/>mbudeva-prāveśya-pr̥ṣṭhima-pottak<choice><sic>e</sic><corr>ā</corr></choice>t kṣetra-droṇa-vāpa-catuṣṭayaṁ goṣāṭapuñjād droṇa-vāpa-catuṣṭayaM mūla-nāgiraṭṭa-<!-- 
 daba siddham :Dikshit emends pottaket to pottake; Agrawala leaves as is. Given that all other villages are in ablative or suffixed with -taḥ, the intended form must have been pottakāt. 
 --><!-- 
 amwb : replaced kṣetraṁ droṇa-vāpa-catuṣṭayaṁ by Arlo's reading =kṣetra-droṇa-vāpa-catuṣṭayaṁ
 --><!-- 
 amwb : changed the final m in M = droṇa-vāpa-catuṣṭayaM
---><lb 
-n="9"/>prāveśya-vilva-gohālītaḥ Arddhatrikan droṇa-vāpān ity evam adhyarddhaṁ kṣetra-<unclear>kulya</unclear>-vāpam akṣaya-nīvyā dātu<unclear>m iti</unclear> <space/> <unclear>ya</unclear>taḥ <!-- 
+--><lb n="9"/>prāveśya-vilva-gohālītaḥ Arddhatrikan droṇa-vāpān ity evam adhyarddhaṁ kṣetra-<unclear>kulya</unclear>-vāpam akṣaya-nīvyā dātu<unclear>m iti</unclear> <space/> <unclear>ya</unclear>taḥ <!-- 
 daba siddham :Dikshit reads dātum i(ty atra) yataḥ. Agrawala has dātum i(ti)[+|] yataḥ. The plate is damaged here, but I think the subscript ya should be visible if the reading really were ity atra. Agrawala's simple iti, on the other hand, is far too short. My best guess is iti tatra. What I see as ta may have been what Dikshit read as tra. 
 --><!-- 
 amwb : replaced prāveśyā by Arlo's reading = prāveśya with a short a
@@ -161,19 +150,16 @@ amwb : as Arlo does not give his opinion on KND's note, I removed kṣetra-<subs
 amwb : removed dātu<damage>m i<unclear reason="illegible">ti</unclear></damage> and replaced it by Arlo's reading
 --></p>
 <p><damage><unclear>tatra</unclear></damage> yataḥ prathama-
-<lb 
-n="10"/>pustapāla-divākaranandi-pustapāla-dhr̥tiviṣṇu-virocana-rāmadāsa-haridāsa-śaśinandi-<unclear>su</unclear>prabhamanu<unclear>da</unclear><supplied reason="lost">ttā</supplied>nām avadhāraṇa<!-- 
+<lb n="10"/>pustapāla-divākaranandi-pustapāla-dhr̥tiviṣṇu-virocana-rāmadāsa-haridāsa-śaśinandi-<unclear>su</unclear>prabhamanu<unclear>da</unclear><supplied reason="lost">ttā</supplied>nām avadhāraṇa<!-- 
 daba siddham :Dikshit reads the damaged locus as °nandiṣu prathamanu ### (nā)m. I follow Agrawala's reconstruction, but my markup is a bit more cautious than his. bha is quite clear and does not look like tha to me. 
 --><!-- 
 amwb : removed <damage><unclear>su</unclear>prabha-<unclear>manu</unclear>da<supplied reason="lost">ttā</supplied><unclear>nā</unclear></damage>m and replaced by Arlo's reading  = -suprabhamanu<unclear>da</unclear><supplied reason="lost">ttā</supplied>nām
---><lb 
-n="11" break="no"/>yāvadhr̥taM Asty asmad-adhiṣṭhānādhikaraṇe dvi-dīnārikkya-kulya-vāpena śaśvat-kālopabhogyo 'kṣaya-nīvī-sa<supplied reason="lost">mu</supplied>da<supplied reason="lost">ya-vā</supplied>hyāpratikara<!-- 
+--><lb n="11" break="no"/>yāvadhr̥taM Asty asmad-adhiṣṭhānādhikaraṇe dvi-dīnārikkya-kulya-vāpena śaśvat-kālopabhogyo 'kṣaya-nīvī-sa<supplied reason="lost">mu</supplied>da<supplied reason="lost">ya-vā</supplied>hyāpratikara<!-- 
 amwb : removed bhogyākṣaya and replaced by Arlo' reading =bhogyo 'kṣaya
 --><!-- 
 amwb : removed sa<damage>mu<unclear>daya-vā</unclear>h</damage>yā and replaced by Arlo's reading + added in the apparatus 
 -->
-<lb 
-n="12"/><unclear>khila</unclear>-kṣetra-vāstu-vikkrayo 'nuvr̥ttas tad yad yuṣmā<choice><sic>m</sic><corr>n</corr></choice> brāhmaṇa-nātha-śarmmā Etad-bhāryyā rāmī ca palāśāṭṭa-pārśvika-vaṭa-gohālī<unclear>sva</unclear> <gap reason="illegible" unit="character" quantity="1"></gap><!-- 
+<lb n="12"/><unclear>khila</unclear>-kṣetra-vāstu-vikkrayo 'nuvr̥ttas tad yad yuṣmā<choice><sic>m</sic><corr>n</corr></choice> brāhmaṇa-nātha-śarmmā Etad-bhāryyā rāmī ca palāśāṭṭa-pārśvika-vaṭa-gohālī<unclear>sva</unclear> <gap reason="illegible" unit="character" quantity="1"/><!-- 
 daba siddham :Dikshit and Sircar both emend yuṣmām to yuṣmān. My intuition would be yuṣmākam. 
 --><!-- 
 daba siddham :At the end, Agrawala (Sircar?) reads sth(āyi). The penultimate character does not look like stha to me, perhaps better sva? 
@@ -181,14 +167,10 @@ daba siddham :At the end, Agrawala (Sircar?) reads sth(āyi). The penultimate ch
 amwb : replaced a supplied by an unclear according to Arlo's reading - <unclear>khila</unclear> and added in the apparatus 
 --><!-- 
 amwb : replaced -gohālī-<unclear cert="low">sthaya</unclear> by Arlo's reading 
---><pb 
-
-n="1v"/><lb 
-n="13"/><supplied reason="lost">kāśi</supplied>ka-pañca-stūpa-kula-nikāyika-Ācāryya-nigrantha-guhanandi-śiṣya-praśiṣyādhiṣṭhita-sad-vihāre Ar<surplus>a</surplus>hatāṁ gandha-<supplied reason="lost">dhūp</supplied>ādy-upayogāya<!-- 
+--><pb n="1v"/><lb n="13"/><supplied reason="lost">kāśi</supplied>ka-pañca-stūpa-kula-nikāyika-Ācāryya-nigrantha-guhanandi-śiṣya-praśiṣyādhiṣṭhita-sad-vihāre Ar<surplus>a</surplus>hatāṁ gandha-<supplied reason="lost">dhūp</supplied>ādy-upayogāya<!-- 
 amwb : I replaced an unclear by a supplied according to Arlo's reading
 -->
-<lb 
-n="14"/><supplied reason="lost">tala</supplied>-vāṭaka-nimittañ ca Atraiva vaṭa-gohālyāṁ vāstu-droṇa-vāpam adhyarddhañ kṣetrañ jambudeva-prāveśya-pr̥ṣṭhima-pottake droṇa-vāpa-catuṣṭaya<!-- 
+<lb n="14"/><supplied reason="lost">tala</supplied>-vāṭaka-nimittañ ca Atraiva vaṭa-gohālyāṁ vāstu-droṇa-vāpam adhyarddhañ kṣetrañ jambudeva-prāveśya-pr̥ṣṭhima-pottake droṇa-vāpa-catuṣṭaya<!-- 
 amwb : Removed and replace it by Arlo's reading (=<supplied reason="lost">tala</supplied>-vāṭaka), checked DCS's and KND's readings and added them in apparatus 
 --><!-- 
 amwb : removed tatraiva and replaced it by Arlo's reading =Atraiva
@@ -200,28 +182,23 @@ amwb : here it is necessary to read the plate because in Arlo's document the wor
 amwb : removed the tag damage in <damage>droṇa-vāpa</damage> because Arlo does not mention it =droṇa-vāpa
 --><!-- 
 amwb : change the final anusvāra in daba into a guttural nasal and change its place according to Arlo's reading
---><lb 
-n="15"/>ṅ goṣāṭapuñjād droṇa-vāpa-catuṣṭayaṁ mūla-nāgiraṭṭa-prāveśya-vilva-gohālīto droṇa-vāpa-dvayam āḍhavā<supplied reason="lost">pa-dva</supplied>yādhikam ity evam a<!-- 
+--><lb n="15"/>ṅ goṣāṭapuñjād droṇa-vāpa-catuṣṭayaṁ mūla-nāgiraṭṭa-prāveśya-vilva-gohālīto droṇa-vāpa-dvayam āḍhavā<supplied reason="lost">pa-dva</supplied>yādhikam ity evam a<!-- 
 daba siddham :Both Dikshit and Agrawala read the damaged section as āḍhavāpa-dvayādhikam, showing padva as unclear, not as a conjecture. In any case, Dikshit_1929-30:61 says (essentially) that an āḍhavāpa is 1/4 of a droṇavāpa "according to various ancient authorities", so this should be correct, since the area is said in l8 to be arddha-trika-droṇavāpa. 
 --><!-- 
 amwb : removed nitva and replaced it by vilva
 --><!-- 
 amwb : I removed a tag damage because Arlo does not mention it : āḍha<damage>vā<supplied reason="lost">pa-dva</supplied>y-ā</damage>dhikam
---><lb 
-n="16" break="no"/>dhyarddhaṁ kṣetra-kulya-vāpam prārtthayete 'tra na kaś cid virodhaḥ guṇas tu yat parama-bhaṭṭāraka-pādānām artthopacayo <supplied reason="lost">dharmma</supplied>-ṣaḍ-bhāgāpyāya<!-- 
+--><lb n="16" break="no"/>dhyarddhaṁ kṣetra-kulya-vāpam prārtthayete 'tra na kaś cid virodhaḥ guṇas tu yat parama-bhaṭṭāraka-pādānām artthopacayo <supplied reason="lost">dharmma</supplied>-ṣaḍ-bhāgāpyāya<!-- 
 daba siddham :Dikshit's editor emends prārtthayate to prārthayete; Agrawala actually reads prārttha(ye)te. My intuition says prārtthyate. 
 --><!-- 
 amwb : removed prārtthayate and replaced it by Arlo's reading =prārtthayete
 --><!-- 
 amwb : add supplied for dharmma according to Arlo's reading, checked DCS's and KND's readings and added them in apparatus
---><lb 
-n="17" break="no"/>nañ ca bhavati tad evaṅ kr<choice><sic>i</sic><corr>ī</corr></choice>yatām<supplied reason="subaudible">.</supplied> ity anenāvadhāraṇā-kkrameṇāsmād brāhmaṇa-nātha-śarmmata Etad-bhāryyā-rāmiyāś ca dīnāra-tra<lb 
-n="18" break="no"/>yam āyīkr̥tyaitābhyāṁ vijñāpitaka-kkramopayogāyopari-nirddiṣṭa-grāma-gohālikeṣu tala-vāṭaka-vāstunā saha kṣetra<!-- 
+--><lb n="17" break="no"/>nañ ca bhavati tad evaṅ kr<choice><sic>i</sic><corr>ī</corr></choice>yatām<supplied reason="subaudible">.</supplied> ity anenāvadhāraṇā-kkrameṇāsmād brāhmaṇa-nātha-śarmmata Etad-bhāryyā-rāmiyāś ca dīnāra-tra<lb n="18" break="no"/>yam āyīkr̥tyaitābhyāṁ vijñāpitaka-kkramopayogāyopari-nirddiṣṭa-grāma-gohālikeṣu tala-vāṭaka-vāstunā saha kṣetra<!-- 
 amwb : added a k- in kkramopayogāyopari
 --><!-- 
 amwb : removed kṣetraṁ and replaced by kṣetra- + added break no
---><lb 
-n="19" break="no"/>kulya-vāpa Adhyarddho 'kṣaya-nīvī-dharmmeṇa dattaḥ <space/><supplied reason="subaudible">.</supplied> <abbr>ku</abbr> <num value="1">1</num> <abbr>dro</abbr> <num value="4">4</num><!-- 
+--><lb n="19" break="no"/>kulya-vāpa Adhyarddho 'kṣaya-nīvī-dharmmeṇa dattaḥ <space/><supplied reason="subaudible">.</supplied> <abbr>ku</abbr> <num value="1">1</num> <abbr>dro</abbr> <num value="4">4</num><!-- 
 amwb : added the tag abbr for ku
 --><!-- 
 amwb : added the tag abbr for dro 
@@ -230,14 +207,12 @@ amwb : added the tag abbr for dro
 daba siddham :Compare svakarṣaṇāvirodhi in the Baigram plate (IN00061, l18), where Basak notes that this must be intended in the Paharpur plate as well. 
 --><!-- 
 amwb : replace sva-karmmaṇāvirodhi by sva-karṣaṇāvirodhi 
---><lb 
-n="20" break="no"/>viñcchya dātavyo 'kṣaya-nīvī-dharmmeṇa ca śaśvad ācandrārkka-tāraka-kālam anu-pālayitavya Iti <space/><!-- 
+--><lb n="20" break="no"/>viñcchya dātavyo 'kṣaya-nīvī-dharmmeṇa ca śaśvad ācandrārkka-tāraka-kālam anu-pālayitavya Iti <space/><!-- 
 daba siddham :Dikshit's editor (Dikshit_1929-30:63n3) notes that N. P. Chakravarti connects apaviñchya with the Bengali word bāchhā meaning to select or choose. Not very convincing but keep in mind. 
 --></p>
 <p><abbr>sa<sic>M</sic></abbr> <num value="159">100 50 9</num><!-- 
 amwb : added tag abbr for samvat
---><lb 
-n="21"/><space/> māgha <abbr>di</abbr> <num value="7">7</num> <space/><!-- 
+--><lb n="21"/><space/> māgha <abbr>di</abbr> <num value="7">7</num> <space/><!-- 
 amwb : added tag abbr for di
 --></p>
 <p>Uktañ ca bhagavatā vyāsena <space/></p>
@@ -391,7 +366,7 @@ amwb : change the reading of anambhassu for Arlo's one, see apparatus
 					<note>Already corrected by <bibl><ptr target="bib:Dikshit1929-1930_01"/></bibl> and <bibl><ptr target="bib:Sircar1965_02"/></bibl>.</note>
 				</app>
 				<app loc="12">
-					<lem>-gohālī<unclear>sva</unclear> <gap reason="illegible" unit="character" quantity="1"></gap>-</lem>
+					<lem>-gohālī<unclear>sva</unclear> <gap reason="illegible" unit="character" quantity="1"/>-</lem>
 					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh2019_03">-gohālī<unclear cert="low">stha</unclear>ya-</rdg>
 					<rdg source="bib:Sircar1965_02">-gohālīsth<supplied reason="lost">āyi</supplied>-</rdg>
 					<note>For the penultimate <foreign>akṣara</foreign>, <foreign>sva</foreign> (or <foreign>ṣva</foreign>) seems the most evident choice; see the shape of the same <foreign>akṣara</foreign> in line 25. Cf. the problem in line 6.
@@ -425,10 +400,8 @@ amwb : change the reading of anambhassu for Arlo's one, see apparatus
 					<rdg source="bib:Balogh2019_03"><damage>droṇa-vāpa</damage>-</rdg>
 				</app>
 				<app loc="14">
-					<lem>-catuṣṭaya<lb 
-n="15"/>ṅ goṣāṭa°</lem>
-					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">-catuṣṭayaṁ<lb 
-n="15"/>goṣāṭa°</rdg>
+					<lem>-catuṣṭaya<lb n="15"/>ṅ goṣāṭa°</lem>
+					<rdg source="bib:Dikshit1929-1930_01 bib:Sircar1965_02 bib:Balogh2019_03">-catuṣṭayaṁ<lb n="15"/>goṣāṭa°</rdg>
 				</app>
 				<app loc="15">
 					<lem>-vilva-</lem>
@@ -458,8 +431,7 @@ n="15"/>goṣāṭa°</rdg>
 				</app>
 				<app loc="18">
 					<lem>kṣetra
-<lb 
-n="19"/>kulya-vāpa</lem>
+<lb n="19"/>kulya-vāpa</lem>
 					<rdg source="bib:Dikshit1929-1930_01 bib:Balogh2019_03">kṣetraṁ kulyavāpa</rdg>
 					<rdg source="bib:Sircar1965_02">kṣetraṁ kulyavāpa<supplied reason="omitted">ḥ</supplied></rdg>
 				</app>

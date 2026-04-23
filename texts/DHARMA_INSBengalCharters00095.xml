@@ -86,80 +86,38 @@
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head><!-- 
 amwb : this has been added from the information found in EI's introduction
  -->
-					<ab><lb
-n="1"/>śrīmān-dharmapāladevaḥ
+					<ab><lb n="1"/>śrīmān-dharmapāladevaḥ
 					</ab>
              </div>
              <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                  <p>
-                 <pb 
-n="1r"/><!-- 
+                 <pb n="1r"/><!-- 
 amwb : note concerning the daṇḍa : I deduce from the note 4 p. 290 that all the daṇḍas are original. It should be checked by reading the plate
---><lb 
-n="1"/>oṁ<!-- 
+--><lb n="1"/>oṁ<!-- 
 amwb : Bhattacharyya mentioned that it is noted by a symbol
---> svasti<g type="danda">.</g> mahā-nau-hasty-aśva-ratha-patti-sampa<choice><orig>t</orig><reg>tt</reg></choice>y-upātta-jaya-śa<choice><orig>v</orig><reg>b</reg></choice>dā<lb 
-n="2" break="no"/><unclear cert="low">t kapilā</unclear>-vāsakāt śrīmaj-jaya-skandhāvārāt parama<lb
-n="3" break="no"/>-saugato mahārājādhirāja-śrī-Gopāladeva-pādānudhyā<lb
-n="4" break="no"/>taḥ<surplus><g type="danda">.</g></surplus><!-- 
+--> svasti<g ref="sym:bar" type="punctuation">.</g> mahā-nau-hasty-aśva-ratha-patti-sampa<choice><orig>t</orig><reg>tt</reg></choice>y-upātta-jaya-śa<choice><orig>v</orig><reg>b</reg></choice>dā<lb n="2" break="no"/><unclear cert="low">t kapilā</unclear>-vāsakāt śrīmaj-jaya-skandhāvārāt parama<lb n="3" break="no"/>-saugato mahārājādhirāja-śrī-Gopāladeva-pādānudhyā<lb n="4" break="no"/>taḥ<surplus><g ref="sym:bar" type="punctuation">.</g></surplus><!-- 
 amwb : The scan of EI23 is not clear but thanks Bhattacharyya's note, I understand that here there is an original but superfluous danda 
---> parameśvaraḥ paramabhaṭṭārako mahārājādhirājaḥ śrī<lb 
-n="5" break="no"/>mān-dharmmapāladevaḥ kuśalī nagara-bhuktau<surplus><g type="danda">.</g></surplus><!-- 
+--> parameśvaraḥ paramabhaṭṭārako mahārājādhirājaḥ śrī<lb n="5" break="no"/>mān-dharmmapāladevaḥ kuśalī nagara-bhuktau<surplus><g ref="sym:bar" type="punctuation">.</g></surplus><!-- 
 amwb : The scan of EI23 is not clear but thanks Bhattacharyya's note, I understand that here there is an original but superfluous danda 
---> gayāviṣ<lb 
-n="6" break="no"/>yāntaḥpāti<!-- 
+--> gayāviṣ<lb n="6" break="no"/>yāntaḥpāti<!-- 
 amwb : in the file Post-Gupta-Bengal-around.txt, the compound viṣyāntaḥpāti is noted viṣayāntaḥpāti, I assume it is a correction which seems relevant
--->-jam<choice><orig>v</orig><reg>b</reg></choice>ū-nadī-vīthī-prati<choice><orig>v</orig><reg>b</reg></choice>addha-nigūha-grāmāsanna U<lb 
-n="7" break="no"/>ttarāmagrāmake<surplus><g type="danda">.</g></surplus> samupagatān sarvvānn eva rāja-rājāna<lb 
-n="8" break="no"/>ka-rājaputra-rājāmātya-mahākārttākr̥tika-mahādaṇḍanāya<lb 
-n="9" break="no"/>ka-mahāpratīhāra-mahāsāmanta-mahārāja-dauḥsādhasādhanika<!-- 
-amwb : dauḥsādhasādhanika is also found in khalimpur BC88 line 45 --><lb 
-n="10" break="no"/>-pramātr̥-sarabhaṅga-kumārāmātya-rājasthānīyoparika-viṣaya<lb 
-n="11" break="no"/>pati-dāśāparādhika-cauroddharaṇika-dāṇḍika-dāṇḍapāśika-<choice><sic>kṣa</sic><corr>kṣe</corr></choice><lb 
-n="12" break="no"/><unclear>trapa-prā</unclear>ntapāla-tadāyuktaka-viniyuktaka-hasty-aśvoṣṭra-<choice><orig>v</orig><reg>b</reg></choice>ala-vyā<lb
-n="13" break="no"/><unclear>pr̥taka</unclear>-kiśora-vaḍavā-go-mahiṣy-adhikr̥ta-dūta-<choice><sic>pre</sic><corr>prai</corr></choice>ṣaṇika-gamā<lb
-n="14" break="no"/>gamikābhitvaramāṇaka-gauḍa-mālava-khaśa-kulika-hūṇa-bhaṭa<lb 
-n="15" break="no"/>-<unclear>cāṭa</unclear>-sevakādīn anyā<choice><orig>ṅ</orig><reg>ṁ</reg></choice>ś cākīrtitān <unclear>sva</unclear>-pāda-padmopajīvinaḥ pra<lb 
-n="16" break="no"/>tivāsinaś ca <choice><orig>v</orig><reg>b</reg></choice>rāhmaṇottarān mahattara-kuṭum<choice><orig>v</orig><reg>b</reg></choice>i-puroga-medāndhra-caṇḍā<lb 
-n="17" break="no"/><unclear>la</unclear>-<supplied reason="lost">paryantān sa</supplied>mājñāpayaty astu <unclear>vaḥ</unclear> saṁvi<supplied reason="lost">di</supplied>taṁ yathoparilikhita Utta<lb 
-n="18" break="no"/><supplied reason="lost">rāma-grāmakaḥ</supplied> <unclear>sva-sīmā-tr̥ṇa-yūti</unclear>-gocara-paryantaḥ soparikara<supplied reason="lost">ḥ</supplied> <lb 
-n="19"/><gap reason="illegible" unit="character" extent="unknown"/><!-- 
+-->-jam<choice><orig>v</orig><reg>b</reg></choice>ū-nadī-vīthī-prati<choice><orig>v</orig><reg>b</reg></choice>addha-nigūha-grāmāsanna U<lb n="7" break="no"/>ttarāmagrāmake<surplus><g ref="sym:bar" type="punctuation">.</g></surplus> samupagatān sarvvānn eva rāja-rājāna<lb n="8" break="no"/>ka-rājaputra-rājāmātya-mahākārttākr̥tika-mahādaṇḍanāya<lb n="9" break="no"/>ka-mahāpratīhāra-mahāsāmanta-mahārāja-dauḥsādhasādhanika<!-- 
+amwb : dauḥsādhasādhanika is also found in khalimpur BC88 line 45 --><lb n="10" break="no"/>-pramātr̥-sarabhaṅga-kumārāmātya-rājasthānīyoparika-viṣaya<lb n="11" break="no"/>pati-dāśāparādhika-cauroddharaṇika-dāṇḍika-dāṇḍapāśika-<choice><sic>kṣa</sic><corr>kṣe</corr></choice><lb n="12" break="no"/><unclear>trapa-prā</unclear>ntapāla-tadāyuktaka-viniyuktaka-hasty-aśvoṣṭra-<choice><orig>v</orig><reg>b</reg></choice>ala-vyā<lb n="13" break="no"/><unclear>pr̥taka</unclear>-kiśora-vaḍavā-go-mahiṣy-adhikr̥ta-dūta-<choice><sic>pre</sic><corr>prai</corr></choice>ṣaṇika-gamā<lb n="14" break="no"/>gamikābhitvaramāṇaka-gauḍa-mālava-khaśa-kulika-hūṇa-bhaṭa<lb n="15" break="no"/>-<unclear>cāṭa</unclear>-sevakādīn anyā<choice><orig>ṅ</orig><reg>ṁ</reg></choice>ś cākīrtitān <unclear>sva</unclear>-pāda-padmopajīvinaḥ pra<lb n="16" break="no"/>tivāsinaś ca <choice><orig>v</orig><reg>b</reg></choice>rāhmaṇottarān mahattara-kuṭum<choice><orig>v</orig><reg>b</reg></choice>i-puroga-medāndhra-caṇḍā<lb n="17" break="no"/><unclear>la</unclear>-<supplied reason="lost">paryantān sa</supplied>mājñāpayaty astu <unclear>vaḥ</unclear> saṁvi<supplied reason="lost">di</supplied>taṁ yathoparilikhita Utta<lb n="18" break="no"/><supplied reason="lost">rāma-grāmakaḥ</supplied> <unclear>sva-sīmā-tr̥ṇa-yūti</unclear>-gocara-paryantaḥ soparikara<supplied reason="lost">ḥ</supplied> <lb n="19"/><gap reason="illegible" unit="character" extent="unknown"/><!-- 
 amwb : in the file Post-Gupta-Bengal-around.txt, it is noted 1/2 line ? Need to check in order to approximately know how many akṣaras are lost
--->sa-cauroddharaṇaḥ sarva-pīḍā-parihr̥ti<lb 
-n="20"/><gap reason="illegible" unit="character" extent="unknown"/><!-- 
+-->sa-cauroddharaṇaḥ sarva-pīḍā-parihr̥ti<lb n="20"/><gap reason="illegible" unit="character" extent="unknown"/><!-- 
 amwb : in the file Post-Gupta-Bengal-around.txt, it is noted 1/2 line ? Need to check in order to approximately know how many akṣaras are lost 
---><supplied reason="lost">r a</supplied>cāṭa-bhaṭa-pra<unclear>veśo kiṁci</unclear>t-pragrāhyo rāja-bhāvya sarvvapra<lb 
-n="21" break="no"/><unclear>tyāya-sameto bhūmicchidra-nyāye</unclear>nāc<choice><sic>ā</sic><corr>a</corr></choice>ndrārkka-kṣiti-sama-kālī<lb 
-n="22" break="no"/><supplied reason="lost">naḥ pū</supplied>rva<!-- 
+--><supplied reason="lost">r a</supplied>cāṭa-bhaṭa-pra<unclear>veśo kiṁci</unclear>t-pragrāhyo rāja-bhāvya sarvvapra<lb n="21" break="no"/><unclear>tyāya-sameto bhūmicchidra-nyāye</unclear>nāc<choice><sic>ā</sic><corr>a</corr></choice>ndrārkka-kṣiti-sama-kālī<lb n="22" break="no"/><supplied reason="lost">naḥ pū</supplied>rva<!-- 
 amwb : I am surprised because there is not the doubling consonne after r as in sarvva or dharmma or arkka or varjjito ? So the double vv ou single v should be checked by reading the plate
--->-bhuktaka-bhujyamāna-deva-<choice><orig>v</orig><reg>b</reg></choice>rāhma-deya-varjjito mayā<lb
-n="23"/><supplied reason="lost">mātāpitror</supplied> ātmanaś ca puṇya-yaśobhivr̥ddhaye vandya-Ācārya-dharma<!-- 
+-->-bhuktaka-bhujyamāna-deva-<choice><orig>v</orig><reg>b</reg></choice>rāhma-deya-varjjito mayā<lb n="23"/><supplied reason="lost">mātāpitror</supplied> ātmanaś ca puṇya-yaśobhivr̥ddhaye vandya-Ācārya-dharma<!-- 
 amwb: in EI23 it is noted vandya-ācārya and in the file Post-Gupta-Bengal-around.txt, it is noted vandyācārya. As I reported EI23, I have interpreted vandya-ācārya as if ācārya begins with an initial vowel
---> <lb
-n="24"/><!-- 
-amwb : in the file Post-Gupta-Bengal-around.txt, it is noted 1/4 line. Need to check in order to approximately know how many akṣaras are lost [1/4 line]--><unclear>bhaṭṭa</unclear>ke ārya-tārā-bhaṭṭāri<supplied reason="lost">kā</supplied><lb
-n="25"/><gap reason="illegible" unit="character" extent="unknown"/><!-- 
+--> <lb n="24"/><!-- 
+amwb : in the file Post-Gupta-Bengal-around.txt, it is noted 1/4 line. Need to check in order to approximately know how many akṣaras are lost [1/4 line]--><unclear>bhaṭṭa</unclear>ke ārya-tārā-bhaṭṭāri<supplied reason="lost">kā</supplied><lb n="25"/><gap reason="illegible" unit="character" extent="unknown"/><!-- 
 amwb: I added this line because of the note 1 p.292 which mentions that traces of another half line are visible below the line 24
---><pb
-
-
-n="1v"/><lb 
-n="1"/><!-- 
+--><pb n="1v"/><lb n="1"/><!-- 
 amwb : I assume in EI, Bhattacharyya restarts a numbering because he doesn't know exactly how many lines are lost; if the indications given in note 2p.292 are exact, it will be possible to continue the numbering
---><gap reason="illegible" unit="line" quantity="6"/><supplied reason="lost">prativā</supplied>sibhiś cājñā-śravaṇa-vi<lb 
-n="2" break="no"/><supplied reason="lost">dheyair bhūtvā</supplied> samucita-deya-bhā<unclear>ga-bhoga</unclear>-kara-hiraṇyādi<lb 
-n="3"/><gap reason="illegible" unit="line" quantity="1"/><lb 
-n="4"/><gap reason="illegible" unit="line" quantity="1"/><lb 
-n="5"/><gap reason="illegible" unit="character" extent="unknown"/><unclear>ma</unclear>hāsenāpati-śrī<gap reason="illegible" unit="character" extent="unknown"/>datt<unclear>a</unclear><gap reason="illegible" unit="character" extent="unknown"/><lb 
-n="6"/><gap reason="illegible" unit="character" extent="unknown"/><supplied reason="lost">likhi</supplied>tam ida<unclear>ṁ</unclear> śāsana<unclear>ṁ</unclear> mahākṣapaṭali<unclear>ka</unclear><!-- 
+--><gap reason="illegible" unit="line" quantity="6"/><supplied reason="lost">prativā</supplied>sibhiś cājñā-śravaṇa-vi<lb n="2" break="no"/><supplied reason="lost">dheyair bhūtvā</supplied> samucita-deya-bhā<unclear>ga-bhoga</unclear>-kara-hiraṇyādi<lb n="3"/><gap reason="illegible" unit="line" quantity="1"/><lb n="4"/><gap reason="illegible" unit="line" quantity="1"/><lb n="5"/><gap reason="illegible" unit="character" extent="unknown"/><unclear>ma</unclear>hāsenāpati-śrī<gap reason="illegible" unit="character" extent="unknown"/>datt<unclear>a</unclear><gap reason="illegible" unit="character" extent="unknown"/><lb n="6"/><gap reason="illegible" unit="character" extent="unknown"/><supplied reason="lost">likhi</supplied>tam ida<unclear>ṁ</unclear> śāsana<unclear>ṁ</unclear> mahākṣapaṭali<unclear>ka</unclear><!-- 
 amwb : in the file Post-Gupta-Bengal-around.txt, it is noted ke instead of ka ?
---><gap reason="illegible" unit="character" extent="unknown"/><lb 
-n="7"/><gap reason="illegible" unit="character" extent="unknown"/><unclear>ku</unclear>la<unclear>da</unclear>tte<unclear>na</unclear> dharmadatta-putreṇeti<gap reason="illegible" unit="character" extent="unknown"/><lb 
-n="8"/><gap reason="illegible" unit="character" extent="unknown"/>catuḥṣaṣṭika datti<supplied reason="lost">ḥ</supplied><gap reason="illegible" unit="character" extent="unknown"/><lb 
-n="9"/><gap reason="illegible" unit="character" extent="unknown"/>pratipāditā<gap reason="illegible" unit="character" extent="unknown"/><lb 
-n="10"/>tathā<gap reason="illegible" unit="character" extent="unknown"/>tasya mūlaṁ <unclear>catuḥṣa</unclear>ṣṭikaḥ<lb 
-n="11"/>ka<supplied reason="lost">ṁ</supplied>sakārasya<gap reason="illegible" unit="character" extent="unknown"/><lb 
-n="12"/><unclear>u</unclear>tkīrṇa<unclear>ṁ</unclear> s<unclear>ū</unclear>ttradhāra<gap reason="illegible" unit="character" extent="unknown"/>
+--><gap reason="illegible" unit="character" extent="unknown"/><lb n="7"/><gap reason="illegible" unit="character" extent="unknown"/><unclear>ku</unclear>la<unclear>da</unclear>tte<unclear>na</unclear> dharmadatta-putreṇeti<gap reason="illegible" unit="character" extent="unknown"/><lb n="8"/><gap reason="illegible" unit="character" extent="unknown"/>catuḥṣaṣṭika datti<supplied reason="lost">ḥ</supplied><gap reason="illegible" unit="character" extent="unknown"/><lb n="9"/><gap reason="illegible" unit="character" extent="unknown"/>pratipāditā<gap reason="illegible" unit="character" extent="unknown"/><lb n="10"/>tathā<gap reason="illegible" unit="character" extent="unknown"/>tasya mūlaṁ <unclear>catuḥṣa</unclear>ṣṭikaḥ<lb n="11"/>ka<supplied reason="lost">ṁ</supplied>sakārasya<gap reason="illegible" unit="character" extent="unknown"/><lb n="12"/><unclear>u</unclear>tkīrṇa<unclear>ṁ</unclear> s<unclear>ū</unclear>ttradhāra<gap reason="illegible" unit="character" extent="unknown"/>
              </p>
                  </div>
          </div>

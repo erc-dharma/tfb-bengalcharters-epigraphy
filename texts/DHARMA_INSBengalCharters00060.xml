@@ -69,19 +69,13 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <!-- UPDATE the link once the release is made official -->
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -100,8 +94,8 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-                    <lb n="1"/><p><g type="spiralR"/><!-- siddham --></p><p> śrīman-mahīpāladevapādīya-pravarddhamāna-vijaya-rājye samvat· <num value="33">33</num> Āśvina-dine<g type="danda">.</g> śrī-deśi-haṭṭa<g type="danda">.</g> śrī-jaya-haṭṭa<g type="danda">.</g> śrī-gauḍa-haṭṭīya-samasta<lb n="2" break="no"/>-vaṇig-grāmeṇa<g type="danda">.</g> śrī-sonnakādevīmādhava-śāsana Āgaccakāvacch<choice><sic>u</sic><corr>i</corr></choice>nna-grāma<g type="danda">.</g> dhātrīpura<g type="danda">.</g> saptakhātaka<g type="danda">.</g> khanitrapallī<g type="danda">.</g> lakkhunna-grāmeṣu<g type="danda">.</g> ye ke ’pi<g type="ddanda">.</g>
-                    <lb n="3"/>svasyāṁ svasyāṁ<g type="danda">.</g> vāṭikāyāṁ<g type="danda">.</g> vājya-bhūmau ca<g type="danda">.</g> <g type="floretQuatrefoil"/> guvāka-nālikera-vr̥kṣān·<g type="danda">.</g> <choice><sic>Ā</sic><corr>A</corr></choice>rjayanti<g type="danda">.</g> teṣāṁ vāg dattā<g type="danda">.</g> </p><p>yathā-phalan nālikera-vr̥kṣam prati paṇa trayam·<g type="danda">.</g> phala<lb n="4" break="no"/>vad-guvāka-vr̥kṣam prati paṇa Ekaḥ<g type="danda">.</g> <!--a part of bold image of a camel disturbs the line here -->śrī-sonnakāmādhavasya pūjārtham<g type="danda">.</g> prati-samvatsaran tair ddātavyam·<g type="danda">.</g> </p><p>yatra<g type="danda">.</g> prati nālikera-vr̥kṣaṁ <abbr>hi</abbr> <abbr>pa</abbr> <num value="3">3</num> prati guvāka-vr̥<lb n="5" break="no"/>kṣaṁ <abbr>hi</abbr> <abbr>pa</abbr> <num value="1">1</num> Etan niyamitā<supplied reason="omitted">r</supplied>thāt·<g type="danda">.</g> </p><!--a part of bold image of a camel disturbs the line here --><p>yaḥ kaś cid anyathā kurute<g type="danda">.</g> tasya dr̥ṣṭena<g type="danda">.</g> śrīmad-deva-pādāḥ<g type="danda">.</g> Antarādattāḥ<g type="danda">.</g> garddabhaḥ pitā<g type="danda">.</g> gartta-ṣūkarī mātā<g type="danda">.</g> U<lb n="6" break="no"/>ṣṭraḥ pitr̥vyo bhavet·<g type="danda">.</g> <choice><orig>ṣ</orig><reg>ś</reg></choice>apatha Iti<g type="danda">.</g> </p>
+                    <lb n="1"/><p><g ref="sym:spiral-right" type="symbol">*</g><!-- siddham --></p><p> śrīman-mahīpāladevapādīya-pravarddhamāna-vijaya-rājye samvat· <num value="33">33</num> Āśvina-dine<g ref="sym:bar" type="punctuation">.</g> śrī-deśi-haṭṭa<g ref="sym:bar" type="punctuation">.</g> śrī-jaya-haṭṭa<g ref="sym:bar" type="punctuation">.</g> śrī-gauḍa-haṭṭīya-samasta<lb n="2" break="no"/>-vaṇig-grāmeṇa<g ref="sym:bar" type="punctuation">.</g> śrī-sonnakādevīmādhava-śāsana Āgaccakāvacch<choice><sic>u</sic><corr>i</corr></choice>nna-grāma<g ref="sym:bar" type="punctuation">.</g> dhātrīpura<g ref="sym:bar" type="punctuation">.</g> saptakhātaka<g ref="sym:bar" type="punctuation">.</g> khanitrapallī<g ref="sym:bar" type="punctuation">.</g> lakkhunna-grāmeṣu<g ref="sym:bar" type="punctuation">.</g> ye ke ’pi<g ref="sym:doubleBar" type="punctuation">.</g>
+                    <lb n="3"/>svasyāṁ svasyāṁ<g ref="sym:bar" type="punctuation">.</g> vāṭikāyāṁ<g ref="sym:bar" type="punctuation">.</g> vājya-bhūmau ca<g ref="sym:bar" type="punctuation">.</g> <g ref="sym:floret" type="symbol">*</g> guvāka-nālikera-vr̥kṣān·<g ref="sym:bar" type="punctuation">.</g> <choice><sic>Ā</sic><corr>A</corr></choice>rjayanti<g ref="sym:bar" type="punctuation">.</g> teṣāṁ vāg dattā<g ref="sym:bar" type="punctuation">.</g> </p><p>yathā-phalan nālikera-vr̥kṣam prati paṇa trayam·<g ref="sym:bar" type="punctuation">.</g> phala<lb n="4" break="no"/>vad-guvāka-vr̥kṣam prati paṇa Ekaḥ<g ref="sym:bar" type="punctuation">.</g> <!--a part of bold image of a camel disturbs the line here -->śrī-sonnakāmādhavasya pūjārtham<g ref="sym:bar" type="punctuation">.</g> prati-samvatsaran tair ddātavyam·<g ref="sym:bar" type="punctuation">.</g> </p><p>yatra<g ref="sym:bar" type="punctuation">.</g> prati nālikera-vr̥kṣaṁ <abbr>hi</abbr> <abbr>pa</abbr> <num value="3">3</num> prati guvāka-vr̥<lb n="5" break="no"/>kṣaṁ <abbr>hi</abbr> <abbr>pa</abbr> <num value="1">1</num> Etan niyamitā<supplied reason="omitted">r</supplied>thāt·<g ref="sym:bar" type="punctuation">.</g> </p><!--a part of bold image of a camel disturbs the line here --><p>yaḥ kaś cid anyathā kurute<g ref="sym:bar" type="punctuation">.</g> tasya dr̥ṣṭena<g ref="sym:bar" type="punctuation">.</g> śrīmad-deva-pādāḥ<g ref="sym:bar" type="punctuation">.</g> Antarādattāḥ<g ref="sym:bar" type="punctuation">.</g> garddabhaḥ pitā<g ref="sym:bar" type="punctuation">.</g> gartta-ṣūkarī mātā<g ref="sym:bar" type="punctuation">.</g> U<lb n="6" break="no"/>ṣṭraḥ pitr̥vyo bhavet·<g ref="sym:bar" type="punctuation">.</g> <choice><orig>ṣ</orig><reg>ś</reg></choice>apatha Iti<g ref="sym:bar" type="punctuation">.</g> </p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -188,7 +182,7 @@
                     <app loc="5">
                         <lem>etan niyamitāthāt·</lem>
                         <rdg source="bib:Hok+Kuddus2006_01">etam niyamitāthāt</rdg>
-                        <rdg source="bib:Ray2009_01">etan niyamita<g type="danda">.</g>–[t]</rdg>
+                        <rdg source="bib:Ray2009_01">etan niyamita<g ref="sym:bar" type="punctuation">.</g>–[t]</rdg>
                     </app>
                     <app loc="5">
                         <lem>tasya</lem>

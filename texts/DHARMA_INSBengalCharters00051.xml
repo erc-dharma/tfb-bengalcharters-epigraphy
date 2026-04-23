@@ -128,7 +128,7 @@
              </lg>
              <lg n="4" met="upodgātā">
                  <l n="a"><surplus>de</surplus> puruṣasya bha<unclear>va</unclear>n<unclear>t</unclear>i ye sahāy<choice><sic>ā</sic><corr>āḥ</corr></choice></l>
-                 <l n="b">kaluṣe karmmaṇi dharmma-<unclear>sañcaye</unclear><gap reason="lost" unit="character" quantity="1"></gap></l>
+                 <l n="b">kaluṣe karmmaṇi dharmma-<unclear>sañcaye</unclear><gap reason="lost" unit="character" quantity="1"/></l>
                  <l n="c"><unclear>A</unclear>vagacchati <unclear>me</unclear> <lb n="22"/> ta<unclear>v</unclear>āntarā<unclear>tmā</unclear></l>
                  <l n="d">niyataṁ te 'pi janā<unclear>s ta</unclear>d-a<choice><sic>n</sic><corr>ṁ</corr></choice>śa-bhāja Iti <space/></l>
              </lg>
@@ -197,7 +197,7 @@
                      amwb : I added the syllable vi- in order to find all legible akṣaras in the translation
                  -->, Brahmasena, Viṣṇudeva, Satyaghoṣa, Sattvarakṣita, Vanadāman, Jayaviṣṇu and Prabhudāman;
                  <!-- en français le ; ne pourrait pas fonctionner d'un point de vue syntaxique, il faudrait une simple virgule et pour plus de clarté, ajouter après and <supplied reason="subaudible">led</supplied> --> and by the landholders Satyaviṣṇu, Skandaviṣṇu, Praiyaviṣṇu (?)<!-- peut-être ajouter une note qui renvoie à l'apparat ou mentionne l'émendation priya?   -->,
-                 Balapāla, Guṇadeva, Guṇaśarman, Bhavadeva, Kuṇḍakr̥ṣṇa, Ā<gap reason="lost" unit="character" quantity="1"></gap>cirātaviṣṇu (?),
+                 Balapāla, Guṇadeva, Guṇaśarman, Bhavadeva, Kuṇḍakr̥ṣṇa, Ā<gap reason="lost" unit="character" quantity="1"/>cirātaviṣṇu (?),
                  <note>Cf. the name of the <foreign>uparika</foreign> Cirātadatta in <ref target="DHARMA_INSBengalCharters00047.xml">Damodarpur #1</ref>.</note>
 Śambhukīrtti, Bhaktidāman (?), Manaḥkr̥ṣṇa, Kṣemarudra,
 Bhavadāman, Lakṣmaṇa<!-- c'est le seul nom non composé?! -->, Mitrasoma, Baladāsa, Jayadāsa,
@@ -231,7 +231,7 @@ amwb : it is also possible to consider the meaning "relative, belonging to the s
                  <q>Indeed <supplied reason="explanation">asti</supplied>, the custom in our district is sale of waste land as permanent endowment to be enjoyed in perpetuity with a <foreign>kulyavāpa</foreign> for <supplied reason="explanation">the price of</supplied> two <foreign>dīnāra</foreign>s,<!-- pour "the custom in our district is sale of waste land as permanent endowment to be enjoyed in perpetuity with a <foreign>kulyavāpa</foreign> for <supplied reason="explanation">the price of</supplied> two <foreign>dīnāra</foreign>s"; j'inverserai sujet et attribut du sujet car on perd le ayam dans la traduction qui semble avoir pour fonction "this kind of sale" : indeed this kind of sale of waste land as permanent endowment to be enjoyed in perpetuity with a <foreign>kulyavāpa</foreign> for <supplied reason="explanation">the price of</supplied> two <foreign>dīnāra</foreign>s is a custom in our district --> 
                      so that <supplied reason="explanation">tad</supplied> there is no conflict whatsoever <supplied reason="explanation">with the interests of the king</supplied> when this Dvīpasoma, chief of the Tāvīra district, respectfully requests <supplied reason="explanation">such a sale</supplied> through his own son Varāhasoma, <supplied reason="explanation">but on the contrary</supplied> only the sixth share of the merit for his majesty,<note>
 		The king usually takes a sixth of each transaction as it is mentionned in <title>Manusmr̥ti</title> 7.131-132. In a case of land donation, the benefit for the king is only meritorious and due to his act of protection. It is mentioned by the verse I.331 from Yājñavalkya's <title>Dharmaśāstra</title>:
-		<q><foreign>puṇyātṣaḍbhāgamādatte nyāyena paripālayan</foreign> <g type="danda">.</g> <foreign>sarvadānādhikaṁ yasmānnyāyena paripālanam</foreign> <g type="ddanda">.</g></q>
+		<q><foreign>puṇyātṣaḍbhāgamādatte nyāyena paripālayan</foreign> <g ref="sym:bar" type="punctuation">.</g> <foreign>sarvadānādhikaṁ yasmānnyāyena paripālanam</foreign> <g ref="sym:doubleBar" type="punctuation">.</g></q>
 		<q>He <supplied reason="explanation">the king</supplied> takes a sixth portion of the merits by providing protection justly, because providing protection justly greater than all gifts.</q> <supplied reason="explanation">Translation <bibl><ptr target="bib:Olivelle2019_01"/><citedRange unit="page">107</citedRange></bibl></supplied>.
 		
 	</note> and it is to be protected in perpetuity by the district. So let the gift be made.</q> Therefore, consequent to this procedure of investigation, twenty-two <foreign>kulyavāpa</foreign>s, <abbr>ku</abbr> 22, of waste land yielding no tax have been given at both Vidalaka and Sannāhakuṭumbaka — among which twelve <foreign>kulyavāpa</foreign>s, <abbr>ku</abbr> 12, in Vidala, ten <foreign>kulyavāpa</foreign>s, <abbr>ku</abbr> 10, in Sannāhakuṭumbaka, so <abbr>ku</abbr> 22 — after having taken forty-four <foreign>dīnāra</foreign>s from this Varāhasoma, son of the district chief Dvīpasoma.
@@ -251,12 +251,12 @@ amwb : it is also possible to consider the meaning "relative, belonging to the s
                 </note></p>
               <p n="4" rend="stanza">My inner spirit understands that those companions a man has in action that brings defilement or for collecting merit inevitably also get a share of it .<note>
                   This verse matches more or less with the verses 5.76-8 of Aśvaghoṣa's <title>Buddhacarita</title> (edition and translation <bibl><ptr target="bib:Johnston1935-1936_01"/></bibl>: 
-                  <q><foreign>sulabhāḥ khalu saṁyuge sahāyā viṣayāvāptasukhe dhanārjane vā</foreign> <g type="danda">.</g>
-<foreign>puruṣasya tu durlabhāḥ sahāyāḥ patitasyāpadi dharmasaṁśraye vā</foreign> <g type="ddanda">.</g> 76 <g type="ddanda">.</g>
-<foreign>iha caiva bhavanti ye sahāyāḥ kaluṣe karmaṇi dharmasaṁśraye vā</foreign> <g type="danda">.</g>
-<foreign>avagacchati me yathāntarātmā niyataṁ te ’pi janās tadaṁśabhājaḥ</foreign> <g type="ddanda">.</g> 77 <g type="ddanda">.</g>
-<foreign>tad idaṁ parigamya dharmayuktaṁ mama niryāṇam ito jagaddhitāya</foreign> <g type="danda">.</g>
-<foreign>turagottama vegavikramābhyāṁ prayatasvātmahite jagaddhite ca</foreign> <g type="ddanda">.</g> 78 <g type="danda">.</g></q>
+                  <q><foreign>sulabhāḥ khalu saṁyuge sahāyā viṣayāvāptasukhe dhanārjane vā</foreign> <g ref="sym:bar" type="punctuation">.</g>
+<foreign>puruṣasya tu durlabhāḥ sahāyāḥ patitasyāpadi dharmasaṁśraye vā</foreign> <g ref="sym:doubleBar" type="punctuation">.</g> 76 <g ref="sym:doubleBar" type="punctuation">.</g>
+<foreign>iha caiva bhavanti ye sahāyāḥ kaluṣe karmaṇi dharmasaṁśraye vā</foreign> <g ref="sym:bar" type="punctuation">.</g>
+<foreign>avagacchati me yathāntarātmā niyataṁ te ’pi janās tadaṁśabhājaḥ</foreign> <g ref="sym:doubleBar" type="punctuation">.</g> 77 <g ref="sym:doubleBar" type="punctuation">.</g>
+<foreign>tad idaṁ parigamya dharmayuktaṁ mama niryāṇam ito jagaddhitāya</foreign> <g ref="sym:bar" type="punctuation">.</g>
+<foreign>turagottama vegavikramābhyāṁ prayatasvātmahite jagaddhite ca</foreign> <g ref="sym:doubleBar" type="punctuation">.</g> 78 <g ref="sym:bar" type="punctuation">.</g></q>
                   <q>75. Easy it is to find companions for battle, for the pleasure of acquiring objects of sense and for the accumulation of wealth; but hard it is for a man to find companions, when he has fallen into distress or attaches himself to dharma.
 76. Moreover as for those who are companions in this world whether in action that brings defilement or in resort to dharma, undoubtedly they too, as my inner soul realises, take their share of the fruit.
 77. Understand therefore, O best of steeds, this my departure from here to be connected with dharma for the benefit of the world, and strive with speed and courage in a matter which concerns your own good and the good of the world alike.</q>

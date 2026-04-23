@@ -93,52 +93,41 @@
                  <gap reason="illegible" unit="character" quantity="8" precision="low"/>
              </div>
              <div type="textpart"><head xml:lang="eng">Plate</head>
-                 <pb n="1r"/><lb n="1"/> svasti<g type="danda">.</g>
+                 <pb n="1r"/><lb n="1"/> svasti<g ref="sym:bar" type="punctuation">.</g>
                  <lg n="1" met="upajāti">
                      <l n="a">jayaty avidyā-hati-hetu-bhūta<supplied reason="omitted">ḥ</supplied></l>
-                     <l n="b">saṁtīrṇṇa-saṁsāra-mahāmvu-rāśi<supplied reason="omitted">ḥ<g type="danda">.</g></supplied></l>
-                     <l n="c">Anuttarāvāpti-pha<unclear>laika</unclear>-<seg met="++"><gap reason="lost" unit="character" quantity="2"></gap></seg></l>
-                     <l n="d"><lb n="2"/><seg met="=+-"><gap reason="lost" unit="character" quantity="3"/></seg>-<unclear>pādo</unclear> bhagavā<choice><sic><unclear>ṁ</unclear></sic><corr>n</corr></choice> munīndra<supplied reason="omitted">ḥ</supplied><choice><sic><g type="danda">.</g></sic><corr><g type="ddanda">.</g></corr></choice></l>
+                     <l n="b">saṁtīrṇṇa-saṁsāra-mahāmvu-rāśi<supplied reason="omitted">ḥ<g ref="sym:bar" type="punctuation">.</g></supplied></l>
+                     <l n="c">Anuttarāvāpti-pha<unclear>laika</unclear>-<seg met="++"><gap reason="lost" unit="character" quantity="2"/></seg></l>
+                     <l n="d"><lb n="2"/><seg met="=+-"><gap reason="lost" unit="character" quantity="3"/></seg>-<unclear>pādo</unclear> bhagavā<choice><sic><unclear>ṁ</unclear></sic><corr>n</corr></choice> munīndra<supplied reason="omitted">ḥ</supplied><choice><sic><g ref="sym:bar" type="punctuation">.</g></sic><corr><g ref="sym:doubleBar" type="punctuation">.</g></corr></choice></l>
                  </lg>
                  <lg n="2" met="upajāti">
                      <l n="a">jayaty aśeṣa-kṣiti-pāla-m<choice><sic>ū</sic><corr>au</corr></choice>li</l>
-                     <l n="b">-mālā-maṇi-dyotita-pāda-pīṭha<supplied reason="lost">ḥ<g type="danda">.</g></supplied></l>
+                     <l n="b">-mālā-maṇi-dyotita-pāda-pīṭha<supplied reason="lost">ḥ<g ref="sym:bar" type="punctuation">.</g></supplied></l>
                      <l n="c"><seg met="="><gap reason="lost" unit="character" quantity="1"/></seg><lb n="3"/><seg met="+-"><gap reason="lost" unit="character" quantity="2"/></seg>-pāda-praṇatottamāṁga<supplied reason="omitted">ḥ</supplied></l>
-                     <l n="d">śrī-devakhaḍgo nr̥patir jjitāriḥ<choice><sic><g type="danda">.</g></sic><corr><g type="ddanda">.</g></corr></choice></l>
+                     <l n="d">śrī-devakhaḍgo nr̥patir jjitāriḥ<choice><sic><g ref="sym:bar" type="punctuation">.</g></sic><corr><g ref="sym:doubleBar" type="punctuation">.</g></corr></choice></l>
                  </lg>
                  <p>
-                     <unclear>jhā</unclear>ṭalyodyānikā-taralā-saṁ<supplied reason="lost">vaddha</supplied><gap reason="lost" unit="character" quantity="2"/><lb 
-                     n="4"/><gap reason="lost" unit="character" quantity="2"/><unclear>mahā</unclear>devī-śrī-prabhāvatyā bhujyamānaka-pāṭaka-<num value="2">dvaya</num> bhantaḍīko-<unclear>śu</unclear>bhaṁsukāyā bhujya<supplied reason="lost">mānakā</supplied><lb 
-                     n="5" break="no"/><supplied reason="lost"><num value="0.5">rdha</num>-pā</supplied><unclear>ṭa</unclear>ka kedāravorake śrīmitrāvalyāṁ sāmanta-vaṇṭiyokena <surplus>bhu</surplus>bhujyamānaka-<num value="1.5">dvy-ardha</num>-<supplied reason="lost">pāṭaka</supplied><lb 
-                     n="6"/><gap reason="lost" unit="character" quantity="1"/>relatalake śrī-netrabhaṭena bhujyamānaka-<num value="1.5">dvy-ardha</num>-pāṭaka peranāṭana-nādavarmi<gap reason="lost" unit="character" quantity="3"/><lb 
-                     n="7"/><gap reason="lost" unit="character" quantity="2"/>tpalagarte <num value="10">daśa</num>-droṇavāpā śivahradikā-śoggavargge nartakī-<num value="0.5">Ardha</num>-pāṭaka <gap reason="lost" unit="character" quantity="3"/><lb 
-                     n="8"/><gap reason="lost" unit="character" quantity="2"/>śrīmete śrī-śarvāntareṇa bhujyamānaka mahattara-śikharādibhiḥ kr̥ṣyamā<supplied reason="lost">ṇaka</supplied><lb 
-                     n="9" break="no"/>-<num value="1">pāṭaka</num> vihāra-vāstu-<num value="2">dvayañ</num> ca rollavāyikā-Ugravorake vandya-jñānamatinā <unclear>bh</unclear><supplied reason="lost">ujya</supplied><lb 
-                     n="10" break="no"/><supplied reason="lost">mā</supplied><unclear>na</unclear>ka-<num value="1">pāṭaka</num> tīsanāda-jayadatta-kaṭake droṇi-maṭhikāyāṁ <num value="1">pāṭaka</num><g type="danda">.</g> I<unclear>t</unclear><supplied reason="lost">y</supplied> <unclear>e</unclear><supplied reason="lost">vaṁ na</supplied><lb 
-                     n="11" break="no"/><supplied reason="lost">ve</supplied>ṣu pāṭakeṣu <num value="10">daśa</num>-droṇādhikeṣu samupagata-viṣayapatī<supplied reason="omitted">n</supplied> kuṭumvinaś ca samā<supplied reason="lost">jnāpayati</supplied>
+                     <unclear>jhā</unclear>ṭalyodyānikā-taralā-saṁ<supplied reason="lost">vaddha</supplied><gap reason="lost" unit="character" quantity="2"/><lb n="4"/><gap reason="lost" unit="character" quantity="2"/><unclear>mahā</unclear>devī-śrī-prabhāvatyā bhujyamānaka-pāṭaka-<num value="2">dvaya</num> bhantaḍīko-<unclear>śu</unclear>bhaṁsukāyā bhujya<supplied reason="lost">mānakā</supplied><lb n="5" break="no"/><supplied reason="lost"><num value="0.5">rdha</num>-pā</supplied><unclear>ṭa</unclear>ka kedāravorake śrīmitrāvalyāṁ sāmanta-vaṇṭiyokena <surplus>bhu</surplus>bhujyamānaka-<num value="1.5">dvy-ardha</num>-<supplied reason="lost">pāṭaka</supplied><lb n="6"/><gap reason="lost" unit="character" quantity="1"/>relatalake śrī-netrabhaṭena bhujyamānaka-<num value="1.5">dvy-ardha</num>-pāṭaka peranāṭana-nādavarmi<gap reason="lost" unit="character" quantity="3"/><lb n="7"/><gap reason="lost" unit="character" quantity="2"/>tpalagarte <num value="10">daśa</num>-droṇavāpā śivahradikā-śoggavargge nartakī-<num value="0.5">Ardha</num>-pāṭaka <gap reason="lost" unit="character" quantity="3"/><lb n="8"/><gap reason="lost" unit="character" quantity="2"/>śrīmete śrī-śarvāntareṇa bhujyamānaka mahattara-śikharādibhiḥ kr̥ṣyamā<supplied reason="lost">ṇaka</supplied><lb n="9" break="no"/>-<num value="1">pāṭaka</num> vihāra-vāstu-<num value="2">dvayañ</num> ca rollavāyikā-Ugravorake vandya-jñānamatinā <unclear>bh</unclear><supplied reason="lost">ujya</supplied><lb n="10" break="no"/><supplied reason="lost">mā</supplied><unclear>na</unclear>ka-<num value="1">pāṭaka</num> tīsanāda-jayadatta-kaṭake droṇi-maṭhikāyāṁ <num value="1">pāṭaka</num><g ref="sym:bar" type="punctuation">.</g> I<unclear>t</unclear><supplied reason="lost">y</supplied> <unclear>e</unclear><supplied reason="lost">vaṁ na</supplied><lb n="11" break="no"/><supplied reason="lost">ve</supplied>ṣu pāṭakeṣu <num value="10">daśa</num>-droṇādhikeṣu samupagata-viṣayapatī<supplied reason="omitted">n</supplied> kuṭumvinaś ca samā<supplied reason="lost">jnāpayati</supplied>
                  </p>
                  <p>
-                     <lb n="12"/><supplied reason="lost">vi</supplied>ditam astu bhavatāṁ Ete <num value="10">daśa</num>-droṇādhika-<num value="9">nava</num>-pāṭakā yathā-bhuñjanād a<supplied reason="lost">panīya</supplied><lb 
-                     n="13"/><supplied reason="lost">śrī</supplied>-rājarājabhaṭṭasyāyuṣ-kāmārthaṁ Ācārya-vandya-saṁghamittra-pādai<supplied reason="omitted">ḥ</supplied> kāri<unclear>ta</unclear><supplied reason="lost">ka</supplied><lb 
-                     n="14" break="no"/>-<gap reason="lost" unit="character" quantity="1"/>dvīpa-vihāra-vihārikā-<num value="4">catuṣṭayam</num> <num value="1">eka</num>-gaṇḍī-kṛtaṁ tad viṣayapaty-ādi-<unclear>ku</unclear><supplied reason="lost">ṭumvi</supplied><lb n="15" break="no"/><supplied reason="lost">bhir ni</supplied><unclear>rāvādhai</unclear>r bhavitavyam iti
+                     <lb n="12"/><supplied reason="lost">vi</supplied>ditam astu bhavatāṁ Ete <num value="10">daśa</num>-droṇādhika-<num value="9">nava</num>-pāṭakā yathā-bhuñjanād a<supplied reason="lost">panīya</supplied><lb n="13"/><supplied reason="lost">śrī</supplied>-rājarājabhaṭṭasyāyuṣ-kāmārthaṁ Ācārya-vandya-saṁghamittra-pādai<supplied reason="omitted">ḥ</supplied> kāri<unclear>ta</unclear><supplied reason="lost">ka</supplied><lb n="14" break="no"/>-<gap reason="lost" unit="character" quantity="1"/>dvīpa-vihāra-vihārikā-<num value="4">catuṣṭayam</num> <num value="1">eka</num>-gaṇḍī-kṛtaṁ tad viṣayapaty-ādi-<unclear>ku</unclear><supplied reason="lost">ṭumvi</supplied><lb n="15" break="no"/><supplied reason="lost">bhir ni</supplied><unclear>rāvādhai</unclear>r bhavitavyam iti
                  </p>
                  <p>samvaT <num value="13">10 3</num> vaiśākha di <num value="13">10 3</num></p>
                  <lg n="3" met="vasantatilakā">
                      <l n="a">Āyuś calaṁ <seg met="---+"><gap reason="lost" unit="character" quantity="4"/></seg><lb n="16"/> <seg met="--"><gap reason="lost" unit="character" quantity="2"/></seg><unclear>ṇām a</unclear>bhogā</l>
-                     <l n="b">puṇyaṁ ca sarva-gati duḥkha-bhayāpahāri<supplied reason="omitted"><g type="danda">.</g></supplied></l>
+                     <l n="b">puṇyaṁ ca sarva-gati duḥkha-bhayāpahāri<supplied reason="omitted"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
                      <l n="c">bhūme<choice><sic>ñ</sic><corr>ś</corr></choice> ca dānam i<seg met="-+-"><gap reason="lost" unit="character" quantity="3"/></seg><lb n="17"/><seg met="-+-"><gap reason="lost" unit="character" quantity="3"/></seg> vu<supplied reason="omitted">d</supplied>dhvā</l>
-                     <l n="d">bhogīśvaraiḥ sa-karaṇaiḥ pratipālanīyam<unclear>·</unclear><choice><sic><g type="danda">.</g></sic><corr><g type="ddanda">.</g></corr></choice></l>
+                     <l n="d">bhogīśvaraiḥ sa-karaṇaiḥ pratipālanīyam<unclear>·</unclear><choice><sic><g ref="sym:bar" type="punctuation">.</g></sic><corr><g ref="sym:doubleBar" type="punctuation">.</g></corr></choice></l>
                  </lg>
                  <p>
-                     dūtako <supplied reason="omitted">’</supplied>tra paramasau<supplied reason="lost">gata</supplied>-<gap reason="lost" unit="character" quantity="3"/><lb 
-                     n="18"/><gap reason="lost" unit="character" quantity="3"/><supplied reason="lost">li</supplied>khitaṁ jayakarmānta-vāsake pa<unclear>rama</unclear>saugatopāsaka-pūradāse<unclear>ne</unclear><supplied reason="lost">ti</supplied>
+                     dūtako <supplied reason="omitted">’</supplied>tra paramasau<supplied reason="lost">gata</supplied>-<gap reason="lost" unit="character" quantity="3"/><lb n="18"/><gap reason="lost" unit="character" quantity="3"/><supplied reason="lost">li</supplied>khitaṁ jayakarmānta-vāsake pa<unclear>rama</unclear>saugatopāsaka-pūradāse<unclear>ne</unclear><supplied reason="lost">ti</supplied>
                  </p>
              </div>
          </div>
          <div type="apparatus">
              <div type="textpart" n="B"><head xml:lang="eng">Plate</head>
                <listApp>
-                  <app loc="1"><lem>-pha<unclear>laika</unclear>-<seg met="++"><gap reason="lost" unit="character" quantity="2"></gap></seg></lem><rdg source="bib:Laskar1906_01 Sircar1983_01"/></app>
+                  <app loc="1"><lem>-pha<unclear>laika</unclear>-<seg met="++"><gap reason="lost" unit="character" quantity="2"/></seg></lem><rdg source="bib:Laskar1906_01 Sircar1983_01"/></app>
                    <app loc="2"><lem>bhagavā<choice><sic><unclear>ṁ</unclear></sic><corr>n</corr></choice></lem><rdg source="bib:Laskar1906_01">bhagavāna</rdg><rdg source="bib:Sircar1983_01">bhagavān</rdg></app>
                    <app loc="2"><lem>munīndra<supplied reason="omitted">ḥ</supplied></lem><rdg source="bib:Laskar1906_01">munīndraḥ</rdg></app>
                    <app loc="3"><lem><unclear>jhā</unclear>ṭalyodyānikā-</lem><rdg source="bib:Laskar1906_01"><gap reason="illegible" unit="character" quantity="1"/>ṭalyodyānikā-</rdg></app>
@@ -163,7 +152,7 @@
                    <app loc="16"><lem>bhūme<choice><sic>ñ</sic><corr>ś</corr></choice></lem><rdg source="bib:Laskar1906_01 bib:Sircar1983_01">bhūmeś</rdg></app>
                    <app loc="16"><lem>i<seg met="-+-"><gap reason="lost" unit="character" quantity="3"/></seg><lb n="17"/><seg met="-+-"><gap reason="lost" unit="character" quantity="3"/></seg></lem><rdg source="bib:Laskar1906_01">i<gap reason="lost" extent="unknown"/></rdg><rdg source="bib:Sircar1983_01">i<seg met="-+--+-"><gap reason="lost" unit="character" quantity="6"/></seg></rdg></app>
                    <app loc="17"><lem>-karaṇaiḥ</lem><rdg source="bib:Laskar1906_01 bib:Sircar1983_01">-karuṇaiḥ</rdg></app>
-                   <app loc="17"><lem><choice><sic><g type="danda">.</g></sic><corr><g type="ddanda">.</g></corr></choice></lem><rdg source="bib:Laskar1906_01 bib:Sircar1983_01"><g type="ddanda">.</g></rdg></app>
+                   <app loc="17"><lem><choice><sic><g ref="sym:bar" type="punctuation">.</g></sic><corr><g ref="sym:doubleBar" type="punctuation">.</g></corr></choice></lem><rdg source="bib:Laskar1906_01 bib:Sircar1983_01"><g ref="sym:doubleBar" type="punctuation">.</g></rdg></app>
                </listApp>
              </div>
          </div>

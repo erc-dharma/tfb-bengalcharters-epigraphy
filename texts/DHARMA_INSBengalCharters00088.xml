@@ -97,28 +97,26 @@ In the prose part, there is only one double daṇḍa and I have encoded both si
              --><!-- 
 amwb 2021-10-01 : first, I reproduced Kielhorn's edition in the edition part ; now I have included some of my own readings based on the facsimile ; it is necessary to change all the tag for the danda and ddanda when I check how encoding the different shapes I have encountered. In the same way, I need to check hoz encoding the M in this plate by compring the different photos I have taken. For the moment, I have not proposed any improvements of the text.   
 -->
-                 <pb
-n="1r"/><lb
-n="1"/><g type="spiralL"/><!-- 
+                 <pb n="1r"/><lb n="1"/><g ref="sym:spiral-left" type="symbol">*</g><!-- 
 amwb :  it is a spiral matching BL4 of the table found in the part "discussion" of the Symbol Taxonomy
 --> svasti<supplied reason="subaudible">.</supplied></p>
 <lg n="1" met="vasantatilakā">
       <l n="a">sarvvajñatāṁ śriya<space type="feature"/>m iva sthiram āsthitasya</l>
-      <l n="b">vajrāsa<lb n="2" break="no"/>nasya vahu-māra-kulopalambhāḥ<unclear><g type="danda">.</g></unclear><space type="feature"/></l>
+      <l n="b">vajrāsa<lb n="2" break="no"/>nasya vahu-māra-kulopalambhāḥ<unclear><g ref="sym:bar" type="punctuation">.</g></unclear><space type="feature"/></l>
       <l n="c">devyā mahā-karuṇayā paripā<lb n="3" break="no"/>litāni</l>
-      <l n="d">rakṣantu vo daśa valāni <space type="feature"/> diśo jayanti<g type="ddandaStrokeLeft">.</g></l>
+      <l n="d">rakṣantu vo daśa valāni <space type="feature"/> diśo jayanti<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l>
 </lg>
 <lg n="2" met="mālinī">
       <l n="a">śriya Iva subhagā<lb n="4" break="no"/>yāḥ sambhavo vāri-rāśiś</l>
-      <l n="b">śaśadhara Iva bhāso viśvam āhlādayantyāḥ<g type="danda">.</g></l>
+      <l n="b">śaśadhara Iva bhāso viśvam āhlādayantyāḥ<g ref="sym:bar" type="punctuation">.</g></l>
       <l n="c">prakr̥tir avanipānāṁ santater uttamāyā</l>
-      <l n="d">A<lb n="5" break="no"/>jani dayita-viṣṇuḥ sarvva-vidyāvadātaḥ<g type="ddandaStrokeLeft">.</g></l>
+      <l n="d">A<lb n="5" break="no"/>jani dayita-viṣṇuḥ sarvva-vidyāvadātaḥ<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l>
 </lg>
 <lg n="3" met="anuṣṭubh">
       <l n="a">Āsīd ā sāgarād urvvīṁ</l>
-      <l n="b">gurvvībhiḥ kīrttibhiḥ kr̥tī<g type="danda">.</g></l>
+      <l n="b">gurvvībhiḥ kīrttibhiḥ kr̥tī<g ref="sym:bar" type="punctuation">.</g></l>
       <l n="c">maṇḍayan<unclear>·</unclear> <lb n="6"/>khaṇḍitārātiḥ</l>
-      <l n="d">ślāghyaḥ śrī-vapyaṭas tataḥ<g type="ddandaStrokeLeft">.</g></l><!-- 
+      <l n="d">ślāghyaḥ śrī-vapyaṭas tataḥ<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l><!-- 
 argr: is any alternative reading of the name imaginable? 
 	vudhyaṭas? 
 --><!-- 
@@ -131,17 +129,17 @@ argr: I really don't see the repha and think Kielhorn may have supplied it silen
  --><!-- 
 amwb : I agree with you and added a supplied omitted
            --> lakṣmyāḥ karaṅ grāhitaḥ</l>
-       <l n="b">śrī-gopā<lb n="7" break="no"/>la Iti kṣitīśa-śirasāṁ cūḍā-maṇis tat-sutaḥ<g type="danda">.</g></l>
+       <l n="b">śrī-gopā<lb n="7" break="no"/>la Iti kṣitīśa-śirasāṁ cūḍā-maṇis tat-sutaḥ<g ref="sym:bar" type="punctuation">.</g></l>
        <l n="c">yasyānukriyate sanātana-yaśo-rāśir diśām āśaye</l>
-       <l n="d">śvetimnā ya<lb n="8" break="no"/>di paurṇṇamāsa-rajanī jyotsnātibhāra-śriyā<g type="ddandaStrokeLeft">.</g></l> 
+       <l n="d">śvetimnā ya<lb n="8" break="no"/>di paurṇṇamāsa-rajanī jyotsnātibhāra-śriyā<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l> 
 </lg>
 <lg n="5" met="śārdūlavikrīḍita">
        <l n="a">śītāṁśor iva rohiṇī hutabhujaḥ svāheva tejo-nidheḥ</l><!-- 
 argr: if tejo-nidhi were a name here — we shouldn't hyphenate it, just like we don't hyphenate Hutabhuj. but maybe it is just an epithet with Agni? see guhyaka-pater in next pāda. Kielhorn gives no note, and seems to ignore the word in translation. —
 -->
-       <l n="b">śarvāṇī<lb n="9" break="no"/>va śivasya guhyaka-pater bhadreva bhadrātmajā<g type="danda">.</g></l>
+       <l n="b">śarvāṇī<lb n="9" break="no"/>va śivasya guhyaka-pater bhadreva bhadrātmajā<g ref="sym:bar" type="punctuation">.</g></l>
        <l n="c">paulomīva purandarasya dayitā śrī-deddadevīty abhūd</l>
-       <l n="d">devī tasya vino<lb n="10" break="no"/>da-bhūr mura-ripor lakṣmīr iva kṣmā-pateḥ<g type="ddandaStrokeLeft">.</g></l>
+       <l n="d">devī tasya vino<lb n="10" break="no"/>da-bhūr mura-ripor lakṣmīr iva kṣmā-pateḥ<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l>
 </lg>
 <lg n="6" met="sragdharā">
        <l n="a">tābhyāṁ śrī-dharmmapālaḥ samajani sujana-stūyamānāvadānaḥ</l>
@@ -150,20 +148,20 @@ amwb : kielhorn's note: 'originally patīnāṁ seems to have been engraved'
 amwb : the reading of the plate shows that there is a point over the nā but it is not the circle used in this plate to note the anusvāra; so in my opinion there is no anusvāra
 argr: yes, but Kielhorn seems to have meant that the dot shape could be the result of incomplete erasure of a circle shape. Anyhow, I have added the information to the apparatus.
 argr: I have just learned that bhūmīpati is an attested form besides bhūmipati, so no need to use <orig>; since we don't treat other such words for 'king' as compound, I have removed the hyphen here too (though I agree this feels like a compound)
---> akhila-vasumatī-maṇḍalaṁ śāsad ekaḥ<supplied reason="omitted"><g type="danda">.</g></supplied></l><!-- 
+--> akhila-vasumatī-maṇḍalaṁ śāsad ekaḥ<supplied reason="omitted"><g ref="sym:bar" type="punctuation">.</g></supplied></l><!-- 
 amwb : I removed the original danda reported by Kielhorn <g type="danda">.</g>. See photo śāsadekaḥca l11.png
 argr: good, but we need to supply it then, as the pattern in this text is is mark the end of the first hemistich with a single danda. I don't think it is necessary to dedicate an apparatus entry to this tiny improvement upon K's edition
 how to parse śāsad ekaḥ?
 emend śāsan ekaḥ
 -->
        <l n="c">catvāras tīra-majjat-kari-gaṇa-caraṇa-nyasta-mudrāḥ samudrā</l>
-       <l n="d">yātrāṁ ya<lb n="12" break="no"/>sya kṣamante na bhuvana-parikhā vi<choice><sic>śv</sic><corr>ṣv</corr></choice>ag āśā jigīṣoḥ<g type="ddandaStrokeLeft">.</g></l>
+       <l n="d">yātrāṁ ya<lb n="12" break="no"/>sya kṣamante na bhuvana-parikhā vi<choice><sic>śv</sic><corr>ṣv</corr></choice>ag āśā jigīṣoḥ<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l>
 </lg>
 <lg n="7" met="sragdharā">
        <l n="a">yasminn uddāma-līlā-calita-vala-bhare dig-jayāya pravr̥tte</l><!-- 
 argr: or can we read -kare?
  -->
-       <l n="b">yāntyā<supplied reason="omitted">ṁ</supplied> <lb n="13"/><unclear>v</unclear>iśvambharāyāṁ calita-giri-tiraścīnatāṁ tad-vaśena<g type="danda">.</g></l><!-- 
+       <l n="b">yāntyā<supplied reason="omitted">ṁ</supplied> <lb n="13"/><unclear>v</unclear>iśvambharāyāṁ calita-giri-tiraścīnatāṁ tad-vaśena<g ref="sym:bar" type="punctuation">.</g></l><!-- 
 argr: you had yāntyā<lb n="13"/><choice><orig><unclear>m v</unclear></orig><reg>ṁ v</reg></choice>iśvambharāyāṁ
 argr: the slightly unclear vi seems to me identical to the one in vi<choice><sic>śv</sic><corr>ṣv</corr></choice>ag in the previous line
 argr: I interpret K's note "Read yāntyāṁ vi° as intending basically the same result after editorial intervention as the one my reading yields.
@@ -174,104 +172,91 @@ amwb : i don't see the r of rthaṁ see photo sāhāyakāthaṁśeṣe l13.png
 argr: I think it is the triangle shape including the headline. In many varieties of Pala-period script, rephas can be integrated in this way into the aksara suspended from the headline — so I think we can remove <supplied>; see also Kielhorn's remark on the special shape of rtha (p. 244).
    --><!-- 
 amwb : agree : i removed the supplied --></l>
-       <l n="d">śeṣe<lb n="14" break="no"/>ṇodasta-doṣṇā tvaritataram adhodhas tam evānuyātaM<g type="ddandaStrokeLeft">.</g></l>
+       <l n="d">śeṣe<lb n="14" break="no"/>ṇodasta-doṣṇā tvaritataram adhodhas tam evānuyātaM<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l>
 </lg>
 <lg n="8" met="mandākrāntā">
        <l n="a">yat-prasthāne pracalita-valāsphālanād ullaladbhir</l>
-       <l n="b">dhūlī-pūraiḥ pihi<lb n="15" break="no"/>ta-sakala-vyomabhir bhūta-dhātryāḥ<g type="danda">.</g></l><!-- 
+       <l n="b">dhūlī-pūraiḥ pihi<lb n="15" break="no"/>ta-sakala-vyomabhir bhūta-dhātryāḥ<g ref="sym:bar" type="punctuation">.</g></l><!-- 
 argr: the txt file correctly had dhūlī-pūraiḥ which you must have changed to dhūlī-puraiḥ, but the reading is clearly pū
  -->
        <l n="c">samprāptāyāḥ parama-tanutāṁ cakravālaṁ phaṇānāṁ<!-- 
 amwb : I am not sure that there is really an anusvāra here as before line11... there is a little point but not a circle. If I encounter other cases, it would be possible that sometimes the anusvāra is noted only with a point instead of a circle, see photo phaṇānaṁ ma or phaṇānama l15.png
 argr: yes, I am inclined to admit that two allographs of anusvāra were available to the scribe
        --></l>
-       <l n="d">magnonmīlan-maṇi phaṇipater lā<lb n="16" break="no"/>ghavād ullalāsa<g type="ddandaStrokeLeft">.</g></l>
+       <l n="d">magnonmīlan-maṇi phaṇipater lā<lb n="16" break="no"/>ghavād ullalāsa<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l>
 </lg>
 <lg n="9" met="anuṣṭubh">
        <l n="a">viruddha-viṣaya-kṣobhād</l>
-       <l n="b">yasya kopāgnir aurvavaT<g type="danda">.</g></l>
+       <l n="b">yasya kopāgnir aurvavaT<g ref="sym:bar" type="punctuation">.</g></l>
        <l n="c">Anirvr̥ti prajajvāla</l>
-       <l n="d">catur-ambhodhi-vāritaḥ<g type="ddandaStrokeLeft">.</g></l>
+       <l n="d">catur-ambhodhi-vāritaḥ<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l>
 </lg>
 <lg n="10" met="śārdūlavikrīḍita">
        <l n="a"><lb n="17"/>ye 'bhūvaN pr̥thu-rāma-rāghava-nala-prāyā dharitrī-bhujas</l>
-       <l n="b">tān ekatra didr̥kṣuṇeva nicitān· sarvāN samam vedhasā<g type="danda">.</g></l>
+       <l n="b">tān ekatra didr̥kṣuṇeva nicitān· sarvāN samam vedhasā<g ref="sym:bar" type="punctuation">.</g></l>
        <l n="c">dhva<lb n="18" break="no"/>stāśeṣa-narendra-māna-mahimā śrī-dharmmapālaḥ kalau</l>
-       <l n="d">lola-śrī-kariṇī-nivandhana-mahāstambhaḥ samuttambhitaḥ<g type="ddandaStrokeLeft">.</g></l> 
+       <l n="d">lola-śrī-kariṇī-nivandhana-mahāstambhaḥ samuttambhitaḥ<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l> 
 <!-- argr: I have trouble recognizing lau and lo in kalau lola — are any alternative readings imaginable? --> 
 </lg>
 <lg n="11" met="sragdharā">
        <l n="a">yāsāṁ<lb n="19"/>nāsīra-dhūlī-dhavala-daśa-diśāṁ drāg apaśyann iyattāṁ</l>
-       <l n="b">dhatte māndhātr̥-sainya-vyatikara-cakito dhyāna-tandrīm mahendraḥ<g type="danda">.</g></l>
+       <l n="b">dhatte māndhātr̥-sainya-vyatikara-cakito dhyāna-tandrīm mahendraḥ<g ref="sym:bar" type="punctuation">.</g></l>
        <l n="c"><lb n="20"/>tāsām apy āhavecchā-pulakita-vapuṣām vāhinīnām vidhātuṁ<!-- 
    amwb : here anusvāra seems to be noted by a single point and not by a circle see photo dhātuṁ l20.png
    argr: are you sure there is an anuvāra? the edition states that the reading is m to be normalized as ṁ
    amwb : all the m followed by sa in the plate are noted by an anusvāra and here I don't see msa but tuṁ + sa
 --></l>
-       <l n="d">sāhāyyaṁ yasya vāhvor nikhila-ripu-kula-dhvaṁsinor nā<lb n="21" break="no"/>vakāśaḥ<g type="ddandaStrokeLeft">.</g></l>
+       <l n="d">sāhāyyaṁ yasya vāhvor nikhila-ripu-kula-dhvaṁsinor nā<lb n="21" break="no"/>vakāśaḥ<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l>
 </lg>
 <lg n="12" met="sragdharā">
        <l n="a">bhojair matsyaiḥ sa-madraiḥ kuru-yadu-yavanāvanti-gandhāra-kīrair</l>
-       <l n="b">bhūpair vyālola-mauli-praṇati-pariṇataiḥ<lb n="22"/>sādhu saṅgīryamānaḥ<g type="danda">.</g></l>
+       <l n="b">bhūpair vyālola-mauli-praṇati-pariṇataiḥ<lb n="22"/>sādhu saṅgīryamānaḥ<g ref="sym:bar" type="punctuation">.</g></l>
        <l n="c">hr̥ṣyat-pañcāla-vr̥ddhoddhr̥ta-kanakamaya-svābhiṣekoda-kumbho</l>
-       <l n="d">dattaḥ śrī-k<choice><sic>a</sic><corr>ā</corr></choice>nyakuvjas sa-lalita-ca<lb break="no" n="23"/>lita-bhrū-latā-lakṣma yena<g type="ddandaStrokeLeft">.</g></l>
+       <l n="d">dattaḥ śrī-k<choice><sic>a</sic><corr>ā</corr></choice>nyakuvjas sa-lalita-ca<lb break="no" n="23"/>lita-bhrū-latā-lakṣma yena<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l>
 </lg>
 <lg n="13" met="śārdūlavikrīḍita">
         <l n="a">gopaiḥ sīmni vanecarair vana-bhuvi grāmopakaṇṭhe janaiḥ</l>
         <l n="b">krīḍadbhi<supplied reason="omitted">ḥ</supplied> praticatvaraṁ śiśu-gaṇaiḥ<lb n="24"/>pratyāpaṇa<unclear>m</unclear><!-- 
 amwb : totally lost for me 
 argr: I can recognize vestiges of both consonants in the ligature mma, but neither is perfectly clear, so I'd edited <unclear> also on the m of māna
---> māna<choice><sic>p</sic><corr>v</corr></choice>aiḥ<g type="danda">.</g></l>
+--> māna<choice><sic>p</sic><corr>v</corr></choice>aiḥ<g ref="sym:bar" type="punctuation">.</g></l>
         <l n="c">līlā-veśmani pañjarodara-śukair udgītam ātma-stavaṁ</l>
-        <l n="d">yasyākarṇṇayatas trapāvivalitānamraṁ sa<lb n="25" break="no"/>daivānanaM<g type="ddandaStrokeLeft">.</g></l>
+        <l n="d">yasyākarṇṇayatas trapāvivalitānamraṁ sa<lb n="25" break="no"/>daivānanaM<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l>
 </lg>
-<p>sa khalu bhāgīrathīpatha-pravarttamāna-nānāvidha-nau-vāṭaka-sampādita-setu-vandha-nihita-śaila-śi<lb
-n="26" break="no"/>khara-śreṇi-vibhramāTN<!-- argr: instead of t  in <sic> and n in <corr>, it should be T and N 
+<p>sa khalu bhāgīrathīpatha-pravarttamāna-nānāvidha-nau-vāṭaka-sampādita-setu-vandha-nihita-śaila-śi<lb n="26" break="no"/>khara-śreṇi-vibhramāTN<!-- argr: instead of t  in <sic> and n in <corr>, it should be T and N 
 amwb : I replaced <choice><sic>t</sic><corr>n</corr></choice> by TN but I'm not sure if it was what you suggested
---> niratiśaya-ghana-ghanāghana-ghaṭā-śyāmāyamāna-vāsara-lakṣmī-samāravdha-santata-jalada-sa<lb
-n="27" break="no"/>maya-sandehāT<!-- argr: in prose context, as here, I do not favor such "corrections" which affect a feature that is typical of Sanskrit prose, namely the non application of sandhi rules, which are not mandatory even for classical grammarians, as far as I know — and the final consonant should be transliterated as T instead of t, so let us encode -sandehāT Udīcīnāneka- 
+--> niratiśaya-ghana-ghanāghana-ghaṭā-śyāmāyamāna-vāsara-lakṣmī-samāravdha-santata-jalada-sa<lb n="27" break="no"/>maya-sandehāT<!-- argr: in prose context, as here, I do not favor such "corrections" which affect a feature that is typical of Sanskrit prose, namely the non application of sandhi rules, which are not mandatory even for classical grammarians, as far as I know — and the final consonant should be transliterated as T instead of t, so let us encode -sandehāT Udīcīnāneka- 
 amwb : all the corrections reproduced K's edition
---> Udīcīnāneka-narapati-prābhr̥tī-kr̥tāprameya-haya-vāhinī-khara-khurotkhāta-dhūlī-dhūsarita-di<lb
-n="28" break="no"/>g-antarālāT parameśvara-sevā-samāyāta-samasta-jamvūdvīpa-bhūpālānanta-pādāta-bhara-namad-avaneḥ pāṭalipu<lb
-n="29" break="no"/>tra-samāvāsita-śrīmaj-jayaskandhāvārāT @@@@@paramasaugato mahārājādhirāja-śrī-gopāladeva-pādānudhyātaḥ pa<lb
-n="30" break="no"/>rameśvaraḥ paramabhaṭṭārako mahārājādhirājaḥ śrīmāN<!-- 
+--> Udīcīnāneka-narapati-prābhr̥tī-kr̥tāprameya-haya-vāhinī-khara-khurotkhāta-dhūlī-dhūsarita-di<lb n="28" break="no"/>g-antarālāT parameśvara-sevā-samāyāta-samasta-jamvūdvīpa-bhūpālānanta-pādāta-bhara-namad-avaneḥ pāṭalipu<lb n="29" break="no"/>tra-samāvāsita-śrīmaj-jayaskandhāvārāT @@@@@paramasaugato mahārājādhirāja-śrī-gopāladeva-pādānudhyātaḥ pa<lb n="30" break="no"/>rameśvaraḥ paramabhaṭṭārako mahārājādhirājaḥ śrīmāN<!-- 
 amwb Here the glyph is really different see photo śrīmāN l30.png
---> dharmmapāladevaḥ kuśalī<g type="ddanda">.</g><!-- amwb : the same shape as other double dandas --> śrī-puṇḍravarddhana-bhu<lb
-n="31" break="no"/>kty-antaḥpāti-vyāghrataṭī-maṇḍala-sam<choice><orig>v</orig><reg>b</reg></choice>addha-mahantāprakāśavi<choice><sic>ś</sic><corr>ṣ</corr></choice>aye krauñcaśvabhra-nāma-grāmo '!sya<!-- 
+--> dharmmapāladevaḥ kuśalī<g ref="sym:doubleBar" type="punctuation">.</g><!-- amwb : the same shape as other double dandas --> śrī-puṇḍravarddhana-bhu<lb n="31" break="no"/>kty-antaḥpāti-vyāghrataṭī-maṇḍala-sam<choice><orig>v</orig><reg>b</reg></choice>addha-mahantāprakāśavi<choice><sic>ś</sic><corr>ṣ</corr></choice>aye krauñcaśvabhra-nāma-grāmo '!sya<!-- 
 amwb : the avagraha is original see photo mo avagraha sya l31.png
 --> ca sīm<subst><del rend="corrected">o</del><add place="overstrike">ā</add></subst><!-- 
 amwb : caution here. Kielhorn tells in note that simo was originally engraved . For the moment, I have encoded this information according to the §4.4.3 od EDG with mo as something deleted by the scribe and mā as something added over (sī<del rend="corrected">mo</del><add place="overstrike">mā</add>) but we need to check the plate to exactly encode how mo is corrected into mā
 amwb : after reading §4.4.1 et 4.4.3 EGD, it seems to me that the o could be cross-hatched and the mark of long a is already present when one wants to write a o so I follows the example given in 4.4.3D 
---> pāści<lb
-n="32" break="no"/>mena gaṅginikā<g type="danda">.</g><!-- 
+--> pāści<lb n="32" break="no"/>mena gaṅginikā<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l32.png
---> Uttareṇa kādam<choice><orig>v</orig><reg>b</reg></choice>arī-devakulikā kharjjūra-vr̥kṣaś ca<g type="danda">.</g><!-- 
+--> Uttareṇa kādam<choice><orig>v</orig><reg>b</reg></choice>arī-devakulikā kharjjūra-vr̥kṣaś ca<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l32 bis.png
---> pūrvvottareṇa rājaputtra-devaṭakr̥tāliḥ<g type="danda">.</g> <choice><orig>v</orig><reg>b</reg></choice>ī<!-- 
+--> pūrvvottareṇa rājaputtra-devaṭakr̥tāliḥ<g ref="sym:bar" type="punctuation">.</g> <choice><orig>v</orig><reg>b</reg></choice>ī<!-- 
 amwb : here Kielhorn does not regularise bīja ? I regularise as recommended in EGD app F table 10 
---><lb
-n="33"/>japūrakaṅ gatvā praviṣṭā<g type="danda">.</g><!-- 
+--><lb n="33"/>japūrakaṅ gatvā praviṣṭā<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l33.png
 --> pūrvveṇa viṭakāliḥ khātaka-yānikāṁ*<!-- 
 amwb : kielhorn notes yānikā<unclear>ṁ</unclear> but here the anusvāra is clear; actually due to the above-akṣara (v.r), the sribe did not form a complete circle but only a semicircle see photo anusvāra semicircle l33.png; So I have encoded it as mentionned in §3.3.11 of the Translitteration Guide
---> gatvā praviṣṭā<g type="danda">.</g><!-- 
+--> gatvā praviṣṭā<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l33 bis.png
 --> jam<choice><orig>v</orig><reg>b</reg></choice>ū-yānikām ākramya jam<choice><orig>v</orig><reg>b</reg></choice>ū-yānaka<supplied reason="omitted">ṁ</supplied><!-- 
 amwb : Kielhorn notes <unclear>ṁ</unclear> but I think there is no anusvāra So I modify the edition and add this in app
---><pb
-
-
-n="1v"/><lb
-n="34"/>gatā<g type="danda">.</g><!-- 
+--><pb n="1v"/><lb n="34"/>gatā<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : th shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l34.png
 --> tato <choice><sic>ni</sic><corr>niḥ</corr></choice>sr̥tya<!-- 
 amwb : Kielhorn tells here that some corrections no doubt are necessary in the following lines but he doesn't understand the texte properly
 --> puṇyārāma<space unit="character" quantity="18"/><!-- 
 amwb : the space is due to the attachment point of the seal. I have created an issue on this question and I'm waiting the answer to encode this correctly. I have suggested type="sealattachmentpoint" 
--->-<choice><orig>v</orig><reg>b</reg></choice>ilvārddha<choice><sic>śro</sic><corr>sro</corr></choice>tikā<unclear cert="low">ṁ</unclear> <g type="danda">.</g><!-- 
+-->-<choice><orig>v</orig><reg>b</reg></choice>ilvārddha<choice><sic>śro</sic><corr>sro</corr></choice>tikā<unclear cert="low">ṁ</unclear> <g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : danda with a regular shape
---> tato 'pi <choice><sic>ni</sic><corr>niḥ</corr></choice>sr̥tya na<lb
-n="35" break="no"/>lacarmma<unclear>ṭ-o</unclear>tta<!-- 
+--> tato 'pi <choice><sic>ni</sic><corr>niḥ</corr></choice>sr̥tya na<lb n="35" break="no"/>lacarmma<unclear>ṭ-o</unclear>tta<!-- 
 amwb : from my reading of the facsimile I am not sure that it is written tta I have compared with other double tt and it seems to me it would be written varānta
 -->rāntaṁ<!-- 
 amwb : I have removed the danda noted by Kielhorn because there is no trace of a single danda
@@ -279,101 +264,79 @@ amwb : I have removed the danda noted by Kielhorn because there is no trace of a
 amwb : the space is due to the attachment point of the seal. I have created an issue on this question and I'm waiting the answer to encode this correctly. I have suggested type="sealattachmentpoint" 
 -->ṭāT<!-- 
 amwb : here one can observe a sandhi break => actually it is a symbol for T 
---> dakṣiṇena nāmuṇḍikāpi<unclear>he</unclear><lb
-n="36" break="no"/><unclear cert="low">sadūmmi</unclear>kāyāḥ<g type="danda">.</g><!-- 
+--> dakṣiṇena nāmuṇḍikāpi<unclear>he</unclear><lb n="36" break="no"/><unclear cert="low">sadūmmi</unclear>kāyāḥ<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l36.png
 --> khaṇḍamuṇḍamukhaṁ khaṇḍamukhā<!-- 
 amwb : in the file Post-Gupta-Bengal-around.txt the text is khaṇḍamukhā[d] ; from the reading of the plate based on the facsimile there is no d so it should be a suggested correction but I don't know by whom
---> vedasa<choice><orig>v</orig><reg>b</reg></choice>ilvikā veda<choice><orig>v</orig><reg>b</reg></choice>ilvikāto rohitavāṭiḥ piṇḍāraviṭijoṭikā-sīmā<lb
-n="37"/>U<unclear>kt</unclear>ārajoṭasya dakṣiṇāntaḥ<!-- 
+--> vedasa<choice><orig>v</orig><reg>b</reg></choice>ilvikā veda<choice><orig>v</orig><reg>b</reg></choice>ilvikāto rohitavāṭiḥ piṇḍāraviṭijoṭikā-sīmā<lb n="37"/>U<unclear>kt</unclear>ārajoṭasya dakṣiṇāntaḥ<!-- 
 amwb : Kielhorn tells in note that it might possibly be read dakṣiṇāntaṁ  => it looks like a visarga not a anusvāra
---> grāma-<choice><orig>v</orig><reg>b</reg></choice>ilvasya ca dakṣiṇāntaḥ<g type="danda">.</g><!-- 
+--> grāma-<choice><orig>v</orig><reg>b</reg></choice>ilvasya ca dakṣiṇāntaḥ<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : Kielhorn tells in note that it might possibly be read dakṣiṇāntaṁ => it looks like a visarga not a anusvāra
---> devikā-sīmā viṭi<g type="danda">.</g><!-- 
+--> devikā-sīmā viṭi<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l37.png
---> dharmmāyo-joṭikā<g type="danda">.</g><!-- 
+--> dharmmāyo-joṭikā<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l37 bis.png
 --> Evam māḍhāśāmmalī<!-- 
 amwb . in the file Post-Gupta-Bengal-around.txt, the alternative reading (or ˚śālmalī) is suggested it would be an interested correction. In all the case, I read śāmmalī on the facsimile
---> nā<lb
-n="38" break="no"/>ma grāmaḥ<supplied reason="subaudible">.</supplied> Asya cottareṇa gaṅginikā sīmā tataḥ pūrvveṇārdha<choice><sic>śro</sic><corr>sro</corr></choice>tikayā Āmrayānakolarddhayānika<choice><sic>ṅ</sic><corr>ṁ</corr></choice> gataḥ ta<lb
-n="39" break="no"/>to 'pi dakṣiṇena kālikāśvabhraḥ<g type="danda">.</g><!-- 
+--> nā<lb n="38" break="no"/>ma grāmaḥ<supplied reason="subaudible">.</supplied> Asya cottareṇa gaṅginikā sīmā tataḥ pūrvveṇārdha<choice><sic>śro</sic><corr>sro</corr></choice>tikayā Āmrayānakolarddhayānika<choice><sic>ṅ</sic><corr>ṁ</corr></choice> gataḥ ta<lb n="39" break="no"/>to 'pi dakṣiṇena kālikāśvabhraḥ<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : danda with a regular shape
---> Ato 'pi nisr̥tya śrī-phala<unclear>bh</unclear>iṣ<unclear>u</unclear>kaṁ yāvat paścimena tato 'pi <choice><orig>v</orig><reg>b</reg></choice>ilvaṅgorddha<choice><sic>śro</sic><corr>sro</corr></choice>ti<lb
-n="40" break="no"/>kayā gaṅginikāṁ praviṣṭā<g type="danda">.</g><!-- 
+--> Ato 'pi nisr̥tya śrī-phala<unclear>bh</unclear>iṣ<unclear>u</unclear>kaṁ yāvat paścimena tato 'pi <choice><orig>v</orig><reg>b</reg></choice>ilvaṅgorddha<choice><sic>śro</sic><corr>sro</corr></choice>ti<lb n="40" break="no"/>kayā gaṅginikāṁ praviṣṭā<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l40.png
---> pālitake sīmā dakṣiṇena kāṇā dvīpikā<g type="danda">.</g><!-- 
+--> pālitake sīmā dakṣiṇena kāṇā dvīpikā<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : danda with a regular shape
---> pūrvveṇa koṇṭhiyā srotaḥ<supplied reason="subaudible">.</supplied> Uttareṇa<lb
-n="41"/>gaṅginikā<g type="danda">.</g><!-- 
+--> pūrvveṇa koṇṭhiyā srotaḥ<supplied reason="subaudible">.</supplied> Uttareṇa<lb n="41"/>gaṅginikā<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l41.png
---> paścimena jenandāyikā<g type="danda">.</g><!-- 
+--> paścimena jenandāyikā<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l41 bis.png
 --> Etad-grāma-saṁ<!-- 
 amwb : Kielhorn reads saṁ but for me it looks like saḥ ; there is a circle at the right of the akṣara sa and below the circle another glyph which is not a second circle. The shape is exactly the same as the two dakṣiṇāntaḥ or dakṣiṇāntaṁ line 37. See photo saṁpā or saḥpā l42.png
 -->pārīṇa-parakarmmakr̥<choice><sic>d</sic><corr>d-d</corr></choice><!-- 
 amwb : the facsimile is not very legible at this place but it is possible to read ddvī see photo karmmakṛdvī or ddvī l41.png
--->vīpaḥ<g type="danda">.</g><!-- 
+-->vīpaḥ<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l41 ter.png
---> sthālīkkaṭaviṣaya<lb
-n="42" break="no"/>sam<choice><orig>v</orig><reg>b</reg></choice>addhāmraṣaṇḍikāmaṇḍalāntaḥpāti-gopippalī-grāmasya sīmāḥ<g type="danda">.</g><!-- 
+--> sthālīkkaṭaviṣaya<lb n="42" break="no"/>sam<choice><orig>v</orig><reg>b</reg></choice>addhāmraṣaṇḍikāmaṇḍalāntaḥpāti-gopippalī-grāmasya sīmāḥ<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb . a danda with a regular shape
---> pūrvve<choice><sic>ṇa U</sic><corr>ṇo</corr></choice>dragrāma-maṇḍala-paścima-sīmā<g type="danda">.</g><!-- 
+--> pūrvve<choice><sic>ṇa U</sic><corr>ṇo</corr></choice>dragrāma-maṇḍala-paścima-sīmā<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : a danda with a regular shape 
---> dakṣi<lb
-n="43" break="no"/>ṇena jolakaḥ<supplied reason="subaudible">.</supplied> paścimena vesānikākhyā khāṭikā<g type="danda">.</g><!-- 
+--> dakṣi<lb n="43" break="no"/>ṇena jolakaḥ<supplied reason="subaudible">.</supplied> paścimena vesānikākhyā khāṭikā<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : regular shape with a little tail at the bottom see photo danda tail l43.png
---> Uttareṇodragrāma-maṇḍala-sīmā-vyavasthito go-mārgaḥ<g type="danda">.</g><!-- 
+--> Uttareṇodragrāma-maṇḍala-sīmā-vyavasthito go-mārgaḥ<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo rgaḥ danda l43.png
---> eṣu ca<lb
-n="44" break="no"/>tu<choice><sic>ruṣu</sic><corr>rṣu</corr></choice> grāmeṣu samupagatāN sarvvān eva rāja-rājānaka-rājaputra-rājāmātya-senāpati-viṣayapati-bhogapati-ṣaṣṭhādhi<!-- 
+--> eṣu ca<lb n="44" break="no"/>tu<choice><sic>ruṣu</sic><corr>rṣu</corr></choice> grāmeṣu samupagatāN sarvvān eva rāja-rājānaka-rājaputra-rājāmātya-senāpati-viṣayapati-bhogapati-ṣaṣṭhādhi<!-- 
 amwb in the file Post-Gupta-Bengal-around.txt, it is written ṣaṣṭhādi but on the facsimile it is dhi without doubt
---><lb
-n="45" break="no"/>kr̥ta-daṇḍaśakti-dāṇḍapāśika-cauroddharaṇika-daussādhasādhanika-dūta-khola-gamāgamikābhitvaramāṇa-hastyaśvagomahiṣyajā<lb
-n="46" break="no"/>vikādhyakṣa><!-- 
+--><lb n="45" break="no"/>kr̥ta-daṇḍaśakti-dāṇḍapāśika-cauroddharaṇika-daussādhasādhanika-dūta-khola-gamāgamikābhitvaramāṇa-hastyaśvagomahiṣyajā<lb n="46" break="no"/>vikādhyakṣa&gt;<!-- 
 amwb ; the facsimile is not very legible but I am not sure to read the kṣa in vikādhyakṣa, it is possible but just ka is also possible
--->-n<unclear>au</unclear>kādhyakṣa-<choice><orig>v</orig><reg>b</reg></choice>alādhyakṣa-tarika-śaulkika-gaulmika-tadāyuktaka-viniyuktakādi-rājapādopajīvino 'nyāṁś cākīrtti<lb
-n="47" break="no"/><choice><sic>tāN cā</sic><corr>tāṁś cā</corr></choice>ṭabhaṭajātīyāN yathākālādhyāsino jyeṣṭhakāyastha-mahāmahattara-mahattara-dāśagrāmikādi-viṣayavyavahāriṇaḥ<lb
-n="48"/>sa-karaṇāN prativāsinaḥ<!-- 
+-->-n<unclear>au</unclear>kādhyakṣa-<choice><orig>v</orig><reg>b</reg></choice>alādhyakṣa-tarika-śaulkika-gaulmika-tadāyuktaka-viniyuktakādi-rājapādopajīvino 'nyāṁś cākīrtti<lb n="47" break="no"/><choice><sic>tāN cā</sic><corr>tāṁś cā</corr></choice>ṭabhaṭajātīyāN yathākālādhyāsino jyeṣṭhakāyastha-mahāmahattara-mahattara-dāśagrāmikādi-viṣayavyavahāriṇaḥ<lb n="48"/>sa-karaṇāN prativāsinaḥ<!-- 
 amwb : here the glyph used is the same as the one for which there is an hesitation between ḥ or ṁ See the photo vāsinaḥ or vāsinaṁ l48.png and compare with line 41 saṁpārīṇa and the two dakṣiṇāntaṁ l37
---> kṣetrakarāṁś ca <choice><orig>v</orig><reg>b</reg></choice>rāhmaṇa-mānanā-pūrvvakaṁ yathārham mānayati <choice><orig>v</orig><reg>b</reg></choice>odhayati samājñāpayati ca<g type="danda">.</g></p><!-- 
+--> kṣetrakarāṁś ca <choice><orig>v</orig><reg>b</reg></choice>rāhmaṇa-mānanā-pūrvvakaṁ yathārham mānayati <choice><orig>v</orig><reg>b</reg></choice>odhayati samājñāpayati ca<g ref="sym:bar" type="punctuation">.</g></p><!-- 
 amwb : I can't say if the shape is regular or not because the facsimile is not very legible here
---><p> matam astu<lb
-n="49"/>bhavatāM<supplied reason="subaudible">.</supplied> mahāsāmantādhipati-śrī-nārāyaṇavarmmaṇā dūtaka-yuvarāja-śrī-tribhuvanapāla-mukhena vayam eva<choice><orig>m</orig><reg>ṁ</reg></choice> vijñāpitāḥ yathā '!smā<!-- 
+--><p> matam astu<lb n="49"/>bhavatāM<supplied reason="subaudible">.</supplied> mahāsāmantādhipati-śrī-nārāyaṇavarmmaṇā dūtaka-yuvarāja-śrī-tribhuvanapāla-mukhena vayam eva<choice><orig>m</orig><reg>ṁ</reg></choice> vijñāpitāḥ yathā '!smā<!-- 
 amwb : Kielhorn reports an avagraha yathā 'smā ; indeed in the facsimile I see an avagraha with the same shape as the other one seen in this plate ; However I am not sure to read yathā see photo yathā avagraha smā l49 ?.png 
---><lb
-n="50" break="no"/>bhir mmātā-pitror ātmanaś ca puṇyābhivr̥ddhaye śubha sthalyāN devakulaṅ kārita<choice><sic>t</sic><corr>n</corr></choice> tatra pratiṣṭhāpita-bhagavan-n<unclear>u</unclear>nna-nārāyaṇa-bhaṭṭārakāya tatpra<lb
-n="51" break="no"/>tipālaka-lāṭadvija-devārccakādi-pādamūla-sametāya pūjopasthānādi-karmmaṇe caturo grāmāN Atratya-haṭṭikā-talapāṭaka<lb
-n="52" break="no"/>-sametān dadātu deva Iti<g type="danda">.</g><!-- 
+--><lb n="50" break="no"/>bhir mmātā-pitror ātmanaś ca puṇyābhivr̥ddhaye śubha sthalyāN devakulaṅ kārita<choice><sic>t</sic><corr>n</corr></choice> tatra pratiṣṭhāpita-bhagavan-n<unclear>u</unclear>nna-nārāyaṇa-bhaṭṭārakāya tatpra<lb n="51" break="no"/>tipālaka-lāṭadvija-devārccakādi-pādamūla-sametāya pūjopasthānādi-karmmaṇe caturo grāmāN Atratya-haṭṭikā-talapāṭaka<lb n="52" break="no"/>-sametān dadātu deva Iti<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : danda with the other shape see photo Iti danda l52.png
 --> tato '!smābhis<!-- 
 amwb : the avagraha is original see photo tato avagraha smā l52.png
---> tadīya-vijña<choice><sic>ptyā Ete</sic><corr>ptyaita</corr></choice> Upari-likhitakāś catvāro grāmās talapāṭaka-haṭṭikā-sametāḥ sva<lb
-n="53" break="no"/>-sīmā-paryantāḥ soddeśāḥ sadaśāpacār<choice><sic>āḥ</sic><corr>ā</corr></choice> Akiṁcitpragrāhyāḥ<del rend="strikeout"><g type="danda">.</g></del><!-- 
+--> tadīya-vijña<choice><sic>ptyā Ete</sic><corr>ptyaita</corr></choice> Upari-likhitakāś catvāro grāmās talapāṭaka-haṭṭikā-sametāḥ sva<lb n="53" break="no"/>-sīmā-paryantāḥ soddeśāḥ sadaśāpacār<choice><sic>āḥ</sic><corr>ā</corr></choice> Akiṁcitpragrāhyāḥ<del rend="strikeout"><g ref="sym:bar" type="punctuation">.</g></del><!-- 
 amwb the addition of the tag del is the consequence of the note 7 of Kielhorn; Maybe remove this del because I only see the danda... see photo hyāḥ dandastrikeout? pa l53.png
---> parihr̥ta-sarvvapīḍ<choice><sic>āḥ</sic><corr>ā</corr></choice> bhūmicchidra-nyāyena candrārka-kṣiti-samakālaṁ<lb
-n="54"/>tathaiva prati<choice><sic>ṣṭhāpitāḥ</sic><corr>pāditāḥ</corr></choice><g type="danda">.</g><!-- 
+--> parihr̥ta-sarvvapīḍ<choice><sic>āḥ</sic><corr>ā</corr></choice> bhūmicchidra-nyāyena candrārka-kṣiti-samakālaṁ<lb n="54"/>tathaiva prati<choice><sic>ṣṭhāpitāḥ</sic><corr>pāditāḥ</corr></choice><g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb regular shape
---> yato bhavadbhis sarvvair eva bhūmer ddāna-phala-gauravād apaharaṇe ca mahānarakapāt-ādi-bhayād dānam idam anumo<lb
-n="55" break="no"/>dya paripālanīyaM<g type="danda">.</g><!-- 
+--> yato bhavadbhis sarvvair eva bhūmer ddāna-phala-gauravād apaharaṇe ca mahānarakapāt-ādi-bhayād dānam idam anumo<lb n="55" break="no"/>dya paripālanīyaM<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb the same shape as before for M and regular shape for danda see photo M danda l55.png
---> prativāsibhiḥ kṣetrakaraiś cājñāśravaṇa-vidheyair bhūtvā samucita-kara-piṇḍakādi-sarvvapratyāyopanayaḥ kārya<lb
-n="56"/>Iti<g type="ddanda">.</g></p><!-- 
+--> prativāsibhiḥ kṣetrakaraiś cājñāśravaṇa-vidheyair bhūtvā samucita-kara-piṇḍakādi-sarvvapratyāyopanayaḥ kārya<lb n="56"/>Iti<g ref="sym:doubleBar" type="punctuation">.</g></p><!-- 
 amwb . the first danda looks like ra and the second is a simple vertical line as the double danda on the obverse
 -->
 <lg n="14" met="anuṣṭubh">
     <l n="a"><choice><orig>v</orig><reg>b</reg></choice>ahubhir vasudhā dattā</l>
     <l n="b">rājabhis sagarādibhiḥ</l>
     <l n="c">yasya yasya yadā bhūmis</l>
-    <l n="d">tasya tasya tadā phalaM<g type="danda">.</g><!-- 
+    <l n="d">tasya tasya tadā phalaM<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb the same shape as before for M and regular shape for danda see photo phalaM danda l56.png
 --></l>
 </lg><lg n="15" met="anuṣṭubh">
     <l n="a">ṣaṣṭim varṣa-sahasrāṇi</l>
-    <l n="b">svarge mo<lb
-n="57" break="no"/>dati bhūmi-daḥ</l>
+    <l n="b">svarge mo<lb n="57" break="no"/>dati bhūmi-daḥ</l>
     <l n="c">Ākṣeptā cānumantā ca</l>
-    <l n="d">tāny eva narake vaseT<g type="ddanda">.</g><!-- 
+    <l n="d">tāny eva narake vaseT<g ref="sym:doubleBar" type="punctuation">.</g><!-- 
 amwb here we really have a t with virāma  Photo T ddanda l57
  --></l>
 </lg>
@@ -383,8 +346,7 @@ amwb here we really have a t with virāma  Photo T ddanda l57
 amwb ; here I don't follow Kielhorn's edition and read N. I have added this change in app. See photo vasundharāN l57.png
 --></l>
     <l n="c">sa viṣṭhāyāṅ kr̥mir bhūtvā</l>
-    <l n="d">pitr̥<lb
-n="58" break="no"/>bhis saha pacyate<g type="ddanda">.</g><!-- 
+    <l n="d">pitr̥<lb n="58" break="no"/>bhis saha pacyate<g ref="sym:doubleBar" type="punctuation">.</g><!-- 
 amwb . the first danda looks like ra and the second is a simple vertical line as the double danda on the obverse
 --></l>
 </lg>
@@ -396,15 +358,14 @@ amwb : I am wondering why Kielhorn regularise amvu into ambu and does not for vi
 --></l>
     <l n="b">śriyam anucintya manuṣya-jīvitañ ca</l>
     <l n="c">sakalam idam udāhr̥tañ ca <choice><orig>vudhvā</orig><reg>buddhvā</reg></choice></l>
-    <l n="d">na hi puru<lb
-n="59" break="no"/>ṣaiḥ para-kīrttayo vilopyā<supplied reason="omitted">ḥ</supplied><g type="ddanda">.</g><!-- 
+    <l n="d">na hi puru<lb n="59" break="no"/>ṣaiḥ para-kīrttayo vilopyā<supplied reason="omitted">ḥ</supplied><g ref="sym:doubleBar" type="punctuation">.</g><!-- 
 amwb . the double danda is somewhat strange see photo vilopyā ddanda l59.png
 --></l>
 </lg>
 <lg n="18" met="śikharinī"><!--
 amwb : 17 morae
 -->
-    <l n="a">taḍit-tulyā lakṣmī<supplied reason="omitted">s</supplied> tanur api ca dīpānala-samā<surplus><g type="danda">.</g></surplus><!-- 
+    <l n="a">taḍit-tulyā lakṣmī<supplied reason="omitted">s</supplied> tanur api ca dīpānala-samā<surplus><g ref="sym:bar" type="punctuation">.</g></surplus><!-- 
 amwb . danda regular shape
     --></l>
     <l n="b">bhavo duḥkhaikāntaḥ<!-- 
@@ -412,26 +373,23 @@ amwb : it is possible to hesitate between duḥkhaikāntaḥ and duḥkhaikānta
 --> para-kr̥tim akīrtti<supplied reason="omitted">ḥ</supplied> kṣapayatāM<!-- 
 amwb : need to compare all M . See photo kṣapayatāM l59.png
 --></l>
-    <l n="c">yaśā<lb
-n="60" break="no"/><choice><orig>n</orig><reg>ṁ</reg></choice>sy ācandrārkka<supplied reason="omitted">ṁ</supplied> niyatam avatām atra ca nṛpāḥ</l>
+    <l n="c">yaśā<lb n="60" break="no"/><choice><orig>n</orig><reg>ṁ</reg></choice>sy ācandrārkka<supplied reason="omitted">ṁ</supplied> niyatam avatām atra ca nṛpāḥ</l>
     <l n="d">ka<choice><sic>v</sic><corr>r</corr></choice>iṣyante<!--
 amwb ; Here I don't follow Kielhorn's edition I read kaviṣyante. So I add this modification in the apparatus. See photo ka<choice><sic>v</sic><corr>r</corr></choice>iṣyante l60.png
-    --> <choice><orig>v</orig><reg>b</reg></choice>uddhvā yad abhirucitaṁ kim pravacanaiḥ<g type="ddanda">.</g></l>
+    --> <choice><orig>v</orig><reg>b</reg></choice>uddhvā yad abhirucitaṁ kim pravacanaiḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
-<p>Abhi<space type="defect"/>varddhamāna-vijayarājye<lb
-n="61"/>sa<choice><orig>m</orig><reg>ṁ</reg></choice>vaT<!-- 
+<p>Abhi<space type="defect"/>varddhamāna-vijayarājye<lb n="61"/>sa<choice><orig>m</orig><reg>ṁ</reg></choice>vaT<!-- 
 amwb : see photo samvaT l61.png
---> <num value="32">32</num> mārga-din<choice><sic>āni</sic><corr>e</corr></choice> <num value="12">12</num><g type="ddanda">.</g> <gap reason="illegible" unit="character" quantity="5"/></p><!-- 
+--> <num value="32">32</num> mārga-din<choice><sic>āni</sic><corr>e</corr></choice> <num value="12">12</num><g ref="sym:doubleBar" type="punctuation">.</g> <gap reason="illegible" unit="character" quantity="5"/></p><!-- 
 amwb : here there is a big space since the last line is written at the bottom of the plate. I need to search how encoding this in theEGD
 -->
 <lg n="19" met="anuṣṭubh">
-    <l n="a"><lb
-n="62"/>śrī-bhogaṭasya pautreṇa</l>
-    <l n="b">śrīmat-subhaṭasūnunā<g type="danda">.</g><!-- 
+    <l n="a"><lb n="62"/>śrī-bhogaṭasya pautreṇa</l>
+    <l n="b">śrīmat-subhaṭasūnunā<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb ; danda with regular shape 
 --></l>
     <l n="c">śrīmatā tātaṭeneda<choice><orig>ṁ</orig><reg>m</reg></choice></l>
-    <l n="d">Utkīrṇaṁ guṇaśālinā<g type="ddanda">.</g><!-- 
+    <l n="d">Utkīrṇaṁ guṇaśālinā<g ref="sym:doubleBar" type="punctuation">.</g><!-- 
 amwb : here the double danda has another shape: the first danda looks like J see photo 
  --></l>
 </lg>
@@ -439,13 +397,13 @@ amwb : here the double danda has another shape: the first danda looks like J see
          <div type="apparatus">
                <listApp>
 	<app loc="1">
-                     <lem><g type="spiraL"/></lem>
+                     <lem><g ref="sym:spiral-left" type="symbol">*</g></lem>
                      <rdg source="bib:Kielhorn1896-1897_03">Oṁ</rdg>
 	      <note>Kielhorn notes that what he interprets as <foreign>Oṁ</foreign> is expressed by a symbol.</note>
                   </app>
 
                   <app loc="2">
-                     <lem>°lambhāḥ<unclear><g type="danda">.</g></unclear></lem>
+                     <lem>°lambhāḥ<unclear><g ref="sym:bar" type="punctuation">.</g></unclear></lem>
                      <!--<rdg source="bib:Kielhorn1896-1897_03">°lambhāḥ<g type="danda">.</g></rdg>-->
 		<note>Correct <foreign>°labdhāḥ</foreign>?</note>
                   </app>
@@ -486,7 +444,7 @@ amwb : here the double danda has another shape: the first danda looks like J see
                    </app>
                    <app loc="35">
                        <lem>°rāntaṁ</lem>
-                       <rdg source="bib:Kielhorn1896-1897_03">°rāntaṁ<g type="danda">.</g></rdg>
+                       <rdg source="bib:Kielhorn1896-1897_03">°rāntaṁ<g ref="sym:bar" type="punctuation">.</g></rdg>
                    </app>
                    <app loc="57">
                        <lem>vasundharāN</lem>

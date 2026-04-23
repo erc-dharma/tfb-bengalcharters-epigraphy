@@ -66,11 +66,11 @@ amwb : replaced IN00044 by dharma file name
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary></summary>
+						<summary/>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>			
@@ -102,17 +102,13 @@ amwb : replaced IN00044 by dharma file name
 	<text xml:space="preserve">
 		<body>
 			<div type="edition" xml:lang="san-Latn">
-<p><pb 
-
-n="1r"/><lb 
-n="1"/><supplied reason="lost">saṁ</supplied> <num value="163"><supplied reason="lost">100</supplied> <supplied reason="lost">60</supplied> <unclear>3</unclear></num> Āṣāḍha <abbr>di</abbr><!-- 
+<p><pb n="1r"/><lb n="1"/><supplied reason="lost">saṁ</supplied> <num value="163"><supplied reason="lost">100</supplied> <supplied reason="lost">60</supplied> <unclear>3</unclear></num> Āṣāḍha <abbr>di</abbr><!-- 
 amwb : added the tag abbr
 amwb : removed Daba's reading : <unclear reason="illegible">saṁ</unclear> <num value="163"><unclear reason="illegible">100</unclear> <unclear>60</unclear> 3</num> 
 --> <num value="13">10 3</num> parama-daivata-parama-bhaṭṭ<unclear>ā</unclear>raka-mahārājādhirāja-śrī-budhagupte <unclear>pr̥thi</unclear>vī-patau tat-pāda-<unclear>pa</unclear>rigr̥hīte puṇḍra<unclear>va</unclear><!-- 
 amwb : I removed Daba's reading for -bhaṭṭā<unclear>ra</unclear>ka- and replaced it by -bhaṭṭ<unclear>ā</unclear>raka
 amwb : Removed Daba's reading pāda-<unclear>pari</unclear>gr̥hīte and replaced it by da-<unclear>pa</unclear>rigr̥hī
---><lb 
-n="2" break="no"/><supplied reason="lost">rddhana</supplied>-bhuktāv uparika-mahārāja-brahmadatte saṁvyavaharati<supplied reason="omitted">.</supplied><!-- 
+--><lb n="2" break="no"/><supplied reason="lost">rddhana</supplied>-bhuktāv uparika-mahārāja-brahmadatte saṁvyavaharati<supplied reason="omitted">.</supplied><!-- 
 daba: The numeral may be marked up with a list of possible values. 
 --><!-- 
 daba: For the month, Bhandarkar prints aṣāḍha, which may be a typo. Agrawala prints āṣāḍha. Basak has आषाढ़, but the nuqta is clearly not meant to be a reflection of anything in the original plate. Lielukhine's etext had āṣāḍhāṁ, which may be an OCR error or Sircar's reading, which I haven't checked. 
@@ -124,8 +120,7 @@ amwb: I add a punctuation mark after saṁvyavaharati
 --></p>
 <p>svast<unclear>i</unclear><supplied reason="subaudible">.</supplied> palāśavr̥ndakāt sa-viśvāsaṁ mahattarādy-aṣṭakulādhi<unclear>ka</unclear><!-- 
 amwb : I added reason illegible for the unclear ka 
---><lb 
-n="3" break="no"/><supplied reason="lost">ra</supplied>ṇa<unclear>ṁ</unclear> grāmika-kuṭumvinaś ca caṇḍagrāmake brāhmaṇādyānna-kṣudra-prakr̥ti-kuṭumvinaḥ kuśalam uktvānudarśayanti <unclear>yathā</unclear><supplied reason="omitted">.</supplied></p>
+--><lb n="3" break="no"/><supplied reason="lost">ra</supplied>ṇa<unclear>ṁ</unclear> grāmika-kuṭumvinaś ca caṇḍagrāmake brāhmaṇādyānna-kṣudra-prakr̥ti-kuṭumvinaḥ kuśalam uktvānudarśayanti <unclear>yathā</unclear><supplied reason="omitted">.</supplied></p>
 <p> <!-- 
 daba: For the time being I follow Bhandarkar here. Basak reads caṇḍagrāmake brāhmaṇādy-ānna-kṣudra-prakr̥ti-kuṭumvinaḥ (so quoted by Bhandarkar; Basak's text is in Devanagari, so he may have meant brāhmaṇādyān na-kṣudra-prakr̥ti-kuṭumvinaḥ). This (especially if we can read or emend brāhmaṇādyān akṣudra°) sounds to me a lot more plausible than Bhandarkar's version, which he translates "inform the husbandmen of the village Caṇḍaka who are inferior Ryots and are presided over by the Brāhmaṇas" 
 --><!-- 
@@ -146,31 +141,22 @@ daba: For deyam etad-uttara in l11, Agrawala (and Basak and Sircar?) reads datta
 amwb : replaced daba's reading <unclear>ra</unclear>ṇa<unclear>ṁ</unclear> by <supplied reason="lost">ra</supplied>ṇa<unclear>ṁ</unclear>
 amwb : replaced daba's reading caṇḍagrāmaka- by caṇḍagrāmake
 amwb : replaced daba's reading brāhmaṇādhyakṣa-kṣudra- by brāhmaṇādyānna-kṣudra (of course, brāhmaṇādhyānna-kṣudra could be possible too)
---><lb 
-n="4"/><unclear>vi</unclear>jñāpayat<choice><sic>ī</sic><corr>i</corr></choice> no grāmika-nābhako 'ham icche mātā-pitros svapuṇyāpyāyanāya ka<choice><sic>d</sic><corr>t</corr></choice>icid brāhmaṇāryyān prativāsayituṁ <supplied reason="subaudible">.</supplied><lb 
-n="5"/><supplied reason="lost">tad a</supplied>rhatha grāmānukrama-vikraya-maryyādayā matto hiraṇyam upasaṁgr̥hya samudaya-bāhyāprada-khila-kṣetr<unclear>ā</unclear><supplied reason="lost">ṇāṁ</supplied>  <!-- 
+--><lb n="4"/><unclear>vi</unclear>jñāpayat<choice><sic>ī</sic><corr>i</corr></choice> no grāmika-nābhako 'ham icche mātā-pitros svapuṇyāpyāyanāya ka<choice><sic>d</sic><corr>t</corr></choice>icid brāhmaṇāryyān prativāsayituṁ <supplied reason="subaudible">.</supplied><lb n="5"/><supplied reason="lost">tad a</supplied>rhatha grāmānukrama-vikraya-maryyādayā matto hiraṇyam upasaṁgr̥hya samudaya-bāhyāprada-khila-kṣetr<unclear>ā</unclear><supplied reason="lost">ṇāṁ</supplied>  <!-- 
 amwb : replaced <unclear>tad a</unclear>rhatha by <supplied reason="lost">tad a</supplied>rhatha
 amwb : replaced khila-<unclear>kṣetrasya</unclear> by -khila-kṣetr<unclear>ā</unclear><supplied reason="lost">ṇāṁ</supplied>
---><lb 
-n="6"/><unclear>pra</unclear>sādaṁ karttum<choice><sic>a</sic><corr>i</corr></choice>ti<supplied reason="subaudible">.</supplied> yataḥ pustapāla-patradāsenāvadhāritaṁ yuktam anena vijñāpitam asty ayaṁ vikraya<!-- 
+--><lb n="6"/><unclear>pra</unclear>sādaṁ karttum<choice><sic>a</sic><corr>i</corr></choice>ti<supplied reason="subaudible">.</supplied> yataḥ pustapāla-patradāsenāvadhāritaṁ yuktam anena vijñāpitam asty ayaṁ vikraya<!-- 
 amwb : replaced karttum iti by karttum<choice><sic>a</sic><corr>i</corr></choice>ti
---><lb 
-n="7" break="no"/>-<unclear>ma</unclear>ryyādā-prasaṅgas tad dīyatām asya parama-bhaṭṭāraka-mahārāja-pā<unclear>dena</unclear> puṇyopacayāyeti<supplied reason="subaudible">.</supplied> punar asyaiva <!-- 
+--><lb n="7" break="no"/>-<unclear>ma</unclear>ryyādā-prasaṅgas tad dīyatām asya parama-bhaṭṭāraka-mahārāja-pā<unclear>dena</unclear> puṇyopacayāyeti<supplied reason="subaudible">.</supplied> punar asyaiva <!-- 
 amwb : I added unclear for ma the first syllabe of the line
 amwb : choose pā<unclear reason="illegible">dena</unclear> rather than daba's choice pā<unclear reason="illegible">dānāṁ</unclear>
---><lb 
-n="8"/><supplied reason="lost">patradā</supplied>sasyāvadhāraṇayāvadhr̥tya nābhaka-hastād dīnāra<add place="below">-dvaya</add>m upasaṁgr̥hya sthāyapāla-kapila-śrībhadrābhyām <choice><sic>āyakr̥<unclear>tya</unclear></sic><corr>āyīkr̥tya</corr></choice> ca samudaya-<!-- 
+--><lb n="8"/><supplied reason="lost">patradā</supplied>sasyāvadhāraṇayāvadhr̥tya nābhaka-hastād dīnāra<add place="below">-dvaya</add>m upasaṁgr̥hya sthāyapāla-kapila-śrībhadrābhyām <choice><sic>āyakr̥<unclear>tya</unclear></sic><corr>āyīkr̥tya</corr></choice> ca samudaya-<!-- 
 amwb : change the beginning according to the state of preservation of the plate 
 amwb : removed the unclear for dvaya because it is clear on the photos 
 amwb : replaced sthāṇavila by sthāyapāla
---><pb 
-
-n="1v"/><lb 
-n="9"/><supplied reason="lost">bāhyāprada-khi</supplied><unclear>la</unclear>-kṣetrasya kulya-vāpam ekam asya vāyigrāmakottara-pārśvasyaiva ca satya-marryā<unclear>dā</unclear>y<choice><sic>aḥ</sic><corr>ā</corr></choice> dakṣiṇa-paścima-pūrvveṇa <!-- 
+--><pb n="1v"/><lb n="9"/><supplied reason="lost">bāhyāprada-khi</supplied><unclear>la</unclear>-kṣetrasya kulya-vāpam ekam asya vāyigrāmakottara-pārśvasyaiva ca satya-marryā<unclear>dā</unclear>y<choice><sic>aḥ</sic><corr>ā</corr></choice> dakṣiṇa-paścima-pūrvveṇa <!-- 
 amwb : replaced the begining of the line by the actual state of preservation of the plate
 amwb : replaced maryyādāyā by marryādāyaḥ cf photos
---><lb 
-n="10"/><unclear>mahatta</unclear>rādy-adhikaraṇa-kuṭumvibhiḥ pratyavekṣyāṣṭaka-navaka-<surplus>navaka</surplus> <!-- 
+--><lb n="10"/><unclear>mahatta</unclear>rādy-adhikaraṇa-kuṭumvibhiḥ pratyavekṣyāṣṭaka-navaka-<surplus>navaka</surplus> <!-- 
 daba: This is probably dittography (due to eyeskip from ka); only one navaka in similar texts. 
 amwb : replaced maha<unclear>tta</unclear>rādy by the actual state of preservation of the plate 
 amwb : the two navaka are clear and I wrapped the second in surplus 
@@ -178,8 +164,7 @@ amwb : the two navaka are clear and I wrapped the second in surplus
 amwb : I added a c in apaviñcchya
 amwb : I replaced Daba's reading <unclear>kr̥ṣiṁ nocchin</unclear><choice><sic><unclear>dh</unclear></sic><corr>d</corr></choice><unclear>ya</unclear> ca 
 amwb : I replaced nābha<unclear reason="illegible">kāya</unclear>
---><lb 
-n="11"/><supplied reason="lost">dattaṁ tad-u</supplied>ttara-kālaṁ saṁvyavahāribhir ddharmmam avekṣya pratipālanīyam<supplied reason="subaudible">.</supplied> uktañ ca maharṣṣibhiḥ<supplied reason="subaudible">.</supplied><!-- 
+--><lb n="11"/><supplied reason="lost">dattaṁ tad-u</supplied>ttara-kālaṁ saṁvyavahāribhir ddharmmam avekṣya pratipālanīyam<supplied reason="subaudible">.</supplied> uktañ ca maharṣṣibhiḥ<supplied reason="subaudible">.</supplied><!-- 
 amwb : replaced <unclear>deyam etad-u</unclear>ttara by the actual state of preservation of the plate and according to the reading of previous editors
 amwb : removed <unclear reason="illegible">|</unclear> because there is no trace of danda on the plate
 -->
@@ -453,7 +438,7 @@ amwb : replaced <unclear reason="illegible">tadā</unclear> by the actual state 
 					<lem source="bib:Basak1919-1920_01 bib:Sircar1965_02 bib:Goyal1993_01">maharṣṣibhiḥ<supplied reason="subaudible">.</supplied></lem><!-- 
 					amwb : there is no trace of an original danda, see photo maharṣṣibhiḥ sva l11 no original danda.png
 					-->
-					<rdg source="bib:Pandey1962_01 bib:Balogh2019_03">maharṣṣibhiḥ<unclear><g type="ddanda">.</g></unclear></rdg>
+					<rdg source="bib:Pandey1962_01 bib:Balogh2019_03">maharṣṣibhiḥ<unclear><g ref="sym:doubleBar" type="punctuation">.</g></unclear></rdg>
 					<rdg source="bib:Bhandarkar1981_01">maha<choice><sic>rṣṣ</sic><corr>rṣ</corr></choice>ibhiḥ<supplied reason="subaudible">.</supplied></rdg>
 					<note>On the photos I have at my disposal, I don't see any <foreign>daṇḍa</foreign> trace. But we can supply it because of the respect of sandhi rule. </note>
 				</app>
@@ -468,8 +453,8 @@ amwb : replaced <unclear reason="illegible">tadā</unclear> by the actual state 
 					for me the plate stops after the aksara rāṁ I can not confirm the danda noted by Goyal, Pandey and Sircar
 					-->
 					<rdg source="bib:Basak1919-1920_01 bib:Bhandarkar1981_01">vasundharā<choice><sic>ṁ</sic><corr>m</corr></choice><supplied reason="subaudible">.</supplied></rdg>
-					<rdg source="bib:Pandey1962_01">vasundharāṁ <g type="ddanda">.</g></rdg>
-					<rdg source="bib:Sircar1965_02 bib:Goyal1993_01">vasundharā<choice><sic>ṁ</sic><corr>m</corr></choice> <g type="ddanda">.</g></rdg>
+					<rdg source="bib:Pandey1962_01">vasundharāṁ <g ref="sym:doubleBar" type="punctuation">.</g></rdg>
+					<rdg source="bib:Sircar1965_02 bib:Goyal1993_01">vasundharā<choice><sic>ṁ</sic><corr>m</corr></choice> <g ref="sym:doubleBar" type="punctuation">.</g></rdg>
 				</app>
 				<app loc="12">
 					<lem source="bib:Bhandarkar1981_01"><supplied reason="lost">sa viṣṭhā</supplied>yāṁ</lem>
