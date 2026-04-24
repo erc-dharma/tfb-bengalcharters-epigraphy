@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-04-24" status="draft">Encoding of symbol corrected.</change>
             <change who="part:ryfu" when="2026-01-14" status="draft">Encoding mistakes corrected.</change>
             <change who="part:ryfu" when="2025-08-01" status="draft">Translation corrected.</change>
             <change who="part:ryfu" when="2024-12-16" status="draft">A symbol modified.</change>
@@ -163,7 +164,7 @@
                      <l n="a">hata-sakala-vipakṣaḥ saṅgare vāhu-da<unclear>r</unclear>ppād</l>
                      <l n="b">anadhikr̥ta-viluptaṁ rā<choice><sic>t</sic><corr>j</corr></choice>yam āsādya pi<unclear>tr</unclear>ya<unclear>ṁ</unclear><g ref="sym:bar" type="punctuation">.</g></l>
                      <l n="c"><unclear>ni</unclear>hita-caraṇa-padmo bhū-bhujāṁ mūrddhni tasmād</l>
-                     <l n="d">abhavad a<lb n="20" break="no"/><unclear>va</unclear>ni-pālaḥ śrī-mahīpāla-devaḥ<space unit="character" quantity="1"/><g ref="sym:unclassified" type="symbol">*</g><!--CHECK SYMBOL encoding and content, <unclear> may need to be added--><space unit="character" quantity="1"/><g ref="sym:doubleBar" type="punctuation">.</g></l>
+                     <l n="d">abhavad a<lb n="20" break="no"/><unclear>va</unclear>ni-pālaḥ śrī-mahīpāla-devaḥ<space unit="character" quantity="1"/><unclear><g ref="sym:unclassified" type="symbol">*</g></unclear><space unit="character" quantity="1"/><g ref="sym:doubleBar" type="punctuation">.</g></l>
                  </lg>
                  <p>sa khalu bhāgīrathī-patha-pravarttamā<choice><sic>śva</sic><corr>na</corr></choice>-nānā-vidha-nau-vāṭaka-sampādita<lb n="21" break="no"/>-setu-vandha-nihita-śaila-śikhara-śreṇī-vibhramāt·<g ref="sym:bar" type="punctuation">.</g> niratiśaya-<unclear>gha</unclear>na-ghanāghana-ghaṭā-śyāmāyamāna-vāsara<lb n="22" break="no"/>-lakṣmī-samāravdha-santata-jalada-samaya-sandehāt·<g ref="sym:bar" type="punctuation">.</g> Udīcīnāneka-na<unclear>ra</unclear>-pati-prābhr̥tī-kr̥tāprameya-haya-vāhinī<lb n="23" break="no"/>-khara-khurotkhāta-dhūlī-dhūsarita-dig-antarālāt·<g ref="sym:bar" type="punctuation">.</g> parameśvara-sevā-samāyatāśeṣa-jamvūdvīpa-bhū-pālā<lb n="24" break="no"/>nanta-pādāta-bhara-namad-avaneḥ Indrāṇī-grāma-samāvāsita-śrīmaj-jaya-skandhāvārāt·
                  </p>
@@ -232,7 +233,7 @@
                    <app loc="17"><lem>bhrāntvā</lem><rdg source="bib:Furui2011_03">bhārntvā</rdg></app>
                    <app loc="18"><lem>jaḍatāṁ</lem><rdg source="bib:Furui2011_03">jaḍatā</rdg></app>
                    <app loc="19"><lem>-viluptaṁ</lem><rdg source="bib:Furui2011_03">viluptam</rdg></app>
-                   <app loc="20"><lem><g ref="sym:unclassified" type="symbol">*</g><!--CHECK SYMBOL encoding and content, <unclear> may need to be added--></lem><note>An indistinct symbol, looks like a small circle topped by a straight, vertical stroke.</note></app>
+                   <app loc="20"><lem><unclear><g ref="sym:unclassified" type="symbol">*</g></unclear></lem><note>An indistinct symbol, looks like a small circle topped by a straight, vertical stroke.</note></app>
                    <app loc="26"><lem>kuśalī<g ref="sym:doubleBar" type="punctuation">.</g></lem><rdg source="bib:Furui2011_03">kuśalī<g ref="sym:bar" type="punctuation">.</g></rdg></app>
                    <app loc="28"><lem>sam<unclear>ulluvī</unclear>-<unclear>kr̥</unclear>ta-</lem><rdg source="bib:Furui2011_03">sama<unclear cert="low">ktavī</unclear>-huta-</rdg></app>
                    <app loc="28"><lem>-<unclear>vr̥dhy-ā</unclear>ga<unclear>ta-tala</unclear>gam vihāya</lem><rdg source="bib:Furui2011_03">-<unclear>ku</unclear>kudhroge <unclear cert="low">talaya</unclear>-gamvi-hāsa-</rdg></app>
