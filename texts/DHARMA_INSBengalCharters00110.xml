@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Rangpur Plate of Mahīpāla I, year 5</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp>Editor</resp>
                     <!-- Work done in the file, e.g. editor ...-->
                     <persName ref="part:ryfu"><!-- Update the id -->
                         <forename>Ryosuke</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
