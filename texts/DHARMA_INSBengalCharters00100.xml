@@ -78,6 +78,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-17" status="draft">Encoding correction</change>
             <change who="part:ryfu" when="2026-05-17" status="draft">Text and Apparatus completed</change>
             <change who="part:ryfu" when="2026-05-16" status="draft">Initial encoding</change>
         </revisionDesc>
@@ -198,7 +199,7 @@
                  <l n="a">dattvā divya-bhuvaḥ prati-kṣiti-bhr̥tām urvvīm urīkurvvatā</l>
                  <l n="b">vīrāsr̥g-lipi-lāñchito ’sir amunā prāg eva pattrī-kr̥taḥ<g ref="sym:bar" type="punctuation">.</g></l>
                  <l n="c">netthaṁ cet· katham anyathā vasumatī bhoge vivādonmukhī</l>
-                 <l n="d">tatrākr̥ṣṭa-kr̥pāṇa-dhāriṇi gatā bha<g ref="sym:barCross" type="connector">§</g><lb n="19" break="no"/>ṅgaṁ dviṣāṁ santatiḥ<g ref="sym:doubleBar-serifed" type="punctuation">.</g></l>
+                 <l n="d">tatrākr̥ṣṭa-kr̥pāṇa-dhāriṇi gatā bha<g ref="sym:bar-crossed" type="connector">§</g><lb n="19" break="no"/>ṅgaṁ dviṣāṁ santatiḥ<g ref="sym:doubleBar-serifed" type="punctuation">.</g></l>
              </lg>
               <lg n="20" met="vasantatilakā">
                   <l n="a">tvaṁ nānya-vīra-vijayīti giraḥ kavīnāṁ</l>
@@ -208,13 +209,13 @@
               </lg>             
              <lg n="21" met="śārdūlavikrīḍita">
                  <l n="a">śūram manya Ivāsi nānya kim iha svaṁ rāghava ślāghase</l>
-                 <l n="b">spa<g ref="barCross" type="connector">§</g><lb n="20" break="no"/>rddhāṁ varddhana muñca vīra virato nādyāpi darppas tava<g ref="sym:bar" type="punctuation">.</g></l>
+                 <l n="b">spa<g ref="bar-crossed" type="connector">§</g><lb n="20" break="no"/>rddhāṁ varddhana muñca vīra virato nādyāpi darppas tava<g ref="sym:bar" type="punctuation">.</g></l>
                  <l n="c">Ity anyonyam ahar-nniśa-praṇayibhiḥ kolāhalaiḥ kṣmā-bhujāṁ</l>
                  <l n="d">yat·-kārā-gr̥ha-yāmikair nniyamito nidrāpanoda-klamaḥ<g ref="sym:doubleBar-serifed" type="punctuation">.</g></l>
              </lg>
              <lg n="22" met="vasantatilakā">
                  <l n="a">pāścatya-cakra-jaya-keliṣu yasya yāvad</l>
-                 <l n="b">gaṅgā-pravāham anudhāvati<g ref="sym:barCross" type="connector">§</g><lb n="21"/> nau-vitāne<g ref="sym:bar" type="punctuation">.</g></l>
+                 <l n="b">gaṅgā-pravāham anudhāvati<g ref="sym:bar-crossed" type="connector">§</g><lb n="21"/> nau-vitāne<g ref="sym:bar" type="punctuation">.</g></l>
                  <l n="c">bharggasya mauli-sarid-ambhasi bhasma-paṅka</l>
                  <l n="d">-lagnojjhiteva tarir indu-kalā cakāsti<g ref="sym:doubleBar-serifed" type="punctuation">.</g></l>
             </lg>
@@ -237,13 +238,13 @@
                 <l n="d">cakre yena parasparasya ca samaṁ dyāvā-pr̥thivyor vvapuḥ<g ref="sym:doubleBar-serifed" type="punctuation">.</g></l>
             </lg>
             <lg n="26" met="sragdharā">
-                <l n="a">dik-śākhā-mūla-kāṇḍaṁ gagana-tala-ma<g ref="sym:barCross" type="connector">§</g><lb n="24" break="no"/>hāmbho-dhi-madhyāntarīyaṁ</l>
+                <l n="a">dik-śākhā-mūla-kāṇḍaṁ gagana-tala-ma<g ref="sym:bar-crossed" type="connector">§</g><lb n="24" break="no"/>hāmbho-dhi-madhyāntarīyaṁ</l>
                 <l n="b">bhānoḥ prāk-pratyag-adri-sthiti-milad-udayāstasya madhyāhna-śailam·<g ref="sym:bar" type="punctuation">.</g></l>
                 <l n="c">Ālamva-stambham ekaṁ tri-bhuvana-bhavanasyaika-śeṣaṁ girīṇāṁ</l>
                 <l n="d">sa pradyumneśvarasya vyadhita vasumatī-vāsavaḥ saudham uccaiḥ<g ref="sym:doubleBar-serifed" type="punctuation">.</g></l>
             </lg>
             <lg n="27" met="śārdūlavikrīḍita">
-                <l n="a">prāsādena tavāmunaiva haritām adhvā<g ref="sym:barCross" type="connector">§</g><lb n="25"/> niruddho mudhā</l>
+                <l n="a">prāsādena tavāmunaiva haritām adhvā<g ref="sym:bar-crossed" type="connector">§</g><lb n="25"/> niruddho mudhā</l>
                 <l n="b">bhāno <supplied reason="omitted">’</supplied>dyāpi kr̥to <supplied reason="omitted">’</supplied>sti dakṣiṇa-diśaḥ koṇānta-vāsī muniḥ<g ref="sym:bar" type="punctuation">.</g></l>
                 <l n="c">Anyām uccha-patho <supplied reason="omitted">’</supplied>yam r̥cchatu diśaṁ vindhyo <supplied reason="omitted">’</supplied>py asau varddhatāṁ</l>
                 <l n="d">yāvac-chakti tathāpi nāsya padavīṁ saudhasya gāhiṣyate<g ref="sym:doubleBar-serifed" type="punctuation">.</g></l>
@@ -257,7 +258,7 @@
             <lg n="29" met="pr̥thvī">
                 <l n="a">vileśaya-vilāsinī-mukuṭa-koṭi-ratnāṅkura</l>
                 <l n="b">sphurat·-kiraṇa-mañjarī-cchurita-vāri-pūraṁ puraḥ<g ref="sym:bar" type="punctuation">.</g></l>
-                <l n="c">cakhāna pura-vairiṇaḥ sa jala-magna<g ref="sym:barCross" type="connector">§</g><lb n="27" break="no"/>-paurāṅganā</l>
+                <l n="c">cakhāna pura-vairiṇaḥ sa jala-magna<g ref="sym:bar-crossed" type="connector">§</g><lb n="27" break="no"/>-paurāṅganā</l>
                 <l n="d">-stanaiṇa-mada-saurabhoccalita-cañcarīkaṁ saraḥ<g ref="sym:doubleBar-serifed" type="punctuation">.</g></l>
             </lg>
             <lg n="30" met="śārdūlavikrīḍita">
@@ -310,7 +311,7 @@
                    <app loc="5"><lem>-gāthā<lb n="6" break="no"/>ḥ<g ref="sym:doubleBar-serifed" type="punctuation">.</g></lem><rdg source="bib:Majumdar1929_01">gāthāḥ<g ref="sym:doubleBar" type="punctuation">.</g></rdg></app>
                    <app loc="6"><lem>vvyā<lb n="7" break="no"/>ptaṁ tad adyāpy abhūt·<g ref="sym:doubleBar" type="punctuation">.</g></lem><rdg source="bib:Majumdar1929_01">vvyāptaṁ tad adyāpy abhūt·<g ref="sym:doubleBar" type="punctuation">.</g></rdg></app>
                    <app loc="12"><lem>-tīrtha-</lem><rdg source="bib:Kielhorn1892_07">-<unclear>tī</unclear>rtha-</rdg><rdg source="bib:Majumdar1929_01 bib:Sircar1983_01">-tī<unclear>rtha</unclear>-</rdg></app>
-                   <app loc="18"><lem><g ref="sym:barCross" type="connector">§</g></lem><note>A vertical bar with a slanting projection to the right, functioning as a space filler. The same symbol appears some lines below.</note></app>
+                   <app loc="18"><lem><g ref="sym:bar-crossed" type="connector">§</g></lem><note>A vertical bar with a slanting projection to the right, functioning as a space filler. The same symbol appears some lines below.</note></app>
                    <app loc="23"><lem>marttyasya</lem><rdg source="bib:Majumdar1929_01">marttasya</rdg></app>
                    <app loc="23"><lem>dik-</lem><rdg source="bib:Majumdar1929_01">dik</rdg></app>
                    <app loc="25"><lem>-viva<lb n="26" break="no"/>rttanābhiḥ<g ref="sym:bar" type="punctuation">.</g></lem><rdg source="bib:Majumdar1929_01">-vivarttanābhiḥ<g ref="sym:bar" type="punctuation">.</g><lb n="26"/></rdg></app>
