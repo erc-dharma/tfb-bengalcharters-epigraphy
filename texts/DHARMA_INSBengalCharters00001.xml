@@ -92,6 +92,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change when="2026-05-24" who="part:ryfu" status="draft">Script information added</change>
             <change when="2021-12-23" who="part:amwb">Added the translation of the quoted verses</change>
             <change when="2021-10-14" who="part:amwb">Encoding the apparatus part by comparing Daniel's edition with the five previous editions and the plate.</change>
             <change when="2021-10-11" who="part:amwb">Creation of the file according to the template version 03 by copying parts from file prepared by Dániel Balogh.</change>
@@ -99,7 +100,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83223 maturity:83221">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
 					<ab><lb n="1"/>mahārāja-śrī-vai<unclear>nyaguptaḥ</unclear></ab>
 	</div>
