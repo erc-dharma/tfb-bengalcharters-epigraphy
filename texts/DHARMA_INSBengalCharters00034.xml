@@ -88,6 +88,7 @@ daba : The Siddham ID will need to be retained, probably as <altIdentifier>, whe
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
+			<change who="part:ryfu" when="2026-05-25" status="draft">Script information added</change>
 			<change when="2021-09-21" who="part:amwb" status="draft">Added the epigraphic lemma in the bibliography part.</change>
 			<change who="part:amwb" when="2021-08-30" status="draft">Added Siddham bibliographic reference in the bibliography and its readings in the apparatus. Correction of some errors in the apparatus.</change>
 			<change who="part:amwb" when="2021-07-12" status="draft">Import of Siddham file IN00061 and started initial encoding with Arlo's edtion and remarks. </change>
@@ -96,7 +97,7 @@ daba : The Siddham ID will need to be retained, probably as <altIdentifier>, whe
 	</teiHeader>
 	<text xml:space="preserve">
 		<body>
-			<div type="edition" xml:lang="san-Latn">
+			<div type="edition" xml:lang="san-Latn" rendition="class:83223 maturity:83211">
 <p><pb n="1r"/><lb n="1"/>svasti<supplied reason="subaudible">.</supplied> śr̥ṅgavera-vaitheya-pūrṇṇak<choice><sic>o</sic><corr>au</corr></choice>śikāyāḥ<!--
 amwb: caution here ! because Arlo notes a different reading from Sircar's one : kośikāyāḥ. Need to check the plate. 2021-08-19 : from the photos, it seems to me that there is no difference between this akṣara and the one of the line 27 (koṭara)
 --> bhaṭṭāraka-pādānuddhyātaḥ Āyuktakācyuto

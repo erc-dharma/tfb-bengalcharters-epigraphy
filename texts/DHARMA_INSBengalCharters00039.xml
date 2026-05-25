@@ -83,6 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-25" status="draft">Script information added</change>
             <change when="2021-11-09" who="part:amwb">Added HandDesc by copying remarks from Griffiths2015_02</change>
             <change when="2021-10-18" who="part:amwb">Revision of my first commentaries</change>
             <change who="part:amwb" when="2021-06-02">started initial encoding of the
@@ -91,7 +92,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83223 maturity:83211">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                 <ab><lb n="1"/>maddhyamaṣaṇḍikavīthyāyuktakādhi
                  <lb n="2" break="no"/>karaṇasya</ab>

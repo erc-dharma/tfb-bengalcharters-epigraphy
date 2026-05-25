@@ -91,6 +91,7 @@ amwb : replaced IN00044 by dharma file name
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
+			<change who="part:ryfu" when="2026-05-25" status="draft">Script information added</change>
 			<change when="2021-12-13" who="part:amwb">Revision of my own encoding</change>
 			<change when="2021-09-22" who="part:amwb">Some corrections in the translation, added Bhandarkar1981_01's readings in the apparatus and correction of some lemmas, added epigraphic lemma in bibliography</change>
 			<change when="2021-09-03" who="part:amwb">Draft of translation and revision of the edition according to it till line 6.</change>
@@ -101,7 +102,7 @@ amwb : replaced IN00044 by dharma file name
 	</teiHeader>
 	<text xml:space="preserve">
 		<body>
-			<div type="edition" xml:lang="san-Latn">
+			<div type="edition" xml:lang="san-Latn" rendition="class:83223 maturity:83211">
 <p><pb n="1r"/><lb n="1"/><supplied reason="lost">saṁ</supplied> <num value="163"><supplied reason="lost">100</supplied> <supplied reason="lost">60</supplied> <unclear>3</unclear></num> Āṣāḍha <abbr>di</abbr><!-- 
 amwb : added the tag abbr
 amwb : removed Daba's reading : <unclear reason="illegible">saṁ</unclear> <num value="163"><unclear reason="illegible">100</unclear> <unclear>60</unclear> 3</num> 
