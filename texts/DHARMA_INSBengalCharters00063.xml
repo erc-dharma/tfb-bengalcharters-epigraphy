@@ -76,6 +76,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-26" status="draft">Script information added</change>
             <change when="2021-11-08" who="part:amwb">Added the handDesc by copying remarks from Griffiths2015_02's article</change>
             <change when="2021-10-21" who="part:amwb">Revision of my encoding and corrections</change>
             <change who="part:amwb" when="2021-06-01">started initial encoding of the inscription</change>
@@ -83,7 +84,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83223 maturity:83211">
              <div type="textpart" n="A"><head xml:lang="eng">Primary Seal</head>
                 <ab><lb n="1"/>ghoṇādvīpaka-viṣaye
                  <lb n="2"/>Adhikaraṇasya</ab>

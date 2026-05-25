@@ -78,6 +78,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-26" status="draft">Script information added</change>
             <change who="part:ryfu" when="2024-02-12" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2023-11-03" status="draft">Encoding correction made.</change>
             <change who="part:ryfu" when="2022-10-23" status="draft">Translation and Bibliography completed.</change>
@@ -86,7 +87,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83213">
              <lb n="1"/><ab><g ref="sym:spiral-left" type="symbol">*</g><!-- siddham --> svasti<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></ab>
              <lg n="1" met="sragdharā">
                  <l n="a">vellad-dor-ddaṇḍa-vegānila-vihata-mahā-kṣmādharottuṅga-śr̥ṅga</l>
