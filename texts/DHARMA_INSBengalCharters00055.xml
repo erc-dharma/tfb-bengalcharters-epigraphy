@@ -79,12 +79,13 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-25" status="draft">Script information added</change>
             <change who="part:amwb" when="2021-06-25">Started initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83223 maturity:83211">
              <pb n="1r"/>
              <p>
                 <lb n="1"/>svast<supplied reason="lost">i</supplied><supplied reason="omitted">.</supplied> puṇḍra-varddhanād āyuktakā Adh<supplied reason="lost">i</supplied>ṣṭhānādh<supplied reason="lost">i</supplied><unclear>ka</unclear>raṇañ ca <unclear>ṣa</unclear>ṇḍ<unclear>ika-</unclear>vīth<supplied reason="lost">e</supplied>yā<supplied reason="lost">r</supplied><unclear>y</unclear>ya<unclear>-g</unclear>r<supplied reason="lost">āma</supplied>

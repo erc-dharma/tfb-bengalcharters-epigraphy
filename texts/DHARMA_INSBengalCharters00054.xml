@@ -101,6 +101,7 @@ Line 18: shape of gg in svargge.<!-- argr2daba: it rather looks like we have sva
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:ryfu" when="2026-05-25" status="draft">Script information added</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:argr" when="2020-08-12" status="draft">further revisions after discussion with part:daba</change>
          <change who="part:argr" when="2020-08-08" status="draft">started manual revision of file imported by part:daba; removed editorial punctuation, inserted space elements, inserted abbr elements, inserted avagrahas, revised readings on the basis of RTI</change>
@@ -109,7 +110,7 @@ Line 18: shape of gg in svargge.<!-- argr2daba: it rather looks like we have sva
    </teiHeader>
    <text xml:space="preserve">
 		<body>
-			<div type="edition" xml:lang="san-Latn">
+			<div type="edition" xml:lang="san-Latn" rendition="class:83223 maturity:83211">
 <p><pb n="1r"/><lb n="1"/>svasty amvila-grāmāgrahārāt sa-viśvāsam adhikaraṇaM <space/> jaṅgoyikā-grāme brāhmaṇottarān saṁvyavahā<lb n="2" break="no"/>ryy-ādi-kuṭumvinaḥ kuśalam anuvarṇṇya bodhayanti likhanti ca <space/></p>
 <p>vijnāpayati naḥ viṣaya-pati-chattramahaḥ<lb n="3"/>I<unclear>cch</unclear>āmy ahaṁ sva-puṇyābhivr̥ddhaye <space/> nanda-vaitheya-khaṭāpūraṇāgrahārika-cchāndoga-kāśyapa-sagottra-brāhmaṇa<!-- daba had a comment on the end of this line:
 "The ā mātrā at the end of l3 is far from clear. If it's ṇā, then we expect brāhmaṇāya, so the name of the donee is probably just one akṣara plus svāmin. Perhaps more probably, we have just brāhmaṇa, and then a two-syllable name." 

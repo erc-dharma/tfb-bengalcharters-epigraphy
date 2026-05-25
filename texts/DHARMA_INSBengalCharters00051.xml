@@ -77,12 +77,13 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-25" status="draft">Script information added</change>
             <change who="part:amwb" when="2021-06-22">Started initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
+         <div type="edition" xml:lang="san-Latn" rendition="class:83223 maturity:83211"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
              <pb n="1r"/>
              <p>

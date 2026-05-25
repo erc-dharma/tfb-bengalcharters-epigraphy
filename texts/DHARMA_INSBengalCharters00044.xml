@@ -92,6 +92,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:ryfu" when="2026-05-25" status="draft">Script information added</change>
           <change who="part:ryfu" when="2024-07-02" status="draft">Text, apparatus and translation modified on input by Daniel Balogh.</change>
           <change who="part:ryfu" when="2023-05-30">intellectulal authorship of the edition added.</change>
          <change who="part:ryfu" when="2021-10-08">Dandas encoded as glyphs.</change>
@@ -103,7 +104,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83213">
              <p><lb n="1"/><g ref="sym:spiral-left" type="symbol">*</g><!-- siddham -->Oṁ namo bhagavate vāsud<supplied reason="lost">e</supplied>vāya<g ref="sym:doubleBar" type="punctuation">.</g></p>
              <lg n="1" met="śārdūlavikrīḍita">
                  <l n="a">bhakti-prahva-viriñci-śaṅkara-surādhīśādi-nākaukasāṁ<surplus><g ref="sym:bar" type="punctuation">.</g></surplus></l>

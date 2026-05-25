@@ -78,12 +78,13 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-25" status="draft">Script information added</change>
             <change who="part:amwb" when="2021-06-21">Started initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83223 maturity:late">
              <div type="textpart" n="A"><head xml:lang="eng">Primary Seal</head>
              <ab><lb n="1"/>maddhyamaṣaṇḍikavīthyāyuktakādhi
                  <lb n="2" break="no"/>karaṇasya

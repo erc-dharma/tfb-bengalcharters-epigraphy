@@ -84,6 +84,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:ryfu" when="2026-05-25" status="draft">Script information added</change>
           <change who="part:ryfu" when="2023-11-03" status="draft">Encoding correction made.</change>
          <change when="2021-10-08" who="part:ryfu">Dandas encoded as glyphs.</change> 
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
@@ -98,7 +99,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83229 maturity:83215">
          	 <p><lb n="1"/><g ref="sym:spiral-right" type="symbol">*</g><!-- siddham -->namo vuddhāya<g ref="sym:doubleBar" type="punctuation">.</g></p>
              <lg n="1" met="śārdūlavikrīḍita">
                  <l n="a">bhāvābhāva-vicāra-cāra-dha<unclear>valāl</unclear><!-- ryfu2argr: dhavalāloka plausible, in view of the space between two "la"s-->oka-traya-trāyaka<unclear>ḥ</unclear><surplus><g ref="sym:bar" type="punctuation">.</g></surplus></l>

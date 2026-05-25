@@ -78,13 +78,14 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-25" status="draft">Script information added</change>
             <change who="part:argr" when="2024-05-21" status="draft">Revised the encoding</change>
             <change who="part:amwb" when="2021-06-25" status="draft">Started initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83223 maturity:83211">
              <p><pb n="1r"/><lb n="1r1"/><gap reason="lost" extent="unknown" unit="character"/>pitrā śivanandinā<gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
                 <lb n="1r2"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/>ca śvaśuraśivanandi<gap reason="lost" extent="unknown" unit="character"/>
                 <lb n="1r3"/><gap reason="lost" extent="unknown" unit="character"/>vasādaṅ gacchanti ruca<gap reason="lost" extent="unknown" unit="character"/>
