@@ -87,7 +87,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83213">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83229 maturity:83213">
              <lb n="1"/><ab><g ref="sym:spiral-left" type="symbol">*</g><!-- siddham --> svasti<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></ab>
              <lg n="1" met="sragdharā">
                  <l n="a">vellad-dor-ddaṇḍa-vegānila-vihata-mahā-kṣmādharottuṅga-śr̥ṅga</l>
