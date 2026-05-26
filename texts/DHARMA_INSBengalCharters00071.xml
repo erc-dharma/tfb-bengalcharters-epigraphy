@@ -84,6 +84,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+      	<change who="part:ryfu" when="2025-05-27" status="draft">Script information added</change>
       	<change who="part:ryfu" when="2025-01-11" status="draft">Translation modified.</change>
       	<change who="part:ryfu" when="2024-12-14" status="draft">dandaGap modified as space filler.</change>
       	<change who="part:ryfu" when="2024-05-28" status="draft">dandaGap encoded properly.</change>
@@ -103,7 +104,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83229 maturity:83215">
 	<div type="textpart" n="A"><head xml:lang="eng">Seal</head>
 		<ab><lb n="1"/>śrīmaṅ-gopāladevasya</ab>        
 	</div>

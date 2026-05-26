@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2023-11-03" status="draft">Encoding corrections made.</change>
             <change who="part:ryfu" when="2023-08-21" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2022-07-29" status="draft">Translation modified.</change>
@@ -95,7 +96,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
+         <div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83213"><!-- update the @xml:lang value, see EGD §7.2-->
             <div type="textpart" n="A"> <head xml:lang="eng">Seal</head>
              <ab><lb n="1"/>śrī-mahendrapāla-devaḥ</ab>
          </div>
