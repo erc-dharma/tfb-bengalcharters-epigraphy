@@ -81,6 +81,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2026-04-13" status="draft">Structure of p and lg modified.</change>
             <change when="2022-01-31" who="part:amwb">Corrections according to argr's comments</change>
             <change when="2021-10-06" who="part:argr">Corrections to the transliteration</change>
@@ -90,7 +91,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn" source="bib:Kielhorn1896-1897_03">
+         <div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83213" source="bib:Kielhorn1896-1897_03">
              <p><!-- 
 amwb 2021-09-24: in Kielhorn's edition, I am not sure that the simple daṇḍa and double daṇḍa in the verse part are original or not. In the verse part, there is no supplied daṇda. In the prose part, it seems that he noted original daṇdas and supplied omitted daṇḍa in line 38, 40, 43, 49, 56, 57, 58. Consequently I assume that the daṇḍa in the verse part are original but we need to check that by reading the plate. 
 In the prose part, there is only one double daṇḍa and I have encoded both simple and double as original. As the EDG recommends to use only one punctuation mark, if the daṇḍa are not original, think about change all of them in <supplied reason="subaudible">.</supplied>

@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfy" when="2026-05-08" status="draft">Translation completed.</change>
             <change who="part:ryfu" when="2026-05-08" status="draft">Text, apparatus and bibliography completed.</change>
             <change who="part:ryfu" when="2026-05-08" status="draft">Text encoding proceeded</change>
@@ -87,7 +88,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83229 maturity:83215">
              <pb n="r"/><lb n="1"/><p><g ref="sym:spiral-right" type="symbol">*</g> Om̐ namo nārāyaṇāya<g ref="sym:doubleBar-serifed" type="punctuation">.</g></p>
              <lg n="1" met="śārdūlavikrīḍita">
                  <l n="a">vidyud yatra maṇi-dyutiḥ phaṇi-pater vālendur indrāyudhaṁ</l>

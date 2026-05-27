@@ -81,6 +81,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2025-08-27" status="draft">Translation and commentary completed.</change>
             <change who="part:ryfu" when="2025-08-27" status="draft">Encoding and bibliography corrected.</change>
             <change who="part:ryfu" when="2025-08-27" status="draft">Initial encoding.</change>
@@ -88,7 +89,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83213">
              <div type="textpart"><head xml:lang="eng">Seal</head>
                  <gap reason="illegible" unit="character" quantity="8" precision="low"/>
              </div>

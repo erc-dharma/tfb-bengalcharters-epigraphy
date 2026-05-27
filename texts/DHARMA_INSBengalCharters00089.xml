@@ -81,12 +81,13 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2025-08-27" status="draft">Initial encoding</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83213">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                  <p>śrīmad-devakhaḍga<supplied reason="omitted">ḥ</supplied></p>
              </div>
