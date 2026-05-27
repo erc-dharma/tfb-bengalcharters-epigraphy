@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Bhagalpur Plate of Nārāyaṇapāla, year 17</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp>Editor</resp>
                     <!-- Work done in the file, e.g. editor ...-->
                     <persName ref="part:ryfu"><!-- Update the id -->
                         <forename>Ryosuke</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2025-10-27" status="draft">Translation corrected.</change>
             <change who="part:ryfu" when="2024-01-14" status="draft">Minor correction of translation.</change>
             <change who="part:ryfu" when="2023-11-03" status="draft">Encoding corrections made.</change>
@@ -92,7 +93,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83213">
             <div type="textpart" n="A"> <head xml:lang="eng">Seal</head>
              <ab><lb n="1"/>śrī-nārā<unclear>yaṇapāla</unclear>-deva<unclear>sya</unclear></ab>
             </div> 

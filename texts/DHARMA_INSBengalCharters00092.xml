@@ -8,9 +8,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Amgachi Plate of Vigrahapāla, year 12</title>
+                <title>Amgachi Plate of Vigrahapāla III, year 12</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp>Editor</resp>
                     <persName ref="part:ryfu">
                         <forename>Ryosuke</forename>
                         <surname>Furui</surname>
@@ -78,6 +78,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2025-04-15" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2025-04-13" status="draft">Translation completed.</change>
             <change who="part:ryfu" when="2025-04-11" status="draft">Commentary added, translation in progress.</change>
@@ -87,7 +88,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83229 maturity:83213">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                  <ab><lb n="1"/>śrī-vigrahapāla-devaḥ</ab>
              </div>

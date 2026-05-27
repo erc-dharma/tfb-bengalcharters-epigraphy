@@ -77,12 +77,13 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change when="2021-09-29" who="part:amwb">Creation of the file and start of encoding the edition of the text based on Bhattacharyya1935-1936_01</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn" source="bib:Bhattacharyya1935-1936_01">
+         <div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83213" source="bib:Bhattacharyya1935-1936_01">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head><!-- 
 amwb : this has been added from the information found in EI's introduction
  -->

@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Indian Museum Plate of Dharmapāla, year 26</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp>Editor</resp>
                     <!-- Work done in the file, e.g. editor ...-->
                     <persName ref="part:ryfu">
                         <forename>Ryosuke</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2025-05-12" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2024-08-08" status="draft">Encoding error corrected.</change>
             <change who="part:ryfu" when="2024-04-26" status="draft">Translation and commentary encoded.</change>
@@ -103,7 +104,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83213">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                  <p><lb n="1"/>śrīmān dharmapāla-devaḥ</p>
              </div>

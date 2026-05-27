@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2025-03-16" status="draft">Translation corrected.</change>
             <change who="part:ryfu" when="2025-03-06" status="draft">Bibliography added.</change>
             <change who="part:ryfu" when="2025-02-23" status="draft">Unnecessary textpart division omitted.</change>
@@ -90,7 +91,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83229 maturity:83215">
                  <pb n="1r"/><lb n="1"/><p><g ref="sym:spiral-right" type="symbol">*</g><!-- siddham --> Om̐ namaḥ śivāya<g ref="sym:doubleBar" type="punctuation">.</g></p>
                  <lg n="1" met="śārdūlavikrīḍita">
                      <l n="a">yaḥ kārttā bhuvana-trayasya tanubhir viśvaṁ pr̥thivyādibhir</l>

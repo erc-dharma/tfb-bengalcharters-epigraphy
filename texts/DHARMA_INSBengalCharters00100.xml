@@ -78,6 +78,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2026-05-17" status="draft">Translation and Commentary completed</change>
             <change who="part:ryfu" when="2026-05-17" status="draft">Encoding correction</change>
             <change who="part:ryfu" when="2026-05-17" status="draft">Text and Apparatus completed</change>
@@ -86,7 +87,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83229 maturity:83215">
              <lb n="1"/><p><g ref="sym:spiral-right" type="symbol">*</g> Om̐ namaḥ śivāya<g ref="sym:doublBar-serifed" type="punctuation">.</g></p>
             <lg n="1" met="vasantatilakā">
                  <l n="a">vakṣoṁśukāharaṇa-sādhvasa-kr̥ṣṭa-mauli</l>
