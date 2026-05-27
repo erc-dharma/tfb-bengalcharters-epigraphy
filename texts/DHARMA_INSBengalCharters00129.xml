@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Barrackpur Plate of Vijayasena, year 62</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp>Editor</resp>
                     <persName ref="part:ryfu">
                         <forename>Ryosuke</forename>
                         <surname>Furui</surname>
@@ -78,6 +78,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2025-08-10" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2025-08-08" status="draft">Encoding addedd.</change>
             <change who="part:ryfu" when="2025-08-07" status="draft">Translation completed.</change>
@@ -86,7 +87,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83229 maturity:83215">
              <pb n="1r"/><lb n="1"/><p><g ref="sym:spiral-right" type="symbol">*</g> Om̐ namaḥ śivāya<g ref="sym:doubleBar" type="punctuation">.</g><!--Two daṇḍas are connected on their top by a horizontal bar. --></p>
              <lg n="1" met="śārdūlavikrīḍita">
                  <l n="a">krauñcāri-dviradāsyayoḥ śiśutayā tātasya maulau mitho</l>

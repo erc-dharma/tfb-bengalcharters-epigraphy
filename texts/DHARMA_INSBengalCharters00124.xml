@@ -10,7 +10,7 @@
 			<titleStmt>
 				<title>Vappaghosavata Grant of the time of Jayanāga</title>
 				<respStmt>
-					<resp>EpiDoc Encoding</resp>
+					<resp>Editors</resp>
 					<persName ref="part:argr">
 						<forename>Arlo</forename>
 						<surname>Griffiths</surname>
@@ -75,13 +75,14 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
+			<change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
 			<change when="2021-12-27" who="part:argr">finished encoding the edition.</change>
 			<change when="2021-12-21" who="part:argr">created the file and started encoding the edition.</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83223 maturity:83211">
 <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
 <ab><lb n="1"/><supplied reason="lost">Audu</supplied><unclear>mva</unclear>rīka<gap reason="illegible" unit="character" quantity="2"/><unclear>sya</unclear> <gap reason="illegible" unit="character" quantity="5" precision="low"/></ab>
  </div>

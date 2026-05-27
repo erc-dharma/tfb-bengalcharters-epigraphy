@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Bangarh Stone Slab of the Time of Nayapāla</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp>Editor</resp>
                     <!-- Work done in the file, e.g. editor ...-->
                     <persName ref="part:ryfu">
                         <forename>Ryosuke</forename>
@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script infromation added</change>
             <change who="part:ryfu" when="2025-03-26" status="draft">Bibliography corrected.</change>
             <change who="part:ryfu" when="2024-07-06" status="draft">Text, apparatus and translation modified.</change>
             <change who="part:ryfu" when="2024-07-06" status="draft">Translation modified.</change>
@@ -97,7 +98,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83229 maturity:83213">
              <p><lb n="1"/><g ref="sym:spiral-right" type="symbol">*</g><!-- siddham --> Om̐ namaś carccikāyai<g ref="sym:doubleBar" type="punctuation">.</g></p>
              <lg n="1" met="anuṣṭubh">
                  <l n="ab">surāsura-śiraḥ-śreṇi-paṭa-vāsa-samā jagaT<g ref="sym:bar" type="punctuation">.</g></l>

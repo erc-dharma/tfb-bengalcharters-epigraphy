@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Bodhgaya Stone Slab of Tuṅga Dharmāvaloka</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp>Editor</resp>
                     <persName ref="part:ryfu"><!-- Update the id -->
                         <forename>Ryosuke</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
                         <surname>Furui</surname>
@@ -79,13 +79,14 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2025-04-26" status="draft">Translation and commentary completed.</change>
             <change who="part:ryfu" when="2025-04-26" status="draft">Initial encoding.</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83213">
              <lb n="1"/><p><g ref="sym:spiral-right" type="symbol">*</g><!--siddham--><space type="vacat" unit="character" quantity="1"/> namo vuddhāya<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></p>
              <lg n="1" met="śārdūlavikrīḍita">
                  <l n="a">Āsīd dr̥pta-narendra-vr̥nda-vijayī śrī-rāṣṭrakūṭānvayaḥ</l>

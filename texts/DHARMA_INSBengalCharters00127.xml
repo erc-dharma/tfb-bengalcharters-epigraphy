@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Bangaon Plate of Vigrahapāla III, year 17</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp>Editor</resp>
                     <!-- Work done in the file, e.g. editor ...-->
                     <persName ref="part:ryfu"><!-- Update the id -->
                         <forename>Ryosuke</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2026-01-10" status="draft">Omission of a half stanza corrected.</change>
             <change who="part:ryfu" when="2025-04-19" status="draft">Translation completed.</change>
             <change who="part:ryfu" when="2025-04-19" status="draft">Text, apparatus, commentary and bibliography completed.</change>
@@ -88,7 +89,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83229 maturity:83213">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                  <ab><lb n="1"/>śrī-vigrahapāla-devaḥ</ab>             
              </div>
