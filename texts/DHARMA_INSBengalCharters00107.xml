@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Mirzapur Plate of Śūrapāla I, year 3</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp>Editor</resp>
                     <persName ref="part:ryfu"><!-- Update the id -->
                         <forename>Ryosuke</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
                         <surname>Furui</surname>
@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2024-08-08" status="draft">Encoding errors corrected.</change>
             <change who="part:ryfu" when="2024-07-25" status="draft">Commentary added.</change>
             <change who="part:ryfu" when="2024-07-25" status="draft">Text, apparatus and translation revised.</change>
@@ -93,7 +94,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83213">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                  <ab><lb n="1"/>śrī-śūrapāla-devasya</ab>
              </div>

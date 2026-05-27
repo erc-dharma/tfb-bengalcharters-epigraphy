@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2026-04-24" status="draft">Encoding of symbol corrected.</change>
             <change who="part:ryfu" when="2026-01-14" status="draft">Encoding mistakes corrected.</change>
             <change who="part:ryfu" when="2025-08-01" status="draft">Translation corrected.</change>
@@ -92,7 +93,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
+         <div type="edition" xml:lang="san-Latn" rendition="class:83229 maturity:83213"><!-- update the @xml:lang value, see EGD §7.2-->
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                  <pb n="1r"/><lb n="01"/><ab>ni<gap unit="character" reason="undefined" quantity="37" precision="low"/>ni</ab>
                  <lb n="1"/><p><g ref="sym:spiral-right" type="symbol">*</g><!-- siddham--> svasti<g ref="sym:doubleBar" type="punctuation">.</g></p>

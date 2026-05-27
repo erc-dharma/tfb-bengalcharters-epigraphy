@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Bharat Kala Bhavan Plate of Rājyapāla, year 2</title>                
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp>Editor</resp>
                     <!-- Work done in the file, e.g. editor ...-->
                     <persName ref="part:ryfu"><!-- Update the id -->
                         <forename>Ryosuke</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2025-10-27" status="draft">Translation corrected.</change>
             <change who="part:ryfu" when="2023-11-14" status="draft">Encoding corrections.</change>
             <change who="part:ryfu" when="2023-11-03" status="draft">Encoding corrections made.</change>
@@ -99,7 +100,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83213">
              <div type="textpart" n="A"><head xml:lang="eng">Plate</head>
                  <pb n="1r"/><ab><lb n="01"/>ni<space type="vacat" unit="character" quantity="36"/> ni</ab>
                  <lb n="1"/><p><g ref="sym:spiral-left" type="symbol">*</g><!-- siddham --> svasti<g ref="sym:bar-strokeLeft" type="punctuation">.</g></p>

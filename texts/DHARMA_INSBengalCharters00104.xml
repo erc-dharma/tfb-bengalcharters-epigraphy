@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Nalanda Plate of Devapāla, year 35</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp>Editor</resp>
                     <persName ref="part:ryfu"><!-- Update the id -->
                         <forename>Ryosuke</forename>
                         <surname>Furui</surname>
@@ -87,6 +87,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2024-05-29" status="draft">Translation corrected.</change>
             <change who="part:ryfu" when="2023-11-03" status="draft">Encoding correction made.</change>
             <change who="part:ryfu" when="2022-08-02" status="draft">Bibliography completed.</change>
@@ -97,7 +98,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83213">
              <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                  <ab><lb n="1"/>śrī-devapāla-devasya</ab>
              </div>

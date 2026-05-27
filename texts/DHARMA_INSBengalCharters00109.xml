@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Mohipur Plate of Gopāla II, year 3</title>                
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp>Editor</resp>
                     <!-- Work done in the file, e.g. editor ...-->
                     <persName ref="part:ryfu"><!-- Update the id -->
                         <forename>Ryosuke</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
@@ -81,6 +81,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
             <change who="part:ryfu" when="2023-11-03" status="draft">Encoding corrections made.</change>
             <change who="part:ryfu" when="2023-10-16" status="draft">Translation modified.</change>
             <change who="part:ryfu" when="2023-08-23" status="draft">Translation modified.</change>
@@ -98,7 +99,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
+         <div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83213"><!-- update the @xml:lang value, see EGD §7.2-->
             <div type="textpart" n="A"><head xml:lang="eng">Seal</head>
                  <ab><lb n="1"/>śrī-gopāla-devaḥ</ab>
             </div>
