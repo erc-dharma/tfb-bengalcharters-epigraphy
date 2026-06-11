@@ -96,7 +96,7 @@ amwb: siddham idno IN00023
 		</encodingDesc>
 		<revisionDesc>
 <!-- argr2amwb: it is important at least to mark a <change> entry each for the start and end dates of your encoding (and translation) work -->
-			<change who="part:ryfu" when="2026^05-25" status="draft">Script information added</change>
+			<change who="part:ryfu" when="2026-05-25" status="draft">Script information added</change>
 			<change when="2021-12-06" who="part:amwb">Revision of my own encoding and translation.</change>
 			<change when="2021-09-22" who="part:amwb" status="draft">Added Epigraphic lemma</change>
 			<change who="part:amwb" when="2021-08-30" status="draft">Added Siddham bibliographic reference in the bibliography and added its readings in apparatus. Then added my own readings in comment.</change>
