@@ -165,7 +165,7 @@ amwb: according to my own reading,  I added a space before the next pāda and a 
                       <note>Or read -<foreign>samvatsarapañcama</foreign>? No trace of -<foreign>e</foreign> can be made out with certainty, and although it
 is possible to assume that it was originally written and since effaced, assuming its original absence could be supported, e.g., by the sequence <foreign>vijayarājyasaṁvatsaraśate</foreign> in the Karamdanda inscription of Kumāragupta<!-- 
 amwb : add a tag ref when the inscription is encoded in DHARMABASE. For the moment, there is no reference number in Bengal Inscriptions Metadata (Googlesheets), but there is the file IN00025_TEI.xml; For I have included its bibliographical ref 
---> (<bibl><ptr target="bib:Bhandarkar1981_01"/><citedRange unit="page">285</citedRange><citedRange unit="line">3</citedRange><citedRange unit="note">5</citedRange></bibl> and <bibl><ptr target="bib:Balogh+al2019_01"/><citedRange unit="item">IN00025</citedRange></bibl>).</note>
+--> (<bibl><ptr target="bib:Bhandarkar1981_01"/><citedRange unit="page">285</citedRange><citedRange unit="line">3</citedRange><citedRange unit="note">5</citedRange></bibl> and <bibl><ptr target="bib:Balogh2019_03"/><citedRange unit="item">IN00025</citedRange></bibl>).</note>
                   </app>
                   <app loc="2">
                       <lem>matinaitad</lem>
