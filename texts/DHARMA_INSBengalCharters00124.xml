@@ -131,7 +131,7 @@ daba: "1. I'm very hesitant about tṛtīya/dvitīya in line 2. It seems pretty 
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>Edited and translated by L. D. Barnett (<bibl rend="omitname"><ptr target="bib:Barnett1925-1926_01"/></bibl>). Re-edited by Arlo Griffiths from photos of the plate.</p>
+           <p>Edited and translated by L. D. Barnett (<bibl rend="omitname"><ptr target="bib:Barnett1925-1926_01"/></bibl>). Re-edited by Arlo Griffiths from digtal images of the plate.</p>
         	<listBibl type="primary">
 		<bibl n="B"><ptr target="bib:Barnett1925-1926_01"/></bibl>
 	</listBibl>
@@ -139,7 +139,7 @@ daba: "1. I'm very hesitant about tṛtīya/dvitīya in line 2. It seems pretty 
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
 	<listBibl type="surrogates">
-              <bibl>Levivier, A. (2025). INSBengalCharters00124 (Version 1) [Image]. NAKALA - <ref target="https://nakala.fr">https://nakala.fr</ref> (Huma-Num - CNRS). <ref target="https://doi.org/10.34847/NKL.91C7A1A0">https://doi.org/10.34847/NKL.91C7A1A0</ref></bibl>
+              <bibl>Levivier, A. (2025). INSBengalCharters00124 (Version 1) [Image]. NAKALA - <ref target="https://nakala.fr">https://nakala.fr</ref> (Huma-Num - CNRS). <ref target="https://doi.org/10.34847/NKL.91C7A1A0">https://doi.org/10.34847/NKL.91C7A1A0</ref>.</bibl>
            </listBibl>
         </div>
       </body>
