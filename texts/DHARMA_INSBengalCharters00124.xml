@@ -10,14 +10,7 @@
 			<titleStmt>
 				<title>Vappaghosavata Grant of the time of Jayanāga</title>
 				<respStmt>
-					<resp>Editors</resp>
-					<persName ref="part:argr">
-						<forename>Arlo</forename>
-						<surname>Griffiths</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>author of digital edition</resp>
 					<persName ref="part:argr">
 						<forename>Arlo</forename>
 						<surname>Griffiths</surname>
@@ -75,9 +68,10 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
+			<change who="part:argr" when="2026-06-12" status="draft">Surrogates added</change>
 			<change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
-			<change when="2021-12-27" who="part:argr">finished encoding the edition.</change>
-			<change when="2021-12-21" who="part:argr">created the file and started encoding the edition.</change>
+			<change when="2021-12-27" who="part:argr" status="draft">finished encoding the edition.</change>
+			<change when="2021-12-21" who="part:argr" status="draft">created the file and started encoding the edition.</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -143,6 +137,9 @@ daba: "1. I'm very hesitant about tṛtīya/dvitīya in line 2. It seems pretty 
 	</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+	<listBibl type="surrogates">
+              <bibl>Levivier, A. (2025). INSBengalCharters00124 (Version 1) [Image]. NAKALA - <ref target="https://nakala.fr">https://nakala.fr</ref> (Huma-Num - CNRS). <ref target="https://doi.org/10.34847/NKL.91C7A1A0">https://doi.org/10.34847/NKL.91C7A1A0</ref></bibl>
            </listBibl>
         </div>
       </body>
