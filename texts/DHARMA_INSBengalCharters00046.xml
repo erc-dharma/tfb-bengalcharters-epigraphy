@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sujanagar Stone Slab Inscription of the Time of Bhojavarman, year 19</title>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <!-- Work done in the file, e.g. editor ...-->
+                    <persName ref="part:ryfu"><!-- Update the id -->
+                        <forename>Ryosuke</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Furui</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- This may be the same as the creator of the file -->
+                    <persName ref="part:ryfu"><!-- Update the id -->
+                        <forename>Ryosuke</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Furui</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Tokyo</pubPlace>
+                <idno type="filename">DHARMA_INSBengalCharters00046</idno>
+                <!-- Replace by filename, e.g. Pallava00001 -->
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Ryosuke
+                            Furui.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:axja" when="2019-12-18" status="draft">Initial encoding</change>
+            <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn" rendition="class:83229 maturity:83215">
+             <p>
+                 <lb n="1"/><g ref="sym:spiral-right" type="symbol">*</g><!--siddham--> mahārājādhirāja-śrīmad-bhojavarmma-deva-pādīya-samvaT 19<lb 
+                 n="2"/> sūryya-gatyā jyaiṣṭha-dine 21 Adhikr̥ta-śrī-jīvasena-vyāpāre
+             </p>
+             <p>
+                 pārade<lb n="3" break="no"/>śika-samasta-jñātīnām anumatyā pāñcakulika-hāsī-<unclear>su</unclear>ta-mahā<lb 
+                 n="4" break="no"/>sāmanta-śrī-Avūdevena jñātrīnāṁ rakṣaṇārthaṁ śaṁkha-k<choice><sic>a</sic><corr>ā</corr></choice>ra-<unclear>prā</unclear>p<choice><sic>r</sic><corr>t</corr></choice>a-h<choice><sic>a</sic><corr>ā</corr></choice>rā<lb 
+                 n="5" break="no"/>khaṇḍitāvārttika-kapardaka-dānaṁ ca khaṇḍitaṁ Allaha-bhaṭṭāraka-svāmi<lb 
+                 n="6" break="no"/>-ja<choice><sic>ṅś</sic><corr>ṁs</corr></choice>ita-vihāra-pratikaraṇārthaṁ svakīya-mahāsāmanta-bhoga-haṭṭa<lb 
+                 n="7" break="no"/>-graha-kḷptaṃ ca dattam iti
+             </p>
+             <p>
+                 Etāṁ kīrttiṁ ye paripālayanti teṣām eṣo<lb 
+                 n="8"/> dharmmaḥ tadīya-pārśve ca śuddhāñjalir mm<choice><sic>a</sic><corr>ā</corr></choice>teti ye punar anyathā kurvanti<lb 
+                 n="9"/> gardabhas teṣāṃ piteti<g ref="sym:bullet-double-hollow" type="punctuation">.</g><g ref="sym:dhoubleBar" type="punctuation">.</g>
+             </p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                  <app loc="1"><lem>19</lem><rdg source="bib:Furui2019_02">7 <unclear>kha</unclear></rdg><note>Reading revised on suggestion of Shin’ichiro Hori, and photographs taken by Adline Levivier.</note></app>
+                  <app loc="8"><lem>mm<choice><sic>a</sic><corr>ā</corr></choice>teti</lem><note>The omission of the sign for long vowel ā, a vertical stroke to the right of mma can be attributed to the concentration of vertical strokes between mma and te, namely the vertical strokes of the first and second ma and the sign for vowel e to the left of ta following them.</note></app>
+               </listApp>
+         </div>
+         <div type="translation" resp="part:ryfu">
+             <p n="1-2">Success! In the year 19 of his majesty mahārājādhirāja illustrious Bhojavarmadeva, on the day 21 of month Jyaiṣṭha by the movement of the Sun, during the administration of the appointed official <supplied reason="explanation"><foreign>adhikṛta</foreign></supplied> Jīvasena.</p>
+             <p n="2-7">With the assent of all the kinsmen of the other countries, by mahāsāmanta illustrious Avūdeva, the son of pāñcakulika Hāsī, for the protection of sureties, the donation of unbroken circulating cowrie-shells, which was incurred of loss by conch-shell workers, was broken, and for repairs of the vihāra protected by Allahabhaṭṭārakasvāmin, fixed tax on seizing at market, which was <supplied reason="subaudible">Avūdeva’s</supplied> own enjoyment <supplied reason="explanation"><foreign></foreign>bhoga</supplied> as mahāsāmanta, was given.</p>
+             <p n="7-9">For those who protect this pious deed, there would be this religious merit. On the side of them, the mother will be the one making pure salutation. The father of those who do otherwise again will be an ass.</p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+           <p>The inscription was first notified by Swapan Kumar Biswas<bibl rend="omitname"><ptr target="bib:Biswas2007_01"/></bibl>. Then Shariful Islam<bibl rend="omitname"><ptr target="bib:SharifulIslam2010_01"/></bibl>  attempted at its decipherment and edition. Properly edited by Ryosuke Furui<bibl rend="omitname"/><ptr target="bib:Furui2019_02"/>. Now reading checked against photographs taken by Adeline Levivier in November 2019 and revised on feedback from Shin’ichiro Hori. </p>
+            <listBibl type="primary">
+		<bibl n="RF"><ptr target="bib:Furui2019_02"/></bibl>
+	</listBibl>
+           <listBibl type="secondary">
+              <bibl><ptr target="bib:Biswas2007_01"/></bibl>
+               <bibl><ptr target="bib:SharifulIslam2010_01"/></bibl>
+           </listBibl>
+            <listBibl type="surrogates">
+                <bibl>Levivier, A. (2025). INSBengalCharters00046 (Version 1) [Graphic]. NAKALA - <ref target="https://nakala.fr">https://nakala.fr (Huma-Num - CNRS). </ref> <ref target="https://doi.org/10.34847/NKL.F29FX9G1">https://doi.org/10.34847/NKL.F29FX9G1</ref></bibl>
+            </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
