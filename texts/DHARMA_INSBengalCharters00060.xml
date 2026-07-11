@@ -81,6 +81,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:ryfu" when="2027-07-11" status="draft">Surrogates added, with uncertainty on encoding.</change>
           <change who="part:ryfu" when="2026-05-26" status="draft">Script information added</change>
           <change who="part:ryfu" when="2024-08-08" status="draft">Unpermitted encodings removed.</change>
           <change who="part:ryfu" when="2023-11-15" status="draft">Encoding corrections.</change>
@@ -231,6 +232,9 @@
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
+            <listBibl type="surrogates">
+                <bibl>Levivier, A. (2025). INSBengalCharters00060 (Version 1) [Graphic]. NAKALA - <ref target="https://nakala.fr">https://nakala.fr </ref> (Huma-Num - CNRS). <ref target="https://doi.org/10.34847/NKL.4C3142FM">https://doi.org/10.34847/NKL.4C3142FM</ref></bibl>
+            </listBibl>
         </div>
       </body>
   </text>
