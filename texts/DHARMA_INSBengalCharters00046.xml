@@ -120,7 +120,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>The inscription was first notified by Swapan Kumar Biswas<bibl rend="omitname"><ptr target="bib:Biswas2007_01"/></bibl>. Then Shariful Islam<bibl rend="omitname"><ptr target="bib:SharifulIslam2010_01"/></bibl>  attempted at its decipherment and edition. Properly edited by Ryosuke Furui<bibl rend="omitname"/><ptr target="bib:Furui2019_02"/>. Now reading checked against photographs taken by Adeline Levivier in November 2019 and revised on feedback from Shin’ichiro Hori. </p>
+           <p>The inscription was first notified by Swapan Kumar Biswas<bibl rend="omitname"><ptr target="bib:Biswas2007_01"/></bibl>. Then Shariful Islam<bibl rend="omitname"><ptr target="bib:SharifulIslam2010_01"/></bibl>  attempted at its decipherment and edition. Properly edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2019_02"/></bibl>. Now reading checked against photographs taken by Adeline Levivier in November 2019 and revised on feedback from Shin’ichiro Hori. </p>
             <listBibl type="primary">
 		<bibl n="RF"><ptr target="bib:Furui2019_02"/></bibl>
 	</listBibl>
