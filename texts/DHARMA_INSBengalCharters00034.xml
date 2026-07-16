@@ -46,7 +46,7 @@
 amwb : this note was not present in Baigram file (siddham IN00061= Dharma_INSBengalCharters00049); should it be removed here or should it be added in BC49? -->
 				</authority>
 				<pubPlace>Cambrai</pubPlace>
-				<idno type="filename">DHARMA_INSBengalCharters00034</idno><!-- 
+				<idno type="filename">DHARMA_INSBengalCharters00034.xml</idno><!-- 
 daba : The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHARMA filename is assigned. amwb : IN00062
 --><availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">

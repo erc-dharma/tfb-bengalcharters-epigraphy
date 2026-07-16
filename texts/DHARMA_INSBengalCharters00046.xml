@@ -29,7 +29,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Tokyo</pubPlace>
-                <idno type="filename">DHARMA_INSBengalCharters00046</idno>
+                <idno type="filename">DHARMA_INSBengalCharters00046.xml</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -89,20 +89,13 @@
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83229 maturity:83215">
              <p>
-                 <lb n="1"/><g ref="sym:spiral-right" type="symbol">*</g><!--siddham--> mahārājādhirāja-śrīmad-bhojavarmma-deva-pādīya-samvaT 19<lb 
-                 n="2"/> sūryya-gatyā jyaiṣṭha-dine 21 Adhikr̥ta-śrī-jīvasena-vyāpāre
+                 <lb n="1"/><g ref="sym:spiral-right" type="symbol">*</g><!--siddham--> mahārājādhirāja-śrīmad-bhojavarmma-deva-pādīya-samvaT 19<lb n="2"/> sūryya-gatyā jyaiṣṭha-dine 21 Adhikr̥ta-śrī-jīvasena-vyāpāre
              </p>
              <p>
-                 pārade<lb n="3" break="no"/>śika-samasta-jñātīnām anumatyā pāñcakulika-hāsī-<unclear>su</unclear>ta-mahā<lb 
-                 n="4" break="no"/>sāmanta-śrī-Avūdevena jñātrīnāṁ rakṣaṇārthaṁ śaṁkha-k<choice><sic>a</sic><corr>ā</corr></choice>ra-<unclear>prā</unclear>p<choice><sic>r</sic><corr>t</corr></choice>a-h<choice><sic>a</sic><corr>ā</corr></choice>rā<lb 
-                 n="5" break="no"/>khaṇḍitāvārttika-kapardaka-dānaṁ ca khaṇḍitaṁ Allaha-bhaṭṭāraka-svāmi<lb 
-                 n="6" break="no"/>-ja<choice><sic>ṅś</sic><corr>ṁs</corr></choice>ita-vihāra-pratikaraṇārthaṁ svakīya-mahāsāmanta-bhoga-haṭṭa<lb 
-                 n="7" break="no"/>-graha-kḷptaṃ ca dattam iti
+                 pārade<lb n="3" break="no"/>śika-samasta-jñātīnām anumatyā pāñcakulika-hāsī-<unclear>su</unclear>ta-mahā<lb n="4" break="no"/>sāmanta-śrī-Avūdevena jñātrīnāṁ rakṣaṇārthaṁ śaṁkha-k<choice><sic>a</sic><corr>ā</corr></choice>ra-<unclear>prā</unclear>p<choice><sic>r</sic><corr>t</corr></choice>a-h<choice><sic>a</sic><corr>ā</corr></choice>rā<lb n="5" break="no"/>khaṇḍitāvārttika-kapardaka-dānaṁ ca khaṇḍitaṁ Allaha-bhaṭṭāraka-svāmi<lb n="6" break="no"/>-ja<choice><sic>ṅś</sic><corr>ṁs</corr></choice>ita-vihāra-pratikaraṇārthaṁ svakīya-mahāsāmanta-bhoga-haṭṭa<lb n="7" break="no"/>-graha-kḷptaṃ ca dattam iti
              </p>
              <p>
-                 Etāṁ kīrttiṁ ye paripālayanti teṣām eṣo<lb 
-                 n="8"/> dharmmaḥ tadīya-pārśve ca śuddhāñjalir mm<choice><sic>a</sic><corr>ā</corr></choice>teti ye punar anyathā kurvanti<lb 
-                 n="9"/> gardabhas teṣāṃ piteti<g ref="sym:bullet-double-hollow" type="punctuation">.</g><g ref="sym:dhoubleBar" type="punctuation">.</g>
+                 Etāṁ kīrttiṁ ye paripālayanti teṣām eṣo<lb n="8"/> dharmmaḥ tadīya-pārśve ca śuddhāñjalir mm<choice><sic>a</sic><corr>ā</corr></choice>teti ye punar anyathā kurvanti<lb n="9"/> gardabhas teṣāṃ piteti<g ref="sym:bullet-double-hollow" type="punctuation">.</g><g ref="sym:dhoubleBar" type="punctuation">.</g>
              </p>
          </div>
          <div type="apparatus">
@@ -113,7 +106,7 @@
          </div>
          <div type="translation" resp="part:ryfu">
              <p n="1-2">Success! In the year 19 of his majesty mahārājādhirāja illustrious Bhojavarmadeva, on the day 21 of month Jyaiṣṭha by the movement of the Sun, during the administration of the appointed official <supplied reason="explanation"><foreign>adhikṛta</foreign></supplied> Jīvasena.</p>
-             <p n="2-7">With the assent of all the kinsmen of the other countries, by mahāsāmanta illustrious Avūdeva, the son of pāñcakulika Hāsī, for the protection of sureties, the donation of unbroken circulating cowrie-shells, which was incurred of loss by conch-shell workers, was broken, and for repairs of the vihāra protected by Allahabhaṭṭārakasvāmin, fixed tax on seizing at market, which was <supplied reason="subaudible">Avūdeva’s</supplied> own enjoyment <supplied reason="explanation"><foreign></foreign>bhoga</supplied> as mahāsāmanta, was given.</p>
+             <p n="2-7">With the assent of all the kinsmen of the other countries, by mahāsāmanta illustrious Avūdeva, the son of pāñcakulika Hāsī, for the protection of sureties, the donation of unbroken circulating cowrie-shells, which was incurred of loss by conch-shell workers, was broken, and for repairs of the vihāra protected by Allahabhaṭṭārakasvāmin, fixed tax on seizing at market, which was <supplied reason="subaudible">Avūdeva’s</supplied> own enjoyment <supplied reason="explanation"><foreign/>bhoga</supplied> as mahāsāmanta, was given.</p>
              <p n="7-9">For those who protect this pious deed, there would be this religious merit. On the side of them, the mother will be the one making pure salutation. The father of those who do otherwise again will be an ass.</p>
          </div>
          <div type="commentary">

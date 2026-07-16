@@ -45,7 +45,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">DHARMA_INSBengalCharters00054</idno>
+            <idno type="filename">DHARMA_INSBengalCharters00054.xml</idno>
             <!-- The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHARMA filename is assigned. -->
             <!--argr2daba: I have used I have moved the <altIdentifier type="Siddham">, but in order to get a validating file, I had to move it into <msIdentifier>. We need to get approval of this representation from axja and if she approves need her to revise both schema and template -->
             <!--daba: I agree fully, and will be happy to go ahead with whatever Axelle suggests. I think the altIdentifier will have to go in the MS section regardless of what she does to the schema: here, we're giving the ID of this publication, of which there is only one; there, we give other IDs associated with the original text. Hand in hand with providing instructions for altIdentifier, we also need to provide for alternative titles (those in literature or Siddham) by which a user will be able find a text.-->

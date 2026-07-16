@@ -45,7 +45,7 @@
 				<authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Cambrai</pubPlace>
-				<idno type="filename">DHARMA_INSBengalCharters00052</idno><!-- 
+				<idno type="filename">DHARMA_INSBengalCharters00052.xml</idno><!-- 
 The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHARMA filename is assigned. amwb : ID Siddham = IN00065
 --><availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
