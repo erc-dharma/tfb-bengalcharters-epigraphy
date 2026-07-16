@@ -49,14 +49,7 @@
             <!-- The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHARMA filename is assigned. -->
             <!--argr2daba: I have used I have moved the <altIdentifier type="Siddham">, but in order to get a validating file, I had to move it into <msIdentifier>. We need to get approval of this representation from axja and if she approves need her to revise both schema and template -->
             <!--daba: I agree fully, and will be happy to go ahead with whatever Axelle suggests. I think the altIdentifier will have to go in the MS section regardless of what she does to the schema: here, we're giving the ID of this publication, of which there is only one; there, we give other IDs associated with the original text. Hand in hand with providing instructions for altIdentifier, we also need to provide for alternative titles (those in literature or Siddham) by which a user will be able find a text.-->
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <!-- argr2daba: I was wondering if the Siddham licence needs to be reproduced here. -->
-                  <!--daba: I think we need consultation on that. What I know is this: we never did put licence info inside the Siddham files. I've just checked and the siddham.network website offers its content under a CC BY-NC-ND 4.0 licence, which may be a problem (ND = no derivatives). I wonder if that was done because Michael anticipated DHARMA wanting to reuse those files. However, the original XML files I uploaded to Zenodo (which are in fact what I imported now) are still there under a BY-SA licence, nothing about ND or even NC. (By the way, is there any reason why our files are only BY, without SA? That would mean that any derivatives made later will not have to credit us for the work, wouldn't it?) Should I try to discuss this with Michael? I'd like to avoid fuelling the bad blood between you two, and I would also like to remain on good terms with him, so I'm not very eager to do that, but all in all, it may be best if I initiate it. Also, as you say in your email, we should probably include a reference to the Siddham files. To simplify our lives (and to conform to fact), this could simply be the zip file containing all my XML files on Zenodo, rather than individual siddham.network URLs for each file. -->
-                  <p>Copyright (c) 2019-2025 by Dániel Balogh &amp; Arlo Griffiths.</p>
-               </licence>
-            </availability>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
             <date from="2019" to="2025">2019-2025</date>
          </publicationStmt>
          <sourceDesc>
