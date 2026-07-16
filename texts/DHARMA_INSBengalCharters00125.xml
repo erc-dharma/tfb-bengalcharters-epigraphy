@@ -33,7 +33,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <authority>DHARMA</authority>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Tokyo</pubPlace>
                 <idno type="filename">DHARMA_INSBengalCharters00125.xml</idno>
                 <availability>
