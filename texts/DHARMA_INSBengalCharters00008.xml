@@ -10,14 +10,14 @@
             <titleStmt>
                 <title>Paschimbhag Plate of Śrīcandra, year 5</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp key="contributor">EpiDoc Encoding</resp>
                     <persName ref="part:ryfu">
                         <forename>Ryosuke</forename>
                         <surname>Furui</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <persName ref="part:ryfu"><!-- Update the id -->
                         <forename>Ryosuke</forename>
                         <surname>Furui</surname>

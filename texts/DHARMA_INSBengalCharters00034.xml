@@ -11,26 +11,26 @@
 			<titleStmt>
 				<title>Jagadispur Charter of the Time of Kumāragupta I</title>
 			<respStmt>
-					<resp>Original EpiDoc Encoding for Siddham</resp>
+					<resp key="contributor">Original EpiDoc Encoding for Siddham</resp>
 					<persName ref="part:daba">
 						<forename>Dániel</forename>
 						<surname>Balogh</surname>
 					</persName>
 				</respStmt><respStmt>
-					<resp>Conversion of encoding for DHARMA</resp>
+					<resp key="contributor">Conversion of encoding for DHARMA</resp>
 					<persName ref="part:daba">
 						<forename>Dániel</forename>
 						<surname>Balogh</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp>EpiDoc encoding for DHARMA of parts not yet encoded for Siddham</resp>
+					<resp key="contributor">EpiDoc encoding for DHARMA of parts not yet encoded for Siddham</resp>
 					<persName ref="part:amwb">
 						<forename>Amandine</forename>
 						<surname>Wattelier-Bricout</surname>
 					</persName></respStmt>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp key="creator">intellectual authorship of edition</resp>
 					<persName ref="part:daba">
 						<forename>Dániel</forename>
 						<surname>Balogh</surname>

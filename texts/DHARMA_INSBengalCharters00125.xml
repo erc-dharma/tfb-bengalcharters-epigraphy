@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Munger Plate of Devapāla, year 33</title>
                 <respStmt>
-                    <resp>Editors</resp>
+                    <resp key="contributor">Editors</resp>
                     <persName ref="part:ryfu">
                         <forename>Ryosuke</forename>
                         <surname>Furui</surname>
@@ -21,7 +21,7 @@
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <persName ref="part:ryfu"><!-- Update the id -->
                         <forename>Ryosuke</forename>
                         <surname>Furui</surname>

@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Nalanda Plate of Devapāla, year 35</title>
                 <respStmt>
-                    <resp>Editor</resp>
+                    <resp key="creator">Editor</resp>
                     <persName ref="part:ryfu"><!-- Update the id -->
                         <forename>Ryosuke</forename>
                         <surname>Furui</surname>
@@ -21,7 +21,7 @@
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <!-- This may be the same as the creator of the file -->
                     <persName ref="part:ryfu"><!-- Update the id -->
                         <forename>Ryosuke</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->

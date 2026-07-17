@@ -10,28 +10,28 @@
             <titleStmt>
                 <title>Gunaighar Charter of Vainyagupta</title>
                 <respStmt>
-                    <resp>Original EpiDoc Encoding for Siddham</resp>
+                    <resp key="contributor">Original EpiDoc Encoding for Siddham</resp>
                     <persName ref="part:daba">
                         <forename>Dániel</forename>
                         <surname>Balogh</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>Conversion of encoding for DHARMA</resp>
+                    <resp key="contributor">Conversion of encoding for DHARMA</resp>
                     <persName ref="part:daba">
                         <forename>Dániel</forename>
                         <surname>Balogh</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>Conversion of encoding with the template V3</resp>
+                    <resp key="contributor">Conversion of encoding with the template V3</resp>
                     <persName ref="part:amwb">
                         <forename>Amandine</forename>
                         <surname>Wattelier-Bricout</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <persName ref="part:daba">
                         <forename>Dániel</forename>
                         <surname>Balogh</surname>

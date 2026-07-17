@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Bhagalpur Plate of Nārāyaṇapāla, year 17</title>
                 <respStmt>
-                    <resp>Editor</resp>
+                    <resp key="creator">Editor</resp>
                     <!-- Work done in the file, e.g. editor ...-->
                     <persName ref="part:ryfu"><!-- Update the id -->
                         <forename>Ryosuke</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
@@ -18,7 +18,7 @@
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <!-- This may be the same as the creator of the file -->
                     <persName ref="part:ryfu"><!-- Update the id -->
                         <forename>Ryosuke</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->

@@ -10,19 +10,19 @@
             <titleStmt>
                 <title>Mallasarul Charter of Vijayasena, time of Gopacandra year 3</title>
                 <respStmt>
-                       <resp>Original EpiDoc Encoding for Siddham</resp>
+                       <resp key="contributor">Original EpiDoc Encoding for Siddham</resp>
                         <persName ref="part:daba">
                             <forename>Dániel</forename>
                             <surname>Balogh</surname>
                         </persName>
                 </respStmt><respStmt>
-                        <resp>Conversion of encoding for DHARMA</resp>
+                        <resp key="contributor">Conversion of encoding for DHARMA</resp>
                         <persName ref="part:daba">
                             <forename>Dániel</forename>
                             <surname>Balogh</surname>
                         </persName>
                 </respStmt><respStmt>
-                    <resp>Conversion of encoding with the template V3</resp>
+                    <resp key="contributor">Conversion of encoding with the template V3</resp>
                     <!-- Work done in the file, e.g. editor ...-->
                     <persName ref="part:amwb"><!-- Update the id -->
                         <forename>Amandine</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
@@ -30,7 +30,7 @@
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <!-- This may be the same as the creator of the file -->
                     <persName ref="part:amwb"><!-- Update the id -->
                         <forename>Amandine</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->

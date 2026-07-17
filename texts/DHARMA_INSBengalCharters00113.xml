@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Bangarh Stone Slab of the Time of Nayapāla</title>
                 <respStmt>
-                    <resp>Editor</resp>
+                    <resp key="creator">Editor</resp>
                     <!-- Work done in the file, e.g. editor ...-->
                     <persName ref="part:ryfu">
                         <forename>Ryosuke</forename>
@@ -18,7 +18,7 @@
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <!-- This may be the same as the creator of the file -->
                     <persName ref="part:ryfu"><!-- Update the id -->
                         <forename>Ryosuke</forename>

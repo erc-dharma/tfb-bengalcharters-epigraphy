@@ -10,7 +10,7 @@
          <titleStmt>
             <title>Mainamati Plate of Vīradharadeva, year 15</title>
             <respStmt>
-               <resp>EpiDoc Encoding</resp>
+               <resp key="contributor">EpiDoc Encoding</resp>
                <persName ref="part:ryfu">
                   <forename>Ryosuke</forename> 
                   <surname>Furui</surname>
@@ -18,7 +18,7 @@
             </respStmt>
 
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName ref="part:ryfu">
                   <forename>Ryosuke</forename> 
                   <surname>Furui</surname>
