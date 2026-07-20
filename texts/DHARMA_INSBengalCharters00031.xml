@@ -13,34 +13,34 @@
 amwb2argr : I changed the title according to the spreadsheet. The error was mine, I hadn't checked the spreadsheet...
 -->
 			<respStmt>
-					<resp key="contributor">Original EpiDoc Encoding for Siddham</resp>
+					<resp>Original EpiDoc Encoding for Siddham</resp>
 					<persName ref="part:daba">
 						<forename>Dániel</forename>
 						<surname>Balogh</surname>
 					</persName>
 				</respStmt><respStmt>
-					<resp key="contributor">Conversion of encoding for DHARMA</resp>
+					<resp>Conversion of encoding for DHARMA</resp>
 					<persName ref="part:daba">
 						<forename>Dániel</forename>
 						<surname>Balogh</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp key="contributor">EpiDoc encoding for DHARMA of parts not yet encoded for Siddham</resp>
+					<resp>EpiDoc encoding for DHARMA of parts not yet encoded for Siddham</resp>
 					<persName ref="part:amwb">
 						<forename>Amandine</forename>
 						<surname>Wattelier-Bricout</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp key="creator">intellectual authorship of edition</resp>
+					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:daba">
 						<forename>Dániel</forename>
 						<surname>Balogh</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp key="contributor">intellectual authorship of apparatus and translation</resp>
+					<resp>intellectual authorship of apparatus and translation</resp>
 					<persName ref="part:amwb">
 						<forename>Amandine</forename>
 						<surname>Wattelier-Bricout</surname>
@@ -49,12 +49,18 @@ amwb2argr : I changed the title according to the spreadsheet. The error was mine
 				</respStmt>
 				</titleStmt>
 			<publicationStmt>
-				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+				<authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
+				</authority>
 				<pubPlace>Cambrai</pubPlace>
 				<idno type="filename">DHARMA_INSBengalCharters00031.xml</idno><!-- 
 daba : The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHARMA filename is assigned. 
 amwb: siddham idno IN00023
---><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+--><availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit thttps://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Dániel Balogh and Amandine Wattelier-Bricout.</p>
+					</licence>
+				</availability>
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
@@ -75,8 +81,19 @@ amwb: siddham idno IN00023
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
 		<revisionDesc>
 <!-- argr2amwb: it is important at least to mark a <change> entry each for the start and end dates of your encoding (and translation) work -->
 			<change who="part:ryfu" when="2026-05-25" status="draft">Script information added</change>
@@ -217,13 +234,13 @@ daba: note that the final 5 lost characters are only there if the line extends t
 					<rdg source="bib:Bandyopadhyaya1909_01"><gap reason="lost" unit="character" extent="unknown"/><supplied reason="lost">śrī-kumāragupta-rāja-sa</supplied></rdg>
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/></rdg>
 					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02"><supplied reason="lost" cert="low">oṁ| catur-udadhi-salilāsvāditayaśaso mahārājādhirāja-śrī-kumāraguptasya</supplied></rdg>
-					<rdg source="bib:Agrawala1983_02"><gap reason="lost" unit="character" quantity="20" precision="low"/><supplied reason="lost">sa</supplied></rdg>
+					<rdg source="bib:Agrawala1983_01"><gap reason="lost" unit="character" quantity="20" precision="low"/><supplied reason="lost">sa</supplied></rdg>
 					<rdg source="bib:Balogh2019_03"><supplied reason="lost" cert="low">siddhaM| catur-udadhi-salilāsvāditayaśaso mahārājādhirāja-śrī-kumāraguptasya</supplied> <supplied reason="lost">sa</supplied></rdg>
-					<note><bibl><ptr target="bib:Agrawala1983_02"/><citedRange unit="page">36</citedRange></bibl>, note 2: <quote>Most probably here preceded the date in numerals <foreign><abbr>saṁ</abbr> <num value="113">100 10 3</num></foreign></quote>. <bibl><ptr target="bib:Sircar1965_02"/></bibl> <bibl><ptr target="bib:Balogh2019_03"/></bibl> suggest the following reconstruction: <supplied reason="lost" cert="low"><foreign>siddhaM</foreign> <g ref="sym:bar" type="punctuation">.</g> <foreign>catur-udadhi-salilāsvādita-yaśaso mahārājādhirāja-śrī-kumāraguptasya</foreign></supplied></note>
+					<note><bibl><ptr target="bib:Agrawala1983_01"/><citedRange unit="page">36</citedRange></bibl>, note 2: <quote>Most probably here preceded the date in numerals <foreign><abbr>saṁ</abbr> <num value="113">100 10 3</num></foreign></quote>. <bibl><ptr target="bib:Sircar1965_02"/></bibl> <bibl><ptr target="bib:Balogh2019_03"/></bibl> suggest the following reconstruction: <supplied reason="lost" cert="low"><foreign>siddhaM</foreign> <g ref="sym:bar" type="punctuation">.</g> <foreign>catur-udadhi-salilāsvādita-yaśaso mahārājādhirāja-śrī-kumāraguptasya</foreign></supplied></note>
 				</app>
 				<app loc="1">
 					<lem>-<unclear>śa</unclear>t<supplied reason="lost">e</supplied></lem>
-					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">-śa<unclear>te</unclear></rdg>
+					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">-śa<unclear>te</unclear></rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01">śata-</rdg>
 					<rdg source="bib:Basak1923-1924_01">śat<supplied reason="lost">e</supplied></rdg>
 				</app>
@@ -234,14 +251,14 @@ daba: note that the final 5 lost characters are only there if the line extends t
 					<lem source="bib:Balogh2019_03">°daśotta<lb n="2" break="no"/><supplied reason="lost">re</supplied></lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">°daśutta<supplied reason="lost">ra</supplied><lb n="2"/></rdg>
 					<rdg source="bib:Basak1923-1924_01">°daśotta<lb n="2"/><lb n="2"/></rdg>
-					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02">daśotta<supplied reason="lost">re</supplied><lb n="2"/></rdg>
+					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01">daśotta<supplied reason="lost">re</supplied><lb n="2"/></rdg>
 					<note><bibl><ptr target="bib:Bandyopadhyaya1909_01"/><citedRange unit="page"/></bibl> suggests reading °daśottare in note 4. <bibl><ptr target="bib:Basak1923-1924_01"/></bibl> suggests reading °<foreign>daśottare</foreign> in note.</note>
 				</app>
 				<app loc="2">
 					<lem source="bib:Balogh2019_03"><gap reason="lost" precision="low" quantity="23" unit="character"/></lem>
 					<rdg source="bib:Bandyopadhyaya1909_01 bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/></rdg>
 					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02"><supplied reason="lost" cert="low"><abbr>saṁ</abbr> <num value="123">100 20 3</num></supplied><gap reason="lost" unit="character" extent="unknown"/></rdg>
-					<rdg source="bib:Agrawala1983_02"><gap reason="lost" unit="character" quantity="20" precision="low"/></rdg>
+					<rdg source="bib:Agrawala1983_01"><gap reason="lost" unit="character" quantity="20" precision="low"/></rdg>
 					<note>I suggest assuming an ordinal number of the day and the name of the month or a place name here, see my note in the translation.</note>
 				</app>
 				<app loc="2">
@@ -250,7 +267,7 @@ daba: note that the final 5 lost characters are only there if the line extends t
 					-->
 					<lem source="bib:Balogh2019_03"><supplied reason="lost">asyā</supplied><sic>n</sic> d<unclear>i</unclear>vasa-</lem>
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/>nd<unclear>i</unclear>vasa-</rdg>
-					<rdg source="bib:Bandyopadhyaya1909_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02"><supplied reason="lost">asyā</supplied><unclear>ndi</unclear>vasa-</rdg>
+					<rdg source="bib:Bandyopadhyaya1909_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01"><supplied reason="lost">asyā</supplied><unclear>ndi</unclear>vasa-</rdg>
 					<note>The word <foreign>asyāṁ</foreign> is an emendation based on the occurrence of the expression <foreign>asyāṁ divasa-pūrvāyāṁ</foreign> in others plates: see the Govindnagar Buddha Image Inscription of the Time of Kumāragupta I<!-- 
 amwb : add a ref if this plate is encoded in DHARMAdatabase
 				--> <supplied reason="explanation">see <bibl><ptr target="bib:Balogh2019_03"/><citedRange unit="item">IN00027</citedRange></bibl></supplied>, the Karamdāṁdā Stone Liṅga Inscription of Kumāragupta I<!--  
@@ -260,11 +277,11 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase 
 --> <supplied reason="explanation">see <bibl><ptr target="bib:Balogh2019_03"/><citedRange unit="item">IN00022</citedRange></bibl></supplied>. </note>
 				</app>
 				<app loc="2">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">-pūrvvāyāṁ</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">-pūrvvāyāṁ</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">-purvvāyāṁ</rdg>
 				</app>
 				<app loc="2">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02">parama-daivata-para°</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01">parama-daivata-para°</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">parama-daivata-para<supplied reason="lost">ma</supplied></rdg>
 					<note><bibl><ptr target="bib:Basak1923-1924_01"/></bibl> suggests reading <foreign>parama-daivata-parabhaṭṭāraka</foreign>. As the <foreign>akṣara</foreign> °<foreign>ra</foreign>° is on the border of the plate, the final one <foreign>ma</foreign> supplied by <bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl> can be assumed but not at the end of this line. </note>
 				</app>
@@ -274,30 +291,30 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase 
 					<rdg source="bib:Bandyopadhyaya1909_01">-parama<lb n="3"/> <gap reason="lost" unit="character" extent="unknown"/> kṣudra<supplied reason="lost">ka nivāsinaḥ</supplied> brāhmaṇa</rdg>
 					<rdg source="bib:Basak1923-1924_01">-para<lb n="3" break="no"/> <gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost" cert="low">ā</supplied> kuṭu<unclear>mbi</unclear> <gap reason="lost" unit="character" extent="unknown"/> brāhmaṇa-</rdg>
 					<rdg source="bib:Sircar1942_01"><supplied reason="lost">ma-bhaṭṭāraka-mahārājādhirāja-śrī-kumāraguptaḥ</supplied> <gap reason="lost" unit="character" extent="unknown"/> kuṭu<unclear>mbi</unclear></rdg>
-					<rdg source="bib:Agrawala1983_02">-para<lb n="3" break="no"/><supplied reason="lost">ma-bhaṭṭāraka-mahārājādhirāja-śrī-kumāragupte pr̥thivīpatau</supplied>  <gap reason="lost" unit="character" extent="unknown"/>  kuṭu<unclear>mbi</unclear> <gap reason="lost" unit="character" extent="unknown"/> brāhmaṇa-</rdg>
+					<rdg source="bib:Agrawala1983_01">-para<lb n="3" break="no"/><supplied reason="lost">ma-bhaṭṭāraka-mahārājādhirāja-śrī-kumāragupte pr̥thivīpatau</supplied>  <gap reason="lost" unit="character" extent="unknown"/>  kuṭu<unclear>mbi</unclear> <gap reason="lost" unit="character" extent="unknown"/> brāhmaṇa-</rdg>
 					<note><bibl><ptr target="bib:Sircar1942_01"/></bibl> first suggests reading <foreign>samavetānkuṭumbinaḥ grāmika-brāhmaṇa°</foreign>. In my translation, I suggest another conjecture for the gap.</note>
 				</app>
 				<app loc="3">
 					<!--amwb
 						<lem>-<unclear>maha</unclear></lem>
 					-->
-					<lem source="bib:Bandyopadhyaya1909_01 bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">-maha</lem>
+					<lem source="bib:Bandyopadhyaya1909_01 bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">-maha</lem>
 					<note><bibl><ptr target="bib:Basak1923-1924_01"/></bibl> suggests : <quote>Read, perhaps, <foreign>mahattara</foreign>-.</quote></note>
 				</app>
 				<app loc="4">
 					<lem source="bib:Balogh2019_03"><gap reason="lost" precision="low" quantity="19" unit="character"/>vakīrtti-</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01"><gap reason="lost" unit="character" extent="unknown"/>de<supplied reason="lost"/>vakīrtti-</rdg>
 					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/>vakīrtti-</rdg>
-					<rdg source="bib:Agrawala1983_02"><gap reason="lost" precision="low" quantity="20" unit="character"/>vakīrtti-</rdg>
+					<rdg source="bib:Agrawala1983_01"><gap reason="lost" precision="low" quantity="20" unit="character"/>vakīrtti-</rdg>
 				</app>
 				<app loc="4">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">-kṣemadatta-</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">-kṣemadatta-</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">-kṣamavanta-</rdg>
 				</app>
 				<app loc="4">
 					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Balogh2019_03">-śuṅkuka-kāla-</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">-<supplied reason="lost" cert="low">śu</supplied>ṅkuka-kāla-</rdg>
-					<rdg source="bib:Agrawala1983_02">-śaṅkuka-kāla-</rdg>
+					<rdg source="bib:Agrawala1983_01">-śaṅkuka-kāla-</rdg>
 					<note><bibl><ptr target="bib:Bandyopadhyaya1909_01"/><citedRange unit="page">461</citedRange></bibl> adds in note 2 : <quote>The word may also be read <foreign><unclear cert="low">bru</unclear> ṅkuka</foreign></quote>.</note>
 				</app>
 				<app loc="5">
@@ -307,21 +324,21 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase 
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost" cert="low">pa</supplied>viṣṇu-</rdg>
 					<rdg source="bib:Sircar1942_01"><gap reason="lost" unit="character" extent="unknown"/> paviṣṇu-</rdg>
 					<rdg source="bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/> viṣṇu-</rdg>
-					<rdg source="bib:Agrawala1983_02"><gap reason="lost" unit="character" quantity="20" precision="low"/> viṣṇu-</rdg>
+					<rdg source="bib:Agrawala1983_01"><gap reason="lost" unit="character" quantity="20" precision="low"/> viṣṇu-</rdg>
 					<note><bibl><ptr target="bib:Bandyopadhyaya1909_01"/><citedRange unit="page">460</citedRange></bibl> suggests understanding the name Viśvadevaśarman.</note>
 				</app>
 				<app loc="5">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">-viṣṇubhadra-</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">-viṣṇubhadra-</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">-viṣyabhadra-</rdg>
 					<note><bibl><ptr target="bib:Bandyopadhyaya1909_01"/><citedRange unit="page">460</citedRange></bibl> suggests understanding the name Viśvabhadra.</note>
 				</app>
 				<app loc="5">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">-khāsaka-</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">-khāsaka-</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">-khuṣaka-</rdg>
 				</app>
 				<app loc="5">
 					<lem>Umaka</lem>
-					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">-rāmaka-</rdg>
+					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">-rāmaka-</rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01">Upaka-</rdg>
 				</app>
 				<app loc="6">
@@ -329,26 +346,26 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase 
 					<rdg source="bib:Balogh2019_03"><gap reason="lost" precision="low" quantity="18" unit="character"/><unclear cert="low">sasu</unclear></rdg>
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost" cert="low">sasu</supplied></rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01 bib:Sircar1942_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/></rdg>
-					<rdg source="bib:Agrawala1983_02"><gap reason="lost" precision="low" quantity="20" unit="character"/></rdg>
+					<rdg source="bib:Agrawala1983_01"><gap reason="lost" precision="low" quantity="20" unit="character"/></rdg>
 				</app>
 				<app loc="6">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">śrībhadra-</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">śrībhadra-</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">śībhadra°</rdg>
 				</app>
 				<app loc="6">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">-somapāla-</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">-somapāla-</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">°stham-apaha°</rdg>
 				</app>
 				<app loc="6">
 					<lem>-rāmā<unclear>dyāḥ</unclear></lem>
-					<rdg source="bib:Agrawala1983_02 bib:Balogh2019_03">-rāmā<unclear cert="low">dyāḥ</unclear></rdg>
+					<rdg source="bib:Agrawala1983_01 bib:Balogh2019_03">-rāmā<unclear cert="low">dyāḥ</unclear></rdg>
 					<rdg source="bib:Basak1923-1924_01">-rām<supplied reason="lost" cert="low">ādyāḥ</supplied></rdg>
 					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02">-<unclear cert="low">rāmādyāka</unclear></rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01">°ra<supplied reason="lost" cert="low">ṇa</supplied>bhyā-</rdg>
 				</app>
 				<app loc="6">
 					<lem>°dhikaraṇañ ca <space/></lem>
-					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">°dhikaraṇañ ca</rdg>
+					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">°dhikaraṇañ ca</rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01">°dhikaraṇ<gap reason="lost" unit="character" extent="unknown"/></rdg>
 				</app>
 				<app loc="7">
@@ -362,21 +379,21 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase 
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/> <unclear cert="low">viṣṇunā</unclear></rdg>
 					<rdg source="bib:Sircar1942_01"><gap reason="lost" unit="character" extent="unknown"/> viṣṇu<unclear cert="low">nā</unclear></rdg>
 					<rdg source="bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/> viṣṇu<choice><sic>nā</sic><corr>ṇā</corr></choice></rdg>
-					<rdg source="bib:Agrawala1983_02"><gap reason="lost" precision="low" quantity="20" unit="character"/>viṣṇu<unclear cert="low">nā</unclear></rdg>
+					<rdg source="bib:Agrawala1983_01"><gap reason="lost" precision="low" quantity="20" unit="character"/>viṣṇu<unclear cert="low">nā</unclear></rdg>
 				</app>
 				<app loc="7">
 					<lem>vijñāpitā <supplied reason="omitted">.</supplied> <space/> Iha khādā<unclear cert="low">ṭa</unclear>-</lem>
 					<rdg source="bib:Balogh2019_03">vijñāpitā Iha khādā<unclear cert="low">ṭa</unclear>-</rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01">vijñāpita<gap reason="lost" unit="character" extent="unknown"/>mahā khuṣā°</rdg>
 					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02">vijñāpitā Iha khādā<unclear cert="low">ṭā</unclear>-</rdg>
-					<rdg source="bib:Agrawala1983_02">vijñāpitā Iha khā<unclear cert="low">dyāṭa</unclear>-</rdg>
+					<rdg source="bib:Agrawala1983_01">vijñāpitā Iha khā<unclear cert="low">dyāṭa</unclear>-</rdg>
 				</app>
 				<app loc="7">
 					<lem source="bib:Bandyopadhyaya1909_01 bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Balogh2019_03">°pāra-</lem>
-					<rdg source="bib:Agrawala1983_02">°pāka-</rdg>
+					<rdg source="bib:Agrawala1983_01">°pāka-</rdg>
 				</app>
 				<app loc="7">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">'nuvr̥tta-</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">'nuvr̥tta-</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">nivatta</rdg>
 					<note><bibl><ptr target="bib:Bandyopadhyaya1909_01"/><citedRange unit="page">461</citedRange></bibl> suggests reading <foreign>nibaddha</foreign> in note 4.</note>
 				</app>
@@ -384,34 +401,34 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase 
 					<!--amwb
 						<lem>-sthi<unclear reason="illegible">ti</unclear></lem>
 					-->
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">-sthi<unclear>ti</unclear>-</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">-sthi<unclear>ti</unclear>-</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">-sthiti-</rdg>
 				</app>
 				<app loc="8">
 					<lem source="bib:Balogh2019_03"><gap reason="lost" precision="low" quantity="15" unit="character"/>nīvī-</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01 bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/> nīvī-</rdg>
-					<rdg source="bib:Agrawala1983_02"><gap reason="lost" precision="low" quantity="20" unit="character"/>nīvī-</rdg>
+					<rdg source="bib:Agrawala1983_01"><gap reason="lost" precision="low" quantity="20" unit="character"/>nīvī-</rdg>
 				</app>
 				<app loc="8">
 					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Balogh2019_03">dharmma-kṣayeṇa</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">dharmma-kṣayam ā°</rdg>
-					<rdg source="bib:Sircar1965_02 bib:Agrawala1983_02">dharmm<unclear>ā</unclear>-kṣayeṇa</rdg>
+					<rdg source="bib:Sircar1965_02 bib:Agrawala1983_01">dharmm<unclear>ā</unclear>-kṣayeṇa</rdg>
 					<note><bibl><ptr target="bib:Sircar1942_01"/></bibl> suggests for <foreign>kṣa</foreign> an alternative reading in brackets followed by a question mark : <foreign>kkra</foreign>. In note 3 p.281, he adds this suggestion : <quote>Or <foreign>dharmātkrayeṇa</foreign> ?</quote></note>
 				</app>
 				<app loc="8">
 					<!--amwb:
 						<lem>labhya<supplied reason="lost">te</supplied><unclear>ta</unclear>d arha°</lem>
 					-->
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">labhya<unclear>te</unclear><unclear>ta</unclear>d arha°</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">labhya<unclear>te</unclear><unclear>ta</unclear>d arha°</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">°labhya<gap reason="lost" unit="character" extent="unknown"/>darha°</rdg>
 				</app>
 				<app loc="8">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">mamādyānenaiva</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">mamādyānenaiva</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">°m-āśādya nanu va°</rdg>
 					<note><bibl><ptr target="bib:Sircar1942_01"/><citedRange unit="page">281</citedRange></bibl> suggests understanding <foreign>mahyaṁ</foreign> for <foreign>mama</foreign> in note 4.</note>
 				</app>
 				<app loc="8">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">kkrame<choice><sic>n</sic><corr>ṇ</corr></choice>a dā<unclear>tuṁ</unclear></lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">kkrame<choice><sic>n</sic><corr>ṇ</corr></choice>a dā<unclear>tuṁ</unclear></lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">°kkra le<supplied reason="lost" cert="low">na</supplied> vā<gap reason="lost" unit="character" extent="unknown"/></rdg>
 				</app>
 				<app loc="9">
@@ -421,55 +438,55 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase 
 					<lem source="bib:Balogh2019_03"><gap reason="lost" precision="low" quantity="14" unit="character"/>same°</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01"><gap reason="lost" unit="character" extent="unknown"/>pa<supplied reason="lost" cert="low">le</supplied></rdg>
 					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/> same°</rdg>
-					<rdg source="bib:Agrawala1983_02"><gap reason="lost" precision="low" quantity="20" unit="character"/>same°</rdg>
+					<rdg source="bib:Agrawala1983_01"><gap reason="lost" precision="low" quantity="20" unit="character"/>same°</rdg>
 				</app>
 				<app loc="9">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">°ty<unclear cert="low">ā</unclear>bhihitai<unclear cert="low">ḥ</unclear></lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">°ty<unclear cert="low">ā</unclear>bhihitai<unclear cert="low">ḥ</unclear></lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">°ty-abhihita</rdg>
 				</app>
 				<app loc="9">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">sarvvam eva</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">sarvvam eva</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">sarvva laṁva</rdg>
 				</app>
 				<app loc="9">
 					<lem source="bib:Basak1923-1924_01 bib:Balogh2019_03"><unclear cert="low">jñā</unclear>kara-</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01"><gap reason="lost" unit="character" extent="unknown"/>kara</rdg>
-					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02"><gap reason="lost" unit="character" quantity="2"/> kara-</rdg>
+					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01"><gap reason="lost" unit="character" quantity="2"/> kara-</rdg>
 					<note><bibl><ptr target="bib:Sircar1942_01"/><citedRange unit="page">281</citedRange></bibl> first suggested reading <foreign>kāra</foreign> or <foreign>ājñākara</foreign> in note 5. Then he suggested : <quote>Probably <foreign>kṣetrakara</foreign></quote> in <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">288</citedRange></bibl>, note 8.</note>
 				</app>
 				<app loc="9">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">-prative<unclear cert="low">śi</unclear>-ku°</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">-prative<unclear cert="low">śi</unclear>-ku°</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">°prati prati ku°</rdg>
 				</app>
 				<app loc="10">
 					<lem source="bib:Balogh2019_03"><gap reason="lost" precision="low" quantity="14" unit="character"/>ri <gap reason="illegible" precision="low" quantity="1" unit="character"/> kana</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01"><gap reason="lost" unit="character" extent="unknown"/>parityaktena</rdg>
-					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02"><gap reason="lost" unit="character" extent="unknown"/> ri <gap reason="lost" unit="character" extent="unknown"/> kana</rdg>
+					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01"><gap reason="lost" unit="character" extent="unknown"/> ri <gap reason="lost" unit="character" extent="unknown"/> kana</rdg>
 				</app>
 				<app loc="10">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03"><gap reason="illegible" precision="low" quantity="1" unit="character"/> yad ito <gap reason="illegible" precision="low" quantity="2" unit="character"/> <unclear>ta</unclear>d avadhr̥tam</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03"><gap reason="illegible" precision="low" quantity="1" unit="character"/> yad ito <gap reason="illegible" precision="low" quantity="2" unit="character"/> <unclear>ta</unclear>d avadhr̥tam</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">ya vi<gap reason="illegible" precision="low" quantity="1" unit="character"/>ca<gap reason="illegible" precision="low" quantity="1" unit="character"/>dahyakam</rdg>
 				</app>
 				<app loc="10">
 					<lem>avadhr̥tam iti<supplied reason="omitted">.</supplied> <space/> yatas</lem>
-					<rdg source="bib:Bandyopadhyaya1909_01 bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">avadhr̥tam iti yatas</rdg>
+					<rdg source="bib:Bandyopadhyaya1909_01 bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">avadhr̥tam iti yatas</rdg>
 				</app>
 				<app loc="10">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">°tas tatheti</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">°tas tatheti</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">°tas t<unclear>y</unclear>ajati</rdg>
 				</app>
 				<app loc="11">
 					<lem source="bib:Balogh2019_03"><gap reason="lost" precision="low" quantity="11" unit="character"/> <supplied reason="lost">aṣṭaka-na</supplied>vaka-nalā<unclear>bhyā</unclear>m apa°</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01"><gap reason="lost" unit="character" extent="unknown"/>vara nalāka sa<supplied reason="lost" cert="low">da</supplied></rdg>
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/> vaka-nalā<unclear>bhyā</unclear>m apa°</rdg>
-					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02"><gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost">aṣṭaka-na</supplied>vaka-nalā<unclear>bhyā</unclear>m apa°</rdg>
+					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01"><gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost">aṣṭaka-na</supplied>vaka-nalā<unclear>bhyā</unclear>m apa°</rdg>
 					<note><bibl><ptr target="bib:Basak1923-1924_01"/><citedRange unit="page">347</citedRange></bibl> already suggests reading <foreign>aṣṭaka navaka-nalābhyām</foreign> in note 12. I follow his suggestion by comparing the different occurrences of this expression in several plates coming from the same period : see <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref> line 21, <ref target="DHARMA_INSBengalCharters00049.xml">Baigram Plate</ref> lines 18-19, <ref target="DHARMA_INSBengalCharters00051.xml">Tāvīra Grant</ref> lines 16-17, <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur Plate</ref> lines 19-20, <ref target="DHARMA_INSBengalCharters00054.xml">Nandapur Plate</ref> line 14, <ref target="DHARMA_INSBengalCharters00055.xml">A grant of land to monasteries at Śiṣīpuñja, Madhyamasṛgālikā and Grāmakūṭagohālī</ref> lines 23-24 and <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref> lines 20-21. </note>
 				</app>
 				<app loc="11">
 					<!--amwb :
 						<lem>°viñchya <supplied cert="low" reason="lost">kṣetra</supplied>-</lem>
 					-->
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">°viñchya kṣetra-</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">°viñchya kṣetra-</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">vi<gap reason="lost" unit="character" quantity="1"/>chya<gap reason="lost" unit="character" extent="unknown"/></rdg>
 				</app>
 				<app loc="11">
@@ -484,29 +501,29 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase 
 					<lem>datta<supplied reason="lost">ṁ</supplied><supplied reason="omitted">.</supplied> tataḥ</lem>
 					<rdg source="bib:Basak1923-1924_01 bib:Balogh2019_03">dattaṁ tataḥ</rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01">datta tataḥ</rdg>
-					<rdg source="bib:Sircar1942_01 bib:Agrawala1983_02">dattaṁ<supplied reason="omitted">.</supplied> tataḥ</rdg>
+					<rdg source="bib:Sircar1942_01 bib:Agrawala1983_01">dattaṁ<supplied reason="omitted">.</supplied> tataḥ</rdg>
 					<rdg source="bib:Sircar1965_02">datta<choice><sic>ṁ</sic><corr>ḥ</corr></choice><supplied reason="omitted">.</supplied> tataḥ</rdg>
 				</app>
 				<app loc="11">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">Āyuktaka-</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">Āyuktaka-</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">suyuktaka-</rdg>
 				</app>
 				<app loc="12">
 					<lem source="bib:Balogh2019_03"><gap reason="lost" precision="low" quantity="14" unit="character"/><unclear cert="low">bhrā</unclear>tr̥-kaṭa°</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01"><gap reason="lost" unit="character" extent="unknown"/><supplied reason="lost" cert="low">bhū</supplied> kaṭa°</rdg>
 					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/><gap reason="lost" quantity="1" unit="character"/><unclear cert="low">bhrā</unclear>tr̥-kaṭa°</rdg>
-					<rdg source="bib:Agrawala1983_02"><gap reason="lost" precision="low" quantity="20" unit="character"/><supplied reason="lost" cert="low">bhrā</supplied>tr̥-kaṭa°</rdg>
+					<rdg source="bib:Agrawala1983_01"><gap reason="lost" precision="low" quantity="20" unit="character"/><supplied reason="lost" cert="low">bhrā</supplied>tr̥-kaṭa°</rdg>
 				</app>
 				<app loc="12">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">-vāstavya-</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">-vāstavya-</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">°vante<supplied reason="lost" cert="low">bhya</supplied></rdg>
 				</app>
 				<app loc="12">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">-chandoga-</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">-chandoga-</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">chānda<supplied reason="lost" cert="low">śa</supplied></rdg>
 				</app>
 				<app loc="12">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">°svāmino</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">°svāmino</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">°svāmine</rdg>
 					<note><bibl><ptr target="bib:Sircar1942_01"/><citedRange unit="page">281</citedRange></bibl> suggests correcting <foreign>svāmino</foreign> by <foreign>svāmine</foreign> in note 7 (repeated in note 1 <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">289</citedRange></bibl>).</note>
 				</app>
@@ -515,35 +532,35 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase 
 					<rdg source="bib:Basak1923-1924_01 bib:Balogh2019_03">dattaṁ taddha<unclear cert="low">va</unclear></rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01">dattaṁ tadva<gap reason="lost" unit="character" extent="unknown"/></rdg>
 					<rdg source="bib:Sircar1942_01">dattaṁ<supplied reason="omitted">.</supplied> ta<unclear>dbhava</unclear></rdg>
-					<rdg source="bib:Sircar1965_02 bib:Agrawala1983_02">datta<choice><sic>ṁ</sic><corr>m</corr></choice><supplied reason="omitted">.</supplied> ta<unclear>dbhava</unclear></rdg>
+					<rdg source="bib:Sircar1965_02 bib:Agrawala1983_01">datta<choice><sic>ṁ</sic><corr>m</corr></choice><supplied reason="omitted">.</supplied> ta<unclear>dbhava</unclear></rdg>
 				</app>
 				<app loc="13">
 					<lem source="bib:Balogh2019_03"><gap reason="lost" precision="low" quantity="16" unit="character"/>bhūmyā</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01 bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02"><gap reason="lost" unit="character" extent="unknown"/>bhūmyā</rdg>
-					<rdg source="bib:Agrawala1983_02"><gap reason="lost" precision="low" quantity="20" unit="character"/>bhūmyā</rdg>
+					<rdg source="bib:Agrawala1983_01"><gap reason="lost" precision="low" quantity="20" unit="character"/>bhūmyā</rdg>
 					<note><bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="note">1</citedRange><citedRange unit="page">289</citedRange></bibl> suggests restoring for the end of the line 12 and the beginning of the following by <foreign>bhavadbhiḥ sarvair evānumodyānupālanīyaṃ</foreign>.</note>
 				</app>
 				<app loc="13">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">dā<unclear>nākṣe</unclear>pe</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">dā<unclear>nākṣe</unclear>pe</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">°dānkṣe<supplied reason="lost" cert="low">pa</supplied></rdg>
 				</app>
 				<app loc="13">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">guṇāguṇam</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">guṇāguṇam</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">śu<supplied reason="lost" cert="low">nu</supplied> guṇam</rdg>
 				</app>
 				<app loc="13">
 					<lem source="bib:Balogh2019_03">k<unclear>ā</unclear>ñcanakasya</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">ka<supplied reason="lost" cert="low">lyā</supplied>nakasya</rdg>
-					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02">k<choice><sic>a</sic><corr>ā</corr></choice>ñcanakasya</rdg>
+					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01">k<choice><sic>a</sic><corr>ā</corr></choice>ñcanakasya</rdg>
 				</app>
 				<app loc="13">
 					<lem source="bib:Balogh2019_03">ci<lb n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap reason="lost" precision="low" quantity="10" unit="character"/> <seg type="component" subtype="consonant"><gap reason="illegible" quantity="1" unit="component"/></seg>ā</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">co<gap reason="lost" unit="character" extent="unknown"/><lb n="14" break="no"/>śa</rdg>
 					<rdg source="bib:Basak1923-1924_01">ci<lb n="14" break="no"/><gap reason="lost" unit="character" extent="unknown"/>ā</rdg>
-					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02">ci<lb n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost">.</supplied></rdg>
+					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01">ci<lb n="14" break="no"/><supplied reason="lost">ra-cañcalatvaṁ</supplied> <gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost">.</supplied></rdg>
 				</app>
 				<app loc="14">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">para-dattām vā</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">para-dattām vā</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">para-dattām bā</rdg>
 					<note><bibl><ptr target="bib:Sircar1942_01"/><citedRange unit="page">281</citedRange></bibl> suggests <foreign>para-dattā<choice><sic>m</sic><corr>ṁ</corr></choice> vā</foreign> (repeated in note 2 <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">289</citedRange></bibl>).</note>
 				</app>
@@ -551,40 +568,40 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase 
 					<lem source="bib:Sircar1942_01 bib:Sircar1965_02 bib:Balogh2019_03"><supplied reason="lost">yo hareta vasundharām sa viṣṭhāyāṁ kr̥mir bhūtvā pitr̥</supplied><unclear>bhiḥ</unclear></lem>
 					<rdg source="bib:Bandyopadhyaya1909_01"><gap reason="lost" unit="character" extent="unknown"/>tr̥bhiḥ</rdg>
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/><unclear>bhiḥ</unclear></rdg>
-					<rdg source="bib:Agrawala1983_02"><supplied reason="lost">yo hareta vasundharām sa viṣṭhāyāṁ kr̥mir bhūtvā pitr̥</supplied>bhiḥ</rdg>
+					<rdg source="bib:Agrawala1983_01"><supplied reason="lost">yo hareta vasundharām sa viṣṭhāyāṁ kr̥mir bhūtvā pitr̥</supplied>bhiḥ</rdg>
 				</app>
 				<app loc="15">
 					<lem>pacyat<choice><sic>i</sic><corr>e</corr></choice></lem>
-					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">pacyate</rdg>
+					<rdg source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">pacyate</rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01">pacyati</rdg>
 				</app>
 				<app loc="15">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">ṣaṣṭiṁ</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">ṣaṣṭiṁ</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">ṣaṣṭi<unclear>ṁ</unclear></rdg>
 				</app>
 				<app loc="15">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">-sahasrā<choice><sic>n</sic><corr>ṇ</corr></choice>i</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">-sahasrā<choice><sic>n</sic><corr>ṇ</corr></choice>i</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">-sahasrāṇi</rdg>
 				</app>
 				<app loc="15">
 					<!--amwb:
 						<lem><supplied reason="lost">bhū</supplied>midaḥ</lem>
 					-->
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03"><unclear>bhū</unclear>midaḥ</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03"><unclear>bhū</unclear>midaḥ</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">bhūmida<unclear>ḥ</unclear></rdg>
 				</app>
 				<app loc="16">
 					<lem source="bib:Sircar1942_01 bib:Sircar1965_02 bib:Balogh2019_03"><supplied reason="lost">Ākṣeptā cānumantā ca tāny eva narake vaset</supplied><unclear>pū</unclear>rvva-dattāṁ</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01"><gap reason="lost" unit="character" extent="unknown"/>pūrvva-dattāṁ</rdg>
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/><unclear>pū</unclear>rvva-dattāṁ</rdg>
-					<rdg source="bib:Agrawala1983_02"><supplied reason="lost">Ākṣeptā cānumantā ca tāny eva narake vaset pū</supplied>rvva-dattāṁ</rdg>
+					<rdg source="bib:Agrawala1983_01"><supplied reason="lost">Ākṣeptā cānumantā ca tāny eva narake vaset pū</supplied>rvva-dattāṁ</rdg>
 				</app>
 				<app loc="16">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">dvijātibhyo</lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">dvijātibhyo</lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">dvijātibhya<supplied reason="omitted">ḥ</supplied></rdg>
 				</app>
 				<app loc="16">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">mahīṁ <unclear>mahī</unclear><supplied reason="lost">matāñ cchreṣṭha</supplied></lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">mahīṁ <unclear>mahī</unclear><supplied reason="lost">matāñ cchreṣṭha</supplied></lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">mahī<gap reason="lost" unit="character" extent="unknown"/></rdg>
 				</app>
 				<app loc="17">
@@ -592,27 +609,27 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase 
 					<rdg source="bib:Bandyopadhyaya1909_01"><gap reason="lost" unit="character" extent="unknown"/><supplied reason="lost">o</supplied>yam śrī bhadrena</rdg>
 					<rdg source="bib:Basak1923-1924_01"><gap reason="lost" unit="character" extent="unknown"/>ya<unclear>ṁ</unclear> <unclear cert="low">su</unclear>śrībhadre<choice><sic>n</sic><corr>ṇ</corr></choice>a</rdg>
 					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02"><supplied reason="lost">dānāc chreyo 'nupālanam</supplied><gap reason="lost" unit="character" extent="unknown"/>ya<unclear>ṁ</unclear><gap reason="lost" unit="character" extent="unknown"/>śrībhadrena</rdg>
-					<rdg source="bib:Agrawala1983_02"><supplied reason="lost">dānāc chreyo 'nupālanam</supplied><gap reason="lost" unit="character" extent="unknown"/>yaṁ <gap reason="lost" unit="character" extent="unknown"/>bhadre<choice><sic>n</sic><corr>ṇ</corr></choice>a</rdg>
+					<rdg source="bib:Agrawala1983_01"><supplied reason="lost">dānāc chreyo 'nupālanam</supplied><gap reason="lost" unit="character" extent="unknown"/>yaṁ <gap reason="lost" unit="character" extent="unknown"/>bhadre<choice><sic>n</sic><corr>ṇ</corr></choice>a</rdg>
 					<note><bibl><ptr target="bib:Sircar1942_01"/><citedRange unit="page">282</citedRange></bibl> also suggests supplying <foreign>likhitā paṭṭikeyaṁ amātyabhadreṇa</foreign> in note 1 (repeated in note 3 <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">289</citedRange></bibl>.</note>
 				</app>
 				<app loc="17">
 					<lem source="bib:Bandyopadhyaya1909_01 bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Balogh2019_03">Utkīrṇṇaṁ</lem>
-					<rdg source="bib:Agrawala1983_02">Utkīrṇṇā</rdg>
+					<rdg source="bib:Agrawala1983_01">Utkīrṇṇā</rdg>
 				</app>
 				<app loc="17">
 					<lem>sth<unclear>ā</unclear><choice><sic>ṇna</sic><corr>ṇe</corr></choice>śvara°</lem>
 					<rdg source="bib:Sircar1942_01 bib:Sircar1965_02 bib:Balogh2019_03">sthambheśvara°</rdg>
 					<rdg source="bib:Bandyopadhyaya1909_01">sthahneśvara°</rdg>
 					<rdg source="bib:Basak1923-1924_01"><choice><sic>stha</sic><corr>sta</corr></choice>mbheśvara°</rdg>
-					<rdg source="bib:Agrawala1983_02">sth<unclear>ā</unclear>ṇveśvara°</rdg>
+					<rdg source="bib:Agrawala1983_01">sth<unclear>ā</unclear>ṇveśvara°</rdg>
 				</app>
 				<app loc="17">
-					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_02 bib:Balogh2019_03">°dāse<unclear>na</unclear></lem>
+					<lem source="bib:Basak1923-1924_01 bib:Sircar1942_01 bib:Sircar1965_02 bib:Agrawala1983_01 bib:Balogh2019_03">°dāse<unclear>na</unclear></lem>
 					<rdg source="bib:Bandyopadhyaya1909_01">°dāse<supplied reason="lost">na</supplied></rdg>
 				</app>
 				<app loc="17">
 					<lem source="bib:Balogh2019_03"><gap reason="lost" precision="low" quantity="5" unit="character"/></lem>
-					<note><bibl><ptr target="bib:Basak1923-1924_01"/></bibl>, <bibl><ptr target="bib:Sircar1942_01"/></bibl> and <bibl><ptr target="bib:Sircar1965_02"/></bibl> end the inscription without mention lost characters. <bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl> and <bibl><ptr target="bib:Agrawala1983_02"/></bibl> both note a possible lost of characters without defining its extent. In my opinion, one could emend the word <foreign>tāpitam</foreign> or <foreign>likhitam</foreign>, as in the end of the <ref target="DHARMA_INSBengalCharters00034.xml">Jagadishpur Plate</ref>, the <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>, the <ref target="DHARMA_INSBengalCharters00051.xml">Tāvīra Plate</ref> or the <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>.
+					<note><bibl><ptr target="bib:Basak1923-1924_01"/></bibl>, <bibl><ptr target="bib:Sircar1942_01"/></bibl> and <bibl><ptr target="bib:Sircar1965_02"/></bibl> end the inscription without mention lost characters. <bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl> and <bibl><ptr target="bib:Agrawala1983_01"/></bibl> both note a possible lost of characters without defining its extent. In my opinion, one could emend the word <foreign>tāpitam</foreign> or <foreign>likhitam</foreign>, as in the end of the <ref target="DHARMA_INSBengalCharters00034.xml">Jagadishpur Plate</ref>, the <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā #1</ref>, the <ref target="DHARMA_INSBengalCharters00051.xml">Tāvīra Plate</ref> or the <ref target="DHARMA_INSBengalCharters00057.xml">Raktamālā #2</ref>.
 					</note>
 				</app>
 
@@ -698,7 +715,7 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase
 				</note> Goṣṭhaka, Vargapāla, Piṅgala, Śuṅkuka, Kāla<gap reason="lost" unit="character" extent="unknown"/>, <gap reason="lost" quantity="21" unit="character"/><supplied reason="explanation"> beginning of the line 5</supplied><gap reason="lost" unit="character" extent="unknown"/>viṣṇu,<note>
 					The <bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl>, the first editor of the plate, reads <foreign>viṣya</foreign> at the beginning of the line 5 and he is not able to see an <foreign>akṣara</foreign> before this word. <bibl><ptr target="bib:Basak1923-1924_01"/></bibl> suggests reading <foreign><supplied reason="lost" cert="low">pa</supplied>viṣṇu</foreign>-, but for me the <foreign>akṣara</foreign> <foreign>pa</foreign> is totally illegible and I follow the opinion of the <foreign>editio princeps</foreign>.
 				</note> Devaśarman, Viṣṇubhadra, Khāsaka, Umaka,<note>
-					My reading of the plate differs from those of <bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl>, <bibl><ptr target="bib:Basak1923-1924_01"/></bibl>, <bibl><ptr target="bib:Sircar1942_01"/></bibl>, <bibl><ptr target="bib:Sircar1965_02"/></bibl>, <bibl><ptr target="bib:Agrawala1983_02"/></bibl> and <bibl><ptr target="bib:Balogh2019_03"/></bibl> who respectively read Upaka and Rāmaka. 
+					My reading of the plate differs from those of <bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl>, <bibl><ptr target="bib:Basak1923-1924_01"/></bibl>, <bibl><ptr target="bib:Sircar1942_01"/></bibl>, <bibl><ptr target="bib:Sircar1965_02"/></bibl>, <bibl><ptr target="bib:Agrawala1983_01"/></bibl> and <bibl><ptr target="bib:Balogh2019_03"/></bibl> who respectively read Upaka and Rāmaka. 
 				</note> Gopāla, <gap reason="lost" quantity="18" unit="character"/><supplied reason="explanation">line 6</supplied> <gap reason="ellipsis"/><supplied reason="lost">residing in</supplied><supplied reason="explanation"><foreign>sasu</foreign></supplied><note>
 					Maybe we have to emend <foreign>sāsu</foreign> for a feminine plural locative ? 
 					It would be logical to have the names of the eight villages mentionned by the expression <foreign>grāmāṣṭakulādhiraṇañ ca</foreign> at the beginning of the line 6. 
@@ -729,7 +746,7 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase
 				one <foreign>kulya-vāpa</foreign> of land is given.</p>
 			<p n="11-12">
 				Then, <supplied reason="lost">by ?</supplied> the officer <supplied reason="explanation"><foreign>āyuktaka</foreign></supplied> <gap reason="lost" unit="character" quantity="14"/><supplied reason="explanation">line 12</supplied> the acquiring of this land <supplied reason="explanation">tadbhava-</supplied><note> 
-					Here I have choosen the reading of <bibl><ptr target="bib:Sircar1942_01"/></bibl>, <bibl><ptr target="bib:Sircar1965_02"/></bibl> and <bibl><ptr target="bib:Agrawala1983_02"/></bibl> and emend <foreign>tadbhavaṁ</foreign>.
+					Here I have choosen the reading of <bibl><ptr target="bib:Sircar1942_01"/></bibl>, <bibl><ptr target="bib:Sircar1965_02"/></bibl> and <bibl><ptr target="bib:Agrawala1983_01"/></bibl> and emend <foreign>tadbhavaṁ</foreign>.
 				</note>
 				is given to the brahmin Varāhasvāmin <supplied reason="explanation">belonging to the</supplied> Chandoga <supplied reason="explanation">tradition</supplied><note>
 					According to the note 7 of <bibl><ptr target="bib:Basak1923-1924_01"/><citedRange unit="page">348</citedRange></bibl>, <foreign>chandoga</foreign> means one studying the <title>Sāmaveda</title>.
@@ -762,13 +779,13 @@ amwb : add a ref if this plate is encoded in DHARMAdatabase
 		<div type="commentary">
 		</div>
 		<div type="bibliography">
-			<p>First noticed and edited in <bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl>. Re-edited in <bibl><ptr target="bib:Basak1923-1924_01"/></bibl>, <bibl><ptr target="bib:Sircar1942_01"/></bibl> <supplied reason="explanation">revised in <bibl><ptr target="bib:Sircar1965_02"/></bibl></supplied>, <bibl><ptr target="bib:Agrawala1983_02"/></bibl> and in <bibl><ptr target="bib:Balogh2019_03"/></bibl>. Discussed in <bibl><ptr target="bib:Basak1925_01"/><citedRange unit="page">475-496</citedRange></bibl>. The text is reedited here by Amandine Wattelier-Bricout based on the photos of the plate and RTI furnished by Arlo Griffiths and using a digital edition created by Dániel Balogh for the Siddham project as starting point. Since some readings differ from the previous editions, they are reported in the apparatus.</p>
+			<p>First noticed and edited in <bibl><ptr target="bib:Bandyopadhyaya1909_01"/></bibl>. Re-edited in <bibl><ptr target="bib:Basak1923-1924_01"/></bibl>, <bibl><ptr target="bib:Sircar1942_01"/></bibl> <supplied reason="explanation">revised in <bibl><ptr target="bib:Sircar1965_02"/></bibl></supplied>, <bibl><ptr target="bib:Agrawala1983_01"/></bibl> and in <bibl><ptr target="bib:Balogh2019_03"/></bibl>. Discussed in <bibl><ptr target="bib:Basak1925_01"/><citedRange unit="page">475-496</citedRange></bibl>. The text is reedited here by Amandine Wattelier-Bricout based on the photos of the plate and RTI furnished by Arlo Griffiths and using a digital edition created by Dániel Balogh for the Siddham project as starting point. Since some readings differ from the previous editions, they are reported in the apparatus.</p>
 			<listBibl type="primary">
 				<bibl n="RDB"><ptr target="bib:Bandyopadhyaya1909_01"/></bibl>
 				<bibl n="RB"><ptr target="bib:Basak1923-1924_01"/><citedRange unit="page">345-8</citedRange></bibl>
 				<bibl n="DSC1"><ptr target="bib:Sircar1942_01"/><citedRange unit="page">280-2</citedRange></bibl>
 				<bibl n="DSC2"><ptr target="bib:Sircar1965_02"/><citedRange unit="page">287-9</citedRange></bibl>
-				<bibl n="PKA"><ptr target="bib:Agrawala1983_02"/><citedRange unit="page">36-8</citedRange></bibl>
+				<bibl n="PKA"><ptr target="bib:Agrawala1983_01"/><citedRange unit="item">22</citedRange><citedRange unit="page">36-8</citedRange></bibl>
 				<bibl n="DB"><ptr target="bib:Balogh2019_03"/><citedRange unit="item">IN00023</citedRange></bibl>
 			</listBibl>
 			<listBibl type="secondary">
