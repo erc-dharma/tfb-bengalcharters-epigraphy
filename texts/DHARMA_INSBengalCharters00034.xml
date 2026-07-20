@@ -876,7 +876,7 @@ amwb: caution there is no title in Zotero -->
 				<bibl><ptr target="bib:Siddhanta1972_01"/><citedRange unit="page">23-37</citedRange></bibl>
 				<bibl n="DCS 1973"><ptr target="bib:Sircar1973_01"/><citedRange unit="page">8–14</citedRange><citedRange unit="entry">61–63, pl</citedRange></bibl><!-- 
 amwb: check page-numbers and pl -->
-				<bibl><ptr target="bib:Agrawala1983_02"/><citedRange unit="item">30</citedRange></bibl>
+				<bibl><ptr target="bib:Agrawala1983_01"/><citedRange unit="item">30</citedRange><citedRange unit="page">51-55</citedRange></bibl>
 				<bibl><ptr target="bib:Goyal1993_01"/><citedRange unit="page">189</citedRange></bibl>
 				<bibl n="DB"><ptr target="bib:Balogh2019_03"/><citedRange unit="item">IN00062</citedRange></bibl>
 			</listBibl>
