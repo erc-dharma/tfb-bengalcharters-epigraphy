@@ -638,7 +638,7 @@ amwb : I feel it is important that the protection is enjoined by the rule for pe
 			<listBibl type="primary">
 				<bibl n="KND"><ptr target="bib:Dikshit1929-1930_01"/><citedRange unit="page">59-64</citedRange></bibl>
 				<bibl n="DCS"><ptr target="bib:Sircar1965_02"/><citedRange unit="part">III</citedRange><citedRange unit="entry">42</citedRange><citedRange unit="page">359-363</citedRange></bibl>
-				<bibl><ptr target="bib:Agrawala1983_02"/><citedRange unit="entry">50</citedRange><citedRange unit="page">98-101</citedRange></bibl>
+				<bibl><ptr target="bib:Agrawala1983_01"/><citedRange unit="entry">50</citedRange><citedRange unit="page">98-101</citedRange></bibl>
 				<bibl><ptr target="bib:Goyal1993_01"/><citedRange unit="page">277-81</citedRange></bibl><!-- amwb : ref bib coming from siddham -->
 				<bibl n="DB"><ptr target="bib:Balogh2019_03"/><citedRange unit="item">IN00065</citedRange></bibl>
 			</listBibl>
