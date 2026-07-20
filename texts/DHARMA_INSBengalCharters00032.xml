@@ -13,20 +13,20 @@
 			<titleStmt>
 				<title>Damodarpur Charter 1 (GE 163) of Budhagupta</title>
 			<respStmt>
-					<resp key="contributor">Original EpiDoc Encoding for Siddham</resp>
+					<resp>Original EpiDoc Encoding for Siddham</resp>
 					<persName ref="part:daba">
 						<forename>Dániel</forename>
 						<surname>Balogh</surname>
 					</persName>
 				</respStmt><respStmt>
-					<resp key="contributor">Conversion of encoding for DHARMA</resp>
+					<resp>Conversion of encoding for DHARMA</resp>
 					<persName ref="part:daba">
 						<forename>Dániel</forename>
 						<surname>Balogh</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp key="creator">intellectual authorship of edition</resp>
+					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:amwb"><!-- 
 						amwb : As I have encoded my own readings and made edition choices, I put my name here.
 					-->
@@ -35,7 +35,7 @@
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp key="contributor">EpiDoc encoding for DHARMA of parts not yet encoded for Siddham</resp>
+					<resp>EpiDoc encoding for DHARMA of parts not yet encoded for Siddham</resp>
 					<persName ref="part:amwb">
 						<forename>Amandine</forename>
 						<surname>Wattelier-Bricout</surname>
@@ -43,12 +43,20 @@
 				</respStmt>
 				</titleStmt>
 			<publicationStmt>
-				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+				<authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
+				</authority>
 				<pubPlace>Cambrai</pubPlace>
 				<idno type="filename">DHARMA_INSBengalCharters00032.xml</idno><!-- 
 daba : The Siddham ID will need to be retained, probably as <altIdentifier>, when a DHARMA filename is assigned. 
 amwb : replaced IN00044 by dharma file name 
---><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+--><availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit thttps://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Dániel Balogh and Amandine Wattelier-Bricout.</p><!-- 
+						amwb : Maybe I have to add my name here too or replace the name of Daniel by mine?
+						-->
+					</licence>
+				</availability>
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
@@ -69,8 +77,19 @@ amwb : replaced IN00044 by dharma file name
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
 		<revisionDesc>
 			<change who="part:ryfu" when="2026-05-25" status="draft">Script information added</change>
 			<change when="2021-12-13" who="part:amwb">Revision of my own encoding</change>
@@ -511,7 +530,7 @@ amwb : replaced <unclear reason="illegible">tadā</unclear> by the actual state 
 		<div type="commentary">
 		</div>
 		<div type="bibliography">
-			<p>First noticed and edited in <bibl><ptr target="bib:Basak1919-1920_01"/></bibl>.Re-edited by <bibl><ptr target="bib:Pandey1962_01"/></bibl>, <bibl><ptr target="bib:Sircar1965_02"/></bibl>, <bibl><ptr target="bib:Bhandarkar1981_01"/></bibl>, <bibl><ptr target="bib:Agrawala1983_02"/></bibl>, <bibl><ptr target="bib:Goyal1993_01"/></bibl> and <bibl><ptr target="bib:Balogh2019_03"/></bibl>. Discussed in <bibl><ptr target="bib:Basak1925_01"/></bibl> and <bibl><ptr target="bib:Pandey1962_01"/><citedRange unit="page">104-105</citedRange></bibl>. Translated by <bibl><ptr target="bib:Basak1919-1920_01"/><citedRange unit="page">136-7</citedRange></bibl> and <bibl><ptr target="bib:Bhandarkar1981_01"/><citedRange unit="page">337-9</citedRange></bibl>. The text is re-edited here by Amandine Wattelier-Bricout based on the photos of the plate furnished by Arlo Griffiths and using a digital edition created by Dániel Balogh for the Siddham project as starting point (see <ref target="INSSiddham00044.xml">Damodarpur Charter 1 (GE 163) of Budhagupta</ref>). Since some readings differ from the previous editions, they are reported in the apparatus.</p>
+			<p>First noticed and edited in <bibl><ptr target="bib:Basak1919-1920_01"/></bibl>.Re-edited by <bibl><ptr target="bib:Pandey1962_01"/></bibl>, <bibl><ptr target="bib:Sircar1965_02"/></bibl>, <bibl><ptr target="bib:Bhandarkar1981_01"/></bibl>, <bibl><ptr target="bib:Agrawala1983_01"/></bibl>, <bibl><ptr target="bib:Goyal1993_01"/></bibl> and <bibl><ptr target="bib:Balogh2019_03"/></bibl>. Discussed in <bibl><ptr target="bib:Basak1925_01"/></bibl> and <bibl><ptr target="bib:Pandey1962_01"/><citedRange unit="page">104-105</citedRange></bibl>. Translated by <bibl><ptr target="bib:Basak1919-1920_01"/><citedRange unit="page">136-7</citedRange></bibl> and <bibl><ptr target="bib:Bhandarkar1981_01"/><citedRange unit="page">337-9</citedRange></bibl>. The text is re-edited here by Amandine Wattelier-Bricout based on the photos of the plate furnished by Arlo Griffiths and using a digital edition created by Dániel Balogh for the Siddham project as starting point (see <ref target="INSSiddham00044.xml">Damodarpur Charter 1 (GE 163) of Budhagupta</ref>). Since some readings differ from the previous editions, they are reported in the apparatus.</p>
 			<listBibl type="primary">
 				<bibl n="RB"><ptr target="bib:Basak1919-1920_01"/><citedRange unit="page">134-7</citedRange></bibl>
 				<bibl n="P"><ptr target="bib:Pandey1962_01"/><citedRange unit="page">104-5</citedRange></bibl>
@@ -521,7 +540,7 @@ amwb : replaced <unclear reason="illegible">tadā</unclear> by the actual state 
 					<bibl><ptr target="Mukherji+Maity1967_01"/><citedRange unit="page">58-61</citedRange></bibl>
 				-->
 				<bibl n="B"><ptr target="bib:Bhandarkar1981_01"/><citedRange unit="page">335-9</citedRange><citedRange unit="entry">38</citedRange></bibl>
-				<bibl n="A"><ptr target="bib:Agrawala1983_02"/><citedRange unit="entry">52</citedRange></bibl>
+				<bibl n="A"><ptr target="bib:Agrawala1983_01"/><citedRange unit="entry">52</citedRange></bibl>
 				<bibl n="G"><ptr target="bib:Goyal1993_01"/><citedRange unit="page">284-7</citedRange></bibl>
 				<bibl n="DB"><ptr target="bib:Balogh2019_03"/><citedRange unit="item">IN00044</citedRange></bibl>
 			</listBibl>
