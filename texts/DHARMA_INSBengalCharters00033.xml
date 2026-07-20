@@ -890,7 +890,7 @@ amwb : Need to change the end of the text when the translation will have been di
 				
 				<bibl n="NBS"><ptr target="bib:Sanyal1955-1956_01"/><citedRange unit="page">57-66</citedRange></bibl>
 				<bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="part">3</citedRange><citedRange unit="entry">40A</citedRange><citedRange unit="page">352-355</citedRange></bibl>
-				<bibl><ptr target="bib:Agrawala1983_02"/><citedRange unit="entry">64</citedRange></bibl>
+				<bibl><ptr target="bib:Agrawala1983_01"/><citedRange unit="entry">64</citedRange></bibl>
 				<bibl><ptr target="bib:Goyal1993_01"/><citedRange unit="page">166-173</citedRange></bibl>
 				<bibl n="DB"><ptr target="bib:Balogh2019_03"/><citedRange unit="item">IN00074</citedRange></bibl>
 			</listBibl>
