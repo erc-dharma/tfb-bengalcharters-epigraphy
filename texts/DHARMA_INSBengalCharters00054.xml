@@ -50,7 +50,7 @@
             <!--argr2daba: I have used I have moved the <altIdentifier type="Siddham">, but in order to get a validating file, I had to move it into <msIdentifier>. We need to get approval of this representation from axja and if she approves need her to revise both schema and template -->
             <!--daba: I agree fully, and will be happy to go ahead with whatever Axelle suggests. I think the altIdentifier will have to go in the MS section regardless of what she does to the schema: here, we're giving the ID of this publication, of which there is only one; there, we give other IDs associated with the original text. Hand in hand with providing instructions for altIdentifier, we also need to provide for alternative titles (those in literature or Siddham) by which a user will be able find a text.-->
             <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-            <date from="2019" to="2025">2019-2025</date>
+            <date from="2019" to="2026">2019-2026</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
