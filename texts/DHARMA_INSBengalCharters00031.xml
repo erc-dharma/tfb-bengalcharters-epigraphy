@@ -47,7 +47,7 @@ amwb2argr : I changed the title according to the spreadsheet. The error was mine
 					</persName>
 <!-- argr2amwb: since you will be furnishing a translation, your name must be mentioned here too, perhaps with a separate <resp> for translation -->
 				</respStmt>
-				</titleStmt>
+				<funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
 			<publicationStmt>
 				<authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
 				</authority>
@@ -81,9 +81,7 @@ amwb: siddham idno IN00023
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-			</projectDesc>
+			
 			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
 			<listPrefixDef>
 				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
