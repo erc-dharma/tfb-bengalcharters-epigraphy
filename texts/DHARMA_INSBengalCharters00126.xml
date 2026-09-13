@@ -125,7 +125,7 @@
                  <l n="a">yaḥ kāminī-vadana-paṅkaja-tigma-bhānur</l>
                  <l n="b">vidvan-manaḥ-kumuda-kānana-kānta-raśmiḥ<g ref="sym:bar-strokeLeft" type="punctuation">.</g></l>
                  <l n="c">śāstra-prayoga-kuśalaḥ kuśalānuva<lb n="10" break="no"/>rttī</l>
-                 <l n="d">dharmmāvaloka Iti ca prathitaḥ pr̥thivyā<unclear>ṁ*<g ref="sym:doubleBar" type="punctuation">.</g></unclear></l>
+                 <l n="d">dharmmāvaloka Iti ca prathitaḥ pr̥thivyā<unclear>ḿ<g ref="sym:doubleBar" type="punctuation">.</g></unclear></l>
              </lg>
              <lg n="11" met="sragdharā">
                  <l n="a">śailendrasya dvi-mūrttīn anuparata-galad-dāna-matta-dvirepha</l>
@@ -143,7 +143,7 @@
                  <l n="a">dhatte yaḥ śrī-nidhānaṁ hata-kali-calitaṁ dharmmam āmūlam ucc<unclear>ai</unclear>r</l>
                  <l n="b">uttuṅgaiḥ svargga-mārgga-praṇayibhir atulaiḥ kīrttanaiḥ śuddha-kīrttiḥ<g ref="sym:bar-strokeLeft" type="punctuation">.</g></l>
                  <l n="c">kurvvan sevām anindyām anudi<lb n="14" break="no"/>nam amalair anna-pānair yatīnāṁ</l>
-                 <l n="d">miṣṭais sat-kāra-pūtair bhava Iva calitaṁ rāmaṇenācal<choice><sic>a</sic><corr>e</corr></choice>ndraṁ*<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l>
+                 <l n="d">miṣṭais sat-kāra-pūtair bhava Iva calitaṁ rāmaṇenācal<choice><sic>a</sic><corr>e</corr></choice>ndraḿ<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l>
              </lg>
              <lg n="14" met="vasantatilakā">
                  <l n="a">tena prasanna-manasā jita-māra-śatror</l>
@@ -210,7 +210,7 @@
                    <app loc="9"><lem>-dheyaḥ<unclear><g ref="sym:doubleBar" type="punctuation">.</g></unclear></lem><rdg source="bib:Dimitrov2016_01">-dheyaḥ<choice><sic><unclear><g ref="sym:doubleBar" type="punctuation">.</g></unclear></sic><corr><g ref="sym:doubleBar" type="punctuation">.</g></corr></choice></rdg></app>
                    <app loc="9"><lem>yaḥ kāminī-</lem><rdg source="bib:Dimitrov2016_01">ya<unclear>ś cārthināṁ</unclear></rdg></app>
                    <app loc="10"><lem>dharmmāvaloka</lem><rdg source="bib:Dimitrov2016_01">dharmmāvalāka</rdg></app>
-                   <app loc="10"><lem>pr̥thivyā<unclear>ṁ*<g ref="sym:doubleBar" type="punctuation">.</g></unclear></lem><rdg source="bib:Dimitrov2016_01">pr̥<supplied reason="lost">thi</supplied>ḥ<g ref="sym:doubleBar" type="punctuation">.</g><unclear>vyāṁ</unclear></rdg></app>
+                   <app loc="10"><lem>pr̥thivyā<unclear>ḿ<g ref="sym:doubleBar" type="punctuation">.</g></unclear></lem><rdg source="bib:Dimitrov2016_01">pr̥<supplied reason="lost">thi</supplied>ḥ<g ref="sym:doubleBar" type="punctuation">.</g><unclear>vyāṁ</unclear></rdg></app>
                    <app loc="10"><lem>śailendrasya</lem><rdg source="bib:Dimitrov2016_01"><unclear>śail</unclear>enda<unclear>ṁ</unclear>sya</rdg></app>
                    <app loc="10"><lem>-śreṇīr āṅkāra-</lem><rdg source="bib:Dimitrov2016_01">-<unclear>śr</unclear>e<unclear>ṇ</unclear>ī-<unclear>hu</unclear>ṅkāra-</rdg></app>
                    <app loc="11"><lem>prepsitāna<supplied reason="omitted">r</supplied>tta-līlaḥ</lem><rdg source="bib:Dimitrov2016_01">pre<unclear>ṅkh</unclear>i<unclear>c</unclear>ā<unclear>larlal</unclear>ī<unclear>n</unclear>a<unclear>ḥ</unclear></rdg></app>
@@ -221,7 +221,7 @@
                    <app loc="13"><lem>ucc<unclear>ai</unclear>r</lem><rdg source="bib:Dimitrov2016_01">accer</rdg></app>
                    <app loc="13"><lem>uttuṅgaiḥ</lem><rdg source="bib:Dimitrov2016_01">utuṅgaiḥ</rdg></app>
                    <app loc="14"><lem>-pūtair</lem><rdg source="bib:Dimitrov2016_01">-<unclear>pūg</unclear>air</rdg></app>
-                   <app loc="14"><lem>rāmaṇenācal<choice><sic>a</sic><corr>e</corr></choice>ndraṁ*</lem><rdg source="bib:Dimitrov2016_01">rā<unclear>v</unclear>aṇenācalandraṁ</rdg></app>
+                   <app loc="14"><lem>rāmaṇenācal<choice><sic>a</sic><corr>e</corr></choice>ndraḿ</lem><rdg source="bib:Dimitrov2016_01">rā<unclear>v</unclear>aṇenācalandraṁ</rdg></app>
                    <app loc="15"><lem><unclear>vra</unclear>hmendra-</lem><rdg source="bib:Dimitrov2016_01"><seg met="+"><gap reason="lost" unit="character" quantity="1"/></seg>hmendra-</rdg></app>
                    <app loc="16"><lem>tīkṣya-</lem><rdg source="bib:Dimitrov2016_01">tākṣ<supplied reason="lost">y</supplied>a-</rdg></app>
                    <app loc="16"><lem><seg met="+"><gap reason="lost" unit="character" quantity="1"/></seg><unclear>o</unclear></lem><rdg source="bib:Dimitrov2016_01"><seg met="+"><gap reason="lost" unit="character" quantity="1"/></seg><unclear>e</unclear></rdg></app>

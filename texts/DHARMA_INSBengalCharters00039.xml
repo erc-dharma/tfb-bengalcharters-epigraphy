@@ -290,12 +290,12 @@ amwb : by reading to this note, it appears to me that the tag unclear should be 
                    <app loc="13">
                        <lem>-pariva<unclear>r</unclear>ttena</lem>
                        <rdg source="bib:Griffiths2015_02">parivartt<unclear>e</unclear>na</rdg>
-                       <!--<rdg source="bib:Dubey+Acharya2014_01">vartana<supplied reason="lost">ṁ*</supplied></rdg>-->
+                       <!--<rdg source="bib:Dubey+Acharya2014_01">vartana<supplied reason="lost">ḿ</supplied></rdg>-->
                        <note><foreign>-pariva<unclear>r</unclear>ttena nanya-</foreign>: emend <foreign>-parivarttenanya-</foreign>? Alas, too much of the context here is damaged to be sure what meaning was intended.</note>
                    </app>
                    <app loc="13">
                        <lem>nānya-grāmo dīyatām iti</lem>
-                       <!--<rdg source="bib:Dubey+Acharya2014_01">nānya<supplied reason="lost">ṁ*</supplied> grāmodāyakam ata</rdg>-->
+                       <!--<rdg source="bib:Dubey+Acharya2014_01">nānya<supplied reason="lost">ḿ</supplied> grāmodāyakam ata</rdg>-->
                        <rdg source="bib:Griffiths2015_02">nānya-grāmo dīyatām <unclear>i</unclear>t<unclear>i</unclear></rdg>
                    </app>
                    <!--<app loc="14">

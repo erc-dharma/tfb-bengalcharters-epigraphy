@@ -314,7 +314,7 @@ amwb : after checking the photo I will add a space between hana and mi
 					<lem>sagohālike</lem>
 					<rdg source="bib:Sircar1969-1970_01">sa<supplied reason="omitted">M</supplied>ggohālike <supplied reason="omitted">ca</supplied></rdg>
 					<rdg source="bib:Sircar1973_01"><unclear>saṁ</unclear>gohālike <supplied reason="omitted">ca</supplied></rdg><!-- 
-amwb : I am not sure if I use the good encoding for :(saṁ)gohālike (ca*) DCS 1973; sa[ṁ*]ggohālike [ca*] DCS 1969 
+amwb : I am not sure if I use the good encoding for :(saṁ)gohālike (ca*) DCS 1973; sa[ḿ]ggohālike [ca*] DCS 1969 
 -->
 					<rdg source="bib:Balogh2019_03">sa<supplied reason="omitted">ṁ</supplied>ggohālike</rdg>
 					<note>There is definitely only a single <foreign>g</foreign>. If the reading <foreign>sago</foreign>- is accepted, then the need to insert <foreign>ca</foreign> disappears. The <foreign>anusvāra</foreign> seems to have been restored by DCS on the grounds that <foreign>saṁgohāliṣu</foreign> has been read in <ref target="DHARMA_INSBengalCharters00033.xml">Kalaikuri</ref>, line 1–2: <foreign>hastiśīrṣe <supplied reason="lost">vibhītak</supplied>yāṁ <supplied reason="lost">gu</supplied>lma<supplied reason="lost">gandhi</supplied>kāyāṁ dhānyapāṭalikāyāṁ saṁgohāliṣu</foreign>. But the presence of <foreign>anusvāra</foreign> there is doubtful, and there is no <foreign>ca</foreign>; <foreign>sagohāliṣu</foreign> seems to make better sense. On the meaning of the term <foreign>gohalī</foreign>, see <bibl><ptr target="bib:Griffiths2018_02"/><citedRange unit="page">40-2</citedRange></bibl>. </note><!-- 

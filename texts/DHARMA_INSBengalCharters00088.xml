@@ -223,7 +223,7 @@ amwb : the shape of this single danda differs from others; it looks like the fir
 amwb : here Kielhorn does not regularise bīja ? I regularise as recommended in EGD app F table 10 
 --><lb n="33"/>japūrakaṅ gatvā praviṣṭā<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l33.png
---> pūrvveṇa viṭakāliḥ khātaka-yānikāṁ*<!-- 
+--> pūrvveṇa viṭakāliḥ khātaka-yānikāḿ<!-- 
 amwb : kielhorn notes yānikā<unclear>ṁ</unclear> but here the anusvāra is clear; actually due to the above-akṣara (v.r), the sribe did not form a complete circle but only a semicircle see photo anusvāra semicircle l33.png; So I have encoded it as mentionned in §3.3.11 of the Translitteration Guide
 --> gatvā praviṣṭā<g ref="sym:bar" type="punctuation">.</g><!-- 
 amwb : the shape of this single danda differs from others; it looks like the first danda of double danda in this plate see photo danda l33 bis.png
@@ -416,7 +416,7 @@ amwb : here the double danda has another shape: the first danda looks like J see
                        <rdg source="bib:Kielhorn1896-1897_03">śrī-k<choice><sic>a</sic><corr>ā</corr></choice>nya°</rdg>
                    </app>
                    <app loc="33">
-                       <lem>-yānikāṁ*</lem>
+                       <lem>-yānikāḿ</lem>
                        <rdg source="bib:Kielhorn1896-1897_03">-yānikā<unclear>ṁ</unclear></rdg>
                    </app>
                    <app loc="33">

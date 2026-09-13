@@ -125,11 +125,11 @@
                      <l n="a">ye <choice><sic>ṣ</sic><corr>s</corr></choice>vī-kurvvanti śaureḥ śvasita-parimalaṁ yoga-nidrā-śayāloḥ</l>
                      <l n="b">yaiś cakre caṇḍa-velā-valana-kalakalaḥ kandare<lb n="19"/> mandarādreḥ<g ref="sym:bar" type="punctuation">.</g></l>
                      <l n="c">ye <supplied reason="subaudible">'</supplied>bhūvan<supplied reason="omitted">·</supplied> sphāra-lakṣmī-nayana-kuvalaya-sraṇgviṇas te taraṅgāḥ</l>
-                     <l n="d">kṣīrāvdher yac-camūnāṁ* śrama-jalam apivat svānilaiḥ śīkarārdraih<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l>
+                     <l n="d">kṣīrāvdher yac-camūnāḿ śrama-jalam apivat svānilaiḥ śīkarārdraih<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l>
                  </lg>
                  <lg n="9" met="śārdūlavikrīḍita">
                      <l n="a"><lb n="20"/>preyas-satyam ananta-bhoga-nilayaṁ gopāla-dharmma-krama</l>
-                     <l n="b">-prāptāṅ gām paripālayantam ajitaṁ sa prāpa lakṣmī-patiṁ*<g ref="sym:bar-strokeLeft" type="punctuation">.</g></l>
+                     <l n="b">-prāptāṅ gām paripālayantam ajitaṁ sa prāpa lakṣmī-patiḿ<g ref="sym:bar-strokeLeft" type="punctuation">.</g></l>
                      <l n="c">śrīmat-pāda-nakhendu-dīdhiti<lb n="21" break="no"/>-bharodanvan-nimagnākhila</l>
                      <l n="d">-kṣoṇī-bhr̥n-mukuṭānta-patra-makaraṁ śrī-devapālaṁ sutaṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
                  </lg>
@@ -180,7 +180,7 @@
                  <lg n="18" met="śārdūlavikrīḍita">
                      <l n="a">māyā-mūla-gr̥haṁ purāṇa-puruṣaṁ kroḍānanam vāmanaṁ</l>
                      <l n="b">nityodīrṇṇa-gadaṁ vināyaka-yutaṁ divyāṅganālo<choice><sic>t</sic><corr>k</corr></choice>inaṁ<g ref="sym:bar" type="punctuation">.</g></l>
-                     <l n="c">paśyantyā vahu se<lb n="33" break="no"/><supplied reason="omitted">r</supplied>ṣ<supplied reason="omitted">y</supplied>am eva hi hariṁ* tyaktvā virāgād iva</l>
+                     <l n="c">paśyantyā vahu se<lb n="33" break="no"/><supplied reason="omitted">r</supplied>ṣ<supplied reason="omitted">y</supplied>am eva hi hariḿ tyaktvā virāgād iva</l>
                      <l n="d">śrīmad-yauvana-rūpa-sad-guṇa-tr̥ṣā devyā ś<unclear>r</unclear>iyāśleṣi yaḥ<g ref="sym:doubleBar-strokeLeft" type="punctuation">.</g></l>
                  </lg>
                  <lg n="19" met="sragdharā">
@@ -243,7 +243,7 @@
                  </lg>
                  <lg n="29" met="vasantatilakā">
                      <l n="a">Asmat-k<choice><sic>ū</sic><corr>u</corr></choice>la-kramam <choice><sic>ū</sic><corr>u</corr></choice>dāram <choice><sic>ū</sic><corr>u</corr></choice>dāharadbhir</l>
-                     <l n="b">anyaiś ca dānam idam abhyan<choice><sic>ū</sic><corr>u</corr></choice>modanīyaṁ*<choice><sic><g ref="sym:doubleBar" type="punctuation">.</g></sic><corr><g ref="sym:bar" type="punctuation">.</g></corr></choice></l>
+                     <l n="b">anyaiś ca dānam idam abhyan<choice><sic>ū</sic><corr>u</corr></choice>modanīyaḿ<choice><sic><g ref="sym:doubleBar" type="punctuation">.</g></sic><corr><g ref="sym:bar" type="punctuation">.</g></corr></choice></l>
                      <l n="c">laksmyās taḍit-salila-vudvuda-cañcalāyā</l>
                      <l n="d">dānam phalaṁ para-ya<lb n="69" break="no"/>śaḥ-paripālanañ ca<g ref="sym:doubleBar" type="punctuation">.</g></l>
                  </lg>
@@ -276,8 +276,8 @@
                    <app loc="18"><lem><del rend="strikeout">dī</del></lem><rdg source="bib:Sircar1973-1974_02"/></app>
                    <app loc="18"><lem>vahūn<unclear>·</unclear></lem><rdg source="bib:Sircar1973-1974_02">vabhūn</rdg></app>
                   <app loc="19"><lem>kṣīrāvdher</lem><rdg source="bib:Sircar1973-1974_02">kṣīravdher</rdg></app>
-                  <app loc="19"><lem>yac-camūnāṁ*</lem><rdg source="bib:Sircar1973-1974_02">yacamanāḥ</rdg></app>
-                  <app loc="20"><lem>-patiṁ*</lem><rdg source="bib:Sircar1973-1974_02">-patiḥ</rdg></app>
+                  <app loc="19"><lem>yac-camūnāḿ</lem><rdg source="bib:Sircar1973-1974_02">yacamanāḥ</rdg></app>
+                  <app loc="20"><lem>-patiḿ</lem><rdg source="bib:Sircar1973-1974_02">-patiḥ</rdg></app>
                    <app loc="23"><lem>kṣaṇa<surplus>ṁ</surplus>m adīdharat</lem><rdg source="bib:Sircar1973-1974_02">kṣaṇa-madīdharat</rdg></app>
                    <app loc="23"><lem>turagāN<g ref="sym:bar-strokeLeft" type="punctuation">.</g></lem><rdg source="bib:Sircar1973-1974_02">turagān</rdg></app>
                   <app loc="24"><lem>taraṇeḥ</lem><rdg source="bib:Sircar1973-1974_02">taraṅeḥ</rdg><note>Probably a printing mistake.</note></app>
@@ -320,7 +320,7 @@
                    <app loc="67"><lem>an<choice><sic>ū</sic><corr>u</corr></choice>cintya</lem><rdg source="bib:Sircar1973-1974_02">anucintya</rdg></app>
                    <app loc="67"><lem>vu<supplied reason="omitted">d</supplied>dhvā</lem><rdg source="bib:Sircar1973-1974_02">vuddh<supplied reason="omitted">v</supplied>ā</rdg></app>
                   <app loc="68"><lem>-kula-</lem><rdg source="bib:Sircar1973-1974_02">-k<choice><sic>ū</sic><corr>u</corr></choice>la-</rdg></app>
-                  <app loc="68"><lem>abhyan<unclear>u</unclear>modanīyaṁ*</lem><rdg source="bib:Sircar1973-1974_02">abhyan<choice><sic>ū</sic><corr>u</corr></choice>modanīya<choice><sic>ṁ</sic><corr>m</corr></choice></rdg></app>
+                  <app loc="68"><lem>abhyan<unclear>u</unclear>modanīyaḿ</lem><rdg source="bib:Sircar1973-1974_02">abhyan<choice><sic>ū</sic><corr>u</corr></choice>modanīya<choice><sic>ṁ</sic><corr>m</corr></choice></rdg></app>
                </listApp>
          </div>
          <div type="translation" resp="part:ryfu">
