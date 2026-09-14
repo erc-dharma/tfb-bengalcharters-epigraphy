@@ -237,7 +237,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First notified by Kshitisha Chandra Burman<bibl rend="omitname"><ptr target="bib:Burman1937_01"/></bibl> and then edited by him<bibl rend="omitname"><ptr target="bib:Burman1937_02"/></bibl>. A short note was given by Jogendra Chandra Ghose<bibl rend="omitname"><ptr target="bib:Ghose1937_01"/></bibl>. Re-edited by Pramatha Nath Misra and Ramesh Chandra Majumdar<bibl rend="omitname"><ptr target="bib:Misra+Majumdar1951_01"/></bibl>. Now re-edited by Ryosuke Furui on the reading from digital photographs taken by himself in January 2006.</p>
+           <p>First notified by Kshitisha Chandra Burman (<bibl rend="omitname"><ptr target="bib:Burman1937_01"/></bibl>) and then edited by him (<bibl rend="omitname"><ptr target="bib:Burman1937_02"/></bibl>). A short note was given by Jogendra Chandra Ghose (<bibl rend="omitname"><ptr target="bib:Ghose1937_01"/></bibl>). Re-edited by Pramatha Nath Misra and Ramesh Chandra Majumdar (<bibl rend="omitname"><ptr target="bib:Misra+Majumdar1951_01"/></bibl>). Now re-edited by Ryosuke Furui on the reading from digital photographs taken by himself in January 2006.</p>
         	<listBibl type="primary">
 	   <bibl n="MM"><ptr target="bib:Misra+Majumdar1951_01"/></bibl>
 	</listBibl>

@@ -258,7 +258,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First edited by Tarak Chandra Ray<bibl rend="omitname"><ptr target="bib:Ray1910_01"/></bibl> with Bengali translation. Then re-edited by Akshay Kumar Maitreya<bibl rend="omitname"><ptr target="bib:Maitreya1911_01"/></bibl> and translated in Bengali by Radhagovinda Basak<bibl rend="omitname"><ptr target="bib:Basak1911_01"/></bibl>. Further re-edited by R. D. Banerji<bibl rend="omitname"><ptr target="bib:Banerji1917-1918_02"/></bibl> and N. G. Majumdar<bibl rend="omitname"><ptr target="bib:Majumdar1929_01"/><citedRange unit="page">68-80</citedRange></bibl>. Now re-edited by Ryosuke Furui based on digital photographs taken by him in August 2011.</p>
+           <p>First edited by Tarak Chandra Ray (<bibl rend="omitname"><ptr target="bib:Ray1910_01"/></bibl>) with Bengali translation. Then re-edited by Akshay Kumar Maitreya (<bibl rend="omitname"><ptr target="bib:Maitreya1911_01"/></bibl>) and translated in Bengali by Radhagovinda Basak (<bibl rend="omitname"><ptr target="bib:Basak1911_01"/></bibl>). Further re-edited by R. D. Banerji (<bibl rend="omitname"><ptr target="bib:Banerji1917-1918_02"/></bibl>) and N. G. Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1929_01"/><citedRange unit="page">68-80</citedRange></bibl>). Now re-edited by Ryosuke Furui based on digital photographs taken by him in August 2011.</p>
             <listBibl type="primary">
 	   <bibl n="RDB"><ptr target="bib:Banerji1917-1918_02"/></bibl>
                <bibl n="NGM"><ptr target="bib:Majumdar1929_01"/><citedRange unit="page">68-80</citedRange></bibl>

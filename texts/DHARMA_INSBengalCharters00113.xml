@@ -361,7 +361,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First edited by Dines Chandra Sircar<bibl rend="omitname"><ptr target="bib:Sircar1973-1974_04"/></bibl>, and then re-edited by him<bibl rend="omitname"><ptr target="bib:Sircar1980-1982_01"/></bibl>. Now re-edited by Ryosuke Furui based on the digital photographs taken by himself and provided by Balurghat College Museum. </p>
+           <p>First edited by Dines Chandra Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1973-1974_04"/></bibl>), and then re-edited by him (<bibl rend="omitname"><ptr target="bib:Sircar1980-1982_01"/></bibl>). Now re-edited by Ryosuke Furui based on the digital photographs taken by himself and provided by Balurghat College Museum. </p>
         	<listBibl type="primary">
         	   <bibl n="DCS1"><ptr target="bib:Sircar1973-1974_04"/></bibl>
 	   <bibl n="DCS2"><ptr target="bib:Sircar1980-1982_01"/></bibl>

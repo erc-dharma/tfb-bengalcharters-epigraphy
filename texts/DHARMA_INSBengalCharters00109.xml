@@ -424,7 +424,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First edited and published by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2008_01"/></bibl> without translation and proper rendition of stanzas. Now re-edited with corrections and proper renditions of stanzas.</p>
+           <p>First edited and published by Ryosuke Furui (<bibl rend="omitname"><ptr target="bib:Furui2008_01"/></bibl>) without translation and proper rendition of stanzas. Now re-edited with corrections and proper renditions of stanzas.</p>
         	<listBibl type="primary">
 	   <bibl n="RF"><ptr target="bib:Furui2008_01"/></bibl>
 	</listBibl>

@@ -282,7 +282,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">	
-           <p>First edited by Manoranjan Gupta<bibl rend="omitname"><ptr target="bib:Gupta1949_01"/></bibl>. Then republished by him<bibl rend="omitname"><ptr target="bib:Gupta1951_01"/></bibl> in English. Re-edited by D. C. Sircar<bibl rend="omitname"><ptr target="bib:Sircar1951-1952_01"/></bibl>. Now re-edited by Ryosuke Furui on reading from the estampages published in Sircar’s edition and the digital photographs provided by Bangiya Sahitya Parishat.</p>
+           <p>First edited by Manoranjan Gupta (<bibl rend="omitname"><ptr target="bib:Gupta1949_01"/></bibl>) in Bengali. Then republished by him in English (<bibl rend="omitname"><ptr target="bib:Gupta1951_01"/></bibl>). Re-edited by D. C. Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1951-1952_01"/></bibl>). Now re-edited by Ryosuke Furui on reading from the estampages published in Sircar’s edition and the digital photographs provided by Bangiya Sahitya Parishat.</p>
         	<listBibl type="primary">
 	     <bibl n="MG1"><ptr target="bib:Gupta1949_01"/></bibl>
         	    <bibl n="MG2"><ptr target="bib:Gupta1951_01"/></bibl>

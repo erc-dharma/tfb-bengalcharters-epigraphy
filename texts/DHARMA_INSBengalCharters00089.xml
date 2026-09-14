@@ -174,7 +174,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First edited by Ganga Mohan Laskar<bibl rend="omitname"><ptr target="bib:Laskar1906_01"/><citedRange unit="page">88-91</citedRange></bibl>. Now re-edited by Arlo Griffiths and Ryosuke Furui based on the estampage published by Laskar.</p>
+           <p>First edited by Ganga Mohan Laskar (<bibl rend="omitname"><ptr target="bib:Laskar1906_01"/><citedRange unit="page">88-91</citedRange></bibl>). Now re-edited by Arlo Griffiths and Ryosuke Furui based on the estampage published by Laskar.</p>
         	<listBibl type="primary">
 		<bibl n="GML"><ptr target="bib:Laskar1906_01"/><citedRange unit="page">88-91</citedRange></bibl>
 	       </listBibl>

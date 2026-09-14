@@ -343,7 +343,7 @@
              </div>
          </div>
         <div type="bibliography">
-          <p>First published by S. B. Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1987_01"/></bibl> in Bengali. Re-edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2010_01"/></bibl> based on the photoprints acquired from Department of Archaeology, Govt. of Bangladesh, Dhaka. Now re-edited from the digital photograohs taken by Furui on 11/07/2013.</p>
+          <p>First published by S. B. Bhattacharya (<bibl rend="omitname"><ptr target="bib:Bhattacharya1987_01"/></bibl>) in Bengali. Re-edited by Ryosuke Furui (<bibl rend="omitname"><ptr target="bib:Furui2010_01"/></bibl>) based on the photoprints acquired from Department of Archaeology, Govt. of Bangladesh, Dhaka. Now re-edited from the digital photograohs taken by Furui on 11/07/2013.</p>
         	<listBibl type="primary">
 	   <bibl n="RF"><ptr target="bib:Furui2010_01"/></bibl>
 	</listBibl>

@@ -197,7 +197,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First notified with an eye copy, transcription and translation by E. Vesey Westmacott<bibl rend="omitname"><ptr target="bib:Westmacott1875_01"/></bibl>. Then re-edited and published by R. D. Banerji<bibl rend="omitname"><ptr target="bib:Banerji1910_02"/></bibl> first in Bengali and then by him<bibl rend="omitname"><ptr target="bib:Banerji1913-1914_03"/></bibl> in English. Then re-edited again by N. G. Majumdar<bibl rend="omitname"><ptr target="bib:Majumdar1929_01"/><citedRange unit="page">99-105</citedRange></bibl>. Now re-edited by Ryosuke Furui, based on the digital photographs provided by Bangiya Sahitya Parishat.</p>
+           <p>First notified with an eye copy, transcription and translation by E. Vesey Westmacott (<bibl rend="omitname"><ptr target="bib:Westmacott1875_01"/></bibl>). Then re-edited and published by R. D. Banerji (<bibl rend="omitname"><ptr target="bib:Banerji1910_02"/></bibl>) first in Bengali and then in English (<bibl rend="omitname"><ptr target="bib:Banerji1913-1914_03"/></bibl>). Then re-edited again by N. G. Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1929_01"/><citedRange unit="page">99-105</citedRange></bibl>). Now re-edited by Ryosuke Furui, based on the digital photographs provided by Bangiya Sahitya Parishat.</p>
         	<listBibl type="primary">
 	   <bibl n="RDB"><ptr target="bib:Banerji1913-1914_03"/></bibl>
         	    <bibl n="NGM"><ptr target="bib:Majumdar1929_01"/><citedRange unit="page">99-105</citedRange></bibl>

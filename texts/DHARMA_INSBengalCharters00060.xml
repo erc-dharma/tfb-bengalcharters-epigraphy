@@ -201,7 +201,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First edited by Md. Monirul Hok and Md. Abdul Kuddus<bibl rend="omitname"><ptr target="bib:Hok+Kuddus2006_01"/></bibl>from the original with a photographic reproduction; Krishnendu Ray<bibl rend="omitname"><ptr target="bib:Ray2009_01"/> </bibl> reproduced witout a proper permission an edition by Gouriswar Bhattacharya which had been presented at a seminar; re-edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2013_02"/></bibl> based on the photographs taken by himself; re-edited by Ryosuke Furui with revision based on the comments by Arlo Griffiths.</p>
+           <p>First edited by Md. Monirul Hok and Md. Abdul Kuddus (<bibl rend="omitname"><ptr target="bib:Hok+Kuddus2006_01"/></bibl>) from the original with a photographic reproduction; Krishnendu Ray (<bibl rend="omitname"><ptr target="bib:Ray2009_01"/> </bibl>) reproduced witout a proper permission an edition by Gouriswar Bhattacharya which had been presented at a seminar; re-edited by Ryosuke Furui (<bibl rend="omitname"><ptr target="bib:Furui2013_02"/></bibl>) based on the photographs taken by himself; re-edited by Ryosuke Furui with revision based on the comments by Arlo Griffiths.</p>
         	<listBibl type="primary">
 	   <bibl n="HK"><ptr target="bib:Hok+Kuddus2006_01"/></bibl>
         	   <bibl n="KR"><ptr target="bib:Ray2009_01"/></bibl>

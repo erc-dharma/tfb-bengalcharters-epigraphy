@@ -449,7 +449,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First notified and edited by Rajendra Lal Mitra<bibl rend="omitname"><ptr target="bib:Mitra1880_02"/><citedRange unit="page">144-151</citedRange></bibl>, then re-edited by K. M. Gupta<bibl rend="omitname"><ptr target="bib:Gupta1927-1928_01"/></bibl> and subsequently by Kamala Kanta Gupta<bibl rend="omitname"><ptr target="bib:Gupta1967_01"/><citedRange unit="page">153-180</citedRange></bibl>. Now re-edited by Ryosuke Furui on reading from the estampages attached to Mitra’s edition and the photographs taken by himself at Indian Museum.</p>
+           <p>First notified and edited by Rajendra Lal Mitra (<bibl rend="omitname"><ptr target="bib:Mitra1880_02"/><citedRange unit="page">144-151</citedRange></bibl>), then re-edited by K. M. Gupta (<bibl rend="omitname"><ptr target="bib:Gupta1927-1928_01"/></bibl>) and subsequently by Kamala Kanta Gupta (<bibl rend="omitname"><ptr target="bib:Gupta1967_01"/><citedRange unit="page">153-180</citedRange></bibl>). Now re-edited by Ryosuke Furui on reading from the estampages attached to Mitra’s edition and the photographs taken by himself at Indian Museum.</p>
         	<listBibl type="primary">
 	   <bibl n="RLM"><ptr target="bib:Mitra1880_02"/><citedRange unit="page">144-151</citedRange></bibl>
         	    <bibl n="KMG"><ptr target="bib:Gupta1927-1928_01"/></bibl>

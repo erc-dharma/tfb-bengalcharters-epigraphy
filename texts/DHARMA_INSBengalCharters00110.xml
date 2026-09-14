@@ -265,7 +265,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2011_03"/></bibl> based on reading from a set of photographs provided by the Department of Archaeology, Government of Bangladesh. Now re-edited by Ryosuke Furui from re-reading of the same set of photographs.</p>
+           <p>First edited by Ryosuke Furui (<bibl rend="omitname"><ptr target="bib:Furui2011_03"/></bibl>) based on reading from a set of photographs provided by the Department of Archaeology, Government of Bangladesh. Now re-edited by Ryosuke Furui from re-reading of the same set of photographs.</p>
         	<listBibl type="primary">
 		<bibl n="RF"><ptr target="bib:Furui2011_03"/></bibl>
 	       </listBibl>

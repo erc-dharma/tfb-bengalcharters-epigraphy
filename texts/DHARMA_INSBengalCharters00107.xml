@@ -374,7 +374,7 @@
              <p n="72">This line is around one line away from the line above.</p>
          </div>
         <div type="bibliography">
-           <p>First edited and published by  D. C. Sircar<bibl rend="omitname"><ptr target="bib:Sircar1973-1974_02"/></bibl>. Here re-edited by Ryosuke Furui on the estampages attached to <bibl><ptr target="bib:Sircar1973-1974_02"/></bibl> and <bibl><ptr target="bib:Sircar1982_01"/></bibl>, then on reading from photographs of the original plate taken by Ryosuke Furui in December 2023.</p>
+           <p>First edited and published by  D. C. Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1973-1974_02"/></bibl>). Here re-edited by Ryosuke Furui on the estampages attached to <bibl><ptr target="bib:Sircar1973-1974_02"/></bibl> and <bibl><ptr target="bib:Sircar1982_01"/></bibl>, then on reading from photographs of the original plate taken by Ryosuke Furui in December 2023.</p>
         	<listBibl type="primary">				
         	    <bibl n="DCS"><ptr target="bib:Sircar1973-1974_02"/></bibl>			
         	</listBibl>

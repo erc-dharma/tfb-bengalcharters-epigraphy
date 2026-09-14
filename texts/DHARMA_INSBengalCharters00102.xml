@@ -262,7 +262,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First edited by F. Kielhorn<bibl rend="omitname"><ptr target="bib:Kielhorn1892_03"/></bibl>from rubbings sent to the Asiatic Society of Bengal. Then re-edited by Nagendra Nath Vasu<bibl rend="omitname"><ptr target="bib:Vasu1898_02"/></bibl>, and then by Akshay Kumar Maitreya<bibl rend="omitname"><ptr target="bib:Maitreya1912_01"/><citedRange unit="page">91-100</citedRange></bibl>. Re-edited by R. D Banerji<bibl rend="omitname"><ptr target="bib:Banerji1917-1918_01"/></bibl> after thorough cleansing at the Indian Museum. Now re-edited by Ryosuke Furui based on reading from digital photographs taken by himself at the Indian Museum in December 2015.</p> 
+           <p>First edited by F. Kielhorn (<bibl rend="omitname"><ptr target="bib:Kielhorn1892_03"/></bibl>) from rubbings sent to the Asiatic Society of Bengal. Then re-edited by Nagendra Nath Vasu (<bibl rend="omitname"><ptr target="bib:Vasu1898_02"/></bibl>), and then by Akshay Kumar Maitreya (<bibl rend="omitname"><ptr target="bib:Maitreya1912_01"/><citedRange unit="page">91-100</citedRange></bibl>). Re-edited by R. D Banerji (<bibl rend="omitname"><ptr target="bib:Banerji1917-1918_01"/></bibl>) after thorough cleansing at the Indian Museum. Now re-edited by Ryosuke Furui based on reading from digital photographs taken by himself at the Indian Museum in December 2015.</p> 
         	<listBibl type="primary">
         	    <bibl n="FK"><ptr target="bib:Kielhorn1892_03"/></bibl>
         	    <bibl n="NNV"><ptr target="bib:Vasu1898_02"/></bibl>

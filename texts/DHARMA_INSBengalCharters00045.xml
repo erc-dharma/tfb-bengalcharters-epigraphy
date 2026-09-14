@@ -193,7 +193,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First edited unsatisfactorily by S. C. Mukherji <bibl rend="omitname"><ptr target="bib:Mukherji2001_01"/></bibl>, then edited by Ryosuke Furui <bibl rend="omitname"><ptr target="bib:Furui2013_04"/></bibl> with translation and study. Re-edited here by Ryosuke furui from the photographs taken by himself on 22/07/2017 and Adeline Levivier on 11/11/2019. Due to the poor condition of editing, S. C. Mukherji's edition is not consulted here.</p>
+           <p>First edited unsatisfactorily by S. C. Mukherji (<bibl rend="omitname"><ptr target="bib:Mukherji2001_01"/></bibl>), then edited by Ryosuke Furui (<bibl rend="omitname"><ptr target="bib:Furui2013_04"/></bibl>) with translation and study. Re-edited here by Ryosuke furui from the photographs taken by himself on 22/07/2017 and Adeline Levivier on 11/11/2019. Due to the poor condition of editing, S. C. Mukherji's edition is not consulted here.</p>
         	<listBibl type="primary">
 		<bibl n="RF"><ptr target="bib:Furui2013_04"/></bibl>
 	       </listBibl>

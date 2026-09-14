@@ -204,7 +204,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First edited and published by Gouriswar Bhattacharya<bibl rend="omitname"><ptr target="bib:Bhattacharya1993_01"/></bibl>, when it was held by a private collector. Now re-edited by Arlo Griffiths and Ryosuke Furui based on the reading from the photographs taken by Adeline Levivier at Ashmolean Museum, the present custodian, in June 2022.</p>
+           <p>First edited and published by Gouriswar Bhattacharya (<bibl rend="omitname"><ptr target="bib:Bhattacharya1993_01"/></bibl>), when it was held by a private collector. Now re-edited by Arlo Griffiths and Ryosuke Furui based on the reading from the photographs taken by Adeline Levivier at Ashmolean Museum, the present custodian, in June 2022.</p>
             <listBibl type="primary">
 	  <bibl n="GB"><ptr target="bib:Bhattacharya1993_01"/></bibl>
 	</listBibl>

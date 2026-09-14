@@ -328,7 +328,7 @@
             </div>
          </div>
         <div type="bibliography">
-           <p>First published by R. S. Mishra<bibl rend="omitname"><ptr target="bib:Mishra1981_01"/></bibl> and another edition was later published by S. Subramonia Iyer<bibl rend="omitname"><ptr target="bib:SubramoniaIyer2011-2012_01"/></bibl>. Re-edited by Ryosuke Furui<bibl rend="omitname"><ptr target="bib:Furui2016_02"/></bibl>.</p>
+           <p>First published by R. S. Mishra (<bibl rend="omitname"><ptr target="bib:Mishra1981_01"/></bibl>) and another edition was later published by S. Subramonia Iyer (<bibl rend="omitname"><ptr target="bib:SubramoniaIyer2011-2012_01"/></bibl>). Re-edited by Ryosuke Furui (<bibl rend="omitname"><ptr target="bib:Furui2016_02"/></bibl>).</p>
         	<listBibl type="primary">
 	   <bibl n="RF"><ptr target="bib:Furui2016_02"/></bibl>
         	   <bibl n="RSM"><ptr target="bib:Mishra1981_01"/></bibl>
