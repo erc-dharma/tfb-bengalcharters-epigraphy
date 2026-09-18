@@ -384,7 +384,7 @@ amwb : I agree with this reading
                        <rdg source="bib:Majumdar1935-1936_02 bib:Balogh2019_03">-dīnārā<supplied reason="omitted">n</supplied> vīthyāṁ</rdg><!-- 
                        amwb here the i seems to be short If so, i added a choice sic corr see photo dattakadinārāvīthyā l12.png
                        -->
-                       <rdg source="bib:Sircar1965_02">-dīnārā<supplied reason="omitted">n</supplied> <supplied reason="omitted">saṁgṛhya</supplied> vīthyāṁ</rdg>
+                       <rdg source="bib:Sircar1965_02">-dīnārā<supplied reason="omitted">n</supplied> <supplied reason="omitted">saṁgr̥hya</supplied> vīthyāṁ</rdg>
                    </app>
                    <app loc="12">
                        <lem source="bib:Majumdar1935-1936_02 bib:Balogh2019_03">°jyāsma<choice><sic>n</sic><corr>d</corr></choice>-vettra</lem><!--
@@ -430,7 +430,7 @@ amwb : I agree with this reading
                    </app>
                    <app loc="14">
                        <lem source="bib:Majumdar1935-1936_02 bib:Sircar1965_02 bib:Balogh2019_03"><sic>caturṣu</sic> dikṣu</lem>
-                       <note><bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> suggests reading <foreign>catur-dikṣu</foreign> or <foreign>catasṛṣu dikṣu</foreign>, while <bibl><ptr target="bib:Sircar1965_02"/></bibl> only suggests the second reading.</note>
+                       <note><bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> suggests reading <foreign>catur-dikṣu</foreign> or <foreign>catasr̥ṣu dikṣu</foreign>, while <bibl><ptr target="bib:Sircar1965_02"/></bibl> only suggests the second reading.</note>
                    </app>
                    <!--<app loc="14">
                        <lem source="bib:Majumdar1935-1936_02 bib:Balogh2019_03">bhavanti pū</lem><!-\-
@@ -477,7 +477,7 @@ amwb : I agree with this reading
                    </app>
                    <app loc="16">
                        <lem source="bib:Majumdar1935-1936_02 bib:Balogh2019_03">caturṣu dikṣu</lem>
-                        <note>As in line 14, <bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> suggests reading <foreign>catur-dikṣu</foreign> or <foreign>catasṛṣu dikṣu</foreign>, while <bibl><ptr target="bib:Sircar1965_02"/></bibl> only suggests the second reading.</note>
+                        <note>As in line 14, <bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> suggests reading <foreign>catur-dikṣu</foreign> or <foreign>catasr̥ṣu dikṣu</foreign>, while <bibl><ptr target="bib:Sircar1965_02"/></bibl> only suggests the second reading.</note>
                    </app>
                   <!-- <app loc="16">
                        <lem source="bib:Sircar1965_02 bib:Balogh2019_03">bhavanty<supplied reason="subaudible">.</supplied> evam</lem>
@@ -626,7 +626,7 @@ amwb : I agree with this reading
  	    <bibl><ptr target="bib:Chhabra1953-1954_01"/></bibl> discusses the identity of god glorified here. According to him, the buddhist obedience of the plate maintained by <bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl> is questionable and he prefers to attribute a brahmanical background to the donation. His arguments are :
  	    <list>
  	        <item>the mention of the five great sacrifices</item>
- 	        <item>the identity of the recipient : a Brahmin of the Kauṇḍinya <foreign>gotra</foreign>, belonging to the Bāhvṛca <foreign>śākha</foreign> of the <title>Ṛgveda</title></item>
+ 	        <item>the identity of the recipient : a Brahmin of the Kauṇḍinya <foreign>gotra</foreign>, belonging to the Bāhvr̥ca <foreign>śākha</foreign> of the <title>Ṛgveda</title></item>
  	        <item>Lokanātha is not only an epithet to designate Buddha, but can also refer to the gods Brahmā, Viṣṇu and Śiva</item>
  	        <item>the inconsistency between the paratext and the content of the plate : on one hand, a Buddhistic invocation and a Buddhistic seal and on the other hand, a brahmanical record </item>
  	    </list>
@@ -719,7 +719,7 @@ sion; adistrict.
              <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā Grant no. 1, year 159</ref> in the first line of the seal,
              <ref target="DHARMA_INSBengalCharters00051.xml">A grant of land in the Tāvīra district</ref> in line 1,
              <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur Charter of the Time of Budhagupta</ref> in line 1,
-             <ref target="DHARMA_INSBengalCharters00055.xml">A grant of land to monasteries at Śiṣīpuñja, Madhyamasṛgālikā and Grāmakūṭagohālī</ref>, line 1,
+             <ref target="DHARMA_INSBengalCharters00055.xml">A grant of land to monasteries at Śiṣīpuñja, Madhyamasr̥gālikā and Grāmakūṭagohālī</ref>, line 1,
              <ref target="DHARMA_INSBengalCharters00057.xml">A second grant concerning the Raktamālā estate</ref> in the first line of the seal,
              <ref target="DHARMA_INSBengalCharters00071.xml">Rajibpur Plate of Gopāla IV, year 2 and Madanapāla, year 2</ref> line 40 and
              <ref target="DHARMA_INSBengalCharters00075.xml">Manahali Plate of Madanapāla, year 8</ref> in line 35.
@@ -729,7 +729,7 @@ sion; adistrict.
              <p n="8">
                  We have been sollicited by the venerable <foreign>mahārāja</foreign> Vijayasena as follows:
              </p>
-             <p n="8-10">After having purchased it according to your <supplied reason="explanation">yuṣmabhir</supplied> legal proceeding <supplied reason="explanation"><foreign>yathānyāyena</foreign></supplied>,I wish to bestow eight <foreign>kulyavāpa</foreign>s in the village Vettragarttā belonging to this territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>  in the sake of the increase of my own merit and the one of both my mother and my father to be enjoyed in succession by sons and grandsons, thanks the practice of permanent endowment, to Vatsasvāmin, belonging to the R̥gveda tradition <supplied reason="explanation">Bāhvṛca</supplied>, disciple of Kauṇḍinya,<!--
+             <p n="8-10">After having purchased it according to your <supplied reason="explanation">yuṣmabhir</supplied> legal proceeding <supplied reason="explanation"><foreign>yathānyāyena</foreign></supplied>,I wish to bestow eight <foreign>kulyavāpa</foreign>s in the village Vettragarttā belonging to this territory <supplied reason="explanation"><foreign>vīthī</foreign></supplied>  in the sake of the increase of my own merit and the one of both my mother and my father to be enjoyed in succession by sons and grandsons, thanks the practice of permanent endowment, to Vatsasvāmin, belonging to the R̥gveda tradition <supplied reason="explanation">Bāhvr̥ca</supplied>, disciple of Kauṇḍinya,<!--
              amwb : or belonging to Kauṇḍinya lineage... could it be a reference to Kauṇḍinya author of the pañcārthabhāṣya, the commentator of the pāśupatasūtra
              -->in order to perform the five great sacrifices.  </p>
              <p n="10-11">Therefore, due to his requesting it has been ascertained by us : this is the method for the virtuous men who want to conquest the two worlds <supplied reason="subaudible">and</supplied> who have a lot of meritorious deeds. A sixth part of merit <supplied reason="subaudible">produced by it</supplied> is vested in His Majesty the sovereign Lord and also for us who are protecting <supplied reason="subaudible">this gift</supplied> from the conjunction of fame and welfare. </p>

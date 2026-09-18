@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>A grant of land to monasteries at Śiṣīpuñja, Madhyamasṛgālikā and Grāmakūṭagohālī</title>
+                <title>A grant of land to monasteries at Śiṣīpuñja, Madhyamasr̥gālikā and Grāmakūṭagohālī</title>
                 <respStmt>
                     <resp key="contributor">EpiDoc Encoding</resp>
                     <persName ref="part:amwb">
@@ -277,8 +277,8 @@
                      The expression <foreign>adhiṣṭhānādhikaraṇa</foreign> can be found in <ref target="DHARMA_INSBengalCharters00047.xml">Damodarpur plate #1</ref> line 4, <ref target="DHARMA_INSBengalCharters00048.xml">Damodarpur plate #2</ref> line 4, <ref target="DHARMA_INSBengalCharters00053.xml">Damodarpur #4</ref>, lines 3-4, <ref target="DHARMA_INSBengalCharters00056.xml">Damodarpur #5</ref> in the seal and line 4, and finally in <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur Charter of the Time of Budhagupta</ref> line 1. The different translations suggested for this expression are reported below :
 <p>
         <list>
-    <item><ref target="DHARMA_INSBengalCharters00047.xml">Damodarpur plate #1</ref> line 4:	<foreign>adhiṣṭhāṇādhikaraṇañ ca nagaraśreṣṭhidhṛtipāla</foreign> translated by <bibl><ptr target="bib:Bhandarkar1981_01"/></bibl> "<q>the Board of the town presiding over the Nagara-śreṣṭhin Dhṛtipāla</q>"</item>
-<item><ref target="DHARMA_INSBengalCharters00048.xml">Damodarpur plate #2</ref> line 4 : <foreign>adhiṣṭhānā<unclear>dhika</unclear>ra<unclear>ṇañ ca</unclear> nagara<unclear>śre</unclear>ṣṭhidhṛtipāla</foreign> translated by <bibl><ptr target="bib:Bhandarkar1981_01"/></bibl> <q>the Board of the Town, presiding over the Nagara-śreshṭhin Dhṛtipāla</q></item>
+    <item><ref target="DHARMA_INSBengalCharters00047.xml">Damodarpur plate #1</ref> line 4:	<foreign>adhiṣṭhāṇādhikaraṇañ ca nagaraśreṣṭhidhr̥tipāla</foreign> translated by <bibl><ptr target="bib:Bhandarkar1981_01"/></bibl> "<q>the Board of the town presiding over the Nagara-śreṣṭhin Dhr̥tipāla</q>"</item>
+<item><ref target="DHARMA_INSBengalCharters00048.xml">Damodarpur plate #2</ref> line 4 : <foreign>adhiṣṭhānā<unclear>dhika</unclear>ra<unclear>ṇañ ca</unclear> nagara<unclear>śre</unclear>ṣṭhidhr̥tipāla</foreign> translated by <bibl><ptr target="bib:Bhandarkar1981_01"/></bibl> <q>the Board of the Town, presiding over the Nagara-śreshṭhin Dhr̥tipāla</q></item>
 <item><ref target="DHARMA_INSBengalCharters00053.xml">Damodarpur #4</ref>, lines 3-4 : <foreign>adhiṣṭhānādhikaraṇa<supplied reason="lost">ṁ</supplied> nagaraśreṣṭhiribhupāla</foreign> translated by <bibl><ptr target="bib:Bhandarkar1981_01"/></bibl> <q>the court of the district town as the chief of the Nagara-śreṣṭhī Ribhupāla</q></item>
 <item> <ref target="DHARMA_INSBengalCharters00056.xml">Damodarpur #5</ref> seal : <foreign>koṭivarṣādhiṣṭhānādhi<unclear>karaṇa</unclear>sya</foreign> translated by <bibl><ptr target="bib:Basak1919-1920_01"/></bibl> <q>Of the office of the <foreign>adhiṣṭhāna</foreign> <supplied reason="explanation">capital</supplied> of Koṭivarsha</q></item>
 <item> <ref target="DHARMA_INSBengalCharters00056.xml">Damodarpur #5</ref>  line 4 : <foreign>adhiṣṭhānādhikaraṇa<supplied reason="lost">m</supplied> āryyya<unclear>na</unclear>gara<unclear>śreṣṭhi</unclear>ri<unclear>bhu</unclear>pāla</foreign> translated by <bibl><ptr target="bib:Basak1919-1920_01"/></bibl> "the affairs of the town <supplied reason="explanation"><foreign>adhiṣṭhāna</foreign></supplied> in the company of the Nagara-śrēshṭhin, Āryya Ribhupala"</item>

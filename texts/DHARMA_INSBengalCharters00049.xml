@@ -319,7 +319,7 @@ amwb : add abbr
 				</app>
 				<app loc="10">
 					<lem>°ṇayā Avadhr̥ta <space/></lem>
-					<!-- amwb: there is a space left blank at the end of the line, see photo vadhṛta space l10.png
+					<!-- amwb: there is a space left blank at the end of the line, see photo vadhr̥ta space l10.png
 					<lem>°ṇayā Avadhr̥ta <space/><lem/>
 					-->
 					<rdg source="bib:Balogh2019_03">°ṇayā Avadhr̥ta°</rdg>
@@ -518,7 +518,7 @@ and for offerings of perfume, incense, lamps and flowers — give</p>
 amwb: maybe "as well as" / "and also", it seems to me that "and" is too flat and that "api" expresses something more; indeed they ask more than kulyavāpa, they want kulyavāpa and two droṇavāpa introduced both by "api" and not "ca" 
 				--> in <supplied reason="subaudible">the hamlet</supplied> Śrī-Gohālī, to serve as parcel adjacent<!-- 
 amwb : I am wondering if vāṭaka could be translated by a "garden" or "park" because plant trees or give a garden or a park planted by trees is a meritorious deed and such parks seem to be create alongside temples cf. Dharmanibandha compilation about trees. For exemple :
-- Brick 2009 The Dānakāṇḍa (“Book on Gifting”) of the Kṛtyakalpataru: 21.1 Deviipuraa.na " a man that is wise should establish a park in accordance with the rite seen in the prescribed rules"  + 21.21  wells, parks, tanks, pools, ponds, refuges, etc. yield endless reward
+- Brick 2009 The Dānakāṇḍa (“Book on Gifting”) of the Kr̥tyakalpataru: 21.1 Deviipuraa.na " a man that is wise should establish a park in accordance with the rite seen in the prescribed rules"  + 21.21  wells, parks, tanks, pools, ponds, refuges, etc. yield endless reward
 - Brick 21.24 : Nandipuraa.na When a man builds a pleasure-park, a garden filled with flowers, that is equipped with a body of water, protected, and endowed with an abundance of fruits, he goes to the city of Śiva and dwells there for three Yugas.
 - Brick from 21.33 Matsyapuraa.na : a long description of rules "for establishing grounds for gardens"--> 
 					<supplied reason="subaudible">to the temple</supplied>, <!-- amwb: I replace ":" punctuation mark by a ","comma  --><note>
@@ -571,7 +571,7 @@ amwb : change parcel here if we change it by garden before
 amwb : for the compound talavaṭakādyarttham and the meaning of ādi, here it seems to me that translate ādi by etc. does not fit very well because the text never mentions another use of this land; maybe translate °ādi by mostly/mainly :  " to serve chiefly/mostly/mainly as garden adjacent (to the temple)" -->;
 </item>
 				<item>in <supplied reason="subaudible">the hamlet</supplied> Śrī-Gohālī,<note>
-					The place name Śrī-Gohālī can also be found in a <ref target="DHARMA_INSBengalCharters00050.xml">A fragment of a second plate from Baigram</ref> and in <ref target="DHARMA_INSBengalCharters00055.xml">A grant of land to monasteries at Śiṣīpuñja, Madhyamasṛgālikā and Grāmakūṭagohālī</ref>.
+					The place name Śrī-Gohālī can also be found in a <ref target="DHARMA_INSBengalCharters00050.xml">A fragment of a second plate from Baigram</ref> and in <ref target="DHARMA_INSBengalCharters00055.xml">A grant of land to monasteries at Śiṣīpuñja, Madhyamasr̥gālikā and Grāmakūṭagohālī</ref>.
 				</note> 
 					one <foreign>droṇavāpa</foreign> of inhabitable terrain;
 </item>
@@ -590,12 +590,12 @@ shall limit them in the four directions
 with long-lasting markers such as <supplied reason="explanation">pots filled with</supplied><note>
 This interpretation is based on the Smr̥ti passages cited in the commentary. Others sources give details about the manner to mark boundaries. For example, <title>Manusmr̥ti</title> 8.249-50 suggests demarcating boundaries by several objects (translation <bibl><ptr target="bib:Olivelle2005_01"/></bibl>) : 
 <q><foreign>upachannāni cānyāni sīmāliṅgāni kārayet</foreign> <g ref="sym:bar" type="punctuation">.</g>
-<foreign>sīmājñāne nṛṇāṁ vīkṣya nityaṁ loke viparyayam</foreign> <g ref="sym:doubleBar" type="punctuation">.</g></q>
+<foreign>sīmājñāne nr̥ṇāṁ vīkṣya nityaṁ loke viparyayam</foreign> <g ref="sym:doubleBar" type="punctuation">.</g></q>
 <q><foreign>aśmano 'sthīni govālāṁs tuṣān bhasma kapālikāḥ</foreign> <g ref="sym:bar" type="punctuation">.</g>
 <foreign>karīṣam iṣṭakāṅgārāṁś śarkarā vālukās tathā</foreign> <g ref="sym:doubleBar" type="punctuation">.</g></q>
 <q>Seeing that in the world controversies constantly arise due to people's ignorance of boundaries, he should also have other concealed boundary markers ensconced stones, bones, cow's hair, chaff, ashes, potsherds, dried cow dung, bricks, coal <supplied reason="explanation"><foreign>aṅgāra</foreign></supplied>, pebbles, and sand.</q>
 <p>Yājñavalkya's <title>Dharmaśāstra</title> 2.154-5 gives also a list of materials used to mark boundaries (translation <bibl><ptr target="bib:Olivelle2019_01"/></bibl>):</p>
-	<q><foreign>sīmno vivāde kṣetrasya sāmantāḥ sthavirā gaṇāḥ</foreign> <g ref="sym:bar" type="punctuation">.</g> <foreign>gopāḥ sīmnaḥ kṛśāno'nye sarve ca vanagocarāḥ</foreign> <g ref="sym:doubleBar" type="punctuation">.</g></q>
+	<q><foreign>sīmno vivāde kṣetrasya sāmantāḥ sthavirā gaṇāḥ</foreign> <g ref="sym:bar" type="punctuation">.</g> <foreign>gopāḥ sīmnaḥ kr̥śāno'nye sarve ca vanagocarāḥ</foreign> <g ref="sym:doubleBar" type="punctuation">.</g></q>
 	<q><foreign>nayeyur ete sīmāntaṁ sthalāṅgāratuṣadrumaiḥ</foreign> <g ref="sym:bar" type="punctuation">.</g> <foreign>setuvalmīkanimnāsthicaityādyair upalakṣitam</foreign> <g ref="sym:doubleBar" type="punctuation">.</g></q>
 	<q>When there is a dispute regarding a boundary of a field, neighbours, elderly people, persons from an association, herdmen, others famers near the boundary, and all men roaming in the forest should ascertain the boundary revealed by mounds <supplied reason="explanation"><foreign>sthala</foreign></supplied>, charcoal <supplied reason="explanation"><foreign>aṅgāra</foreign></supplied>, chaff <supplied reason="explanation"><foreign>tuṣa</foreign></supplied>, and trees, and by dikes, anthills, trenches, bones, shrines, and the like. </q>.
 See also <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="note">7</citedRange><citedRange unit="page">358</citedRange></bibl>
@@ -625,7 +625,7 @@ You, excellent Yudhiṣṭhira, must strenuously protect land previously given t
 		<div type="commentary">
 			<p>Regarding the indication <foreign>ninna ku 3 sthala dro 2 </foreign>(line 17), in <bibl><ptr target="bib:Basak1931-1932_01"/></bibl> one reads the following note: <quote>This word (<foreign>ninna</foreign>) put before the abbreviated totalisation of the amount of land purchased does not appear to me explicable. [<foreign>Phuṭṭa</foreign> (= Skt. <foreign>sphuṭṭa</foreign>) in line 7 would suggest that it might stand for Skt. <foreign>nimna</foreign> meaning low land.—Ed.]</quote>. The editor’s hypothesis is confirmed by the fact that <foreign>nimna</foreign> and <foreign>sthala</foreign> form a fixed pair. See <title>Rāmāyaṇa</title> 6.93.19 <foreign>sthalanimnāni bhūmeś ca</foreign>, but particularly these stanzas from the <title>Nāradasmr̥ti</title> (11.3–5):
 			</p>
-			<p><q><foreign>grāmasīmāsu ca bahir ye syus tatkṛṣijīvinaḥ |
+			<p><q><foreign>grāmasīmāsu ca bahir ye syus tatkr̥ṣijīvinaḥ |
 gopaśākunikavyādhā ye cānye vanagocarāḥ ||
 samunnayeyus te sīmāṁ lakṣaṇair upalakṣitām |
 <hi rend="bold">tuṣāṅgāra</hi>kapālaiś ca kumbhair āyatanair drumaiḥ ||
@@ -643,7 +643,7 @@ kedārārāmamārgaiś ca purāṇaiḥ setubhis tathā ||</foreign></q>
 <p n="4" rend="stanza">By such visible signs as these a boundary line should always be caused to be marked; also, by other <supplied reason="explanation">marks</supplied> deposited underground which the earth is not likely to destroy.</p>
 <p n="5" rend="stanza"> Dry cowdung, bones, chaff, charcoal, stones, potsherds, sand, bricks, cows’ tails, cotton seeds, and ashes:</p>
 <p n="6" rend="stanza">After having placed these substances in vessels, one should deposit them underground at the extremities of the boundary.<note>
-These translated stanzas seem to correspond to the following in the <title>Br̥haspatismṛti</title> as reconstructed by <bibl><ptr target="bib:Aiyangar1941_01"/></bibl>, <title>Vyavahārakāṇḍa</title>, chapter 19, pp. 159–162:
+These translated stanzas seem to correspond to the following in the <title>Br̥haspatismr̥ti</title> as reconstructed by <bibl><ptr target="bib:Aiyangar1941_01"/></bibl>, <title>Vyavahārakāṇḍa</title>, chapter 19, pp. 159–162:
 <p><foreign>krayavikrayānuśaye vidhir eṣa pradarśitaḥ</foreign> | 
 <foreign>grāmakṣetragr̥hādīnāṁ sīmāvādaṁ nibodhata</foreign> || 1 ||</p>
 <p><foreign>niveśakāle kartavyaḥ sīmābandhaviniścayaḥ</foreign> | 
