@@ -212,7 +212,7 @@
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
             <listBibl type="surrogates">
-                <bibl><ref target="https://doi.org/10.34847/NKL.4C3142FM">Levivier, A. (2025). INSBengalCharters00060 (Version 1) [Graphic]. NAKALA - (Huma-Num - CNRS). </ref></bibl>
+                <ref target="https://doi.org/10.34847/NKL.4C3142FM">Levivier, A. (2025). INSBengalCharters00060 (Version 1) [Graphic]. NAKALA - (Huma-Num - CNRS). </ref>
             </listBibl>
         </div>
       </body>
