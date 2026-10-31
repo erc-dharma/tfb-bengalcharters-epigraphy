@@ -60,6 +60,7 @@
          <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
       </encodingDesc>
         <revisionDesc>
+            <change who="part:ryfu" when="2026-10-31" status="draft">Surrogates encoding modified.</change>
             <change who="part:axja" when="2019-12-18" status="draft">Initial encoding</change>
             <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
         </revisionDesc>
@@ -101,7 +102,7 @@
                <bibl><ptr target="bib:SharifulIslam2010_01"/></bibl>
            </listBibl>
             <listBibl type="surrogates">
-                <bibl>Levivier, A. (2025). INSBengalCharters00046 (Version 1) [Graphic]. NAKALA - <ref target="https://nakala.fr"> https://nakala.fr (Huma-Num - CNRS). </ref> <ref target="https://doi.org/10.34847/NKL.F29FX9G1">https://doi.org/10.34847/NKL.F29FX9G1</ref></bibl>
+                <ref target="https://doi.org/10.34847/NKL.F29FX9G1">Levivier, A. (2025). INSBengalCharters00046 (Version 1) [Graphic]. NAKALA -  (Huma-Num - CNRS).</ref>
             </listBibl>
         </div>
       </body>

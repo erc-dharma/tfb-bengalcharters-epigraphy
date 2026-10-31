@@ -51,6 +51,7 @@
          <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
       </encodingDesc>
 		<revisionDesc>
+			<change who="part:ryfu" when="2026-10-31" status="draft">Surrogates encoding modified.</change>
 			<change who="part:argr" when="2026-06-12" status="draft">Surrogates added</change>
 			<change who="part:ryfu" when="2026-05-27" status="draft">Script information added</change>
 			<change when="2021-12-27" who="part:argr" status="draft">finished encoding the edition.</change>
@@ -122,7 +123,7 @@ daba: "1. I'm very hesitant about tr̥tīya/dvitīya in line 2. It seems pretty 
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
 	<listBibl type="surrogates">
-              <bibl>Levivier, A. (2025). INSBengalCharters00124 (Version 1) [Image]. NAKALA - <ref target="https://nakala.fr">https://nakala.fr</ref> (Huma-Num - CNRS). <ref target="https://doi.org/10.34847/NKL.91C7A1A0">https://doi.org/10.34847/NKL.91C7A1A0</ref>.</bibl>
+              <ref target="https://doi.org/10.34847/NKL.91C7A1A0">Levivier, A. (2025). INSBengalCharters00124 (Version 1) [Image]. NAKALA - (Huma-Num - CNRS).</ref>
            </listBibl>
         </div>
       </body>
